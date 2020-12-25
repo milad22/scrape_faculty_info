@@ -30,7 +30,7 @@ def FindNodeWithMaxBranch(parent, nodes = []):
 
 unis_dataframe = pd.read_excel('Physics_departments.xlsx', na_values = 'None')
 general_log_file = open('log_file_txt', mode='w')
-dep_faculty_data = [] #This gona be list of list of faculty information and will be passed to a panda data frame at end
+dep_faculty_data = [] #This gonna be list of list of faculty information and will be passed to a panda data frame at end
 for index, row in unis_dataframe.iterrows():
     uni = row['University']
     logfile_name = uni + 'log.txt'
