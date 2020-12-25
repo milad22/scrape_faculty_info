@@ -5,27 +5,18 @@ import pandas as pd
 from lxml import html 
 import re 
 
-def MakeFacultyXpath(string,n,sep):
-    strs = string.split(sep)
-    joined_str = ''
-    for i in range(1,len(strs)):
-        joined_str = str(n) + strs[i]
-    joined_str = strs[0] + joined_str
-
-    return joined_str
-
-def IsUrl(string):
+def is_url(string):
     if ('http' in string) or ('https' in string):
         return True
     else:
         return False
 
-def FindNodeWithMaxBranch(parent, nodes = []):
+def find_node_with_max_branch(parent, nodes = []):
         children = parent.xpath('child::*')
         if len(children) > 0:
             nodes.append(len(children))
             for child in children:
-                FindNodeWithMaxBranch(child)
+                find_node_with_max_branch(child)
         return max(nodes)
 
 unis_dataframe = pd.read_excel('Physics_departments.xlsx', na_values = 'None')
@@ -67,7 +58,7 @@ for index, row in unis_dataframe.iterrows():
     # The idea is that the html element which has the maximum children in the html
     # is in fact the parent element for the list or table of faculty
     #first we find the node with maximum child in the html body and set it to faculty number
-    fac_number = FindNodeWithMaxBranch(body)
+    fac_number = find_node_with_max_branch(body)
     logfile.write("faculty number is {}\n".format(fac_number))
     general_log_file.write("faculty number for {} is {}\n".format(uni,fac_number))
     #now we select the node with the maximum children 
@@ -99,7 +90,7 @@ for index, row in unis_dataframe.iterrows():
         #Remove the duplicated urls so the we don't visit a webpage multiple times
         #We also remove the urls which doesn't start with http or https (eg. emails)
         urls = []
-        [urls.append(x) for x in all_urls if (x not in urls and IsUrl(x))] 
+        [urls.append(x) for x in all_urls if (x not in urls and is_url(x))] 
         logfile.write("Number of filtered urls is: {}\n".format(len(urls)))
         logfile.write("Grabbed urls are {}\n".format(urls))
         
