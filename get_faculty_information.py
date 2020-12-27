@@ -19,6 +19,25 @@ def find_node_with_max_branch(parent, nodes = []):
                 find_node_with_max_branch(child)
         return max(nodes)
 
+def fetch_faculty_page_content(url):
+    content =''
+    driver = webdriver.Firefox()
+    try:
+        driver.get(url)
+        #We assume the research interst content is in paragraph content
+        try:
+            paragraphs = driver.find_elements_by_xpath('//p')
+            for paragraph in paragraphs:
+                content += ' ' + paragraph.text
+        except:
+            pass
+    except:
+        pass
+    driver.close()
+    return content
+
+
+
 unis_dataframe = pd.read_excel('Physics_departments.xlsx', na_values = 'None')
 general_log_file = open('log_file_txt', mode='w')
 dep_faculty_data = [] #This gonna be list of list of faculty information and will be passed to a panda data frame at end
@@ -81,40 +100,6 @@ for index, row in unis_dataframe.iterrows():
                                         of the node with max children in the HTML source'''
     
     for child in children:
-        all_urls = child.xpath('*//@href')
-        logfile.write("{} number of urls were selected\n".format(len(all_urls)))
-        #Some website urls missing one part of urls. It usually comes fro aurl wrapper
-        #We need to add it here 
-        for url in all_urls:
-            url = url_prefix + url 
-        #Remove the duplicated urls so the we don't visit a webpage multiple times
-        #We also remove the urls which doesn't start with http or https (eg. emails)
-        urls = []
-        [urls.append(x) for x in all_urls if (x not in urls and is_url(x))] 
-        logfile.write("Number of filtered urls is: {}\n".format(len(urls)))
-        logfile.write("Grabbed urls are {}\n".format(urls))
-        
-        general_log_file.write("Number of links feched for faculty is {}\n".format(len(urls)))
-        #visit each link in faculty information to collect the faculty research intrest
-        #We assume these links leads us to the faculty personal webpage
-        research_intrest = ''
-        for url in urls:
-            logfile.write("scraping following url for faculty interests: {}\n".format(url))
-            driver1 = webdriver.Firefox()
-            try:
-                driver1.get(url)
-                time.sleep(random.randint(7,15))
-                #We assume the research interst content is in paragraph content
-                try:
-                    paragraphs = driver1.find_elements_by_xpath('//p')
-                    for paragraph in paragraphs:
-                        research_intrest += ' ' + paragraph.text
-                except:
-                    pass
-            except:
-                pass
-            driver1.close()
-        #Now we scrap the faculty information on the main page, We may have done it first :) 
         #Some the scraped content may not be text and just tab or new line. We filter it as proceed
         faculty_data = []
         faculty_data.append(uni)
@@ -126,7 +111,23 @@ for index, row in unis_dataframe.iterrows():
                     faculty_data.append(text)
         except:
             all_text = ''
-        
+        all_urls = child.xpath('*//@href')
+        logfile.write("{} number of urls were selected\n".format(len(all_urls)))
+        #Remove the duplicated urls so the we don't visit a webpage multiple times
+        #We also remove the urls which doesn't start with http or https (eg. emails)
+        urls = []
+        [urls.append(x) for x in all_urls if (x not in urls and is_url(x))] 
+        logfile.write("Number of filtered urls is: {}\n".format(len(urls)))
+        logfile.write("Grabbed urls are {}\n".format(urls))
+        general_log_file.write("Number of links feched for faculty is {}\n".format(len(urls)))
+        #visit each link in faculty information to collect the faculty research intrest
+        #We assume these links leads us to the faculty personal webpage
+        research_intrest = ''
+        for url in urls:
+            logfile.write("scraping following url for faculty interests: {}\n".format(url))
+            research_intrest += fetch_faculty_page_content(url)
+            time.sleep(random.randint(7,15))
+
         #Glue the faculty research intrests to faculty data
         faculty_data.append(research_intrest)
         #append the faculty data to the list of faculty data 
