@@ -36,13 +36,12 @@ def fetch_faculty_page_content(url):
     driver.close()
     return content
 
-
-
 unis_dataframe = pd.read_excel('Physics_departments.xlsx', na_values = 'None')
 general_log_file = open('log_file_txt', mode='w')
 dep_faculty_data = [] #This gonna be list of list of faculty information and will be passed to a panda data frame at end
 for index, row in unis_dataframe.iterrows():
     uni = row['University']
+    personal_image_number = row['directory_page_personal_photo_count']
     logfile_name = uni + 'log.txt'
     logfile = open(logfile_name, mode='w')
     logfile.write("University is; {}\n".format(uni))
@@ -58,7 +57,6 @@ for index, row in unis_dataframe.iterrows():
     #open the main web browser
     driver.get(dep_url)
     time.sleep(random.randint(10,15))
-    #fac_number = len(driver.find_elements_by_xpath(general_xpath)) # number of the faculties
     try:
         page_source = driver.page_source
         logfile.write("Found the HTML source\n")
