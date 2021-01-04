@@ -89,7 +89,7 @@ for index, row in unis_dataframe.iterrows():
     logfile.write("University is; {}\n".format(uni)) 
     print(uni)
     html_path = webpages_path + uni + '.html'
-    page_source = ''
+    page_source = '' 
     try:
         f = open(html_path, mode='r')
         for line in f.readlines():
@@ -97,12 +97,23 @@ for index, row in unis_dataframe.iterrows():
         print("Established the HTML source\n")
         logfile.write("Established the HTML source\n")
         f.close()
+    #In case it couldn't read html, try to to open a web browser to read the html source 
     except:
-        print("Couldn't find HTML source for {}\n".format(uni))
-        stat.fail_reason = "Couldn't find HTML source"
-        stat_writer.writerow(stat.stat())
-        logfile.close()
-        continue
+        try:
+            print("Couldn't read HTML source for {}\n".format(uni))
+            print("Tries openning a webdriver to get the html source\n")
+            directory_url = row['url']
+            driver = webdriver.Firefox()
+            #open the main web browser
+            driver.get(directory_url)
+            time.sleep(random.randint(10,15))
+            page_source = driver.page_source
+            driver.close()
+        except:
+            stat.fail_reason = "Couldn't read HTML source even with the web driver"
+            stat_writer.writerow(stat.stat())
+            logfile.close()
+            continue
     source_tree = None
     source_tree = html.fromstring(page_source)
     if source_tree != None:
@@ -174,6 +185,11 @@ for index, row in unis_dataframe.iterrows():
         try:
             all_text = (child.xpath('descendant::text()'))
             for text in all_text:
+                #safeguard for not writing crazy long strings in a office cell
+                #The maximum charachter length for libre office is 65535
+                #ref:https://ask.libreoffice.org/en/question/22405/what-is-the-maximum-number-of-characters-in-a-calc-cell/#:~:text=For%20many%20versions%20the%20maximum,relevant%20limit%20to%20that%20number.
+                if len(text) > 60000:
+                    continue
                 result = (re.search(r"[a-z]|[A-Z]|[0-9]", text))
                 if result != None:
                     text = " ".join(text.split())

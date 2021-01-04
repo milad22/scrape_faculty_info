@@ -1,46 +1,33 @@
-
-
 from selenium import webdriver
 import time
 import random
 import pandas as pd
 from lxml import html 
-import re
-# parent = '//*[@id="middle-column"]/div[6]/div[2]/div[2]/div[2]/div'
-# all_links_in_parent = '//*[@id="middle-column"]/div[6]/div[2]/div[2]/div[2]/div//@href'
-# all_children_of_parent = '//*[@id="middle-column"]/div[6]/div[2]/div[2]/div[2]/div/*'
-# #itrate over childeren 
+import re 
+import os
+import csv 
 
+class UniScrappedDataStat:
+    def __init__(self, name = None, url_count = None, 
+                faculty_count = None, image_count = None, fail_reason=None):
+                if name is None:
+                    name = ''
+                self.name = name
+                if url_count is None:
+                    url_count = 0
+                self.url_count= url_count
+                if faculty_count is None:
+                    faculty_count = 0
+                self.faculty_count = faculty_count
+                if image_count is None:
+                    image_count = 0
+                self.image_count = image_count
+                if fail_reason is None:
+                    fail_reason = 'None'
+                self.fail_reason = fail_reason
+    
+    def csv_heading_list(self):
+        return ['University name','faculty count','personal images count','scrapped urls count','fail reason']
 
-# url = 'http://web.mit.edu/physics/people/faculty/index.html'
-
-# doc = open('MIT_Department_of_Physics.html', mode='r')
-# page = doc.read()
-
-# tree = html.fromstring(page)
-# parent = tree.xpath('//*[@id="middle-column"]/div[6]/div[2]/div[2]/div[2]/div')[0]
-
-# children = parent.xpath('./*')
-# for child in children:
-#     print(child.xpath('*//text()'))
-#     #print(child.xpath('*//@href'))
-
-# # tree = html.fromstring(page)
-
-# # children = tree.xpath('//*[@id="middle-column"]/div[6]/div[2]/div[2]/div[2]/div/*')
-# # for child in children:
-# #     #print(child.xpath('*//text()'))
-# #     print(child.xpath('*//@href'))
-
-# doc.close()
-
-#uni_file = open('Physics_departments.xlsx', mode = 'r')
-unis_dataframe = pd.read_excel('Physics_departments.xlsx', na_values = 'None')
-for index, row in unis_dataframe.iterrows():
-    print(row['url'])
-
-
-
-
-
-
+    def stat(self):
+        return [self.name, self.faculty_count ,self.image_count, self.url_count, self.fail_reason]

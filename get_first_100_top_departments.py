@@ -46,19 +46,3 @@ f.close()
 
 
 
-
-
-
-
-
-
-
-#/html/body/div[1]/div/section/main/div/div/section/div[2]/ol/li[10]
-#/html/body/div[1]/div/section/main/div/div/section/div[2]/ol/li[9]/section/div/a/div[2]/h2
-#/html/body/div[2]/div/div[2]/div[2]/div[2]/table/tbody/tr[9]/td[1]/p[1]/strong
-#/html/body/div[2]/div/div[2]/div[2]/div[2]/table/tbody
-#/html/body/div[1]/div/section/main/div/div/section/div[2]/ol/li[2]/section/div/a/div[2]/h2
-#/html/body/div[1]/div/section/main/div/div/section/div[2]/ol/li[1]/section/div/a/div[2]/ul[1]/li[1]/text()
-#/html/body/div[1]/div/section/main/div/div/section/div[2]/ol/li[3]/section/div/a/div[2]/ul[1]/li[1]/text()
-
-
