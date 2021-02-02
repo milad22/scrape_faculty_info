@@ -1,0 +1,66 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "q1NsNm4AAAAJ",
+            "Douglas Shepherd",
+            "Assistant Professor, Arizona State University",
+            "@asu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=q1NsNm4AAAAJ",
+            1046,
+            [
+                "light sheet fluorescence microscopy",
+                "RNA-FISH",
+                "computational modeling of single cell gene expression"
+            ],
+            1001,
+            10,
+            9,
+            10,
+            9,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Jm0csaIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Brian Munsky",
+                    "affiliation":"Colorado State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"x87I1j4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"James Werner",
+                    "affiliation":"Los Alamos National Laboratory"
+                }
+            ]
+        ]
+    ]
+}

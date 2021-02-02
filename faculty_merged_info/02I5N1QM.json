@@ -1,0 +1,30 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "02I5N1QM",
+            "8vs5HGYAAAAJ",
+            [
+                "Distinctive image features from scale-invariant keypoints"
+            ],
+            [
+                "This paper presents a method for extracting distinctive invariant features from images that can be used to perform reliable matching between different views of an object or scene. The features are invariant to image scale and rotation, and are shown to provide robust matching across a substantial range of affine distortion, change in 3D viewpoint, addition of noise, and change in illumination. The features are highly distinctive, in the sense that a single feature can be correctly matched with high probability against a large database of features from many images. This paper also describes an approach to using these features for object recognition. The recognition proceeds by matching individual features to a database of features from known objects using a fast nearest-neighbor algorithm, followed by a Hough transform to identify clusters belonging to a single object, and finally performing verification through \u2026"
+            ],
+            [
+                [
+                    "Computer Vision",
+                    "Object Recognition"
+                ]
+            ]
+        ]
+    ]
+}

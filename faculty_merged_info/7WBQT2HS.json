@@ -1,0 +1,34 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "7WBQT2HS",
+            "6_i63vgAAAAJ",
+            [
+                "IPython: a system for interactive scientific computing",
+                "Jupyter Notebooks-a publishing format for reproducible computational workflows."
+            ],
+            [
+                "Python offers basic facilities for interactive work and a comprehensive library on top of which more sophisticated systems can be built. The IPython project provides on enhanced interactive environment that includes, among other features, support for data visualization and facilities for distributed and parallel computation",
+                "It is increasingly necessary for researchers in all fields to write computer code, and in order to reproduce research results, it is important that this code is published. We present Jupyter notebooks, a document format for publishing code, results and explanations in a form that is both readable and executable. We discuss various tools and use cases for notebook documents."
+            ],
+            [
+                [
+                    "Physics",
+                    "Interactive Computing",
+                    "Open-Source",
+                    "Visualization"
+                ]
+            ]
+        ]
+    ]
+}

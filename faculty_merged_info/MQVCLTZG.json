@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "MQVCLTZG",
+            "KieDSO0AAAAJ",
+            [
+                "One-loop n-point gauge theory amplitudes, unitarity and collinear limits",
+                "Fusing gauge theory tree amplitudes into loop amplitudes",
+                "New relations for gauge-theory amplitudes",
+                "Iteration of planar amplitudes in maximally supersymmetric Yang-Mills theory at three loops and beyond",
+                "The computation of loop amplitudes in gauge theories",
+                "Automated implementation of on-shell methods for one-loop amplitudes",
+                "Dimensionally-regulated pentagon integrals",
+                "Perturbative quantum gravity as a double copy of gauge theory",
+                "One-loop amplitudes for e+ e\u2212 to four partons",
+                "Four-loop planar amplitude and cusp anomalous dimension in maximally supersymmetric Yang-Mills theory"
+            ],
+            [
+                "We present a technique which utilizes unitarity and collinear limits to construct ans\u00e4tze for one-loop amplitudes in gauge theory. As an example, we obtain the one-loop contribution to amplitudes for n-gluon scattering in N = 4 supersymmetric Yang-Mills theory with the helicity configuration of the Parke-Taylor tree amplitudes. We prove that our N = 4 ansatz is correct using general properties of the relevant one-loop n-point integrals. We also give the \u201csplitting amplitudes\u201d which govern the collinear behavior of one-loop helicity amplitudes in gauge theories.",
+                "We identify a large class of one-loop amplitudes for massless particles that can be constructed via unitarity from tree amplitudes, without any ambiguities. One-loop amplitudes for massless supersymmetric gauge theories fall into this class; in addition, many non-supersymmetric amplitudes can be rearranged to take advantage of the result. As applications, we construct the one-loop amplitudes for n-gluon scattering in N = 1 supersymmetric theories with the helicity configuration of the Parke-Taylor tree amplitudes, and for six-gluon scattering in N = 4 super-Yang-Mills theory for all helicity configurations.",
+                "We present an identity satisfied by the kinematic factors of diagrams describing the tree amplitudes of massless gauge theories. This identity is a kinematic analog of the Jacobi identity for color factors. Using this we find new relations between color-ordered partial amplitudes. We discuss applications to multiloop calculations via the unitarity method. In particular, we illustrate the relations between different contributions to a two-loop four-point QCD amplitude. We also use this identity to reorganize gravity tree amplitudes diagram by diagram, offering new insight into the structure of the Kawai-Lewellen-Tye (KLT) relations between gauge and gravity tree amplitudes. This insight leads to similar but novel relations. We expect this to be helpful in higher-loop studies of the ultraviolet properties of gravity theories.",
+                "We compute the leading-color (planar) three-loop four-point amplitude of N= 4 supersymmetric Yang-Mills theory in 4\u2212 2 \u03f5 dimensions, as a Laurent expansion about \u03f5= 0 including the finite terms. The amplitude was constructed previously via the unitarity method, in terms of two Feynman loop integrals, one of which has been evaluated already. Here we use the Mellin-Barnes integration technique to evaluate the Laurent expansion of the second integral. Strikingly, the amplitude is expressible, through the finite terms, in terms of the corresponding one-and two-loop amplitudes, which provides strong evidence for a previous conjecture that higher-loop planar N= 4 amplitudes have an iterative structure. The infrared singularities of the amplitude agree with the predictions of Sterman and Tejeda-Yeomans based on resummation. Based on the four-point result and the exponentiation of infrared singularities, we give an \u2026",
+                "We present a detailed derivation of a new and efficient technique based on the technology of four-dimensional heterotic strings, for computing one-loop amplitudes in gauge theories, along with expressions for the one-loop dimensionally regularized helicity amplitudes for the process with four external gluons. We also give a set of computational rules pre-supposing ignorance of string theory.",
+                "We present the first results from BlackHat, an automated C++ program for calculating one-loop amplitudes. The program implements the unitarity method and on-shell recursion to construct amplitudes. As input to the calculation, it uses compact analytic formul\u00e6 for tree amplitudes for four-dimensional helicity states. The program performs all related computations numerically. We make use of recently developed on-shell methods for evaluating coefficients of loop integrals, introducing a discrete Fourier projection as a means of improving efficiency and numerical stability. We illustrate the numerical stability of our approach by computing and analyzing six-, seven-, and eight-gluon amplitudes in QCD and comparing against previously obtained analytic results.",
+                "We present methods for evaluating the Feynman parameter integrals associated with the pentagon diagram in 4-2\u2208 dimensions, along with explicit results for the integrals with all masses vanishing or with one non-vanishing external mass. The scalar pentagon integral can be expressed as a linear combination of box integrals, up to O(\u2208) corrections, a result which is the dimensionally-regulated version of a D = 4 result of Melrose, and of van Neerven and Vermaseren. We obtain and solve differential equations for various dimensionally-regulated box integrals with massless internal lines, which appear in one-loop n-point calculations in QCD. We give a procedure for constructing the tensor pentagon integrals needed in gauge theory, again through O(\u22080).",
+                "In a previous paper we observed that (classical) tree-level gauge-theory amplitudes can be rearranged to display a duality between color and kinematics. Once this is imposed, gravity amplitudes are obtained using two copies of gauge-theory diagram numerators. Here we conjecture that this duality persists to all quantum loop orders and can thus be used to obtain multiloop gravity amplitudes easily from gauge-theory ones. As a nontrivial test, we show that the three-loop four-point amplitude of N= 4 super-Yang-Mills theory can be arranged into a form satisfying the duality, and by taking double copies of the diagram numerators we obtain the corresponding amplitude of N= 8 supergravity. We also remark on a nonsupersymmetric two-loop test based on pure Yang-Mills theory resulting in gravity coupled to an antisymmetric tensor and dilaton.",
+                "We present the first explicit formul\u00e6 for the complete set of one-loop helicity amplitudes necessary for computing next-to-leading order corrections for e+e\u2212 annihilation into four jets, for W, Z or Drell-Yan production in association with two jets at hadron colliders, and for three-jet production in deeply inelastic scattering experiments. We include a simpler form of the previously published amplitudes for e+e\u2212 to four quarks. We obtain the amplitudes using their analytic properties to constrain their form. Systematically eliminating spurious poles from the amplitudes leads to relatively compact results.",
+                "We present an expression for the leading-color (planar) four-loop four-point amplitude of N= 4 supersymmetric Yang-Mills theory in 4\u2212 2 \u03f5 dimensions, in terms of eight separate integrals. The expression is based on consistency of unitarity cuts and infrared divergences. We expand the integrals around \u03f5= 0, and obtain analytic expressions for the poles from 1\/\u03f5 8 through 1\/\u03f5 4. We give numerical results for the coefficients of the 1\/\u03f5 3 and 1\/\u03f5 2 poles. These results all match the known exponentiated structure of the infrared divergences, at four separate kinematic points. The value of the 1\/\u03f5 2 coefficient allows us to test a conjecture of Eden and Staudacher for the four-loop cusp (soft) anomalous dimension. We find that the conjecture is incorrect, although our numerical results suggest that a simple modification of the expression, flipping the sign of the term containing \u03b6 3 2, may yield the correct answer. Our \u2026"
+            ],
+            [
+                [
+
+                ]
+            ]
+        ]
+    ]
+}

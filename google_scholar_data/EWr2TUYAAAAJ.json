@@ -1,0 +1,92 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "EWr2TUYAAAAJ",
+            "Chris Monahan",
+            "Assistant Professor, College of William and Mary",
+            "@wm.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=EWr2TUYAAAAJ",
+            1715,
+            [
+                "Theoretical particle physics",
+                "lattice QCD",
+                "theoretical nuclear physics",
+                "lattice perturbation theory",
+                "statistical field theory"
+            ],
+            1097,
+            16,
+            15,
+            18,
+            17,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Oig8PGwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"G. Peter Lepage",
+                    "affiliation":"Professor of Physics, Cornell University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"QndFeFwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Heechang Na",
+                    "affiliation":"Argonne National Lab."
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"o7WvDOQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Christine Davies",
+                    "affiliation":"Professor of physics, University of Glasgow"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"uiYVmIIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ali Naji",
+                    "affiliation":"School of Physics, Institute for Research in Fundamental Sciences (IPM)"
+                }
+            ]
+        ]
+    ]
+}

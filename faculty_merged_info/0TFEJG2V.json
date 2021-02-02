@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "0TFEJG2V",
+            "DxoenfgAAAAJ",
+            [
+                "Discriminative training methods for hidden markov models: Theory and experiments with perceptron algorithms",
+                "Head-driven statistical models for natural language parsing",
+                "Three generative, lexicalised models for statistical parsing",
+                "Unsupervised models for named entity classification",
+                "Convolution kernels for natural language",
+                "Hidden conditional random fields",
+                "A new statistical parser based on bigram lexical dependencies",
+                "Discriminative reranking for natural language parsing",
+                "Learning to map sentences to logical form: Structured classification with probabilistic categorial grammars",
+                "Logistic regression, AdaBoost and Bregman distances"
+            ],
+            [
+                "We describe new algorithms for training tagging models, as an alternative to maximum-entropy models or conditional random fields (CRFs). The algorithms rely on Viterbi decoding of training examples, combined with simple additive updates. We describe theory justifying the algorithms through a modification of the proof of convergence of the perceptron algorithm for classification problems. We give experimental results on part-of-speech tagging and base noun phrase chunking, in both cases showing improvements over results for a maximum-entropy tagger.",
+                "This article describes three statistical models for natural language parsing. The models extend methods from probabilistic context-free grammars to lexicalized grammars, leading to approaches in which a parse tree is represented as the sequence of decisions corresponding to a head-centered, top-down derivation of the tree. Independence assumptions then lead to parameters that encode the X-bar schema, subcategorization, ordering of complements, placement of adjuncts, bigram lexical dependencies, wh-movement, and preferences for close attachment. All of these preferences are expressed by probabilities conditioned on lexical heads. The models are evaluated on the Penn Wall Street Journal Treebank, showing that their accuracy is competitive with other models in the literature. To gain a better understanding of the models, we also give results on different constituent types, as well as a breakdown of \u2026",
+                "In this paper we first propose a new statistical parsing model, which is a generative model of lexicalised context-free grammar. We then extend the model to include a probabilistic treatment of both subcategorisation and wh-movement. Results on Wall Street Journal text show that the parser performs at 88.1\/87.5% constituent precision\/recall, an average improvement of 2.3% over (Collins 96).",
+                "This paper discusses the use of unlabeled examples for the problem of named entity classification. A large number of rules is needed for coverage of the domain, suggesting that a fairly large number of labeled examples should be required to train a classifier. However, we show that the use of unlabeled data can reduce the requirements for supervision to just 7 simple\" seed\" rules. The approach gains leverage from natural redundancy in the data: for many named-entity instances both the spelling of the name and the context inwhich it appears are sufficient to determine its type. We present two algorithms. The first method uses a similar algorithm to that of (Yarowsky 95), with modifications motivated by (Blum and Mitchell 98). The second algorithm extends ideas from boosting algorithms, designed for supervised learning tasks, to the framework suggested by (Blum and Mitchell 98).",
+                "We describe the application of kernel methods to Natural Language Processing (NLP) problems. In many NLP tasks the objects being modeled are strings, trees, graphs or other discrete structures which require some mechanism to convert them into feature vectors. We describe kernels for various natural language structures, allowing rich, high dimensional representations of these structures. We show how a kernel over trees can be applied to parsing using the voted perceptron algorithm, and we give experimental results on the ATIS corpus of parse trees.",
+                "We present a discriminative latent variable model for classification problems in structured domains where inputs can be represented by a graph of local observations. A hidden-state conditional random field framework learns a set of latent variables conditioned on local features. Observations need not be independent and may overlap in space and time.",
+                "This paper describes a new statistical parser which is based on probabilities of dependencies between head-words in the parse tree. Standard bigram probability estimation techniques are extended to calculate probabilities of dependencies between pairs of words. Tests using Wall Street Journal data show that the method performs at least as well as SPATTER (Magerman 95, Jelinek et al 94), which has the best published results for a statistical parser on this task. The simplicity of the approach means the model trains on 40,000 sentences in under 15 minutes. With a beam search strategy parsing speed can be improved to over 200 sentences a minute with negligible loss in accuracy.",
+                "This article considers approaches which rerank the output of an existing probabilistic parser. The base parser produces a set of candidate parses for each input sentence, with associated probabilities that define an initial ranking of these parses. A second model then attempts to improve upon this initial ranking, using additional features of the tree as evidence. The strength of our approach is that it allows a tree to be represented as an arbitrary set of features, without concerns about how these features interact or overlap and without the need to define a derivation or a generative model which takes these features into account. We introduce a new method for the reranking task, based on the boosting approach to ranking problems described in Freund et al. (1998). We apply the boosting method to parsing the Wall Street Journal treebank. The method combined the log-likelihood under a baseline model (that of Collins \u2026",
+                "This paper addresses the problem of mapping natural language sentences to lambda-calculus encodings of their meaning. We describe a learning algorithm that takes as input a training set of sentences labeled with expressions in the lambda calculus. The algorithm induces a grammar for the problem, along with a log-linear model that represents a distribution over syntactic and semantic analyses conditioned on the input sentence. We apply the method to the task of learning natural language interfaces to databases and show that the learned parsers outperform previous methods in two benchmark database domains.",
+                "We give a unified account of boosting and logistic regression in which each learning problem is cast in terms of optimization of Bregman distances. The striking similarity of the two problems in this framework allows us to design and analyze algorithms for both simultaneously, and to easily adapt algorithms designed for one problem to the other. For both problems, we give new algorithms and explain their potential advantages over existing methods. These algorithms are iterative and can be divided into two types based on whether the parameters are updated sequentially (one at a time) or in parallel (all at once). We also describe a parameterized family of algorithms that includes both a sequential- and a parallel-update algorithm as special cases, thus showing how the sequential and parallel approaches can themselves be unified. For all of the algorithms, we give convergence proofs using a general \u2026"
+            ],
+            [
+                [
+                    "Computational Linguistics",
+                    "Natural Language Processing",
+                    "Machine Learning",
+                    "Artificial Intelligence"
+                ]
+            ]
+        ]
+    ]
+}

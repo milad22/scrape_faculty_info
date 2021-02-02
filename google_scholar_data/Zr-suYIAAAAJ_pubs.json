@@ -1,0 +1,102 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4
+    ],
+    "data":[
+        [
+            "We describe a hybrid pixel array detector (EMPAD-electron microscope pixel array detector) adapted for use in electron microscope applications, especially as a universal detector for scanning transmission electron microscopy. The 128 x 128 pixel detector consists of a 500 um thick silicon diode array bump-bonded pixel-by-pixel to an application-specific integrated circuit (ASIC). The in-pixel circuitry provides a 1,000,000: 1 dynamic range within a single frame, allowing the direct electron beam to be imaged while still maintaining single electron sensitivity. A 1.1 kHz framing rate enables rapid data collection and minimizes sample drift distortions while scanning. By capturing the entire unsaturated diffraction pattern in scanning mode, one can simultaneously capture bright field, dark field, and phase contrast information, as well as being able to analyze the full scattering distribution, allowing true center of mass imaging. The scattering is recorded on an absolute scale, so that information such as local sample thickness can be directly determined. This paper describes the detector architecture, data acquisition (DAQ) system, and preliminary results from experiments with 80 to 200 keV electron beams.",
+            "High dynamic range pixel array detector for scanning transmission electron microscopy",
+            "Mark W Tate and Prafull Purohit and Darol Chamberlain and Kayla X Nguyen and Robert M Hovden and Celesta S Chang and Pratiti Deb and Emrah Turgut and John T Heron and Darrell G Schlom and Daniel C Ralph and Gregory D Fuchs and Katherine S Shanks and Hugh T Philipp and David A Muller and Sol M Gruner",
+            "2015",
+            "Zr-suYIAAAAJ:d1gkVwhDpl0C",
+            210,
+            "https:\/\/arxiv.org\/abs\/1511.03539",
+            "15915939017465420970",
+            "\/scholar?cites=15915939017465420970",
+            {
+                "2016":7,
+                "2017":34,
+                "2018":42,
+                "2019":48,
+                "2020":74,
+                "2021":3
+            }
+        ],
+        [
+            "Aberration-corrected optics have made electron microscopy at atomic resolution a widespread and often essential tool for characterizing nanoscale structures. Image resolution has traditionally been improved by increasing the numerical aperture of the lens (\u03b1) and the beam energy, with the state-of-the-art at 300 kiloelectronvolts just entering the deep sub-\u00e5ngstr\u00f6m (that is, less than 0.5 \u00e5ngstr\u00f6m) regime. Two-dimensional (2D) materials are imaged at lower beam energies to avoid displacement damage from large momenta transfers, limiting spatial resolution to about 1 \u00e5ngstr\u00f6m. Here, by combining an electron microscope pixel-array detector with the dynamic range necessary to record the complete distribution of transmitted electrons and full-field ptychography to recover phase information from the full phase space, we increase the spatial resolution well beyond the traditional numerical-aperture-limited \u2026",
+            "Electron ptychography of 2D materials to deep sub-\u00e5ngstr\u00f6m resolution",
+            "Yi Jiang and Zhen Chen and Yimo Han and Pratiti Deb and Hui Gao and Saien Xie and Prafull Purohit and Mark W Tate and Jiwoong Park and Sol M Gruner and Veit Elser and David A Muller",
+            "2018",
+            "Zr-suYIAAAAJ:9yKSN-GCB0IC",
+            207,
+            "https:\/\/www.nature.com\/articles\/s41586-018-0298-5",
+            "8929332068686553596",
+            "\/scholar?cites=8929332068686553596",
+            {
+                "2018":15,
+                "2019":75,
+                "2020":107,
+                "2021":7
+            }
+        ],
+        [
+            "\/\/static.cambridge.org\/content\/id\/urn%3Acambridge.org%3Aid%3Aarticle%3AS1431927617009357\/resource\/name\/firstPage-S1431927617009357a.jpg",
+            "Breaking Friedel\u2019s law in polar two dimensional materials",
+            "Pratiti Deb and Yimo Han and Saien Xie and Megan E Holtz and Jiwoong Park and David A Muller",
+            "2017",
+            "Zr-suYIAAAAJ:u5HHmVD_uO8C",
+            2,
+            "https:\/\/www.cambridge.org\/core\/journals\/microscopy-and-microanalysis\/article\/breaking-friedels-law-in-polar-two-dimensional-materials\/74E9752E40EE8607314061DB3947112A",
+            "253474449014698883",
+            "\/scholar?cites=253474449014698883",
+            {
+                "2018":1,
+                "2019":1
+            }
+        ],
+        [
+            "Friedel's law guarantees an inversion-symmetric diffraction pattern for thin, light materials where a kinematic approximation or a single-scattering model holds. Typically, breaking Friedel symmetry is ascribed to multiple scattering events within thick, non-centrosymmetric crystals. However, two-dimensional (2D) materials such as a single monolayer of MoS 2 can also violate Friedel's law, with unexpected contrast between conjugate Bragg peaks. We show analytically that retaining higher order terms in the power series expansion of the scattered wavefunction can describe the anomalous contrast between hkl and h k l\u00af peaks that occurs in 2D crystals with broken in-plane inversion symmetry. These higher-order terms describe multiple scattering paths starting from the same atom in an atomically thin material. Furthermore, 2D materials containing heavy elements, such as WS 2, always act as strong phase objects \u2026",
+            "Imaging Polarity in Two Dimensional Materials by Breaking Friedel's Law",
+            "Pratiti Deb and Michael C Cao and Yimo Han and Megan E Holtz and Saien Xie and Jiwoong Park and Robert Hovden and David A Muller",
+            "2020",
+            "Zr-suYIAAAAJ:UeHWp8X0CEIC",
+            1,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S030439911930258X",
+            "8094621840460308876",
+            "\/scholar?cites=8094621840460308876",
+            {
+                "2021":1
+            }
+        ],
+        [
+            "Aberration-corrected optics have made electron microscopy at atomic-resolution a widespread and often essential tool for nanocharacterization. Image resolution is dominated by beam energy and the numerical aperture of the lens ({\\alpha}), with state-of-the-art reaching~ 0.47 \u00c5 at 300 keV. Two-dimensional materials are imaged at lower beam energies to avoid knock-on damage, limiting spatial resolution to~ 1 \u00c5. Here, by combining a new electron microscope pixel array detector with the dynamic range to record the complete distribution of transmitted electrons and full-field ptychography to recover phase information from the full phase space, we increased the spatial resolution well beyond the traditional lens limitations. At 80 keV beam energy, our ptychographic reconstructions significantly improved image contrast of single-atom defects in MoS2, reaching an information limit close to 5 {\\alpha}, corresponding to a 0.39 \u00c5 Abbe resolution, at the same dose and imaging conditions where conventional imaging modes reach only 0.98 \u00c5.",
+            "Deep sub-{\\AA} ngstrom imaging of 2D materials with a high dynamic range detector",
+            "Yi Jiang and Zhen Chen and Yimo Han and Pratiti Deb and Hui Gao and Saien Xie and Prafull Purohit and Mark W Tate and Jiwoong Park and Sol M Gruner and Veit Elser and David A Muller",
+            "2018",
+            "Zr-suYIAAAAJ:2osOgNQ5qMEC",
+            1,
+            "https:\/\/arxiv.org\/abs\/1801.04630",
+            "10171513637890406653",
+            "\/scholar?cites=10171513637890406653",
+            {
+                "2018":1
+            }
+        ]
+    ]
+}

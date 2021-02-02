@@ -1,0 +1,88 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "sJ8zdS8AAAAJ",
+            "Jinyu Zhang (\u5f20\u91d1\u94b0)",
+            "Xi'an Jiaotong University",
+            "@mail.xjtu.edu.cn",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=sJ8zdS8AAAAJ",
+            91160,
+            [
+                "Metallic (bulk & film) nanostructures - Deformation & Fracture - Radiation tolerance"
+            ],
+            63614,
+            113,
+            94,
+            1498,
+            1271,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"BXM-XpwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Xinghang Zhang",
+                    "affiliation":"Professor, School of Materials Engineering, Purdue University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"16YgkOoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yue Liu (SJTU)",
+                    "affiliation":"Shanghai Jiao Tong University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"e2NeSZUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Youxing Chen",
+                    "affiliation":"Research Assistant Professor, University of North Carolina at Charlotte"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"SHVhdhoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ju Li (ORCID:0000-0002-7841-8058)",
+                    "affiliation":"Professor of Nuclear Science and Engineering and Materials Science and Engineering, MIT, USA"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "kr5BIMYAAAAJ",
+            "Abdul Saboor",
+            "Rhine-Waal University of Applied Sciences",
+            "@hochschule-rhein-waal.de",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=kr5BIMYAAAAJ",
+            207,
+            [
+                "Human-Computer Interaction (with primary focus on brain-computer interfaces)",
+                "augmented reality solutions and IoT-enabled intell"
+            ],
+            207,
+            7,
+            7,
+            3,
+            3,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"yj_uM_UAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ivan Volosyak",
+                    "affiliation":"Professor f\u00fcr Biomedical Engineering"
+                }
+            ]
+        ]
+    ]
+}

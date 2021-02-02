@@ -66,6 +66,7 @@ class UniScrappedDataStat:
 
 
 
+
 #Make a list of universities to iterate over in the next 
 unis_dataframe = pd.read_excel('Physics_departments_formatted_with_photo_counts.xlsx', na_values = 'None')
 webpages_path = '/home/miliverse/pages/'
@@ -217,6 +218,7 @@ for index, row in unis_dataframe.iterrows():
         stat.url_count += len(urls)
         for url in urls:
             logfile.write("scraping following url for faculty interests: {}\n".format(url))
+            faculty_data.append(url)
             #print("scraping following url for faculty interests: {}\n".format(url))
             #research_intrest += fetch_faculty_page_content(url)
             #time.sleep(random.randint(7,15))

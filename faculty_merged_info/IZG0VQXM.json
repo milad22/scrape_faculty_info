@@ -1,0 +1,37 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "IZG0VQXM",
+            "CeNiNcwAAAAJ",
+            [
+                "Expressing and exploiting concurrency in networked applications with aspen",
+                "Experiences in using cetus for source-to-source transformations",
+                "Automatic atomic region identification in shared memory SPMD programs",
+                "Using data structure knowledge for efficient lock generation and strong atomicity",
+                "Analyzing the effectiveness of multicore scheduling using performance counters"
+            ],
+            [
+                "This paper presents Aspen, a high-level programming language thattargets both high-productivity programming and runtime support formanaging resources needed by a computation. Programs in Aspen arerepresented as directed graphs, where the edges are well-definedunidirectional communication channels and the nodes are instances of computational modules that process the incoming data. The resulting representation of a program closely resembles a flow chart describing the flow of computation in a server application and exposing the communicationat a high level of abstraction. This strategy for program composition naturally allows parallelism and data sharing to be factored out of the core computational logic of a program, facilitating a division of labor between parallelism expertsand application experts and also easing code development and maintenance. Aspen automatically and transparently \u2026",
+                "Cetus is a compiler infrastructure for the source-to-source transformation of programs. Since its creation nearly three years ago, it has grown to over 12,000 lines of Java code, been made available publically on the web, and become a basis for several research projects. We discuss our experience using Cetus for a selection of these research projects. The focus of this paper is not the projects themselves, but rather how Cetus made these projects possible, how the needs of these projects influenced the development of Cetus, and the solutions we applied to problems we encountered with the infrastructure. We believe the research community can benefit from such a discussion, as shown by the strong interest in the mini-workshop on compiler research infrastructures where some of this information was first presented.",
+                "This paper presents TransFinder, a compile-time tool that automatically determines which statements of an unsynchronized multithreaded program must be enclosed in atomic regions to enforce conflict-serializability. Unlike previous tools, TransFinder requires no programmer input (beyond the program) and is more efficient in both time and space.Our implementation shows that the generated atomic regions range from being identical to, or smaller than, the programmer-specified transactions in the three Java Grande benchmarks considered, and in five of the eight STAMP benchmarks considered, while still providing identical synchronization semantics and results. The generated atomic regions are between 5 and 38 lines larger in the three remaining STAMP benchmarks. In the most conservative case, TransFinder can, based on the program structure, successfully identify and suggest an alternative that conforms \u2026",
+                "To achieve high-performance on multicore systems, sharedmemory parallel languages must efficiently implement atomic operations. The commonly used and studied paradigms for atomicity are fine-grained locking, which is both difficult to program and error-prone; optimistic software transactions, which require substantial overhead to detect and recover from atomicity violations; and compiler-generation of locks from programmer-specified atomic sections, which leads to serialization whenever imprecise pointer analysis suggests the mere possibility of a conflicting operation. This paper presents a new strategy for compiler-generated locking that uses data structure knowledge to facilitate more precise alias and lock generation analyses and reduce unnecessary serialization. Implementing and evaluating these ideas in the Java language shows that the new strategy achieves eight-thread speedups of 0.83 to 5.9 for \u2026",
+                "This paper analyzes the impact of scheduling decisions on dynamic task performance. Performance behavior is analyzed utilizing support workloads from SPECWeb 2005 on a multicore hardware platform with an Apache web server. Hardware performance counter data is collected via extending the Linux scheduler and analysis is then performed by core, by task, and by various metrics. The results show that considering a single per-core metric (such as IPC or cache miss rate) is not sufficient to categorize application behavior, since different thread types often have highly varying characteristics. Additionally, threads behave differently based on what thread was scheduled beforehand (seeing as much as 50% performance degradation when HTTP processing threads are preceded by long-running dynamic content PHP threads) or based on the length of their time slices (with longer-running PHP threads achieving 3 times the IPC of short-running ones on average)."
+            ],
+            [
+                [
+
+                ]
+            ]
+        ]
+    ]
+}

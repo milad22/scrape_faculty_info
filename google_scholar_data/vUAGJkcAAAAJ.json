@@ -1,0 +1,90 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "vUAGJkcAAAAJ",
+            "Jozef Dudek",
+            "College of William and Mary",
+            "@wm.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=vUAGJkcAAAAJ",
+            6099,
+            [
+                "Nuclear Physics",
+                "Particle Physics",
+                "Computational Physics"
+            ],
+            3462,
+            39,
+            33,
+            49,
+            41,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9KNRye4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Robert G. Edwards",
+                    "affiliation":"Staff Scientist, Jefferson Lab"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9PlocrEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mike Peardon",
+                    "affiliation":"Senior lecturer, School of Mathematics, Trinity College Dublin"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ZxUN8YsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Raul Briceno",
+                    "affiliation":"Old Dominion University & Jefferson Lab"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"cK_dVFAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Matthew R. Shepherd",
+                    "affiliation":"Professor of Physics, Indiana University"
+                }
+            ]
+        ]
+    ]
+}

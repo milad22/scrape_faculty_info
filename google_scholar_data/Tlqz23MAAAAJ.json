@@ -1,0 +1,88 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Tlqz23MAAAAJ",
+            "Koen M Visscher",
+            "Vrije Universiteit Amsterdam",
+            "@vu.nl",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=Tlqz23MAAAAJ",
+            415,
+            [
+
+            ],
+            374,
+            10,
+            9,
+            10,
+            9,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"GLIgELEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alexandre M.J.J. Bonvin",
+                    "affiliation":"Professor of Computational Structural Biology, Bijvoet Center for Biomolecular Research, Faculty of"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"_O49sZcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Panagiotis Kastritis",
+                    "affiliation":"Junior Professor of Cryo-Electron Microscopy and Computational Structural Biology, MLU Halle"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"qYRlzPAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Marc van Dijk",
+                    "affiliation":"Senior scientist, Vrije Universiteit Amsterdam"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"c3UgURoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Aalt D.J. van Dijk",
+                    "affiliation":"Assistant Professor Plant Systems Biology, Wageningen University"
+                }
+            ]
+        ]
+    ]
+}

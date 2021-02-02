@@ -1,0 +1,90 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "smBR9cYAAAAJ",
+            "Kanav Setia",
+            "Dartmouth College",
+            "@dartmouth.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=smBR9cYAAAAJ",
+            329,
+            [
+                "Quantum Computing",
+                "Quantum Chemistry",
+                "Quantum Simulation"
+            ],
+            324,
+            6,
+            6,
+            5,
+            5,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"XLMWVzQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"James Daniel Whitfield",
+                    "affiliation":"Dartmouth College"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"iZ83CjwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Antonio Mezzacapo",
+                    "affiliation":"IBM Quantum, T.J. Watson Research Center"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"tj2A8SUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Marco Pistoia",
+                    "affiliation":"JPMorgan Chase & Co."
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"HHQ_FagAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Julia E Rice",
+                    "affiliation":"IBM"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "1GWXHN4X",
+            "WRqIG9MAAAAJ",
+            [
+                "Sb-doped GeS2as performance and reliability booster in Conductive Bridge RAM",
+                "Investigation of the physical mechanisms governing data-retention in down to 10nm nano-trench Al2O3\/CuTeGe conductive bridge RAM (CBRAM)",
+                "Controlling oxygen vacancies in doped oxide based CBRAM for improved memory performances",
+                "Investigation of forming, SET, and data retention of conductive-bridge random-access memory for stack optimization",
+                "Experimental and theoretical understanding of Forming, SET and RESET operations in Conductive Bridge RAM (CBRAM) for memory stack optimization",
+                "Effect of the active layer thickness and temperature on the switching kinetics of GeS2-based conductive bridge memories",
+                "Impact of SET and RESET conditions on CBRAM high temperature data retention",
+                "Guidance to reliability improvement in CBRAM using advanced KMC modelling"
+            ],
+            [
+                "In this work, for the first time at our knowledge, the improvement of chalcogenide-based CBRAM performance and reliability by Sb doping of the GeS 2  electrolyte is presented. An original analysis, based on in-depth physico-chemical characterization, device electrical measurements, empirical model and first principle calculations, is shown. We argue that optimized ~10% Sb doping in the GeS 2  electrolyte allows to achieve SET speed of 30ns at 2.2V (i.e. 0.66pJ SET programming power), while assuring 10 years data retention at 125\u00b0C, >10 5  cycling and high robustness to Sn-Pb soldering profile. Finally, the improved thermal stability of the filament in the GeS 2 -Sb matrix is clearly elucidated by means of molecular dynamics calculations.",
+                "In this work, we present an experimental and theoretical analysis of scaled (down to 10nm) Al 2 O 3 \/CuTeGe based CBRAM. We focus on the understanding of the physical mechanisms responsible for the failure of high and low resistance states at high temperature. Using a numerical model combined with ab-initio calculations, we elucidate for the 1 st  time at our knowledge the role of the filament morphology on the resistance instability. We demonstrate that an optimized filament shape (tuned by adjusting the operating conditions) significantly improves the memory window stability at high temperatures.",
+                "In this paper the concept hybrid CBRAM assisted by oxygen vacancies is presented for the 1<;sup>st<;\/sup> time. Doping the resistive layer of oxide\/Cu based CBRAM with <; dopant species and concentrations is proposed in order to improve the memory performances. By means of experimental characterizations, numerical model and atomistic calculations, we demonstrate that increasing the doping content ease the filament formation by facilitating the Cu injection in the resistive layer. The proper choice of the doping element and concentration allows to significantly reduce the forming voltage (up to a forming free behavior), or alternatively to increase the memory window of 3 decades, with no forming voltage increase and retention degradation (stable behavior at 200\u00b0C, 260\u00b0C soldering sustained).",
+                "In this paper, we investigate in depth Forming, SET, and Retention of conductive-bridge random-access memory (CBRAM). A kinetic Monte Carlo model of the CBRAM has been developed considering ionic hopping and chemical reaction dynamics. Based on inputs from ab initio calculations and the physical properties of the materials, the model offers the simulation of both the Forming\/SET and the Data Retention operations. It aims to create a bond between the physics at atomic level and the device behavior. From the model and experimental results obtained on decananometric devices, we propose an understanding of the physical mechanisms involved in the CBRAM operations. Using the consistent Forming\/SET and Data Retention model, we obtained good agreement with the experimental data. Finally, the impact of each layer of the CBRAM on the Forming\/SET behavior is decorrelated, allowing an \u2026",
+                "In this paper, we deeply investigate for the 1 st  time at our knowledge the impact of the CBRAM memory stack on the Forming, SET and RESET operations. Kinetic Monte Carlo simulations, based on inputs from ab-initio calculations and taking into account ionic hopping and chemical reaction dynamics are used to analyse experimental results obtained on decananometric devices. We propose guidelines to optimize the CBRAM stack, targeting Forming voltage reduction, improved trade-off between SET speed and disturb immunity (time voltage dilemma) and window margin increase (RESET efficiency).",
+                "In this paper, the effect of the active layer thickness and temperature on the switching kinetics of GeS 2-based conductive bridge memories is addressed through electrical characterization. Results are explained in terms of a thermally and field driven ion hopping model for reversible resistance switching. The combined analysis reveals that at high temperature the set voltage and the set resistance decrease. Furthermore, the study suggests that applying the same reset condition, for GeS 2 thicknesses lower than 50 nm, the conductive filament is almost dissolved, while for thicker layers a portion of the filament still remains.",
+                "In this paper, we investigate the high temperature behavior of oxide-based conductive bridge memories. A methodology to optimize both high and low resistance states stability is presented. A numerical model is developed able to simulate the filament dissolution over time. This allows us to establish a clear correlation between the filament morphology and the ON\/OFF states stability. It is shown that the optimization of the memory programming conditions leads to a stable memory window up to 250\u00b0C.",
+                "In this paper, we use Kinetic Monte Carlo (KMC) simulations to investigate CBRAM variability. A full consistent model able to simulate SET, RESET, retention and endurance characteristics was proposed for the 1st time, allowing to describe experimental data obtained on Al 2 O 3 \/CuTex based CBRAM. The role of oxygen vacancy generation during programming is described and its impact on reliability (retention and endurance) is elucidated. The origin of the resistance spread is discussed and linked to the conductive filament shape and operating conditions. The cycle to cycle contribution on resistance variability is uncorrelated from the intrinsic resistance distribution limit. Finally, guidelines are given in order to optimize the memory distribution, reduce tail bits and improve CBRAM reliability."
+            ],
+            [
+                [
+                    "Resistive RAM"
+                ]
+            ]
+        ]
+    ]
+}

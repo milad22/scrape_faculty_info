@@ -1,0 +1,170 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "data":[
+        [
+            "A necessary condition for superconductivity (SC) driven by electron correlations is that electron-electron (ee) interactions enhance superconducting pair-pair correlations, relative to the noninteracting limit. We report high-precision numerical calculations of the ground state on four different finite lattices of up to 100 sites within the frustrated two-dimensional (2D) Hubbard Hamiltonian for a wide range of carrier concentration \u03c1 (0< \u03c1< 1). The average long-range pair-pair correlation for each cluster is enhanced by Hubbard U only for \u03c1\u2248 0.5. At all other fillings ee interactions mostly suppress pair correlations. Our work provides a key ingredient to the mechanism of SC in the 2D organic charge-transfer solids and many other unconventional superconductors with frustrated crystal lattices and \u03c1\u2243 0.5.",
+            "Coulomb-enhanced superconducting pair correlations and paired-electron liquid in the frustrated quarter-filled band",
+            "Niladri Gomes and W Wasanthi De Silva and Tirthankar Dutta and R Torsten Clay and Sumitendra Mazumdar",
+            "2016",
+            "vjI2B8gAAAAJ:Tyk-4Ss8FVUC",
+            18,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.93.165110",
+            "10859547253302694900",
+            "\/scholar?cites=10859547253302694900",
+            {
+                "2016":3,
+                "2017":2,
+                "2018":3,
+                "2019":5,
+                "2020":5
+            }
+        ],
+        [
+            "A frustrated, effective -filled band Hubbard\u2013Heisenberg model has been proposed for describing the strongly dimerized charge-transfer solid families \u03ba-(ET) 2 X and Z [Pd (dmit) 2] 2. In addition to showing unconventional superconductivity, these materials also exhibit antiferromagnetism, candidate spin-liquid phases, and, in the case of Z= EtMe 3 P, a spin-gapped phase that has sometimes been referred to as a valence bond solid. We show that neither superconductivity nor the valence bond order phase occurs within the Hubbard\u2013Heisenberg model. We suggest that a description based on -filling, that is reached when the carrier concentration per molecule instead of per dimer is considered, thus may be appropriate.",
+            "Absence of superconductivity and valence bond order in the Hubbard\u2013Heisenberg model for organic charge-transfer solids",
+            "N Gomes and RT Clay and Sumitendra Mazumdar",
+            "2013",
+            "vjI2B8gAAAAJ:d1gkVwhDpl0C",
+            15,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0953-8984\/25\/38\/385603\/meta",
+            "2522764309349228249",
+            "\/scholar?cites=2522764309349228249",
+            {
+                "2014":2,
+                "2015":1,
+                "2016":3,
+                "2017":1,
+                "2018":1,
+                "2019":4,
+                "2020":3
+            }
+        ],
+        [
+            "We present the results of precise correlated-electron calculations on the monomer lattices of the organic charge-transfer solids \u03ba\u2212(BEDT-TTF) 2 X for 32 and 64 molecular sites. Our calculations are for band parameters corresponding to X= Cu [N (CN) 2] Cl and Cu 2 (CN) 3, which are semiconducting antiferromagnetic and quantum spin liquid, respectively, at ambient pressure. We have performed our calculations for variable electron densities \u03c1 per BEDT-TTF molecule, with \u03c1 ranging from 1 to 2. We find that d-wave superconducting pair-pair correlations are enhanced by electron-electron interactions only for a narrow carrier concentration about \u03c1= 1.5, which is precisely the carrier concentration where superconductivity in the charge-transfer solids occurs. Our results indicate that the enhancement in pair-pair correlations is not related to antiferromagnetic order, but to a proximate hidden spin-singlet state that \u2026",
+            "Coulomb enhancement of superconducting pair-pair correlations in a -filled model for ",
+            "W Wasanthi De Silva and N Gomes and Sumitendra Mazumdar and RT Clay",
+            "2016",
+            "vjI2B8gAAAAJ:zYLM7Y9cAGgC",
+            13,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.93.205111",
+            "9834375216364943090",
+            "\/scholar?cites=9834375216364943090",
+            {
+                "2017":4,
+                "2018":2,
+                "2019":4,
+                "2020":3
+            }
+        ],
+        [
+            "Most quasi-one-dimensional (quasi-1D) quarter-filled organic charge-transfer solids (CTS) with insulating ground states have two thermodynamic transitions: a high-temperature metal-insulator transition followed by a low-temperature magnetic transition. This sequence of transitions can be understood within the 1D Peierls-extended Hubbard (PEH) model. However, in some quasi-1D CTS both transitions occur simultaneously in a direct metal to spin-gapped insulator transition. In this second class of materials the organic stack bond distortion pattern does not follow the pattern of a second dimerization of a dimer lattice. These materials also display charge ordering of a large amplitude below the transition. Using quantum Monte Carlo methods we show that the same PEH model can be used to understand both classes of materials, however, within different parameter regions. We discuss the relevance of our work to \u2026",
+            "Bond patterns and charge-order amplitude in quarter-filled charge-transfer solids",
+            "RT Clay and AB Ward and N Gomes and S Mazumdar",
+            "2017",
+            "vjI2B8gAAAAJ:9yKSN-GCB0IC",
+            6,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.95.125114",
+            "3081418661225093362",
+            "\/scholar?cites=3081418661225093362",
+            {
+                "2017":2,
+                "2018":1,
+                "2019":3
+            }
+        ],
+        [
+            "We develop a resource-efficient step-merged quantum imaginary time evolution approach (smQITE) to solve for the ground state of a Hamiltonian on quantum computers. This heuristic method features a fixed shallow quantum circuit depth along the state evolution path. We use this algorithm to determine the binding energy curves of a set of molecules, including H2, H4, H6, LiH, HF, H2O, and BeH2, and find highly accurate results. The required quantum resources of smQITE calculations can be further reduced by adopting the circuit form of the variational quantum eigensolver (VQE) technique, such as the unitary coupled cluster ansatz. We demonstrate that smQITE achieves a similar computational accuracy as VQE at the same fixed-circuit ansatz, without requiring a generally complicated high-dimensional nonconvex optimization. Finally, smQITE calculations are carried out on Rigetti quantum processing units \u2026",
+            "Efficient step-merged quantum imaginary time evolution algorithm for quantum chemistry",
+            "Niladri Gomes and Feng Zhang and Noah F Berthusen and Cai-Zhuang Wang and Kai-Ming Ho and Peter P Orth and Yongxin Yao",
+            "2020",
+            "vjI2B8gAAAAJ:LkGwnXOMwfcC",
+            3,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acs.jctc.0c00666",
+            "6349129822500922022",
+            "\/scholar?cites=6349129822500922022",
+            {
+                "2020":1,
+                "2021":2
+            }
+        ],
+        [
+            "Recent investigations of the magnetic properties and the discovery of superconductivity in quasi-one-dimensional triangular lattice organic charge-transfer solids have indicated the severe limitations of the effective 1 2-filled band Hubbard model for these and related systems. We present computational studies within the 1 4-filled band Hubbard model for these highly anisotropic systems. Individual organic monomer molecules, and not their dimers, constitute the sites of the Hamiltonian within our theory. We find enhancement of the long-range component of superconducting pairing correlations by the Hubbard repulsive interaction U for band parameters corresponding to \u03ba\u2212(BEDT-TTF) 2 CF 3 SO 3, which is superconducting under moderate pressure. We find significantly weaker superconducting pairing at realistic values of U in \u03ba\u2212(BEDT-TTF) 2 B (CN) 4, and we ascribe the experimentally observed transition to a \u2026",
+            "Theory of triangular lattice quasi-one-dimensional charge-transfer solids",
+            "RT Clay and N Gomes and S Mazumdar",
+            "2019",
+            "vjI2B8gAAAAJ:WF5omc3nYNoC",
+            3,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.100.115158",
+            "11444027957830115475",
+            "\/scholar?cites=11444027957830115475",
+            {
+                "2019":1,
+                "2020":2
+            }
+        ],
+        [
+            "Development of resource-friendly quantum algorithms remains highly desirable for noisy intermediate-scale quantum computing. Based on the variational quantum eigensolver (VQE) with unitary coupled-cluster Ansatz, we demonstrate that partitioning of the Hilbert space made possible by the point-group symmetry of the molecular systems greatly reduces the number of variational operators by confining the variational search within a subspace. In addition, we found that instead of including all subterms for each excitation operator, a single-term representation suffices to reach required accuracy for various molecules tested, resulting in an additional shortening of the quantum circuit by a factor of 4\u20138. With these strategies, VQE calculations on a noise-free quantum simulator achieve energies within a few meVs of those obtained with the full unitary coupled-cluster Ansatz with single and double excitations for the H 4 \u2026",
+            "Shallow-circuit variational quantum eigensolver based on symmetry-inspired Hilbert space partitioning for quantum chemical calculations",
+            "Feng Zhang and Niladri Gomes and Noah F Berthusen and Peter P Orth and Cai-Zhuang Wang and Kai-Ming Ho and Yong-Xin Yao",
+            "2021",
+            "vjI2B8gAAAAJ:_FxGoFyzp5QC",
+            1,
+            "https:\/\/journals.aps.org\/prresearch\/abstract\/10.1103\/PhysRevResearch.3.013039",
+            "1494702887442250143",
+            "\/scholar?cites=1494702887442250143",
+            {
+                "2020":1
+            }
+        ],
+        [
+            "We propose a general-purpose, self-adaptive approach to construct variational wavefunction ans\u00e4tze for highly accurate quantum dynamics simulations. The McLachlan variational principle for real-time dynamics governs the equations of motion of variational parameters, where the variational ansatz is automatically generated and dynamically expanded along the time-evolution path, such that the\" McLachlan distance\", which is a measure of the simulation accuracy, remains below a fixed threshold. The adaptive variational quantum dynamics simulation (AVQDS) approach is applied to the Lieb-Schultz-Mattis spin chain model, where it captures the finite-rate quantum quench dynamics to high accuracy. The AVQDS circuits that prepare the quantum states along the dynamical path are shallower than those obtained from naive Trotterization by over an order of magnitude. We envision that a wide range of dynamical simulations of quantum many-body systems on near-term quantum devices will be made possible through the AVQDS framework.",
+            "Adaptive variational quantum dynamics simulations",
+            "Yong-Xin Yao and Niladri Gomes and Feng Zhang and Thomas Iadecola and Cai-Zhuang Wang and Kai-Ming Ho and Peter P Orth",
+            "2020",
+            "vjI2B8gAAAAJ:Se3iqnhoufwC",
+            1,
+            "https:\/\/arxiv.org\/abs\/2011.00622",
+            "14423083088758627664",
+            "\/scholar?cites=14423083088758627664",
+            {
+                "2020":1
+            }
+        ],
+        [
+            "The objective of this thesis is to reach theoretical understanding of the unusual relationship between charge-ordering and superconductivity in correlated-electron systems. The competition between these broken symmetries and magnetism in the cuprate high temperature superconductors has been extensively discussed, but exists also in many other correlated-electron superconductors, including quasi-two-dimensional organic charge-transfer solids. It has been suggested that the same attractive interaction is responsible for both charge-order and superconductivity. We propose that the specific interaction is the tendency in correlated-electron systems to form spin-singlet bonds, which is strongly enhanced at the commensurate carrier density p of \u00bd a charge carrier per site, characteristic of all superconducting charge-transfer solids. To probe superconductivity driven by electron correlations, a necessary condition is that electron-electron interactions enhance superconducting pair-pair correlations, relative to the non-interacting limit. We have performed state of the art numerical calculations on the two-dimensional Hubbard model on different triangular lattices, as well as other lattices corresponding to K-BEDT-TTF based organic charge transfer solids, for the complete range of carrier densities per site p (0 \u2264 p \u2264 1). We have shown that pair-pair correlation for each cluster is enhanced by electron-electron interaction only for p \u2243 0.5, far away from the density range thought to be important for superconductivity. Although initial focus is on charge-transfer solids, the results of the research will impact the field of correlated electrons as a whole. We \u2026",
+            "Superconductivity in Strongly Correlated Quarter Filled Systems",
+            "Niladri Gomes",
+            "2017",
+            "vjI2B8gAAAAJ:Y0pCki6q_DkC",
+            1,
+            "https:\/\/repository.arizona.edu\/handle\/10150\/625678",
+            "11638416864024265779",
+            "\/scholar?cites=11638416864024265779",
+            {
+                "2019":1
+            }
+        ]
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "L0BamQ8AAAAJ",
+            "Andrei Belitsky",
+            "Professor of Physics, Arizona State University",
+            "@asu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=L0BamQ8AAAAJ",
+            7981,
+            [
+                "High Energy Theory"
+            ],
+            1740,
+            44,
+            21,
+            90,
+            43,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"qyLAftQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gregory Korchemsky",
+                    "affiliation":""
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"PPvc7EkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Feng Yuan",
+                    "affiliation":"Lawrence Berkeley Lab"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Qg98GskAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sergey Derkachov",
+                    "affiliation":"\u041f\u041e\u041c\u0418 \u0420\u0410\u041d"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"1l63OicAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"EMERI SOKATCHEV",
+                    "affiliation":"LAPTH-Annecy"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"qNMv3IwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"alexander gorsky",
+                    "affiliation":"iitp"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"DvF6MgoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Stefan Vandoren",
+                    "affiliation":"Professor Theoretical Physics, Utrecht University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"JxttA4UAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Thomas D. Cohen",
+                    "affiliation":"University of Maryland"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"bn_ue1YAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Matteo Beccaria",
+                    "affiliation":"Professore Ordinario, Universit\u00e0 del Salento, Dipartimento di Matematica e Fisica Ennio De Giorgi"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"wP6T8dsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Van Eric Mayes",
+                    "affiliation":"University of Houston - Clear Lake"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"KfjQudsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Andrej Arbuzov",
+                    "affiliation":"Bogoliubov Lab of Theoretical Physics, Joint Institute for Nuclear Research"
+                }
+            ]
+        ]
+    ]
+}

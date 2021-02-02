@@ -1,0 +1,36 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "The paper concentrates on the design, composition and annotation of SYN2015, a new 100-million representative corpus of contemporary written Czech. SYN2015 is a sequel of the representative corpora of the SYN series that can be described as traditional (as opposed to the web-crawled corpora), featuring cleared copyright issues, well-defined composition, reliability of annotation and high-quality text processing. At the same time, SYN2015 is designed as a reflection of the variety of written Czech text production with necessary methodological and technological enhancements that include a detailed bibliographic annotation and text classification based on an updated scheme. The corpus has been produced using a completely rebuilt text processing toolchain called SynKorp. SYN2015 is lemmatized, morphologically and syntactically annotated with state-of-the-art tools. It has been published within the framework of the Czech National Corpus and it is available via the standard corpus query interface KonText at http:\/\/kontext. korpus. cz as well as a dataset in shuffled format.",
+            "SYN2015: Representative corpus of contemporary written Czech",
+            "Michal K\u0159en and V\u00e1clav Cvr\u010dek and Tom\u00e1\u0161 \u010capka and Anna \u010cerm\u00e1kov\u00e1 and Milena Hn\u00e1tkov\u00e1 and Lucie Chlumsk\u00e1 and Tom\u00e1\u0161 Jel\u00ednek and Dominika Kov\u00e1\u0159\u00edkov\u00e1 and Vladimir Petkevic and Pavel Proch\u00e1zka and Hana Skoumalov\u00e1 and Michal \u0160krabal and Petr Trune\u010dek and Pavel Vond\u0159i\u010dka and Adrian Jan Zasina",
+            "2016",
+            "O3cC2wcAAAAJ:u5HHmVD_uO8C",
+            28,
+            "https:\/\/www.aclweb.org\/anthology\/L16-1400.pdf",
+            "546397216700638736",
+            "\/scholar?cites=546397216700638736",
+            {
+                "2017":3,
+                "2018":7,
+                "2019":9,
+                "2020":8
+            }
+        ]
+    ]
+}

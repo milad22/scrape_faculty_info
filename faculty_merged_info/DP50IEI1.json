@@ -1,0 +1,37 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "DP50IEI1",
+            "smBR9cYAAAAJ",
+            [
+                "OpenFermion: the electronic structure package for quantum computers",
+                "Qiskit: An open-source framework for quantum computing",
+                "Bravyi-Kitaev Superfast simulation of electronic structure on a quantum computer",
+                "Superfast encodings for fermionic quantum simulation"
+            ],
+            [
+                "Quantum simulation of chemistry and materials is predicted to be an important application for both near-term and fault-tolerant quantum devices. However, at present, developing and studying algorithms for these problems can be difficult due to the prohibitive amount of domain knowledge required in both the area of chemistry and quantum algorithms. To help bridge this gap and open the field to more researchers, we have developed the OpenFermion software package (www. openfermion. org). OpenFermion is an open-source software library written largely in Python under an Apache 2.0 license, aimed at enabling the simulation of fermionic and bosonic models and quantum chemistry problems on quantum hardware. Beginning with an interface to common electronic structure packages, it simplifies the translation between a molecular specification and a quantum circuit for solving or studying the electronic \u2026",
+                "Page 1. QUANTUM TELEPORTATION ON THE IBM QUANTUM COMPUTER ALIZA SIDDIQUI\nLOUISIANA STATE UNIVERSITY FINAL PRESENTATION MENTORS: SUMEET KHATRI, DR.\nMARK WILDE, DR. JONATHAN DOWLING Page 2. BASICS OF QUANTUM COMPUTING \u2022 THE\nQUBIT \u2022 QUANTUM ENTANGLEMENT \u2022 QUANTUM LOGIC GATES Page 3. THE QUBIT \u2022 Known\nas the \u201cquantum bit\u201d \u2022 Unlike a classical bit, it can simultaneously be 0 and 1 \u2013also known as\n\u201csuperposition\u201d of states \u2022 The qubit's state is represented by any arbitrary point on the Bloch\nsphere (either inside or on the surface) \u2022 A pure qubit state is a superposition of the basis states\nand can also be represented as: where and are probability amplitudes and can both be complex\nnumbers \u03b1 \u03b2 Page 4. WHAT IS QUANTUM ENTANGLEMENT? \u2022 Quantum Entanglement of two\nparticles causes them to share a bond such \u2026 \n",
+                "Present quantum computers often work with distinguishable qubits as their computational units. In order to simulate indistinguishable fermionic particles, it is first required to map the fermionic state to the state of the qubits. The Bravyi-Kitaev Superfast (BKSF) algorithm can be used to accomplish this mapping. The BKSF mapping has connections to quantum error correction and opens the door to new ways of understanding fermionic simulation in a topological context. Here, we present the first detailed exposition of the BKSF algorithm for molecular simulation. We provide the BKSF transformed qubit operators and report on our implementation of the BKSF fermion-to-qubits transform in OpenFermion. In this initial study of a hydrogen molecule we have compared BKSF, Jordan-Wigner, and Bravyi-Kitaev transforms under the Trotter approximation. The gate count to implement BKSF is lower than Jordan-Wigner but \u2026",
+                "Simulation of fermionic many-body systems on a quantum computer requires a suitable encoding of fermionic degrees of freedom into qubits. Here we revisit the superfast encoding introduced by Kitaev and one of the authors. This encoding maps a target fermionic Hamiltonian with two-body interactions on a graph of degree d to a qubit simulator Hamiltonian composed of Pauli operators of weight O (d). A system of m Fermi modes gets mapped to n= O (m d) qubits. We propose generalized superfast encodings (GSEs) which require the same number of qubits as the original one but have more favorable properties. First, we describe a GSE such that the corresponding quantum code corrects any single-qubit error provided that the interaction graph has degree d\u2265 6. In contrast, we prove that the original superfast encoding lacks the error correction property for d\u2264 6. Second, we describe a GSE that reduces the Pauli \u2026"
+            ],
+            [
+                [
+                    "Quantum Computing",
+                    "Quantum Chemistry",
+                    "Quantum Simulation"
+                ]
+            ]
+        ]
+    ]
+}

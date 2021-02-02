@@ -1,0 +1,66 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "tT97SlgAAAAJ",
+            "Dr Gerald G. Feldman",
+            "Birmingham City University",
+            "@bcu.ac.uk",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=tT97SlgAAAAJ",
+            55,
+            [
+                "Enterprise systems",
+                "Management of information systems",
+                "Socio-technical systems and ERP"
+            ],
+            55,
+            4,
+            4,
+            1,
+            1,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"L8uiXg0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dr Vahid Javidroozi",
+                    "affiliation":"Birmingham City university"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ZqkOhZEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Craig Chapman",
+                    "affiliation":"Professor of Knowledge Based Engineering"
+                }
+            ]
+        ]
+    ]
+}

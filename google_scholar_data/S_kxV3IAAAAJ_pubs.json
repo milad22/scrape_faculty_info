@@ -1,0 +1,213 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "We examine the mechanical properties of graphene samples of thicknesses ranging from 1 to 17 atomic layers, placed on a microscale-corrugated elastic substrate. Using atomic force microscopy, we show that the graphene adheres to the substrate surface and can substantially deform the substrate, with larger graphene thicknesses creating greater deformations. We use linear elasticity theory to model the deformations of the composite graphene-substrate system. We compare experiment and theory, and thereby extract information about graphene\u2019s bending rigidity, adhesion, critical stress for interlayer sliding, and sample-dependent tension.",
+            "Probing the mechanical properties of graphene using a corrugated elastic substrate",
+            "Scott Scharfenberg and DZ Rocklin and Cesar Chialvo and Richard L Weaver and Paul M Goldbart and Nadya Mason",
+            "2011",
+            "S_kxV3IAAAAJ:u5HHmVD_uO8C",
+            142,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.3553228",
+            "10489119847137473020",
+            "\/scholar?cites=10489119847137473020",
+            {
+                "2011":6,
+                "2012":13,
+                "2013":15,
+                "2014":20,
+                "2015":31,
+                "2016":15,
+                "2017":17,
+                "2018":7,
+                "2019":10,
+                "2020":5,
+                "2021":2
+            }
+        ],
+        [
+            "We show that two-dimensional mechanical lattices can generically display topologically protected bulk zero-energy phonon modes at isolated points in the Brillouin zone, analogs of massless fermion modes of Weyl semimetals. We focus on deformed square lattices as the simplest Maxwell lattices, characterized by equal numbers of constraints and degrees of freedom, with this property. The Weyl points appear at the origin of the Brillouin zone along directions with vanishing sound speed and move away to the zone edge (or return to the origin) where they annihilate. Our results suggest a design strategy for topological metamaterials with bulk low-frequency acoustic modes and elastic instabilities at a particular, tunable finite wave vector.",
+            "Mechanical Weyl modes in topological Maxwell lattices",
+            "D Zeb Rocklin and Bryan Gin\u2013ge Chen and Martin Falk and Vincenzo Vitelli and TC Lubensky",
+            "2016",
+            "S_kxV3IAAAAJ:hqOjcs7Dif8C",
+            126,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.116.135503",
+            "16570597647565943796",
+            "\/scholar?cites=16570597647565943796",
+            {
+                "2016":10,
+                "2017":25,
+                "2018":34,
+                "2019":25,
+                "2020":30,
+                "2021":1
+            }
+        ],
+        [
+            "Mechanical metamaterials are engineered materials whose structures give them novel mechanical properties, including negative Poisson\u2019s ratios, negative compressibilities and phononic bandgaps. Of particular interest are systems near the point of mechanical instability, which recently have been shown to distribute force and motion in robust ways determined by a nontrivial topological state. Here we discuss the classification of and propose a design principle for mechanical metamaterials that can be easily and reversibly transformed between states with dramatically different mechanical and acoustic properties via a soft strain. Remarkably, despite the low energetic cost of this transition, quantities such as the edge stiffness and speed of sound can change by orders of magnitude. We show that the existence and form of a soft deformation directly determines floppy edge modes and phonon dispersion. Finally, we \u2026",
+            "Transformable topological mechanical metamaterials",
+            "D Zeb Rocklin and Shangnan Zhou and Kai Sun and Xiaoming Mao",
+            "2017",
+            "S_kxV3IAAAAJ:0EnyYjriUFMC",
+            101,
+            "https:\/\/www.nature.com\/articles\/ncomms14201?origin=ppub",
+            "3833191210487232689",
+            "\/scholar?cites=3833191210487232689",
+            {
+                "2016":1,
+                "2017":11,
+                "2018":26,
+                "2019":28,
+                "2020":34,
+                "2021":1
+            }
+        ],
+        [
+            "We give a bird's-eye view of the plastic deformation of crystals aimed at the statistical physics community, as well as a broad introduction to the statistical theories of forced rigid systems aimed at the plasticity community. Memory effects in magnets, spin glasses, charge density waves, and dilute colloidal suspensions are discussed in relation to the onset of plastic yielding in crystals. Dislocation avalanches and complex dislocation tangles are discussed via a brief introduction to the renormalization group and scaling. Analogies to emergent scale invariance in fracture, jamming, coarsening, and a variety of depinning transitions are explored. Dislocation dynamics in crystals challenge nonequilibrium statistical physics. Statistical physics provides both cautionary tales of subtle memory effects in nonequilibrium systems and systematic tools designed to address complex scale-invariant behavior on multiple length scales \u2026",
+            "Deformation of crystals: Connections with statistical physics",
+            "James P Sethna and Matthew K Bierbaum and Karin A Dahmen and Carl P Goodrich and Julia R Greer and Lorien X Hayden and Jaron P Kent-Dobias and Edward D Lee and Danilo B Liarte and Xiaoyue Ni and Katherine N Quinn and Archishman Raju and D Zeb Rocklin and Ashivni Shekhawat and Stefano Zapperi",
+            "2017",
+            "S_kxV3IAAAAJ:kNdYIx-mwKoC",
+            39,
+            "https:\/\/www.annualreviews.org\/doi\/abs\/10.1146\/annurev-matsci-070115-032036",
+            "12631464181915467959",
+            "\/scholar?cites=12631464181915467959",
+            {
+                "2017":3,
+                "2018":11,
+                "2019":16,
+                "2020":9
+            }
+        ],
+        [
+            "Open structures can display a number of unusual properties, including a negative Poisson's ratio, negative thermal expansion, and holographic elasticity, and have many interesting applications in engineering. However, it is a grand challenge to self-assemble open structures at the colloidal scale, where short-range interactions and low coordination number can leave them mechanically unstable. In this paper we discuss the self-assembly of three-dimensional open structures using triblock Janus particles, which have two large attractive patches that can form multiple bonds, separated by a band with purely hard-sphere repulsion. Such surface patterning leads to open structures that are stabilized by orientational entropy (in an order-by-disorder effect) and selected over close-packed structures by vibrational entropy. For different patch sizes the particles can form into either tetrahedral or octahedral structural motifs \u2026",
+            "Self-assembly of three-dimensional open structures using patchy colloidal particles",
+            "D Zeb Rocklin and Xiaoming Mao",
+            "2014",
+            "S_kxV3IAAAAJ:ufrVoPGSRksC",
+            31,
+            "https:\/\/pubs.rsc.org\/en\/content\/articlehtml\/2014\/sm\/c4sm00587b",
+            "13169972691064199659",
+            "\/scholar?cites=13169972691064199659",
+            {
+                "2014":2,
+                "2015":2,
+                "2016":5,
+                "2017":5,
+                "2018":6,
+                "2019":6,
+                "2020":4
+            }
+        ],
+        [
+            "We study rigidity percolation transitions in two-dimensional central-force isostatic lattices, including the square and the kagome lattices, as next-nearest-neighbor bonds (\u201cbraces\u201d) are randomly added to the system. In particular, we focus on the differences between regular lattices, which are perfectly periodic, and generic lattices with the same topology of bonds but whose sites are at random positions in space. We find that the regular square and kagome lattices exhibit a rigidity percolation transition when the number of braces is\u223c L ln L, where L is the linear size of the lattice. This transition exhibits features of both first-order and second-order transitions: The whole lattice becomes rigid at the transition, and a diverging length scale also exists. In contrast, we find that the rigidity percolation transition in the generic lattices occur when the number of braces is very close to the number obtained from Maxwell's law for \u2026",
+            "Rigidity percolation by next-nearest-neighbor bonds on generic and regular isostatic lattices",
+            "Leyou Zhang and D Zeb Rocklin and Bryan Gin-ge Chen and Xiaoming Mao",
+            "2015",
+            "S_kxV3IAAAAJ:_FxGoFyzp5QC",
+            27,
+            "https:\/\/journals.aps.org\/pre\/abstract\/10.1103\/PhysRevE.91.032124",
+            "7417050012868813657",
+            "\/scholar?cites=7417050012868813657",
+            {
+                "2015":2,
+                "2016":3,
+                "2017":2,
+                "2018":9,
+                "2019":7,
+                "2020":3,
+                "2021":1
+            }
+        ],
+        [
+            "Mechanical metamaterials are those structures designed to convey force and motion in novel and desirable ways. Recently, Kane and Lubensky showed that lattices at the point of marginal mechanical stability (Maxwell lattices) possess a topological invariant that describes the distribution of floppy, zero-energy edge modes. Here, we show that applying force at a point in the bulk of these lattices generates a directional mechanical response, in which stress or strain is induced only on one side of the force. This provides both a bulk metric for mechanical polarization and a design principle to convey stresses and strains towards or away from parts of the structure. We also characterize the effects of removing bonds on the material's structure and floppy modes, establishing a relationship between edge modes and bulk response.",
+            "Directional mechanical response in the bulk of topological metamaterials",
+            "D Zeb Rocklin",
+            "2017",
+            "S_kxV3IAAAAJ:MXK_kJrjxJIC",
+            23,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/1367-2630\/aa7155\/meta",
+            "8587128061864735559",
+            "\/scholar?cites=8587128061864735559",
+            {
+                "2017":4,
+                "2018":6,
+                "2019":6,
+                "2020":7
+            }
+        ],
+        [
+            "Rigidity percolation (RP) occurs when mechanical stability emerges in disordered networks as constraints or components are added. Here we discuss RP with structural correlations, an effect ignored in classical theories albeit relevant to many liquid-to-amorphous-solid transitions, such as colloidal gelation, which are due to attractive interactions and aggregation. Using a lattice model, we show that structural correlations shift RP to lower volume fractions. Through molecular dynamics simulations, we show that increasing attraction in colloidal gelation increases structural correlation and thus lowers the RP transition, agreeing with experiments. Hence, the emergence of rigidity at colloidal gelation can be understood as a RP transition, but occurs at volume fractions far below values predicted by the classical RP, due to attractive interactions which induce structural correlation.",
+            "Correlated rigidity percolation and colloidal gels",
+            "Shang Zhang and Leyou Zhang and Mehdi Bouzid and D Zeb Rocklin and Emanuela Del Gado and Xiaoming Mao",
+            "2019",
+            "S_kxV3IAAAAJ:mVmsd5A6BfQC",
+            20,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.123.058001",
+            "3124578555201032234",
+            "\/scholar?cites=3124578555201032234",
+            {
+                "2019":6,
+                "2020":13,
+                "2021":1
+            }
+        ],
+        [
+            "Limbless animals like snakes inhabit most terrestrial environments, generating thrust to overcome drag on the elongate body via contacts with heterogeneities. The complex body postures of some snakes and the unknown physics of most terrestrial materials frustrates understanding of strategies for effective locomotion. As a result, little is known about how limbless animals contend with unplanned obstacle contacts. We studied a desert snake, Chionactis occipitalis, which uses a stereotyped head-to-tail traveling wave to move quickly on homogeneous sand. In laboratory experiments, we challenged snakes to move across a uniform substrate and through a regular array of force-sensitive posts. The snakes were reoriented by the array in a manner reminiscent of the matter-wave diffraction of subatomic particles. Force patterns indicated the animals did not change their self-deformation pattern to avoid or grab the \u2026",
+            "Mechanical diffraction reveals the role of passive dynamics in a slithering snake",
+            "Perrin E Schiebel and Jennifer M Rieser and Alex M Hubbard and Lillian Chen and D Zeb Rocklin and Daniel I Goldman",
+            "2019",
+            "S_kxV3IAAAAJ:isC4tDSrTZIC",
+            19,
+            "https:\/\/www.pnas.org\/content\/116\/11\/4798.short",
+            "796690963186845528",
+            "\/scholar?cites=796690963186845528",
+            {
+                "2019":5,
+                "2020":13,
+                "2021":1
+            }
+        ],
+        [
+            "Crack nucleation, in which a crack is propagated via the concentration of stress at its tip, is a ubiquitous phenomenon. Here, we show via simulations and theory that in systems such as fiber networks that are below the point of mechanical stability, continuous nonlinear alignments lead to a steady state in which new load-bearing fiber chains emerge to replace those lost to fracture, preventing stress concentration and leading to the accumulation of distributed damage over a divergent length scale. In contrast to linear models that display diverging length scales at a critical point, this phenomenon occurs over a large parameter range, and is expected to be observed in biopolymer networks and porous artificial materials. This mixture of fiber alignment and fracture leads to massively greater energy dissipation and to fracture avalanche statistics distinct from those present in linear models.",
+            "Fiber networks below the isostatic point: Fracture without stress concentration",
+            "Leyou Zhang and D Zeb Rocklin and Leonard M Sander and Xiaoming Mao",
+            "2017",
+            "S_kxV3IAAAAJ:3fE2CSJIrl8C",
+            19,
+            "https:\/\/journals.aps.org\/prmaterials\/abstract\/10.1103\/PhysRevMaterials.1.052602",
+            "7275248826103061918",
+            "\/scholar?cites=7275248826103061918",
+            {
+                "2018":6,
+                "2019":5,
+                "2020":7,
+                "2021":1
+            }
+        ]
+    ]
+}

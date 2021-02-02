@@ -1,0 +1,76 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "7sxdrqoAAAAJ",
+            "Ciro Eduardo Rozo Correa",
+            "Universidad Santo Tom\u00e1s",
+            "@ustabuca.edu.co",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=7sxdrqoAAAAJ",
+            76,
+            [
+                "Computational chemistry"
+            ],
+            70,
+            4,
+            4,
+            3,
+            2,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"m8eqcOAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Castillo John J",
+                    "affiliation":"Universidad Industrial de Santander, Profesor Asociado, Escuela de Qu\u00edmica"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"zEy16ncAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Anja Boisen",
+                    "affiliation":"Professor, DTU Nanotech"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"vkT0-KQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tomas Rindzevicius",
+                    "affiliation":"Senior Researcher, DTU Health Tech"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "YJPM3JFZ",
+            "wAydSLsAAAAJ",
+            [
+                "Direct numerical simulations of forced and unforced separation bubbles on an airfoil at incidence",
+                "Stability and receptivity characteristics of a laminar separation bubble on an aerofoil"
+            ],
+            [
+                "Direct numerical simulations (DNS) of laminar separation bubbles on a NACA-0012 airfoil at Re-c = 5 x 10(4) and incidence 5 degrees are presented. Initially volume forcing is introduced in order to promote transition to turbulence. After obtaining sufficient data from this forced case, the explicitly added disturbances are removed and the simulation run further. With no forcing the turbulence is observed to self-sustain, with increased turbulence intensity in the reattachment region. A comparison of the forced and unforced cases shows that the forcing improves the aerodynamic performance whilst requiring little energy input. Classical linear stability analysis is performed upon the time-averaged flow field; however no absolute instability is observed that could explain the presence of self-sustaining turbulence. Finally, a series of simplified DNS are presented that illustrate a three-dimensional absolute instability of the two-dimensional vortex shedding that occurs naturally. Three-dimensional perturbations are amplified in the braid region of developing vortices, and subsequently convected upstream by local regions of reverse flow, within which the upstream velocity magnitude greatly exceeds that of the time-average. The perturbations are convected into the braid region of the next developing vortex, where they are amplified further, hence the cycle repeats with increasing amplitude. The fact that this transition process is independent of upstream disturbances has implications for modelling separation bubbles.",
+                "Stability characteristics of aerofoil flows are investigated by linear stability analysis of time-averaged velocity profiles and by direct numerical simulations with time-dependent forcing terms. First the wake behind an aerofoil is investigated, illustrating the feasibility of detecting absolute instability using these methods. The time-averaged flow around an NACA-0012 aerofoil at incidence is then investigated in terms of its response to very low-amplitude hydrodynamic and acoustic perturbations. Flow fields obtained from both two-and three-dimensional simulations are investigated, for which the aerofoil flow exhibits a laminar separation bubble. Convective stability characteristics are documented, and the separation bubble is found to exhibit no absolute instability in the classical sense; ie no growing disturbances with zero group velocity are observed. The flow is however found to be globally unstable via an acoustic \u2026"
+            ],
+            [
+                [
+                    "Aeroacoustics",
+                    "Computational Fluid Dynamics",
+                    "Turbomachinery",
+                    "Turbulence",
+                    "Machine Learning"
+                ]
+            ]
+        ]
+    ]
+}

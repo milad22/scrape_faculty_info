@@ -1,0 +1,79 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "CpxzVKsAAAAJ",
+            "Mojtaba Taghipour Kaffash",
+            "PhD Candidate, University of Delaware",
+            "@udel.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=CpxzVKsAAAAJ",
+            15,
+            [
+                "Spintronics",
+                "Magnonics",
+                "Nanomagnetism",
+                "Spin Dynamics"
+            ],
+            15,
+            2,
+            2,
+            0,
+            0,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"d9G4KxYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"M. Benjamin Jungfleisch",
+                    "affiliation":"Department of Physics and Astronomy, University of Delaware"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"mZznXC4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sergi Lend\u00ednez",
+                    "affiliation":"University of Delaware"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"aga8PZHidLkC",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Saeed Batebi",
+                    "affiliation":"Professor of physics"
+                }
+            ]
+        ]
+    ]
+}

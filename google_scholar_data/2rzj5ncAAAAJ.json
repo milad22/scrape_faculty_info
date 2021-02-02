@@ -1,0 +1,56 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "2rzj5ncAAAAJ",
+            "Julmar Shaun Sadicon Toralde",
+            "Weatherford",
+            "@weatherford.com",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=2rzj5ncAAAAJ",
+            181,
+            [
+                "Drilling",
+                "Managed Pressure Drilling (MPD)",
+                "Casing Valve",
+                "Deepwater",
+                "Geothermal Engineering"
+            ],
+            83,
+            7,
+            4,
+            4,
+            1,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"dH8vxgEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tutuko Prajogo",
+                    "affiliation":"International University Liaison Indonesia - IULI"
+                }
+            ]
+        ]
+    ]
+}

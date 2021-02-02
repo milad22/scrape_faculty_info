@@ -1,0 +1,43 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "KEI6M8Y4",
+            "er33C2AAAAAJ",
+            [
+                "POEMMA: probe of extreme multi-messenger astrophysics",
+                "Nanosecond-level time synchronization of autonomous radio detector stations for extensive air showers",
+                "Cosmic ray oriented performance studies for the JEM-EUSO first level trigger",
+                "EUSO-TA\u2013First results from a ground-based EUSO telescope",
+                "Ultra-violet imaging of the night-time earth by EUSO-Balloon towards space-based ultra-high energy cosmic ray observations",
+                "First observations of speed of light tracks by a fluorescence detector looking down on the atmosphere",
+                "Meteor studies in the framework of the JEM-EUSO program",
+                "Performance results of the trigger logic implemented in EUSO-SPB"
+            ],
+            [
+                "The Probe Of Extreme Multi-Messenger Astrophysics (POEMMA) mission is being designed to establish charged-particle astronomy with ultra-high energy cosmic rays (UHECRs) and to observe cosmogenic tau neutrinos (CTNs). The study of UHECRs and CTNs from space will yield orders-of-magnitude increase in statistics of observed UHECRs at the highest energies, and the observation of the cosmogenic flux of neutrinos for a range of UHECR models. These observations should solve the long-standing puzzle of the origin of the highest energy particles ever observed, providing a new window onto the most energetic environments and events in the Universe, while studying particle interactions well beyond accelerator energies. The discovery of CTNs will help solve the puzzle of the origin of UHECRs and begin a new field of Astroparticle Physics with the study of neutrino properties at ultra-high energies.",
+                "In the last few years, radio detection of cosmic rays has matured from small prototype installations to full-fledged experiments contributing valuable information in the field of cosmic-ray physics [1]. In particular, radio detection has proven to be able to extract information on the energy [2\u20134] and mass [2, 5\u20137] of the primary cosmic rays with a quality competitive with other detection techniques. To maximize the potential of radio detection arrays, a precise time synchronization of individual radio detector stations is needed. This is true in particular if interferometric analysis techniques are to be employed [8]. Another analysis strategy that requires very precise timing is the determination of the opening angle of the hyperbolic wavefront emitted by extensive air showers to deduce masssensitive parameters [9]. The consequence is that any radio detectors operating in the frequency band below 100 MHz need a time \u2026",
+                "JEM-EUSO is a space mission designed to investigate Ultra-High Energy Cosmic Rays and Neutrinos (E> 5\u22c5 1 0 19 eV) from the International Space Station (ISS). Looking down from above its wide angle telescope is able to observe their air showers and collect such data from a very wide area. Highly specific trigger algorithms are needed to drastically reduce the data load in the presence of both atmospheric and human activity related background light, yet retain the rare cosmic ray events recorded in the telescope. We report the performance in offline testing of the first level trigger algorithm on data from JEM-EUSO prototypes and laboratory measurements observing different light sources: data taken during a high altitude balloon flight over Canada, laser pulses observed from the ground traversing the real atmosphere, and model landscapes reproducing realistic aspect ratios and light conditions as would be \u2026",
+                "EUSO-TA is a ground-based telescope, installed at the Telescope Array (TA) site in Black Rock Mesa, Utah, USA. This is the first detector to successfully use a Fresnel lens based optical system and multi-anode photomultipliers (64 channels per tube, 2304 channels encompassing a 10.6\u00b0\u202f\u00d7\u202f10.6\u00b0 field of view) for detection of Ultra High Energy Cosmic Rays (UHECR). The telescope is located in front of one of the fluorescence detectors of the TA experiment. Since its installation in 2013, the detector has observed several ultra-high energy cosmic ray events and, in addition, meteors. The limiting magnitude of 5.5 on summed frames (\u202f\u223c\u202f3 ms) has been established. Measurements of the UV night sky emission in different conditions and moon phases and positions have been completed. The performed observations serve as a proof of concept for the future application of this detector technology.",
+                "The JEM-EUSO (Joint Experiment Missions for the Extreme Universe Space Observatory) program aims at developing Ultra-Violet (UV) fluorescence telescopes for efficient detections of Extensive Air Showers (EASs) induced by Ultra-High Energy Cosmic Rays (UHECRs) from satellite orbit. In order to demonstrate key technologies for JEM-EUSO, we constructed the EUSO-Balloon instrument that consists of a \u223c1 m2 refractive telescope with two Fresnel lenses and an array of multi-anode photo-multiplier tubes at the focus. Distinguishing it from the former balloon-borne experiments, EUSO-Balloon has the capabilities of single photon counting with a gate time of 2.3 \u00b5s and of imaging with a total of 2304 pixels. As a pathfinder mission, the instrument was launched for an 8 h stratospheric flight on a moonless night in August 2014 over Timmins, Canada. In this work, we analyze the count rates over \u223c2.5 h intervals \u2026",
+                "To measure extreme energy cosmic rays with high statistics a large observation area is needed. One option is to go to space. JEM-EUSO (Extreme Universe Space Observatory on board the Japanese Experiment Module) is a planned fluorescence detector on the International Space Station [1]. It is designed to measure the light of extensive air showers developing in the Earth\u2019s atmosphere beneath the detector. Further space instruments in the design stage are KLYPVE-EUSO [2] and POEMMA [3]. Various prototypes are being developed for the JEM-EUSO mission [4\u20136]. The first one looking down onto the atmosphere, was EUSO-Balloon. The EUSO-balloon mission had three main objectives:",
+                "We summarize the state of the art of a program of UV observations from space of meteor phenomena, a secondary objective of the JEM-EUSO international collaboration. Our preliminary analysis indicates that JEM-EUSO, taking advantage of its large FOV and good sensitivity, should be able to detect meteors down to absolute magnitude close to 7. This means that JEM-EUSO should be able to record a statistically significant flux of meteors, including both sporadic ones, and events produced by different meteor streams. Being unaffected by adverse weather conditions, JEM-EUSO can also be a very important facility for the detection of bright meteors and fireballs, as these events can be detected even in conditions of very high sky background. In the case of bright events, moreover, exhibiting some persistence of the meteor train, preliminary simulations show that it should be possible to exploit the motion of the ISS \u2026",
+                "EUSO-SPB (Extreme Universe Space Observatory-Super Pressure Balloon) was the first mission of the JEM-EUSO program which implemented the First Level Trigger (FLT) logic to detect Ultra-High Energy Cosmic Rays (UHECRs) following the scheme developed for the JEM-EUSO mission. Experimental results matched the expected behavior of the logic and satisfied the requirements conceived for the FLT. The sensitivity of EUSO-SPB to the detection of UHECRs was established."
+            ],
+            [
+                [
+                    "Cosmic Ray Physics    Astoparticle Physics"
+                ]
+            ]
+        ]
+    ]
+}

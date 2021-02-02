@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "U2IBBKQA",
+            "siYpAPsAAAAJ",
+            [
+                "Small-world brain networks",
+                "Dynamic reconfiguration of human brain networks during learning",
+                "Functional connectivity and brain networks in schizophrenia",
+                "Hierarchical organization of human cortical networks in health and schizophrenia",
+                "Intrinsic and task-evoked network architectures of the human brain",
+                "Brain graphs: graphical models of the human brain connectome",
+                "Network neuroscience",
+                "Adaptive reconfiguration of fractal small-world human brain functional networks",
+                "Human brain networks in health and disease",
+                "Know your place: neural processing of social hierarchy in humans"
+            ],
+            [
+                "Many complex networks have a small-world topology characterized by dense local clustering or cliquishness of connections between neighboring nodes yet a short path length between any (distant) pair of nodes due to the existence of relatively few long-range connections. This is an attractive model for the organization of brain anatomical and functional networks because a small-world topology can support both segregated\/specialized and distributed\/integrated information processing. Moreover, small-world networks are economical, tending to minimize wiring costs while supporting high dynamical complexity. The authors introduce some of the key mathematical concepts in graph theory required for small-world analysis and review how these methods have been applied to quantification of cortical connectivity matrices derived from anatomical tract-tracing studies in the macaque monkey and the cat. The evolution \u2026",
+                "Human learning is a complex phenomenon requiring flexibility to adapt existing brain function and precision in selecting new neurophysiological activities to drive desired behavior. These two attributes\u2014flexibility and selection\u2014must operate over multiple temporal scales as performance of a skill changes from being slow and challenging to being fast and automatic. Such selective adaptability is naturally provided by modular structure, which plays a critical role in evolution, development, and optimal network function. Using functional connectivity measurements of brain activity acquired from initial training through mastery of a simple motor skill, we investigate the role of modularity in human learning by identifying dynamic changes of modular organization spanning multiple temporal scales. Our results indicate that flexibility, which we measure by the allegiance of nodes to modules, in one experimental session \u2026",
+                "Schizophrenia has often been conceived as a disorder of connectivity between components of large-scale brain networks. We tested this hypothesis by measuring aspects of both functional connectivity and functional network topology derived from resting-state fMRI time series acquired at 72 cerebral regions over 17 min from 15 healthy volunteers (14 male, 1 female) and 12 people diagnosed with schizophrenia (10 male, 2 female). We investigated between-group differences in strength and diversity of functional connectivity in the 0.06\u20130.125 Hz frequency interval, and some topological properties of undirected graphs constructed from thresholded interregional correlation matrices. In people with schizophrenia, strength of functional connectivity was significantly decreased, whereas diversity of functional connections was increased. Topologically, functional brain networks had reduced clustering and small \u2026",
+                "The complex organization of connectivity in the human brain is incompletely understood. Recently, topological measures based on graph theory have provided a new approach to quantify large-scale cortical networks. These methods have been applied to anatomical connectivity data on nonhuman species, and cortical networks have been shown to have small-world topology, associated with high local and global efficiency of information transfer. Anatomical networks derived from cortical thickness measurements have shown the same organizational properties of the healthy human brain, consistent with similar results reported in functional networks derived from resting state functional magnetic resonance imaging (MRI) and magnetoencephalographic data. Here we show, using anatomical networks derived from analysis of inter-regional covariation of gray matter volume in MRI data on 259 healthy volunteers, that \u2026",
+                "Many functional network properties of the human brain have been identified during rest and task states, yet it remains unclear how the two relate. We identified a whole-brain network architecture present across dozens of task states that was highly similar to the resting-state network architecture. The most frequent functional connectivity strengths across tasks closely matched the strengths observed at rest, suggesting this is an \u201cintrinsic,\u201d standard architecture of functional brain organization. Furthermore, a set of small but consistent changes common across tasks suggests the existence of a task-general network architecture distinguishing task states from rest. These results indicate the brain\u2019s functional network architecture during task performance is shaped primarily by an intrinsic network architecture that is also present during rest, and secondarily by evoked task-general and task-specific network changes. This \u2026",
+                "Brain graphs provide a relatively simple and increasingly popular way of modeling the human brain connectome, using graph theory to abstractly define a nervous system as a set of nodes (denoting anatomical regions or recording electrodes) and interconnecting edges (denoting structural or functional connections). Topological and geometrical properties of these graphs can be measured and compared to random graphs and to graphs derived from other neuroscience data or other (nonneural) complex systems. Both structural and functional human brain graphs have consistently demonstrated key topological properties such as small-worldness, modularity, and heterogeneous degree distributions. Brain graphs are also physically embedded so as to nearly minimize wiring cost, a key geometric property. Here we offer a conceptual review and methodological guide to graphical analysis of human neuroimaging \u2026",
+                "Despite substantial recent progress, our understanding of the principles and mechanisms underlying complex brain function and cognition remains incomplete. Network neuroscience proposes to tackle these enduring challenges. Approaching brain structure and function from an explicitly integrative perspective, network neuroscience pursues new ways to map, record, analyze and model the elements and interactions of neurobiological systems. Two parallel trends drive the approach: the availability of new empirical tools to create comprehensive maps and record dynamic patterns among molecules, neurons, brain areas and social systems; and the theoretical framework and computational tools of modern network science. The convergence of empirical and computational advances opens new frontiers of scientific inquiry, including network dynamics, manipulation and control of brain networks, and integration of \u2026",
+                "Brain function depends on adaptive self-organization of large-scale neural assemblies, but little is known about quantitative network parameters governing these processes in humans. Here, we describe the topology and synchronizability of frequency-specific brain functional networks using wavelet decomposition of magnetoencephalographic time series, followed by construction and analysis of undirected graphs. Magnetoencephalographic data were acquired from 22 subjects, half of whom performed a finger-tapping task, whereas the other half were studied at rest. We found that brain functional networks were characterized by small-world properties at all six wavelet scales considered, corresponding approximately to classical \u03b4 (low and high), \u03b8, \u03b1, \u03b2, and \u03b3 frequency bands. Global topological parameters (path length, clustering) were conserved across scales, most consistently in the frequency range 2\u201337 Hz \u2026",
+                "Graph theoretical analysis of neuroimaging data is growing rapidly and could potentially provide a relatively simple but powerful quantitative framework to describe and compare whole human brain structural and functional networks under diverse experimental and clinical conditions.",
+                "Social hierarchies guide behavior in many species, including humans, where status also has an enormous impact on motivation and health. However, little is known about the underlying neural representation of social hierarchies in humans. In the present study, we identify dissociable neural responses to perceived social rank using functional magnetic resonance imaging (fMRI) in an interactive, simulated social context. In both stable and unstable social hierarchies, viewing a superior individual differentially engaged perceptual-attentional, saliency, and cognitive systems, notably dorsolateral prefrontal cortex. In the unstable hierarchy setting, additional regions related to emotional processing (amygdala), social cognition (medial prefrontal cortex), and behavioral readiness were recruited. Furthermore, social hierarchical consequences of performance were neurally dissociable and of comparable salience to \u2026"
+            ],
+            [
+                [
+                    "complex systems",
+                    "neuroscience",
+                    "human behavior",
+                    "soft matter and statistical physics"
+                ]
+            ]
+        ]
+    ]
+}

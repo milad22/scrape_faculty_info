@@ -1,0 +1,53 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "Wide binaries with hot subdwarf-B (sdB) primaries and main sequence companions are thought to form only through stable Roche-lobe overflow (RLOF) of the sdB progenitor near the tip of the red giant branch (RGB). We present the orbital parameters of 11 new long-period composite sdB binaries based on spectroscopic observations obtained with the UVES, FEROS, and CHIRON spectrographs. Using all wide sdB binaries with known orbital parameters, 23 systems, the observed period distribution is found to match very well with theoretical predictions. A second result is the strong correlation between the orbital period (P) and the mass ratio (q) in the observed wide sdB binaries. In the P-q plane two distinct groups emerge, with the main group (18 systems) showing a strong correlation of lower mass ratios at longer orbital periods. The second group comprises systems that are thought to be formed from \u2026",
+            "The orbital period\u2013mass ratio relation of wide sdB+ MS binaries and its application to the stability of RLOF",
+            "Joris Vos and Maja Vu\u010dkovi\u0107 and Xuefei Chen and Zhanwen Han and Thomas Boudreaux and Brad N Barlow and Roy \u00d8stensen and P\u00e9ter N\u00e9meth",
+            "2019",
+            "T7Sssw0AAAAJ:UeHWp8X0CEIC",
+            18,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/482\/4\/4592\/5173109",
+            "8590398773717496716",
+            "\/scholar?cites=8590398773717496716",
+            {
+                "2019":9,
+                "2020":7,
+                "2021":2
+            }
+        ],
+        [
+            "NASA's Galaxy Evolution Explorer (GALEX) provided near-and far-UV observations for approximately 77% of the sky over a 10-year period; however, the data reduction pipeline initially only released single NUV and FUV images to the community. The recently released Python module gPhoton changes this, allowing calibrated time-series aperture photometry to be extracted easily from the raw GALEX data set. Here we use gPhoton to generate light curves for all hot subdwarf B (sdB) stars that were observed by GALEX, with the intention of identifying short-period, p-mode pulsations. We find that the spacecraft's short visit durations, uneven gaps between visits, and dither pattern make the detection of hot subdwarf pulsations difficult. Nonetheless, we detect UV variations in four previously known pulsating targets and report their UV pulsation amplitudes and frequencies. Additionally, we find that several other sdB \u2026",
+            "A Search for Rapidly Pulsating Hot Subdwarf Stars in the GALEX Survey",
+            "Thomas M Boudreaux and Brad N Barlow and Scott W Fleming and Alan Vasquez Soto and Chase Million and Dan E Reichart and Josh B Haislip and Tyler R Linder and Justin P Moore",
+            "2017",
+            "T7Sssw0AAAAJ:u-x6o8ySG0sC",
+            10,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/1538-4357\/aa8263\/meta",
+            "16491337915315967230",
+            "\/scholar?cites=16491337915315967230",
+            {
+                "2017":2,
+                "2018":3,
+                "2019":1,
+                "2020":4
+            }
+        ]
+    ]
+}

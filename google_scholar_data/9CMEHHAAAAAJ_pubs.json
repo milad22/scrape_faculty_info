@@ -1,0 +1,226 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "data":[
+        [
+            "DNA-based machines that walk by converting chemical energy into controlled motion could be of use in applications such as next-generation sensors, drug-delivery platforms and biological computing. Despite their exquisite programmability, DNA-based walkers are challenging to work with because of their low fidelity and slow rates (\u223c 1 nm min\u20131). Here we report DNA-based machines that roll rather than walk, and consequently have a maximum speed and processivity that is three orders of magnitude greater than the maximum for conventional DNA motors. The motors are made from DNA-coated spherical particles that hybridize to a surface modified with complementary RNA; the motion is achieved through the addition of RNase H, which selectively hydrolyses the hybridized RNA. The spherical motors can move in a self-avoiding manner, and anisotropic particles, such as dimerized or rod-shaped particles \u2026",
+            "High-speed DNA-based rolling motors powered by RNase H",
+            "Kevin Yehl and Andrew Mugler and Skanda Vivek and Yang Liu and Yun Zhang and Mengzhen Fan and Eric R Weeks and Khalid Salaita",
+            "2016",
+            "9CMEHHAAAAAJ:UebtZRa9Y70C",
+            109,
+            "https:\/\/www.nature.com\/nnano\/journal\/v11\/n2\/full\/nnano.2015.259.html",
+            "7776929105747156500",
+            "\/scholar?cites=7776929105747156500",
+            {
+                "2016":8,
+                "2017":12,
+                "2018":27,
+                "2019":35,
+                "2020":20,
+                "2021":7
+            }
+        ],
+        [
+            "Signal-processing molecules inside cells are often present at low copy number, which necessitates probabilistic models to account for intrinsic noise. Probability distributions have traditionally been found using simulation-based approaches which then require estimating the distributions from many samples. Here we present in detail an alternative method for directly calculating a probability distribution by expanding in the natural eigenfunctions of the governing equation, which is linear. We apply the resulting spectral method to three general models of stochastic gene expression: a single gene with multiple expression states (often used as a model of bursting in the limit of two states), a gene regulatory cascade, and a combined model of bursting and regulation. In all cases we find either analytic results or numerical prescriptions that greatly outperform simulations in efficiency and accuracy. In the last case, we show \u2026",
+            "Spectral solutions to stochastic models of gene expression with bursts and regulation",
+            "Andrew Mugler and Aleksandra M Walczak and Chris H Wiggins",
+            "2009",
+            "9CMEHHAAAAAJ:d1gkVwhDpl0C",
+            85,
+            "https:\/\/journals.aps.org\/pre\/abstract\/10.1103\/PhysRevE.80.041921",
+            "16874230877561268341",
+            "\/scholar?cites=16874230877561268341",
+            {
+                "2010":3,
+                "2011":3,
+                "2012":11,
+                "2013":10,
+                "2014":5,
+                "2015":8,
+                "2016":18,
+                "2017":6,
+                "2018":3,
+                "2019":9,
+                "2020":9
+            }
+        ],
+        [
+            "Collective cell responses to exogenous cues depend on cell\u2013cell interactions. In principle, these can result in enhanced sensitivity to weak and noisy stimuli. However, this has not yet been shown experimentally, and little is known about how multicellular signal processing modulates single-cell sensitivity to extracellular signaling inputs, including those guiding complex changes in the tissue form and function. Here we explored whether cell\u2013cell communication can enhance the ability of cell ensembles to sense and respond to weak gradients of chemotactic cues. Using a combination of experiments with mammary epithelial cells and mathematical modeling, we find that multicellular sensing enables detection of and response to shallow epidermal growth factor (EGF) gradients that are undetectable by single cells. However, the advantage of this type of gradient sensing is limited by the noisiness of the signaling \u2026",
+            "Cell\u2013cell communication enhances the capacity of cell ensembles to sense shallow gradients during morphogenesis",
+            "David Ellison and Andrew Mugler and Matthew D Brennan and Sung Hoon Lee and Robert J Huebner and Eliah R Shamir and Laura A Woo and Joseph Kim and Patrick Amar and Ilya Nemenman and Andrew J Ewald and Andre Levchenko",
+            "2016",
+            "9CMEHHAAAAAJ:hqOjcs7Dif8C",
+            84,
+            "https:\/\/www.pnas.org\/content\/113\/6\/E679.short",
+            "14535622220640838271",
+            "\/scholar?cites=14535622220640838271",
+            {
+                "2016":15,
+                "2017":13,
+                "2018":23,
+                "2019":23,
+                "2020":10
+            }
+        ],
+        [
+            "The past decade has seen great advances in our understanding of the role of noise in gene regulation and the physical limits to signaling in biological networks. Here, we introduce the spectral method for computation of the joint probability distribution over all species in a biological network. The spectral method exploits the natural eigenfunctions of the master equation of birth \u2013 death processes to solve for the joint distribution of modules within the network, which then inform each other and facilitate calculation of the entire joint distribution. We illustrate the method on a ubiquitous case in nature: linear regulatory cascades. The efficiency of the method makes possible numerical optimization of the input and regulatory parameters, revealing design properties of, e.g., the most informative cascades. We find, for threshold regulation, that a cascade of strong regulations converts a unimodal input to a bimodal output, that \u2026",
+            "A stochastic spectral analysis of transcriptional regulatory cascades",
+            "Aleksandra M Walczak and Andrew Mugler and Chris H Wiggins",
+            "2009",
+            "9CMEHHAAAAAJ:u5HHmVD_uO8C",
+            80,
+            "https:\/\/www.pnas.org\/content\/106\/16\/6529.short",
+            "10741318715764173137",
+            "\/scholar?cites=10741318715764173137",
+            {
+                "2009":4,
+                "2010":13,
+                "2011":8,
+                "2012":10,
+                "2013":9,
+                "2014":8,
+                "2015":6,
+                "2016":6,
+                "2017":5,
+                "2018":2,
+                "2019":6,
+                "2020":1
+            }
+        ],
+        [
+            "In many cellular signaling pathways, key components form clusters at the cell membrane. Although much work has focused on the mechanisms behind such cluster formation, the implications for downstream signaling remain poorly understood. Here, motivated by recent experiments, we use particle-based simulation to study a covalent modification network in which the activating component is either clustered or randomly distributed on the membrane. We find that whereas clustering reduces the response of a single-modification network, it can enhance the response of a double-modification network. The reduction is a bulk effect: a cluster presents a smaller effective target to a substrate molecule in the bulk. The enhancement, on the other hand, is a local effect: a cluster promotes the rapid rebinding and second activation of singly activated substrate molecules. As such, the enhancement relies on frequent collisions \u2026",
+            "Membrane clustering and the role of rebinding in biochemical signaling",
+            "Andrew Mugler and Aimee Gotway Bailey and Koichi Takahashi and Pieter Rein ten Wolde",
+            "2012",
+            "9CMEHHAAAAAJ:9yKSN-GCB0IC",
+            73,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0006349512002056",
+            "18241713300365337129",
+            "\/scholar?cites=18241713300365337129",
+            {
+                "2012":11,
+                "2013":14,
+                "2014":8,
+                "2015":8,
+                "2016":5,
+                "2017":4,
+                "2018":6,
+                "2019":8,
+                "2020":9
+            }
+        ],
+        [
+            "Spatial heterogeneity is a hallmark of living systems, even at the molecular scale in individual cells. A key example is the partitioning of membrane-bound proteins via lipid domain formation or cytoskeleton-induced corralling. However, the impact of this spatial heterogeneity on biochemical signaling processes is poorly understood. Here, we demonstrate that partitioning improves the reliability of biochemical signaling. We exactly solve a stochastic model describing a ubiquitous motif in membrane signaling. The solution reveals that partitioning improves signaling reliability via two effects: it moderates the nonlinearity of the switching response, and it reduces noise in the response by suppressing correlations between molecules. An optimal partition size arises from a trade-off between minimizing the number of proteins per partition to improve signaling reliability and ensuring sufficient proteins per partition to maintain \u2026",
+            "Spatial partitioning improves the reliability of biochemical signaling",
+            "Andrew Mugler and Filipe Tostevin and Pieter Rein Ten Wolde",
+            "2013",
+            "9CMEHHAAAAAJ:W7OEmFMy1HYC",
+            59,
+            "https:\/\/www.pnas.org\/content\/110\/15\/5927.short",
+            "6540331892100922999",
+            "\/scholar?cites=6540331892100922999",
+            {
+                "2013":2,
+                "2014":11,
+                "2015":10,
+                "2016":8,
+                "2017":9,
+                "2018":6,
+                "2019":8,
+                "2020":4
+            }
+        ],
+        [
+            "In the last 10 years, laser-driven fusion experiments performed on atomic clusters of deuterium have shown a surprisingly high neutron yield per joule of input laser energy. Results indicate that the optimal cluster size for maximizing fusion events should be in the 0.01\u20131 \u03bcm diameter range, but an appropriate source of droplets of this size does not exist. In an attempt to meet this need, we use ultrasonic atomization to generate micron-scale droplet aerosols of high average density, and we have developed and refined a reliable droplet sizing technique based on Mie scattering. Harmonic excitation of the fluid in the MHz range yields an aerosol of droplets with diameters of a few microns. The droplet diameter distribution is well-peaked and the relationship between average droplet size and forcing frequency follows an inviscid scaling law, predictable by dimensional analysis and consistent with the linear theory for \u2026",
+            "An experimental study of micron-scale droplet aerosols produced via ultrasonic atomization",
+            "Thomas D Donnelly and J Hogan and A Mugler and N Schommer and M Schubmehl and Andrew J Bernoff and B Forrest",
+            "2004",
+            "9CMEHHAAAAAJ:u-x6o8ySG0sC",
+            58,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.1759271",
+            "16854466113074574686",
+            "\/scholar?cites=16854466113074574686",
+            {
+                "2005":1,
+                "2006":2,
+                "2007":2,
+                "2008":2,
+                "2009":3,
+                "2010":2,
+                "2011":6,
+                "2012":4,
+                "2013":4,
+                "2014":4,
+                "2015":5,
+                "2016":3,
+                "2017":6,
+                "2018":9,
+                "2019":5
+            }
+        ],
+        [
+            "In recent years experiments have demonstrated that living cells can measure low chemical concentrations with high precision, and much progress has been made in understanding what sets the fundamental limit to the precision of chemical sensing. Chemical concentration measurements start with the binding of ligand molecules to receptor proteins, which is an inherently noisy process, especially at low concentrations. The signaling networks that transmit the information on the ligand concentration from the receptors into the cell have to filter this receptor input noise as much as possible. These networks, however, are also intrinsically stochastic in nature, which means that they will also add noise to the transmitted signal. In this review, we will first discuss how the diffusive transport and binding of ligand to the receptor sets the receptor correlation time, which is the timescale over which fluctuations in the \u2026",
+            "Fundamental limits to cellular sensing",
+            "Pieter Rein ten Wolde and Nils B Becker and Thomas E Ouldridge and Andrew Mugler",
+            "2016",
+            "9CMEHHAAAAAJ:5nxA0vEk-isC",
+            56,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/s10955-015-1440-5.pdf",
+            "14050723643658038254",
+            "\/scholar?cites=14050723643658038254",
+            {
+                "2016":3,
+                "2017":13,
+                "2018":14,
+                "2019":13,
+                "2020":10,
+                "2021":2
+            }
+        ],
+        [
+            "Recent single-cell experiments have revived interest in the unavoidable or intrinsic noise in biochemical and genetic networks arising from the small number of molecules of the participating species. That is, rather than modeling regulatory networks in terms of the deterministic dynamics of concentrations, we model the dynamics of the probability of a given copy number of the reactants in single cells. Most of the modeling activity of the last decade has centered on stochastic simulation, i.e., Monte Carlo methods for generating stochastic time series. Here we review the mathematical description in terms of probability distributions, introducing the relevant derivations and illustrating several cases for which analytic progress can be made either instead of or before turning to numerical computation. Analytic progress can be useful both for suggesting more efficient numerical methods and for obviating the \u2026",
+            "Analytic methods for modeling stochastic regulatory networks",
+            "Aleksandra M Walczak and Andrew Mugler and Chris H Wiggins",
+            "2012",
+            "9CMEHHAAAAAJ:UeHWp8X0CEIC",
+            48,
+            "https:\/\/link.springer.com\/protocol\/10.1007\/978-1-61779-833-7_13",
+            "8653674014479850251",
+            "\/scholar?cites=8653674014479850251",
+            {
+                "2011":4,
+                "2012":5,
+                "2013":2,
+                "2014":3,
+                "2015":3,
+                "2016":7,
+                "2017":6,
+                "2018":5,
+                "2019":7,
+                "2020":6
+            }
+        ]
+    ]
+}

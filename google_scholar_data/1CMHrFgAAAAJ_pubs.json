@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "The many-body formalism for dynamical mean-field theory is extended to treat nonequilibrium problems. We illustrate how the formalism works by examining the transient decay of the oscillating current that is driven by a large electric field turned on at time t= 0. We show how the Bloch oscillations are quenched by the electron-electron interactions, and how their character changes dramatically for a Mott insulator.",
+            "Nonequilibrium dynamical mean-field theory",
+            "and V. Zlati\u0107 J. K. Freericks and V.M. Turkowski",
+            "2006",
+            "1CMHrFgAAAAJ:ZeXyd9-uunAC",
+            283,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.97.266408",
+            "11575607243232375585",
+            "\/scholar?cites=11575607243232375585",
+            {
+                "2007":6,
+                "2008":11,
+                "2009":11,
+                "2010":18,
+                "2011":25,
+                "2012":25,
+                "2013":25,
+                "2014":26,
+                "2015":22,
+                "2016":26,
+                "2017":27,
+                "2018":23,
+                "2019":18,
+                "2020":19,
+                "2021":1
+            }
+        ]
+    ]
+}

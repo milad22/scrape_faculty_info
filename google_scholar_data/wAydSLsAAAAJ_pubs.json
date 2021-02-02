@@ -1,0 +1,72 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "Direct numerical simulations (DNS) of laminar separation bubbles on a NACA-0012 airfoil at Re-c = 5 x 10(4) and incidence 5 degrees are presented. Initially volume forcing is introduced in order to promote transition to turbulence. After obtaining sufficient data from this forced case, the explicitly added disturbances are removed and the simulation run further. With no forcing the turbulence is observed to self-sustain, with increased turbulence intensity in the reattachment region. A comparison of the forced and unforced cases shows that the forcing improves the aerodynamic performance whilst requiring little energy input. Classical linear stability analysis is performed upon the time-averaged flow field; however no absolute instability is observed that could explain the presence of self-sustaining turbulence. Finally, a series of simplified DNS are presented that illustrate a three-dimensional absolute instability of the two-dimensional vortex shedding that occurs naturally. Three-dimensional perturbations are amplified in the braid region of developing vortices, and subsequently convected upstream by local regions of reverse flow, within which the upstream velocity magnitude greatly exceeds that of the time-average. The perturbations are convected into the braid region of the next developing vortex, where they are amplified further, hence the cycle repeats with increasing amplitude. The fact that this transition process is independent of upstream disturbances has implications for modelling separation bubbles.",
+            "Direct numerical simulations of forced and unforced separation bubbles on an airfoil at incidence",
+            "LE Jones and RD Sandberg and ND Sandham",
+            "2008",
+            "wAydSLsAAAAJ:u5HHmVD_uO8C",
+            290,
+            "https:\/\/eprints.soton.ac.uk\/55698\/",
+            "11572113273102343037",
+            "\/scholar?cites=11572113273102343037",
+            {
+                "2008":2,
+                "2009":7,
+                "2010":20,
+                "2011":20,
+                "2012":24,
+                "2013":18,
+                "2014":20,
+                "2015":31,
+                "2016":20,
+                "2017":27,
+                "2018":34,
+                "2019":33,
+                "2020":28,
+                "2021":4
+            }
+        ],
+        [
+            "Stability characteristics of aerofoil flows are investigated by linear stability analysis of time-averaged velocity profiles and by direct numerical simulations with time-dependent forcing terms. First the wake behind an aerofoil is investigated, illustrating the feasibility of detecting absolute instability using these methods. The time-averaged flow around an NACA-0012 aerofoil at incidence is then investigated in terms of its response to very low-amplitude hydrodynamic and acoustic perturbations. Flow fields obtained from both two-and three-dimensional simulations are investigated, for which the aerofoil flow exhibits a laminar separation bubble. Convective stability characteristics are documented, and the separation bubble is found to exhibit no absolute instability in the classical sense; ie no growing disturbances with zero group velocity are observed. The flow is however found to be globally unstable via an acoustic \u2026",
+            "Stability and receptivity characteristics of a laminar separation bubble on an aerofoil",
+            "LE Jones and RD Sandberg and ND Sandham",
+            "2010",
+            "wAydSLsAAAAJ:IjCSPb-OGe4C",
+            138,
+            "https:\/\/search.proquest.com\/openview\/044d5e2b6754b1940dabbee4e946f790\/1?pq-origsite=gscholar&cbl=34769",
+            "16812261953135729934",
+            "\/scholar?cites=16812261953135729934",
+            {
+                "2010":5,
+                "2011":14,
+                "2012":15,
+                "2013":8,
+                "2014":11,
+                "2015":17,
+                "2016":11,
+                "2017":17,
+                "2018":12,
+                "2019":11,
+                "2020":14,
+                "2021":3
+            }
+        ]
+    ]
+}

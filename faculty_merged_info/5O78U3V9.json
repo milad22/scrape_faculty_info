@@ -1,0 +1,42 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "5O78U3V9",
+            "jpqAJIMAAAAJ",
+            [
+                "Wireless power transfer via strongly coupled magnetic resonances",
+                "Efficient wireless non-radiative mid-range energy transfer",
+                "Plasmonics in graphene at infrared frequencies",
+                "Topological photonics",
+                "Observation of unidirectional backscattering-immune topological electromagnetic states",
+                "Reflection-free one-way edge modes in a gyromagnetic photonic crystal"
+            ],
+            [
+                "Using self-resonant coils in a strongly coupled regime, we experimentally demonstrated efficient nonradiative power transfer over distances up to 8 times the radius of the coils. We were able to transfer 60 watts with \u223c40% efficiency over distances in excess of 2 meters. We present a quantitative model describing the power transfer, which matches the experimental results to within 5%. We discuss the practical applicability of this system and suggest directions for further study.",
+                "We investigate whether, and to what extent, the physical phenomenon of long-lifetime resonant electromagnetic states with localized slowly-evanescent field patterns can be used to transfer energy efficiently over non-negligible distances, even in the presence of extraneous environmental objects. Via detailed theoretical and numerical analyses of typical real-world model-situations and realistic material parameters, we establish that such a non-radiative scheme can lead to \u201cstrong coupling\u201d between two medium-range distant such states and thus could indeed be practical for efficient medium-range wireless energy transfer.",
+                "We point out that plasmons in doped graphene simultaneously enable low losses and significant wave localization for frequencies below that of the optical phonon branch \u210f \u03c9 O p h\u2248 0.2 eV. Large plasmon losses occur in the interband regime (via excitation of electron-hole pairs), which can be pushed toward higher frequencies for higher-doping values. For sufficiently large dopings, there is a bandwidth of frequencies from \u03c9 O p h up to the interband threshold, where a plasmon decay channel via emission of an optical phonon together with an electron-hole pair is nonegligible. The calculation of losses is performed within the framework of a random-phase approximation and number conserving relaxation-time approximation. The measured DC relaxation-time serves as an input parameter characterizing collisions with impurities, whereas the contribution from optical phonons is estimated from the influence of the \u2026",
+                "The application of topology, the mathematics of conserved properties under continuous deformations, is creating a range of new opportunities throughout photonics. This field was inspired by the discovery of topological insulators, in which interfacial electrons transport without dissipation, even in the presence of impurities. Similarly, the use of carefully designed wavevector-space topologies allows the creation of interfaces that support new states of light with useful and interesting properties. In particular, this suggests unidirectional waveguides that allow light to flow around large imperfections without back-reflection. This Review explains the underlying principles and highlights how topological effects can be realized in photonic crystals, coupled resonators, metamaterials and quasicrystals.",
+                "One of the most striking phenomena in condensed-matter physics is the quantum Hall effect, which arises in two-dimensional electron systems 1, 2, 3, 4 subject to a large magnetic field applied perpendicular to the plane in which the electrons reside. In such circumstances, current is carried by electrons along the edges of the system, in so-called chiral edge states (CESs). These are states that, as a consequence of nontrivial topological properties of the bulk electronic band structure, have a unique directionality and are robust against scattering from disorder. Recently, it was theoretically predicted 5, 6, 7 that electromagnetic analogues of such electronic edge states could be observed in photonic crystals, which are materials having refractive-index variations with a periodicity comparable to the wavelength of the light passing through them. Here we report the experimental realization and observation of such \u2026",
+                "We point out that electromagnetic one-way edge modes analogous to quantum Hall edge states, originally predicted by Raghu and Haldane in 2D photonic crystals possessing Dirac point-derived band gaps, can appear in more general settings. We show that the TM modes in a gyromagnetic photonic crystal can be formally mapped to electronic wave functions in a periodic electromagnetic field, so that the only requirement for the existence of one-way edge modes is that the Chern number for all bands below a gap is nonzero. In a square-lattice yttrium-iron-garnet crystal operating at microwave frequencies, which lacks Dirac points, time-reversal breaking is strong enough that the effect should be easily observable. For realistic material parameters, the edge modes occupy a 10% band gap. Numerical simulations of a one-way waveguide incorporating this crystal show 100% transmission across strong defects."
+            ],
+            [
+                [
+                    "nanophotonics",
+                    "photonic crystals",
+                    "nonlinear optics",
+                    "wireless power transfer"
+                ]
+            ]
+        ]
+    ]
+}

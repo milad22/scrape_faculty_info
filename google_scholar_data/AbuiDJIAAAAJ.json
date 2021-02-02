@@ -1,0 +1,136 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "AbuiDJIAAAAJ",
+            "Kai Germaschewski",
+            "University of New Hampshire",
+            "@unh.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=AbuiDJIAAAAJ",
+            1824,
+            [
+                "plasma physics computation"
+            ],
+            995,
+            21,
+            16,
+            38,
+            27,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"LpEQiY0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Amitava Bhattacharjee",
+                    "affiliation":"Professor of Astrophysical Sciences, Princeton University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"mJX7u8gAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"William Fox",
+                    "affiliation":"Princeton Plasma Physics Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"biQ5KrYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Joachim Raeder",
+                    "affiliation":"Physics Department and Space Science Center, University of New Hampshire"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"DQHk1LwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Chung-Sang Ng",
+                    "affiliation":"Associate Professor of Physics, University of Alaska Fairbanks"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"U2U6w5AAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Narges Ahmadi",
+                    "affiliation":"Research Scientist, University of Colorado Boulder"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ROsOuK0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ping Zhu (Plasma Physics)",
+                    "affiliation":"HUST, UW-Madison"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"slUcNU4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yi-Min Huang",
+                    "affiliation":"Department of Astrophysical Sciences, Princeton University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"phyW0EYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Scott Baalrud",
+                    "affiliation":"Associate Professor, University of Michigan"
+                }
+            ]
+        ]
+    ]
+}

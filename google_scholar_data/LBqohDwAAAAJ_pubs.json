@@ -1,0 +1,88 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "We attempt a comprehensive review of all published research in nondestructive evaluation (NDE) performed with the superconducting quantum interference device (SQUID) magnetometer since the first work was reported in the mid-1980s. The SQUID is the most sensitive detector of magnetic flux known. The energy sensitivity of the SQUID may make it the most sensitive detector of any kind. The research on SQUIDs for NDE is based on the promise of that sensitivity and on the various other desirable properties developed for SQUID instrumentation in biomagnetism and other fields. The sensitivity of SQUID instruments down to very low frequencies allows them to function as eddy-current sensors with unparalleled depth resolution, and to image the static magnetization of paramagnetic materials and the flow of near-dc corrosion currents. The wide dynamic range of the SQUID makes it possible to image defects in \u2026",
+            "SQUIDs for nondestructive evaluation",
+            "WG Jenks and SSH Sadeghi and John P Wikswo Jr",
+            "1997",
+            "LBqohDwAAAAJ:_q7R20eJROoC",
+            236,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0022-3727\/30\/3\/002\/meta",
+            "15871973639886792815",
+            "\/scholar?cites=15871973639886792815",
+            {
+                "1998":2,
+                "1999":10,
+                "2000":11,
+                "2001":10,
+                "2002":14,
+                "2003":11,
+                "2004":15,
+                "2005":18,
+                "2006":16,
+                "2007":14,
+                "2008":12,
+                "2009":11,
+                "2010":10,
+                "2011":11,
+                "2012":11,
+                "2013":4,
+                "2014":9,
+                "2015":10,
+                "2016":9,
+                "2017":8,
+                "2018":10,
+                "2019":8,
+                "2020":1
+            }
+        ],
+        [
+            "In this paper, a new method for optimum coordination of overcurrent relays is proposed. The proposed method is based on only constraints. Minimization is inherently included by setting the time dials to minimum and increasing their values gradually. Configuration changes of the network are taken into account. The method does not need any initial solution. It can consider both linear and nonlinear relay characteristics models. The optimal settings of overcurrent relays for 8-Bus and England Norweb networks are obtained and comparison between the new method and existing methods is made.",
+            "A new optimal approach for coordination of overcurrent relays in interconnected power systems",
+            "H Askarian Abyaneh and Majid Al-Dabbagh and H Kazemi Karegar and Seyed Hesameddin Hossein Sadeghi and RA Jabbar Khan",
+            "2003",
+            "LBqohDwAAAAJ:DtORCzn_ASQC",
+            185,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/1193860\/",
+            "6977595032994093465",
+            "\/scholar?cites=6977595032994093465",
+            {
+                "2002":1,
+                "2003":4,
+                "2004":7,
+                "2005":12,
+                "2006":8,
+                "2007":13,
+                "2008":11,
+                "2009":7,
+                "2010":10,
+                "2011":8,
+                "2012":12,
+                "2013":9,
+                "2014":15,
+                "2015":15,
+                "2016":15,
+                "2017":12,
+                "2018":12,
+                "2019":11,
+                "2020":1
+            }
+        ]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "ODRAEFYM",
+            "s8ideKUAAAAJ",
+            [
+                "Perturbation theory approach to intermolecular potential energy surfaces of van der Waals complexes",
+                "Intermolecular potentials based on symmetry-adapted perturbation theory with dispersion energies from time-dependent density-functional calculations",
+                "Predictions of the properties of water from first principles",
+                "Dispersion energy from density-functional theory description of monomers",
+                "Potential energy surface for the benzene dimer and perturbational analysis of \u03c0\u2212 \u03c0 interactions",
+                "Symmetry\u2010adapted perturbation theory of intermolecular forces",
+                "Many\u2010body symmetry\u2010adapted perturbation theory of intermolecular interactions. H2O and HF dimers",
+                "Helium dimer potential from symmetry-adapted perturbation theory calculations using large Gaussian geminal and orbital basis sets",
+                "Report on the sixth blind test of organic crystal structure prediction methods",
+                "New Born\u2013Oppenheimer potential energy curve and vibrational energies for the electronic ground state of the hydrogen molecule"
+            ],
+            [
+                "As the experimental andtheoretical investigations of the structure and energetics of isolated molecules are entering a mature stage of development, the interactions between molecules are becoming the next frontier of molecular science. Such interactions, although weak comparedto the forces bonding mol-ecules internally, are responsible for an extensive range of physical, chemical, and biological phenom-ena: from bulk properties of rare gases to the signal induction in neurotransmitters. There are too many fields where intermolecular potentials are needed to list them here. A few important examples are Monte Carlo and molecular dynamics simulations of biological systems, 1 drug design, 2 studies of processes in the earth\u2019s atmosphere, 3 and interstellar chemistry. 4 Investigations of intermolecular forces not only en-large our knowledge of nature but may lead to significant technological advances. One may hope",
+                "Recently, three of us have proposed a method [Phys. Rev. Lett. 91, 33201 (2003)] for an accurate calculation of the dispersion energy utilizing frequency-dependent density susceptibilities of monomers obtained from time-dependent density-functional theory (DFT). In the present paper, we report numerical calculations for the helium, neon, water, and carbon dioxide dimers and show that for a wide range of intermonomer separations, including the van der Waals and short-range repulsion regions, the method provides dispersion energies with accuracies comparable to those that can be achieved using the current most sophisticated wave-function methods. If the dispersion energy is combined with (i) the electrostatic and first-order exchange interaction energies as defined in symmetry-adapted perturbation theory (SAPT) but computed using monomer Kohn-Sham (KS) determinants, and (ii) the induction energy \u2026",
+                "A force field for water has been developed entirely from first principles, without any fitting to experimental data. It contains both pairwise and many-body interactions. This force field predicts the properties of the water dimer and of liquid water in excellent agreement with experiments, a previously elusive objective. Precise knowledge of the intermolecular interactions in water will facilitate a better understanding of this ubiquitous substance.",
+                "A method is proposed for calculations of dispersion energy at finite intermonomer separations. It uses a generalized Casimir-Polder formula evaluated with dynamic density susceptibilities provided by time-dependent density-functional theory. The method recovers the dispersion energies of He, Ne, and H 2 O dimers to within 3% or better. Since the computational effort of the new algorithm scales approximately as the third power of system size, the method is much more efficient than standard wave-function methods capable of predicting the dispersion energy at a similarly high level of accuracy.",
+                "We present a complete 6-dimensional potential energy surface for the benzene dimer obtained using symmetry-adapted perturbation theory (SAPT) of intermolecular interactions based on Kohn\u2212Sham's description of monomers. Ab initio calculations were performed for 491 dimer geometries in a triple-\u03b6-quality basis set supplemented by bond functions. An accurate analytic fit to the ab initio results has been developed and low-energy stationary points on the potential energy surface have been found. We have determined that there are three minima on the surface. Two of them, the tilted T-shape and the parallel-displaced, are nearly isoenergetic with interaction energies of \u22122.77 and \u22122.74 kcal\/mol, respectively. The third minimum, a twisted edge-to-edge conformation, is significantly less attractive, with the interaction energy equal to \u22121.82 kcal\/mol. Both the T-shape and sandwich geometries, sometimes assumed \u2026",
+                "Basic concepts and most recent developments of symmetry\u2010adapted perturbation theory (SAPT) are described. In particular, the methods that combine SAPT with density\u2010functional theory are discussed. It is explained how SAPT allows one to predict and understand the structure and properties of clusters and condensed phase. The broadest range of such predictions can be achieved by constructing potential energy surfaces from a set of SAPT interaction energies and using these surfaces in nuclear dynamics calculations. \u00a9 2011 John Wiley & Sons, Ltd.This article is categorized under:  Electronic Structure Theory > Ab Initio Electronic Structure Methods ",
+                "A many\u2010body version of the symmetry\u2010adapted perturbation theory is developed for a direct calculation of intermolecular potentials as a sum of the electrostatic, exchange, induction, and dispersion contributions. Since no multipole expansion is used, the obtained interaction energy components are properly dampened at short distance by the charge\u2010overlap (penetration) effects. The influence of the intramonomer correlation is accounted for by the perturbation expansion in terms of the Mo\/ller\u2013Plesset type fluctuation potentials WA and WB for the individual molecules. For the electrostatic and for the dispersion energy, the terms of the zeroth, first, and second order in WA+WB are considered. In this way, the leading three\u2010particle correlation contribution to the dispersion energy is taken into account. As a test of our method, we have performed calculations of the interaction energy for the water and hydrogen fluoride \u2026",
+                "The symmetry-adapted perturbation theory (SAPT) has been employed to calculate an accurate potential energy curve for the helium dimer. For major components of the interaction energy, saturated values have been obtained using extended Gaussian-type geminal bases. Some other, less significant components were computed using a large orbital basis and the standard set of SAPT codes. The remaining small fraction of the interaction energy has been obtained using a nonstandard SAPT program specific for two-electron monomers and the supermolecular full configuration interaction (FCI) calculations in a moderately large orbital basis. Accuracy of the interaction energy components has been carefully examined. The most accurate to date values of the electrostatic, exchange, induction, and dispersion energies are reported for distances from 3.0 to 7.0 bohr. After adding the retardation correction predicted by \u2026",
+                "The sixth blind test of organic crystal structure prediction (CSP) methods has been held, with five target systems: a small nearly rigid molecule, a polymorphic former drug candidate, a chloride salt hydrate, a co-crystal and a bulky flexible molecule. This blind test has seen substantial growth in the number of participants, with the broad range of prediction methods giving a unique insight into the state of the art in the field. Significant progress has been seen in treating flexible molecules, usage of hierarchical approaches to ranking structures, the application of density-functional approximations, and the establishment of new workflows and `best practices' for performing CSP calculations. All of the targets, apart from a single potentially disordered Z\u2032 = 2 polymorph of the drug candidate, were predicted by at least one submission. Despite many remaining challenges, it is clear that CSP methods are becoming more \u2026",
+                "The Born\u2013Oppenheimer potential energy curve for the electronic ground state of the hydrogen molecule has been computed for internuclear distances 0.2\u2264R\u226412.0 bohr. At all R the energies are lower than any previously reported values. At the equilibrium distance the improvement is negligible; its largest value, 0.47 cm\u22121, has been obtained for R=2.4 bohr. Vibrational energies have been computed for all isotopic species using the new potential energy curve. For H2, HD, and D2 the recent nonadiabatic corrections of Wolniewicz have been included. The resulting dissociation energies of H2 and HD agree with the experimental values within the experimental error limits; for D2 the discrepancy amounts to 0.6\u00b10.3 cm\u22121."
+            ],
+            [
+                [
+                    "intermolecular interactions",
+                    "atomic and molecular physics",
+                    "theory of electron correlation",
+                    "density-functional theory"
+                ]
+            ]
+        ]
+    ]
+}

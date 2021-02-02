@@ -1,0 +1,54 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "PBLUJ5kAAAAJ",
+            "Zhicheng Wang",
+            "Charles Perkins Centre, University of Sydney",
+            "@uni.sydney.edu.au",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=PBLUJ5kAAAAJ",
+            672,
+            [
+                "Pharmacy",
+                "Public Health",
+                "Practice Guidelines"
+            ],
+            520,
+            12,
+            12,
+            14,
+            12,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Bp4kaOYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Quinn Grundy",
+                    "affiliation":"Faculty of Nursing, University of Toronto"
+                }
+            ]
+        ]
+    ]
+}

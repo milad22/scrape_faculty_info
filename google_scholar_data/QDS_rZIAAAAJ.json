@@ -1,0 +1,64 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "QDS_rZIAAAAJ",
+            "Rachel Bartek",
+            "The Catholic University of America",
+            "@cua.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=QDS_rZIAAAAJ",
+            151395,
+            [
+                "High Energy Particle Physics - Experiment"
+            ],
+            93903,
+            183,
+            145,
+            890,
+            744,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"I4PPGRwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Christophe Delaere",
+                    "affiliation":"Universit\u00e9 catholique de Louvain"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"-mBzQ-8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Marco Musich",
+                    "affiliation":"CP3 - Universit\u00e9 catholique de Louvain"
+                }
+            ]
+        ]
+    ]
+}

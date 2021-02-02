@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "4AK0B4BC",
+            "90FwvqMAAAAJ",
+            [
+                "Electron-spin-resonance transistors for quantum computing in silicon-germanium heterostructures",
+                "Quantum liquid versus electron solid around \u03bd= 1\/5 Landau-level filling",
+                "Electrical detection of the spin resonance of a single electron in a silicon field-effect transistor",
+                "Magnetic-field-driven destruction of quantum Hall states in a double quantum well",
+                "Observation of magnetic-field-induced delocalization: Transition from Anderson insulator to quantum Hall conductor",
+                "Switching current reduction using perpendicular anisotropy in CoFeB\u2013MgO magnetic tunnel junctions",
+                "Ultralow-current-density and bias-field-free spin-transfer nano-oscillator",
+                "Magnetotransport studies of the insulating phase around \u03bd= 1\/5 Landau-level filling",
+                "Low writing energy and sub nanosecond spin torque transfer switching of in-plane magnetic tunnel junction for spin torque transfer random access memory",
+                "Measurement of the spin relaxation time of single electrons in a silicon metal-oxide-semiconductor-based quantum dot"
+            ],
+            [
+                "We apply the full power of modern electronic band-structure engineering and epitaxial heterostructures to design a transistor that can sense and control a single-donor electron spin. Spin-resonance transistors may form the technological basis for quantum information processing. One-and two-qubit operations are performed by applying a gate bias. The bias electric field pulls the electron wave function away from the dopant ion into layers of different alloy composition. Owing to the variation of the g factor (Si: g= 1.998, Ge: g= 1.563), this displacement changes the spin Zeeman energy, allowing single-qubit operations. By displacing the electron even further, the overlap with neighboring qubits is affected, which allows two-qubit operations. Certain silicon-germanium alloys allow a qubit spacing as large as 200 nm, which is well within the capabilities of current lithographic techniques. We discuss manufacturing \u2026",
+                "In the high-magnetic-field low-disorder limit the ground state at \u03bd= 1\/5 Landau-level filling is an incompressible quantum liquid. This is determined by observing vanishing resistivity \u03c1 x x as the temperature T\u2192 0. At filling factors below \u03bd= 1\/5 as well as in a narrow region above \u03bd= 1\/5, \u03c1 x x diverges exponentially as T\u2192 0. This contrasts the T dependence at any higher \u03bd. We conclude that the quantum liquid at \u03bd= 1\/5 is surrounded by a different phase. In as much as the exponential divergencies are indicative of an electron solid this phase is reentrant in a narrow region above \u03bd= 1\/5.",
+                "The ability to manipulate and monitor a single-electron spin using electron spin resonance is a long-sought goal. Such control would be invaluable for nanoscopic spin electronics, quantum information processing using individual electron spin qubits and magnetic resonance imaging of single molecules. There have been several examples 1, 2 of magnetic resonance detection of a single-electron spin in solids. Spin resonance of a nitrogen-vacancy defect centre in diamond has been detected optically 3, and spin precession of a localized electron spin on a surface was detected 4, 5 using scanning tunnelling microscopy. Spins in semiconductors are particularly attractive for study because of their very long decoherence times 6. Here we demonstrate electrical sensing of the magnetic resonance spin-flips of a single electron paramagnetic spin centre, formed by a defect in the gate oxide of a standard silicon transistor \u2026",
+                "The magnetotransport of double-quantum-well structures reveals a high-magnetic-field regime in which quantum Hall states at odd-integer \u03bd are missing, where \u03bd is the number of filled energy levels. In these double wells, the \u03bd= odd quantum Hall states originate from the symmetric-antisymmetric energy gap. With increasing barrier thickness between the two wells, initially the magnetic field destroys only the \u03bd= 1 state, then both the \u03bd= 1 and \u03bd= 3 states disappear. We attribute their destruction to the onset of interwell electron density fluctuations.",
+                "We report the first experimental observation of a magnetic-field-induced transition from an Anderson insulator to a quantum Hall conductor in a two-dimensional electron gas (2DEG) system. With sufficiently strong disorder, the 2DEG is an Anderson insulator with a divergent resistance at B= 0. The 2DEG is transformed into a quantum Hall conductor with a vanishing resistance as T\u2192 0 and a quantized Hall resistance when the lowest Landau level is filled. The observations demonstrate the magnetic-field-induced delocalization and are consistent with a recently proposed global phase diagram.",
+                "We present in-plane CoFeB\u2013MgO magnetic tunnel junctions with perpendicular magnetic anisotropy in the free layer to reduce the spin transfer induced switching current. The tunneling magnetoresistance ratio, resistance-area product, and switching current densities are compared in magnetic tunnel junctions with different CoFeB compositions. The effects of CoFeB free layer thickness on its magnetic anisotropy and current-induced switching characteristics are studied by vibrating sample magnetometry and electrical transport measurements on patterned elliptical nanopillar devices. Switching current densities \u223c4\u2002MA\/cm2 are obtained at 10 ns write times.",
+                "The spin-transfer nano-oscillator (STNO) offers the possibility of using the transfer of spin angular momentum via spin-polarized currents to generate microwave signals. However, at present STNO microwave emission mainly relies on both large drive currents and external magnetic fields. These issues hinder the implementation of STNOs for practical applications in terms of power dissipation and size. Here, we report microwave measurements on STNOs built with MgO-based magnetic tunnel junctions having a planar polarizer and a perpendicular free layer, where microwave emission with large output power, excited at ultralow current densities and in the absence of any bias magnetic fields is observed. The measured critical current density is over one order of magnitude smaller than previously reported. These results suggest the possibility of improved integration of STNOs with complementary metal-oxide \u2026",
+                "This paper presents a sequence of studies on electronic transport in high-mobility, two-dimensional electron systems in GaAs\/Al x Ga 1\u2212 x As heterostructures in high magnetic fields at low Landau-level filling factors where the formation of an electron solid has been postulated. It is an extension of our earlier work, summarizes our findings, and compares these findings with the results of other investigations. We observe a thermally activated insulating phase that surrounds the \u03bd= 1\/5 quantum liquid. This reentrant behavior is now documented for several samples of varying electron density and mobility. This broad universality of the phenomenon suggests an intrinsic mechanism as the cause for the transport features such as electron-solid formation, rather than individual carrier freeze out. Current-voltage measurements in the insulating phase reveal several anomalies. In low-voltage measurements we find \u2026",
+                "This work investigated in-plane MgO-based magnetic tunnel junctions (MTJs) for the application of spin torque transfer random access memory (STT-RAM). The MTJ in this work had an resistance area product (RA)\u2009=\u20094.3 \u03a9\u00b7\u03bcm2, tunneling magnetoresistance ratio \u223c135%, thermal stability factor \u0394(H)=68 (by field measurement), and \u0394(I)\u2009=\u200950 (by current measurement). The optimal writing energy was found to be 0.286 pJ per bit at 1.54 ns for antiparallel (AP) state to parallel (P) state switching, and 0.706 pJ per bit at 0.68 ns for P state to AP state switching. Ultra fast spin torque transfer (STT) switching was also observed in this sample at 580 ps (AP to P) and 560 ps (P to AP). As a result, 0.6\u20131.3 GHz was determined to be the optimal writing rate from writing energy consumption of view. These results show that in-plane MgO MTJs are still a viable candidate as the fast memory cell for STT-RAM.",
+                "We demonstrate direct detection of individual electron spin states, together with measurement of spin relaxation time (T 1), in silicon metal-oxide-semiconductor-based quantum dots (QD). Excited state spectroscopy of the QD has been performed using a charge-sensing technique. T 1 of single spin excited states has been done in the time domain by a pump-and-probe method. For an odd and an even number of electrons, we found a magnetic field dependent and invariant T 1, respectively."
+            ],
+            [
+                [
+                    "Condensed matter physics",
+                    "Quantum Computing",
+                    "Spintronics"
+                ]
+            ]
+        ]
+    ]
+}

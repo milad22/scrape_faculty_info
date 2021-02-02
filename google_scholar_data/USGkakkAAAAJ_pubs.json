@@ -1,0 +1,195 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "We present Atacama Large Millimeter\/sub-millimeter Array (ALMA) Cycle 2 observations of the 1.3-mm dust continuum emission of the protoplanetary disc surrounding the T Tauri star Elias 24 with an angular resolution of \u223c0.2\u2009arcsec (\u223c28\u2009au). The dust continuum emission map reveals a dark ring at a radial distance of 0.47\u2009arcsec (\u223c65\u2009au) from the central star, surrounded by a bright ring at 0.58\u2009arcsec (\u223c81\u2009au). In the outer disc, the radial intensity profile shows two inflection points at 0.71 and 0.87\u2009arcsec (\u223c99 and 121\u2009au, respectively). We perform global three-dimensional smoothed particle hydrodynamic gas\/dust simulations of discs hosting a migrating and accreting planet. Combining the dust density maps of small and large grains with three-dimensional radiative transfer calculations, we produce synthetic ALMA observations of a variety of disc models in order to reproduce the gap- and ring \u2026",
+            "Rings and gaps in the disc around Elias 24 revealed by ALMA",
+            "G Dipierro and L Ricci and L P\u00e9rez and G Lodato and RD Alexander and G Laibe and S Andrews and JM Carpenter and CJ Chandler and JA Greaves and C Hall and T Henning and W Kwon and H Linz and L Mundy and A Sargent and M Tazzari and L Testi and D Wilner",
+            "2018",
+            "USGkakkAAAAJ:Tyk-4Ss8FVUC",
+            72,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/475\/4\/5296\/4822167",
+            "14846233751911223407",
+            "\/scholar?cites=14846233751911223407",
+            {
+                "2018":23,
+                "2019":29,
+                "2020":19
+            }
+        ],
+        [
+            "Combining 3D smoothed-particle hydrodynamics and Monte Carlo radiative transfer calculations, we examine the morphology of spiral density waves induced by gravitational instability (GI) in protoplanetary disks, as they would appear in direct images at near-infrared (NIR) wavelengths. We find that systems with disk-to-star-mass ratios q= M disk\/M sstarf that are~ 0.25 or more may produce prominent spiral arms in NIR imaging, remarkably resembling features observed in the MWC 758 and SAO 206462 systems. The contrast of GI-induced arms at NIR wavelengths can reach a factor of~ 3, and their pitch angles are about 10\u201315. The dominant azimuthal wavenumber of GI-induced spiral arms roughly obeys m~ 1\/q in the range 2 lesssim 1\/q lesssim 8. In particular, a massive disk with q\u2248 0.5 can exhibit grand-design m= 2 spirals. GI-induced arms are in approximate corotation with the local disk, and may therefore trap \u2026",
+            "Spiral arms in gravitationally unstable protoplanetary disks as imaged in scattered light",
+            "Ruobing Dong and Cassandra Hall and Ken Rice and Eugene Chiang",
+            "2015",
+            "USGkakkAAAAJ:Y0pCki6q_DkC",
+            59,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/2041-8205\/812\/2\/L32\/meta",
+            "15040055402452046423",
+            "\/scholar?cites=15040055402452046423",
+            {
+                "2015":1,
+                "2016":17,
+                "2017":5,
+                "2018":13,
+                "2019":8,
+                "2020":14,
+                "2021":1
+            }
+        ],
+        [
+            "It is likely that most protostellar systems undergo a brief phase where the protostellar disc is self-gravitating. If these discs are prone to fragmentation, then they are able to rapidly form objects that are initially of several Jupiter masses and larger. The fate of these disc fragments (and the fate of planetary bodies formed afterwards via core accretion) depends sensitively not only on the fragment's interaction with the disc, but also with its neighbouring fragments. We return to and revise our population synthesis model of self-gravitating disc fragmentation and tidal downsizing. Amongst other improvements, the model now directly incorporates fragment\u2013fragment interactions while the disc is still present. We find that fragment\u2013fragment scattering dominates the orbital evolution, even when we enforce rapid migration and inefficient gap formation. Compared to our previous model, we see a small increase in the number \u2026",
+            "Towards a population synthesis model of self-gravitating disc fragmentation and tidal downsizing II: the effect of fragment\u2013fragment interactions",
+            "DH Forgan and C Hall and F Meru and WKM Rice",
+            "2018",
+            "USGkakkAAAAJ:9yKSN-GCB0IC",
+            37,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/474\/4\/5036\/4609360",
+            "8807479176176864545",
+            "\/scholar?cites=8807479176176864545",
+            {
+                "2018":6,
+                "2019":16,
+                "2020":14,
+                "2021":1
+            }
+        ],
+        [
+            "We present a new method of identifying protostellar disc fragments in a simulation based on density derivatives, and analyse our data using this and the existing CLUMPFIND method, which is based on an ordered search over all particles in gravitational potential energy. Using smoothed particle hydrodynamics, we carry out nine simulations of a 0.25 M\u2299 disc around a 1 M\u2299 star, all of which fragment to form at least two bound objects. We find that when using all particles ordered in gravitational potential space, only fragments that survive the duration of the simulation are detected. When we use the density derivative method, all fragments are detected, so the two methods are complementary, as using the two methods together allows us to identify all fragments, and to then determine those that are likely to be destroyed. We find a tentative empirical relationship between the dominant azimuthal wavenumber in \u2026",
+            "Identifying and analysing protostellar disc fragments in smoothed particle hydrodynamics simulations",
+            "Cassandra Hall and Duncan Forgan and Ken Rice",
+            "2017",
+            "USGkakkAAAAJ:u-x6o8ySG0sC",
+            30,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/470\/3\/2517\/3837818",
+            "2468619251402669200",
+            "\/scholar?cites=2468619251402669200",
+            {
+                "2017":1,
+                "2018":7,
+                "2019":10,
+                "2020":10,
+                "2021":2
+            }
+        ],
+        [
+            "In this paper, we model the chemical evolution of a 0.25 M\u2299 protoplanetary disc surrounding a 1 M\u2299 star that undergoes fragmentation due to self-gravity. We use smoothed particle hydrodynamics including a radiative transfer scheme, along with a time-dependent chemical evolution code to follow the composition of the disc and resulting fragments over approximately 4000\u2009yr. Initially, four quasi-stable fragments are formed, of which two are eventually disrupted by tidal torques in the disc. From the results of our chemical modelling, we identify species that are abundant in the fragments (e.g. H2O, H2S, HNO, N2, NH3, OCS, SO), species that are abundant in the spiral shocks within the disc (e.g. CO, CH4, CN, CS, H2CO) and species that are abundant in the circumfragmentary material (e.g. HCO+). Our models suggest that in some fragments it is plausible for grains to sediment to the core before releasing \u2026",
+            "The chemistry of protoplanetary fragments formed via gravitational instabilities",
+            "JD Ilee and DH Forgan and MG Evans and C Hall and Richard Booth and CJ Clarke and WKM Rice and AC Boley and P Caselli and TW Hartquist and JMC Rawlings",
+            "2017",
+            "USGkakkAAAAJ:d1gkVwhDpl0C",
+            27,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/472\/1\/189\/4079528",
+            "5422258502258091034",
+            "\/scholar?cites=5422258502258091034",
+            {
+                "2018":8,
+                "2019":11,
+                "2020":7,
+                "2021":1
+            }
+        ],
+        [
+            "We use a simple, self-consistent, self-gravitating semi-analytic disc model to conduct an examination of the parameter space in which self-gravitating discs may exist. We then use Monte Carlo radiative transfer to generate synthetic Atacama Large Millimeter\/submillimeter Array (ALMA) images of these self-gravitating discs to determine the subset of this parameter space in which they generate non-axisymmetric structure that is potentially detectable by ALMA. Recently, several transition discs have been observed to have non-axisymmetric structure that extends out to large radii. It has been suggested that one possible origin of these asymmetries could be spiral density waves induced by disc self-gravity. We use our simple model to see if these discs exist in the region of parameter space where self-gravity could feasibly explain these spiral features. We find that for self-gravity to play a role in these systems \u2026",
+            "Directly observing continuum emission from self-gravitating spiral waves",
+            "Cassandra Hall and Duncan Forgan and Ken Rice and Tim J Harries and Pamela D Klaassen and Beth Biller",
+            "2016",
+            "USGkakkAAAAJ:IjCSPb-OGe4C",
+            26,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/458\/1\/306\/2622543",
+            "10230920436009200643",
+            "\/scholar?cites=10230920436009200643",
+            {
+                "2016":2,
+                "2017":5,
+                "2018":7,
+                "2019":4,
+                "2020":8
+            }
+        ],
+        [
+            "A recent Atacama Large Millimeter\/submillimeter Array (ALMA) observation of the Elias 2-27 system revealed a two-armed structure extending out to \u223c300\u2009au in radius. The protostellar disc surrounding the central star is unusually massive, raising the possibility that the system is gravitationally unstable. Recent work has shown that the observed morphology of the system can be explained by disc self-gravity, so we examine the physical properties of the disc necessary to detect self-gravitating spiral waves. Using three-dimensional smoothed particle hydrodynamics, coupled with radiative transfer and synthetic ALMA imaging, we find that observable spiral structure can only be explained by self-gravity if the disc has a low opacity (and therefore efficient cooling), and is minimally supported by external irradiation. This corresponds to a very narrow region of parameter space, suggesting that, although it is \u2026",
+            "Is the spiral morphology of the Elias 2-27 circumstellar disc due to gravitational instability?",
+            "Cassandra Hall and Ken Rice and Giovanni Dipierro and Duncan Forgan and Tim Harries and Richard Alexander",
+            "2018",
+            "USGkakkAAAAJ:YsMSGLbcyi4C",
+            18,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/477\/1\/1004\/4913654",
+            "16722172260617460926",
+            "\/scholar?cites=16722172260617460926",
+            {
+                "2018":4,
+                "2019":2,
+                "2020":11,
+                "2021":1
+            }
+        ],
+        [
+            "We investigate how the detectability of signatures of self-gravity in a protoplanetary disk depends on its temporal evolution. We run a one-dimensional model for secular timescales to follow the disk mass as a function of time. We then combine this with three-dimensional global hydrodynamics simulations that employ a hybrid radiative transfer method to approximate realistic heating and cooling. We simulate ALMA continuum observations of these systems and find that structures induced by the gravitational instability (GI) are readily detectable when q= M disk\/M* gsim 0.25 and R outer lesssim 100 au. The high accretion rate generated by gravito-turbulence in such a massive disk drains its mass to below the detection threshold in~ 10 4 years, or approximately 1% of the typical disk lifetime. Therefore, disks with spiral arms detected in ALMA dust observations, if generated by self-gravity, must either be still receiving \u2026",
+            "The Temporal Requirements of Directly Observing Self-gravitating Spiral Waves in Protoplanetary Disks with ALMA",
+            "Cassandra Hall and Ruobing Dong and Ken Rice and Tim J Harries and Joan Najita and Richard Alexander and Sean Brittain",
+            "2019",
+            "USGkakkAAAAJ:2osOgNQ5qMEC",
+            14,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/1538-4357\/aafac2\/meta",
+            "7089057316102890000",
+            "\/scholar?cites=7089057316102890000",
+            {
+                "2019":2,
+                "2020":12
+            }
+        ],
+        [
+            "Recent observations of protoplanetary discs reveal disc substructures potentially caused by embedded planets. We investigate how the gas surface density in discs changes the observed morphology in scattered light and dust continuum emission. Assuming that disc substructures are due to embedded protoplanets, we combine hydrodynamical modelling with radiative transfer simulations of dusty protoplanetary discs hosting planets. The response of different dust species to the gravitational perturbation induced by a planet depends on the drag stopping time \u2013 a function of the generally unknown local gas density. Small dust grains, being stuck to the gas, show spirals. Larger grains decouple, showing progressively more axisymmetric (ring-like) substructure as decoupling increases with grain size or with the inverse of the gas disc mass. We show that simultaneous modelling of scattered light and dust continuum \u2026",
+            "Multiwavelength observations of protoplanetary discs as a proxy for the gas disc mass",
+            "B Veronesi and G Lodato and G Dipierro and E Ragusa and C Hall and DJ Price",
+            "2019",
+            "USGkakkAAAAJ:UeHWp8X0CEIC",
+            10,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/489\/3\/3758\/5561513",
+            "10120281736010303704",
+            "\/scholar?cites=10120281736010303704",
+            {
+                "2020":10
+            }
+        ],
+        [
+            "We use a suite of smoothed particle hydrodynamic simulations to investigate the susceptibility of protoplanetary discs to the effects of self-gravity as a function of star\u2013disc properties. We also include passive irradiation from the host star using different models for the stellar luminosities. The critical disc-to-star mass ratio for axisymmetry (for which we produce criteria) increases significantly for low-mass stars. This could have important consequences for increasing the potential mass reservoir in a proto Trappist-1 system, since even the efficient Ormel et al. formation model will be influenced by processes like external photoevaporation, which can rapidly and dramatically deplete the dust reservoir. The aforementioned scaling of the critical Md\/M* for axisymmetry occurs in part because the Toomre Q parameter has a linear dependence on surface density (which promotes instability) and only an  dependence \u2026",
+            "Massive discs around low-mass stars",
+            "Thomas J Haworth and James Cadman and Farzana Meru and Cassandra Hall and Emma Albertini and Duncan Forgan and Ken Rice and James E Owen",
+            "2020",
+            "USGkakkAAAAJ:WF5omc3nYNoC",
+            9,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/494\/3\/4130\/5817347",
+            "15600276789039599022",
+            "\/scholar?cites=15600276789039599022",
+            {
+                "2020":7,
+                "2021":2
+            }
+        ]
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "APRS80XX",
+            "xbjTAm4AAAAJ",
+            [
+                "Black holes as mirrors: quantum information in random subsystems",
+                "Aspects of generic entanglement",
+                "Structure of states which satisfy strong subadditivity of quantum entropy with equality",
+                "Randomizing quantum states: Constructions and applications",
+                "Multiplayer quantum games",
+                "The asymptotic entanglement cost of preparing a quantum state",
+                "Holographic duality from random tensor networks",
+                "Geometric quantum computation",
+                "Measuring the scrambling of quantum information",
+                "Towards the fast scrambling conjecture"
+            ],
+            [
+                "We study information retrieval from evaporating black holes, assuming that the internal dynamics of a black hole is unitary and rapidly mixing, and assuming that the retriever has unlimited control over the emitted Hawking radiation. If the evaporation of the black hole has already proceeded past the``half-way''point, where half of the initial entropy has been radiated away, then additional quantum information deposited in the black hole is revealed in the Hawking radiation very rapidly. Information deposited prior to the half-way point remains concealed until the half-way point, and then emerges quickly. These conclusions hold because typical local quantum circuits are efficient encoders for quantum error-correcting codes that nearly achieve the capacity of the quantum erasure channel. Our estimate of a black hole's information retention time, based on speculative dynamical assumptions, is just barely compatible with \u2026",
+                "We study entanglement and other correlation properties of random states in high-dimensional bipartite systems. These correlations are quantified by parameters that are subject to the ``concentration of measure'' phenomenon, meaning that on a large-probability set these parameters are close to their expectation. For the entropy of entanglement, this has the counterintuitive consequence that there exist large subspaces in which all pure states are close to maximally entangled. This, in turn, implies the existence of mixed states with entanglement of formation near that of a maximally entangled state, but with negligible quantum mutual information and, therefore, negligible distillable entanglement, secret key, and common randomness. It also implies a very strong locking effect for the entanglement of formation: its value can jump from maximal to near zero by tracing over a number of qubits negligible \u2026",
+                "We give an explicit characterisation of the quantum states which saturate the strong subadditivity inequality for the von Neumann entropy. By combining a result of Petz characterising the equality case for the monotonicity of relative entropy with a recent theorem by Koashi and Imoto, we show that such states will have the form of a so\u2013called short quantum Markov chain, which in turn implies that two of the systems are independent conditioned on the third, in a physically meaningful sense. This characterisation simultaneously generalises known necessary and sufficient entropic conditions for quantum error correction as well as the conditions for the achievability of the Holevo bound on accessible information.",
+                "The construction of a perfectly secure private quantum channel in dimension d is known to require 2\u2009log\u2009d shared random key bits between the sender and receiver. We show that if only near-perfect security is required, the size of the key can be reduced by a factor of two. More specifically, we show that there exists a set of roughly d\u2009log\u2009d unitary operators whose average effect on every input pure state is almost perfectly randomizing, as compared to the d2 operators required to randomize perfectly. Aside from the private quantum channel, variations of this construction can be applied to many other tasks in quantum information processing. We show, for instance, that it can be used to construct LOCC data hiding schemes for bits and qubits that are much more efficient than any others known, allowing roughly \u2009log\u2009d qubits to be hidden in 2\u2009log\u2009d qubits. The method can also be used to exhibit the \u2026",
+                "Recently the concept of quantum information has been introduced into game theory. Here we present the first study of quantum games with more than two players. We discover that such games can possess an alternative form of equilibrium strategy, one which has no analog either in traditional games or even in two-player quantum games. In these \u201ccoherent\u201d equilibria, entanglement shared among multiple players enables different kinds of cooperative behavior: indeed it can act as a contract, in the sense that it prevents players from successfully betraying one another.",
+                "We give a detailed proof of the conjecture that the asymptotic entanglement cost of preparing a state \u03c1 is equal to lim n\u2192\u221e E f (\u03c1\u2297 n)\/n where E f is the entanglement of formation.",
+                "Tensor networks provide a natural framework for exploring holographic duality because they obey entanglement area laws. They have been used to construct explicit toy models realizing many of the interesting structural features of the AdS\/CFT correspondence, including the non-uniqueness of bulk operator reconstruction in the boundary theory. In this article, we explore the holographic properties of networks of random tensors. We find that our models naturally incorporate many features that are analogous to those of the AdS\/CFT correspondence. When the bond dimension of the tensors is large, we show that the entanglement entropy of all boundary regions, whether connected or not, obey the Ryu-Takayanagi entropy formula, a fact closely related to known properties of the multipartite entanglement of assistance. We also discuss the behavior of R\u00e9nyi entropies in our models and contrast it with AdS\/CFT \u2026",
+                "We describe in detail a general strategy for implementing a conditional geometric phase between two spins. Combined with single-spin operations, this simple operation is a universal gate for quantum computation, in that any unitary transformation can be implemented with arbitrary precision using only single-spin operations and conditional phase shifts. Thus quantum geometrical phases can form the basis of any quantum computation. Moreover, as the induced conditional phase depends only on the geometry of the paths executed by the spins it is resilient to certain types of errors and offers the potential of a naturally fault-tolerant way of performing quantum computation.",
+                "We provide a general protocol to measure out-of-time-order correlation functions. These correlation functions are of broad theoretical interest for diagnosing the scrambling of quantum information in interacting quantum systems and have recently received particular attention in the study of chaos and black holes within holographic duality. Measuring them requires an echo-type sequence in which the sign of a many-body Hamiltonian is reversed. We illustrate our protocol by detailing an implementation employing cold atoms and cavity quantum electrodynamics to probe spin models with nonlocal interactions. To verify the feasibility of the scheme with current technology, we analyze the effects of dissipation in a chaotic kicked-top model. Finally, we propose a number of other experimental platforms where similar out-of-time-order correlation functions can be measured.",
+                "Many proposed quantum mechanical models of black holes include highly non-local interactions. The time required for thermalization to occur in such models should reflect the relaxation times associated with classical black holes in general relativity. Moreover, the time required for a particularly strong form of thermalization to occur, sometimes known as scrambling, determines the time scale on which black holes should start to release information. It has been conjectured that black holes scramble in a time logarithmic in their entropy, and that no system in nature can scramble faster. In this article, we address the conjecture from two directions. First, we exhibit two examples of systems that do indeed scramble in logarithmic time: Brownian quantum circuits and the antiferromagnetic Ising model on a sparse random graph. Unfortunately, both fail to be truly ideal fast scramblers for reasons we discuss. Second, we use \u2026"
+            ],
+            [
+                [
+                    "Quantum information and its applications"
+                ]
+            ]
+        ]
+    ]
+}

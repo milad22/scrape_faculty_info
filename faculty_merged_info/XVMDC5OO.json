@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "XVMDC5OO",
+            "ZA8pE9UAAAAJ",
+            [
+                "Prediction of protein cellular attributes using pseudo\u2010amino acid composition",
+                "Prediction of protein structural classes",
+                "Some remarks on protein attribute prediction and pseudo amino acid composition",
+                "Recent progresses in protein subcellular location prediction",
+                "Cell-PLoc: a package of Web servers for predicting subcellular localization of proteins in various organisms",
+                "Using amphiphilic pseudo amino acid composition to predict enzyme subfamily classes",
+                "Structural bioinformatics and its impact to biomedical science",
+                "Pse-in-One: a web server for generating various modes of pseudo components of DNA, RNA, and protein sequences"
+            ],
+            [
+                "The cellular attributes of a protein, such as which compartment of a cell it belongs to and how it is associated with the lipid bilayer of an organelle, are closely correlated with its biological functions. The success of human genome project and the rapid increase in the number of protein sequences entering into data bank have stimulated a challenging frontier: How to develop a fast and accurate method to predict the cellular attributes of a protein based on its amino acid sequence? The existing algorithms for predicting these attributes were all based on the amino acid composition in which no sequence order effect was taken into account. To improve the prediction quality, it is necessary to incorporate such an effect. However, the number of possible patterns for protein sequences is extremely large, which has posed a formidable difficulty for realizing this goal. To deal with such a difficulty, the pseudo\u2010amino acid \u2026",
+                "A protein is usually classified into one of the following five structural classes: \u03b1, \u03b2, \u03b1+ \u03b2, \u03b1\/ \u03b2, and \u03b6 (irregular). The structural class of a protein is correlated with its amino acid composition. However, given the amino acid composition of a protein, how may one predict its structural class? Various efforts have been made in addressing this problem. This review addresses the progress in this field, with the focus on the state of the art, which is featured by a novel prediction algorithm and a recently developed database. The novel algorithm is characterized by a covariance matrix that takes into account the coupling effect among different amino acid components of a protein. The new database was established based on the requirement that the classes should have (1) as many nonhomologous structures as possible, (2) good quality structure, and (3) typical or distinguishable features for each of the structural classes \u2026",
+                "With the accomplishment of human genome sequencing, the number of sequence-known proteins has increased explosively. In contrast, the pace is much slower in determining their biological attributes. As a consequence, the gap between sequence-known proteins and attribute-known proteins has become increasingly large. The unbalanced situation, which has critically limited our ability to timely utilize the newly discovered proteins for basic research and drug development, has called for developing computational methods or high-throughput automated tools for fast and reliably identifying various attributes of uncharacterized proteins based on their sequence information alone. Actually, during the last two decades or so, many methods in this regard have been established in hope to bridge such a gap. In the course of developing these methods, the following things were often needed to consider: (1) benchmark \u2026",
+                "Europe PMC is an archive of life sciences journal literature.\n",
+                "Information on subcellular localization of proteins is important to molecular cell biology, proteomics, system biology and drug discovery. To provide the vast majority of experimental scientists with a user-friendly tool in these areas, we present a package of Web servers developed recently by hybridizing the'higher level'approach with the ab initio approach. The package is called Cell-PLoc and contains the following six predictors: Euk-mPLoc, Hum-mPLoc, Plant-PLoc, Gpos-PLoc, Gneg-PLoc and Virus-PLoc, specialized for eukaryotic, human, plant, Gram-positive bacterial, Gram-negative bacterial and viral proteins, respectively. Using these Web servers, one can easily get the desired prediction results with a high expected accuracy, as demonstrated by a series of cross-validation tests on the benchmark data sets that covered up to 22 subcellular location sites and in which none of the proteins included had\u2265 25 \u2026",
+                " Motivation: With protein sequences entering into databanks at an explosive pace, the early determination of the family or subfamily class for a newly found enzyme molecule becomes important because this is directly related to the detailed information about which specific target it acts on, as well as to its catalytic process and biological function. Unfortunately, it is both time-consuming and costly to do so by experiments alone. In a previous study, the covariant-discriminant algorithm was introduced to identify the 16 subfamily classes of oxidoreductases. Although the results were quite encouraging, the entire prediction process was based on the amino acid composition alone without including any sequence-order information. Therefore, it is worthy of further investigation. Results: To incorporate the sequence-order effects into the predictor, the \u2018amphiphilic pseudo amino acid composition\u2019 is \u2026",
+                "During the last two decades, the number of sequence-known proteins has increased rapidly. In contrast, the corresponding increment for structure-known proteins is much slower. The unbalanced situation has critically limited our ability to understand the molecular mechanism of proteins and conduct structurebased drug design by timely using the updated information of newly found sequences. Therefore, it is highly desired to develop an automated method for fast deriving the 3D (3-dimensional) structure of a protein from its sequence. Under such a circumstance, the structural bioinformatics was emerging naturally as the time required. In this review, three main strategies developed in structural bioinformatics, i.e., pure energetic approach, heuristic approach, and homology modeling approach, as well as their underlying principles, are briefly introduced. Meanwhile, a series of demonstrations are presented to show \u2026",
+                "With the avalanche of biological sequences generated in the post-genomic age, one of the most challenging problems in computational biology is how to effectively formulate the sequence of a biological sample (such as DNA, RNA or protein) with a discrete model or a vector that can effectively reflect its sequence pattern information or capture its key features concerned. Although several web servers and stand-alone tools were developed to address this problem, all these tools, however, can only handle one type of samples. Furthermore, the number of their built-in properties is limited, and hence it is often difficult for users to formulate the biological sequences according to their desired features or properties. In this article, with a much larger number of built-in properties, we are to propose a much more flexible web server called Pse-in-One (http:\/\/bioinformatics.hitsz.edu.cn\/Pse-in-One\/), which can, through its \u2026"
+            ],
+            [
+                [
+                    "Computational proteomics\/genomics",
+                    "Biological sequence analysis",
+                    "Computer-aided drug discovery",
+                    "Protein structure prediction",
+                    "In"
+                ]
+            ]
+        ]
+    ]
+}

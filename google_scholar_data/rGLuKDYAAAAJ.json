@@ -1,0 +1,116 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "rGLuKDYAAAAJ",
+            "John Gizis",
+            "Professor of Physics and Astronomy, University of Delaware",
+            "@udel.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=rGLuKDYAAAAJ",
+            27633,
+            [
+                "Astronomy",
+                "Observational Astronomy",
+                "Very-Low-Mass Stars",
+                "Brown Dwarfs",
+                "Physics"
+            ],
+            8799,
+            62,
+            35,
+            123,
+            78,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"2H08ubAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Adam J. Burgasser",
+                    "affiliation":"UC San Diego"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"IH4YZaoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kelle Cruz",
+                    "affiliation":"Hunter College, CUNY; Center for Computational Astrophysics, Flatiron Institute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"FajiwyIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"John Bochanski",
+                    "affiliation":"Rider University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"8eJHqYkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Niall Deacon",
+                    "affiliation":"Max Planck Institute for Astronomy"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"hcmW-W0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David W Hogg",
+                    "affiliation":"New York University & MPIA & Center for Computational Astrophysics, Flatiron Institute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"TYctOAcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Marc Gagn\u00e9",
+                    "affiliation":"Professor, Earth and Space Sciences, West Chester University"
+                }
+            ]
+        ]
+    ]
+}

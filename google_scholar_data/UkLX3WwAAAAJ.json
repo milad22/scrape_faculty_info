@@ -1,0 +1,138 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "UkLX3WwAAAAJ",
+            "William Kaden",
+            "Assistant Professor of Physics; University of Central Florida",
+            "@ucf.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=UkLX3WwAAAAJ",
+            1401,
+            [
+                "Surface-Science",
+                "Catalysis",
+                "Chemical-Physics"
+            ],
+            862,
+            16,
+            13,
+            19,
+            18,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"G7PIb8oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hans-Joachim Freund",
+                    "affiliation":"Professor, Fritz-Haber-Institut"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"S5tR2lYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Scott L Anderson",
+                    "affiliation":"University of Utah"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"rPVKimEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Markus Heyde",
+                    "affiliation":"Fritz-Haber-Institute of the Max-Planck-Society"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fwNCowMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Christin Buechner",
+                    "affiliation":"Lawrence Berkeley National Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"sgDaLLsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jorge Anibal Boscoboinik",
+                    "affiliation":"Brookhaven National Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"u3tA3-wAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"F. Sloan Roberts",
+                    "affiliation":"Postdoctoral Scholar, Stanford University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"RNKhOjsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Paul S Bagus",
+                    "affiliation":"Research Professor of Chemistry, University of North Texas"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"oYlRH98AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yuichi Fujimori",
+                    "affiliation":"Fritz-Haber-Institut"
+                }
+            ]
+        ]
+    ]
+}

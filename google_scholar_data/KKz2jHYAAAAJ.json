@@ -1,0 +1,65 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "KKz2jHYAAAAJ",
+            "SOMA MUKHERJEE",
+            "Professor of Physics, University of Texas Rio Grande Valley",
+            "@utrgv.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=KKz2jHYAAAAJ",
+            92314,
+            [
+                "Physics",
+                "Gravitational Waves"
+            ],
+            62419,
+            134,
+            105,
+            1199,
+            845,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"yKoudbgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Richard Abbott",
+                    "affiliation":"California institute of technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"nbNe5PIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Malik Rakhmanov",
+                    "affiliation":"University of Texas Rio Grande Valley"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,236 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "We report the results of a joint analysis of data from BICEP2\/Keck Array and Planck. BICEP2 and Keck Array have observed the same approximately 400 deg 2 patch of sky centered on RA 0 h, Dec.\u2212 57.5. The combined maps reach a depth of 57 nK deg in Stokes Q and U in a band centered at 150 GHz. Planck has observed the full sky in polarization at seven frequencies from 30 to 353 GHz, but much less deeply in any given region (1.2 \u03bc K deg in Q and U at 143 GHz). We detect 150\u00d7 353 cross-correlation in B modes at high significance. We fit the single-and cross-frequency power spectra at frequencies\u2265 150 GHz to a lensed-\u039b CDM model that includes dust and a possible contribution from inflationary gravitational waves (as parametrized by the tensor-to-scalar ratio r), using a prior on the frequency spectral behavior of polarized dust emission from previous Planck analysis of other regions of the sky. We find \u2026",
+            "Joint Analysis of BICEP2\/Keck Array and Planck Data",
+            "Peter AR Ade and N Aghanim and Z Ahmed and RW Aikin and Kate Denham Alexander and M Arnaud and J Aumont and C Baccigalupi and Anthony J Banday and D Barkats and RB Barreiro and JG Bartlett and N Bartolo and E Battaner and K Benabed and A Beno\u00eet and A Benoit-L\u00e9vy and SJ Benton and J-P Bernard and M Bersanelli and P Bielewicz and Colin A Bischoff and JJ Bock and A Bonaldi and L Bonavera and JR Bond and J Borrill and FR Bouchet and F Boulanger and JA Brevik and M Bucher and I Buder and E Bullock and CARLO Burigana and RC Butler and Victor Buza and Erminia Calabrese and J-F Cardoso and A Catalano and A Challinor and R-R Chary and HC Chiang and PR Christensen and LPL Colombo and C Combet and J Connors and F Couchot and A Coulais and BP Crill and A Curto and FRANCESCO Cuttaia and L Danese and RD Davies and RJ Davis and P De Bernardis and A De Rosa and G De Zotti and J Delabrouille and J-M Delouis and F-X Desert and C Dickinson and JM Diego and H Dole and Simona Donzelli and O Dor\u00e9 and M Douspis and CD Dowell and L Duband and A Ducout and J Dunkley and X Dupac and Cora Dvorkin and G Efstathiou and F Elsner and TA En\u00dflin and HK Eriksen and E Falgarone and JP Filippini and FABIO Finelli and S Fliescher and O Forni and Marco Frailis and AA Fraisse and ENRICO Franceschi and A Frejsel and Samuele Galeotta and S Galli and K Ganga and T Ghosh and M Giard and Eirik Gjerl\u00f8w and SR Golwala and J Gonz\u00e1lez-Nuevo and Krzysztof M G\u00f3rski and S Gratton and Anna Gregorio and ALESSANDRO Gruppuso and JE Gudmundsson and M Halpern and Frode Kristian Hansen and D Hanson and DL Harrison and M Hasselfield and G Helou and S Henrot-Versill\u00e9 and D Herranz and SR Hildebrandt and GC Hilton and E Hivon and M Hobson and WA Holmes and W Hovest and VV Hristov and KM Huffenberger and H Hui and G Hurier and KD Irwin and AH Jaffe and Tess R Jaffe and Jeff Jewell and WC Jones and M Juvela and A Karakci and Kirit Sukrit Karkare and JP Kaufman and BG Keating and S Kefeli and Elina Keih\u00e4nen and SA Kernasovskiy and R Keskitalo and TS Kisner and R Kneissl and J Knoche and L Knox and John M Kovac and N Krachmalnicoff and M Kunz and CL Kuo and Hannu Kurki-Suonio and G Lagache and A L\u00e4hteenm\u00e4ki and J-M Lamarre and A Lasenby and Massimiliano Lattanzi and Charles R Lawrence and EM Leitch and R Leonardi and F Levrier and A Lewis and Michele Liguori",
+            "2015",
+            "Hos1S6QAAAAJ:4DMP91E08xMC",
+            727,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.114.101301",
+            "10191722233146110185",
+            "\/scholar?cites=10191722233146110185",
+            {
+                "2014":2,
+                "2015":170,
+                "2016":180,
+                "2017":119,
+                "2018":115,
+                "2019":84,
+                "2020":54,
+                "2021":3
+            }
+        ],
+        [
+            "We present results from an analysis of all data taken by the BICEP2 and Keck Array cosmic microwave background (CMB) polarization experiments up to and including the 2014 observing season. This includes the first Keck Array observations at 95 GHz. The maps reach a depth of 50 nK deg in Stokes Q and U in the 150 GHz band and 127 nK deg in the 95 GHz band. We take auto- and cross-spectra between these maps and publicly available maps from WMAP and Planck at frequencies from 23 to 353 GHz. An excess over lensed \u039bCDM is detected at modest significance in the 95 \u00d7 150 BB spectrum, and is consistent with the dust contribution expected from our previous work. No significant evidence for synchrotron emission is found in spectra such as 23 \u00d7 95, or for correlation between the dust and synchrotron sky patterns in spectra such as 23 \u00d7 353. We take the likelihood of all the spectra for a multicomponent model including lensed \u039bCDM, dust, synchrotron, and a possible contribution from inflationary gravitational waves (as parametrized by the tensor-to-scalar ratio r) using priors on the frequency spectral behaviors of dust and synchrotron emission from previous analyses of WMAP and Planck data in other regions of the sky. This analysis yields an upper limit r0.05 < 0.09 at 95% confidence, which is robust to variations explored in analysis and priors. Combining these B-mode results with the (more model-dependent) constraints from Planck analysis of CMB temperature plus baryon acoustic oscillations and other data yields a combined limit r0.05 < 0.07 at 95% confidence. These are the strongest constraints to date on inflationary \u2026",
+            "Improved constraints on cosmology and foregrounds from BICEP2 and Keck Array cosmic microwave background data with inclusion of 95 GHz band",
+            "Peter AR Ade and Z Ahmed and RW Aikin and KD Alexander and D Barkats and SJ Benton and Colin A Bischoff and JJ Bock and Rachel Bowens-Rubin and JA Brevik and I Buder and E Bullock and Victor Buza and Jake Anthony Connors and BP Crill and L Duband and Cora Dvorkin and JP Filippini and S Fliescher and J Grayson and M Halpern and Sarah Harrison and GC Hilton and H Hui and KD Irwin and Kirit Sukrit Karkare and E Karpel and JP Kaufman and BG Keating and S Kefeli and SA Kernasovskiy and John M Kovac and CL Kuo and EM Leitch and M Lueker and KG Megerian and CB Netterfield and HT Nguyen and R O\u2019Brient and RW Ogburn and A Orlando and Clement L Pryke and Sonja Valeska Richter and R Schwarz and CD Sheehy and ZK Staniszewski and B Steinbach and RV Sudiwala and GP Teply and KL Thompson and JE Tolan and Carole Tucker and AD Turner and AG Vieregg and AC Weber and DV Wiebe and J Willmert and C Wong and WLK Wu and KW Yoon",
+            "2016",
+            "Hos1S6QAAAAJ:blknAaTinKkC",
+            638,
+            "https:\/\/dash.harvard.edu\/handle\/1\/30403683",
+            "3578144049947206273",
+            "\/scholar?cites=3578144049947206273",
+            {
+                "2015":12,
+                "2016":118,
+                "2017":119,
+                "2018":178,
+                "2019":120,
+                "2020":80,
+                "2021":2
+            }
+        ],
+        [
+            "Our current understanding of the Universe is established through the pristine measurements of structure in the cosmic microwave background (CMB) and the distribution and shapes of galaxies tracing the large scale structure (LSS) of the Universe. One key ingredient that underlies cosmological observables is that the field that sources the observed structure is assumed to be initially Gaussian with high precision. Nevertheless, a minimal deviation from Gaussianityis perhaps the most robust theoretical prediction of models that explain the observed Universe; itis necessarily present even in the simplest scenarios. In addition, most inflationary models produce far higher levels of non-Gaussianity. Since non-Gaussianity directly probes the dynamics in the early Universe, a detection would present a monumental discovery in cosmology, providing clues about physics at energy scales as high as the GUT scale.",
+            "Primordial Non-Gaussianity",
+            "P.D. Meerburg and et al.",
+            "2019",
+            "Hos1S6QAAAAJ:8AbLer7MMksC",
+            576,
+            "https:\/\/arxiv.org\/abs\/1903.04409",
+            "6063084646149455164",
+            "\/scholar?cites=6063084646149455164",
+            {
+                "2018":28,
+                "2019":203,
+                "2020":322,
+                "2021":18
+            }
+        ],
+        [
+            "This book lays out the scientific goals to be addressed by the next-generation ground-based cosmic microwave background experiment, CMB-S4, envisioned to consist of dedicated telescopes at the South Pole, the high Chilean Atacama plateau and possibly a northern hemisphere site, all equipped with new superconducting cameras. CMB-S4 will dramatically advance cosmological studies by crossing critical thresholds in the search for the B-mode polarization signature of primordial gravitational waves, in the determination of the number and masses of the neutrinos, in the search for evidence of new light relics, in constraining the nature of dark energy, and in testing general relativity on large scales.",
+            "CMB-S4 science book",
+            "Kevork N Abazajian and Peter Adshead and Zeeshan Ahmed and Steven W Allen and David Alonso and Kam S Arnold and Carlo Baccigalupi and James G Bartlett and Nicholas Battaglia and Bradford A Benson and Colin A Bischoff and Julian Borrill and Victor Buza and Erminia Calabrese and Robert Caldwell and John E Carlstrom and Clarence L Chang and Thomas M Crawford and Francis-Yan Cyr-Racine and Francesco De Bernardis and Tijmen de Haan and Sperello di Serego Alighieri and Joanna Dunkley and Cora Dvorkin and Josquin Errard and Giulio Fabbian and Stephen Feeney and Simone Ferraro and Jeffrey P Filippini and Raphael Flauger and George M Fuller and Vera Gluscevic and Daniel Green and Daniel Grin and Evan Grohs and Jason W Henning and J Colin Hill and Renee Hlozek and Gilbert Holder and William Holzapfel and Wayne Hu and Kevin M Huffenberger and Reijo Keskitalo and Lloyd Knox and Arthur Kosowsky and John Kovac and Ely D Kovetz and Chao-Lin Kuo and Akito Kusaka and Maude Le Jeune and Adrian T Lee and Marc Lilley and Marilena Loverde and Mathew S Madhavacheril and Adam Mantz and David JE Marsh and Jeffrey McMahon and Pieter Daniel Meerburg and Joel Meyers and Amber D Miller and Julian B Munoz and Ho Nam Nguyen and Michael D Niemack and Marco Peloso and Julien Peloton and Levon Pogosian and Clement Pryke and Marco Raveri and Christian L Reichardt and Graca Rocha and Aditya Rotti and Emmanuel Schaan and Marcel M Schmittfull and Douglas Scott and Neelima Sehgal and Sarah Shandera and Blake D Sherwin and Tristan L Smith and Lorenzo Sorbo and Glenn D Starkman and Kyle T Story and Alexander van Engelen and Joaquin D Vieira and Scott Watson and Nathan Whitehorn and WL Wu",
+            "2016",
+            "Hos1S6QAAAAJ:_Qo2XoVZTnwC",
+            455,
+            "https:\/\/arxiv.org\/abs\/1610.02743",
+            "5938237312788629",
+            "\/scholar?cites=5938237312788629",
+            {
+                "2016":5,
+                "2017":72,
+                "2018":147,
+                "2019":102,
+                "2020":120,
+                "2021":6
+            }
+        ],
+        [
+            "We summarize the utility of precise cosmic microwave background (CMB) polarization measurements as probes of the physics of inflation. We focus on the prospects for using CMB measurements to differentiate various inflationary mechanisms. In particular, a detection of primordial B\u2010mode polarization would demonstrate that inflation occurred at a very high energy scale, and that the inflaton traversed a super\u2010Planckian distance in field space. We explain how such a detection or constraint would illuminate aspects of physics at the Planck scale. Moreover, CMB measurements can constrain the scale\u2010dependence and non\u2010Gaussianity of the primordial fluctuations and limit the possibility of a significant isocurvature contribution. Each such limit provides crucial information on the underlying inflationary dynamics. Finally, we quantify these considerations by presenting forecasts for the sensitivities of a future satellite \u2026",
+            "Probing inflation with CMB polarization",
+            "Daniel Baumann and Mark G Jackson and Peter Adshead and Alexandre Amblard and Amjad Ashoorioon and Nicola Bartolo and Rachel Bean and Maria Beltr\u00e1n and Francesco De Bernardis and Simeon Bird and Xingang Chen and Daniel JH Chung and Loris Colombo and Asantha Cooray and Paolo Creminelli and Scott Dodelson and Joanna Dunkley and Cora Dvorkin and Richard Easther and Fabio Finelli and Raphael Flauger and Mark P Hertzberg and Katherine Jones\u2010Smith and Shamit Kachru and Kenji Kadota and Justin Khoury and William H Kinney and Eiichiro Komatsu and Lawrence M Krauss and Julien Lesgourgues and Andrew Liddle and Michele Liguori and Eugene Lim and Andrei Linde and Sabino Matarrese and Harsh Mathur and Liam McAllister and Alessandro Melchiorri and Alberto Nicolis and Luca Pagano and Hiranya V Peiris and Marco Peloso and Levon Pogosian and Elena Pierpaoli and Antonio Riotto and Uro\u0161 Seljak and Leonardo Senatore and Sarah Shandera and Eva Silverstein and Tristan Smith and Pascal Vaudrevange and Licia Verde and Ben Wandelt and David Wands and Scott Watson and Mark Wyman and Amit Yadav and Wessel Valkenburg and Matias Zaldarriaga",
+            "2009",
+            "Hos1S6QAAAAJ:u5HHmVD_uO8C",
+            449,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.3160885",
+            "12447385986708699432",
+            "\/scholar?cites=12447385986708699432",
+            {
+                "2009":19,
+                "2010":69,
+                "2011":50,
+                "2012":64,
+                "2013":52,
+                "2014":60,
+                "2015":50,
+                "2016":29,
+                "2017":20,
+                "2018":20,
+                "2019":5,
+                "2020":6
+            }
+        ],
+        [
+            "We derive constraints on elastic scattering between baryons and dark matter using the cosmic microwave background (CMB) data from the Planck satellite and the Lyman-\u03b1 forest data from the Sloan Digital Sky Survey. Elastic scattering allows baryons and dark matter to exchange momentum, affecting the dynamics of linear density perturbations in the early universe. We derive constraints to scattering cross sections of the form \u03c3\u221d v n, allowing for a wide range of velocity dependencies with\u2212 4\u2264 n\u2264 2. We improve and correct previous estimates where they exist, including velocity-independent cross section as well as dark matter millicharge and electromagnetic dipole moments. Lyman-\u03b1 forest data dominate the constraints for n>\u2212 3, where the improvement over CMB data alone can be several orders of magnitude. Dark matter-baryon scattering cannot affect the halo mass function on mass scales M> 10 12 M\u2299 \u2026",
+            "Constraining dark matter-baryon scattering with linear cosmology",
+            "Cora Dvorkin and Kfir Blum and Marc Kamionkowski",
+            "2014",
+            "Hos1S6QAAAAJ:8k81kl-MbHgC",
+            196,
+            "https:\/\/journals.aps.org\/prd\/abstract\/10.1103\/PhysRevD.89.023519",
+            "997786392441257195",
+            "\/scholar?cites=997786392441257195",
+            {
+                "2014":11,
+                "2015":19,
+                "2016":16,
+                "2017":20,
+                "2018":45,
+                "2019":46,
+                "2020":37,
+                "2021":2
+            }
+        ],
+        [
+            "We present results from an analysis of all data taken by the bicep 2\/Keck CMB polarization experiments up to and including the 2015 observing season. This includes the first Keck Array observations at 220 GHz and additional observations at 95 and 150 GHz. The Q and U maps reach depths of 5.2, 2.9, and 26 \u03bc K CMB arcmin at 95, 150, and 220 GHz, respectively, over an effective area of\u2248 400 square degrees. The 220 GHz maps achieve a signal to noise on polarized dust emission approximately equal to that of Planck at 353 GHz. We take auto and cross spectra between these maps and publicly available WMAP and Planck maps at frequencies from 23 to 353 GHz. We evaluate the joint likelihood of the spectra versus a multicomponent model of lensed-\u039b CDM+ r+ dust+ synchrotron+ noise. The foreground model has seven parameters, and we impose priors on some of these using external information from \u2026",
+            "Constraints on Primordial Gravitational Waves Using , WMAP, and New BICEP2\/ Observations through the 2015 Season",
+            "PAR Ade and Z Ahmed and RW Aikin and KD Alexander and D Barkats and SJ Benton and CA Bischoff and JJ Bock and R Bowens-Rubin and JA Brevik and I Buder and E Bullock and V Buza and J Connors and J Cornelison and BP Crill and M Crumrine and M Dierickx and L Duband and C Dvorkin and JP Filippini and S Fliescher and J Grayson and G Hall and M Halpern and S Harrison and SR Hildebrandt and GC Hilton and H Hui and KD Irwin and J Kang and KS Karkare and E Karpel and JP Kaufman and BG Keating and S Kefeli and SA Kernasovskiy and JM Kovac and CL Kuo and NA Larsen and K Lau and EM Leitch and M Lueker and KG Megerian and L Moncelsi and T Namikawa and CB Netterfield and HT Nguyen and R O\u2019Brient and RW Ogburn IV and S Palladino and C Pryke and B Racine and S Richter and A Schillaci and R Schwarz and CD Sheehy and A Soliman and T St Germaine and ZK Staniszewski and B Steinbach and RV Sudiwala and GP Teply and KL Thompson and JE Tolan and C Tucker and AD Turner and C Umilt\u00e0 and AG Vieregg and A Wandui and AC Weber and DV Wiebe and J Willmert and CL Wong and WLK Wu and H Yang and KW Yoon and C Zhang",
+            "2018",
+            "Hos1S6QAAAAJ:P5F9QuxV20EC",
+            175,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.121.221301",
+            "405199630677475340",
+            "\/scholar?cites=405199630677475340",
+            {
+                "2018":2,
+                "2019":61,
+                "2020":103,
+                "2021":6
+            }
+        ],
+        [
+            "The angular power spectrum of the cosmic microwave background temperature anisotropy observed by WMAP has an anomalous dip at \u2113\u223c 20 and a bump at \u2113\u223c 40. One explanation for this structure is the presence of features in the primordial curvature power spectrum, possibly caused by a step in the inflationary potential. The detection of these features is only marginally significant from temperature data alone. However, the inflationary feature hypothesis predicts a specific shape for the E-mode polarization power spectrum with a structure similar to that observed in temperature at \u2113\u223c 20\u201340. Measurement of the CMB polarization on few-degree scales can therefore be used as a consistency check of the hypothesis. The Planck satellite has the statistical sensitivity to confirm or rule out the model that best fits the temperature features with 3 \u03c3 significance, assuming all other parameters are known. With a cosmic \u2026",
+            "CMB polarization features from inflation versus reionization",
+            "Michael J Mortonson and Cora Dvorkin and Hiranya V Peiris and Wayne Hu",
+            "2009",
+            "Hos1S6QAAAAJ:d1gkVwhDpl0C",
+            148,
+            "https:\/\/journals.aps.org\/prd\/abstract\/10.1103\/PhysRevD.79.103519",
+            "3009166482029163846",
+            "\/scholar?cites=3009166482029163846",
+            {
+                "2009":7,
+                "2010":14,
+                "2011":12,
+                "2012":11,
+                "2013":14,
+                "2014":20,
+                "2015":17,
+                "2016":13,
+                "2017":13,
+                "2018":14,
+                "2019":8,
+                "2020":3
+            }
+        ],
+        [
+            "We provide analytic solutions for the power spectrum and bispectrum of curvature fluctuations produced by a step feature in the inflaton potential, valid in the limit that the step is short and sharp. In this limit, the bispectrum is strongly scale dependent and its effective nonlinearity attains a large oscillatory amplitude. The perturbations to the curvature power spectrum, on the other hand, remain a small component on top of the usual spectrum of fluctuations generated by slow roll. We utilize our analytic solutions to assess the observability of the predicted non-Gaussian signatures and show that, if present, only very sharp steps on scales larger than\u223c 2 Gpc are likely to be able to be detected by Planck. Such features are not only consistent with WMAP7 data, but can also improve its likelihood by 2 \u0394 ln\ufeff L\u2248 12 for two extra parameters, the step location and height. If this improvement were due to a slow roll violating step \u2026",
+            "Non-Gaussianity from step features in the inflationary potential",
+            "Peter Adshead and Cora Dvorkin and Wayne Hu and Eugene A Lim",
+            "2012",
+            "Hos1S6QAAAAJ:9yKSN-GCB0IC",
+            132,
+            "https:\/\/journals.aps.org\/prd\/abstract\/10.1103\/PhysRevD.85.023531",
+            "6563998717914049746",
+            "\/scholar?cites=6563998717914049746",
+            {
+                "2012":14,
+                "2013":17,
+                "2014":22,
+                "2015":22,
+                "2016":18,
+                "2017":9,
+                "2018":5,
+                "2019":14,
+                "2020":11
+            }
+        ],
+        [
+            "In this follow-up work to the high energy physics Community Summer Study 2013 (aka SNOWMASS), we explore the scientific capabilities of a future Stage IV cosmic microwave background polarization experiment under various assumptions on detector count, resolution, and sky coverage. We use the Fisher matrix technique to calculate the expected uncertainties of cosmological parameters in \u03bd\u039bCDM that are especially relevant to the physics of fundamental interactions, including neutrino masses, effective number of relativistic species, dark energy equation of state, dark matter annihilation, and inflationary parameters. To further chart the landscape of future cosmology probes, we include forecasted results from the baryon acoustic oscillation signal as measured by Dark Energy Spectroscopic Instrument to constrain parameters that would benefit from low redshift information. We find the following best 1\u03c3 \u2026",
+            "A guide to designing future ground-based cosmic microwave background experiments",
+            "WLK Wu and J Errard and C Dvorkin and CL Kuo and AT Lee and P McDonald and A Slosar and O Zahn",
+            "2014",
+            "Hos1S6QAAAAJ:3fE2CSJIrl8C",
+            116,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0004-637X\/788\/2\/138\/meta",
+            "8013783094228379136",
+            "\/scholar?cites=8013783094228379136",
+            {
+                "2014":5,
+                "2015":18,
+                "2016":42,
+                "2017":19,
+                "2018":12,
+                "2019":10,
+                "2020":9,
+                "2021":1
+            }
+        ]
+    ]
+}

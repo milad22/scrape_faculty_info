@@ -1,0 +1,232 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "The kinetic evolution of the Orszag\u2013Tang vortex is studied using collisionless hybrid simulations. In magnetohydrodynamics (MHD) this configuration leads rapidly to broadband turbulence. At large length scales, the evolution of the hybrid simulations is very similar to MHD, with magnetic power spectra displaying scaling similar to a Kolmogorov scaling of \u22125\/3. At small scales, differences from MHD arise, as energy dissipates into heat almost exclusively through the magnetic field. The magnetic energy spectrum of the hybrid simulation shows a break where linear theory predicts that the Hall term in Ohm\u2019s law becomes significant, leading to dispersive kinetic Alfv\u00e9n waves. A key result is that protons are heated preferentially in the plane perpendicular to the mean magnetic field, creating a proton temperature anisotropy of the type observed in the corona and solar wind.",
+            "Kinetic dissipation and anisotropic heating in a turbulent collisionless plasma",
+            "TN Parashar and MA Shay and PA Cassak and WH Matthaeus",
+            "2009",
+            "_Orxd3wAAAAJ:u5HHmVD_uO8C",
+            113,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.3094062",
+            "2435777082372598178",
+            "\/scholar?cites=2435777082372598178",
+            {
+                "2009":1,
+                "2010":4,
+                "2011":9,
+                "2012":8,
+                "2013":15,
+                "2014":8,
+                "2015":16,
+                "2016":6,
+                "2017":11,
+                "2018":13,
+                "2019":11,
+                "2020":9,
+                "2021":2
+            }
+        ],
+        [
+            "High resolution, fully kinetic, three dimensional (3D) simulation of collisionless plasma turbulence shows the development of turbulence characterized by sheetlike current density structures spanning a range of scales. The nonlinear evolution is initialized with a long wavelength isotropic spectrum of fluctuations having polarizations transverse to an imposed mean magnetic field. We present evidence that these current sheet structures are sites for heating and dissipation, and that stronger currents signify higher dissipation rates. The analyses focus on quantities such as J\u00b7 E, electron, and proton temperatures, and conditional averages of these quantities based on local electric current density. Evidently, kinetic scale plasma, like magnetohydrodynamics, becomes intermittent due to current sheet formation, leading to the expectation that heating and dissipation in astrophysical and space plasmas may be highly \u2026",
+            "Intermittent dissipation and heating in 3D kinetic plasma turbulence",
+            "M Wan and WH Matthaeus and V Roytershteyn and H Karimabadi and T Parashar and P Wu and M Shay",
+            "2015",
+            "_Orxd3wAAAAJ:olpn-zPbct0C",
+            109,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.114.175002",
+            "125424529185739148",
+            "\/scholar?cites=125424529185739148",
+            {
+                "2015":10,
+                "2016":18,
+                "2017":21,
+                "2018":20,
+                "2019":21,
+                "2020":14,
+                "2021":5
+            }
+        ],
+        [
+            "Collisionless dissipation in turbulent plasmas such as the solar wind and the solar corona has been an intensively studied subject recently, with new insights often emerging from numerical simulation. Here we report results from high resolution, fully kinetic simulations of plasma turbulence in both two (2D) and three (3D) dimensions, studying the relationship between intermittency and dissipation. The simulations show development of turbulent coherent structures, characterized by sheet-like current density structures spanning a range of scales. An approximate dissipation measure is employed, based on work done by the electromagnetic field in the local electron fluid frame. This surrogate dissipation measure is highly concentrated in small subvolumes in both 2D and 3D simulations. Fully kinetic simulations are also compared with magnetohydrodynamics (MHD) simulations in terms of coherent structures and \u2026",
+            "Intermittency, coherent structures and dissipation in plasma turbulence",
+            "M Wan and WH Matthaeus and V Roytershteyn and TN Parashar and P Wu and H Karimabadi",
+            "2016",
+            "_Orxd3wAAAAJ:WA5NYHcadZ8C",
+            57,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.4945631",
+            "5556689457362749202",
+            "\/scholar?cites=5556689457362749202",
+            {
+                "2016":3,
+                "2017":14,
+                "2018":12,
+                "2019":17,
+                "2020":7,
+                "2021":4
+            }
+        ],
+        [
+            "Plasma turbulence is investigated using unprecedented high-resolution ion velocity distribution measurements by the Magnetospheric Multiscale mission (MMS) in the Earth\u2019s magnetosheath. This novel observation of a highly structured particle distribution suggests a cascadelike process in velocity space. Complex velocity space structure is investigated using a three-dimensional Hermite transform, revealing, for the first time in observational data, a power-law distribution of moments. In analogy to hydrodynamics, a Kolmogorov approach leads directly to a range of predictions for this phase-space transport. The scaling theory is found to be in agreement with observations. The combined use of state-of-the-art MMS data sets, novel implementation of a Hermite transform method, and scaling theory of the velocity cascade opens new pathways to the understanding of plasma turbulence and the crucial velocity space \u2026",
+            "Magnetospheric Multiscale Observation of Plasma Velocity-Space Cascade: Hermite Representation and Theory",
+            "S Servidio and A Chasapis and WH Matthaeus and D Perrone and F Valentini and TN Parashar and P Veltri and D Gershman and CT Russell and B Giles and SA Fuselier and TD Phan and J Burch",
+            "2017",
+            "_Orxd3wAAAAJ:hkOj_22Ku90C",
+            53,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.119.205101",
+            "10644182762129762970",
+            "\/scholar?cites=10644182762129762970",
+            {
+                "2017":2,
+                "2018":13,
+                "2019":16,
+                "2020":20,
+                "2021":2
+            }
+        ],
+        [
+            "The structure in space and time of a driven turbulent magnetoplasma is analyzed using kinetic simulations. For a two dimensional case with a strong uniform out-of-plane magnetic field, large scale driving produces a turbulent state that spans fluid scales to kinetic proton scales. There are fluid electrons in this hybrid representation. In near steady conditions, spectral analysis shows an almost complete absence of discrete point spectral features that would be associated with a dispersion relation and wave activity. While there is indication of a low level of wave activity, the results show that the dynamics are dominated by nonlinear activity. Implications for understanding plasma cascade, dissipation, and heating are discussed.",
+            "Kinetic driven turbulence: Structure in space and time",
+            "TN Parashar and S Servidio and B Breech and MA Shay and WH Matthaeus",
+            "2010",
+            "_Orxd3wAAAAJ:u-x6o8ySG0sC",
+            49,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.3486537",
+            "7312935928571088674",
+            "\/scholar?cites=7312935928571088674",
+            {
+                "2011":4,
+                "2012":12,
+                "2013":7,
+                "2014":8,
+                "2015":7,
+                "2016":1,
+                "2017":4,
+                "2018":3,
+                "2019":1,
+                "2020":2
+            }
+        ],
+        [
+            "Kinetic plasma turbulence cascade spans multiple scales ranging from macroscopic fluid flow to sub-electron scales. Mechanisms that dissipate large scale energy, terminate the inertial range cascade, and convert kinetic energy into heat are hotly debated. Here, we revisit these puzzles using fully kinetic simulation. By performing scale-dependent spatial filtering on the Vlasov equation, we extract information at prescribed scales and introduce several energy transfer functions. This approach allows highly inhomogeneous energy cascade to be quantified as it proceeds down to kinetic scales. The pressure work, \u2212 ( P \u00b7 \u2207 ) \u00b7 u , can trigger a channel of the energy conversion between fluid flow and random motions, which contains a collision-free generalization of the viscous dissipation in collisional fluid. Both the energy transfer and the pressure work are strongly correlated with velocity gradients.",
+            "Energy transfer, pressure tensor, and heating of kinetic plasma",
+            "Yan Yang and William H Matthaeus and Tulasi N Parashar and Colby C Haggerty and Vadim Roytershteyn and William Daughton and Minping Wan and Yipeng Shi and Shiyi Chen",
+            "2017",
+            "_Orxd3wAAAAJ:JQOojiI6XY0C",
+            48,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.4990421",
+            "7286567923492731189",
+            "\/scholar?cites=7286567923492731189",
+            {
+                "2017":1,
+                "2018":14,
+                "2019":18,
+                "2020":12,
+                "2021":3
+            }
+        ],
+        [
+            "Intermittency of heating in weakly collisional plasma turbulence is an active subject of research, with significant potential impact on understanding of the solar wind, solar corona, and astrophysical plasmas. Recent studies suggest a role of vorticity in plasma heating. In magnetohydrodynamics small-scale vorticity is generated near current sheets and this effect persists in kinetic plasma, as demonstrated here with hybrid and fully kinetic particle-in-cell simulations. Furthermore, vorticity enhances local kinetic effects, with a generalized resonance condition selecting sign-dependent enhancements or reductions of proton heating and thermal anisotropy. In such plasmas heating is correlated with vorticity and current density, but more strongly with vorticity. These results help explain several prior results that find kinetic effects and energization near to, but not centered on, current sheets. Evidently intermittency in kinetic \u2026",
+            "Propinquity of current and vortex structures: effects on collisionless plasma heating",
+            "Tulasi N Parashar and William H Matthaeus",
+            "2016",
+            "_Orxd3wAAAAJ:dTyEYWd-f8wC",
+            43,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/0004-637X\/832\/1\/57\/meta",
+            "2993890466803754464",
+            "\/scholar?cites=2993890466803754464",
+            {
+                "2016":2,
+                "2017":8,
+                "2018":10,
+                "2019":10,
+                "2020":11,
+                "2021":2
+            }
+        ],
+        [
+            "The effect of driving frequency on the efficiency of turbulence generation through magnetic forcing is studied using kinetic hybrid simulations with fully kinetic ions and fluid electrons. The efficiency of driving is quantified by examining the energy input into magnetic field as well as the thermal energy for various driving frequencies. The driving is efficient in exciting turbulence and heating the plasma when the time period of the driving is larger than the nonlinear time of the system. For driving at faster time scales, the energy input is weak and the steady state energy is much lower. The heating of the plasma is correlated with intermittent properties of the magnetic field, which are manifested as non-Gaussian statistics. Implications for turbulence in solar corona are discussed.",
+            "Effect of driving frequency on excitation of turbulence in a kinetic plasma",
+            "TN Parashar and S Servidio and MA Shay and B Breech and WH Matthaeus",
+            "2011",
+            "_Orxd3wAAAAJ:qjMakFHDy7sC",
+            43,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.3630926",
+            "4373126255359783847",
+            "\/scholar?cites=4373126255359783847",
+            {
+                "2012":5,
+                "2013":8,
+                "2014":9,
+                "2015":7,
+                "2016":4,
+                "2017":4,
+                "2018":2,
+                "2019":3,
+                "2020":1
+            }
+        ],
+        [
+            "The study of kinetic effects in heliospheric plasmas requires representation of dynamics at sub-proton scales, but in most cases the system is driven by magnetohydrodynamic (MHD) activity at larger scales. The latter requirement challenges available computational resources, which raises the question of how large such a system must be to exhibit MHD traits at large scales while kinetic behavior is accurately represented at small scales. Here we study this implied transition from kinetic to MHD-like behavior using particle-in-cell (PIC) simulations, initialized using an Orszag\u2013Tang Vortex. The PIC code treats protons, as well as electrons, kinetically, and we address the question of interest by examining several different indicators of MHD-like behavior.",
+            "Transition from Kinetic to MHD Behavior in a Collisionless Plasma",
+            "Tulasi N Parashar and William H Matthaeus and Michael A Shay and Minping Wan",
+            "2015",
+            "_Orxd3wAAAAJ:HE397vMXCloC",
+            40,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0004-637X\/811\/2\/112\/meta",
+            "8552398245527845275",
+            "\/scholar?cites=8552398245527845275",
+            {
+                "2016":6,
+                "2017":8,
+                "2018":11,
+                "2019":10,
+                "2020":5
+            }
+        ],
+        [
+            "Many naturally occurring and man-made plasmas are collisionless and turbulent. It is not yet well understood how the energy in fields and fluid motions is transferred into the thermal degrees of freedom of constituent particles in such systems. The debate at present primarily concerns proton heating. Multiple possible heating mechanisms have been proposed over the past few decades, including cyclotron damping, Landau damping, heating at intermittent structures and stochastic heating. Recently, a community-driven effort was proposed (Parashar & Salem, 2013, arXiv:1303.0204) to bring the community together and understand the relative contributions of these processes under given conditions. In this paper, we propose the first step of this challenge: a set of problems and diagnostics for benchmarking and comparing different types of 2.5D simulations. These comparisons will provide insights into the strengths \u2026",
+            "Turbulent dissipation challenge: a community-driven effort",
+            "Tulasi N. Parashar and Chadi Salem and Robert T. Wicks and H. Karimabadi and S. Peter Gary and William H. Matthaeus",
+            "2015",
+            "_Orxd3wAAAAJ:t6usbXjVLHcC",
+            38,
+            "https:\/\/www.cambridge.org\/core\/journals\/journal-of-plasma-physics\/article\/turbulent-dissipation-challenge-a-communitydriven-effort\/351DDC47D36188169D610AFCFB5D20D2",
+            "18040160366033946456",
+            "\/scholar?cites=18040160366033946456",
+            {
+                "2014":2,
+                "2015":2,
+                "2016":3,
+                "2017":10,
+                "2018":3,
+                "2019":9,
+                "2020":7,
+                "2021":1
+            }
+        ]
+    ]
+}

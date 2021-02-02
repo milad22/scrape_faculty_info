@@ -1,0 +1,48 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "HDU9O13G",
+            "AOQoZhwAAAAJ",
+            [
+                "Minimal surfaces from circle patterns: Geometry from combinatorics",
+                "A discrete version of the Darboux transform for isothermic surfaces",
+                "Factorization Dynamics and Coxeter--Toda Lattices",
+                "On the integrability of infinitesimal and finite deformations of polyhedral surfaces",
+                "Hexagonal circle patterns and integrable systems: patterns with constant angles",
+                "Hexagonal circle patterns and integrable systems: Patterns with the multi-ratio property and Lax equations on the regular triangular lattice",
+                "Discrete geodesic nets for modeling developable surfaces",
+                "[018] MI Lecture Note Series Vol. 18 (Discrete Differential Geometry of Curves and Surfaces)",
+                "Discrete Hashimoto surfaces and a doubly discrete smoke-ring flow",
+                "Conformally symmetric circle packings: A generalization of Doyle's spirals"
+            ],
+            [
+                "The theory of polyhedral surfaces and, more generally, the field of discrete differential geometry are presently emerging on the border of differential and discrete geometry. Whereas classical differential geometry investigates smooth geometric shapes (such as surfaces), and discrete geometry studies geometric shapes with a finite number of elements (polyhedra), the theory of polyhedral surfaces aims at a development of discrete equivalents of the geometric notions and methods of surface theory. The latter appears then as a limit of the refinement of the discretization. Current progress in this field is to a large extent stimulated by its relevance for computer graphics and visualization. One of the central problems of discrete differential geometry is to find proper discrete analogues of special classes of surfaces, such as minimal, con stant mean curvature, isothermic surfaces, etc. Usually, one can suggest vari ous \u2026",
+                "We study Christoffel and Darboux transforms of discrete isothermic nets in 4-dimensional Euclidean space: definitions and basic properties are derived. Analogies with the smooth case are discussed and a definition for discrete Ribaucour congruences is given. Surfaces of constant mean curvature are special among all isothermic surfaces: they can be characterized by the fact that their parallel constant mean curvature surfaces are Christoffel and Darboux transforms at the same time. This characterization is used to define discrete nets of constant mean curvature. Basic properties of discrete nets of constant mean curvature are derived.",
+                " It is shown that the factorization relation on simple Lie groups with standard Poisson Lie structure restricted to Coxeter symplectic leaves gives an integrable dynamical system. This system can be regarded as a discretization of the Toda flow. In case of SL  n  the integrals of the factorization dynamics are integrals of the relativistic Toda system. A substantial part of the paper is devoted to the description of symplectic leaves in simple complex Lie groups, its Borel subgroups and their doubles.",
+                "It is established that there exists an intimate connection between isometric deformations of polyhedral surfaces and discrete integrable systems. In particular, Sauer\u2019s kinematic approach is adopted to show that second-order infinitesimal isometric deformations of discrete surfaces composed of planar quadrilaterals (discrete conjugate nets) are determined by the solutions of an integrable discrete version of Bianchi\u2019s classical equation governing finite isometric deformations of conjugate nets. Moreover, it is demonstrated that finite isometric deformations of discrete conjugate nets are completely encapsulated in the standard integrable discretization of a particular nonlinear \u03c3-model subject to a constraint. The deformability of discrete Voss surfaces is thereby retrieved in a natural manner.",
+                "Hexagonal circle patterns with constant intersection angles are introduced and studied. It is shown that they are described by discrete integrable systems of Toda type. Conformally symmetric patterns are classified. Circle pattern analogs of holomorphic mappings  and  are constructed as special isomonodromic solutions. Circle patterns studied in the paper include Schramm's circle patterns with the combinatorics of the square grid as a special case.",
+                "Hexagonal circle patterns are introduced, and a subclass thereof is studied in detail. It is characterized by the following property: for every circle the multi-ratio of its six intersection points with neighboring circles is equal to \u22121. The relation of such patterns with an integrable system on the regular triangular lattice is established. A kind of a B\u00e4cklund transformation for circle patterns is studied. Further, a class of isomonodromic solutions of the aforementioned integrable system is introduced, including circle patterns analogs to the analytic functions z \u03b1  and logz.",
+                "We present a discrete theory for modeling developable surfaces as quadrilateral meshes satisfying simple angle constraints. The basis of our model is a lesser-known characterization of developable surfaces as manifolds that can be parameterized through orthogonal geodesics. Our model is simple and local, and, unlike in previous works, it does not directly encode the surface rulings. This allows us to model continuous deformations of discrete developable surfaces independently of their decomposition into torsal and planar patches or the surface topology. We prove and experimentally demonstrate strong ties to smooth developable surfaces, including a theorem stating that every sampling of the smooth counterpart satisfies our constraints up to second order. We further present an extension of our model that enables a local definition of discrete isometry. We demonstrate the effectiveness of our discrete model in \u2026",
+                "Online Public Access Catalog.\n",
+                "In this paper B\u00e4cklund transformations for smooth and discrete Hashimoto surfaces are discussed and a geometric interpretation is given. It is shown that the complex curvature of a discrete space curve evolves with the discrete nonlinear Schr\u00f6dinger equation (NLSE) of Ablowitz and Ladik, when the curve evolves with the Hashimoto or smoke-ring flow. A doubly discrete Hashimoto flow is derived and it is shown that in this case the complex curvature of the discrete curve obeys Ablovitz and Ladik\u2019s doubly discrete NLSE. Elastic curves (curves that evolve by rigid motion under the Hashimoto flow) in the discrete and doubly discrete case are shown to be the same.",
+                "From the geometric study of the elementary cell of hexagonal circle packings\u2014a flower of 7 circles\u2014the class of conformally symmetric circle packings is defined. Up to M\u00f6bius transformations, this class is a three parameter family, that contains the famous Doyle spirals as a special case. The solutions are given explicitly. It is shown that these circle packings can be viewed as discretization s of the quotient of two Airy functions.The online version of this paper contains Java applets that let you experiment with the circle packings directly. The applets are found at http:\/www-sfb288.math.tu-berlin.de\/Publications\/online\/cscpOnline\/Applets.html "
+            ],
+            [
+                [
+                    "discrete differential geometry",
+                    "integrable systems"
+                ]
+            ]
+        ]
+    ]
+}

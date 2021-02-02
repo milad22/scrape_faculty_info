@@ -1,0 +1,238 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "We present the full public release of all data from the Illustris simulation project. Illustris is a suite of large volume, cosmological hydrodynamical simulations run with the moving-mesh code Arepo and including a comprehensive set of physical models critical for following the formation and evolution of galaxies across cosmic time. Each simulates a volume of (106.5 Mpc) 3 and self-consistently evolves five different types of resolution elements from a starting redshift of z= 127 to the present day, z= 0. These components are: dark matter particles, gas cells, passive gas tracers, stars and stellar wind particles, and supermassive black holes. This data release includes the snapshots at all 136 available redshifts, halo and subhalo catalogs at each snapshot, and two distinct merger trees. Six primary realizations of the Illustris volume are released, including the flagship Illustris-1 run. These include three resolution levels with \u2026",
+            "The illustris simulation: Public data release",
+            "Dylan Nelson and Annalisa Pillepich and Shy Genel and Mark Vogelsberger and Volker Springel and Paul Torrey and Vicente Rodriguez-Gomez and Debora Sijacki and Gregory F Snyder and Brendan Griffen and Federico Marinacci and Laura Blecha and Laura Sales and Dandan Xu and Lars Hernquist",
+            "2015",
+            "y4q9TtcAAAAJ:mB3voiENLucC",
+            343,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S2213133715000864",
+            "10643038272940309185",
+            "\/scholar?cites=10643038272940309185",
+            {
+                "2015":4,
+                "2016":43,
+                "2017":49,
+                "2018":71,
+                "2019":75,
+                "2020":90,
+                "2021":10
+            }
+        ],
+        [
+            "Mergers of galaxies are thought to cause significant gas inflows to the inner parsecs, which can activate rapid accretion on to supermassive black holes (SMBHs), giving rise to active galactic nuclei (AGN). During a significant fraction of this process, SMBHs are predicted to be enshrouded by gas and dust. Studying 52 galactic nuclei in infrared-selected local luminous and ultraluminous infrared galaxies in different merger stages in the hard X-ray band, where radiation is less affected by absorption, we find that the amount of material around SMBHs increases during the last phases of the merger. We find that the fraction of Compton-thick (CT, N\u2009H \u2265 1024\u2009cm\u2212 2) AGN in late-merger galaxies is higher () than in local hard X-ray selected AGN (f\u2009CT = 27 \u00b1 4\u2009per\u2009cent), and that obscuration reaches its maximum when the nuclei of the two merging galaxies are at a projected distance of D12 \u2243 0.4\u201310.8 \u2026",
+            "Growing supermassive black holes in the late stages of galaxy mergers are heavily obscured",
+            "Claudio Ricci and Franz Erik Bauer and Ezequiel Treister and Kevin Schawinski and GC Privon and L Blecha and P Arevalo and Lee Armus and F Harrison and LC Ho and K Iwasawa and David B Sanders and Daniel Stern",
+            "2017",
+            "y4q9TtcAAAAJ:MXK_kJrjxJIC",
+            118,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/468\/2\/1273\/2939810",
+            "4157836138077061321",
+            "\/scholar?cites=4157836138077061321",
+            {
+                "2017":15,
+                "2018":35,
+                "2019":31,
+                "2020":34,
+                "2021":3
+            }
+        ],
+        [
+            "17 AIM Unit\u00e9 Mixte de Recherche CEA CNRS, Universit\u00e9 Paris VII UMR n158, Paris, France",
+            "A runaway black hole in cosmos: gravitational wave or slingshot recoil?",
+            "F Civano and M Elvis and G Lanzuisi and K Jahnke and Gianni Zamorani and L Blecha and A Bongiorno and M Brusa and A Comastri and H Hao and A Leauthaud and A Loeb and V Mainieri and E Piconcelli and M Salvato and N Scoville and J Trump and C Vignali and T Aldcroft and M Bolzonella and E Bressert and A Finoguenov and A Fruscione and AM Koekemoer and N Cappelluti and F Fiore and S Giodini and R Gilli and CD Impey and SJ Lilly and E Lusso and S Puccetti and JD Silverman and H Aussel and P Capak and D Frayer and E Le Floch and HJ McCracken and DB Sanders and D Schiminovich and Y Taniguchi",
+            "2010",
+            "y4q9TtcAAAAJ:YsMSGLbcyi4C",
+            115,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0004-637X\/717\/1\/209\/meta",
+            "2122367661753132155",
+            "\/scholar?cites=2122367661753132155",
+            {
+                "2010":7,
+                "2011":21,
+                "2012":16,
+                "2013":13,
+                "2014":7,
+                "2015":12,
+                "2016":9,
+                "2017":12,
+                "2018":5,
+                "2019":6,
+                "2020":5,
+                "2021":2
+            }
+        ],
+        [
+            "Gravitational-wave recoil of merging supermassive black holes (SMBHs) may influence the co-evolution of SMBHs and their host galaxies. We examine this possibility using smoothed particle hydrodynamic\/N-body simulations of gaseous galaxy mergers, including SMBH accretion, in which the merged BH receives a recoil kick. This enables us to follow the trajectories and accretion of recoiling BHs in self-consistent, evolving merger remnants. In contrast to recent studies on similar topics, we conduct a large parameter study, generating a suite of over 200 simulations with more than 60 merger models and a range of recoil velocities (vk). With this, we can identify systematic trends in the behaviour of recoiling BHs. Our main results are as follows. (1) BHs kicked at nearly the central escape speed (vesc) may oscillate on large orbits for up to a Hubble time, but in gas-rich mergers, BHs kicked with up to \u223c0.7vesc \u2026",
+            "Recoiling black holes in merging galaxies: relationship to active galactic nucleus lifetimes, starbursts and the MBH\u2013\u03c3* relation",
+            "Laura Blecha and Thomas J Cox and Abraham Loeb and Lars Hernquist",
+            "2011",
+            "y4q9TtcAAAAJ:ZeXyd9-uunAC",
+            111,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/412\/4\/2154\/1017185",
+            "9594940079387734403",
+            "\/scholar?cites=9594940079387734403",
+            {
+                "2011":7,
+                "2012":18,
+                "2013":11,
+                "2014":7,
+                "2015":16,
+                "2016":10,
+                "2017":14,
+                "2018":10,
+                "2019":9,
+                "2020":7,
+                "2021":2
+            }
+        ],
+        [
+            "Simulations of binary black hole mergers indicate that asymmetrical gravitational wave (GW) emission can cause black holes to recoil at speeds up to thousands of km s\u22121. These GW recoil events can dramatically affect the co-evolution of recoiling supermassive black holes (SMBHs) and their host galaxies. However, theoretical studies of SMBH\u2013galaxy evolution almost always assume a stationary central black hole. In light of the numerical results on GW recoil velocities, we relax that assumption here and consider the consequences of recoil for SMBH evolution. We follow the trajectories of SMBHs ejected in a smooth background potential that includes both a stellar bulge and a multicomponent gaseous disc. In addition, we calculate the accretion rate on to the SMBH as a function of time, using a hybrid prescription of viscous (\u03b1-disc) and Bondi accretion. We find that recoil kicks between 100 km s\u22121 and the \u2026",
+            "Effects of gravitational-wave recoil on the dynamics and growth of supermassive black holes",
+            "Laura Blecha and Abraham Loeb",
+            "2008",
+            "y4q9TtcAAAAJ:9ZlFYXVOiuMC",
+            102,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/390\/4\/1311\/979081",
+            "9025558155054688909",
+            "\/scholar?cites=9025558155054688909",
+            {
+                "2007":1,
+                "2008":2,
+                "2009":13,
+                "2010":15,
+                "2011":11,
+                "2012":11,
+                "2013":5,
+                "2014":8,
+                "2015":7,
+                "2016":5,
+                "2017":5,
+                "2018":4,
+                "2019":3,
+                "2020":10,
+                "2021":2
+            }
+        ],
+        [
+            "Gravitational waves (GWs) have now been detected from stellar-mass black hole binaries, and the first observations of GWs from massive black hole (MBH) binaries are expected within the next decade. Pulsar timing arrays (PTA), which can measure the years long periods of GWs from MBH binaries (MBHBs), have excluded many standard predictions for the amplitude of a stochastic GW background (GWB). We use coevolved populations of MBHs and galaxies from hydrodynamic, cosmological simulations (\u2018Illustris\u2019) to calculate a predicted GWB. The most advanced predictions so far have included binary hardening mechanisms from individual environmental processes. We present the first calculation including all of the environmental mechanisms expected to be involved: dynamical friction, stellar \u2018loss-cone\u2019 scattering, and viscous drag from a circumbinary disc. We find that MBH binary lifetimes are generally multiple \u2026",
+            "Massive black hole binary mergers in dynamical galactic environments",
+            "Luke Zoltan Kelley and Laura Blecha and Lars Hernquist",
+            "2017",
+            "y4q9TtcAAAAJ:hFOr9nPyWt4C",
+            97,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/464\/3\/3131\/2497139",
+            "10528380229027334423",
+            "\/scholar?cites=10528380229027334423",
+            {
+                "2017":12,
+                "2018":30,
+                "2019":23,
+                "2020":28,
+                "2021":4
+            }
+        ],
+        [
+            "We present a first attempt to model the narrow-line (NL) region of active galactic nuclei (AGN) in hydrodynamic simulations of galaxy mergers, using a novel physical prescription. This model is used to determine the origin of double-peaked NL AGN in merging galaxies and their connection to supermassive black hole (SMBH) pairs, motivated by recent observations of such objects. We find that double-peaked NLs induced by the relative motion of dual SMBHs are a generic but short-lived feature of gaseous major mergers. Double-peaked NL AGN should often be observed in late-stage galaxy mergers, during the kiloparsec-scale phase of SMBH inspiral or soon after the nuclear coalescence and subsequent SMBH merger. However, even within the kiloparsec-scale phase, only a minority of double-peaked NLs are directly induced by the relative motion of binary SMBHs; their lifetimes are typically a few Myr. The \u2026",
+            "Double-peaked narrow-line signatures of dual supermassive black holes in galaxy merger simulations",
+            "Laura Blecha and Abraham Loeb and Ramesh Narayan",
+            "2013",
+            "y4q9TtcAAAAJ:hC7cP41nSMkC",
+            89,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/429\/3\/2594\/1010365",
+            "9852762898713828358",
+            "\/scholar?cites=9852762898713828358",
+            {
+                "2012":1,
+                "2013":8,
+                "2014":8,
+                "2015":13,
+                "2016":8,
+                "2017":9,
+                "2018":15,
+                "2019":16,
+                "2020":8,
+                "2021":2
+            }
+        ],
+        [
+            "The role of galaxy mergers in fuelling active galactic nuclei (AGNs) is still debated, owing partly to selection effects inherent to studies of the merger\/AGN connection. In particular, luminous AGNs are often obscured in late-stage mergers. Mid-infrared (IR) colour selection of dust-enshrouded AGN with, e.g. the Wide-field Infrared Survey Explorer (WISE) has uncovered large new populations of obscured AGN. However, this method is sensitive mainly to AGN that dominate emission from the host. To understand how selection biases affect mid-IR studies of the merger\/AGN connection, we simulate the evolution of AGN throughout galaxy mergers. Although mid-IR colours closely trace luminous, obscured AGN, we show that nearly half of merger-triggered AGNs are missed with common mid-IR selection criteria, even in late-stage, gas-rich major mergers. At z \u2272 0.5, where merger signatures and dual nuclei can most \u2026",
+            "The power of infrared AGN selection in mergers: a theoretical study",
+            "Laura Blecha and Gregory F Snyder and Shobita Satyapal and Sara L Ellison",
+            "2018",
+            "y4q9TtcAAAAJ:isC4tDSrTZIC",
+            66,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/478\/3\/3056\/4996798",
+            "13567962708095658609",
+            "\/scholar?cites=13567962708095658609",
+            {
+                "2018":8,
+                "2019":30,
+                "2020":24,
+                "2021":4
+            }
+        ],
+        [
+            "Pulsar timing arrays (PTAs) around the world are using the incredible consistency of millisecond pulsars to measure low-frequency gravitational waves from (super)massive black hole (MBH) binaries. We use comprehensive MBH merger models based on cosmological hydrodynamic simulations to predict the spectrum of the stochastic gravitational wave background (GWB). We use real time-of-arrival specifications from the European, NANOGrav, Parkes, and International PTA (IPTA) to calculate realistic times to detection of the GWB across a wide range of model parameters. In addition to exploring the parameter space of environmental hardening processes (in particular: stellar scattering efficiencies), we have expanded our models to include eccentric binary evolution which can have a strong effect on the GWB spectrum. Our models show that strong stellar scattering and high characteristic eccentricities \u2026",
+            "The gravitational wave background from massive black hole binaries in Illustris: spectral features and time to detection with pulsar timing arrays",
+            "Luke Zoltan Kelley and Laura Blecha and Lars Hernquist and Alberto Sesana and Stephen R Taylor",
+            "2017",
+            "y4q9TtcAAAAJ:qUcmZB5y_30C",
+            64,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/471\/4\/4508\/3899130",
+            "9850822067416921093",
+            "\/scholar?cites=9850822067416921093",
+            {
+                "2017":4,
+                "2018":14,
+                "2019":24,
+                "2020":20,
+                "2021":2
+            }
+        ],
+        [
+            "Supermassive black hole (BH) mergers produce powerful gravitational wave emission. Asymmetry in this emission imparts a recoil kick to the merged BH, which can eject the BH from its host galaxy altogether. Recoiling BHs could be observed as offset active galactic nuclei (AGN). Several candidates have been identified, but systematic searches have been hampered by large uncertainties regarding their observability. By extracting merging BHs and host galaxy properties from the Illustris cosmological simulations, we have developed a comprehensive model for recoiling AGN. Here, for the first time, we model the effects of BH spin alignment and recoil dynamics based on the gas richness of host galaxies. We predict that if BH spins are not highly aligned, seeing-limited observations could resolve offset AGN, making them promising targets for all-sky surveys. For randomly oriented spins, \u2272 10 spatially offset \u2026",
+            "Recoiling black holes: prospects for detection and implications of spin alignment",
+            "Laura Blecha and Debora Sijacki and Luke Zoltan Kelley and Paul Torrey and Mark Vogelsberger and Dylan Nelson and Volker Springel and Gregory Snyder and Lars Hernquist",
+            "2016",
+            "y4q9TtcAAAAJ:k_IJM867U9cC",
+            64,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/456\/1\/961\/1066826",
+            "14119382303064388300",
+            "\/scholar?cites=14119382303064388300",
+            {
+                "2016":8,
+                "2017":9,
+                "2018":15,
+                "2019":12,
+                "2020":16,
+                "2021":4
+            }
+        ]
+    ]
+}

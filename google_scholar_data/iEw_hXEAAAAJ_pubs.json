@@ -1,0 +1,78 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3
+    ],
+    "data":[
+        [
+            "Motivated by recent experiments on interacting bosons in a quasi-one-dimensional optical lattice [M. Rispoli et al., Nature (London) 573, 385 (2019)], we analyze theoretically properties of the system in the crossover between delocalized and localized regimes. Comparison of time dynamics for uniform and density-wave-like initial states enables a demonstration of the existence of the mobility edge. To this end we define a different observable, the mean speed of transport at long times. It gives us an efficient estimate of the critical disorder for the crossover. We also show that the mean velocity growth of occupation fluctuations close to the edges of the system carries similar information. Using the quantum quench procedure, we show that it is possible to probe the mobility edge for different energies.",
+            "Many-body localization in Bose-Hubbard model: evidence for the mobility edge",
+            "Ruixiao Yao and Jakub Zakrzewski",
+            "2020",
+            "iEw_hXEAAAAJ:u-x6o8ySG0sC",
+            9,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.102.014310",
+            "6815900511790386493",
+            "\/scholar?cites=6815900511790386493",
+            {
+                "2020":9
+            }
+        ],
+        [
+            "We show that the presence of a harmonic trap may in itself lead to many-body localization for cold atoms confined in that trap in a quasi-one-dimensional geometry. Specifically, the coexistence of delocalized phase in the center of the trap with localized region closer to the edges is predicted with the borderline dependent on the curvature of the trap. The phenomenon, similar in its origin to Stark localization, should be directly observed with cold atomic species. We discuss both the spinless and the spinful fermions; for the latter we address Stark localization at the same time as it has not been analyzed up until now.",
+            "Coexistence of localized and extended phases: Many-body localization in a harmonic trap",
+            "Titas Chanda and Ruixiao Yao and Jakub Zakrzewski",
+            "2020",
+            "iEw_hXEAAAAJ:d1gkVwhDpl0C",
+            4,
+            "https:\/\/journals.aps.org\/prresearch\/abstract\/10.1103\/PhysRevResearch.2.032039",
+            "13949171006206718028",
+            "\/scholar?cites=13949171006206718028",
+            {
+                "2020":4
+            }
+        ],
+        [
+            "The phenomenon of many-body Stark localization of bosons in tilted optical lattice is studied. Despite the fact that no disorder is necessary for Stark localization to occur, it is very similar to well-known many-body localization (MBL) in sufficiently strong disorder. Not only the mean gap ratio reaches Poissonian value as characteristic for localized situations, but also the eigenstates reveal multifractal character as in standard MBL. Stark localization enables a coexistence of spacially separated thermal and localized phases in the harmonic trap similarly to fermions. Stark localization may also lead to spectacular trapping of particles in a reversed harmonic field which naively might be considered as an unstable configuration.",
+            "Many-body localization of bosons in an optical lattice: Dynamics in disorder-free potentials",
+            "Ruixiao Yao and Jakub Zakrzewski",
+            "2020",
+            "iEw_hXEAAAAJ:qjMakFHDy7sC",
+            3,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.102.104203",
+            "17446906649756643719",
+            "\/scholar?cites=17446906649756643719",
+            {
+                "2020":3
+            }
+        ],
+        [
+            "BackgroundTime-lapse live cell imaging of a growing cell population is routine in many biological investigations. A major challenge in imaging analysis is accurate segmentation, a process to define the boundaries of cells based on raw image data. Current segmentation methods relying on single boundary features have problems in robustness when dealing with inhomogeneous foci which invariably happens in cell population imaging.MethodsCombined with a multi-layer training set strategy, we developed a neural-network-based algorithm\u2014Cellbow.ResultsCellbow can achieve accurate and robust segmentation of cells in broad and general settings. It can also facilitate long-term tracking of cell growth and division. To facilitate the application of Cellbow, we provide a website on which one can online test the software, as well as an ImageJ plugin for the user to visualize the performance before software \u2026",
+            "Cellbow: a robust customizable cell segmentation program",
+            "Huixia Ren and Mengdi Zhao and Bo Liu and Ruixiao Yao and Qi Liu and Zhipeng Ren and Zirui Wu and Zongmao Gao and Xiaojing Yang and Chao Tang",
+            "2020",
+            "iEw_hXEAAAAJ:9yKSN-GCB0IC",
+            1,
+            "https:\/\/link.springer.com\/article\/10.1007\/s40484-020-0213-6",
+            "6707946338776292120",
+            "\/scholar?cites=6707946338776292120",
+            {
+                "2020":1
+            }
+        ]
+    ]
+}

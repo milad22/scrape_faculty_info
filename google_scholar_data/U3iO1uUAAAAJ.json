@@ -1,0 +1,112 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "U3iO1uUAAAAJ",
+            "Qi Li",
+            "Professor of Economics, Texas A&M University",
+            "@tamu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=U3iO1uUAAAAJ",
+            13215,
+            [
+                "Econometrics"
+            ],
+            4621,
+            56,
+            31,
+            114,
+            76,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"TXeKxGsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jeffrey S. Racine",
+                    "affiliation":"Professor Economics, Professor Graduate Program in Statistics, McMaster University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"QfnkNRUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Cheng Hsiao",
+                    "affiliation":"university of southern california"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"oHPEDJYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Zongwu Cai",
+                    "affiliation":"Department of Economics, University of Kansas"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"55q1jD8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yiguo Sun",
+                    "affiliation":"University of Guelph"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"63fq8ecAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Karen Yan",
+                    "affiliation":"Georgia Tech"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"enZwC1wAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yanqin Fan",
+                    "affiliation":"University of Washington"
+                }
+            ]
+        ]
+    ]
+}

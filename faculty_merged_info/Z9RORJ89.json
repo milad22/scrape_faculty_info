@@ -1,0 +1,48 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Z9RORJ89",
+            "WLvDk4oAAAAJ",
+            [
+                "Dynamical mean-field theory of strongly correlated fermion systems and the limit of infinite dimensions",
+                "Electronic structure calculations with dynamical mean-field theory",
+                "Hubbard model in infinite dimensions",
+                "New functional integral approach to strongly correlated fermi systems: The gutzwiller approximation as a saddle point",
+                "Strongly correlated materials: Insights from dynamical mean-field theory",
+                "First-principles calculations of the electronic structure and spectra of strongly correlated systems: dynamical mean-field theory",
+                "Superexchange mechanism and d-wave superconductivity",
+                "Cellular dynamical mean field approach to strongly correlated systems",
+                "Resonating valence bonds and d-wave superconductivity",
+                "Kinetic frustration and the nature of the magnetic and paramagnetic states in iron pnictides and iron chalcogenides"
+            ],
+            [
+                "We review the dynamical mean-field theory of strongly correlated electron systems which is based on a mapping of lattice models onto quantum impurity models subject to a self-consistency condition. This mapping is exact for models of correlated electrons in the limit of large lattice coordination (or infinite spatial dimensions). It extends the standard mean-field construction from classical statistical mechanics to quantum problems. We discuss the physical ideas underlying this theory and its mathematical derivation. Various analytic and numerical techniques that have been developed recently in order to analyze and solve the dynamical mean-field equations are reviewed and compared to each other. The method can be used for the determination of phase diagrams (by comparing the stability of various types of long-range order), and the calculation of thermodynamic properties, one-particle Green's functions, and \u2026",
+                "A review of the basic ideas and techniques of the spectral density-functional theory is presented. This method is currently used for electronic structure calculations of strongly correlated materials where the one-electron description breaks down. The method is illustrated with several examples where interactions play a dominant role: systems near metal-insulator transitions, systems near volume collapse transitions, and systems with local moments.",
+                "We present an exact mapping of the Hubbard model in infinite dimensions onto a single-impurity Anderson (or Wolff) model supplemented by a self-consistency condition. This provides a mean-field picture of strongly corrrelated systems, which becomes exact as d\u2192\u221e. We point out a special integrable case of the mean-field equations, and study the general case using a perturbative renormalization group around the atomic limit. Three distinct Fermi-liquid regimes arise, corresponding to the Kondo, mixed-valence, and empty-orbitals regimes of the single-impurity problem. The Kondo resonance and the satellite peaks of the single-impurity model correspond to the quasiparticle and Hubbard-bands features of the Hubbard model, respectively.",
+                "We propose a new functional integral representation of the Hubbarda and Anderson models of lattice fermions. The simplest saddle-point approximation leads, at zero temperature, to the results derived from the Gutzwiller variational wave function. This approach uncovers the limitations of the Gutzwiller approximation and clarifies its connection to the\" auxiliary-boson\" mean-field theory of the Anderson model. This formulation leads to a novel strong-coupling mean-field theory which allows for a unified treatment of antiferromagnetism and ferromagnetism, metal-to-insulator transition, and Kondo compensation effects.",
+                "full many-body Hamiltonian to a simpler, effective model retains the essence of the physical phenomena one wants to understand, but is itself a complicated problem. One of the simplest models of correlated electrons is the Hubbard Hamiltonian, defined in equation 2b of box 2. This Hamiltonian describes electrons with spin directions s\u2282 R or A moving between localized states at lattice sites i and j. The electrons interact only when they meet on the same lattice site i.(The Pauli principle requires them to have opposite spin.) The kinetic energy and the interaction energy are characterized by the hopping term tij and the local Coulomb repulsion U, respectively. These two terms compete because the kinetic part favors the electrons\u2019 being as mobile as possible, while the interaction energy is minimal when electrons stay apart from each other\u2014that is, localized on atomic different sites. This competition is at the very \u2026",
+                "A recently developed dynamical mean-field theory, in the iterated perturbation theory approximation, was used as a basis for the construction of afirst-principles' calculation scheme for investigating the electronic structure of strongly correlated electron systems. This scheme is based on the local density approximation (LDA) within the framework of the linearized muffin-tin orbitals (LMTO) method. The classical example of the doped Mott insulator was studied by the new method, and the results showed qualitative improvement when compared with experimental photoemission spectra.",
+                "We have formulated an auxiliary-boson mean-field theory consistent with the SU (2) symmetry of the Heisenberg model. At half filling, we find an infinite number of solutions related by the symmetry. Away from half filling the kinetic energy, acting as a symmetry-breaking field, selects a superconducting state of d-wave symmetry. The mean-field theory describes bosons and fermions with finite kinetic energy close to half filling. We derive self-consistent equations for the superconducting transition temperature T c. We find that T c vanishes at large and small filling factors.",
+                "We propose a cellular version of dynamical mean field theory which gives a natural generalization of its original single-site construction and is formulated in different sets of variables. We incorporate a possible nonorthogonality of the tight-binding basis set and prove that the resulting equations lead to manifestly causal self-energies.",
+                "We show that the resonating-valence-bond mechanism for high-T c superconductivity can lead to s-wave-and d-wave-like superconducting order parameters. The critical temperature for d-wave ordering is higher close to half-filling. At low temperatures, a mixture of d and s waves with a well-defined phase opens a full gap in the quasiparticle spectrum.",
+                "The iron pnictide and chalcogenide compounds are a subject of intensive investigations owing to their surprisingly high temperature superconductivity 1. They all share the same basic building blocks, but there is significant variation in their physical properties, such as magnetic ordered moments, effective masses, superconducting gaps and transition temperature (T c). Many theoretical techniques have been applied to individual compounds but no consistent description of the microscopic origin of these variations is available 2. Here we carry out a comparative theoretical study of a large number of iron-based compounds in both their magnetic and paramagnetic states. Taking into account correlation effects and realistic band structures, we describe well the trends in all of the physical properties such as the ordered moments, effective masses and Fermi surfaces across all families of iron compounds, and find them to \u2026"
+            ],
+            [
+                [
+                    "Physics",
+                    "Materials Science"
+                ]
+            ]
+        ]
+    ]
+}

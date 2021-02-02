@@ -1,0 +1,35 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "FSEL6EM1",
+            "b_KYI84AAAAJ",
+            [
+                "Improved splash-plate feed parabolic reflector antenna for Ka-Band VSAT applications",
+                "A novel ultra-wide band design for feeding structure of Ka Band VSAT parabolic reflector antenna",
+                "Automatic Detection of Cyberbullying in FORMSPRING. Me, Myspace and Youtube Social Networks"
+            ],
+            [
+                "In this study, we propose a conical dielectric loaded circular waveguide opening to splash plate subreflector for parabolic antenna feed. Corrugations on the dielectric lens and splash-plate structure are optimized for antenna performance. The feed structure is designed as axi-symmetric to support zero-order azimuth currents for low cross-polarization. Resulting structure offers good gain, low sidelobe, good cross-polarization, and low VSWR for Ka-band VSAT applications where receive and transmit frequency bands are 20.2-21.2 GHz and 30-31 GHz, respectively.",
+                "In this work, we present a novel design for the feeding structure for the splash-plate reflector antenna to be used in VSAT communications. The new design has a conical transition between the waveguide and the dielectric lens and has a reverse-stair type circular sub-reflector construct. The new structure is optimized using CST microwave studio software and the final configuration is obtained. The simulations of the resultant antenna parameters demonstrate the success of the design which can be used in Ka-Band VSAT applications.",
+                "Cyberbullying has become a major problem along with the increase of communication technologies and social media become part of daily life. Cyberbullying is the use of communication tools to harass or harm a person or group. Especially for the adolescent age group, cyberbullying causes damage that is thought to be suicidal and poses a great risk. In this study, a model is developed to identify the cyberbullying actions that took place in social networks. The model investigates the effects of some text mining methods such as pre-processing, feature extraction, feature selection and classification on automatic detection of cyberbullying using datasets obtained from Formspring. me, Myspace and YouTube social network platforms. Different classifiers (ie multilayer perceptron (MLP), stochastic gradient descent (SGD), logistic regression and radial basis function) have been developed and the effects of feature selection algorithms (ie Chi2, support vector machine-recursive feature elimination (SVM-RFE), minimum redundancy maximum relevance and ReliefF) for cyberbullying detection have also been investigated. The experimental results of the study proved that SGD and MLP classifiers with 500 selected features using SVM-RFE algorithm showed the best results (F_measure value is more than 0.930) by means of classification time and accuracy."
+            ],
+            [
+                [
+                    "Embedded Systems",
+                    "Intermittent Computing",
+                    "Machine Learning"
+                ]
+            ]
+        ]
+    ]
+}

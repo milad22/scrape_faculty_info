@@ -1,0 +1,189 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Echo state network (ESN) is a fast recurrent neural network with remarkable generalization performance for intelligent diagnosis of machinery faults. When dealing with high-dimensional signals mixed with much noise, however, the performance of a deep ESN is still highly affected by the random selection of input weights and reservoir weights, resulting in the optimal design of the deep ESN architecture, which is an open issue. For this reason, a hybrid evolutionary algorithm featuring a competitive swarm optimizer combined with a local search is proposed in this article. An indirect encoding method is designed based on the network characteristics of ESN to make the evolutionary process computationally economical. A layerwise optimization strategy is subsequently introduced for evolving deep ESNs. The results of two experimental cases show that the proposed approach has promising performance in identifying \u2026",
+            "Evolving deep echo state networks for intelligent fault diagnosis",
+            "Jianyu Long and Shaohui Zhang and Chuan Li",
+            "2019",
+            "fxqy1coAAAAJ:Wp0gIr-vW9MC",
+            40,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/8827669\/",
+            "17186798646801159583",
+            "\/scholar?cites=17186798646801159583",
+            {
+                "2020":39,
+                "2021":1
+            }
+        ],
+        [
+            "This paper studies the prize-collecting vehicle routing problem (PCVRP), which is a new variant of the vehicle routing problem. In the PCVRP, besides the vehicle assignment and visiting sequencing, customer selection also must be determined because the available vehicles are insufficient to visit all the customers. Two types of PCVRP are often encountered in the real world, namely the PCVRP in which the number of vehicles is predetermined (PCVRP-P) and that in which the number of vehicles is not predetermined (PCVRP-NP). In general, multiple optimization objectives are required to be considered in both the PCVRP-P and PCVRP-NP. Unlike the commonly used weighted-sum method, a Pareto-based evolutionary algorithm featuring a genetic algorithm combined with a local search strategy (denoted as HGLS) is proposed for solving the multi-objective PCVRP-P. Subsequently, based on the proposed \u2026",
+            "A hybrid multi-objective genetic local search algorithm for the prize-collecting vehicle routing problem",
+            "Jianyu Long and Zhenzhong Sun and Panos M Pardalos and Ying Hong and Shaohui Zhang and Chuan Li",
+            "2019",
+            "fxqy1coAAAAJ:kNdYIx-mwKoC",
+            40,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0020025518308946",
+            "9774752548096132506",
+            "\/scholar?cites=9774752548096132506",
+            {
+                "2019":14,
+                "2020":25,
+                "2021":1
+            }
+        ],
+        [
+            "Manufacturing quality prediction model, as an effective measure to monitor the quality in advance, has been developed using various data-driven techniques. However, multi-parameter in multi-stage of the modern manufacturing industry brings about the curse of dimensionality, leading to the difficulties for feature extraction, learning and quality modeling. To address this issue, three dimension reduction techniques are investigated in this paper, i.e., principal component analysis (PCA), locally linear embedding (LLE), and isometric mapping (Isomap). Specifically, the PCA is a linear dimension reduction technique, the LLE is a nonlinear reduction technique with local perspective, and the Isomap is a nonlinear reduction technique from global perspective. After getting the low-dimensional information from the PCA, the LLE, and the Isomap methods respectively, a support vector machine (SVM) is utilized for \u2026",
+            "A comparison of dimension reduction techniques for support vector machine modeling of multi-parameter manufacturing quality prediction",
+            "Yun Bai and Zhenzhong Sun and Bo Zeng and Jianyu Long and Lin Li and Jos\u00e9 Valente de Oliveira and Chuan Li",
+            "2019",
+            "fxqy1coAAAAJ:2osOgNQ5qMEC",
+            39,
+            "https:\/\/link.springer.com\/article\/10.1007\/s10845-017-1388-1",
+            "6471120271348057313",
+            "\/scholar?cites=6471120271348057313",
+            {
+                "2018":5,
+                "2019":15,
+                "2020":18,
+                "2021":1
+            }
+        ],
+        [
+            "Fault diagnosis is of importance to guarantee the printing quality and to avoid unexpected downtime for 3-D printers. In this paper, a sparse echo autoencoder network (SEAEN) is proposed for the fault diagnosis of delta 3-D printers using attitude data. Considering the practicality and economy of the fault diagnosis, the attitude data, including three-axial angular velocity signals, three-axial vibratory acceleration ones, and three-axial magnetic field intensity ones, are collected by installing a low-cost attitude sensor on the moving platform of the delta 3-D printer. However, the low-cost sensor will increase the chaos of the attitude data. To make up this deficiency, the SEAEN approach featuring a sparse autoencoder (SAE) combined with an echo state network (ESN) is designed for the fault diagnosis. The SAE is employed to automatically learn features from the high-dimensional attitude data of the delta 3-D printer \u2026",
+            "A novel sparse echo autoencoder network for data-driven fault diagnosis of delta 3-D printers",
+            "Jianyu Long and Zhenzhong Sun and Chuan Li and Ying Hong and Yun Bai and Shaohui Zhang",
+            "2019",
+            "fxqy1coAAAAJ:_kc_bZDykSQC",
+            34,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/8699100\/",
+            "10207541073158106142",
+            "\/scholar?cites=10207541073158106142",
+            {
+                "2019":4,
+                "2020":30
+            }
+        ],
+        [
+            "With the development of 3D printers, the healthy condition is becoming more and more crucial for the printing quality. In this research, anerror fusion of multiple sparse auto-encoders (EFMSAE) is developed to monitor the condition of the 3D printer dynamically. To this end, an attitude sensor which contained 9 channels is employed for collectingprinter condition data of 3-axial angular velocity, 3-axial vibratory acceleration and 3-axial magnetic field intensity, simultaneously. To make use of the information of multiple sensorsmounted on the moving platform of the printer,multiple sparse auto-encoders (SAEs)are employed for the deep learning of these data. To integrate these information for extracting ingredients incondition monitoring, square prediction error (SPE)is applied as an error fusion tool to fuse multiple SAEs. The value of SPEis used as an indicator to describe the operation status of the printer. Both \u2026",
+            "Dynamic condition monitoring for 3D printers by using error fusion of multiple sparse auto-encoders",
+            "Shaohui Zhang and Zhenzhong Sun and Jianyu Long and Chuan Li and Yun Bai",
+            "2019",
+            "fxqy1coAAAAJ:KlAtU1dfN6UC",
+            31,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0166361518304846",
+            "13859225991903372068",
+            "\/scholar?cites=13859225991903372068",
+            {
+                "2019":13,
+                "2020":16,
+                "2021":1
+            }
+        ],
+        [
+            "Health condition is a vital factor affecting printing quality for a 3D printer. In this work, an attitude monitoring approach is proposed to diagnose the fault of the delta 3D printer using support vector machines (SVM). An attitude sensor was mounted on the moving platform of the printer to monitor its 3-axial attitude angle, angular velocity, vibratory acceleration and magnetic field intensity. The attitude data of the working printer were collected under different conditions involving 12 fault types and a normal condition. The collected data were analyzed for diagnosing the health condition. To this end, the combination of binary classification, one-against-one with least-square SVM, was adopted for fault diagnosis modelling by using all channels of attitude monitoring data in the experiment. For comparison, each one channel of the attitude monitoring data was employed for model training and testing. On the other hand, a back propagation neural network (BPNN) was also applied to diagnose fault using the same data. The best fault diagnosis accuracy (94.44%) was obtained when all channels of the attitude monitoring data were used with SVM modelling. The results indicate that the attitude monitoring with SVM is an effective method for the fault diagnosis of delta 3D printers. View Full-Text",
+            "Intelligent fault diagnosis of delta 3D printers using attitude sensors based on support vector machines",
+            "Kun He and Zhijun Yang and Yun Bai and Jianyu Long and Chuan Li",
+            "2018",
+            "fxqy1coAAAAJ:u5HHmVD_uO8C",
+            30,
+            "https:\/\/www.mdpi.com\/1424-8220\/18\/4\/1298",
+            "613337693567896965",
+            "\/scholar?cites=613337693567896965",
+            {
+                "2018":1,
+                "2019":14,
+                "2020":14,
+                "2021":1
+            }
+        ],
+        [
+            "An echo state network (ESN) is a recurrent neural network with low computational complexity. However, a single ESN cannot extract effective features from complex inputs, especially for dealing with low-cost condition signals in machinery fault diagnosis. A novel deep learning model, referred to as the deep fuzzy ESN (DFESN), was proposed to improve the feature extraction capability with less computational burden. In the present method, the output data of the previous ESN reservoir were regarded as abstract feature vectors for the next ESN input. The features were reinforced in each hidden layer by using fuzzy clustering as a tuning step for classification enhancement. In this way, layerwise fuzzy tuning was developed to replace traditional overall feedback fine tuning in deep models. This improved learning efficiency and robustness while overcoming the vanishing gradient problem for deep learning. The \u2026",
+            "Deep fuzzy echo state networks for machinery fault diagnosis",
+            "Shaohui Zhang and Zhenzhong Sun and Man Wang and Jianyu Long and Yun Bai and Chuan Li",
+            "2019",
+            "fxqy1coAAAAJ:M3ejUd6NZC8C",
+            24,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/8704873\/",
+            "9227059403501761122",
+            "\/scholar?cites=9227059403501761122",
+            {
+                "2019":7,
+                "2020":17
+            }
+        ],
+        [
+            "In the steelmaking-continuous casting (SCC) production process, machine breakdown is one of the most common disturbances which may make the current schedule unrealisable. Existing rescheduling models for machine breakdown only employ one constraint that charges cannot be processed on this machine in its failure period. However, this method is effective for steelmaking furnace breakdown and refining furnace breakdown but invalid for continuous caster breakdown. Due to the production characteristics of continuous caster, reallocating a casting order and a continuous caster for each unfinished charge on the broken down continuous caster is necessary before making a new schedule. Different reallocation strategies have different impacts on charge\u2019s processing time and processing stage route in the dynamic scheduling process. Therefore, SCC dynamic scheduling for the continuous caster breakdown \u2026",
+            "Dynamic scheduling in steelmaking-continuous casting production for continuous caster breakdown",
+            "Jianyu Long and Zhong Zheng and Xiaoqiang Gao",
+            "2017",
+            "fxqy1coAAAAJ:d1gkVwhDpl0C",
+            22,
+            "https:\/\/www.tandfonline.com\/doi\/abs\/10.1080\/00207543.2016.1268277",
+            "1588974405132787252",
+            "\/scholar?cites=1588974405132787252",
+            {
+                "2017":1,
+                "2018":10,
+                "2019":6,
+                "2020":5
+            }
+        ],
+        [
+            "This paper studies a new realistic hybrid flow shop (HFS) scheduling problem with stage skipping and adjustable processing time in steelmaking- continuous casting (SCC) production process. The SCC scheduling problem is solved to determine the machine allocations, starting times and ending times for all operations of all charges (jobs). Through clarifying the production objectives and constraints related to stage skipping and adjustable processing time, a new SCC scheduling model is built. We develop an improved genetic algorithm (GA) to address the scheduling problem. For calibrating our GA, four encoding methods, two selection operators and three crossover operators, which are effective and widely used in regular HFS scheduling problems are compared and analyzed. In addition, a quality improvement approach is developed to embed into the GA to further optimize each solution obtained by the \u2026",
+            "Scheduling a realistic hybrid flow shop with stage skipping and adjustable processing time in steel plants",
+            "Jianyu Long and Zhong Zheng and Xiaoqiang Gao and Panos M Pardalos",
+            "2018",
+            "fxqy1coAAAAJ:zYLM7Y9cAGgC",
+            21,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S1568494617307810",
+            "15319292001093246882",
+            "\/scholar?cites=15319292001093246882",
+            {
+                "2018":3,
+                "2019":5,
+                "2020":13
+            }
+        ],
+        [
+            "Under the international background of the transformation and promotion of manufacturing, the Chinese government proposed the \u201cMade in China 2025\u201d strategy, which focused on the improvement of a quality-based innovation ability. Moreover, predicting manufacturing quality is one of the crucial measures for quality management. Accurate prediction is closely related to the feature learning of manufacturing processes. Therefore, two categories of intelligent learning approaches, ie, shallow learning and deep learning, are investigated and compared for manufacturing quality prediction in this paper. Specifically, the feed forward neural network (FFNN) with one hidden layer and the least squares support vector machine (LSSVM) with no hidden layers are selected as the representatives for shallow learning, and the deep restricted Boltzmann machine (DRBM) and the stack autoencoder (SAE) are chosen as the representatives for deep learning. The manufacturing data is collected from a competition about manufacturing quality control in the Tianchi Data Lab of China. The experiments show that the deep framework overwhelms the shallow architecture in terms of mean absolute percentage error, root-mean-square error, and threshold statistics. In addition, the prediction results also indicate that the performances depend on the length of the training data. That is, the bigger the sample size is, the better the performance is. View Full-Text",
+            "Manufacturing quality prediction using intelligent learning approaches: A comparative study",
+            "Yun Bai and Zhenzhong Sun and Jun Deng and Lin Li and Jianyu Long and Chuan Li",
+            "2018",
+            "fxqy1coAAAAJ:qUcmZB5y_30C",
+            19,
+            "https:\/\/www.mdpi.com\/2071-1050\/10\/1\/85",
+            "2529364107130251539",
+            "\/scholar?cites=2529364107130251539",
+            {
+                "2017":1,
+                "2018":3,
+                "2019":10,
+                "2020":5
+            }
+        ]
+    ]
+}

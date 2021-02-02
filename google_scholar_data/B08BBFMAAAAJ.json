@@ -1,0 +1,280 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "B08BBFMAAAAJ",
+            "Thomas Papenbrock",
+            "University of Tennessee",
+            "@utk.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=B08BBFMAAAAJ",
+            7614,
+            [
+                "physics"
+            ],
+            4523,
+            48,
+            36,
+            108,
+            79,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"n6JHe5sAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gaute Hagen",
+                    "affiliation":"Oak Ridge National Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"wqp13AgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"D. J.  Dean",
+                    "affiliation":"Oak Ridge National Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"AhFzlysAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gustav R. Jansen",
+                    "affiliation":"Oak Ridge National Lab"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"FpcHIs8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Andreas Ekstr\u00f6m",
+                    "affiliation":"Chalmers University of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"tqsl4rkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Witold Nazarewicz",
+                    "affiliation":"Professor of Physics, Michigan State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fDjDBKgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Achim Schwenk",
+                    "affiliation":"Technische Universit\u00e4t Darmstadt"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"TzXK2oUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Christian Forss\u00e9n",
+                    "affiliation":"Professor of Physics, Chalmers University of Technology, Sweden"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Uiva_GMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Piotr Piecuch",
+                    "affiliation":"University Distinguished Professor and MSU Foundation Professor, Michigan State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"JboK83AAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"George Bertsch",
+                    "affiliation":"Emeritus Professor of Physics, University of Washington"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"PLMG9z4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Karol Kowalski",
+                    "affiliation":"Pacific Northwest National Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"hOXsnrEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ruprecht Machleidt",
+                    "affiliation":"Professor of Physics, University of Idaho"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"LVcMKV0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"R. J. Furnstahl",
+                    "affiliation":"Professor of Physics, Ohio State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"WU_HsKkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Achim Richter",
+                    "affiliation":"Professor fuer Physik"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9CnnrjMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jason D. Holt",
+                    "affiliation":"TRIUMF \/ McGill University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"VRN0YdwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Stefan M. Wild",
+                    "affiliation":"Argonne National Laboratory, Mathematics & Computer Science Division"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"5uT2Z7AAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Pavel Lougovski",
+                    "affiliation":"Amazon Braket"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"CSxRy9YAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sushant More",
+                    "affiliation":"Postdoctoral Research Associate, National Superconducting Cyclotron Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"vhKaSe4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Thomas H. Seligman",
+                    "affiliation":"Institute of Physical Science, Universidad Nacional Aut\u00f3noma de M\u00e9xico"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"-mvO4kEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Barbara Dietz",
+                    "affiliation":"Wissenschaftliche Mitarbeiterin an dem Institu f\u00fcr Kernphysik"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"xHLAHNQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Lev Kaplan",
+                    "affiliation":"Professor of Physics, Tulane University"
+                }
+            ]
+        ]
+    ]
+}

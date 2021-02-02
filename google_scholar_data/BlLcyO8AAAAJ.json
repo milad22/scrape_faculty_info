@@ -1,0 +1,56 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "BlLcyO8AAAAJ",
+            "Zhuo Qi Lee",
+            "Data Scientist @ Teralytics",
+            "@e.ntu.edu.sg",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=BlLcyO8AAAAJ",
+            144,
+            [
+                "Machine Learning",
+                "Image Processing",
+                "Simulation",
+                "Computational Logistics",
+                "Algorithm"
+            ],
+            92,
+            4,
+            4,
+            2,
+            2,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"XnHbS6MAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hsu Wen Jing",
+                    "affiliation":"Nanyang Technological University, Singapore"
+                }
+            ]
+        ]
+    ]
+}

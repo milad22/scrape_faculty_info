@@ -1,0 +1,127 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "2oNi7DkAAAAJ",
+            "Steve Ray",
+            "NIST; CMU; Princeton",
+            "@steveray.com",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=2oNi7DkAAAAJ",
+            1773,
+            [
+                "Ontology",
+                "semantics",
+                "manufacturing",
+                "fire"
+            ],
+            384,
+            20,
+            10,
+            31,
+            10,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"IhQUt2IAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Leo Obrst",
+                    "affiliation":"MITRE"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"NVZwp0IAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Craig Schlenoff",
+                    "affiliation":"National Institute of Standards and Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"QmP0ggQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"A. Carlos FERNANDEZ-PELLO",
+                    "affiliation":"Professor of Mechanical Engineering, University of California, Berkeley"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"W4t8B20AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ram Duvvuru Sriram",
+                    "affiliation":"National Institute of Standards and Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"icGNWj4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Barry Smith",
+                    "affiliation":"Professor of  Philosophy, Biomedical Informatics, and Computer Science, University at Buffalo"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"FgiDz7oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michael Gruninger",
+                    "affiliation":"University of Toronto"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"dVKICiMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Werner Ceusters",
+                    "affiliation":"University at Buffalo"
+                }
+            ]
+        ]
+    ]
+}

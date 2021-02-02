@@ -1,0 +1,53 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "RI3XV94AAAAJ",
+            "James MacDonald",
+            "USDA Economic Research Service",
+            "@ers.usda.gov",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=RI3XV94AAAAJ",
+            6075,
+            [
+                "Industrial organization",
+                "agricultural economics"
+            ],
+            2067,
+            40,
+            26,
+            84,
+            49,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"5jm48TEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Robert Schwartz",
+                    "affiliation":"USDA-ARS"
+                }
+            ]
+        ]
+    ]
+}

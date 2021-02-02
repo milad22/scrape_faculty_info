@@ -1,0 +1,90 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "4-_LLZIAAAAJ",
+            "Feng Wang",
+            "Department of Materials Science and Engineering, City University of Hong Kong",
+            "@cityu.edu.hk",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=4-_LLZIAAAAJ",
+            18257,
+            [
+                "nanoparticle",
+                "luminescence",
+                "upconversion"
+            ],
+            9666,
+            46,
+            40,
+            86,
+            78,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"VB4WBn0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Xiaogang Liu",
+                    "affiliation":"National University of Singapore"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"rJRN4_8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yong Zhang",
+                    "affiliation":"Professor of Biomedical Engineering, National University of Singapore"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ex4LuTEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yu Han",
+                    "affiliation":"Professor of Chemistry, KAUST"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"5QaO2ToAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Siu Fung Yu",
+                    "affiliation":"The Hong Kong Polytechnic University"
+                }
+            ]
+        ]
+    ]
+}

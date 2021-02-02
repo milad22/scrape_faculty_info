@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "6W9ZZH7K",
+            "bahbb80AAAAJ",
+            [
+                "Findings of the 2011 workshop on statistical machine translation",
+                "Crowdsourcing translation: Professional quality from non-professionals",
+                "Arabic dialect identification",
+                "Findings of the 2010 joint workshop on statistical machine translation and metrics for machine translation",
+                "Joshua: An open source toolkit for parsing-based machine translation",
+                "Using \u201cannotator rationales\u201d to improve machine learning for text categorization",
+                "Machine translation of Arabic dialects",
+                "The arabic online commentary dataset: an annotated dataset of informal arabic with high dialectal content",
+                "Z-MERT: A fully configurable open source tool for minimum error rate training of machine translation systems",
+                "Modeling annotators: A generative approach to learning from annotator rationales"
+            ],
+            [
+                "This paper presents the results of the WMT11 shared tasks, which included a translation task, a system combination task, and a task for machine translation evaluation metrics. We conducted a large-scale manual evaluation of 148 machine translation systems and 41 system combination entries. We used the ranking of these systems to measure how strongly automatic metrics correlate with human judgments of translation quality for 21 evaluation metrics. This year featured a Haitian Creole to English task translating SMS messages sent to an emergency response service in the aftermath of the Haitian earthquake. We also conducted a pilot \u2018tunable metrics\u2019 task to test whether optimizing a fixed system to different metrics would result in perceptibly different translation quality.",
+                "Naively collecting translations by crowdsourcing the task to non-professional translators yields disfluent, low-quality results if no quality control is exercised. We demonstrate a variety of mechanisms that increase the translation quality to near professional levels. Specifically, we solicit redundant translations and edits to them, and automatically select the best output among them. We propose a set of features that model both the translations and the translators, such as country of residence, LM perplexity of the translation, edit rate from the other translations, and (optionally) calibration against professional translators. Using these features to score the collected translations, we are able to discriminate between acceptable and unacceptable translations. We recreate the NIST 2009 Urdu-to-English evaluation set with Mechanical Turk, and quantitatively show that our models are able to select translations within the range of quality that we expect from professional translators. The total cost is more than an order of magnitude lower than professional translation.",
+                "The written form of the Arabic language, Modern Standard Arabic (MSA), differs in a non-trivial manner from the various spoken regional dialects of Arabic\u2014the true \u201cnative languages\u201d of Arabic speakers. Those dialects, in turn, differ quite a bit from each other. However, due to MSA's prevalence in written form, almost all Arabic data sets have predominantly MSA content. In this article, we describe the creation of a novel Arabic resource with dialect annotations. We have created a large monolingual data set rich in dialectal Arabic content called the Arabic On-line Commentary Data set (Zaidan and Callison-Burch 2011). We describe our annotation effort to identify the dialect level (and dialect itself) in each of more than 100,000 sentences from the data set by crowdsourcing the annotation task, and delve into interesting annotator behaviors (like over-identification of one's own dialect). Using this new annotated data \u2026",
+                "This paper presents the results of the WMT10 and MetricsMATR10 shared tasks, 1 which included a translation task, a system combination task, and an evaluation task. We conducted a large-scale manual evaluation of 104 machine translation systems and 41 system combination entries. We used the ranking of these systems to measure how strongly automatic metrics correlate with human judgments of translation quality for 26 metrics. This year we also investigated increasing the number of human judgments by hiring non-expert annotators through Amazon\u2019s Mechanical Turk.",
+                "We describe Joshua, an open source toolkit for statistical machine translation. Joshua implements all of the algorithms required for synchronous context free grammars (SCFGs): chart-parsing, ngram language model integration, beamand cube-pruning, and k-best extraction. The toolkit also implements suffix-array grammar extraction and minimum error rate training. It uses parallel and distributed computing techniques for scalability. We demonstrate that the toolkit achieves state of the art translation performance on the WMT09 French-English translation task.",
+                "We propose a new framework for supervised machine learning. Our goal is to learn from smaller amounts of supervised training data, by collecting a richer kind of training data: annotations with \u201crationales.\u201d When annotating an example, the human teacher will also highlight evidence supporting this annotation\u2014thereby teaching the machine learner why the example belongs to the category. We provide some rationale-annotated data and present a learning method that exploits the rationales during training to boost performance significantly on a sample task, namely sentiment classification of movie reviews. We hypothesize that in some situations, providing rationales is a more fruitful use of an annotator\u2019s time than annotating more examples.",
+                "Arabic Dialects present many challenges for machine translation, not least of which is the lack of data resources. We use crowdsourcing to cheaply and quickly build Levantine-English and Egyptian-English parallel corpora, consisting of 1.1 M words and 380k words, respectively. The dialectal sentences are selected from a large corpus of Arabic web text, and translated using Amazon\u2019s Mechanical Turk. We use this data to build Dialectal Arabic MT systems, and find that small amounts of dialectal data have a dramatic impact on translation quality. When translating Egyptian and Levantine test sets, our Dialectal Arabic MT system performs 6.3 and 7.0 BLEU points higher than a Modern Standard Arabic MT system trained on a 150M-word Arabic-English parallel corpus.",
+                "The written form of Arabic, Modern Standard Arabic (MSA), differs quite a bit from the spoken dialects of Arabic, which are the true \u201cnative\u201d languages of Arabic speakers used in daily life. However, due to MSA\u2019s prevalence in written form, almost all Arabic datasets have predominantly MSA content. We present the Arabic Online Commentary Dataset, a 52M-word monolingual dataset rich in dialectal content, and we describe our long-term annotation effort to identify the dialect level (and dialect itself) in each sentence of the dataset. So far, we have labeled 108K sentences, 41% of which as having dialectal content. We also present experimental results on the task of automatic dialect identification, using the collected labels for training and evaluation.",
+                "We introduce Z-MERT, a software tool for minimum error rate training of machine translation systems (Och, 2003). In addition to being an open source tool that is extremely easy to compile and run, Z-MERT is also agnostic regarding the evaluation metric, fully configurable, and requires no modification to work with any decoder. We describe Z-MERT and review its features, and report the results of a series of experiments that examine the tool's runtime. We establish that Z-MERT is extremely efficient, making it well-suited for time-sensitive pipelines. The experiments also provide an insight into the tool's runtime in terms of several variables (size of the development set, size of produced N-best lists, etc).",
+                "A human annotator can provide hints to a machine learner by highlighting contextual \u201crationales\u201d for each of his or her annotations (Zaidan et al., 2007). How can one exploit this side information to better learn the desired parameters \u03b8? We present a generative model of how a given annotator, knowing the true \u03b8, stochastically chooses rationales. Thus, observing the rationales helps us infer the true \u03b8. We collect substring rationales for a sentiment classification task (Pang and Lee, 2004) and use them to obtain significant accuracy improvements for each annotator. Our new generative approach exploits the rationales more effectively than our previous \u201cmasking SVM\u201d approach. It is also more principled, and could be adapted to help learn other kinds of probabilistic classifiers for quite different tasks."
+            ],
+            [
+                [
+                    "Machine Translation",
+                    "Natural Language Processing",
+                    "Crowdsourcing"
+                ]
+            ]
+        ]
+    ]
+}

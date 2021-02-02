@@ -1,0 +1,44 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "M05GHIVR",
+            "yH-48vkAAAAJ",
+            [
+                "MR\u2010guided adaptive focusing of therapeutic ultrasound beams in the human head",
+                "Application of DENSE\u2010MR\u2010elastography to the human heart",
+                "In vivo free\u2010breathing DTI and IVIM of the whole human heart using a real\u2010time slice\u2010followed SE\u2010EPI navigator\u2010based sequence: A reproducibility study in healthy volunteers",
+                "Parallel\u2010transmission\u2010enabled three\u2010dimensional T2\u2010weighted imaging of the human brain at 7 Tesla",
+                "Magnetization transfer from inhomogeneously broadened lines (ihMT): Improved imaging strategy for spinal cord applications",
+                "Time-resolved spin-labeled MR angiography for the depiction of cerebral arteriovenous malformations: a comparison of techniques",
+                "Qualitative and quantitative evaluation of skeletal muscle fatty degenerative changes using whole-body Dixon nuclear magnetic resonance imaging for an important reduction of \u2026"
+            ],
+            [
+                "This study aims to demonstrate, using human cadavers the feasibility of energy\u2010based adaptive focusing of ultrasonic waves using magnetic resonance acoustic radiation force imaging (MR\u2010ARFI) in the framework of non\u2010invasive transcranial high intensity focused ultrasound (HIFU) therapy.Energy\u2010based adaptive focusing techniques were recently proposed in order to achieve aberration correction. The authors evaluate this method on a clinical brain HIFU system composed of 512 ultrasonic elements positioned inside a full body 1.5 T clinical magnetic resonance (MR) imaging system. Cadaver heads were mounted onto a clinical Leksell stereotactic frame. The ultrasonic wave intensity at the chosen location was indirectly estimated by the MR system measuring the local tissue displacement induced by the acoustic radiation force of the ultrasound (US) beams. For aberration correction, a set \u2026",
+                "Typically, MR\u2010elastography (MRE) encodes the propagation of monochromatic acoustic waves in the MR\u2010phase images via sinusoidal gradients characterized by a detection frequency equal to the frequency of the mechanical vibration. Therefore, the echo time of a conventional MRE sequence is typically longer than the vibration period which is critical for heart tissue exhibiting a short T2. Thus, fast acquisition techniques like the so\u2010called fractional encoding of harmonic motions were developed for cardiac applications. However, fractional encoding of harmonic motions is limited since it is two orders of magnitude less sensitive to motion than conventional MRE sequences for low\u2010frequency vibrations. Here, a new sequence is derived from the so\u2010called displacement encoding with stimulated echoes (DENSE) sequence. This sequence is more sensitive to displacement than fractional encoding of harmonic \u2026",
+                "In this study, we proposed an efficient free\u2010breathing strategy for rapid and improved cardiac diffusion\u2010weighted imaging (DWI) acquisition using a single\u2010shot spin\u2010echo echo planar imaging (SE\u2010EPI) sequence. Methods: A real\u2010time slice\u2010following technique during free\u2010breathing was combined with a sliding acquisition\u2010window strategy prior Principal Component Analysis temporal Maximum Intensity Projection (PCAtMIP) postprocessing of in\u2010plane co\u2010registered diffusion\u2010weighted images. This methodology was applied to 10 volunteers to quantify the performance of the motion correction technique and the reproducibility of diffusion parameters. Results: The slice\u2010following technique offers a powerful head\u2013foot respiratory motion management solution for SE\u2010EPI cDWI with the advantage of a 100% duty cycle scanning efficiency. The level of co\u2010registration was further improved using nonrigid motion \u2026",
+                "",
+                "Inhomogeneous magnetization transfer (ihMT) shows great promise for specific imaging of myelinated tissues. Whereas the ihMT technique has been previously applied in brain applications, the current report presents a strategy for cervical spinal cord (SC) imaging free of cerebrospinal fluid (CSF) pulsatility artifacts.A pulsed ihMT preparation was combined with a single\u2010shot HASTE readout. Electrocardiogram (ECG) synchronization was used to acquire all images during the quiescent phase of SC motion. However ihMT signal quantification errors may occur when a variable recovery delay is introduced in the sequence as a consequence of variable cardiac cycle. A semiautomatic retrospective correction algorithm, based on repetition time (TR) \u2010matching, is proposed to correct for signal variations of long T1\u2010components (e.g., CSF).The proposed strategy combining ECG \u2026",
+                "To assess time-resolved spin-labeled (SL) magnetic resonance (MR) angiographic imaging with a large acquisition time window over two cardiac cycles for characterization of cerebral arteriovenous malformations (AVMs).This study was institutional review board\u2013approved. Sixteen patients presented with an AVM, provided informed consent, and were prospectively included. Time-resolved SL MR angiographic images with acquisition window that covered two cardiac cycles (acquisition time, 10\u201312 min; temporal resolution, 60 msec) or one cardiac cycle and time-of-flight (TOF) MR angiographic images were acquired with a 3-T MR imager. A diagnostic confidence index was used for image quality evaluation; scores were 0, no diagnosis, to 3, high image quality. AVM characterization consisted of arterial feeder, nidus size, and venous drainage type identification compared with those \u2026",
+                "In recent years, MRI has proven its usefulness for the diagnostic workup of patients with musculo-skeletal diseases, and also shown great promise as a non-invasive, quantitative outcome measure in clinical studies. The characterization of patterns of fatty degenerative lesions, which now plays an important part in the diagnosis of some diseases, is typically performed by the radiologist on routine T1-weighted images. We propose to rationalize acquisitions and reduce patients' time in the scanner by allowing radiologists to perform the qualitative grading of the muscles on images derived from fat\/water acquisitions. These maps are color-coded, where the different colors correspond to classes of fatty infiltration degree. This allows a quick visual assessment of the muscles, equivalent to the standard method. Using the weighted Kappa agreement test, the agreement between the proposed method and the traditional \u2026"
+            ],
+            [
+                [
+                    "MRI",
+                    "Ultrasound Imaging",
+                    "HIFU",
+                    "Elastography"
+                ]
+            ]
+        ]
+    ]
+}

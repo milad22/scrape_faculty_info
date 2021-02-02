@@ -1,0 +1,52 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "nI2nOsMAAAAJ",
+            "Leigh Hargreaves",
+            "California State University Fullerton",
+            "@fullerton.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=nI2nOsMAAAAJ",
+            677,
+            [
+                "Atomic and Molecular Physics"
+            ],
+            379,
+            17,
+            10,
+            24,
+            12,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"u9hhCScAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sarah John",
+                    "affiliation":"University of Virginia"
+                }
+            ]
+        ]
+    ]
+}

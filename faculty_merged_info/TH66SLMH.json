@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "TH66SLMH",
+            "QhS-LKIAAAAJ",
+            [
+                "Femtosecond X-ray protein nanocrystallography",
+                "Applications of the Monte Carlo method in statistical physics",
+                "Superfluid Fermi gases with large scattering length",
+                "The Monte Carlo method in condensed matter physics",
+                "Quantum Monte Carlo methods for nuclear physics",
+                "Gas dynamic virtual nozzle for generation of microscopic droplet streams",
+                "Serial time-resolved crystallography of photosystem II using a femtosecond X-ray laser",
+                "Correlated Monte Carlo wave functions for the atoms He through Ne",
+                "Implementing the fast multipole method in three dimensions",
+                "Quantum Monte Carlo studies of superfluid Fermi gases"
+            ],
+            [
+                "X-ray crystallography provides the vast majority of macromolecular structures, but the success of the method relies on growing crystals of sufficient size. In conventional measurements, the necessary increase in X-ray dose to record data from crystals that are too small leads to extensive damage before a diffraction signal can be recorded 1, 2, 3. It is particularly challenging to obtain large, well-diffracting crystals of membrane proteins, for which fewer than 300 unique structures have been determined despite their importance in all living cells. Here we present a method for structure determination where single-crystal X-ray diffraction \u2018snapshots\u2019 are collected from a fully hydrated stream of nanocrystals using femtosecond pulses from a hard-X-ray free-electron laser, the Linac Coherent Light Source 4. We prove this concept with nanocrystals of photosystem I, one of the largest membrane protein complexes 5. More than \u2026",
+                "Deals with the computer simulation of complex physical sys-tems encounteredin condensed-matter physics and statistical mechanics as well as in related fields such as metallurgy, polymer research, lattice gauge theory and quantummechanics.",
+                "We report quantum Monte Carlo calculations of superfluid Fermi gases with short-range two-body attractive interactions with infinite scattering length. The energy of such gases is estimated to be (0.44\u00b10.01) times that of the noninteracting gas, and their pairing gap is approximately twice the energy per particle.",
+                "The Monte Carlo method is now widely used and commonly accepted as an important and useful tool in solid state physics and related fields. It is broadly recognized that the technique of\" computer simulation\" is complementary to both analytical theory and experiment, and can significantly contribute to ad vancing the understanding of various scientific problems. Widespread applications of the Monte Carlo method to various fields of the statistical mechanics of condensed matter physics have already been reviewed in two previously published books, namely Monte Carlo Methods in Statistical Physics (Topics Curro Phys., Vol. 7, 1st edn. 1979, 2ndedn. 1986) and Applications of the Monte Carlo Method in Statistical Physics (Topics Curro Phys., Vol. 36, 1st edn. 1984, 2nd edn. 1987). Meanwhile the field has continued its rapid growth and expansion, and applications to new fields have appeared that were not treated at all in the above two books (eg studies of irreversible growth phenomena, cellular automata, interfaces, and quantum problems on lattices). Also, new methodic aspects have emerged, such as aspects of efficient use of vector com puters or parallel computers, more efficient analysis of simulated systems con figurations, and methods to reduce critical slowing down at i> hase transitions. Taken together with the extensive activity in certain traditional areas of research (simulation of classical and quantum fluids, of macromolecular materials, of spin glasses and quadrupolar glasses, etc.",
+                "Quantum Monte Carlo methods have proved valuable to study the structure and reactions of light nuclei and nucleonic matter starting from realistic nuclear interactions and currents. These ab initio calculations reproduce many low-lying states, moments, and transitions in light nuclei, and simultaneously predict many properties of light nuclei and neutron matter over a rather wide range of energy and momenta. The nuclear interactions and currents are reviewed along with a description of the continuum quantum Monte Carlo methods used in nuclear physics. These methods are similar to those used in condensed matter and electronic structure but naturally include spin-isospin, tensor, spin-orbit, and three-body interactions. A variety of results are presented, including the low-lying spectra of light nuclei, nuclear form factors, and transition matrix elements. Low-energy scattering techniques, studies of the electroweak \u2026",
+                "As shown by Ga\u00f1\u00e1n-Calvo (1998 Phys. Rev. Lett. 80 285\u20138), a free liquid jet can be compressed in diameter through gas dynamic forces exerted by a coaxially co-flowing gas, obviating the need for a solid nozzle to form a microscopic liquid jet and thereby alleviating the clogging problems that plague conventional droplet sources of small diameter. We describe in this paper a novel form of droplet beam source based on this principle. The source is miniature, robust, dependable, easily fabricated, essentially immune to clogging and eminently suitable for delivery of microscopic liquid droplets, including hydrated biological samples, into vacuum for analysis using vacuum instrumentation. Monodisperse, single-file droplet streams are generated by triggering the device with a piezoelectric actuator.",
+                "Photosynthesis, a process catalysed by plants, algae and cyanobacteria converts sunlight to energy thus sustaining all higher life on Earth. Two large membrane protein complexes, photosystem I and II (PSI and PSII), act in series to catalyse the light-driven reactions in photosynthesis. PSII catalyses the light-driven water splitting process, which maintains the Earth\u2019s oxygenic atmosphere 1. In this process, the oxygen-evolving complex (OEC) of PSII cycles through five states, S 0 to S 4, in which four electrons are sequentially extracted from the OEC in four light-driven charge-separation events. Here we describe time resolved experiments on PSII nano\/microcrystals from Thermosynechococcus elongatus performed with the recently developed 2 technique of serial femtosecond crystallography. Structures have been determined from PSII in the dark S 1 state and after double laser excitation (putative S 3 state) at 5 and \u2026",
+                "We apply the variational Monte Carlo method to the atoms He through Ne. Our trial wave function is of the form introduced by Boys and Handy. We use the Monte Carlo method to calculate the first and second derivatives of an unreweighted variance and apply Newton\u2019s method to minimize this variance. We motivate the form of the correlation function using the local current conservation arguments of Feynman and Cohen. Using a self\u2010consistent field wave function multiplied by a Boys and Handy correlation function, we recover a large fraction of the correlation energy of these atoms. We give the value of all variational parameters necessary to reproduce our wave functions. The method can be extended easily to other atoms and to molecules.",
+                "The Rokhlin-Greengard fast multipole algorithm for evaluating Coulomb and multipole potentials has been implemented and analyzed in three dimensions. The implementation is presented for bounded charged systems and systems with periodic boundary conditions. The results include timings and error characterizations.",
+                "We report results of quantum Monte Carlo calculations of the ground state of dilute Fermi gases with attractive short-range two-body interactions. The strength of the interaction is varied to study different pairing regimes which are characterized by the product of the s-wave scattering length and the Fermi wave vector, a k F. We report results for the ground-state energy, the pairing gap \u0394, and the quasiparticle spectrum. In the weak-coupling regime, 1\u2215 a k F<\u2212 1, we obtain Bardeen-Cooper-Schrieffer (BCS) superfluid and the energy gap \u0394 is much smaller than the Fermi gas energy E FG. When a> 0, the interaction is strong enough to form bound molecules with energy E mol. For 1\u2215 a k F\u2273 0.5, we find that weakly interacting composite bosons are formed in the superfluid gas with \u0394 and gas energy per particle approaching\u2223 E mol\u2223\u2215 2. In this region, we seem to have Bose-Einstein condensation (BEC) of molecules \u2026"
+            ],
+            [
+                [
+                    "Quantum Monte Carlo",
+                    "Nuclear Structure",
+                    "Femtosecond X-ray scattering",
+                    "Cold atoms"
+                ]
+            ]
+        ]
+    ]
+}

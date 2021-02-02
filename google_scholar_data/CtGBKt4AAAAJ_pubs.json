@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "There are many image fusion methods that can be used to produce high-resolution multispectral images from a high-resolution panchromatic image and low-resolution multispectral images. Starting from the physical principle of image formation, this paper presents a comprehensive framework, the general image fusion (GIF) method, which makes it possible to categorize, compare, and evaluate the existing image fusion methods. Using the GIF method, it is shown that the pixel values of the high-resolution multispectral images are determined by the corresponding pixel values of the low-resolution panchromatic image, the approximation of the high-resolution panchromatic image at the low-resolution level. Many of the existing image fusion methods, including, but not limited to, intensity-hue-saturation, Brovey transform, principal component analysis, high-pass filtering, high-pass modulation, the a\/spl grave\/ trous \u2026",
+            "A comparative analysis of image fusion methods",
+            "Zhijun Wang and Djemel Ziou and Costas Armenakis and Deren Li and Qingquan Li",
+            "2005",
+            "CtGBKt4AAAAJ:2Iopv88g0QUC",
+            1009,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/1433035\/",
+            "5140077991789243791",
+            "\/scholar?cites=5140077991789243791",
+            {
+                "2005":4,
+                "2006":29,
+                "2007":58,
+                "2008":68,
+                "2009":70,
+                "2010":71,
+                "2011":82,
+                "2012":78,
+                "2013":71,
+                "2014":97,
+                "2015":76,
+                "2016":74,
+                "2017":50,
+                "2018":65,
+                "2019":48,
+                "2020":54,
+                "2021":4
+            }
+        ]
+    ]
+}

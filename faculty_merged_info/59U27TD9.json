@@ -1,0 +1,38 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "59U27TD9",
+            "cnaBZDUAAAAJ",
+            [
+                "COMBO: an efficient Bayesian optimization library for materials science",
+                "Rapid collapse of spin waves in nonuniform phases of the second Landau level",
+                "Observation of magnetophonon resonance of Dirac fermions in graphite",
+                "NMR profiling of quantum electron solids in high magnetic fields",
+                "Systematic search for two-dimensional ferromagnetic materials"
+            ],
+            [
+                "In many subfields of chemistry and physics, numerous attempts have been made to accelerate scientific discovery using data-driven experimental design algorithms. Among them, Bayesian optimization has been proven to be an effective tool. A standard implementation (e.g., scikit-learn), however, can accommodate only small training data. We designed an efficient protocol for Bayesian optimization that employs Thompson sampling, random feature maps, one-rank Cholesky update and automatic hyperparameter tuning, and implemented it as an open-source python library called COMBO (COMmon Bayesian Optimization library). Promising results using COMBO to determine the atomic structure of a crystalline interface are presented. COMBO is available at https:\/\/github.com\/tsudalab\/combo.",
+                "The spin degree of freedom in quantum phases of the second Landau level is probed by resonant light scattering. The long wavelength spin wave, which monitors the degree of spin polarization, is at the Zeeman energy in the fully spin-polarized state at \u03bd= 3. At lower filling factors, the intensity of the Zeeman mode collapses, indicating loss of polarization. A novel continuum of low-lying excitations emerges that dominates near \u03bd= 8\/3 and \u03bd= 5\/2. Resonant Rayleigh scattering reveals that quantum fluids for \u03bd< 3 break up into robust domain structures. While the state at \u03bd= 5\/2 is considered to be fully polarized, these results reveal unprecedented roles for spin degrees of freedom.",
+                "Coherent coupling of Dirac fermion magnetoexcitons with an optical phonon is observed in graphite as marked magnetic-field dependent splittings and anticrossing behavior of the two coupled modes. The sharp magnetophonon resonance occurs in regions of the graphite sample with properties of superior single-layer graphene having enhanced lifetimes of Dirac fermions. The greatly reduced carrier broadening to values below the graphene electron-phonon coupling constant explains the appearance of sharp resonances that reveal a fundamental interaction of Dirac fermions.",
+                "When the motion of electrons is restricted to a plane under a perpendicular magnetic field, a variety of quantum phases emerge at low temperatures, the properties of which are dictated by the Coulomb interaction and its interplay with disorder. At very strong magnetic field, the sequence of fractional quantum Hall liquid phases 1 terminates in an insulating phase, which is widely believed to be due to the solidification of electrons into domains possessing Wigner crystal 2 order 3, 4, 5, 6, 7, 8, 9, 10, 11. The existence of such Wigner crystal domains is signalled by the emergence of microwave pinning-mode resonances 10, 11, which reflect the mechanical properties characteristic of a solid. However, the most direct manifestation of the broken translational symmetry accompanying the solidification\u2014the spatial modulation of particles\u2019 probability amplitudes\u2014has not been observed yet. Here, we demonstrate that nuclear \u2026",
+                "We perform a systematic materials informatics search for two-dimensional (2D) ferromagnetic materials (2DFM) in the Inorganic Crystal Structure Database (ICSD). The key indicator in the search is that the candidates have a 2D network composed of magnetic atoms and heavy atoms. From the 187,093 entries in the ICSD, the search identified 15 candidates whose magnetic order are then determined by first-principles calculations and Curie temperatures obtained by either analytical solution or Monte Carlo simulation of the 2D Ising model. For the 15 candidates, eight materials have ferromagnetic order including three known structural prototypes and the two 2DFM materials discovered in recent experiments. More importantly, the search produced two new structural prototypes and a very promising material, Cr 3 Te 4, which has a calculated Curie temperature one order of magnitude higher than the others."
+            ],
+            [
+                [
+                    "Materials Informatics",
+                    "Condensed matter physics"
+                ]
+            ]
+        ]
+    ]
+}

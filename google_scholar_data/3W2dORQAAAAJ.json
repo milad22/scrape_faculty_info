@@ -1,0 +1,112 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "3W2dORQAAAAJ",
+            "Jinfeng Liao",
+            "Indiana University Bloomington",
+            "@indiana.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=3W2dORQAAAAJ",
+            4609,
+            [
+                "Theoretical High Energy Physics"
+            ],
+            3192,
+            36,
+            31,
+            66,
+            55,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"pmR34HMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Edward Shuryak",
+                    "affiliation":"Stony Brook"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"rwj6hPAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Miklos Gyulassy",
+                    "affiliation":"Professor of Physics Emeritus, Columbia University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"FZFMHPgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dmitri Kharzeev",
+                    "affiliation":"Stony Brook University and BNL"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"_AQ4rjcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Xilin Zhang",
+                    "affiliation":"Department of physics, The Ohio State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"pzItt-EAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Raju Venugopalan",
+                    "affiliation":"brookhaven national lab"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3XjdgTEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yannis Burnier",
+                    "affiliation":"EPFL"
+                }
+            ]
+        ]
+    ]
+}

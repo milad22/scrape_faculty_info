@@ -1,0 +1,55 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "apsVs4QAAAAJ",
+            "Joshua Schechter",
+            "Associate Professor of Philosophy, Brown Univeristy",
+            "@brown.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=apsVs4QAAAAJ",
+            641,
+            [
+                "Epistemology",
+                "Philosophy of Logic",
+                "Philosophy of Mathematics",
+                "Metaethics"
+            ],
+            397,
+            10,
+            10,
+            12,
+            11,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3j2wlYEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David Enoch",
+                    "affiliation":""
+                }
+            ]
+        ]
+    ]
+}

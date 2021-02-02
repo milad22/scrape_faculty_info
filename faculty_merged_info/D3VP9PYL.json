@@ -1,0 +1,35 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "D3VP9PYL",
+            "tCzt7q4AAAAJ",
+            [
+                "A transformation based algorithm for reversible logic synthesis",
+                "Experimental comparison of two quantum computing architectures"
+            ],
+            [
+                "A digital combinational logic circuit is reversible if it maps each input pattern to a unique output pattern. Such circuits are of interest in quantum computing, optical computing, nanotechnology and low-power CMOS design. Synthesis approaches are not well developed for reversible circuits even for small numbers of inputs and outputs. In this paper, a transformation based algorithm for the synthesis of such a reversible circuit in terms of n\u00d7 n Toffoli gates is presented. Initially, a circuit is constructed by a single pass through the specification with minimal look-ahead and no back-tracking. Reduction rules are then applied by simple template matching. The method produces near-optimal results for 3-input circuits and also produces very good results for larger problems.",
+                "We run a selection of algorithms on two state-of-the-art 5-qubit quantum computers that are based on different technology platforms. One is a publicly accessible superconducting transmon device (www.research.ibm.com\/ibm-q) with limited connectivity, and the other is a fully connected trapped-ion system. Even though the two systems have different native quantum interactions, both can be programed in a way that is blind to the underlying hardware, thus allowing a comparison of identical quantum algorithms between different physical systems. We show that quantum algorithms and circuits that use more connectivity clearly benefit from a better-connected system of qubits. Although the quantum systems here are not yet large enough to eclipse classical computers, this experiment exposes critical factors of scaling quantum computers, such as qubit connectivity and gate expressivity. In addition, the results suggest \u2026"
+            ],
+            [
+                [
+                    "Quantum Circuits",
+                    "Quantum Computer Architecture",
+                    "Quantum Computing",
+                    "Quantum Information Science",
+                    "Reversible Logic"
+                ]
+            ]
+        ]
+    ]
+}

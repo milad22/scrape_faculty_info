@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "AI01EOXB",
+            "7SR-E6MAAAAJ",
+            [
+                "Full-potential self-consistent linearized-augmented-plane-wave method for calculating the electronic structure of molecules and surfaces:  molecule",
+                "Lattice dynamics and origin of ferroelectricity in BaTiO 3: Linearized-augmented-plane-wave total-energy calculations",
+                "Theory of magnetic and structural ordering in iron",
+                "Local-density-functional calculation of the pressure-induced metallization of BaSe and BaTe",
+                "Anisotropic normal-state transport properties predicted and analyzed for high-T c oxide superconductors",
+                "Effect of bismuth on high-T c cuprate superconductors: Electronic structure of Bi 2 Sr 2 CaCu 2 O 8",
+                "Electronic structure studies of the differences in ferroelectric behavior of BaTiO3 and PbTiO3",
+                "Linearized augmented plane-wave method for the electronic band structure of thin films",
+                "All-electron and pseudopotential force calculations using the linearized-augmented-plane-wave method",
+                "First-Principles Phonon Calculations for Cu"
+            ],
+            [
+                "The linearized-augmented-plane-wave (LAPW) method for thin films is generalized by removing the remaining shape approximation to the potential inside the atomic spheres. A new technique for solving Poisson's equation for a general charge density and potential is described and implemented in the film LAPW method. In the resulting full-potential LAPW method (FLAPW), all contributions to the potential are completely taken into account in the Hamiltonian matrix elements. The accuracy of the method\u2014already well known for clean metal surfaces\u2014is demonstrated for the case of a nearly free (noninteracting) O 2 molecule which is a severe test case of the method because of its large anisotropic charge distribution. Detailed comparisons show that the accuracy of the FLAPW results for O 2 exceeds that of existing state-of-the-art local-density linear-combination-of-atomic-orbitals (LCAO)-type calculations, and that \u2026",
+                "Phonon frequencies and eigenvectors have been computed from first principles for the three optic F 1 u modes in BaTiO 3 using the full-potential linearized-augmented-plane-wave method. We find that the ferroelectric instability in BaTiO 3 can be understood from calculations for a perfect crystal with periodic boundary conditions. The energy wells for the soft-mode distortion are deeper for rhombohedral [111] displacements relative to tetragonal [001] displacements, but they are relatively shallow and comparable to the transition temperature. The nonrigid part of the charge-density distortion is centered around the Ti ion rather than the O, and the Ti charge is closer to 2.9+ than 4+. There is significant hybridization between the Ti and O, but the Ba is quite ionic and is well described as a Ba 2+ ion. The Ti-O hybridization is essential to the ferroelectric instability.",
+                "Using the total-energy general-potential linearized-augmented-plane-wave method, we have tested the adequacy of the local-spin-density approximation for describing the magnetic and structural properties of iron. We find that there are fundamental deficiencies in the local-spin-density approximation, both quantitative and qualitative, in that there are substantial errors in the calculated ground-state volumes and magnetic moments, as well as a prediction of the wrong ground-state crystal structure.",
+                "Local-density-functional total-energy calculations are reported for both the structural and metallization transitions of BaSe and BaTe. Good agreement with recent experimental results for BaTe confirms the band-overlap mechanism in this and related closed-shell systems. A metallization pressure of about 400 kbar is predicted for BaSe. These calculations represent the first convincing demonstration of the ability of the local-density-functional approximation to predict band-overlap metallization accurately.",
+                "Electronic energy bands calculated from local-density-functional (LDF) theory are used to predict anisotropic transport properties of the oxide superconductors La 2\u2212 x Sr x CuO 4 and YBa 2 Cu 3 O 7. Calculations of the magnitude of the resistivity tensor \u03c1 \u03b1 \u03b2 (assuming only electron-phonon scattering) lead to results smaller than given by current experiments, suggesting that LDF theory overestimates the Drude plasma frequency (or Fermi velocity), or else that another scattering mechanism dominates. Determinations of the Fermi velocity from critical field measurements suggest however that it is close to the LDF value. Quantities which are independent of the scattering are calculated with more success: the resistivity anisotropy \u03c1 zz\/\u03c1 xx, the Hall tensor R \u03b1 \u03b2 \u03b3\u2019H and the thermopower S \u03b1 \u03b2. It is predicted that R H should appear \u2018\u2018holelike\u2019\u2019when electrons orbit in metallic planes but S should appear \u2018\u2018electronlike\u2019\u2019for \u2026",
+                "The electronic structure of the new Bi-based high-temperature superconductor, with T c onsets above 110 K, is shown to be altered considerably from that of the other cuprate superconductors by the presence of Bi. There are Bi-O bands which cross the Fermi level, and the two-dimensional character of the bands is even greater than that of previous cuprates. Like the other cuprates, band critical points occur at the Fermi level.",
+                "We have performed extensive self-consistent total energy calculations for PbTiO3 and BaTiO3 in order to better understand the origin of the ferroelectric instability in perovskites and the reasons for different ferroelectric behavior in the two materials. Physically reasonable ferroelectric instabilities are found for both materials at the experimental volume. However, the results are quite sensitive to volume and typical local density approximation (LDA) errors in volume can lead to significant errors in the potential surface for ferroelectric distortions. The sensitivity of the perovskite ferroelectrics to defects and chemistry, as well as the sensitivity to approximations in first principles calculations, stems from the delicate near-cancellation of long-range ionic forces which favor the instability with short-range repulsions that inhibit the ferroelectric state. The spontaneous strain is also an important feature of ferroelectrics, and we find \u2026",
+                "We present a new method for treating the electronic structure of thin films which is based on a generalization of the bulk linearized augmented-plane-wave (LAPW) method. This method avoids using the slab-superlattice geometry and combines the advantages of energy-independent muffin-tin Hamiltonian methods [fast root evaluation and rapid convergence for d-band metals as well as for nearly-free-electron (NFE) crystals] with the simple matrix element determination of the original augmented plane-wave (APW) method. As in the bulk LAPW method, the asymptote problem of the APW method is avoided, and the basis functions are everywhere continuous and differentiable. In addition, the film LAPW method retains such desirable features of the APW method as the ability to treat general potentials with no shape approximations, the ease with which relativistic effects can be included, and the fact that the basis \u2026",
+                "All-electron and pseudopotential formulations for atomic forces in the linear-augmented-plane-wave (LAPW) method within the local-density approximation are presented. Due to the fact that the basis functions in the LAPW method (and in other linear muffin-tin-orbitals-based methods) have discontinuous second derivatives across the muffin-tin sphere boundaries, a large surface contribution to the incomplete-basis-set corrections to the Hellmann-Feynman force is shown to exist. The formulations are applied to frozen-phonon calculations in semiconductor, transition-metal, and noble-metal systems. The results are in excellent agreement with total-energy calculations and experiment.",
+                "Full potential, linearized, augmented plane wave, total-energy calculations predict that the breathing mode in La 2 Cu O 4 is a high-frequency mode, in agreement with experiment and contrary to previously published results. We also find the experimentally observed tilt mode to be unstable within the local-density approximation. Eight other modes were studied, and excellent agreement with experiment was found, indicating that the local-density approximation gives accurate total energies and static density response for the high-temperature superconductors."
+            ],
+            [
+                [
+
+                ]
+            ]
+        ]
+    ]
+}

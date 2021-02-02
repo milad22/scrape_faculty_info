@@ -1,0 +1,245 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "AlGaN\/GaN high-electron mobility transistors (HEMTs) were fabricated on SiC substrates with epitaxial layers grown by multiple suppliers and methods. Devices with gate lengths varying from 0.50 to 0.09 mum were fabricated on each sample. We demonstrate the impact of varying the gate lengths and show that the unity current gain frequency response (f T ) is limited by short-channel effects for all samples measured. We present an empirically based physical model that can predict the expected extrinsic f T  for many combinations of gate length and commonly used barrier layer thickness (t bar ) on silicon nitride passivated T-gated AlGaN\/GaN HEMTs. The result is that even typical high-aspect-ratio (gate length to barrier thickness) devices show device performance limitations due to short-channel effects. We present the design tradeoffs and show the parameter space required to achieve optimal frequency \u2026",
+            "Short-channel effect limitations on high-frequency operation of AlGaN\/GaN HEMTs for T-gate devices",
+            "Gregg H Jessen and Robert C Fitch and James K Gillespie and Glen Via and Antonio Crespo and Derrick Langley and Daniel J Denninghoff and Manuel Trejo and Eric R Heller",
+            "2007",
+            "lFVsbpIAAAAJ:ULOm3_A8WrAC",
+            428,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/4317735\/",
+            "13833736126111617065",
+            "\/scholar?cites=13833736126111617065",
+            {
+                "2004":2,
+                "2005":9,
+                "2006":7,
+                "2007":20,
+                "2008":24,
+                "2009":18,
+                "2010":34,
+                "2011":35,
+                "2012":36,
+                "2013":43,
+                "2014":42,
+                "2015":29,
+                "2016":28,
+                "2017":23,
+                "2018":22,
+                "2019":30,
+                "2020":23,
+                "2021":2
+            }
+        ],
+        [
+            "Ultrawide\u2010bandgap (UWBG) semiconductors, with bandgaps significantly wider than the 3.4 eV of GaN, represent an exciting and challenging new area of research in semiconductor materials, physics, devices, and applications. Because many figures\u2010of\u2010merit for device performance scale nonlinearly with bandgap, these semiconductors have long been known to have compelling potential advantages over their narrower\u2010bandgap cousins in high\u2010power and RF electronics, as well as in deep\u2010UV optoelectronics, quantum information, and extreme\u2010environment applications. Only recently, however, have the UWBG semiconductor materials, such as high Al\u2010content AlGaN, diamond and Ga2O3, advanced in maturity to the point where realizing some of their tantalizing advantages is a relatively near\u2010term possibility. In this article, the materials, physics, device and application research opportunities and challenges for \u2026",
+            "Ultrawide\u2010bandgap semiconductors: research opportunities and challenges",
+            "JY Tsao and S Chowdhury and MA Hollis and D Jena and NM Johnson and KA Jones and RJ Kaplar and S Rajan and CG Van de Walle and E Bellotti and CL Chua and R Collazo and ME Coltrin and JA Cooper and KR Evans and S Graham and TA Grotjohn and ER Heller and M Higashiwaki and MS Islam and PW Juodawlkis and MA Khan and AD Koehler and JH Leach and UK Mishra and RJ Nemanich and RCN Pilawa\u2010Podgurski and JB Shealy and Z Sitar and MJ Tadjer and AF Witulski and M Wraback and JA Simmons",
+            "2018",
+            "lFVsbpIAAAAJ:4JMBOYKVnBMC",
+            362,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1002\/aelm.201600501",
+            "18266295633390122790",
+            "\/scholar?cites=18266295633390122790",
+            {
+                "2017":6,
+                "2018":46,
+                "2019":105,
+                "2020":193,
+                "2021":10
+            }
+        ],
+        [
+            "A Sn-doped (100) \u03b2-Ga 2 O 3  epitaxial layer was grown via metal-organic vapor phase epitaxy onto a single-crystal, Mg-doped semi-insulating (100) \u03b2-Ga 2 O 3  substrate. Ga 2 O 3 -based metal-oxide-semiconductor field-effect transistors with a 2-\u03bcm gate length (L G ), 3.4-\u03bcm source-drain spacing (L SD ), and 0.6-\u03bcm gate-drain spacing (L GD ) were fabricated and characterized. Devices were observed to hold a gate-to-drain voltage of 230 V in the OFF-state. The gate-to-drain electric field corresponds to 3.8 MV\/cm, which is the highest reported for any transistor and surpassing bulk GaN and SiC theoretical limits. Further performance projections are made based on layout, process, and material optimizations to be considered in future iterations.",
+            "3.8-MV\/cm Breakdown Strength of MOVPE-Grown Sn-Doped-Ga2O3MOSFETs",
+            "Andrew J Green and Kelson D Chabak and Eric R Heller and Robert C Fitch and Michele Baldini and Andreas Fiedler and Klaus Irmscher and G\u00fcnter Wagner and Zbigniew Galazka and Stephen E Tetlak and Antonio Crespo and Kevin Leedy and Gregg H Jessen",
+            "2016",
+            "lFVsbpIAAAAJ:QIV2ME_5wuYC",
+            355,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7470552\/",
+            "10412535641467096352",
+            "\/scholar?cites=10412535641467096352",
+            {
+                "2016":15,
+                "2017":65,
+                "2018":88,
+                "2019":95,
+                "2020":86,
+                "2021":6
+            }
+        ],
+        [
+            "Sn-doped gallium oxide (Ga2O3) wrap-gate fin-array field-effect transistors (finFETs) were formed by top-down BCl3 plasma etching on a native semi-insulating Mg-doped (100) \u03b2-Ga2O3 substrate. The fin channels have a triangular cross-section and are approximately 300\u2009nm wide and 200\u2009nm tall. FinFETs, with 20\u2009nm Al2O3 gate dielectric and \u223c2\u2009\u03bcm wrap-gate, demonstrate normally-off operation with a threshold voltage between 0 and +1\u2009V during high-voltage operation. The ION\/IOFF ratio is greater than 105 and is mainly limited by high on-resistance that can be significantly improved. At VG\u2009=\u20090, a finFET with 21\u2009\u03bcm gate-drain spacing achieved a three-terminal breakdown voltage exceeding 600\u2009V without a field-plate.",
+            "Enhancement-mode Ga2O3 wrap-gate fin field-effect transistors on native (100) \u03b2-Ga2O3 substrate with high breakdown voltage",
+            "Kelson D Chabak and Neil Moser and Andrew J Green and Dennis E Walker Jr and Stephen E Tetlak and Eric Heller and Antonio Crespo and Robert Fitch and Jonathan P McCandless and Kevin Leedy and Michele Baldini and Gunter Wagner and Zbigniew Galazka and Xiuling Li and Gregg Jessen",
+            "2016",
+            "lFVsbpIAAAAJ:u-x6o8ySG0sC",
+            221,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.4967931",
+            "1847202390391207687",
+            "\/scholar?cites=1847202390391207687",
+            {
+                "2016":4,
+                "2017":57,
+                "2018":54,
+                "2019":53,
+                "2020":52,
+                "2021":1
+            }
+        ],
+        [
+            "AlGaN\/GaN high electron mobility transistor (HEMT) device operation was modeled from the sub-micrometer scale to the substrate using a combination of an electro-thermal device model for the active device with realistic power dissipation within the device and a coupled three dimensional thermal model to account for the substrate. Temperatures for various points within a device were determined as a function of biasing conditions, substrate thickness and temperature, number of fingers, and gate length and pitch. As an example, we have used our model to show that life test results of industry-relevant devices can be significantly affected by the exact testing technique used.",
+            "Electro-thermal modeling of multifinger AlGaN\/GaN HEMT device operation including thermal substrate effects",
+            "ER Heller and Apolinar Crespo",
+            "2008",
+            "lFVsbpIAAAAJ:hC7cP41nSMkC",
+            117,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S002627140700128X",
+            "5042275457247430188",
+            "\/scholar?cites=5042275457247430188",
+            {
+                "2007":1,
+                "2008":5,
+                "2009":5,
+                "2010":9,
+                "2011":10,
+                "2012":14,
+                "2013":7,
+                "2014":7,
+                "2015":9,
+                "2016":15,
+                "2017":11,
+                "2018":10,
+                "2019":13
+            }
+        ],
+        [
+            "In this paper, we utilize micro-Raman spectroscopy to measure temperature and stress in state-of-the-art AlGaN\/GaN HEMTs. A rigorous discussion on the physical accuracy, precision, and precautions for diverse Raman thermometry methods is developed. Thermometry techniques utilizing shifts in a single Raman Stokes peak position underpredict the channel temperature due to induction of operational thermoelastic stress in operating devices. Utilizing the change in phonon linewidth by employing a proper reference condition gives true temperature results. Making use of frequency shifts in both the  E 2 (high) and  A 1 (LO) phonon modes offers accurate and time-efficient means to determine the state of temperature and thermal stress in operating AlGaN\/GaN HEMTs presuming that linear relations between phonon frequencies and temperature\/stress are well determined. Useful applications of this method such \u2026",
+            "Thermometry of AlGaN\/GaN HEMTs using multispectral raman features",
+            "Sukwon Choi and Eric R Heller and Donald Dorsey and Ramakrishna Vetury and Samuel Graham",
+            "2013",
+            "lFVsbpIAAAAJ:IjCSPb-OGe4C",
+            70,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6507260\/",
+            "757731038803509616",
+            "\/scholar?cites=757731038803509616",
+            {
+                "2013":2,
+                "2014":8,
+                "2015":7,
+                "2016":10,
+                "2017":11,
+                "2018":10,
+                "2019":13,
+                "2020":8,
+                "2021":1
+            }
+        ],
+        [
+            "A comparative analysis of the residual stress distributions across the conductive channel of Ga-face AlGaN\/GaN high electron mobility transistors (HEMTs) is presented. Stress was measured by means of micro-Raman spectroscopy and micro-photoluminescence (PL). Raman measurements probed the volume average of the stress through the GaN layer whereas the stress near the GaN surface (AlGaN\/GaN heterointerface) was acquired via PL. By combining Raman, PL, and x-ray diffraction, a self-consistent method was developed to accurately determine the variation in magnitude of stress throughout the thickness of the GaN layer. Based on this framework, it is observed in AlGaN\/GaN HEMTs that a depth variation in the GaN residual stress occurs near the gate and ohmic electrodes. At these regions, the stress near the AlGaN\/GaN interface (or GaN surface) exhibits a tensile shift compared to the stress \u2026",
+            "Analysis of the residual stress distribution in AlGaN\/GaN high electron mobility transistors",
+            "Sukwon Choi and Eric Heller and Donald Dorsey and Ramakrishna Vetury and Samuel Graham",
+            "2013",
+            "lFVsbpIAAAAJ:4DMP91E08xMC",
+            65,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.4794009",
+            "832259941535378631",
+            "\/scholar?cites=832259941535378631",
+            {
+                "2013":3,
+                "2014":10,
+                "2015":7,
+                "2016":8,
+                "2017":8,
+                "2018":9,
+                "2019":9,
+                "2020":10,
+                "2021":1
+            }
+        ],
+        [
+            "This paper reports direct evidence for trap-related RF output power loss in GaN high electron mobility transistors (HEMTs) grown by metal organic chemical vapor deposition (MOCVD) through increased concentration of a specific electron trap at EC\u22120.57 eV that is located in the drain access region, as a function of accelerated life testing (ALT). The trap is detected by constant drain current deep level transient spectroscopy (CID-DLTS) and the CID-DLTS thermal emission time constant precisely matches the measured drain lag. Both drain lag and CID-DLTS measurements show this state to already exist in pre-stressed devices, which coupled with its strong increase in concentration as a function of stress in the absence of significant increases in concentrations of other detected traps, imply its role in causing degradation, in particular knee walkout. This study reveals EC\u22120.57 eV trap concentration tracks degradation \u2026",
+            "Direct observation of 0.57 eV trap-related RF output power reduction in AlGaN\/GaN high electron mobility transistors",
+            "AR Arehart and A Sasikumar and S Rajan and GD Via and B Poling and B Winningham and ER Heller and D Brown and Y Pei and F Recht and UK Mishra and SA Ringel",
+            "2013",
+            "lFVsbpIAAAAJ:YOwf2qJgpHMC",
+            63,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0038110112003231",
+            "6992706503695710241",
+            "\/scholar?cites=6992706503695710241",
+            {
+                "2013":9,
+                "2014":11,
+                "2015":9,
+                "2016":15,
+                "2017":5,
+                "2018":5,
+                "2019":4,
+                "2020":4,
+                "2021":1
+            }
+        ],
+        [
+            "Understanding the distribution of the considerable heat generated in the active region of high power AlGaN\/GaN high electron mobility transistors (HEMTs) at the sub-micron length scales relevant to the failures being observed in these devices is crucial for understanding device performance and reliability. In addition, electrical bias conditions and structural characteristics such as field plates alter the electric field distribution and thermal path within the device leading to changes in the heat generation profile across the channel. This in turn influences the value and location of the device peak temperature and the channel to ambient (or case or base-plate) thermal resistance. The channel temperature distribution of AlGaN\/GaN HEMT structures with and without source connected field plates were examined via micro-Raman spectroscopy and coupled electro-thermal simulation. For both type of structures, high Vds \u2026",
+            "Electrical and structural dependence of operating temperature of AlGaN\/GaN HEMTs",
+            "Eric Heller and Sukwon Choi and Donald Dorsey and Ramakrishna Vetury and Samuel Graham",
+            "2013",
+            "lFVsbpIAAAAJ:ufrVoPGSRksC",
+            58,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0026271413000681",
+            "7180492138286733130",
+            "\/scholar?cites=7180492138286733130",
+            {
+                "2013":1,
+                "2014":9,
+                "2015":5,
+                "2016":3,
+                "2017":9,
+                "2018":5,
+                "2019":11,
+                "2020":14
+            }
+        ],
+        [
+            "We report on Sn-doped \u03b2-Ga2O3 MOSFETs grown by molecular beam epitaxy with as-grown carrier concentrations from 0.7\u2009\u00d7\u20091018 to 1.6\u2009\u00d7\u20091018\u2009cm\u22123 and a fixed channel thickness of 200\u2009nm. A pulsed current density of >450\u2009mA\/mm was achieved on the sample with the lowest sheet resistance and a gate length of 2\u2009 \u03bcm. Our results are explained using a simple analytical model with a measured gate voltage correction factor based on interface charges that accurately predict the electrical performance for all doping variations.",
+            "High pulsed current density \u03b2-Ga2O3 MOSFETs verified by an analytical model corrected for interface charge",
+            "Neil A Moser and Jonathan P McCandless and Antonio Crespo and Kevin D Leedy and Andrew J Green and Eric R Heller and Kelson D Chabak and Nathalia Peixoto and Gregg H Jessen",
+            "2017",
+            "lFVsbpIAAAAJ:Y0pCki6q_DkC",
+            55,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.4979789",
+            "2009065245554209591",
+            "\/scholar?cites=2009065245554209591",
+            {
+                "2017":12,
+                "2018":15,
+                "2019":17,
+                "2020":10
+            }
+        ]
+    ]
+}

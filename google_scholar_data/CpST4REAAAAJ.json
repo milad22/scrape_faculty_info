@@ -1,0 +1,100 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "CpST4REAAAAJ",
+            "Daine L. Danielson",
+            "Eckhardt Graduate Scholar at the University of Chicago, Hertz Fellow",
+            "@uchicago.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=CpST4REAAAAJ",
+            37,
+            [
+                "Physics"
+            ],
+            28,
+            4,
+            4,
+            1,
+            1,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"2-u8I5wAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Anna Hayes",
+                    "affiliation":"Los Alamos National Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"dMxAkNcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Adam Bernstein",
+                    "affiliation":"Rare Event Detection Group Leader, Physics Division, Lawrence Livermore National Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"svf--AcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jonathon Coleman",
+                    "affiliation":"University of Liverpool"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ltnSY7gAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"John Gregory Learned",
+                    "affiliation":"Professor of Physics, University of Hawaii"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"67O9PDsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Richard Van de Water",
+                    "affiliation":"Los Alamos National Laboratory"
+                }
+            ]
+        ]
+    ]
+}

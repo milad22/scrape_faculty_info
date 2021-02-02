@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "I0Y8TQQG",
+            "DpIGlW4AAAAJ",
+            [
+                "Monolayer semiconductor nanocavity lasers with ultralow thresholds",
+                "Low-contrast dielectric metasurface optics",
+                "Electrical control of silicon photonic crystal cavity by graphene",
+                "Resonant excitation of a quantum dot strongly coupled to a photonic crystal nanocavity",
+                "Ultrafast photon-photon interaction in a strongly coupled quantum dot-cavity system",
+                "Loss-enabled sub-Poissonian light generation in a bimodal nanocavity",
+                "Control of two-dimensional excitonic light emission via photonic crystal",
+                "Ultrafast direct modulation of a single-mode photonic crystal nanocavity light-emitting diode",
+                "Single-photon blockade in doubly resonant nanocavities with second-order nonlinearity",
+                "Metasurface optics for full-color computational imaging"
+            ],
+            [
+                "Engineering the electromagnetic environment of a nanometre-scale light emitter by use of a photonic cavity can significantly enhance its spontaneous emission rate, through cavity quantum electrodynamics in the Purcell regime. This effect can greatly reduce the lasing threshold of the emitter 1, 2, 3, 4, 5, providing a low-threshold laser system with small footprint, low power consumption and ultrafast modulation. An ultralow-threshold nanoscale laser has been successfully developed by embedding quantum dots into a photonic crystal cavity (PCC) 6, 7, 8. However, several challenges impede the practical application of this architecture, including the random positions and compositional fluctuations of the dots 7, extreme difficulty in current injection 8, and lack of compatibility with electronic circuits 7, 8. Here we report a new lasing strategy: an atomically thin crystalline semiconductor\u2014that is, a tungsten diselenide \u2026",
+                "The miniaturization of current image sensors is largely limited by the volume of the optical elements. Using a subwavelength-patterned quasi-periodic structure, also known as a metasurface, one can build planar optical elements based on the principle of diffraction. Recent demonstrations of high-quality metasurface optical elements are mostly based on high-refractive-index materials. Here, we present a design of low-contrast metasurface-based optical elements. We fabricate and experimentally characterize several silicon nitride-based lenses and vortex beam generators. The fabricated lenses achieved beam spots of less than 1 \u03bcm with numerical apertures as high as \u223c0.75. We observed a transmission efficiency of 90% and focusing efficiency of 40% in the visible regime. Our results pave the way toward building low-loss metasurface-based optical elements at visible frequencies using low-contrast materials \u2026",
+                "The efficient conversion of an electrical signal to an optical signal in nanophotonics enables solid state integration of electronics and photonics. The combination of graphene with photonic crystals is promising for electro-optic modulation. In this paper, we demonstrate that by electrostatic gating a single layer of graphene on top of a photonic crystal cavity, the cavity resonance can be changed significantly. A \u223c2 nm change in the cavity resonance line width and almost 400% (6 dB) change in resonance reflectivity is observed. In addition, our analysis shows that a graphene\u2013photonic crystal device can potentially be useful for a high speed and low power absorptive and refractive modulator, while maintaining a small physical footprint.",
+                "We describe the resonant excitation of a single quantum dot that is strongly coupled to a photonic crystal nanocavity. The cavity represents a spectral window for resonantly probing the optical transitions of the quantum dot. We observe narrow absorption lines attributed to the single and biexcition quantum dot transitions and measure antibunched population of the detuned cavity mode [g (2)(0)= 0.19].",
+                "We study dynamics of the interaction between two weak light beams mediated by a strongly coupled quantum dot\u2013photonic crystal cavity system. First, we perform all-optical switching of a weak continuous-wave signal with a pulsed control beam, and then perform switching between two weak pulsed beams (40 ps pulses). Our results show that the quantum dot\u2013nanocavity system enables fast, controllable optical switching at the single-photon level.",
+                "We propose an implementation of a source of strongly sub-Poissonian light in a system consisting of a quantum dot coupled to both modes of a lossy bimodal optical cavity. When one mode of the cavity is resonantly driven with coherent light, the system will act as an efficient single photon filter, and the transmitted light will have a strongly sub-Poissonian character. In addition to numerical simulations demonstrating this effect, we present a physical explanation of the underlying mechanism. In particular, we show that the effect results from an interference between the coherent light transmitted through the resonant cavity and the super-Poissonian light generated by photon-induced tunneling. Peculiarly, this effect vanishes in the absence of the cavity loss.",
+                "Monolayers of transition metal dichalcogenides (TMDCs) have emerged as new optoelectronic materials in the two dimensional (2D) limit, exhibiting rich spin-valley interplays, tunable excitonic effects, and strong light\u2013matter interactions. An essential yet undeveloped ingredient for many photonic applications is the manipulation of its light emission. Here we demonstrate the control of excitonic light emission from monolayer tungsten diselenide (WSe 2) in an integrated photonic structure, achieved by transferring one monolayer onto a photonic crystal (PhC) with a cavity. In addition to the observation of an effectively coupled cavity-mode emission, the suspension effects on PhC not only result in a greatly enhanced (~ 60 times) photoluminescence but also strongly pattern the emission in the subwavelength spatial scale, contrasting on and off the holes. Such an effect leads to a significant diffraction grating effect \u2026",
+                "Low-power and electrically controlled optical sources are vital for next generation optical interconnect systems to meet strict energy demands. Current optical transmitters consisting of high-threshold lasers plus external modulators consume far too much power to be competitive with future electrical interconnects. Here we demonstrate a directly modulated photonic crystal nanocavity light-emitting diode (LED) with 10 GHz modulation speed and less than 1 fJ per bit energy of operation, which is orders of magnitude lower than previous solutions. The device is electrically controlled and operates at room temperature, while the high modulation speed results from the fast relaxation of the quantum dots used as the active material. By virtue of possessing a small mode volume, our LED is intrinsically single mode and, therefore, useful for communicating information over a single narrowband channel. The demonstrated \u2026",
+                "We propose the use of nanostructured photonic nanocavities made of \u03c7 (2) nonlinear materials as prospective passive devices to generate strongly sub-Poissonian light via single-photon blockade of an input coherent field. The simplest scheme is based on the requirement that the nanocavity be doubly resonant, ie, possess cavity modes with good spatial overlap at both the fundamental and second-harmonic frequencies. We discuss the feasibility of this scheme with state-of-the art nanofabrication technology and the possibility to use it as a passive single-photon source on demand.",
+                "Conventional imaging systems comprise large and expensive optical components that successively mitigate aberrations. Metasurface optics offers a route to miniaturize imaging systems by replacing bulky components with flat and compact implementations. The diffractive nature of these devices, however, induces severe chromatic aberrations, and current multiwavelength and narrowband achromatic metasurfaces cannot support full visible spectrum imaging (400 to 700 nm). We combine principles of both computational imaging and metasurface optics to build a system with a single metalens of numerical aperture ~0.45, which generates in-focus images under white light illumination. Our metalens exhibits a spectrally invariant point spread function that enables computational reconstruction of captured images with a single digital filter. This work connects computational imaging and metasurface optics and \u2026"
+            ],
+            [
+                [
+                    "Attojoule Optoelectronics",
+                    "Applied Quantum Optics",
+                    "Quantum Simulation",
+                    "Dielectric Metamaterial",
+                    "Computational Optics"
+                ]
+            ]
+        ]
+    ]
+}

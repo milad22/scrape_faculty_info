@@ -1,0 +1,90 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "tl9e7woAAAAJ",
+            "Sameer Verma, M.D.",
+            "Northwell Health",
+            "",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=tl9e7woAAAAJ",
+            3720,
+            [
+                "Pulmonary",
+                "Pulmonary hypertension",
+                "Interstitial Lung Disease"
+            ],
+            1824,
+            25,
+            21,
+            70,
+            43,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"q2xgg9oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Arunabh Talwar, M.D.",
+                    "affiliation":"North Shore - LIJ Health System"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9HK-CFsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sonu Sahni, M.D.",
+                    "affiliation":"Brookdale University Hospital Medical Center"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3qadyoIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Abhinav Agrawal",
+                    "affiliation":"Zucker School of Medicine at Hofstra\/Northwell"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"NcYV5lsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Prasanta R Mohapatra  MD, FRCP(Lo...",
+                    "affiliation":"Professor & Head, All India Institute of Medical Sciences, Bhubaneswar"
+                }
+            ]
+        ]
+    ]
+}

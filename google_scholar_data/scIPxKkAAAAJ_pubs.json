@@ -1,0 +1,137 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4
+    ],
+    "data":[
+        [
+            "In this paper, we consider an incremental relaying protocol based on an amplify-and-forward transmission in conjunction with the best relay selection scheme over non-identically distributed relay channels. In order to satisfy the spectral efficiency and the bit error rate (BER) requirements, adaptive modulation is applied to our proposed scheme. We derive the average spectral efficiency, average BER and outage probability for the performance analysis of our proposed scheme. For a more tractable analysis, we start with an upper bound for the combined signal-to-noise ratio at the destination and provide closed-form expressions for independent non-identically distributed Rayleigh fading conditions. Our analytical-based numerical results are validated by some computer-based simulations. These results show that our proposed scheme leads to a considerable improvement in the performance of cooperative diversity \u2026",
+            "Performance analysis of incremental opportunistic relaying over identically and non-identically distributed cooperative paths",
+            "Kyu-Sung Hwang and Young-Chai Ko and Mohamed-Slim Alouini",
+            "2009",
+            "scIPxKkAAAAJ:bEWYMUwI8FkC",
+            144,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/4907461\/",
+            "18339456978919406560",
+            "\/scholar?cites=18339456978919406560",
+            {
+                "2009":4,
+                "2010":12,
+                "2011":27,
+                "2012":26,
+                "2013":22,
+                "2014":18,
+                "2015":9,
+                "2016":9,
+                "2017":5,
+                "2018":4,
+                "2019":3,
+                "2020":3
+            }
+        ],
+        [
+            "In this paper, we consider two-way amplify-and-forward relaying communication over a multiple relays network in which the best relay node is selected among others. Our proposed scheme picks for duplex communication between the source and the destination only the relay which provides the best end-to-end performance based on the instantaneous channel information. Similar to the relay selection method proposed, our scheme also does not require any explicit communications among the relays. Based on the proposed relay selection criterion, we offer the performance bounds on the average sum-rate, average symbol error rate, outage probability over identically, independent distributed Rayleigh fading channels. Further, our numerical examples show that our proposed scheme provides considerable sum-rate gains and offers an increasing a diversity order as the number of relay candidates increases.",
+            "Performance bounds for two-way amplify-and-forward relaying based on relay path selection",
+            "Kyu-Sung Hwang and Young-Chai Ko and Mohamed-Slim Alouini",
+            "2009",
+            "scIPxKkAAAAJ:TFP_iSt0sucC",
+            98,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/5073783\/",
+            "15211975705185661617",
+            "\/scholar?cites=15211975705185661617",
+            {
+                "2009":1,
+                "2010":14,
+                "2011":19,
+                "2012":18,
+                "2013":16,
+                "2014":12,
+                "2015":6,
+                "2016":6,
+                "2017":4,
+                "2018":2
+            }
+        ],
+        [
+            "Recently, the cooperative diversity systems, based on the distributed space-time coding (DSTC), have been presented to provide the spatial diversity gain in the wireless networks. Although the performance of DSTC cooperative diversity systems is quite attractive in terms of the link performance, the complexity and the power consumption at each node are the main practical issues for the deployment of the systems, in particular, when the number of nodes is large. In this paper, we propose the suboptimal relay selection algorithm where a predetermined threshold is set both at the relay node and the destination node, and the node selection is performed only when the signal quality of either relay node or destination node is below a predetermined threshold, which has less complexity than the opportunistic relaying in while satisfying the required performance. We provide the closed-form expression of statistics of the \u2026",
+            "An efficient relay selection algorithm for cooperative networks",
+            "Kyu-Sung Hwang and Young-Chai Ko",
+            "2007",
+            "scIPxKkAAAAJ:isC4tDSrTZIC",
+            74,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/4349682\/",
+            "9011000669498756095",
+            "\/scholar?cites=9011000669498756095",
+            {
+                "2006":1,
+                "2007":2,
+                "2008":8,
+                "2009":15,
+                "2010":5,
+                "2011":7,
+                "2012":9,
+                "2013":5,
+                "2014":4,
+                "2015":9,
+                "2016":4,
+                "2017":2,
+                "2018":1
+            }
+        ],
+        [
+            "Opportunistic relaying with cooperative diversity has been introduced in as a simple alternative protocol to the distributed space-time coded protocol while achieving the same diversity-multiplexing tradeoff performance as a point-to-point multiple-input multiple-output scheme. In this paper, we derive the upper and lower bounds for the cumulative distribution function of the signal-to-noise ratio per hop, and then provide their probability density function and moment generating function.We also derive approximate but tight closed-form expressions for the lower and upper bounds of the outage probability of opportunistic relaying based on decode-and-forward transmission under the assumption of unbalanced\/balanced hops and independent, identically distributed Rayleigh fading channels.",
+            "Outage probability of cooperative diversity systems with opportunistic relaying based on decode-and-forward",
+            "Kyu-Sung Hwang and Young-Chai Ko and Mohamed-Slim Alouini",
+            "2008",
+            "scIPxKkAAAAJ:gKiMpY-AVTkC",
+            71,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/4712728\/",
+            "15826737661793263154",
+            "\/scholar?cites=15826737661793263154",
+            {
+                "2009":4,
+                "2010":14,
+                "2011":10,
+                "2012":14,
+                "2013":7,
+                "2014":9,
+                "2015":6,
+                "2016":5,
+                "2017":1
+            }
+        ],
+        [
+            "In this paper, we consider the power splitting relaying (PSR) and time switching relaying (TSR) protocols for decode-and-forward (DF)-based relay networks consisting of a source, a relay, and a destination. For the networks, the relay is assumed to have a rechargeable battery with a certain amount of remaining energy for energy harvesting through the received signal transmitted from the source. Specifically, for the PSR protocol with and without the direct-path, we present the outage probability expression with a given power splitting coefficient, and we obtain the optimum power splitting coefficient to maximize the transmission rate and derive its transmission rate and outage probability, where the optimum coefficient depends on channel conditions and remaining energy. For the TSR protocol with and without the direct-path, we present the outage probability expression with a given time switching coefficient, and we \u2026",
+            "Maximum transmission rate of PSR\/TSR protocols in wireless energy harvesting DF-based relay networks",
+            "MinChul Ju and Kyu-Min Kang and Kyu-Sung Hwang and Cheol Jeong",
+            "2015",
+            "scIPxKkAAAAJ:5MTHONV0fEkC",
+            67,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7274646\/",
+            "7998074230365527831",
+            "\/scholar?cites=7998074230365527831",
+            {
+                "2016":5,
+                "2017":18,
+                "2018":14,
+                "2019":17,
+                "2020":13
+            }
+        ]
+    ]
+}

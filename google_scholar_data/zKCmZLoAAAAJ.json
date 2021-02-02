@@ -1,0 +1,56 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "zKCmZLoAAAAJ",
+            "Aurora Pribram-Jones",
+            "University of California, Merced",
+            "@ucmerced.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=zKCmZLoAAAAJ",
+            487,
+            [
+                "density functional theory",
+                "chemical physics",
+                "physical chemistry",
+                "warm dense matter",
+                "mathematical physics"
+            ],
+            448,
+            11,
+            11,
+            11,
+            11,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"aKcEgSoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David Gross",
+                    "affiliation":"Director, Simulation & Modeling, Heliogen, Inc."
+                }
+            ]
+        ]
+    ]
+}

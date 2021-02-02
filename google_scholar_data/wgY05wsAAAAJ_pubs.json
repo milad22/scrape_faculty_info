@@ -1,0 +1,76 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2
+    ],
+    "data":[
+        [
+            "",
+            "The adventure of carbon stars-Observations and modeling of a set of C-rich AGB stars",
+            "Gioia Rau and Josef Hron and Claudia Paladini and Benard Aringer and Kjell Eriksson and Paola Marigo and Walter Nowotny and Rebekka Grellmann",
+            "2017",
+            "wgY05wsAAAAJ:W7OEmFMy1HYC",
+            24,
+            "https:\/\/www.aanda.org\/articles\/aa\/abs\/2017\/04\/aa29337-16\/aa29337-16.html",
+            "1704489467060815119",
+            "\/scholar?cites=1704489467060815119",
+            {
+                "2016":1,
+                "2017":4,
+                "2018":9,
+                "2019":6,
+                "2020":3,
+                "2021":1
+            }
+        ],
+        [
+            "We present a survey on exoplanetary systems of binary stars with stellar separations less than 100 au. For a sample of 11 binaries that harbour detected circumstellar giant planets, we investigate the frequency of systems with secular resonances (SR) affecting the habitable zone (HZ). SR are connected to dynamically unstable or chaotic regions by enforcing highly eccentric motion. We apply a semi-analytical method to determine the locations of linear SR, which is based on finding the apsidal precession frequencies of the massive bodies. For configurations where the giant planet is located exterior to the HZ, we find that there is always an SR interior to its orbit; the exact location of the SR strongly depends on the system's architecture. In systems with the giant planet interior to the HZ, no SR can occur in the Newtonian framework. Taking into account the general relativistic precession of the perihelion, which \u2026",
+            "Dynamics and habitability in circumstellar planetary systems of known binary stars",
+            "\u00c1kos Bazs\u00f3 and Elke Pilat-Lohinger and Siegfried Eggl and Barbara Funk and David Bancelin and Gioia Rau",
+            "2017",
+            "wgY05wsAAAAJ:UeHWp8X0CEIC",
+            21,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/466\/2\/1555\/2617723",
+            "6416393165894258612",
+            "\/scholar?cites=6416393165894258612",
+            {
+                "2017":3,
+                "2018":5,
+                "2019":9,
+                "2020":4
+            }
+        ],
+        [
+            "",
+            "Modelling the atmosphere of the carbon-rich Mira RU Virginis",
+            "G Rau and C Paladini and J Hron and B Aringer and MAT Groenewegen and W Nowotny",
+            "2015",
+            "wgY05wsAAAAJ:2osOgNQ5qMEC",
+            21,
+            "https:\/\/www.aanda.org\/articles\/aa\/abs\/2015\/11\/aa26418-15\/aa26418-15.html",
+            "12647307210288910892",
+            "\/scholar?cites=12647307210288910892",
+            {
+                "2016":4,
+                "2017":6,
+                "2018":7,
+                "2019":2,
+                "2020":1,
+                "2021":1
+            }
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "V5PKUTNI",
+            "EBSaHLkAAAAJ",
+            [
+                "Exploring localization in nuclear spin chains",
+                "Universal control of nuclear spins via anisotropic hyperfine interactions",
+                "Entanglement assisted metrology",
+                "Simulations of information transport in spin chains",
+                "Object-specific attenuation correction of SPECT with correlated dual-energy x-ray CT",
+                "Dynamic nuclear polarization in silicon microparticles",
+                "Silicon nanoparticles as hyperpolarized magnetic resonance imaging agents",
+                "Multispin dynamics of the solid-state NMR free induction decay"
+            ],
+            [
+                "Characterizing out-of-equilibrium many-body dynamics is a complex but crucial task for quantum applications and understanding fundamental phenomena. A central question is the role of localization in quenching thermalization in many-body systems and whether such localization survives in the presence of interactions. Probing this question in real systems necessitates the development of an experimentally measurable metric that can distinguish between different types of localization. While it is known that the localized phase of interacting systems [many-body localization (MBL)] exhibits a long-time logarithmic growth in entanglement entropy that distinguishes it from the noninteracting case of Anderson localization (AL), entanglement entropy is difficult to measure experimentally. Here, we present a novel correlation metric, capable of distinguishing MBL from AL in high-temperature spin systems. We demonstrate \u2026",
+                "We propose a method for completely controlling a nuclear spin subsystem using only microwave irradiation of resolved anisotropic hyperfine interactions with a single electron spin. This paradigm of control has important applications for spin based solid-state quantum information processing. In particular we argue that indirect addressing of the nuclear spins via an electron spin acting as a spin actuator allows for nuclear spin quantum logic gates whose operational times are significantly faster than either gates based on rf fields resonant with nuclear spin flips or nuclear-nuclear dipolar interactions. We demonstrate experimental aspects of this method with one electron and one nuclear spin of a single crystal of irradiated malonic acid.",
+                "We propose a new approach to the measurement of a single spin state, based on nuclear magnetic resonance (NMR) techniques and inspired by the coherent control over many-body systems envisaged by quantum information processing. A single target spin is coupled via the magnetic dipolar interaction to a large ensemble of spins. Applying radio frequency pulses, we can control the evolution so that the spin ensemble reaches one of two orthogonal states whose collective properties differ depending on the state of the target spin and are easily measured. We first describe this measurement process using quantum gates; then we show how equivalent schemes can be defined in terms of the Hamiltonian and thus implemented under conditions of real control, using well established NMR techniques. We demonstrate this method with a proof of principle experiment in ensemble liquid state NMR and simulations for \u2026",
+                "Transport of quantum information in linear spin chains has been the subject of much theoretical work. Experimental studies by NMR in solid state spin systems (a natural implementation of such models) is complicated since the dipolar Hamiltonian is not solely comprised of nearest-neighbor X Y-Heisenberg couplings. We present here a similarity transformation between the X Y Hamiltonian and the double-quantum Hamiltonian, an interaction which is achievable with the collective control provided by radio-frequency pulses. Not only can this second Hamiltonian simulate the information transport in a spin chain, but it also creates coherent states, whose intensities give an experimental signature of the transport. This scheme makes it possible to study experimentally the transport of polarization beyond exactly solvable models and explore the appearance of quantum coherence and interference effects.",
+                "We have developed a prototype emission-transmission computed tomographic (ETCT) system, which can acquire both radionuclide-emission and dual-energy X-ray transmission data. The dual-energy X-ray data are used to synthesize an object- and energy-specific attenuation map which is incorporated into an ML-EM algorithm to reconstruct an attenuationcorrected SPECT image. The technique was applied to a thoraxlike phantom with regions simulating lung, background and cardiac regions, and bone. SPECT images reconstructed with no attenuation correction, or with a uniform water-equivalent map, contained increased count levels in the lung region and reduced count levels in the cardiac region as compared with the radioactivity concentrations contained in the phantom. Use of an object- specific attenuation map improved the accuracy of the reconstruction, but overestimated the activity in the cardiac \u2026",
+                "We report record high Si 29 spin polarization obtained using dynamic nuclear polarization in microcrystalline silicon powder. Unpaired electrons in this silicon powder are due to dangling bonds in the amorphous region of this intrinsically heterogeneous sample. Si 29 nuclei in the amorphous region become polarized by forced electron-nuclear spin flips driven by off-resonant microwave radiation while nuclei in the crystalline region are polarized by spin diffusion across crystalline boundaries. Hyperpolarized silicon microparticles have long T 1 relaxation times and could be used as tracers for magnetic resonance imaging.",
+                "Magnetic resonance imaging of hyperpolarized nuclei provides high image contrast with little or no background signal. To date, in vivo applications of prehyperpolarized materials have been limited by relatively short nuclear spin relaxation times. Here, we investigate silicon nanoparticles as a new type of hyperpolarized magnetic resonance imaging agent. Nuclear spin relaxation times for a variety of Si nanoparticles are found to be remarkably long, ranging from many minutes to hours at room temperature, allowing hyperpolarized nanoparticles to be transported, administered, and imaged on practical time scales. Additionally, we demonstrate that Si nanoparticles can be surface functionalized using techniques common to other biologically targeted nanoparticle systems. These results suggest that Si nanoparticles can be used as a targetable, hyperpolarized magnetic resonance imaging agent with a large range of \u2026",
+                "We present a new experimental investigation of the NMR free induction decay (FID) in a lattice of spin-1\u2215 2 nuclei in a strong Zeeman field. Following a \u03c0\u2215 2 pulse, evolution under the secular dipolar Hamiltonian preserves the coherence number in the Zeeman eigenbasis, but changes the number of correlated spins in the state. The observed signal is seen to decay as single-spin, single-quantum coherences evolve into multiple-spin coherences under the action of the dipolar Hamiltonian. In order to probe the multiple-spin dynamics during the FID, we measured the growth of coherence orders in a basis other than the usual Zeeman eigenbasis. This measurement provides the first direct experimental observation of the growth of coherent multiple-spin correlations during the FID. Experiments were performed with a cubic lattice of spins (F 19 in calcium fluoride) and a linear spin chain (F 19 in fluorapatite). It is seen \u2026"
+            ],
+            [
+                [
+                    "Quantum and Condensed Matter Physics",
+                    "Magnetic Resonance"
+                ]
+            ]
+        ]
+    ]
+}

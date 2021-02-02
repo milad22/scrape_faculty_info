@@ -1,0 +1,189 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "We present measurements of the E-mode polarization angular auto-power spectrum (EE) and temperature\u2013E-mode cross-power spectrum (TE) of the cosmic microwave background (CMB) using 150 GHz data from three seasons of SPTpol observations. We report the power spectra over the spherical harmonic multipole range  and detect nine acoustic peaks in the EE spectrum with high signal-to-noise ratio. These measurements are the most sensitive to date of the EE and TE power spectra at  and , respectively. The observations cover 500, a fivefold increase in area compared to previous SPTpol analyses, which increases our sensitivity to the photon diffusion damping tail of the CMB power spectra enabling tighter constraints on \u039bCDM model extensions. After masking all sources with unpolarized flux  mJy, we place a 95% confidence upper limit on residual polarized point-source power of  \u2026",
+            "Measurements of the Temperature and E-mode Polarization of the CMB from 500 Square Degrees of SPTpol Data",
+            "JW Henning and JT Sayre and CL Reichardt and PAR Ade and AJ Anderson and JE Austermann and JA Beall and AN Bender and BA Benson and LE Bleem and JE Carlstrom and CL Chang and HC Chiang and HM Cho and R Citron and C Corbett Moran and TM Crawford and AT Crites and T de Haan and MA Dobbs and W Everett and J Gallicchio and EM George and A Gilbert and NW Halverson and N Harrington and GC Hilton and GP Holder and WL Holzapfel and S Hoover and Z Hou and JD Hrubes and N Huang and J Hubmayr and KD Irwin and R Keisler and L Knox and AT Lee and EM Leitch and D Li and A Lowitz and A Manzotti and JJ McMahon and SS Meyer and L Mocanu and J Montgomery and A Nadolski and T Natoli and JP Nibarger and V Novosad and S Padin and C Pryke and JE Ruhl and BR Saliwanchik and KK Schaffer and C Sievers and G Smecher and AA Stark and KT Story and C Tucker and K Vanderlinde and T Veach and JD Vieira and G Wang and N Whitehorn and WLK Wu and V Yefremenko",
+            "2018",
+            "4yhmihkAAAAJ:W7OEmFMy1HYC",
+            134,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/1538-4357\/aa9ff4\/meta",
+            "4339087736547886605",
+            "\/scholar?cites=4339087736547886605",
+            {
+                "2017":5,
+                "2018":30,
+                "2019":35,
+                "2020":60,
+                "2021":2
+            }
+        ],
+        [
+            "We present a measurement of the cosmic microwave background lensing potential using 500 deg 2 of 150 GHz data from the SPTpol receiver on the South Pole Telescope. The lensing potential is reconstructed with signal-to-noise per mode greater than unity at lensing multipoles L lesssim 250, using a quadratic estimator on a combination of cosmic microwave background temperature and polarization maps. We report measurements of the lensing potential power spectrum in the multipole range of 100< L< 2000 from sets of temperature-only (T), polarization-only (POL), and minimum-variance (MV) estimators. We measure the lensing amplitude by taking the ratio of the measured spectrum to the expected spectrum from the best-fit \u039b cold dark matter model to the Planck 2015 TT+ low P+ lensing data set. For the minimum-variance estimator, we find ${A} _ {\\mathrm {MV}}= 0.944\\pm 0.058 (\\mathrm {Stat}.)\\pm 0.025 \u2026",
+            "A measurement of the cosmic microwave background lensing potential and power spectrum from 500 deg2 of SPTpol temperature and polarization data",
+            "WLK Wu and Laura-Monica Mocanu and Peter AR Ade and AJ Anderson and Jason E Austermann and JS Avva and James A Beall and AN Bender and Bradford A Benson and F Bianchini and Lindsey E Bleem and John E Carlstrom and CL Chang and HC Chiang and R Citron and C Corbett Moran and Thomas M Crawford and Abigail T Crites and T de Haan and Matthew Adam Dobbs and W Everett and J Gallicchio and Elizabeth M George and A Gilbert and N Gupta and Nils W Halverson and N Harrington and Jason W Henning and Gene C Hilton and Gilbert P Holder and William Laird Holzapfel and Z Hou and J Dana Hrubes and N Huang and Johannes Hubmayr and Kent D Irwin and L Knox and AT Lee and D Li and A Lowitz and A Manzotti and JJ McMahon and SS Meyer and Marius Millea and J Montgomery and A Nadolski and T Natoli and JP Nibarger and GI Noble and Valentine Novosad and Y Omori and S Padin and S Patil and C Pryke and Christian L Reichardt and JE Ruhl and BR Saliwanchik and James T Sayre and Kathryn K Schaffer and C Sievers and G Simard and G Smecher and Anthony A Stark and Kyle T Story and C Tucker and K Vanderlinde and T Veach and Joaquin D Vieira and G Wang and N Whitehorn and V Yefremenko",
+            "2019",
+            "4yhmihkAAAAJ:MXK_kJrjxJIC",
+            32,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/1538-4357\/ab4186\/meta",
+            "997591921448191483",
+            "\/scholar?cites=997591921448191483",
+            {
+                "2019":1,
+                "2020":29,
+                "2021":2
+            }
+        ],
+        [
+            "We describe the observations and resultant galaxy cluster catalog from the 2770 deg 2 SPTpol Extended Cluster Survey (SPT-ECS). Clusters are identified via the Sunyaev\u2013Zel'dovich (SZ) effect and confirmed with a combination of archival and targeted follow-up data, making particular use of data from the Dark Energy Survey (DES). With incomplete follow-up we have confirmed as clusters 244 of 266 candidates at a detection significance \u03be\u2265 5 and an additional 204 systems at 4< \u03be< 5. The confirmed sample has a median mass of  and a median redshift of z= 0.49, and we have identified 44 strong gravitational lenses in the sample thus far. Radio data are used to characterize contamination to the SZ signal; the median contamination for confirmed clusters is predicted to be~ 1% of the SZ signal at the \u03be> 4 threshold, and< 4% of clusters have a predicted contamination> 10% of their measured SZ \u2026",
+            "The SPTPoL extended cluster survey",
+            "LE Bleem and S Bocquet and B Stalder and MD Gladders and PAR Ade and SW Allen and AJ Anderson and J Annis and MLN Ashby and JE Austermann and S Avila and JS Avva and M Bayliss and JA Beall and K Bechtol and AN Bender and BA Benson and E Bertin and F Bianchini and C Blake and M Brodwin and D Brooks and E Buckley-Geer and DL Burke and JE Carlstrom and A Carnero Rosell and M Carrasco Kind and J Carretero and CL Chang and HC Chiang and R Citron and C Corbett Moran and M Costanzi and TM Crawford and AT Crites and LN da Costa and T de Haan and J De Vicente and S Desai and HT Diehl and JP Dietrich and MA Dobbs and TF Eifler and W Everett and B Flaugher and B Floyd and J Frieman and J Gallicchio and J Garc\u00eda-Bellido and EM George and DW Gerdes and A Gilbert and D Gruen and RA Gruendl and J Gschwend and N Gupta and G Gutierrez and NW Halverson and N Harrington and JW Henning and C Heymans and GP Holder and DL Hollowood and WL Holzapfel and K Honscheid and JD Hrubes and N Huang and J Hubmayr and KD Irwin and DJ James and T Jeltema and S Joudaki and G Khullar and M Klein and L Knox and N Kuropatkin and AT Lee and D Li and C Lidman and A Lowitz and N MacCrann and G Mahler and MAG Maia and JL Marshall and M McDonald and JJ McMahon and P Melchior and F Menanteau and SS Meyer and R Miquel and LM Mocanu and JJ Mohr and J Montgomery and A Nadolski and T Natoli and JP Nibarger and G Noble and V Novosad and S Padin and A Palmese and D Parkinson and S Patil and F Paz-Chinch\u00f3n and AA Plazas and C Pryke and NS Ramachandra and CL Reichardt and JD Remolina Gonz\u00e1lez and AK Romer and A Roodman and JE Ruhl and ES Rykoff and BR Saliwanchik and E Sanchez and A Saro and JT Sayre and KK Schaffer and T Schrabback and S Serrano and K Sharon and C Sievers and G Smecher and M Smith and M Soares-Santos and AA Stark and KT Story and E Suchyta and G Tarle and C Tucker and K Vanderlinde and T Veach and JD Vieira and G Wang and J Weller and N Whitehorn and WLK Wu and V Yefremenko and Y Zhang",
+            "2020",
+            "4yhmihkAAAAJ:mB3voiENLucC",
+            31,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/1538-4365\/ab6993\/meta",
+            "12996940533381891630",
+            "\/scholar?cites=12996940533381891630",
+            {
+                "2020":24,
+                "2021":7
+            }
+        ],
+        [
+            "A new receiver for the South Pole Telescope, SPT-3G, was deployed in early 2017 to map the cosmic microwave background at 95, 150, and 220 GHz with  16,000 detectors, 10 times more than its predecessor SPTpol. The increase in detector count is made possible by lenslet-coupled trichroic polarization-sensitive pixels fabricated at Argonne National Laboratory, new 68 frequency-domain multiplexing readout electronics, and a higher-throughput optical design. The enhanced sensitivity of SPT-3G will enable a wide range of results including constraints on primordial B-mode polarization, measurements of gravitational lensing of the CMB, and a galaxy cluster survey. Here we present an overview of the instrument and its science objectives, highlighting its measured performance and plans for the upcoming 2018 observing season.",
+            "Spt-3g: A multichroic receiver for the south pole telescope",
+            "AJ Anderson and PAR Ade and Z Ahmed and JE Austermann and JS Avva and PS Barry and R Basu Thakur and AN Bender and BA Benson and LE Bleem and K Byrum and JE Carlstrom and FW Carter and T Cecil and CL Chang and HM Cho and JF Cliche and TM Crawford and A Cukierman and EV Denison and T de Haan and J Ding and MA Dobbs and D Dutcher and W Everett and A Foster and RN Gannon and A Gilbert and JC Groh and NW Halverson and AH Harke-Hosemann and NL Harrington and JW Henning and GC Hilton and GP Holder and WL Holzapfel and N Huang and KD Irwin and OB Jeong and M Jonas and T Khaire and L Knox and AM Kofman and M Korman and D Kubik and S Kuhlmann and N Kuklev and CL Kuo and AT Lee and EM Leitch and AE Lowitz and SS Meyer and D Michalik and J Montgomery and A Nadolski and T Natoli and H Nguyen and GI Noble and V Novosad and S Padin and Z Pan and J Pearson and CM Posada and A Rahlin and CL Reichardt and JE Ruhl and LJ Saunders and JT Sayre and I Shirley and E Shirokoff and G Smecher and JA Sobrin and AA Stark and KT Story and A Suzuki and QY Tang and KL Thompson and C Tucker and LR Vale and K Vanderlinde and JD Vieira and G Wang and N Whitehorn and V Yefremenko and KW Yoon and MR Young",
+            "2018",
+            "4yhmihkAAAAJ:_FxGoFyzp5QC",
+            27,
+            "https:\/\/link.springer.com\/article\/10.1007\/s10909-018-2007-z",
+            "4565347084894123099",
+            "\/scholar?cites=4565347084894123099",
+            {
+                "2018":8,
+                "2019":4,
+                "2020":15
+            }
+        ],
+        [
+            "We present cosmological constraints based on the cosmic microwave background (CMB) lensing potential power spectrum measurement from the recent 500 deg 2 SPTpol survey, the most precise CMB lensing measurement from the ground to date. We fit a flat \u039bCDM model to the reconstructed lensing power spectrum alone and in addition with other data sets: baryon acoustic oscillations (BAO), as well as primary CMB spectra from Planck and SPTpol. The cosmological constraints based on SPTpol and Planck lensing band powers are in good agreement when analyzed alone and in combination with Planck full-sky primary CMB data. With weak priors on the baryon density and other parameters, the SPTpol CMB lensing data alone provide a 4% constraint on . Jointly fitting with BAO data, we find , , and , up to  away from the central values \u2026",
+            "Constraints on Cosmological Parameters from the 500 deg2 SPTpol Lensing Power Spectrum",
+            "F Bianchini and WLK Wu and PAR Ade and AJ Anderson and JE Austermann and JS Avva and JA Beall and AN Bender and BA Benson and LE Bleem and JE Carlstrom and CL Chang and P Chaubal and HC Chiang and R Citron and C Corbett Moran and TM Crawford and AT Crites and T De Haan and MA Dobbs and W Everett and J Gallicchio and EM George and A Gilbert and N Gupta and NW Halverson and N Harrington and JW Henning and GC Hilton and GP Holder and WL Holzapfel and JD Hrubes and N Huang and J Hubmayr and KD Irwin and L Knox and AT Lee and D Li and A Lowitz and A Manzotti and JJ McMahon and SS Meyer and M Millea and LM Mocanu and J Montgomery and A Nadolski and T Natoli and JP Nibarger and G Noble and V Novosad and Y Omori and S Padin and S Patil and C Pryke and CL Reichardt and JE Ruhl and BR Saliwanchik and JT Sayre and KK Schaffer and C Sievers and G Simard and G Smecher and AA Stark and KT Story and C Tucker and K Vanderlinde and T Veach and JD Vieira and G Wang and N Whitehorn and V Yefremenko",
+            "2020",
+            "4yhmihkAAAAJ:ZeXyd9-uunAC",
+            18,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/1538-4357\/ab6082\/meta",
+            "7396573583154524268",
+            "\/scholar?cites=7396573583154524268",
+            {
+                "2020":16,
+                "2021":2
+            }
+        ],
+        [
+            "The third-generation South Pole Telescope camera is designed to measure the cosmic microwave background across three frequency bands (centered at 95, 150 and 220 GHz) with  16,000 transition-edge sensor (TES) bolometers. Each multichroic array element on a detector wafer has a broadband sinuous antenna that couples power to six TESs, one for each of the three observing bands and both polarizations, via lumped element filters. Ten detector wafers populate the detector array, which is coupled to the sky via a large-aperture optical system. Here we present the frequency band characterization with Fourier transform spectroscopy, measurements of optical time constants, beam properties, and optical and polarization efficiencies of the detector array. The detectors have frequency bands consistent with our simulations and have high average optical efficiency which is 86, 77 and 66% for the 95 \u2026",
+            "Optical Characterization of the SPT-3G Camera",
+            "Zhaodi Pan and PAR Ade and Zeeshan Ahmed and AJ Anderson and JE Austermann and JS Avva and R Basu Thakur and AN Bender and BA Benson and JE Carlstrom and FW Carter and Thomas Cecil and CL Chang and Jean-Francois Cliche and Ariel Cukierman and EV Denison and Tijmen de Haan and Junjia Ding and MA Dobbs and Daniel Dutcher and Wendeline Everett and Allen Foster and RN Gannon and Adam Gilbert and JC Groh and NW Halverson and AH Harke-Hosemann and NL Harrington and JW Henning and GC Hilton and WL Holzapfel and Nicholas Huang and KD Irwin and OB Jeong and Michalle Jonas and Trupti Khaire and AM Kofman and Milo Korman and Donna Kubik and Steve Kuhlmann and CL Kuo and AT Lee and AE Lowitz and SS Meyer and Daniel Michalik and Joshua Montgomery and Andrew Nadolski and Tyler Natoli and Hogan Nguyen and GI Noble and Valentyn Novosad and Stephan Padin and John Pearson and CM Posada and Alexandra Rahlin and JE Ruhl and LJ Saunders and JT Sayre and Ian Shirley and Erik Shirokoff and Graeme Smecher and JA Sobrin and AA Stark and KT Story and Aritoki Suzuki and QY Tang and KL Thompson and Carole Tucker and LR Vale and Keith Vanderlinde and JD Vieira and Gensheng Wang and Nathan Whitehorn and Volodymyr Yefremenko and Ki Won Yoon and MR Young",
+            "2018",
+            "4yhmihkAAAAJ:UebtZRa9Y70C",
+            17,
+            "https:\/\/link.springer.com\/article\/10.1007\/s10909-018-1935-y",
+            "4675071747940381446",
+            "\/scholar?cites=4675071747940381446",
+            {
+                "2018":5,
+                "2019":5,
+                "2020":7
+            }
+        ],
+        [
+            "We report a B-mode power spectrum measurement from the cosmic microwave background (CMB) polarization anisotropy observations made using the SPTpol instrument on the South Pole Telescope. This work uses 500 deg 2 of SPTpol data, a five-fold increase over the last SPTpol B-mode release. As a result, the bandpower uncertainties have been reduced by more than a factor of two, and the measurement extends to lower multipoles: 52< \u2113< 2301. Data from both 95 and 150 GHz are used, allowing for three cross-spectra: 95 GHz\u00d7 95 GHz, 95 GHz\u00d7 150 GHz, and 150 GHz\u00d7 150 GHz. B-mode power is detected at very high significance; we find P (B B< 0)= 5.8\u00d7 10\u2212 71, corresponding to a 18.1 \u03c3 detection of power. With a prior on the galactic dust from Planck, WMAP and BICEP2\/Keck observations, the SPTpol B-mode data can be used to set an upper limit on the tensor-to-scalar ratio, r< 0.44 at 95 \u2026",
+            "Measurements of -mode polarization of the cosmic microwave background from 500 square degrees of SPTpol data",
+            "JT Sayre and CL Reichardt and JW Henning and PAR Ade and AJ Anderson and JE Austermann and JS Avva and JA Beall and AN Bender and BA Benson and F Bianchini and LE Bleem and JE Carlstrom and CL Chang and P Chaubal and HC Chiang and R Citron and C Corbett Moran and TM Crawford and AT Crites and T De Haan and MA Dobbs and W Everett and J Gallicchio and EM George and A Gilbert and N Gupta and NW Halverson and N Harrington and GC Hilton and GP Holder and WL Holzapfel and JD Hrubes and N Huang and J Hubmayr and KD Irwin and L Knox and AT Lee and D Li and A Lowitz and JJ McMahon and SS Meyer and LM Mocanu and J Montgomery and A Nadolski and T Natoli and JP Nibarger and G Noble and V Novosad and S Padin and S Patil and C Pryke and JE Ruhl and BR Saliwanchik and KK Schaffer and C Sievers and G Smecher and AA Stark and C Tucker and K Vanderlinde and T Veach and JD Vieira and G Wang and N Whitehorn and WLK Wu and V Yefremenko and SPTpol Collaboration",
+            "2020",
+            "4yhmihkAAAAJ:7PzlFSSx8tAC",
+            16,
+            "https:\/\/journals.aps.org\/prd\/abstract\/10.1103\/PhysRevD.101.122003",
+            "4340129325903675233",
+            "\/scholar?cites=4340129325903675233",
+            {
+                "2020":15,
+                "2021":1
+            }
+        ],
+        [
+            "We present a catalog of galaxy cluster candidates detected in 100 square degrees surveyed with the SPTpol receiver on the South Pole Telescope. The catalog contains 89 candidates detected with a signal-to-noise ratio greater than 4.6. The candidates are selected using the Sunyaev\u2013Zel'dovich effect at 95 and 150 GHz. Using both space-and ground-based optical and infrared telescopes, we have confirmed 81 candidates as galaxy clusters. We use these follow-up images and archival images to estimate photometric redshifts for 66 galaxy clusters and spectroscopic observations to obtain redshifts for 13 systems. An additional two galaxy clusters are confirmed using the overdensity of near-infrared galaxies only and are presented without redshifts. We find that 15 candidates (18% of the total sample) are at redshift z\u2265 1.0, with a maximum confirmed redshift of . We expect this catalog to contain every \u2026",
+            "Galaxy Clusters Selected via the Sunyaev\u2013Zel\u2019dovich Effect in the SPTpol 100-square-degree Survey",
+            "N Huang and LE Bleem and B Stalder and PAR Ade and SW Allen and AJ Anderson and JE Austermann and JS Avva and JA Beall and AN Bender and BA Benson and F Bianchini and S Bocquet and M Brodwin and JE Carlstrom and CL Chang and HC Chiang and R Citron and C Corbett Moran and TM Crawford and AT Crites and T de Haan and MA Dobbs and W Everett and B Floyd and J Gallicchio and EM George and A Gilbert and MD Gladders and S Guns and N Gupta and NW Halverson and N Harrington and JW Henning and GC Hilton and GP Holder and WL Holzapfel and JD Hrubes and J Hubmayr and KD Irwin and G Khullar and L Knox and AT Lee and D Li and A Lowitz and M McDonald and JJ McMahon and SS Meyer and LM Mocanu and J Montgomery and A Nadolski and T Natoli and JP Nibarger and G Noble and V Novosad and S Padin and S Patil and C Pryke and CL Reichardt and JE Ruhl and BR Saliwanchik and A Saro and JT Sayre and KK Schaffer and K Sharon and C Sievers and G Smecher and AA Stark and KT Story and C Tucker and K Vanderlinde and T Veach and JD Vieira and G Wang and N Whitehorn and WLK Wu and V Yefremenko",
+            "2020",
+            "4yhmihkAAAAJ:mVmsd5A6BfQC",
+            16,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/1538-3881\/ab6a96\/meta",
+            "11958791114344131151",
+            "\/scholar?cites=11958791114344131151",
+            {
+                "2020":13,
+                "2021":3
+            }
+        ],
+        [
+            "QUBIC is a unique instrument that crosses the barriers between classical imaging architectures and interferometry taking advantage from both high sensitivity and systematics mitigation. The scientific target is to detect primordial gravitational waves created by inflation by the polarization they imprint on the cosmic microwave background\u2014the holy grail of modern cosmology. In this paper, we show the latest advances in the development of the architecture and the sub-systems of the first module of this instrument to be deployed at Dome Charlie Concordia base\u2014Antarctica in 2015.",
+            "Latest Progress on the QUBIC Instrument",
+            "A Ghribi and J Aumont and ES Battistelli and A Bau and B B\u00e9lier and L Berg\u00e9 and J-Ph Bernard and M Bersanelli and M-A Bigot-Sazy and G Bordier and ET Bunn and F Cavaliere and P Chanial and A Coppolecchia and T Decourcelle and P De Bernardis and M De Petris and A-A Drilien and L Dumoulin and MC Falvella and A Gault and M Gervasi and M Giard and M Gradziel and L Grandsire and D Gayer and J-Ch Hamilton and V Haynes and Y Giraud-H\u00e9raud and N Holtzer and J Kaplan and A Korotkov and J Lande and A Lowitz and B Maffei and S Marnieros and J Martino and S Masi and A Mennella and L Montier and A Murphy and MW Ng and E Olivieri and F Pajot and A Passerini and F Piacentini and M Piat and L Piccirillo and G Pisano and D Pr\u00eale and D Rambaud and O Rigaut and C Rosset and M Salatino and A Schillaci and S Scully and C O\u2019Sullivan and A Tartari and P Timbie and G Tucker and L Vibert and F Voisin and B Watson and M Zannoni",
+            "2014",
+            "4yhmihkAAAAJ:d1gkVwhDpl0C",
+            15,
+            "https:\/\/link.springer.com\/article\/10.1007\/s10909-013-1024-1",
+            "8992800122557986880",
+            "\/scholar?cites=8992800122557986880",
+            {
+                "2014":1,
+                "2015":3,
+                "2016":6,
+                "2017":2,
+                "2018":1,
+                "2019":1
+            }
+        ],
+        [
+            "The desire for higher sensitivity has driven ground-based cosmic microwave background (CMB) experiments to employ ever larger focal planes, which in turn require larger reimaging optics. Practical limits to the maximum size of these optics motivates the development of quasi-optically-coupled (lenslet-coupled), multi-chroic detectors. These detectors can be sensitive across a broader bandwidth compared to waveguide-coupled detectors. However, the increase in bandwidth comes at a cost: the lenses (up to ~700 mm diameter) and lenslets (~5 mm diameter, hemispherical lenses on the focal plane) used in these systems are made from high-refractive-index materials (such as silicon or amorphous aluminum oxide) that reflect nearly a third of the incident radiation. In order to maximize the faint CMB signal that reaches the detectors, the lenses and lenslets must be coated with an anti-reflective (AR) material. The \u2026",
+            "Broadband anti-reflective coatings for cosmic microwave background experiments",
+            "A Nadolski and AM Kofman and JD Vieira and PAR Ade and Z Ahmed and AJ Anderson and JS Avva and R Basu Thakur and AN Bender and BA Benson and JE Carlstrom and FW Carter and TW Cecil and CL Chang and JF Cliche and A Cukierman and T de Haan and J Ding and MA Dobbs and D Dutcher and W Everett and A Foster and J Fu and J Gallichio and A Gilbert and JC Groh and ST Guns and R Guyser and NW Halverson and AH Harke-Hosemann and NL Harrington and JW Henning and WL Holzapfel and N Huang and KD Irwin and OB Jeong and M Jonas and A Jones and TS Khaire and M Korman and DL Kubik and S Kuhlmann and C-L Kuo and AT Lee and AE Lowitz and SS Meyer and D Michalik and J Montgomery and T Natoli and H Nguyen and GI Noble and V Novosad and S Padin and Z Pan and J Pearson and CM Posada and W Quan and A Rahlin and JE Ruhl and JT Sayre and E Shirokoff and G Smecher and JA Sobrin and AA Stark and KT Story and A Suzuki and KL Thompson and C Tucker and K Vanderlinde and G Wang and N Whitehorn and V Yefremenko and KW Yoon and MR Young",
+            "2018",
+            "4yhmihkAAAAJ:WF5omc3nYNoC",
+            13,
+            "https:\/\/www.spiedigitallibrary.org\/conference-proceedings-of-spie\/10708\/2315674\/Broadband-anti-reflective-coatings-for-cosmic-microwave-background-experiments\/10.1117\/12.2315674.short",
+            "2868887821076558689",
+            "\/scholar?cites=2868887821076558689",
+            {
+                "2018":6,
+                "2019":4,
+                "2020":3
+            }
+        ]
+    ]
+}

@@ -1,0 +1,250 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "A new code for astrophysical magnetohydrodynamics (MHD) is described. The code has been designed to be easily extensible for use with static and adaptive mesh refinement. It combines higher order Godunov methods with the constrained transport (CT) technique to enforce the divergence\u2010free constraint on the magnetic field. Discretization is based on cell\u2010centered volume averages for mass, momentum, and energy, and face\u2010centered area averages for the magnetic field. Novel features of the algorithm include (1) a consistent framework for computing the time\u2010 and edge\u2010averaged electric fields used by CT to evolve the magnetic field from the time\u2010 and area\u2010averaged Godunov fluxes, (2) the extension to MHD of spatial reconstruction schemes that involve a dimensionally split time advance, and (3) the extension to MHD of two different dimensionally unsplit integration methods. Implementation of the \u2026",
+            "Athena: a new code for astrophysical MHD",
+            "James M Stone and Thomas A Gardiner and Peter Teuben and John F Hawley and Jacob B Simon",
+            "2008",
+            "7YH_CV8AAAAJ:ULOm3_A8WrAC",
+            838,
+            "https:\/\/iopscience.iop.org\/article\/10.1086\/588755\/meta",
+            "8375568163670574355",
+            "\/scholar?cites=8375568163670574355",
+            {
+                "2007":3,
+                "2008":4,
+                "2009":35,
+                "2010":29,
+                "2011":56,
+                "2012":53,
+                "2013":51,
+                "2014":70,
+                "2015":70,
+                "2016":76,
+                "2017":80,
+                "2018":97,
+                "2019":100,
+                "2020":106,
+                "2021":6
+            }
+        ],
+        [
+            "Turbulence can transport angular momentum in protoplanetary disks and influence the growth and evolution of planets. With spatially and spectrally resolved molecular emission line measurements provided by (sub) millimeter interferometric observations, it is possible to directly measure non-thermal motions in the disk gas that can be attributed to this turbulence. We report a new constraint on the turbulence in the disk around HD 163296, a nearby young A star, determined from Atacama Large Millimeter\/submillimeter Array Science Verification observations of four CO emission lines (the CO (3-2), CO (2-1), 13 CO (2-1), and C 18 O (2-1) transitions). The different optical depths for these lines permit probes of non-thermal line-widths at a range of physical conditions (temperature and density) and depths into the disk interior. We derive stringent limits on the non-thermal motions in the upper layers of the outer disk \u2026",
+            "Weak turbulence in the HD 163296 protoplanetary disk revealed by ALMA CO observations",
+            "Kevin M Flaherty and A Meredith Hughes and Katherine A Rosenfeld and Sean M Andrews and Eugene Chiang and Jacob B Simon and Skylar Kerzner and David J Wilner",
+            "2015",
+            "7YH_CV8AAAAJ:qxL8FJ1GzNcC",
+            165,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0004-637X\/813\/2\/99\/meta",
+            "9744495425977002208",
+            "\/scholar?cites=9744495425977002208",
+            {
+                "2016":20,
+                "2017":37,
+                "2018":43,
+                "2019":29,
+                "2020":29,
+                "2021":6
+            }
+        ],
+        [
+            "We study the formation of planetesimals in protoplanetary disks from the gravitational collapse of solid over-densities generated via the streaming instability. To carry out these studies, we implement and test a particle-mesh self-gravity module for the Athena code that enables the simulation of aerodynamically coupled systems of gas and collisionless self-gravitating solid particles. Upon employment of our algorithm to planetesimal formation simulations, we find that (when a direct comparison is possible) the Athena simulations yield predicted planetesimal properties that agree well with those found in prior work using different numerical techniques. In particular, the gravitational collapse of streaming-initiated clumps leads to an initial planetesimal mass function that is well-represented by a power law, , with , which equates to a differential size distribution of , with . We find no \u2026",
+            "The mass and size distribution of planetesimals formed by the streaming instability. I. The role of self-gravity",
+            "Jacob B Simon and Philip J Armitage and Rixin Li and Andrew N Youdin",
+            "2016",
+            "7YH_CV8AAAAJ:IWHjjKOFINEC",
+            159,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/0004-637X\/822\/1\/55\/meta",
+            "15103950871567407614",
+            "\/scholar?cites=15103950871567407614",
+            {
+                "2016":6,
+                "2017":25,
+                "2018":39,
+                "2019":35,
+                "2020":45,
+                "2021":7
+            }
+        ],
+        [
+            "We numerically evolve turbulence driven by the magnetorotational instability (MRI) in a three-dimensional, unstratified shearing box and study its structure using two-point correlation functions. We confirm Fromang and Papaloizou's result that shearing box models with zero net magnetic flux are not converged; the dimensionless shear stress \u03b1 is proportional to the grid scale. We find that the two-point correlation of $\\mbox {\\boldmath $ B $} $ shows that it is composed of narrow filaments that are swept back by differential rotation into a trailing spiral. The correlation lengths along each of the correlation function principal axes decrease monotonically with the grid scale. For mean azimuthal field models, which we argue are more relevant to astrophysical disks than the zero net field models, we find that: \u03b1 increases weakly with increasing resolution at fixed box size; \u03b1 increases slightly as the box size is increased; \u03b1 \u2026",
+            "Locality of MHD turbulence in isothermal disks",
+            "Xiaoyue Guan and Charles F Gammie and Jacob B Simon and Bryan M Johnson",
+            "2009",
+            "7YH_CV8AAAAJ:dhFuZR0502QC",
+            138,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0004-637X\/694\/2\/1010\/meta",
+            "12668364898028529801",
+            "\/scholar?cites=12668364898028529801",
+            {
+                "2009":6,
+                "2010":10,
+                "2011":19,
+                "2012":16,
+                "2013":20,
+                "2014":10,
+                "2015":11,
+                "2016":10,
+                "2017":9,
+                "2018":14,
+                "2019":7,
+                "2020":3,
+                "2021":3
+            }
+        ],
+        [
+            "We study how the structure and variability of magnetohydrodynamic (MHD) turbulence in accretion discs converge with domain size. Our results are based on a series of vertically stratified local simulations, computed using the athena MHD code, that have fixed spatial resolution, but varying radial and azimuthal extent (from \u0394R= 0.5H to 16H, where H is the vertical scale height). We show that elementary local diagnostics of the turbulence, including the Shakura\u2013Sunyaev \u03b1 parameter, the ratio of Maxwell stress to magnetic energy and the ratio of magnetic to fluid stresses, converge to within the precision of our measurements for spatial domains of radial size Lx\u2265 2H. We obtain \u03b1\u2243 0.02\u20130.03, consistent with other recent determinations. Very small domains (Lx= 0.5H) return anomalous results, independent of spatial resolution. This convergence with domain size, however, is only valid for a limited set of \u2026",
+            "Emergent mesoscale phenomena in magnetized accretion disc turbulence",
+            "Jacob B Simon and Kris Beckwith and Philip J Armitage",
+            "2012",
+            "7YH_CV8AAAAJ:IjCSPb-OGe4C",
+            136,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/422\/3\/2685\/1049823",
+            "1541030243444902362",
+            "\/scholar?cites=1541030243444902362",
+            {
+                "2012":6,
+                "2013":19,
+                "2014":18,
+                "2015":17,
+                "2016":14,
+                "2017":16,
+                "2018":19,
+                "2019":15,
+                "2020":10
+            }
+        ],
+        [
+            "As an initial investigation into the long-term evolution of protostellar disks, we explore the conditions required to explain the large outbursts of disk accretion seen in some young stellar objects. We use one-dimensional time-dependent disk models with a phenomenological treatment of the magnetorotational instability (MRI) and gravitational torques to follow disk evolution over long timescales. Comparison with our previous two-dimensional disk model calculations indicates that the neglect of radial effects and two-dimensional disk structure in the one-dimensional case makes only modest differences in the results; this allows us to use the simpler models to explore parameter space efficiently. We find that the mass infall rates typically estimated for low-mass protostars generally result in AU-scale disk accretion outbursts, as predicted by our previous analysis. We also confirm quasi-steady accretion behavior for high \u2026",
+            "Long-term evolution of protostellar and protoplanetary disks. I. Outbursts",
+            "Zhaohuan Zhu and Lee Hartmann and Charles F Gammie and Laura G Book and Jacob B Simon and Eric Engelhard",
+            "2010",
+            "7YH_CV8AAAAJ:Tyk-4Ss8FVUC",
+            126,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0004-637X\/713\/2\/1134\/meta",
+            "2117897496424162379",
+            "\/scholar?cites=2117897496424162379",
+            {
+                "2010":6,
+                "2011":9,
+                "2012":11,
+                "2013":19,
+                "2014":17,
+                "2015":10,
+                "2016":11,
+                "2017":13,
+                "2018":6,
+                "2019":14,
+                "2020":7,
+                "2021":2
+            }
+        ],
+        [
+            "We carry out a series of local, vertically stratified shearing box simulations of protoplanetary disks that include ambipolar diffusion and a net vertical magnetic field. The ambipolar diffusion profiles we employ correspond to 30 AU and 100 AU in a minimum mass solar nebula (MMSN) disk model, which consists of a far-ultraviolet-ionized surface layer and low-ionization disk interior. These simulations serve as a follow-up to Simon et al., in which we found that without a net vertical field, the turbulent stresses that result from the magnetorotational instability (MRI) are too weak to account for observed accretion rates. The simulations in this work show a very strong dependence of the accretion stresses on the strength of the background vertical field; as the field strength increases, the stress amplitude increases. For a net vertical field strength (quantified by \u03b2 0, the ratio of gas to magnetic pressure at the disk mid-plane) of \u03b2 0 \u2026",
+            "Turbulence in the outer regions of protoplanetary disks. II. Strong accretion driven by a vertical magnetic field",
+            "Jacob B Simon and Xue-Ning Bai and Philip J Armitage and James M Stone and Kris Beckwith",
+            "2013",
+            "7YH_CV8AAAAJ:TQgYirikUcIC",
+            121,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0004-637X\/775\/1\/73\/meta",
+            "17402371603013820520",
+            "\/scholar?cites=17402371603013820520",
+            {
+                "2013":4,
+                "2014":17,
+                "2015":8,
+                "2016":20,
+                "2017":19,
+                "2018":22,
+                "2019":14,
+                "2020":13,
+                "2021":3
+            }
+        ],
+        [
+            "Gas kinematics are an important part of the planet formation process. Turbulence influences planetesimal growth and migration from the scale of submicron dust grains through gas-giant planets. Radio observations of resolved molecular line emission can directly measure this non-thermal motion and, taking advantage of the layered chemical structure of disks, different molecular lines can be combined to map the turbulence throughout the vertical extent of a protoplanetary disk. Here we present ALMA observations of three molecules (DCO+(3-2), C 18 O (2-1) and CO (2-1)) from the disk around HD 163296. We are able to place stringent upper limits (v turb< 0.06c s,< 0.05c s, and< 0.04c s for CO (2-1), C 18 O (2-1), and DCO+(3-2) respectively), corresponding to \u03b1 lesssim 3\u00d7 10\u2212 3, similar to our prior limit derived from CO (3-2). This indicates that there is little turbulence throughout the vertical extent of the disk, contrary \u2026",
+            "A Three-dimensional view of turbulence: constraints on turbulent motions in the HD 163296 protoplanetary disk using DCO+",
+            "Kevin M Flaherty and A Meredith Hughes and Sanaea C Rose and Jacob B Simon and Chunhua Qi and Sean M Andrews and \u00c1gnes K\u00f3sp\u00e1l and David J Wilner and Eugene Chiang and Philip J Armitage and Xue-ning Bai",
+            "2017",
+            "7YH_CV8AAAAJ:qUcmZB5y_30C",
+            120,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/1538-4357\/aa79f9\/meta",
+            "15190544149517857445",
+            "\/scholar?cites=15190544149517857445",
+            {
+                "2017":7,
+                "2018":35,
+                "2019":34,
+                "2020":38,
+                "2021":6
+            }
+        ],
+        [
+            "We characterize magnetically driven accretion at radii between 1 and 100\u2009au in protoplanetary discs, using a series of local non-ideal magnetohydrodynamic (MHD) simulations. The simulations assume a minimum mass solar nebula (MMSN) disc that is threaded by a net vertical magnetic field of specified strength. Confirming previous results, we find that the Hall effect has only a modest impact on accretion at 30\u2009au, and essentially none at 100\u2009au. At 1\u201310\u2009au the Hall effect introduces a pronounced bimodality in the accretion process, with vertical magnetic fields aligned to the disc rotation supporting a strong laminar Maxwell stress that is absent if the field is anti-aligned. In the anti-aligned case, we instead find evidence for bursts of turbulent stress at 5\u201310\u2009au, which we tentatively identify with the non-axisymmetric Hall-shear instability. The presence or absence of these bursts depends upon the details of \u2026",
+            "Magnetically driven accretion in protoplanetary discs",
+            "Jacob B Simon and Geoffroy Lesur and Matthew W Kunz and Philip J Armitage",
+            "2015",
+            "7YH_CV8AAAAJ:M3ejUd6NZC8C",
+            115,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/454\/1\/1117\/1144860",
+            "9218063789564846814",
+            "\/scholar?cites=9218063789564846814",
+            {
+                "2015":1,
+                "2016":28,
+                "2017":20,
+                "2018":23,
+                "2019":13,
+                "2020":25,
+                "2021":4
+            }
+        ],
+        [
+            "We investigate the effect of shear viscosity, \u03bd, and Ohmic resistivity, \u03b7, on the magnetorotational instability (MRI) in vertically stratified accretion disks through a series of local simulations with the Athena code. First, we use a series of unstratified simulations to calibrate physical dissipation as a function of resolution and background field strength; the effect of the magnetic Prandtl number, P m= \u03bd\/\u03b7, on the turbulence is captured by~ 32 grid zones per disk scale height, H. In agreement with previous results, our stratified disk calculations are characterized by a subthermal, predominately toroidal magnetic field that produces MRI-driven turbulence for| z| lesssim 2H. Above| z|~ 2H, the magnetic pressure dominates and the field is buoyantly unstable. Large-scale radial and toroidal fields are also generated near the mid-plane and subsequently rise through the disk. The polarity of this mean field switches on a roughly 10 \u2026",
+            "Resistivity-driven state changes in vertically stratified accretion disks",
+            "Jacob B Simon and John F Hawley and Kris Beckwith",
+            "2011",
+            "7YH_CV8AAAAJ:e5wmG9Sq2KIC",
+            113,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0004-637X\/730\/2\/94\/meta",
+            "17634289710999952828",
+            "\/scholar?cites=17634289710999952828",
+            {
+                "2011":13,
+                "2012":15,
+                "2013":16,
+                "2014":13,
+                "2015":14,
+                "2016":13,
+                "2017":7,
+                "2018":9,
+                "2019":6,
+                "2020":7
+            }
+        ]
+    ]
+}

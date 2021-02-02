@@ -1,0 +1,164 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "data":[
+        [
+            "A search for the Standard Model Higgs boson in proton\u2013proton collisions with the ATLAS detector at the LHC is presented. The datasets used correspond to integrated luminosities of approximately 4.8 fb\u2212 1 collected at s= 7 TeV in 2011 and 5.8 fb\u2212 1 at s= 8 TeV in 2012. Individual searches in the channels H\u2192 Z Z (\u204e)\u2192 4 \u2113, H\u2192 \u03b3 \u03b3 and H\u2192 W W (\u204e)\u2192 e \u03bd \u03bc \u03bd in the 8 TeV data are combined with previously published results of searches for H\u2192 Z Z (\u204e), W W (\u204e), b b\u00af and \u03c4+ \u03c4\u2212 in the 7 TeV data and results from improved analyses of the H\u2192 Z Z (\u204e)\u2192 4 \u2113 and H\u2192 \u03b3 \u03b3 channels in the 7 TeV data. Clear evidence for the production of a neutral boson with a measured mass of 126.0\u00b10.4 (stat)\u00b10.4 (sys) GeV is presented. This observation, which has a significance of 5.9 standard deviations, corresponding to a background fluctuation probability of 1.7\u00d7 10\u2212 9, is compatible with the production and decay of the Standard Model \u2026",
+            "Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC",
+            "Georges Aad and Tatevik Abajyan and B Abbott and J Abdallah and S Abdel Khalek and Ahmed Ali Abdelalim and R Aben and B Abi and M Abolins and OS AbouZeid and H Abramowicz and H Abreu and BS Acharya and L Adamczyk and DL Adams and TN Addy and J Adelman and S Adomeit and P Adragna and T Adye and S Aefsky and JA Aguilar-Saavedra and M Agustoni and M Aharrouche and SP Ahlen and F Ahles and A Ahmad and M Ahsan and G Aielli and T Akdogan and TPA \u00c5kesson and G Akimoto and AV Akimov and MS Alam and MA Alam and J Albert and S Albrand and M Aleksa and IN Aleksandrov and F Alessandria and C Alexa and G Alexander and G Alexandre and T Alexopoulos and M Alhroob and M Aliev and G Alimonti and J Alison and BMM Allbrooke and PP Allport and SE Allwood-Spiers and J Almond and A Aloisio and R Alon and A Alonso and F Alonso and A Altheimer and B Alvarez Gonzalez and MG Alviggi and K Amako and C Amelung and VV Ammosov and SP Amor Dos Santos and A Amorim and N Amram and C Anastopoulos and LS Ancu and N Andari and T Andeen and CF Anders and G Anders and KJ Anderson and A Andreazza and V Andrei and M-L Andrieux and XS Anduaga and S Angelidakis and P Anger and A Angerami and F Anghinolfi and A Anisenkov and N Anjos and A Annovi and A Antonaki and M Antonelli and A Antonov and J Antos and F Anulli and M Aoki and S Aoun and L Aperio Bella and R Apolle and G Arabidze and I Aracena and Y Arai and ATH Arce and S Arfaoui and J-F Arguin and E Arik and M Arik and AJ Armbruster and O Arnaez and V Arnal and C Arnault and A Artamonov and G Artoni and D Arutinov and S Asai and S Ask and B \u00c5sman and L Asquith and K Assamagan and A Astbury and M Atkinson and B Aubert and E Auge and K Augsten and M Aurousseau and G Avolio and R Avramidou and D Axen and G Azuelos and Y Azuma and MA Baak and G Baccaglioni and C Bacci and AM Bach and H Bachacou and K Bachas and M Backes and M Backhaus and J Backus Mayes and E Badescu and P Bagnaia and S Bahinipati and Y Bai and DC Bailey and T Bain and JT Baines and OK Baker and MD Baker and S Baker and P Balek and E Banas and P Banerjee and Sw Banerjee and D Banfi and A Bangert and V Bansal and HS Bansil",
+            "2012",
+            "-iGuoKIAAAAJ:VU3f3A8hqOEC",
+            13965,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S037026931200857X",
+            "1650605866782918575",
+            "\/scholar?cites=1650605866782918575",
+            {
+                "2011":89,
+                "2012":459,
+                "2013":1861,
+                "2014":2042,
+                "2015":2069,
+                "2016":1935,
+                "2017":1670,
+                "2018":1524,
+                "2019":1201,
+                "2020":1002,
+                "2021":59
+            }
+        ],
+        [
+            "The simulation software for the ATLAS Experiment at the Large Hadron Collider is being used for large-scale production of events on the LHC Computing Grid. This simulation requires many components, from the generators that simulate particle collisions, through packages simulating the response of the various detectors and triggers. All of these components come together under the ATLAS simulation infrastructure. In this paper, that infrastructure is discussed, including that supporting the detector description, interfacing the event generation, and combining the GEANT4 simulation of the response of the individual detectors. Also described are the tools allowing the software validation, performance testing, and the validation of the simulated output against known physics processes.",
+            "The ATLAS simulation infrastructure",
+            "Georges Aad and B Abbott and J Abdallah and AA Abdelalim and Abdelmalek Abdesselam and B Abi and M Abolins and H Abramowicz and H Abreu and BS Acharya and DL Adams and TN Addy and J Adelman and C Adorisio and P Adragna and T Adye and S Aefsky and JA Aguilar-Saavedra and M Aharrouche and SP Ahlen and F Ahles and A Ahmad and H Ahmed and M Ahsan and G Aielli and T Akdogan and TPA \u00c5kesson and G Akimoto and AV Akimov and A Aktas and MS Alam and MA Alam and S Albrand and M Aleksa and IN Aleksandrov and C Alexa and G Alexander and G Alexandre and T Alexopoulos and M Alhroob and M Aliev and G Alimonti and J Alison and M Aliyev and PP Allport and SE Allwood-Spiers and J Almond and A Aloisio and R Alon and A Alonso and MG Alviggi and K Amako and C Amelung and A Amorim and G Amoros and N Amram and C Anastopoulos and T Andeen and CF Anders and KJ Anderson and A Andreazza and V Andrei and XS Anduaga and A Angerami and F Anghinolfi and N Anjos and A Annovi and A Antonaki and M Antonelli and S Antonelli and J Antos and B Antunovic and F Anulli and S Aoun and G Arabidze and I Aracena and Y Arai and ATH Arce and JP Archambault and S Arfaoui and J-F Arguin and T Argyropoulos and M Arik and AJ Armbruster and O Arnaez and C Arnault and A Artamonov and D Arutinov and M Asai and S Asai and R Asfandiyarov and S Ask and B \u00c5sman and D Asner and L Asquith and K Assamagan and A Astbury and A Astvatsatourov and G Atoian and B Auerbach and K Augsten and M Aurousseau and N Austin and G Avolio and R Avramidou and D Axen and C Ay and G Azuelos and Y Azuma and MA Baak and AM Bach and H Bachacou and K Bachas and M Backes and E Badescu and P Bagnaia and Y Bai and T Bain and JT Baines and OK Baker and MD Baker and S Baker and F Baltasar Dos Santos Pedrosa and E Banas and P Banerjee and S Banerjee and D Banfi and A Bangert and V Bansal and SP Baranov and S Baranov and A Barashkou and T Barber and EL Barberio and D Barberis and M Barbero and DY Bardin and T Barillari and M Barisonzi and T Barklow and N Barlow and BM Barnett and RM Barnett and A Baroncelli and AJ Barr and F Barreiro and J Barreiro Guimaraes da Costa and P Barrillon and R Bartoldus and D Bartsch",
+            "2010",
+            "-iGuoKIAAAAJ:Q5Q90iAmaP0C",
+            6068,
+            "https:\/\/link.springer.com\/article\/10.1140\/epjc\/s10052-010-1429-9",
+            "10614936945083796742",
+            "\/scholar?cites=10614936945083796742",
+            {
+                "2010":21,
+                "2011":323,
+                "2012":621,
+                "2013":549,
+                "2014":542,
+                "2015":708,
+                "2016":769,
+                "2017":760,
+                "2018":844,
+                "2019":584,
+                "2020":323,
+                "2021":10
+            }
+        ],
+        [
+            "The jet energy scale (JES) and its systematic uncertainty are determined for jets measured with the ATLAS detector using proton\u2013proton collision data with a centre-of-mass energy of  s\u221a=7  TeV corresponding to an integrated luminosity of  4.7   fb \u22121 . Jets are reconstructed from energy deposits forming topological clusters of calorimeter cells using the anti- kt  algorithm with distance parameters  R=0.4  or  R=0.6 , and are calibrated using MC simulations. A residual JES correction is applied to account for differences between data and MC simulations. This correction and its systematic uncertainty are estimated using a combination of in situ techniques exploiting the transverse momentum balance between a jet and a reference object such as a photon or a  Z  boson, for  20\u2264pjetT<1000 GeV  and pseudorapidities  |\u03b7|<4.5 . The effect of multiple proton\u2013proton interactions is corrected for, and an uncertainty is evaluated using in situ techniques. The smallest JES uncertainty of less than 1 % is found in the central calorimeter region ( |\u03b7|<1.2 ) for jets with  55\u2264pjetT<500 GeV . For central jets at lower  pT , the uncertainty is about 3 %. A consistent JES estimate is found using measurements of the calorimeter response of single hadrons in proton\u2013proton collisions and test-beam data, which also provide the estimate for  pjetT>1  TeV. The calibration of forward jets is derived from dijet  pT  balance measurements. The resulting uncertainty reaches its largest value of 6 % for low- pT jets at  |\u03b7|=4.5 . Additional JES uncertainties due to specific event topologies, such as close-by jets or selections of event samples with an enhanced content of jets originating \u2026",
+            "Jet energy measurement and its systematic uncertainty in proton\u2013proton collisions at\u221a s= 7TeV with the ATLAS detector",
+            "Melissa Franklin and John Huth and L Jeanty and D Lopez Mateos and Kevin Mercurio and Masahiro Morii and William Spearman and Andy Yen and G Zevi Della Porta",
+            "2015",
+            "-iGuoKIAAAAJ:0SnApaDgcCoC",
+            4310,
+            "https:\/\/dash.harvard.edu\/handle\/1\/33839898",
+            "6727422993564776635",
+            "\/scholar?cites=6727422993564776635",
+            {
+                "2012":21,
+                "2013":63,
+                "2014":227,
+                "2015":914,
+                "2016":989,
+                "2017":815,
+                "2018":667,
+                "2019":368,
+                "2020":224,
+                "2021":9
+            }
+        ],
+        [
+            "The jet energy scale (JES) and its systematic uncertainty are determined for jets measured with the ATLAS detector using proton\u2013proton collision data with a centre-of-mass energy of  s\u221a=7  TeV corresponding to an integrated luminosity of  4.7   fb \u22121 . Jets are reconstructed from energy deposits forming topological clusters of calorimeter cells using the anti- kt  algorithm with distance parameters  R=0.4  or  R=0.6 , and are calibrated using MC simulations. A residual JES correction is applied to account for differences between data and MC simulations. This correction and its systematic uncertainty are estimated using a combination of in situ techniques exploiting the transverse momentum balance between a jet and a reference object such as a photon or a  Z  boson, for  20\u2264pjetT<1000 GeV  and pseudorapidities  |\u03b7|<4.5 . The effect of multiple proton\u2013proton interactions is corrected for, and an uncertainty is evaluated using in situ techniques. The smallest JES uncertainty of less than 1 % is found in the central calorimeter region ( |\u03b7|<1.2 ) for jets with  55\u2264pjetT<500 GeV . For central jets at lower  pT , the uncertainty is about 3 %. A consistent JES estimate is found using measurements of the calorimeter response of single hadrons in proton\u2013proton collisions and test-beam data, which also provide the estimate for  pjetT>1  TeV. The calibration of forward jets is derived from dijet  pT  balance measurements. The resulting uncertainty reaches its largest value of 6 % for low- pT jets at  |\u03b7|=4.5 . Additional JES uncertainties due to specific event topologies, such as close-by jets or selections of event samples with an enhanced content of jets originating \u2026",
+            "Jet energy measurement and its systematic uncertainty in proton\u2013proton collisions at\u221a s= 7TeV with the ATLAS detector",
+            "Melissa Franklin and John Huth and L Jeanty and D Lopez Mateos and Kevin Mercurio and Masahiro Morii and William Spearman and Andy Yen and G Zevi Della Porta",
+            "2015",
+            "-iGuoKIAAAAJ:-BKJ5vZJwzMC",
+            4281,
+            "https:\/\/dash.harvard.edu\/handle\/1\/33839898",
+            "6727422993564776635",
+            "\/scholar?cites=6727422993564776635",
+            {
+                "2014":85,
+                "2015":658,
+                "2016":1072,
+                "2017":939,
+                "2018":749,
+                "2019":469,
+                "2020":257,
+                "2021":15
+            }
+        ],
+        [
+            "The luminosity determination for the ATLAS detector at the LHC during pp collisions at s\u221a= 8 TeV in 2012 is presented. The evaluation of the luminosity scale is performed using several luminometers, and comparisons between these luminosity detectors are made to assess the accuracy, consistency and long-term stability of the results. A luminosity uncertainty of \u03b4\u2112\/\u2112 = \u00b11.9% is obtained for the 22.7 fb-1 of pp collision data delivered to ATLAS at s\u221a= 8 TeV in 2012.",
+            "Luminosity Determination in Pp Collisions at S\u221a S= 8 TeV Using the ATLAS Detector at the LHC",
+            "Masahiro Morii and SK Chan and B Clark and Paolo Giromini and Melissa Franklin and John Huth and Victoria Ippolito and Tomo Lazovich and D Lopez Mateos and Charlotte Rogan",
+            "2016",
+            "-iGuoKIAAAAJ:Pqt4MY__2vwC",
+            3880,
+            "https:\/\/dash.harvard.edu\/handle\/1\/42659223",
+            "13028960326374976316",
+            "\/scholar?cites=13028960326374976316",
+            {
+                "2011":287,
+                "2012":732,
+                "2013":466,
+                "2014":144,
+                "2015":130,
+                "2016":194,
+                "2017":511,
+                "2018":640,
+                "2019":463,
+                "2020":288,
+                "2021":9
+            }
+        ],
+        [
+            "A search for the bb\u00af decay of the Standard Model Higgs boson is performed with the ATLAS experiment using the full dataset recorded at the LHC in Run 1. The integrated luminosities used are 4.7 and 20.3 fb\u22121 from pp collisions at s\u221a=7 and 8 TeV, respectively. The processes considered are associated (W\/Z)H production, where W \u2192 e\u03bd\/\u03bc\u03bd, Z \u2192 ee\/\u03bc\u03bc and Z \u2192 \u03bd\u03bd. The observed (expected) deviation from the background-only hypothesis corresponds to a significance of 1.4 (2.6) standard deviations and the ratio of the measured signal yield to the Standard Model expectation is found to be \u03bc = 0.52 \u00b1 0.32 (stat.) \u00b1 0.24 (syst.) for a Higgs boson mass of 125.36 GeV. The analysis procedure is validated by a measurement of the yield of (W\/Z)Z production with Z\u2192bb\u00af in the same final states as for the Higgs boson search, from which the ratio of the observed signal yield to the Standard Model expectation is found to be 0.74 \u00b1 0.09 (stat.) \u00b1 0.14 (syst.).",
+            "Search for the b b decay of the Standard Model Higgs boson in associated (W\/Z) H production with the ATLAS detector",
+            "Lee Allison and Adam Barton and Michael Beattie and Guennadi Borissov and Eva Bouhova-Thacker and Alexandre Chilingarov and William Dearnaley and Harald Fox and Kathryn Grimm and Robert Henderson and Gareth Hughes and Roger William Lewis Jones and Vakhtang Kartvelishvili and Robin Long and Peter Love and Harvey Maddocks and Maria Smizanska and James Walder and Daniel Matthias Alfred Muenstermann",
+            "2015",
+            "-iGuoKIAAAAJ:P-MJmu9ZMwQC",
+            3805,
+            "https:\/\/eprints.lancs.ac.uk\/id\/eprint\/73999\/",
+            "2324610914529350891",
+            "\/scholar?cites=2324610914529350891",
+            {
+                "2012":17,
+                "2013":108,
+                "2014":179,
+                "2015":499,
+                "2016":979,
+                "2017":766,
+                "2018":610,
+                "2019":409,
+                "2020":207,
+                "2021":17
+            }
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "Feature selection has been studied and shown to improve classifier performance in standard batch data mining but is mostly unexplored in data stream mining. Feature selection becomes even more important when the relevant subset of features changes over time, as the underlying concept of a data stream drifts. This specific kind of drift is known as feature drift and requires specific techniques not only to determine which features are the most important but also to take advantage of them. This paper presents a novel method of feature subset selection specialized for dealing with the occurrence of feature drifts called Iterative Subset Selection (ISS), which splits the feature selection process into two stages by first ranking the features, and then iteratively selecting features from the ranking. Applying our feature selection method together with Naive Bayes or k-Nearest Neighbour as a classifier, results in compelling \u2026",
+            "Iterative subset selection for feature drifting data streams",
+            "Lanqin Yuan and Bernhard Pfahringer and Jean Paul Barddal",
+            "2018",
+            "TGm6jw8AAAAJ:u-x6o8ySG0sC",
+            5,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/3167132.3167188",
+            "3158535457142461246",
+            "\/scholar?cites=3158535457142461246",
+            {
+                "2019":2,
+                "2020":3
+            }
+        ],
+        [
+            "Data streams are prone to various forms of concept drift over time including, for instance, changes to the relevance of features. This specific kind of drift is known as feature drift and requires techniques tailored not only to determine which features are the most important but also to take advantage of them. Feature selection has been studied and shown to improve classifier performance in standard batch data mining, yet it is mostly unexplored in data stream mining. This paper presents a novel method of feature subset selection specialized for dealing with the occurrence of feature drifts called Iterative Subset Selection (ISS), which splits the feature selection process into two stages by first ranking the features using some scoring function, and then iteratively selecting feature subsets using this ranking. This work further extends upon our prior work by exploring feeding information from the subset selection stage back \u2026",
+            "Addressing feature drift in data streams using iterative subset selection",
+            "Lanqin Yuan and Bernhard Pfahringer and Jean Paul Barddal",
+            "2019",
+            "TGm6jw8AAAAJ:u5HHmVD_uO8C",
+            1,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/3325061.3325063",
+            "2575416348002391581",
+            "\/scholar?cites=2575416348002391581",
+            {
+                "2020":1
+            }
+        ]
+    ]
+}

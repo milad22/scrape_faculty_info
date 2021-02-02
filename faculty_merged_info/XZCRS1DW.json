@@ -1,0 +1,48 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "XZCRS1DW",
+            "0CVyG1UAAAAJ",
+            [
+                "Algorithms for entanglement renormalization",
+                "Tensor network states and geometry",
+                "Tensor network renormalization",
+                "Frustrated Antiferromagnets with Entanglement Renormalization: Ground State of the Spin- Heisenberg Model on a Kagome Lattice",
+                "Simulation of two-dimensional quantum systems using a tree tensor network that exploits the entropic area law",
+                "Entanglement renormalization, scale invariance, and quantum criticality",
+                "Entanglement renormalization in two spatial dimensions",
+                "Simulation of interacting fermions with entanglement renormalization",
+                "Tensor network renormalization yields the multiscale entanglement renormalization ansatz",
+                "Quantum criticality with the multi-scale entanglement renormalization ansatz"
+            ],
+            [
+                "We describe an iterative method to optimize the multiscale entanglement renormalization ansatz for the low-energy subspace of local Hamiltonians on a D-dimensional lattice. For translation-invariant systems the cost of this optimization is logarithmic in the linear system size. Specialized algorithms for the treatment of infinite systems are also described. Benchmark simulation results are presented for a variety of one-dimensional systems, namely, Ising, Potts, X X, and Heisenberg models. The potential to compute expected values of local observables, energy gaps, and correlators is investigated.",
+                "Tensor network states are used to approximate ground states of local Hamiltonians on a lattice in D spatial dimensions. Different types of tensor network states can be seen to generate different geometries. Matrix product states (MPS) in D=1 dimensions, as well as projected entangled pair states (PEPS) in D>1 dimensions, reproduce the D-dimensional physical geometry of the lattice model; in contrast, the multi-scale entanglement renormalization ansatz (MERA) generates a (D+1)-dimensional holographic geometry. Here we focus on homogeneous tensor networks, where all the tensors in the network are copies of the same tensor, and argue that certain structural properties of the resulting many-body states are preconditioned by the geometry of the tensor network and are therefore largely independent of the choice of variational parameters. Indeed, the asymptotic decay of correlations in homogeneous \u2026",
+                "We introduce a coarse-graining transformation for tensor networks that can be applied to study both the partition function of a classical statistical system and the Euclidean path integral of a quantum many-body system. The scheme is based upon the insertion of optimized unitary and isometric tensors (disentanglers and isometries) into the tensor network and has, as its key feature, the ability to remove short-range entanglement or correlations at each coarse-graining step. Removal of short-range entanglement results in scale invariance being explicitly recovered at criticality. In this way we obtain a proper renormalization group flow (in the space of tensors), one that in particular (i) is computationally sustainable, even for critical systems, and (ii) has the correct structure of fixed points, both at criticality and away from it. We demonstrate the proposed approach in the context of the 2D classical Ising model.",
+                "Entanglement renormalization techniques are applied to numerically investigate the ground state of the spin-1 2 Heisenberg model on a kagome lattice. Lattices of N={36, 144,\u221e} sites with periodic boundary conditions are considered. For the infinite lattice, the best approximation to the ground state is found to be a valence bond crystal with a 36-site unit cell, compatible with a previous proposal. Its energy per site, E=\u2212 0.432 21, is an exact upper bound and is lower than the energy of any previous (gapped or algebraic) spin liquid candidate for the ground state.",
+                "This work explores the use of a tree tensor network ansatz to simulate the ground state of a local Hamiltonian on a two-dimensional lattice. By exploiting the entropic area law, the tree tensor network ansatz seems to produce quasiexact results in systems with sizes well beyond the reach of exact diagonalization techniques. We describe an algorithm to approximate the ground state of a local Hamiltonian on a L\u00d7 L lattice with the topology of a torus. Accurate results are obtained for L={4, 6, 8}, whereas approximate results are obtained for larger lattices. As an application of the approach, we analyze the scaling of the ground-state entanglement entropy at the quantum critical point of the model. We confirm the presence of a positive additive constant to the area law for half a torus. We also find a logarithmic additive correction to the entropic area law for a square block. The single copy entanglement for half a torus \u2026",
+                "The use of entanglement renormalization in the presence of scale invariance is investigated. We explain how to compute an accurate approximation of the critical ground state of a lattice model and how to evaluate local observables, correlators, and critical exponents. Our results unveil a precise connection between the multiscale entanglement renormalization ansatz and conformal field theory (CFT). Given a critical Hamiltonian on the lattice, this connection can be exploited to extract most of the conformal data of the CFT that describes the model in the continuum limit.",
+                "We propose and test a scheme for entanglement renormalization capable of addressing large two-dimensional quantum lattice systems. In a translationally invariant system, the cost of simulations grows only as the logarithm of the lattice size; at a quantum critical point, the simulation cost becomes independent of the lattice size and infinite systems can be analyzed. We demonstrate the performance of the scheme by investigating the low energy properties of the 2D quantum Ising model on a square lattice of linear size L={6, 9, 18, 54,\u221e} with periodic boundary conditions. We compute the ground state and evaluate local observables and two-point correlators. We also produce accurate estimates of the critical magnetic field and critical exponent \u03b2. A calculation of the energy gap shows that it scales as 1\/L at the critical point.",
+                "We propose an algorithm to simulate interacting fermions on a two-dimensional lattice. The approach is an extension of the entanglement renormalization technique [Phys. Rev. Lett. 99, 220405 (2007)] and the related multiscale entanglement renormalization ansatz. Benchmark calculations for free and interacting fermions on lattices ranging from 6\u00d7 6 to 162\u00d7 162 sites with periodic boundary conditions confirm the validity of this proposal.",
+                "We show how to build a multiscale entanglement renormalization ansatz (MERA) representation of the ground state of a many-body Hamiltonian H by applying the recently proposed tensor network renormalization [G. Evenbly and G. Vidal, Phys. Rev. Lett. 115, 180405 (2015)] to the Euclidean time evolution operator e\u2212 \u03b2 H for infinite \u03b2. This approach bypasses the costly energy minimization of previous MERA algorithms and, when applied to finite inverse temperature \u03b2, produces a MERA representation of a thermal Gibbs state. Our construction endows tensor network renormalization with a renormalization group flow in the space of wave functions and Hamiltonians (and not merely in the more abstract space of tensors) and extends the MERA formalism to classical statistical systems.",
+                "The goal of this chapter is to provide an introduction to the multi-scale entanglement renormalization ansatz (MERA) and its application to the study of quantum critical systems. The MERA, in its scale-invariant form, is seen to offer direct numerical access to the scale-invariant operators of a critical theory. As a result, given a critical Hamiltonian on the lattice, the scale-invariant MERA can be used to characterize the underlying conformal field theory. The performance of the MERA is benchmarked for several critical quantum spin chains, namely Ising, Potts, XX and (modified) Heisenberg models, and an insightful comparison with results obtained using a matrix product state is made. The extraction of accurate conformal data, such as scaling dimensions and operator product expansion coefficients of both local and non-local primary fields, is also illustrated."
+            ],
+            [
+                [
+                    "Condensed Matter",
+                    "Quantum Information"
+                ]
+            ]
+        ]
+    ]
+}

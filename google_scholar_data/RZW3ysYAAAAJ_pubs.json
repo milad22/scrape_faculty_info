@@ -1,0 +1,87 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3
+    ],
+    "data":[
+        [
+            "We reveal significant qualitative differences in the rigidity transition of three types of disordered network materials: randomly diluted spring networks, jammed sphere packings, and stress-relieved networks that are diluted using a protocol that avoids the appearance of floppy regions. The marginal state of jammed and stress-relieved networks are globally isostatic, while marginal randomly diluted networks show both overconstrained and underconstrained regions. When a single bond is added to or removed from these isostatic systems, jammed networks become globally overconstrained or floppy, whereas the effect on stress-relieved networks is more local and limited. These differences are also reflected in the linear elastic properties and point to the highly effective and unusual role of global self-organization in jammed sphere packings.",
+            "Rigidity Loss in Disordered Systems: Three Scenarios",
+            "Wouter G. Ellenbroek and Varda F. Hagh and Avishek Kumar and M. F. Thorpe and Martin van Hecke",
+            "2014",
+            "RZW3ysYAAAAJ:u-x6o8ySG0sC",
+            61,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.114.135501",
+            "11094943320903971031",
+            "\/scholar?cites=11094943320903971031",
+            {
+                "2015":5,
+                "2016":7,
+                "2017":8,
+                "2018":17,
+                "2019":14,
+                "2020":9,
+                "2021":1
+            }
+        ],
+        [
+            "It is widely assumed that disordered auxetic structures (ie, structures with a negative Poisson's ratio) must contain reentrant polygons in two dimensions (2 D) and reentrant polyhedra in 3 D. Here, we show how to design disordered networks in 2 D with only convex polygons. The design principles used allow for any Poisson's ratio\u2212 1< \u03bd< 1\/3 to be obtained with a prescriptive algorithm. By starting from a Delaunay triangulation with a mean coordination\u2329 z\u232a\u2243 6 and \u03bd\u2243 0.33 and removing those edges that decrease the shear modulus the least, without creating any reentrant polygons, the system evolves monotonically towards the isostatic point with\u2329 z\u232a\u2243 4 and \u03bd\u2243\u2212 1.",
+            "Disordered auxetic networks with no reentrant polygons",
+            "Varda F Hagh and MF Thorpe",
+            "2018",
+            "RZW3ysYAAAAJ:WF5omc3nYNoC",
+            5,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.98.100101",
+            "14505893225000496363",
+            "\/scholar?cites=14505893225000496363",
+            {
+                "2018":1,
+                "2019":3,
+                "2020":1
+            }
+        ],
+        [
+            "Jamming occurs when objects like grains are packed tightly together (e.g. grain silos). It is highly cooperative and can lead to phenomena like earthquakes, traffic jams, etc. In this paper we point out the paramount importance of the underlying contact network for jammed systems; the network must have one contact in excess of isostaticity and a finite bulk modulus. Isostatic means that the number of degrees of freedom is exactly balanced by the number of constraints. This defines a large class of networks that can be constructed without the necessity of packing particles together compressively (either in the lab or computationally). One such construction, which we explore here, involves setting up the Delaunay triangulation of a Poisson disk sampling and then removing edges to maximize the bulk modulus until the isostatic plus one edge is reached. This construction works in any dimensions and here we give results \u2026",
+            "A broader view on jamming: from spring networks to circle packings",
+            "Varda F Hagh and Eric I Corwin and Kenneth Stephenson and MF Thorpe",
+            "2019",
+            "RZW3ysYAAAAJ:ufrVoPGSRksC",
+            4,
+            "https:\/\/pubs.rsc.org\/en\/content\/articlehtml\/2019\/sm\/c8sm01768a",
+            "638084108327546342",
+            "\/scholar?cites=638084108327546342",
+            {
+                "2020":3,
+                "2021":1
+            }
+        ],
+        [
+            "Jamming occurs when objects like grains are packed tightly together (eg grain silos). It is highly cooperative and can lead to phenomena like earthquakes, traffic jams, etc. In this Letter we point out the paramount importance of the underlying contact network for jammed systems; the network must have one contact in excess of isostaticity and a finite bulk modulus. Isostatic means that the number of degrees of freedom are exactly balanced by the number of constraints. This defines a large class of networks that can be constructed without the necessity of packing particles together compressively (either in the lab or computationally). One such construction, which we explore here, involves setting up the Delaunay triangulation of a Poisson disk sampling and then removing edges to maximize the bulk modulus until the isostatic plus one point is reached. This construction works in any dimensions and here we give results in 2D where we also show how such networks can be transformed into a disk pack.",
+            "Jamming in perspective",
+            "Varda F Hagh and Eric I Corwin and Kenneth Stephenson and MF Thorpe",
+            "2018",
+            "RZW3ysYAAAAJ:UeHWp8X0CEIC",
+            3,
+            "https:\/\/arxiv.org\/abs\/1803.03869",
+            "15842343481640377702",
+            "\/scholar?cites=15842343481640377702",
+            {
+                "2018":3
+            }
+        ]
+    ]
+}

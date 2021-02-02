@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "0BMM2QZ5",
+            "RFRua_AAAAAJ",
+            [
+                "Mathematical model for studying genetic variation in terms of restriction endonucleases",
+                "Molecular evolution.",
+                "Statistical tests of neutrality of mutations.",
+                "The codon adaptation index-a measure of directional synonymous codon usage bias, and its potential applications",
+                "Rates of nucleotide substitution vary greatly among plant mitochondrial, chloroplast, and nuclear DNAs",
+                "A new method for estimating synonymous and nonsynonymous rates of nucleotide substitution considering the relative likelihood of nucleotide and codon changes.",
+                "Unbiased estimation of the rates of synonymous and nonsynonymous substitution",
+                "Evidence for higher rates of nucleotide substitution in rodents than in man",
+                "Comparative analysis of the receptor-like kinase family in Arabidopsis and rice",
+                "Role of duplicate genes in genetic robustness against null mutations"
+            ],
+            [
+                "A mathematical model for the evolutionary change of restriction sites in mitochondrial DNA is developed. Formulas based on this model are presented for estimating the number of nucleotide substitutions between two populations or species. To express the degree of polymorphism in a population at the nucleotide level, a measure called \"nucleotide diversity\" is proposed.",
+                "This book presents a synthesis of the developments that have taken place over the last 20 years in the study of evolution evolution Subject Category: Natural Processessee more details at the molecular level. It describes the dynamics of molecular evolution, the driving forces behind the evolutionary process, novel evolutionary phenomena revealed by molecular data, the effects of molecular mechanisms on the structure of genes and genomes, and the statistical analysis of molecular data from an evolutionary perspective. The book is intended for advanced students and researchers in molecular evolution or molecular biology molecular biology Subject Category: Disciplines, Occupations and Industries",
+                "Mutations in the genealogy of the sequences in a random sample from a population can be classified as external and internal. External mutations are mutations that occurred in the external branches and internal mutations are mutations that occurred in the internal branches of the genealogy. Under the assumption of selective neutrality, the expected number of external mutations is equal to theta = 4Ne mu, where Ne is the effective population size and mu is the rate of mutation per gene per generation. Interestingly, this expectation is independent of the sample size. The number of external mutations is likely to deviate from its neutral expectation when there is selection while the number of internal mutations is less affected by the presence of selection. Statistical properties of the numbers of external mutations and of internal mutations are studied and their relationships to two commonly used estimates of theta \u2026",
+                "A simple, effective measure of synonymous codon usage bias, the Codon Adaptation Index, is detailed. The index uses a reference set of highly expressed genes from a species to assess the relative merits of each codon, and a score for a gene is calculated from the frequency of use of all codons in that gene. The index assesses the extent to which selection has been effective in moulding the pattern of codon usage. In that respect it is useful for predicting the level of expression of a gene, for assessing the adaptation of viral genes to their hosts, and for making comparisons of codon usage in different organisms. The index may also give an approximate indication of the likely success of heterologous gene expression.",
+                "Comparison of plant mitochondrial (mt), chloroplast (cp) and nuclear (n) DNA sequences shows that the silent substitution rate in mtDNA is less than one-third that in cpDNA, which in turn evolves only half as fast as plant nDNA. The slower rate in mtDNA than in cpDNA is probably due to a lower mutation rate. Silent substitution rates in plant and mammalian mtDNAs differ by one or two orders of magnitude, whereas the rates in nDNAs may be similar. In cpDNA, the rate of substitution both at synonymous sites and in noncoding sequences in the inverted repeat is greatly reduced in comparison to single-copy sequences. The rate of cpDNA evolution appears to have slowed in some dicot lineages following the monocot\/dicot split, and the slowdown is more conspicuous at nonsynonymous sites than at synonymous sites.",
+                "A new method is proposed for estimating the number of synonymous and nonsynonymous nucleotide substitutions between homologous genes. In this method, a nucleotide site is classified as nondegenerate, twofold degenerate, or fourfold degenerate, depending on how often nucleotide substitutions will result in amino acid replacement; nucleotide changes are classified as either transitional or transversional, and changes between codons are assumed to occur with different probabilities, which are determined by their relative frequencies among more than 3,000 changes in mammalian genes. The method is applied to a large number of mammalian genes. The rate of nonsynonymous substitution is extremely variable among genes; it ranges from 0.004 X 10(-9) (histone H4) to 2.80 X 10(-9) (interferon gamma), with a mean of 0.88 X 10(-9) substitutions per nonsynonymous site per year. The rate of \u2026",
+                "The current convention in estimating the number of substitutions per synonymous site (K  S ) and per nonsynonymous site (K  A ) between two protein-coding genes is to count each twofold degenerate site as one-third synonymous and two-thirds nonsynonymous because one of the three possible changes at such a site is synonymous and the other two are nonsynonymous. This counting rule can considerably overestimate theK  S  value because transitional mutations tend to occur more often than transversional mutations and because most transitional mutations at twofold degenerate sites are synonymous. A new method that gives unbiased estimates is proposed. An application of the new and the old method to 14 pairs of mouse and rat genes shows that the new method gives aK  S  value very close to the number of substitutions \u2026",
+                "When the coding regions of 11 genes from rodents (mouse or rat) and man are compared with those from another mammalian species (usually bovine), it is found that rodents evolve significantly faster than man. The ratio of the number of nucleotide substitutions in the rodent lineage to that in the human lineage since their divergence is 2.0 for synonymous substitutions and 1.3 for nonsynonymous substitutions. Rodents also evolve faster in the 59 and 39 untranslated regions of five different mRNAs; the ratios are 2.6 and 3.1, respectively. The numbers of nucleotide substitutions between members of the beta-globin gene family that were duplicated before the man-mouse split are also higher in mouse than in man. The difference is, again, greater for synonymous substitutions than for nonsynonymous substitutions. This tendency is more consistent with the neutralist view of molecular evolution than with the \u2026",
+                "Receptor-like kinases (RLKs) belong to the large RLK\/Pelle gene family, and it is known that the Arabidopsis thaliana genome contains >600 such members, which play important roles in plant growth, development, and defense responses. Surprisingly, we found that rice (Oryza sativa) has nearly twice as many RLK\/Pelle members as Arabidopsis does, and it is not simply a consequence of a larger predicted gene number in rice. From the inferred phylogeny of all Arabidopsis and rice RLK\/Pelle members, we estimated that the common ancestor of Arabidopsis and rice had >440 RLK\/Pelles and that large-scale expansions of certain RLK\/Pelle members and fusions of novel domains have occurred in both the Arabidopsis and rice lineages since their divergence. In addition, the extracellular domains have higher nonsynonymous substitution rates than the intracellular domains, consistent with the role of extracellular \u2026",
+                "Deleting a gene in an organism often has little phenotypic effect 1, 2, 3, 4, 5, owing to two mechanisms of compensation 4, 5, 6, 7, 8, 9, 10. The first is the existence of duplicate genes: that is, the loss of function in one copy can be compensated by the other copy or copies. The second mechanism of compensation stems from alternative metabolic pathways, regulatory networks, and so on. The relative importance of the two mechanisms has not been investigated except for a limited study, which suggested that the role of duplicate genes in compensation is negligible 10. The availability of fitness data for a nearly complete set of single-gene-deletion mutants of the Saccharomyces cerevisiae genome 11 has enabled us to carry out a genome-wide evaluation of the role of duplicate genes in genetic robustness against null mutations. Here we show that there is a significantly higher probability of functional compensation \u2026"
+            ],
+            [
+                [
+                    "Evolution",
+                    "Genetics",
+                    "Genomics",
+                    "Bioinformatics"
+                ]
+            ]
+        ]
+    ]
+}

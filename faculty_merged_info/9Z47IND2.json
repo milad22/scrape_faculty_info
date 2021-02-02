@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "9Z47IND2",
+            "zKCmZLoAAAAJ",
+            [
+                "Dft: A theory full of holes?",
+                "Exact and approximate Kohn-Sham potentials in ensemble density-functional theory",
+                "Thermal density functional theory: Time-dependent linear response and approximate functionals from the fluctuation-dissipation theorem",
+                "Excitations and benchmark ensemble density functional theory for two electrons",
+                "Thermal density functional theory in context",
+                "Direct extraction of excitation energies from ensemble density-functional theory",
+                "Adiabatic release measurements in aluminum between 400 and 1200 GPa: Characterization of aluminum as a shock standard in the multimegabar regime",
+                "Exact conditions on the temperature dependence of density functionals"
+            ],
+            [
+                "This article is a rough, quirky overview of both the history and present state of the art of density functional theory. The field is so huge that no attempt to be comprehensive is made. We focus on the underlying exact theory, the origin of approximations, and the tension between empirical and nonempirical approaches. Many ideas are illustrated on the exchange energy and hole. Features unique to this article include how approximations can be systematically derived in a nonempirical fashion and a survey of warm dense matter.",
+                "We construct exact Kohn-Sham potentials for the ensemble density-functional theory (EDFT) from the ground and excited states of helium. The exchange-correlation (XC) potential is compared with the quasi-local-density approximation and both single-determinant and symmetry-eigenstate ghost-corrected exact exchange approximations. Symmetry-eigenstate Hartree exchange recovers distinctive features of the exact XC potential and is used to calculate the correlation potential. Unlike the exact case, excitation energies calculated from these approximations depend on ensemble weight, and it is shown that only the symmetry-eigenstate method produces an ensemble derivative discontinuity. Differences in asymptotic and near-ground-state behavior of exact and approximate XC potentials are discussed in the context of producing accurate optical gaps.",
+                "The van Leeuwen proof of linear-response time-dependent density functional theory (TDDFT) is generalized to thermal ensembles. This allows generalization to finite temperatures of the Gross-Kohn relation, the exchange-correlation kernel of TDDFT, and fluctuation dissipation theorem for DFT. This produces a natural method for generating new thermal exchange-correlation approximations.",
+                "A new method for extracting ensemble Kohn-Sham potentials from accurate excited state densities is applied to a variety of two-electron systems, exploring the behavior of exact ensemble density functional theory. The issue of separating the Hartree energy and the choice of degenerate eigenstates is explored. A new approximation, spin eigenstate Hartree-exchange, is derived. Exact conditions that are proven include the signs of the correlation energy components and the asymptotic behavior of the potential for small weights of the excited states. Many energy components are given as a function of the weights for two electrons in a one-dimensional flat box, in a box with a large barrier to create charge transfer excitations, in a three-dimensional harmonic well (Hooke's atom), and for the He atom singlet-triplet ensemble, singlet-triplet-singlet ensemble, and triplet bi-ensemble.",
+                "This chapter introduces thermal density functional theory, starting from the ground-state theory and assuming a background in quantum mechanics and statistical mechanics. We review the foundations of density functional theory (DFT) by illustrating some of its key reformulations. The basics of DFT for thermal ensembles are explained in this context, as are tools useful for analysis and development of approximations. This review emphasizes thermal DFT\u2019s strengths as a consistent and general framework.",
+                "A very specific ensemble of ground and excited states is shown to yield an exact formula for any excitation energy as a simple correction to the energy difference between orbitals of the Kohn-Sham ground state. This alternative scheme avoids either the need to calculate many unoccupied levels as in time-dependent density functional theory (TDDFT) or the need for many self-consistent ensemble calculations. The symmetry-eigenstate Hartree-exchange (SEHX) approximation yields results comparable to standard TDDFT for atoms. With this formalism, SEHX yields approximate double excitations, which are missed by adiabatic TDDFT.",
+                "Aluminum has been used prolifically as an impedance matching standard in the multimegabar regime (1 Mbar= 100 GPa), particularly in nuclear driven, early laser driven, and early magnetically driven flyer plate experiments. The accuracy of these impedance matching measurements depends upon the knowledge of both the Hugoniot and release or reshock response of aluminum. Here, we present the results of several adiabatic release measurements of aluminum from\u223c 400\u20131200 GPa states along the principal Hugoniot using full density polymethylpentene (commonly known as TPX), and both\u223c 190 and\u223c 110 mg\/cc silica aerogel standards. These data were analyzed within the framework of a simple, analytical model that was motivated by a first-principles molecular dynamics investigation into the release response of aluminum, as well as by a survey of the release response determined from several tabular \u2026",
+                "Universal exact conditions guided the construction of most ground-state density functional approximations in use today. We derive the relation between the entropy and Mermin free energy density functionals for thermal density functional theory. Both the entropy and sum of kinetic and electron-electron repulsion functionals are shown to be monotonically increasing with temperature, while the Mermin functional is concave downwards. Analogous relations are found for both exchange and correlation. The importance of these conditions is illustrated in two extremes: the Hubbard dimer and the uniform gas."
+            ],
+            [
+                [
+                    "density functional theory",
+                    "chemical physics",
+                    "physical chemistry",
+                    "warm dense matter",
+                    "mathematical physics"
+                ]
+            ]
+        ]
+    ]
+}

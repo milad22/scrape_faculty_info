@@ -1,0 +1,192 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "We present an impedance engineered Josephson parametric amplifier capable of providing bandwidth beyond the traditional gain-bandwidth product. We achieve this by introducing a positive linear slope in the imaginary component of the input impedance seen by the Josephson oscillator using a \u03bb\/2 transformer. Our theoretical model predicts an extremely flat gain profile with a bandwidth enhancement proportional to the square root of amplitude gain. We experimentally demonstrate a nearly flat 20\u2009dB gain over a 640\u2009MHz band, along with a mean 1-dB compression point of \u2212110 dBm and near quantum-limited noise. The results are in a good agreement with our theoretical model.",
+            "Broadband parametric amplification with impedance engineering: Beyond the gain-bandwidth product",
+            "Tanay Roy and Suman Kundu and Madhavi Chand and AM Vadiraj and A Ranadive and N Nehra and Meghan P Patankar and J Aumentado and AA Clerk and R Vijay",
+            "2015",
+            "a9z_N4UAAAAJ:9yKSN-GCB0IC",
+            92,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.4939148",
+            "11010659595258114554",
+            "\/scholar?cites=11010659595258114554",
+            {
+                "2014":1,
+                "2015":5,
+                "2016":13,
+                "2017":19,
+                "2018":32,
+                "2019":18,
+                "2020":3
+            }
+        ],
+        [
+            "We present the \u201ctrimon,\u201d a multimode superconducting circuit implementing three qubits with all-to-all longitudinal coupling. This always-on interaction enables simple implementation of generalized controlled-not gates which form a universal set. Furthermore, two of the three qubits are protected against Purcell decay while retaining measurability. We demonstrate high-fidelity state swapping operations between two qubits and characterize the coupling of all three qubits to a neighboring transmon qubit. Our results offer a different paradigm for multiqubit architecture with applications in quantum error correction, quantum simulations, and quantum annealing.",
+            "Implementation of pairwise longitudinal coupling in a three-qubit superconducting circuit",
+            "Tanay Roy and Suman Kundu and Madhavi Chand and Sumeru Hazra and N Nehra and R Cosmic and A Ranadive and Meghan P Patankar and Kedar Damle and R Vijay",
+            "2017",
+            "a9z_N4UAAAAJ:zYLM7Y9cAGgC",
+            27,
+            "https:\/\/journals.aps.org\/prapplied\/abstract\/10.1103\/PhysRevApplied.7.054025",
+            "12737731470962330374",
+            "\/scholar?cites=12737731470962330374",
+            {
+                "2017":2,
+                "2018":6,
+                "2019":9,
+                "2020":10
+            }
+        ],
+        [
+            "Wave-particle complementarity lies at the heart of quantum mechanics. To illustrate this mysterious feature, Wheeler proposed the delayed-choice experiment, where a quantum system manifests the wave- or particle-like attribute, depending on the experimental arrangement, which is made after the system has entered the interferometer. In recent quantum delayed-choice experiments, these two complementary behaviors were simultaneously observed with a quantum interferometer in a superposition of being closed and open. We suggest and implement a conceptually different quantum delayed-choice experiment by introducing a which-path detector (WPD) that can simultaneously record and neglect the system\u2019s path information, but where the interferometer itself is classical. Our experiment is realized with a superconducting circuit, where a cavity acts as the WPD for an interfering qubit. Using this setup, we \u2026",
+            "A twofold quantum delayed-choice experiment in a superconducting circuit",
+            "Ke Liu and Yuan Xu and Weiting Wang and Shi-Biao Zheng and Tanay Roy and Suman Kundu and Madhavi Chand and Arpit Ranadive and Rajamani Vijay and Yipu Song and Luming Duan and Luyan Sun",
+            "2017",
+            "a9z_N4UAAAAJ:IjCSPb-OGe4C",
+            19,
+            "https:\/\/advances.sciencemag.org\/content\/3\/5\/e1603159.short",
+            "11238765650614654912",
+            "\/scholar?cites=11238765650614654912",
+            {
+                "2017":2,
+                "2018":7,
+                "2019":5,
+                "2020":5
+            }
+        ],
+        [
+            "We propose and demonstrate a frequency-multiplexed readout scheme in 3D circuit-quantum electrodynamics (cQED) architecture. We use four transmon qubits coupled to individual rectangular cavities which are aperture-coupled to a common rectangular waveguide feedline. A coaxial to waveguide transformer at the other end of the feedline allows one to launch and collect the multiplexed signal. The reflected readout signal is amplified by an impedance-engineered broadband parametric amplifier with 380\u2009MHz bandwidth. This provides us high fidelity single-shot readout of multiple qubits using compact microwave circuitry, an efficient way for scaling up to more qubits in 3D cQED.",
+            "Multiplexed readout of four qubits in 3D circuit QED architecture using a broadband Josephson parametric amplifier",
+            "Suman Kundu and Nicolas Gheeraert and Sumeru Hazra and Tanay Roy and Kishor V Salunkhe and Meghan P Patankar and R Vijay",
+            "2019",
+            "a9z_N4UAAAAJ:8k81kl-MbHgC",
+            10,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.5089729",
+            "17699389233535188727",
+            "\/scholar?cites=17699389233535188727",
+            {
+                "2020":9,
+                "2021":1
+            }
+        ],
+        [
+            "Interqubit coupling and qubit connectivity in a processor are crucial for achieving high-fidelity multiqubit gates and efficient implementation of quantum algorithms. Typical superconducting processors employ relatively weak transverse interqubit coupling which is activated via frequency tuning or microwave drives. Here, we propose a class of multimode superconducting circuits which realize multiple transmon qubits with all-to-all longitudinal coupling. These \u201cartificial molecules\u201d directly implement a multidimensional Hilbert space that can be easily manipulated due to the always-on longitudinal coupling. We describe the basic technique to analyze such circuits, compute the relevant properties, and discuss how to optimize them to create efficient small-scale quantum processors with universal programmability.",
+            "Multimode superconducting circuits for realizing strongly coupled multiqubit processor units",
+            "Tanay Roy and Madhavi Chand and Anirban Bhattacharjee and Sumeru Hazra and Suman Kundu and Kedar Damle and R Vijay",
+            "2018",
+            "a9z_N4UAAAAJ:ufrVoPGSRksC",
+            7,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.98.052318",
+            "2892045244268653966",
+            "\/scholar?cites=2892045244268653966",
+            {
+                "2019":2,
+                "2020":5
+            }
+        ],
+        [
+            "We consider the Sel\u2019kov model of glycolytic oscillator for a quantitative study of the limit cycle oscillations in the system. We identify a region of parameter space where perturbation theory holds and use both Linstedt Poincar\u00e9 technique and harmonic balance to obtain the shape and frequency of the limit cycle. The agreement with the numerically obtained result is excellent. We also find a different extreme, where the limit cycle is of the relaxation oscillator variety, has a large time period and it is seen that, as a particular parameter in the model is varied, the time period increases indefinitely. We characterize this divergence numerically. A calculational method is devised to capture the divergence approximately.",
+            "Periodic orbits in glycolytic oscillators: From elliptic orbits to relaxation oscillations",
+            "T Roy and JK Bhattacharjee and AK Mallik",
+            "2011",
+            "a9z_N4UAAAAJ:u5HHmVD_uO8C",
+            7,
+            "https:\/\/link.springer.com\/article\/10.1140\/epje\/i2011-11019-6",
+            "9274079535182808935",
+            "\/scholar?cites=9274079535182808935",
+            {
+                "2011":1,
+                "2012":1,
+                "2013":2,
+                "2014":1,
+                "2015":1,
+                "2016":1
+            }
+        ],
+        [
+            "The method of generating Pythagorean triples is known for about 2000 years. Though the classical formulas produce all primitive triples they do not generate all possible triples, especially non-primitive triples. This paper presents a direct method to generate all possible triples both primitive and non-primitive for any given number. Then the technique is generalized to produce Pythagorean Quadruples and n-tuples. Our method utilizes the fact that the difference between lengths of the hypotenuse and one leg of a Pythagorean triangle can have only certain distinct values depending on the length of the other which remains true for higher tuples also.",
+            "A direct method to generate Pythagorean triples and its generalization to Pythagorean quadruples and n-tuples",
+            "Tanay Roy and Farjana Jaishmin Sonia",
+            "2012",
+            "a9z_N4UAAAAJ:Tyk-4Ss8FVUC",
+            6,
+            "https:\/\/arxiv.org\/abs\/1201.2145",
+            "9081526308131954559",
+            "\/scholar?cites=9081526308131954559",
+            {
+                "2016":1,
+                "2017":2,
+                "2018":1,
+                "2019":1,
+                "2020":1
+            }
+        ],
+        [
+            "Superconducting circuits are at the forefront of quantum computing technology because of the unparalleled combination of good coherence, fast gates and flexibility in design parameters. The majority of experiments demonstrating small quantum algorithms in the superconducting architecture have used transmon qubits and transverse qubit-qubit coupling. However, efficient universal digital computing has remained a challenge due to the fact that majority of the state-of-art architectures rely on nearest-neighbor coupling in one or two dimensions. The limited connectivity and the availability of only two-qubit entangling gates result in inefficient implementation of algorithms with reduced fidelity. In this work, we present a programmable three-qubit processor, nicknamed\" trimon\", with strong all-to-all coupling and access to native three-qubit gates. We implement three-qubit version of various algorithms, namely Deutsch-Jozsa, Bernstein-Vazirani, Grover's search and the quantum Fourier transform, to demonstrate the performance of our processor. Our results show the potential of the trimon as a building block for larger systems with enhanced qubit-qubit connectivity.",
+            "A programmable three-qubit superconducting processor with all-to-all connectivity",
+            "Tanay Roy and Sumeru Hazra and Suman Kundu and Madhavi Chand and Meghan P Patankar and R Vijay",
+            "2018",
+            "a9z_N4UAAAAJ:MXK_kJrjxJIC",
+            5,
+            "https:\/\/arxiv.org\/abs\/1809.00668",
+            "17940826312676612753",
+            "\/scholar?cites=17940826312676612753",
+            {
+                "2019":2,
+                "2020":2
+            }
+        ],
+        [
+            "The heavy-fluxonium circuit is a promising building block for superconducting quantum processors due to its long relaxation and dephasing time at the flux-frustration point. However, the suppressed charge matrix elements and low transition frequency make it challenging to perform fast single-qubit gates using standard protocols. We report on new protocols for reset, fast coherent control, and readout that allow high-quality operation of the qubit with a 14 MHz transition frequency, an order of magnitude lower in energy than the ambient thermal energy scale. We utilize higher levels of the fluxonium to read out the qubit state and to initialize the qubit with 97% fidelity corresponding to cooling it to 190 \u03bc K. Instead of using standard microwave pulses, we control the qubit only with fast-flux pulses, generating control fields much larger than the qubit frequency. We develop a universal set of gates based on nonadiabatic \u2026",
+            "Universal Fast-Flux Control of a Coherent, Low-Frequency Qubit",
+            "Helin Zhang and Srivatsan Chakram and Tanay Roy and Nathan Earnest and Yao Lu and Ziwen Huang and DK Weiss and Jens Koch and David I Schuster",
+            "2021",
+            "a9z_N4UAAAAJ:ULOm3_A8WrAC",
+            4,
+            "https:\/\/journals.aps.org\/prx\/abstract\/10.1103\/PhysRevX.11.011010",
+            "16243112009970221958",
+            "\/scholar?cites=16243112009970221958",
+            {
+                "2020":4
+            }
+        ],
+        [
+            "The existing scalable superconducting quantum processors have only nearest-neighbor coupling. This leads to a reduced circuit depth, requiring a large series of gates to perform an arbitrary unitary operation in such systems. Recently, multi-modal devices have been demonstrated as a promising candidate for small quantum processor units. Always on longitudinal coupling in such circuits leads to implementation of native high fidelity multi-qubit gates. We propose an architecture using such devices as building blocks for a highly connected larger quantum circuit. To demonstrate a quantum operation between such blocks, a standard transmon is coupled to the multi-modal circuit using a 3D bus cavity giving rise to small exchange interaction between the transmon and one of the modes. We study the cross-resonance interaction in such systems and characterize the entangling operation and the unitary \u2026",
+            "Engineering cross resonance interaction in multi-modal quantum circuits",
+            "Sumeru Hazra and Kishor V Salunkhe and Anirban Bhattacharjee and Gaurav Bothara and Suman Kundu and Tanay Roy and Meghan P Patankar and R Vijay",
+            "2020",
+            "a9z_N4UAAAAJ:kNdYIx-mwKoC",
+            4,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.5143440",
+            "17283381115169637587",
+            "\/scholar?cites=17283381115169637587",
+            {
+                "2020":4
+            }
+        ]
+    ]
+}

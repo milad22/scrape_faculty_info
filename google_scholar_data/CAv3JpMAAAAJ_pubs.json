@@ -1,0 +1,194 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Multiple kernel clustering (MKC), which performs kernel-based data fusion for data clustering, is an emerging topic. It aims at solving clustering problems with multiple cues. Most MKC methods usually extend existing clustering methods with a multiple kernel learning (MKL) setting. In this paper, we propose a novel MKC method that is different from those popular approaches. Centered kernel alignment\u2014an effective kernel evaluation measure\u2014is employed in order to unify the two tasks of clustering and MKL into a single optimization framework. To solve the formulated optimization problem, an efficient two-step iterative algorithm is developed. Experiments on several UCI datasets and face image datasets validate the effectiveness and efficiency of our MKC algorithm.",
+            "Multiple kernel clustering based on centered kernel alignment",
+            "Yanting Lu and Liantao Wang and Jianfeng Lu and Jingyu Yang and Chunhua Shen",
+            "2014",
+            "CAv3JpMAAAAJ:u-x6o8ySG0sC",
+            64,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0031320314001903",
+            "16841734124488346974",
+            "\/scholar?cites=16841734124488346974",
+            {
+                "2014":2,
+                "2015":7,
+                "2016":9,
+                "2017":6,
+                "2018":11,
+                "2019":13,
+                "2020":16
+            }
+        ],
+        [
+            "Active learning has received great interests from researchers due to its ability to reduce the amount of supervision required for effective learning. As the core component of active learning algorithms, query synthesis and pool-based sampling are two main scenarios of querying considered in the literature. Query synthesis features low querying time, but only has limited applications as the synthesized query might be unrecognizable to human oracle. As a result, most efforts have focused on pool-based sampling in recent years, although it is much more time-consuming. In this paper, we propose new strategies for a novel querying framework that combines query synthesis and pool-based sampling. It overcomes the limitation of query synthesis, and has the advantage of fast querying. The basic idea is to synthesize an instance close to the decision boundary using labelled data, and then select the real instance closest \u2026",
+            "Active learning via query synthesis and nearest neighbour search",
+            "Liantao Wang and Xuelei Hu and Bo Yuan and Jianfeng Lu",
+            "2015",
+            "CAv3JpMAAAAJ:d1gkVwhDpl0C",
+            27,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0925231214008145",
+            "5104300657855677099",
+            "\/scholar?cites=5104300657855677099",
+            {
+                "2015":1,
+                "2016":1,
+                "2017":3,
+                "2018":8,
+                "2019":5,
+                "2020":9
+            }
+        ],
+        [
+            "Visual learning problems, such as object classification and action recognition, are typically approached using extensions of the popular bag-of-words (BoWs) model. Despite its great success, it is unclear what visual features the BoW model is learning. Which regions in the image or video are used to discriminate among classes? Which are the most discriminative visual words? Answering these questions is fundamental for understanding existing BoW models and inspiring better models for visual recognition. To answer these questions, this paper presents a method for feature selection and region selection in the visual BoW model. This allows for an intermediate visualization of the features and regions that are important for visual learning. The main idea is to assign latent weights to the features or regions, and jointly optimize these latent variables with the parameters of a classifier (e.g., support vector machine \u2026",
+            "Feature and region selection for visual learning",
+            "Ji Zhao and Liantao Wang and Ricardo Cabral and Fernando De la Torre",
+            "2016",
+            "CAv3JpMAAAAJ:2osOgNQ5qMEC",
+            19,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7372445\/",
+            "16108010697745512013",
+            "\/scholar?cites=16108010697745512013",
+            {
+                "2015":2,
+                "2016":6,
+                "2017":3,
+                "2018":8
+            }
+        ],
+        [
+            "In this paper, we aim at irregular-shape object localization under weak supervision. With over-segmentation, this task can be transformed into multiple-instance context. However, most multiple-instance learning methods only emphasize single most positive instance in a positive bag to optimize bag-level classification, and leads to imprecise or incomplete localization. To address this issue, we propose a scheme for instance annotation, where all of the positive instances are detected by labeling each instance in each positive bag. Inspired by the successful application of bag-of-words (BoW) to feature representation, we leverage it at instance-level to model the distributions of the positive class and negative class, and then incorporate the BoW learning and instance labeling in a single optimization formulation. We also demonstrate that the scheme is well suited to weakly supervised object localization of irregular \u2026",
+            "Instance annotation via optimal bow for weakly supervised object localization",
+            "Liantao Wang and Deyu Meng and Xuelei Hu and Jianfeng Lu and Ji Zhao",
+            "2017",
+            "CAv3JpMAAAAJ:IjCSPb-OGe4C",
+            10,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7829346\/",
+            "1026620416272534972",
+            "\/scholar?cites=1026620416272534972",
+            {
+                "2018":3,
+                "2019":4,
+                "2020":3
+            }
+        ],
+        [
+            "How to build a compact and informative training data set autonomously is crucial for many real-world learning tasks, especially those with large amount of unlabeled data and high cost of labeling. Active learning aims to address this problem by asking queries in a smart way. Two main scenarios of querying considered in the literature are query synthesis and pool-based sampling. Since in many cases synthesized queries are meaningless or difficult for human to label, more efforts have been devoted to pool-based sampling in recent years. However, in pool-based active learning, querying requires evaluating every unlabeled data point in the pool, which is usually very time-consuming. By contrast, query synthesis has clear advantage on querying time, which is independent of the pool size. In this paper, we propose a novel framework combining query synthesis and pool-based sampling to accelerate the learning \u2026",
+            "Querying representative points from a pool based on synthesized queries",
+            "Xuelei Hu and Liantao Wang and Bo Yuan",
+            "2012",
+            "CAv3JpMAAAAJ:u5HHmVD_uO8C",
+            9,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6252607\/",
+            "18035808301297828384",
+            "\/scholar?cites=18035808301297828384",
+            {
+                "2013":1,
+                "2014":3,
+                "2015":2,
+                "2016":2,
+                "2017":1
+            }
+        ],
+        [
+            "In this paper, we investigate the problem of weakly supervised object localization in images. For such a problem, the goal is to predict the locations of objects in test images while the labels of the training images are given at image-level. That means a label only indicates whether an image contains objects or not, but does not provide the exact locations of the objects. We propose to address this problem using Maximal Entropy Random Walk (MERW). Specifically, we first train a linear SVM classifier with the weakly labeled data. Based on bag-of-words feature representation, the response of a region to the linear SVM classifier can be formulated as the sum of the feature-weights within the region. For a test image, by properly constructing a graph on the feature-points, the stationary distribution of a MERW can indicate the region with the densest positive feature-weights, and thus provides a probabilistic object \u2026",
+            "Weakly supervised object localization via maximal entropy random walk",
+            "Liantao Wang and Ji Zhao and Xuelei Hu and Jianfeng Lu",
+            "2014",
+            "CAv3JpMAAAAJ:9yKSN-GCB0IC",
+            6,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7025323\/",
+            "4216399023404360968",
+            "\/scholar?cites=4216399023404360968",
+            {
+                "2017":2,
+                "2018":2,
+                "2019":2
+            }
+        ],
+        [
+            "Temporal structure has attracted lots of research interests due to its ability to model complex pattern for effective action recognition. Most existing methods exploit temporal structure only in a fixed scale or implicit multiple scales. Although recently some methods attempt towards exploiting the temporal structure and relationship by using the durations of action primitives, they cannot effectively conduct the action recognition and discriminative segments discovery simultaneously. In this paper, we propose a novel action recognition method, named Latent Duration Model (LDM), which is a temporal variant of Deformable Part Model (DPM) with explicit durations and temporal ordering constraints. Three types of latent variables are introduced into LDM. Latent duration variables are used to accommodate intra-class temporal scale variation. Latent location variables and latent representation variables are utilized to help \u2026",
+            "Action recognition by Latent Duration Model",
+            "Tingwei Wang and Chuancai Liu and Liantao Wang",
+            "2018",
+            "CAv3JpMAAAAJ:Tyk-4Ss8FVUC",
+            4,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0925231217313772",
+            "11954042288336510750",
+            "\/scholar?cites=11954042288336510750",
+            {
+                "2017":1,
+                "2018":1,
+                "2019":2
+            }
+        ],
+        [
+            "Arbitrary-shape is argued more precise than bounding-box for object detection. However, an arbitrary-shape detector usually requires pixel-level human annotation, which is very expensive and hardly afforded for any real-world application. On the other hand, bounding-box is much easier than pixel-wise segmentation in human labeling. In this paper we aim to realize the arbitrary-shape detection from bounding-box human annotation. To this end, we propose location positiveness, which encodes the information of bounding-box annotation to help obtain region annotation. In addition, we propose two graph-based methods to embed the location positiveness, which enable more accurate model trained from simpler annotation. Experimental results validate the performance of our method.",
+            "Learning arbitrary-shape object detector from bounding-box annotation by searching region-graph",
+            "Liantao Wang and Jianfeng Lu and Xiangyu Li and Zhan Huan and Jiuzhen Liang and Shuyue Chen",
+            "2017",
+            "CAv3JpMAAAAJ:zYLM7Y9cAGgC",
+            4,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0167865516301556",
+            "2285636570962106077",
+            "\/scholar?cites=2285636570962106077",
+            {
+                "2018":1,
+                "2019":2,
+                "2020":1
+            }
+        ],
+        [
+            "Automatic object annotation for weakly labelled images\/videos has attracted great research interests. In the literature, the idea of negative mining has been proposed for the task. Following existing works, the authors start with image\/video over-segmentation. With the assumption that the noisy segments in the concept images and the strongly labelled non-concept segments are drawn from the same distribution, the authors plan to estimate the non-concept distribution and apply it to the ambiguous segments to generate a concept ranking. Although this idea was proposed in existing work and was shown ineffective when combined with a naive kernel density estimation strategy, in this study, the authors explore improved density estimation techniques for the ranking and propose a kernel regression model whose parameters are estimated by a maximum likelihood estimation. Experimental results validate the \u2026",
+            "Non-concept density estimation via kernel regression for concept ranking in weakly labelled data",
+            "Liantao Wang and Qingwu Li and Jianfeng Lu and Qiong Wang",
+            "2017",
+            "CAv3JpMAAAAJ:Y0pCki6q_DkC",
+            2,
+            "https:\/\/digital-library.theiet.org\/content\/journals\/10.1049\/iet-cvi.2017.0036",
+            "14155446897452470529",
+            "\/scholar?cites=14155446897452470529",
+            {
+                "2019":2
+            }
+        ],
+        [
+            "In this paper, we address the problem of weakly supervised object localization using region weighting. For a weakly labelled image\/video, the inside regions have different relevance to its semantic label. We first over-segment an image\/video to get super-pixel\/voxel regions, and assign each region with a latent weight to represent its support to the semantic label, then regress the weights to right values by optimizing the classification according to the weak labels. We adopt logistic regression as our base model due to its good performance in multiple-instance setting. The latent region weights are incorporated into the objective function as an interpretation of region combination at feature-level. The weights and the model parameters are optimized in an alternate manner. With the updates of the weights, the model is trained on the semantic regions independently of the background, therefore the learned model is \u2026",
+            "Logistic regression region weighting for weakly supervised object localization",
+            "Liantao Wang and Tingwei Wang and Xuelei Hu",
+            "2019",
+            "CAv3JpMAAAAJ:LkGwnXOMwfcC",
+            1,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/8795539\/",
+            "4505551866990690859",
+            "\/scholar?cites=4505551866990690859",
+            {
+                "2020":1
+            }
+        ]
+    ]
+}

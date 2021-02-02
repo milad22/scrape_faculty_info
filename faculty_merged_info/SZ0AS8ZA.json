@@ -1,0 +1,45 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "SZ0AS8ZA",
+            "ujPqZCAAAAAJ",
+            [
+                "Theory of cosmological perturbations",
+                "Power spectrum analysis of three-dimensional redshift surveys",
+                "Consistently large cosmic flows on scales of 100 h\u22121 Mpc: a challenge for the standard \u039bCDM cosmology",
+                "The Aspen\u2013Amsterdam void finder comparison project",
+                "Cosmic flows in the nearby universe from Type Ia Supernovae",
+                "Cosmic flows on 100 h\u22121 Mpc scales: standardized minimum variance bulk flow, shear and octupole moments",
+                "The Bispectrum of IRAS redshift catalogs",
+                "Constraints on Galaxy Bias, Matter Density, and Primordial Non-Gaussianity from the PSC z Galaxy Redshift Survey"
+            ],
+            [
+                "We present in a manifestly gauge-invariant form the theory of classical linear gravitational perturbations in part I, and a quantum theory of cosmological perturbations in part II. Part I includes applications to several important examples arising in cosmology: a univese dominated by hydrodynamical matter, a universe filled with scalar-field matter, and higher-derivative theories of gravity. The growth rates of perturbations are calculated analytically in most interesting cases. The analysis is applied to study the evolution of fluctuations in inflationary universe models. Part II includes a unified description of the quantum generation and evolution of inhomogeneities about a classial Friedmann background. The method is based on standard canonical quantization of the action for cosmological perturbations which has been reduced to an expression in terms of a single gauge-invariant variable. The spectrum of density \u2026",
+                "We develop a general method for power spectrum analysis of three dimensional redshift surveys. We present rigorous analytical estimates for the statistical uncertainty in the power and we are able to derive a rigorous optimal weighting scheme under the reasonable (and largely empirically verified) assumption that the long wavelength Fourier components are Gaussian distributed. We apply the formalism to the updated 1-in-6 QDOT IRAS redshift survey, and compare our results to data from other probes: APM angular correlations; the CfA and the Berkeley 1.2 Jy IRAS redshift surveys. Our results bear out and further quantify the impression from eg\\counts-in-cells analysis that there is extra power on large scales as compared to the standard CDM model with . We apply likelihood analysis using the CDM spectrum with  as a free parameter as a phenomenological family of models; we find the best fitting parameters in redshift space and transform the results to real space. Finally, we calculate the distribution of the estimated long wavelength power. This agrees remarkably well with the exponential distribution expected for Gaussian fluctuations, even out to powers of ten times the mean. Our results thus reveal no trace of periodicity or other non-Gaussian behavior.",
+                "The bulk flow, i.e. the dipole moment of the peculiar velocity field, is a sensitive probe of matter density fluctuations on very large scales. However, the peculiar velocity surveys for which the bulk flow has been calculated have non-uniform spatial distributions of tracers, so that the bulk flow estimated does not correspond to that of a simple volume such as a sphere. Thus bulk flow estimates are generally not strictly comparable between surveys, even those whose effective depths are similar. In addition, the sparseness of typical surveys can lead to aliasing of small-scale power into what is meant to be a probe of the largest scales. Here we introduce a new method of calculating bulk flow moments where velocities are weighted to give an optimal estimate of the bulk flow of an idealized survey, with the variance of the difference between the estimate and the actual flow being minimized. These \u2018minimum variance \u2026",
+                "Despite a history that dates back at least a quarter of a century, studies of voids in the large-scale structure of the Universe are bedevilled by a major problem: there exist a large number of quite different void-finding algorithms, a fact that has so far got in the way of groups comparing their results without worrying about whether such a comparison in fact makes sense. Because of the recent increased interest in voids, both in very large galaxy surveys and in detailed simulations of cosmic structure formation, this situation is very unfortunate. We here present the first systematic comparison study of 13 different void finders constructed using particles, haloes, and semi-analytical model galaxies extracted from a subvolume of the Millennium simulation. This study includes many groups that have studied voids over the past decade. We show their results and discuss their differences and agreements. As it turns out, the \u2026",
+                "Peculiar velocities are one of the only probes of very large scale mass density fluctuations in the nearby Universe. We present new \u2018minimal variance\u2019 bulk flow measurements based upon the \u2018First Amendment\u2019 compilation of 245 Type Ia supernovae (SNe) peculiar velocities and find a bulk flow of 249 \u00b1 76\u2003km\u2003s\u22121 in the direction l= 319\u00b0\u00b1 18\u00b0, b= 7\u00b0\u00b1 14\u00b0. The SNe bulk flow is consistent with the expectations of \u039b cold dark matter (\u039bCDM). However, it is also marginally consistent with the bulk flow of a larger compilation of non-SNe peculiar velocities. By comparing the SNe peculiar velocities to predictions of the IRAS Point Source Catalogue Redshift Survey (PSCz) galaxy density field, we find \u03a90.55m\u03c38,lin= 0.40 \u00b1 0.07, which is in agreement with \u039bCDM. However, we also show that the PSCz density field fails to account for 150 \u00b1 43\u2003km\u2003s\u22121 of the SNe bulk motion.",
+                "The low-order moments, such as the bulk flow and shear, of the large-scale peculiar velocity field are sensitive probes of the matter density fluctuations on very large scales. In practice, however, peculiar velocity surveys are usually sparse and noisy, which can lead to the aliasing of small-scale power into what is meant to be a probe of the largest scales. Previously, we developed an optimal \u2018minimum variance\u2019 (MV) weighting scheme, designed to overcome this problem by minimizing the difference between the measured bulk flow (BF) and that which would be measured by an ideal survey. Here we extend this MV analysis to include the shear and octupole moments, which are designed to have almost no correlations between them so that they are virtually orthogonal. We apply this MV analysis to a compilation of all major peculiar velocity surveys, consisting of 4536 measurements. Our estimate of the BF on \u2026",
+                "We compute the bispectrum for the galaxy distribution in the IRAS QDOT, 2 Jy, and 1.2 Jy redshift catalogs for wavenumbers   and compare the results with predictions from gravitational instability in perturbation theory. Taking into account redshift\u2010space distortions, nonlinear evolution, the survey selection function, and discreteness and finite\u2010volume effects, all three catalogs show evidence for the dependence of the bispectrum on the configuration shape predicted by gravitational instability. Assuming Gaussian initial conditions and local biasing parameterized by linear and nonlinear bias parameters   and  , a likelihood analysis yields  ,   and  , \u2212  for the 2 and 1.2 Jy samples, respectively. This implies that IRAS galaxies trace dark matter increasingly weakly as the density contrast increases, consistent with their being underrepresented in clusters. In a model with   non\u2010Gaussian initial conditions, the bispectrum \u2026",
+                "We compute the bispectrum for the IRAS PSC z catalog and find that the galaxy distribution displays the characteristic signature of gravity. Assuming Gaussian initial conditions, we obtain galaxy biasing parameters 1\/b 1= 1.20\u2212 0.19+ 0.18 and b 2\/b 1 2=\u2212 0.42\u00b10.19, with no sign of scale-dependent bias for k\u2264 0. 3 h Mpc\u2212 1. These results impose stringent constraints on non-Gaussian initial conditions. For dimensional scaling models with \u03c7 N 2 statistics, we find N> 49, which implies a constraint on primordial skewness B 3< 0.35."
+            ],
+            [
+                [
+                    "Cosmology",
+                    "Large-Scale-Structure of the Universe",
+                    "Astrophysics"
+                ]
+            ]
+        ]
+    ]
+}

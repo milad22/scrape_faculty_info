@@ -1,0 +1,103 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "yqDTqW8AAAAJ",
+            "Dervis Can Vural",
+            "Physics, University of Notre Dame",
+            "@nd.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=yqDTqW8AAAAJ",
+            216,
+            [
+                "Statistical Mechanics",
+                "Evolutionary Biology",
+                "Ecology",
+                "Soft Matter"
+            ],
+            163,
+            7,
+            7,
+            6,
+            4,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"NggImzwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Pinar Zorlutuna",
+                    "affiliation":"Associate Professor, University of Notre Dame"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"iiyj5MsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"L Mahadevan",
+                    "affiliation":"Harvard, Cambridge, MIT"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"vOZZeY8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Greg Morrison",
+                    "affiliation":"Assistant Professor, University of Houston Dept. of Physics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fK04qe4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Eyal Amir",
+                    "affiliation":"Professor of Computer Science, University of Illinois at Urbana-Champaign"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"azjjesgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"\u015eakir Erko\u00e7",
+                    "affiliation":"Physics Department, Middle East Technical University "
+                }
+            ]
+        ]
+    ]
+}

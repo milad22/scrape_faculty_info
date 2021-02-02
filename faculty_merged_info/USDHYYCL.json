@@ -1,0 +1,43 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "USDHYYCL",
+            "xXBlOUYAAAAJ",
+            [
+                "Exploring the many-body localization transition in two dimensions",
+                "Observation of discrete time-crystalline order in a disordered dipolar many-body system",
+                "Phase structure of driven quantum systems",
+                "Many-body localization and symmetry-protected topological order",
+                "Operator spreading and the emergence of dissipative hydrodynamics under unitary evolution with conservation laws",
+                "Probing entanglement in a many-body\u2013localized system",
+                "Absolute stability and spatiotemporal long-range order in Floquet systems",
+                "Critical properties of the many-body localization transition"
+            ],
+            [
+                "A fundamental assumption in statistical physics is that generic closed quantum many-body systems thermalize under their own dynamics. Recently, the emergence of many-body localized systems has questioned this concept and challenged our understanding of the connection between statistical physics and quantum mechanics. Here we report on the observation of a many-body localization transition between thermal and localized phases for bosons in a two-dimensional disordered optical lattice. With our single-site\u2013resolved measurements, we track the relaxation dynamics of an initially prepared out-of-equilibrium density pattern and find strong evidence for a diverging length scale when approaching the localization transition. Our experiments represent a demonstration and in-depth characterization of many-body localization in a regime not accessible with state-of-the-art simulations on classical computers.",
+                "Understanding quantum dynamics away from equilibrium is an outstanding challenge in the modern physical sciences. Out-of-equilibrium systems can display a rich variety of phenomena, including self-organized synchronization and dynamical phase transitions 1, 2. More recently, advances in the controlled manipulation of isolated many-body systems have enabled detailed studies of non-equilibrium phases in strongly interacting quantum matter 3, 4, 5, 6; for example, the interplay between periodic driving, disorder and strong interactions has been predicted to result in exotic \u2018time-crystalline\u2019phases 7, in which a system exhibits temporal correlations at integer multiples of the fundamental driving period, breaking the discrete time-translational symmetry of the underlying drive 8, 9, 10, 11, 12. Here we report the experimental observation of such discrete time-crystalline order in a driven, disordered ensemble of \u2026",
+                "Clean and interacting periodically driven systems are believed to exhibit a single, trivial \u201cinfinite-temperature\u201d Floquet-ergodic phase. In contrast, here we show that their disordered Floquet many-body localized counterparts can exhibit distinct ordered phases delineated by sharp transitions. Some of these are analogs of equilibrium states with broken symmetries and topological order, while others\u2014genuinely new to the Floquet problem\u2014are characterized by order and nontrivial periodic dynamics. We illustrate these ideas in driven spin chains with Ising symmetry.",
+                "Recent work shows that highly excited many-body localized eigenstates can exhibit broken symmetries and topological order, including in dimensions where such order would be forbidden in equilibrium. In this paper we extend this analysis to discrete symmetry-protected order via the explicit examples of the Haldane phase of one-dimensional spin chains and the topological Ising paramagnet in two dimensions. We comment on the challenge of extending these results to cases where the protecting symmetry is continuous.",
+                "We study the scrambling of local quantum information in chaotic many-body systems in the presence of a locally conserved quantity like charge or energy that moves diffusively. The interplay between conservation laws and scrambling sheds light on the mechanism by which unitary quantum dynamics, which is reversible, gives rise to diffusive hydrodynamics, which is a slow dissipative process. We obtain our results in a random quantum circuit model that is constrained to have a conservation law. We find that a generic spreading operator consists of two parts:(i) a conserved part which comprises the weight of the spreading operator on the local conserved densities, whose dynamics is described by diffusive charge spreading; this conserved part also acts as a source that steadily emits a flux of (ii) nonconserved operators. This emission leads to dissipation in the operator hydrodynamics, with the dissipative process \u2026",
+                "An interacting quantum system that is subject to disorder may cease to thermalize owing to localization of its constituents, thereby marking the breakdown of thermodynamics. The key to understanding this phenomenon lies in the system\u2019s entanglement, which is experimentally challenging to measure. We realize such a many-body\u2013localized system in a disordered Bose-Hubbard chain and characterize its entanglement properties through particle fluctuations and correlations. We observe that the particles become localized, suppressing transport and preventing the thermalization of subsystems. Notably, we measure the development of nonlocal correlations, whose evolution is consistent with a logarithmic growth of entanglement entropy, the hallmark of many-body localization. Our work experimentally establishes many-body localization as a qualitatively distinct phenomenon from localization in noninteracting \u2026",
+                "Recent work has shown that a variety of novel phases of matter arise in periodically driven Floquet systems. Among these are many-body localized phases which spontaneously break global symmetries and exhibit novel multiplets of Floquet eigenstates separated by quantized quasienergies. Here we show that these properties are stable to all weak local deformations of the underlying Floquet drives\u2014including those that explicitly break the defining symmetries\u2014and that the models considered until now occupy submanifolds within these larger \u201cabsolutely stable\u201d phases. While these absolutely stable phases have no explicit global symmetries, they spontaneously break Hamiltonian-dependent emergent symmetries, and thus continue to exhibit the novel multiplet structure. The multiplet structure in turn encodes characteristic oscillations of the emergent order parameter at multiples of the fundamental period \u2026",
+                "The transition from a many-body localized phase to a thermalizing one is a dynamical quantum phase transition that lies outside the framework of equilibrium statistical mechanics. We provide a detailed study of the critical properties of this transition at finite sizes in one dimension. We find that the entanglement entropy of small subsystems looks strongly subthermal in the quantum critical regime, which indicates that it varies discontinuously across the transition as the system size is taken to infinity, even though many other aspects of the transition look continuous. We also study the variance of the half-chain entanglement entropy, which shows a peak near the transition, and find substantial variation in the entropy across eigenstates of the same sample. Furthermore, the sample-to-sample variations in this quantity are strongly growing and are larger than the intrasample variations. We posit that these results are \u2026"
+            ],
+            [
+                [
+
+                ]
+            ]
+        ]
+    ]
+}

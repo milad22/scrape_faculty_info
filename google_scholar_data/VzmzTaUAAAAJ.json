@@ -1,0 +1,128 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "VzmzTaUAAAAJ",
+            "Emrah Tiras",
+            "Postdoctoral Research Associate at Fermi National Accelerator Laboratory for Iowa State University",
+            "@fnal.gov",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=VzmzTaUAAAAJ",
+            109340,
+            [
+                "Neutrino Physics",
+                "High Energy Particle Physics",
+                "Nuclear Physics",
+                "Photodetector and Calorimeter R&D",
+                "Particle Accelerators"
+            ],
+            78123,
+            160,
+            136,
+            753,
+            729,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"h3yRwUoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"James Wetzel",
+                    "affiliation":"The University of Iowa"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"lBr2c0IAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"kamuran dilsiz",
+                    "affiliation":"Bingol University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"xJYw424AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hasan O\u011eUL",
+                    "affiliation":"Sinop University, Turkey, and CERN"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"z1-M2yUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jonathan Eisch",
+                    "affiliation":"Iowa State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"xmEsQeoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Matthew Malek",
+                    "affiliation":"University of Sheffield"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Au86MpAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jingbo Wang",
+                    "affiliation":"South Dakota School of Mines and Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"iU6WRe8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"John F. Beacom",
+                    "affiliation":"Professor of Physics, Professor of Astronomy, and Director of CCAPP, Ohio State University"
+                }
+            ]
+        ]
+    ]
+}

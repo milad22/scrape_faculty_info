@@ -1,0 +1,42 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "OOZLWQZK",
+            "fuEA7QcAAAAJ",
+            [
+                "Unconventional Superconductivity with a Sign Reversal in the Order Parameter of ",
+                "BoltzTraP. A code for calculating band-structure dependent quantities",
+                "Planewaves, Pseudopotentials, and the LAPW method",
+                "Density Functional Study of : A Low Carrier Density Superconductor Near Itinerant Magnetism",
+                "Superconductivity at 22 K in Co-Doped  Crystals",
+                "An alternative way of linearizing the augmented plane-wave method",
+                "Electronic structure and half-metallic transport in the La 1\u2212 x Ca x MnO 3 system"
+            ],
+            [
+                "We argue that the newly discovered superconductivity in a nearly magnetic, Fe-based layered compound is unconventional and mediated by antiferromagnetic spin fluctuations, though different from the usual superexchange and specific to this compound. This resulting state is an example of extended s-wave pairing with a sign reversal of the order parameter between different Fermi surface sheets. The main role of doping in this scenario is to lower the density of states and suppress the pair-breaking ferromagnetic fluctuations.",
+                "A program for calculating the semi-classic transport coefficients is described. It is based on a smoothed Fourier interpolation of the bands. From this analytical representation we calculate the derivatives necessary for the transport distributions. The method is compared to earlier calculations, which in principle should be exact within Boltzmann theory, and a very convincing agreement is found.Title of program:BoltzTraPCatalogue identifier:ADXU_v1_0Program summary URL: http:\/\/cpc.cs.qub.ac.uk\/summaries\/ADXU_v1_0Program obtainable from: CPC Program Library, Queen's University of Belfast, N. IrelandLicensing provisions:noneProgramming language used:Fortran 90Computer:The program should work on any system with a F90 compiler. The code has been tested with the Intel Fortran compilerOperating system:Unix\/LinuxRAM:bytes up to 2 GB for low symmetry, small unit cell structuresNo \u2026",
+                "The first edition of this book, published in 1994, provided an exposition of the LAPW method and its relationship with other electronic structure approaches, especially Car-Parrinello based planewave methods. Since publication of that book, the LAPW method has been transformed from a specialized method used mostly by researchers running their own home made versions, to a popular, widely used method, where most users run standard codes to investigate ma terials of interest to them. This is an exciting development because it opens the door to widespread use of first principles calculations in diverse areas of condensed matter physics and materials science. The positive impact of this on scientific progress is already becoming clear. Also as a result of this trend, the great majority of researchers using the LAPW method are no longer directly in volved in the development of LAPW codes. Nonetheless, it remains important to understand how the LAPW method works, what its limitations are, and how its parameters determine the quahty and efficiency of calculations. The scientist with an understanding of how the method works has a clear advantage. This edition is an updated and expanded treatment of the LAPW method, including descriptions of key developments in the LAPW method since 1994, such as p 1\/2 local orbitals, the APW-i-LO method, LDA+ U calculations and non-collinear magnetism, as well as much of the material from the first edition.",
+                "Density functional studies of 26 K superconducting LaFeAs (O, F) are reported. We find a low carrier density, high density of states, N (E F), and modest phonon frequencies relative to T c. The high N (E F) leads to proximity to itinerant magnetism, with competing ferromagnetic and antiferromagnetic fluctuations and the balance between these controlled by the doping level. Thus LaFeAs (O, F) is in a unique class of high T c superconductors: high N (E F) ionic metals near magnetism.",
+                "Here we report bulk superconductivity in BaFe 1.8 Co 0.2 As 2 single crystals below T c= 22 K, as demonstrated by resistivity, magnetic susceptibility, and specific heat data. Hall data indicate that the dominant carriers are electrons, as expected from simple chemical reasoning. This is the first example of superconductivity induced by electron doping in this family of materials. In contrast with cuprates, the BaFe 2 As 2 system appears to tolerate considerable disorder in the FeAs planes. First principles calculations for BaFe 1.8 Co 0.2 As 2 indicate the interband scattering due to Co is weak.",
+                "A new basis set for a full potential treatment of crystal electronic structures is presented and compared to that of the well-known linearized augmented plane-wave (LAPW) method. The basis set consists of energy-independent augmented plane-wave functions combined with local orbitals. Each basis function is continuous over the whole unit cell but it may have a discontinuous slope at the muffin-tin boundaries, i.e. at the surfaces of atomic centered, non-overlapping spheres. This alternative way to linearize the augmented plane-wave method is shown to reproduce the accurate results of the LAPW method, but using a smaller basis set size. The reduction in number of basis functions is most significant for open structures.",
+                "Possible origins of \u2018\u2018colossal magnetoresistance\u2019\u2019(CMR) behavior in the La 1\u2212 x Ca x MnO 3 system are studied using the local spin-density method. These calculations allow the quantification of the effects of Mn d\u2013O p hybridization that have been largely neglected in previously published work. As regards the end-point compounds CaMnO 3 and LaMnO 3, the very different structural and magnetic symmetries of their ground states are predicted correctly. The distortion from the cubic perovskite structure of the LaMnO 3 lattice is necessary to produce an antiferromagnetic insulating ground state. The distortion also strengthens the Mn magnetic moments. Application to ferromagnetic and constrained ferrimagnetic phases of La 1\u2212 x Ca x MnO 3 in the CMR regime x\u224a 1\/4\u20131\/3 suggests, as observed, that magnetic coupling switches from antiferromagnetic to ferromagnetic. Hybridization between Mn d states and O p \u2026"
+            ],
+            [
+                [
+                    "Materials Science",
+                    "Physics"
+                ]
+            ]
+        ]
+    ]
+}

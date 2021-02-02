@@ -1,0 +1,92 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "2AzFY6sAAAAJ",
+            "Dr. Anuj Kumar Sharma",
+            "IIT Delhi, FSU Jena, ASML Netherlands, GBU Greater Noida, NIT Delhi",
+            "@nitdelhi.ac.in",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=2AzFY6sAAAAJ",
+            3330,
+            [
+                "plasmon",
+                "sensor",
+                "fiber",
+                "biophotonics",
+                "technology management"
+            ],
+            1796,
+            25,
+            20,
+            44,
+            41,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"O1DuMd0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Banshi Dhar Gupta",
+                    "affiliation":"Professor of Physics, Indian Institute of Technology Delhi"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"W7qkAVIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Himansu Pattanaik",
+                    "affiliation":"University of Central Florida"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9wNRJEcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Subhojit Banerjee",
+                    "affiliation":"Assistant Professor Marketing at Gautam Buddha University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"MA9A-14AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tadaaki NAGAO",
+                    "affiliation":"Group Leader, National Institute for Materials Science (NIMS)"
+                }
+            ]
+        ]
+    ]
+}

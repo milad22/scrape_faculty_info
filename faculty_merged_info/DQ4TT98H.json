@@ -1,0 +1,48 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "DQ4TT98H",
+            "PsGM3ggAAAAJ",
+            [
+                "Electronic structure calculations with dynamical mean-field theory",
+                "Kinetic frustration and the nature of the magnetic and paramagnetic states in iron pnictides and iron chalcogenides",
+                "Electrodynamics of correlated electron materials",
+                "Correlated Electronic Structure of ",
+                "Quantum Monte Carlo impurity solver for cluster dynamical mean-field theory and electronic structure calculations with adjustable cluster base",
+                "Dynamical mean-field theory within the full-potential methods: Electronic structure of CeIrIn 5, CeCoIn 5, and CeRhIn 5",
+                "Coherence\u2013incoherence crossover in the normal state of iron oxypnictides and importance of Hund's rule coupling",
+                "Revisiting ",
+                "Magnetism and charge dynamics in iron pnictides",
+                "Cluster dynamical mean field theory of the Mott transition"
+            ],
+            [
+                "A review of the basic ideas and techniques of the spectral density-functional theory is presented. This method is currently used for electronic structure calculations of strongly correlated materials where the one-electron description breaks down. The method is illustrated with several examples where interactions play a dominant role: systems near metal-insulator transitions, systems near volume collapse transitions, and systems with local moments.",
+                "The iron pnictide and chalcogenide compounds are a subject of intensive investigations owing to their surprisingly high temperature superconductivity 1. They all share the same basic building blocks, but there is significant variation in their physical properties, such as magnetic ordered moments, effective masses, superconducting gaps and transition temperature (T c). Many theoretical techniques have been applied to individual compounds but no consistent description of the microscopic origin of these variations is available 2. Here we carry out a comparative theoretical study of a large number of iron-based compounds in both their magnetic and paramagnetic states. Taking into account correlation effects and realistic band structures, we describe well the trends in all of the physical properties such as the ordered moments, effective masses and Fermi surfaces across all families of iron compounds, and find them to \u2026",
+                "Studies of the electromagnetic response of various classes of correlated electron materials including transition-metal oxides, organic and molecular conductors, intermetallic compounds with d and f electrons, as well as magnetic semiconductors are reviewed. Optical inquiry into correlations in all these diverse systems is enabled by experimental access to the fundamental characteristics of an ensemble of electrons including their self-energy and kinetic energy. Steady-state spectroscopy carried out over a broad range of frequencies from microwaves to UV light and fast optics time-resolved techniques provides complimentary prospectives on correlations. Because the theoretical understanding of strong correlations is still evolving, the review is focused on the analysis of the universal trends that are emerging out of a large body of experimental data augmented where possible with insights from numerical studies.",
+                "We compute the electronic structure, momentum resolved spectral function and optical conductivity of the new superconductor LaO 1\u2212 x F x FeAs within the combination of the density functional theory and dynamical mean field theory. We find that the compound in the normal state is a strongly correlated metal and the parent compound is a bad metal at the verge of the metal insulator transition. We argue that the superconductivity is not phonon mediated.",
+                "We generalized the recently introduced impurity solver [P. Werner et al., Phys. Rev. Lett. 97, 076405 (2006)] based on the diagrammatic expansion around the atomic limit and quantum Monte Carlo summation of the diagrams. We present generalization to the cluster of impurities, which is at the heart of the cluster dynamical mean-field methods, and to realistic multiplet structure of a correlated atom, which will allow a high-precision study of actinide and lanthanide based compounds with the combination of the dynamical mean-field theory and band-structure methods. The approach is applied to both the two-dimensional Hubbard and t\u2212 J models within cellular dynamical mean-field method. The efficient implementation of the algorithm, which we describe in detail, allows us to study coherence of the system at low temperature from the underdoped to overdoped regime. We show that the point of maximal \u2026",
+                "We implemented the charge self-consistent combination of density-functional theory and dynamical mean-field theory (DMFT) in two full-potential methods, the augmented plane-wave and the linear muffin-tin orbital methods. We categorize the commonly used projection methods in terms of the causality of the resulting DMFT equations and the amount of partial spectral weight retained. The detailed flow of the dynamical mean-field algorithm is described, including the computation of response functions such as transport coefficients. We discuss the implementation of the impurity solvers based on hybridization expansion and an analytic continuation method for self-energy. We also derive the formalism for the bold continuous time quantum Monte Carlo method. We test our method on a classic problem in strongly correlated physics, the isostructural transition in Ce metal. We apply our method to the class of heavy \u2026",
+                "A new class of high-temperature superconductors based on iron and arsenic was recently discovered (Kamihara et al 2008 J. Am. Chem. Soc. 130 3296), with the superconducting transition temperature as high as 55 K (Ren et al 2008 Chin. Phys. Lett. 25 2215). Here we show, using microscopic theory, that the normal state of the iron pnictides at high temperatures is highly anomalous, displaying a very enhanced magnetic susceptibility and a linear temperature dependence of the resistivity. Below a coherence scale T*, the resistivity sharply drops and susceptibility crosses over to Pauli-like temperature dependence. Remarkably, the coherence\u2013incoherence crossover temperature is a very strong function of the strength of Hund's rule coupling J Hund. On the basis of the normal state properties, we estimate J Hund to be~ 0.35 eV. In the atomic limit, this value of J Hund leads to the critical ratio of the exchange \u2026",
+                "We reexamine the determination of| V c b| from B\u2192 D l \u03bd in view of recent experimental and theoretical progress, discussing the parameterization of the form factors and studying the role played by the unitarity constraints. Our fit to experimental and lattice results for B\u2192 D \u2113 \u03bd gives| V c b|= 40.49 (97) 10\u2212 3 and to R (D)= 0.299 (3).",
+                "Unconventional superconductivity occurs in close proximity to a magnetically ordered state in many materials 1, 2. Uncovering the character of the proximate magnetic phase is a crucial step towards understanding the mechanism of superconductivity. Unlike the case in the cuprate superconductors, the nature of the magnetism and its underlying electronic state in the iron pnictide superconductors 3 is still not well understood. Many low-energy probes such as transport 4, scanning tunnelling microscopy 5 and angle-resolved photoemission spectroscopy 6 have measured strong in-plane anisotropy of the electronic states, but there is no consensus on its physical origin. Using a first-principles theoretical approach, we modelled the magnetic state of the BaFe 2 As 2 parent compound and obtained the magnetic moment, optical conductivity and anisotropy of the electronic states, all in excellent agreement with \u2026",
+                "We address the nature of the Mott transition in the Hubbard model at half-filling using cluster dynamical mean field theory (DMFT). We compare cluster-DMFT results with those of single-site DMFT. We show that inclusion of the short-range correlations on top of the on-site correlations does not change the order of the transition between the paramagnetic metal and the paramagnetic Mott insulator, which remains first order. However, the short range correlations reduce substantially the critical U and modify the shape of the transition lines. Moreover, they lead to very different physical properties of the metallic and insulating phases near the transition point. Approaching the transition from the metallic side, we find an anomalous metallic state with very low coherence scale. The insulating state is characterized by the narrow Mott gap with pronounced peaks at the gap edge."
+            ],
+            [
+                [
+                    "Condensed Matter Physics",
+                    "Materials Research"
+                ]
+            ]
+        ]
+    ]
+}

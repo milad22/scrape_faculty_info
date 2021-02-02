@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "MOP8B1AQ",
+            "0Rq9KiYAAAAJ",
+            [
+                "Plasma crystal: Coulomb crystallization in a dusty plasma",
+                "Dispersion of plasma dust acoustic waves in the strong-coupling regime",
+                "Condensed plasmas under microgravity",
+                "Charging of particles in a plasma",
+                "Instabilities in a dusty plasma with ion drag and ionization",
+                "Theory of dust voids in plasmas",
+                "Superdiffusion and non-Gaussian statistics in a driven-dissipative 2D dusty plasma",
+                "PKE-Nefedov*: plasma crystal experiments on the International Space Station",
+                "Dusty plasmas in the laboratory, industry, and space",
+                "Fluctuations of the charge on a dust grain in a plasma"
+            ],
+            [
+                "A macroscopic Coulomb crystal of solid particles in a plasma has been observed. Images of a cloud of 7\u2212 \u03bc m\" dust\" particles, which are charged and levitated in a weakly ionized argon plasma, reveal a hexagonal crystal structure. The crystal is visible to the unaided eye. The particles are cooled by neutral gas to 310 K, and their charge is> 9800 e, corresponding to a Coulomb coupling parameter \u0393> 20 700. For such a large \u0393 value, strongly coupled plasma theory predicts that the particles should organize in a Coulomb solid, in agreement with our observations.",
+                "Low-frequency compressional waves were observed in a suspension of strongly coupled 9.4 \u03bc m spheres in an rf Kr plasma. Both parts of the complex wave number were measured to determine the dispersion relation, which agreed with a theoretical model of damped dust acoustic waves, ignoring strong coupling, but not with a strongly coupled dust-lattice wave model. The results yield experimental values for the dust plasma frequency, charge, Debye length, and damping rate, and support the applicability of fluid-based dispersion relations to strongly coupled dusty plasmas, which has been a controversy.",
+                "Experiments under microgravity conditions were carried out to study \u201ccondensed\u201d(liquid and crystalline) states of a colloidal plasma (ions, electrons, and charged microspheres). Systems with\u223c 10 6 microspheres were produced. The observed systems represent new forms of matter\u2014quasineutral, self-organized plasmas\u2014the properties of which are largely unexplored. In contrast to laboratory measurements, the systems under microgravity are clearly three dimensional (as expected); they exhibit stable vortex flows, sometimes adjacent to crystalline regions, and a central \u201cvoid,\u201d free of microspheres.",
+                "Several models that predict the charge of particles in a plasma are reviewed. The simplest is based on orbit-limited probe theory. This basic model can be improved by adding several effects: charge reduction at high dust densities, electron emission, ion trapping and fluctuations. The charge is reduced at high dust densities, when a significant fraction of the charge in the plasma resides on the particles, depleting the plasma. Electron emission due to electron impact or ultraviolet exposure can cause a particle to have a positive charge, which has useful implications for plasma processing, since particles are confined in a discharge only if they have a negative charge. Ion trapping occurs due to ion-neutral collisions within the attractive Debye sphere of a negatively charged particle. Trapped ions reduce the net electric force on a particle. A particle's charge fluctuates because the currents collected from the plasma \u2026",
+                "Low-frequency modes that develop as a result of an instability in a dusty rf discharge plasma were studied experimentally, leading to an empirical explanation for the instability. In the experiment, particle diameter grew with time. Two instability modes appeared after growth to a sufficient size. A filamentary mode appeared abruptly, and later a great void mode developed as a dust-free region with an intense glow inside and a sharp boundary outside. These modes were characterized by two-dimensional laser light scattering, video imaging, optical emission spectroscopy, Langmuir probe measurements, and Fourier analysis of the fluctuation spectrum. Dust growth was measured by electron microscopy and optical extinction, yielding the dust particle size and dust number density. The electron density was found to be enhanced inside the great void, due to an absence of electron depletion on the dust grains. The great \u2026",
+                "Dusty plasmas in a gas discharge often feature a stable void, ie, a dust-free region inside the dust cloud. This occurs under conditions relevant to both plasma processing discharges and plasma crystal experiments. The void results from a balance of the electrostatic and ion drag forces on a dust particle. The ion drag force is driven by a flow of ions outward from an ionization source and toward the surrounding dust cloud, which has a negative space charge. In equilibrium the force balance for dust particles requires that the boundary with the dust cloud be sharp, provided that the particles are cold and monodispersive. Numerical solutions of the one-dimensional nonlinear fluid equations are carried out including dust charging and dust-neutral collisions, but not ion-neutral collisions. The regions of parameter space that allow stable void equilibria are identified. There is a minimum ionization rate that can sustain a \u2026",
+                "Anomalous diffusion and non-Gaussian statistics are detected experimentally in a two-dimensional driven-dissipative system. A single-layer dusty plasma suspension with a Yukawa interaction and frictional dissipation is heated with laser radiation pressure to yield a structure with liquid ordering. Analyzing the time series for mean-square displacement, superdiffusion is detected at a low but statistically significant level over a wide range of temperatures. The probability distribution function fits a Tsallis distribution, yielding q, a measure of nonextensivity for non-Gaussian statistics.",
+                "The plasma crystal experiment PKE-Nefedov, the first basic science experiment on the International Space Station (ISS), was installed in February 2001 by the first permanent crew. It is designed for long-term investigations of complex plasmas under microgravity conditions.Complex plasmas' contain ions, electrons, neutrals and small solid particles-normally in the micrometre range. These microparticles obtain thousands of elementary charges and interact with each other via ascreened'Coulomb potential. Complex plasmas are of special interest, because they can form liquid and crystalline states (Thomas et al 1994 Phys. Rev. Lett. 73 652-5, Chu and I 1994 Phys. Rev. Lett. 72 4009-12) and are observable at the kinetic level. In experiments on Earth the microparticles are usually suspended against gravity in strong electric fields. This creates asymmetries, stresses and pseudo-equilibrium states with sufficient free \u2026",
+                "illuminating clouds of micronsized particles electrically suspended in the plasma above the wafer (see figure 2). Selwyn found that particles actually formed and grew in the gas phase (see box 1), aggregating material from gases that were thought to have been exhausted by the vacuum pump. Then, at the fateful moment when the plasma-generating RF power was switched off, the particles fell and contaminated the wafer. Selwyn\u2019s discovery revealed that much of the particle contamination responsible for costly yield losses was happening not just anywhere in the clean rooms, but inside the plasma reactors.Whereas a dusty plasma is something of enduring interest to an astronomer, it was a vexing problem to be avoided by the semiconductor manufacturer. Nevertheless, the two communities suddenly found common ground. Both needed to understand the charging mechanisms and the forces that transport \u2026",
+                "A dust grain in a plasma acquires an electric charge by collecting electron and ion currents. These currents consist of discrete charges, causing the charge to fluctuate around an equilibrium value \/spl lang\/Q\/spl rang\/. Electrons and ions are collected at random intervals and in a random sequence, with probabilities that depend on the grain's potential. We developed a model for these probabilities and implemented it in a numerical simulation of the collection of individual ions and electrons, yielding a time series Q(t) for the grain's charge. Electron emission from the grain is not included, although it could be added easily to our method. We obtained the power spectrum and the RMS fluctuation level, as well as the distribution function of the charge. Most of the power in the spectrum lies at frequencies much lower than 1\/\/spl tau\/, the inverse charging time. The RMS fractional fluctuation level varies as 0.5 \/spl verbar\/\/spl \u2026"
+            ],
+            [
+                [
+                    "Physics"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "L6AQ5638",
+            "7qvrPwQAAAAJ",
+            [
+                "An empirical method for correcting diffractometer data for absorption effects",
+                "ESPript: analysis of multiple sequence alignments in PostScript.",
+                "The three-dimensional structure of foot-and-mouth disease virus at 2.9 \u00c5 resolution",
+                "Protein production and purification",
+                "Structure of tumour necrosis factor"
+            ],
+            [
+                "Absorption effects usually present the most serious source of systematic error in the determination of structure factors from single-crystal X-ray diffraction measurements if the crystal is not ground to a sphere or cylinder. A novel method is proposed for the correction of these effects for data collected on a diffractometer. The method works from the premise that the manifestation of systematic errors due to absorption, unlike most other sources of systematic error, will not be evenly distributed through reciprocal space, but will be localized. A Fourier series in the polar angles of the incident and diffracted beam paths is used to model an absorption surface for the difference between the observed and calculated structure factors. Knowledge of crystal dimensions or linear absorption coefficient is not required, and the method does not necessitate the measurement of azimuthal scans or any extra data beyond the unique set \u2026",
+                "MOTIVATION: The program ESPript (Easy Sequencing in PostScript) allows the rapid visualization, via PostScript output, of sequences aligned with popular programs such as CLUSTAL-W or GCG PILEUP. It can read secondary structure files (such as that created by the program DSSP) to produce a synthesis of both sequence and structural information. RESULTS: ESPript can be run via a command file or a friendly html-based user interface. The program calculates an homology score by columns of residues and can sort this calculation by groups of sequences. It offers a palette of markers to highlight important regions in the alignment. ESPript can also paste information on residue conservation into coordinate files, for subsequent visualization with a graphics program. AVAILABILITY: ESPript can be accessed on its Web site at http:\/\/www.ipbs.fr\/ESPript. Sources and helpfiles can be downloaded via \u2026",
+                "The structure of foot-and-mouth disease virus has been determined at close to atomic resolution by X-ray diffraction without experimental phase information. The virus shows similarities with other picornaviruses but also several unique features. The canyon or pit found in other picornaviruses is absent; this has important implications for cell attachment. The most immunogenic portion of the capsid, which acts as a potent peptide vaccine, forms a disordered protrusion on the virus surface.",
+                "NOTE: In the version of this Review initially published, an author (B. Martin Hallberg) was left off of the author list. This information has been added to the HTML and PDF versions of the Review.",
+                "Tumour necrosis factor is a trimeric molecule, each subunit of which consists of an antiparallel \u03b2 sandwich. Individual subunits form the trimer by a novel edge-to-face packing of \u03b2 sheets. A comparison of the subunit fold with that of other proteins reveals a remarkable similarity to the'jelly-roll'structural motif characteristic of viral coat proteins."
+            ],
+            [
+                [
+                    "Structural Biology",
+                    "Virology",
+                    "Crystallography",
+                    "Synchrotron Radiation"
+                ]
+            ]
+        ]
+    ]
+}

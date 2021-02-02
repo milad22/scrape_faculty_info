@@ -1,0 +1,137 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4
+    ],
+    "data":[
+        [
+            "We study the dynamical response of a system to a sudden change of the tuning parameter \u03bb starting (or ending) at the quantum critical point. In particular, we analyze the scaling of the excitation probability, number of excited quasiparticles, heat and entropy with the quench amplitude, and the system size. We extend the analysis to quenches with arbitrary power law dependence on time of the tuning parameter, showing a close connection between the scaling behavior of these quantities with the singularities of the adiabatic susceptibilities of order m at the quantum critical point, where m is related to the power of the quench. Precisely for sudden quenches, the relevant susceptibility of the second order coincides with the fidelity susceptibility. We discuss the generalization of the scaling laws to the finite-temperature quenches and show that the statistics of the low-energy excitations becomes important. We illustrate \u2026",
+            "Quench dynamics near a quantum critical point",
+            "Claudia De Grandi and Vladimir Gritsev and Anatoli Polkovnikov",
+            "2010",
+            "Ol2vJ-gAAAAJ:zYLM7Y9cAGgC",
+            218,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.81.012303",
+            "16345320257164212682",
+            "\/scholar?cites=16345320257164212682",
+            {
+                "2010":22,
+                "2011":28,
+                "2012":22,
+                "2013":21,
+                "2014":22,
+                "2015":24,
+                "2016":20,
+                "2017":11,
+                "2018":15,
+                "2019":13,
+                "2020":19,
+                "2021":1
+            }
+        ],
+        [
+            "We propose a method to study dynamical response of a quantum system by evolving it with an imaginary-time-dependent Hamiltonian. The leading nonadiabatic response of the system driven to a quantum-critical point is universal and characterized by the same exponents in real and imaginary time. For a linear quench protocol, the fidelity susceptibility and the geometric tensor naturally emerge in the response functions. Beyond linear response, we extend the finite-size scaling theory of quantum phase transitions to nonequilibrium setups. This allows, eg, for studies of quantum phase transitions in systems of fixed finite size by monitoring expectation values as a function of the quench velocity. Nonequilibrium imaginary-time dynamics is also amenable to quantum Monte Carlo (QMC) simulations, with a scheme that we introduce here and apply to quenches of the transverse-field Ising model to quantum-critical \u2026",
+            "Universal nonequilibrium quantum dynamics in imaginary time",
+            "Claudia De Grandi and Anatoli Polkovnikov and AW Sandvik",
+            "2011",
+            "Ol2vJ-gAAAAJ:Tyk-4Ss8FVUC",
+            86,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.84.224303",
+            "16790869912782373284",
+            "\/scholar?cites=16790869912782373284",
+            {
+                "2011":1,
+                "2012":6,
+                "2013":14,
+                "2014":11,
+                "2015":14,
+                "2016":8,
+                "2017":8,
+                "2018":6,
+                "2019":9,
+                "2020":9
+            }
+        ],
+        [
+            "We discuss the quench dynamics near a quantum critical point focusing on the sine-Gordon model as a primary example. We suggest a unified approach to sudden and slow quenches, where the tuning parameter \u03bb (t) changes in time as \u03bb (t)\u223c \u03c5 t r, based on the adiabatic expansion of the excitation probability in powers of \u03c5. We show that the universal scaling of the excitation probability can be understood through the singularity of the generalized adiabatic susceptibility \u03c7 2 r+ 2 (\u03bb), which for sudden quenches (r= 0) reduces to the fidelity susceptibility. In turn this class of susceptibilities is expressed through the moments of the connected correlation function of the quench operator. We analyze the excitations created after a sudden quench of the cosine potential using a combined approach of form-factors expansion and conformal perturbation theory for the low-energy and high-energy sector, respectively. We find \u2026",
+            "Quench dynamics near a quantum critical point: Application to the sine-Gordon model",
+            "C De Grandi and V Gritsev and A Polkovnikov",
+            "2010",
+            "Ol2vJ-gAAAAJ:9yKSN-GCB0IC",
+            79,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.81.224301",
+            "11480554353925733479",
+            "\/scholar?cites=11480554353925733479",
+            {
+                "2010":5,
+                "2011":12,
+                "2012":9,
+                "2013":11,
+                "2014":4,
+                "2015":11,
+                "2016":8,
+                "2017":5,
+                "2018":8,
+                "2019":6
+            }
+        ],
+        [
+            "We discuss two complimentary problems: adiabatic loading of one-dimensional bosons into an optical lattice and merging two one-dimensional Bose systems. Both problems can be mapped to the sine-Gordon model. This mapping allows us to find power-law scalings for the number of excitations with the ramping rate in the regime where the conventional linear response approach fails. We show that the exponent of this power law is sensitive to the interaction strength. In particular, the response is larger, or less adiabatic, for strongly (weakly) interacting bosons for the loading (merging) problem. Our results illustrate that in general the nonlinear response to slow relevant perturbations can be a powerful tool for characterizing properties of interacting systems.",
+            "Adiabatic nonlinear probes of one-dimensional Bose gases",
+            "C De Grandi and RA Barankov and A Polkovnikov",
+            "2008",
+            "Ol2vJ-gAAAAJ:u5HHmVD_uO8C",
+            56,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.101.230402",
+            "8912449057197960863",
+            "\/scholar?cites=8912449057197960863",
+            {
+                "2009":10,
+                "2010":16,
+                "2011":6,
+                "2012":4,
+                "2013":3,
+                "2014":4,
+                "2015":6,
+                "2016":4,
+                "2017":1,
+                "2018":1,
+                "2019":1
+            }
+        ],
+        [
+            "We engineer a quantum bath that enables entropy and energy exchange with a one-dimensional Bose-Hubbard lattice with attractive on-site interactions. We implement this in an array of three superconducting transmon qubits coupled to a single cavity mode; the transmons represent lattice sites and their excitation quanta embody bosonic particles. Our cooling protocol preserves the particle number\u2014realizing a canonical ensemble\u2014and also affords the efficient preparation of dark states which, due to symmetry, cannot be prepared via coherent drives on the cavity. Furthermore, by applying continuous microwave radiation, we also realize autonomous feedback to indefinitely stabilize particular eigenstates of the array.",
+            "Cooling and autonomous feedback in a bose-hubbard chain with attractive interactions",
+            "Shay Hacohen-Gourgy and Vinay V Ramasesh and Claudia De Grandi and Irfan Siddiqi and Steve M Girvin",
+            "2015",
+            "Ol2vJ-gAAAAJ:u-x6o8ySG0sC",
+            48,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.115.240501",
+            "9017607907091692121",
+            "\/scholar?cites=9017607907091692121",
+            {
+                "2016":12,
+                "2017":9,
+                "2018":8,
+                "2019":7,
+                "2020":9,
+                "2021":3
+            }
+        ]
+    ]
+}

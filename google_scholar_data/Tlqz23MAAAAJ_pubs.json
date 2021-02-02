@@ -1,0 +1,212 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "We present the results for CAPRI Round 30, the first joint CASP\u2010CAPRI experiment, which brought together experts from the protein structure prediction and protein\u2013protein docking communities. The Round comprised 25 targets from amongst those submitted for the CASP11 prediction experiment of 2014. The targets included mostly homodimers, a few homotetramers, and two heterodimers, and comprised protein chains that could readily be modeled using templates from the Protein Data Bank. On average 24 CAPRI groups and 7 CASP groups submitted docking predictions for each target, and 12 CAPRI groups per target participated in the CAPRI scoring experiment. In total more than 9500 models were assessed against the 3D structures of the corresponding target complexes. Results show that the prediction of homodimer assemblies by homology modeling techniques and docking calculations is quite \u2026",
+            "Prediction of homoprotein and heteroprotein complexes by protein docking and template\u2010based modeling: A CASP\u2010CAPRI experiment",
+            "Marc F Lensink and Sameer Velankar and Andriy Kryshtafovych and Shen\u2010You Huang and Dina Schneidman\u2010Duhovny and Andrej Sali and Joan Segura and Narcis Fernandez\u2010Fuentes and Shruthi Viswanath and Ron Elber and Sergei Grudinin and Petr Popov and Emilie Neveu and Hasup Lee and Minkyung Baek and Sangwoo Park and Lim Heo and Gyu Rie Lee and Chaok Seok and Sanbo Qin and Huan\u2010Xiang Zhou and David W Ritchie and Bernard Maigret and Marie\u2010Dominique Devignes and Anisah Ghoorah and Mieczyslaw Torchala and Rapha\u00ebl AG Chaleil and Paul A Bates and Efrat Ben\u2010Zeev and Miriam Eisenstein and Surendra S Negi and Zhiping Weng and Thom Vreven and Brian G Pierce and Tyler M Borrman and Jinchao Yu and Fran\u00e7oise Ochsenbein and Rapha\u00ebl Guerois and Anna Vangone and Jo\u00e3o PGLM Rodrigues and Gydo Van Zundert and Mehdi Nellen and Li Xue and Ezgi Karaca and Adrien SJ Melquiond and Koen Visscher and Panagiotis L Kastritis and Alexandre MJJ Bonvin and Xianjin Xu and Liming Qiu and Chengfei Yan and Jilong Li and Zhiwei Ma and Jianlin Cheng and Xiaoqin Zou and Yang Shen and Lenna X Peterson and Hyung\u2010Rae Kim and Amit Roy and Xusi Han and Juan Esquivel\u2010Rodriguez and Daisuke Kihara and Xiaofeng Yu and Neil J Bruce and Jonathan C Fuller and Rebecca C Wade and Ivan Anishchenko and Petras J Kundrotas and Ilya A Vakser and Kenichiro Imai and Kazunori Yamada and Toshiyuki Oda and Tsukasa Nakamura and Kentaro Tomii and Chiara Pallara and Miguel Romero\u2010Durana and Brian Jim\u00e9nez\u2010Garc\u00eda and Iain H Moal and Juan F\u00e9rnandez\u2010Recio and Jong Young Joung and Jong Yun Kim and Keehyoung Joo and Jooyoung Lee and Dima Kozakov and Sandor Vajda and Scott Mottarella and David R Hall and Dmitri Beglov and Artem Mamonov and Bing Xia and Tanggis Bohnuud and Carlos A Del Carpio and Eichiro Ichiishi and Nicholas Marze and Daisuke Kuroda and Shourya S Roy Burman and Jeffrey J Gray and Edrisse Chermak and Luigi Cavallo and Romina Oliva and Andrey Tovchigrechko and Shoshana J Wodak",
+            "2016",
+            "Tlqz23MAAAAJ:IjCSPb-OGe4C",
+            110,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1002\/prot.25007",
+            "6324237976765544916",
+            "\/scholar?cites=6324237976765544916",
+            {
+                "2015":1,
+                "2016":6,
+                "2017":35,
+                "2018":31,
+                "2019":17,
+                "2020":18,
+                "2021":1
+            }
+        ],
+        [
+            "The ability of atomic interaction parameters generated using the Automated Topology Builder and Repository version 3.0 (ATB3.0) to predict experimental hydration free enthalpies (\u0394Gwater) and solvation free enthalpies in the apolar solvent hexane (\u0394Ghexane) is presented. For a validation set of 685 molecules the average unsigned error (AUE) between \u0394Gwater values calculated using the ATB3.0 and experiment is 3.8 kJ\u00b7mol\u20131. The slope of the line of best fit is 1.00, the intercept \u22121.0 kJ\u00b7mol\u20131, and the R2 0.90. For the more restricted set of 239 molecules used to validate OPLS3 ( J. Chem. Theory Comput. 2016, 12, 281\u2212296, DOI: 10.1021\/acs.jctc.5b00864) the AUE using the ATB3.0 is just 2.7 kJ\u00b7mol\u20131 and the R2 0.93. A roadmap for further improvement of the ATB parameters is presented together with a discussion of the challenges of validating force fields against the available experimental data.",
+            "Automated topology builder version 3.0: prediction of solvation free enthalpies in water and hexane",
+            "Martin Stroet and Bertrand Caron and Koen M Visscher and Daan P Geerke and Alpeshkumar K Malde and Alan E Mark",
+            "2018",
+            "Tlqz23MAAAAJ:roLk4NBRz8UC",
+            86,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acs.jctc.8b00768",
+            "3906827232168160172",
+            "\/scholar?cites=3906827232168160172",
+            {
+                "2018":1,
+                "2019":19,
+                "2020":55,
+                "2021":9
+            }
+        ],
+        [
+            "Nanovesicles self-assembled from amphiphilic peptides are promising candidates for applications in drug delivery. However, complete high-resolution data on the local and supramolecular organization of such materials has been elusive thus far, which is a substantial obstacle to their rational design. In the absence of precise information, nanovesicles built of amphiphilic \u201clipid-like\u201d peptides are generally assumed to resemble liposomes that are organized from bilayers of peptides with a tail-to-tail ordering. Using the nanocarrier formed by the amphiphilic self-assembling peptide 2 (SA2 peptide) as an example, we derive the local and global organization of a multimega-Dalton peptide-based nanocarrier at high molecular detail and at close-to physiological conditions. By integrating a multitude of experimental techniques (solid-state NMR, AFM, SLS, DLS, FT-IR, CD) with large- and multiscale MD simulations, we \u2026",
+            "The supramolecular organization of a peptide-based nanocarrier at high molecular detail",
+            "Mazda Rad-Malekshahi and Koen M Visscher and Joa\u0303o PGLM Rodrigues and Renko De Vries and Wim E Hennink and Marc Baldus and Alexandre MJJ Bonvin and Enrico Mastrobattista and Markus Weingarth",
+            "2015",
+            "Tlqz23MAAAAJ:qjMakFHDy7sC",
+            55,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/jacs.5b02919",
+            "15424266885756920665",
+            "\/scholar?cites=15424266885756920665",
+            {
+                "2015":1,
+                "2016":9,
+                "2017":4,
+                "2018":25,
+                "2019":4,
+                "2020":11
+            }
+        ],
+        [
+            "HADDOCK is one of the few docking programs that can explicitly account for water molecules in the docking process. Its solvated docking protocol starts from hydrated molecules and a fraction of the resulting interfacial waters is subsequently removed in a biased Monte Carlo procedure based on water\u2010mediated contact probabilities. The latter were derived from an analysis of water contact frequencies from high\u2010resolution crystal structures. Here, we introduce a simple water\u2010mediated amino acid\u2013amino acid contact probability scale derived from the Kyte\u2010Doolittle hydrophobicity scale and assess its performance on the largest high\u2010resolution dataset developed to date for solvated docking. Both scales yield high\u2010quality docking results. The novel and simple hydrophobicity scale, which should reflect better the physicochemical principles underlying contact propensities, leads to a performance improvement of \u2026",
+            "Solvated protein\u2013protein docking using Kyte\u2010Doolittle\u2010based water preferences",
+            "Panagiotis L Kastritis and Koen M Visscher and Aalt DJ van Dijk and Alexandre MJJ Bonvin",
+            "2013",
+            "Tlqz23MAAAAJ:u5HHmVD_uO8C",
+            30,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1002\/prot.24210",
+            "1246316759290116745",
+            "\/scholar?cites=1246316759290116745",
+            {
+                "2013":3,
+                "2014":9,
+                "2015":7,
+                "2016":3,
+                "2017":2,
+                "2018":2,
+                "2019":3
+            }
+        ],
+        [
+            "The segregation of cellular surfaces in heterogeneous patches is considered to be a common motif in bacteria and eukaryotes that is underpinned by the observation of clustering and cooperative gating of signaling membrane proteins such as receptors or channels. Such processes could represent an important cellular strategy to shape signaling activity. Hence, structural knowledge of the arrangement of channels or receptors in supramolecular assemblies represents a crucial step towards a better understanding of signaling across membranes. We herein report on the supramolecular organization of clusters of the K+ channel KcsA in bacterial membranes, which was analyzed by a combination of DNP\u2010enhanced solid\u2010state NMR experiments and MD simulations. We used solid\u2010state NMR spectroscopy to determine the channel\u2013channel interface and to demonstrate the strong correlation between channel \u2026",
+            "Supramolecular Organization and Functional Implications of K+\u2005Channel Clusters in Membranes",
+            "Koen M Visscher and Jo\u00e3o Medeiros\u2010Silva and Deni Mance and Jo\u00e3o PGLM Rodrigues and Mark Dani\u00ebls and Alexandre MJJ Bonvin and Marc Baldus and Markus Weingarth",
+            "2017",
+            "Tlqz23MAAAAJ:Y0pCki6q_DkC",
+            21,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1002\/anie.201705723",
+            "9918876293482677341",
+            "\/scholar?cites=9918876293482677341",
+            {
+                "2017":1,
+                "2018":7,
+                "2019":10,
+                "2020":2
+            }
+        ],
+        [
+            "Protein\u2013protein interactions control a plethora of cellular processes, including cell proliferation, differentiation, apoptosis, and signal transduction. Understanding how and why proteins interact will inevitably lead to novel structure\u2010based drug design methods, as well as design of de novo binders with preferred interaction properties. At a structural and molecular level, interface and rim regions are not enough to fully account for the energetics of protein\u2013protein binding, even for simple lock\u2010and\u2010key rigid binders. As we have recently shown, properties of the global surface might also play a role in protein\u2013protein interactions. Here, we report on molecular dynamics simulations performed to understand solvent effects on protein\u2013protein surfaces. We compare properties of the interface, rim, and non\u2010interacting surface regions for five different complexes and their free components. Interface and rim residues become, as \u2026",
+            "Non\u2010interacting surface solvation and dynamics in protein\u2013protein interactions",
+            "Koen M Visscher and Panagiotis L Kastritis and Alexandre MJJ Bonvin",
+            "2015",
+            "Tlqz23MAAAAJ:d1gkVwhDpl0C",
+            20,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1002\/prot.24741",
+            "4780463670577705210",
+            "\/scholar?cites=4780463670577705210",
+            {
+                "2015":3,
+                "2016":8,
+                "2017":3,
+                "2018":4,
+                "2019":1,
+                "2020":1
+            }
+        ],
+        [
+            "Interfacial water molecules play an important role in many aspects of protein\u2013DNA specificity and recognition. Yet they have been mostly neglected in the computational modeling of these complexes. We present here a solvated docking protocol that allows explicit inclusion of water molecules in the docking of protein\u2013DNA complexes and demonstrate its feasibility on a benchmark of 30 high-resolution protein\u2013DNA complexes containing crystallographically-determined water molecules at their interfaces. Our protocol is capable of reproducing the solvation pattern at the interface and recovers hydrogen-bonded water-mediated contacts in many of the benchmark cases. Solvated docking leads to an overall improvement in the quality of the generated protein\u2013DNA models for cases with limited conformational change of the partners upon complex formation. The applicability of this approach is demonstrated on \u2026",
+            "Solvated protein\u2013DNA docking using HADDOCK",
+            "Marc van Dijk and Koen M Visscher and Panagiotis L Kastritis and Alexandre MJJ Bonvin",
+            "2013",
+            "Tlqz23MAAAAJ:u-x6o8ySG0sC",
+            20,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/s10858-013-9734-x.pdf",
+            "8129233427854192589",
+            "\/scholar?cites=8129233427854192589",
+            {
+                "2013":1,
+                "2014":5,
+                "2015":5,
+                "2016":4,
+                "2017":1,
+                "2018":1,
+                "2019":1,
+                "2020":1
+            }
+        ],
+        [
+            "Our information\u2010driven docking approach HADDOCK is a consistent top predictor and scorer since the start of its participation in the CAPRI community\u2010wide experiment. This sustained performance is due, in part, to its ability to integrate experimental data and\/or bioinformatics information into the modelling process, and also to the overall robustness of the scoring function used to assess and rank the predictions. In the CASP\u2010CAPRI Round 1 scoring experiment we successfully selected acceptable\/medium quality models for 18\/14 of the 25 targets \u2013 a top\u2010ranking performance among all scorers. Considering that for only 20 targets acceptable models were generated by the community, our effective success rate reaches as high as 90% (18\/20). This was achieved using the standard HADDOCK scoring function, which, thirteen years after its original publication, still consists of a simple linear combination of \u2026",
+            "Sense and simplicity in HADDOCK scoring: Lessons from CASP\u2010CAPRI round 1",
+            "A Vangone and JPGLM Rodrigues and LC Xue and GCP van Zundert and C Geng and Z Kurkcuoglu and M Nellen and S Narasimhan and E Karaca and M van Dijk and ASJ Melquiond and KM Visscher and M Trellet and PL Kastritis and AMJJ Bonvin",
+            "2017",
+            "Tlqz23MAAAAJ:zYLM7Y9cAGgC",
+            19,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1002\/prot.25198",
+            "12627490894446054523",
+            "\/scholar?cites=12627490894446054523",
+            {
+                "2017":1,
+                "2018":4,
+                "2019":4,
+                "2020":9,
+                "2021":1
+            }
+        ],
+        [
+            "In this work we propose a strategy based on quantum mechanical (QM) calculations to parametrize a polarizable force field for use in molecular dynamics (MD) simulations. We investigate the use of multiple atoms-in-molecules (AIM) strategies to partition QM determined molecular electron densities into atomic subregions. The partitioned atomic densities are subsequently used to compute atomic dispersion coefficients from effective exchange-hole-dipole moment (XDM) calculations. In order to derive values for the repulsive van der Waals parameters from first principles, we use a simple volume relation to scale effective atomic radii. Explicit inclusion of higher order dispersion coefficients was tested for a series of alkanes, and we show that combining C6 and C8 attractive terms together with a C11 repulsive potential yields satisfying models when used in combination with our van der Waals parameters and \u2026",
+            "Deriving Force-Field Parameters from First Principles Using a Polarizable and Higher Order Dispersion Model",
+            "Koen M. Visscher and Daan P. Geerke",
+            "2019",
+            "Tlqz23MAAAAJ:hqOjcs7Dif8C",
+            17,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acs.jctc.8b01105",
+            "12428154455721991753",
+            "\/scholar?cites=12428154455721991753",
+            {
+                "2018":1,
+                "2019":7,
+                "2020":9
+            }
+        ],
+        [
+            "The absence of an adequate reversal strategy to prevent and stop potential life-threatening bleeding complications is a major drawback to the clinical use of the direct oral inhibitors of blood coagulation factor Xa. Here we show that specific modifications of the substrate-binding aromatic S4 subpocket within the factor Xa active site disrupt high-affinity engagement of the direct factor Xa inhibitors. These modifications either entail amino-acid substitution of S4 subsite residues Tyr99 and\/or Phe174 (chymotrypsinogen numbering), or extension of the 99-loop that borders the S4 subsite. The latter modifications led to the engineering of a factor Xa variant that is able to support coagulation in human plasma spiked with (supra-) physiological concentrations of direct factor Xa inhibitors. As such, this factor Xa variant has the potential to be employed to bypass the direct factor Xa inhibitor-mediated anticoagulation in patients \u2026",
+            "Engineered factor Xa variants retain procoagulant activity independent of direct factor Xa inhibitors",
+            "Dani\u00ebl Verhoef and Koen M Visscher and C Ruben Vosmeer and Ka Lei Cheung and Pieter H Reitsma and Daan P Geerke and Mettine HA Bos",
+            "2017",
+            "Tlqz23MAAAAJ:W7OEmFMy1HYC",
+            17,
+            "https:\/\/www.nature.com\/articles\/s41467-017-00647-9",
+            "1715465205464452008",
+            "\/scholar?cites=1715465205464452008",
+            {
+                "2018":2,
+                "2019":7,
+                "2020":6,
+                "2021":2
+            }
+        ]
+    ]
+}

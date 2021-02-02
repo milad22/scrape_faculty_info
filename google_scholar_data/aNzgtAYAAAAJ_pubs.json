@@ -1,0 +1,178 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "This paper addresses the intervehicular communication in Connected Vehicles (CV) by emphasizing V2V (vehicleto-vehicle) and V2I (vehicle-to-infrastructure) communications in terms of evolution, current standards, state-of-the-art studies, embedded devices, simulation, trends, challenges, and relevant legislation. To accomplish the objective this review is based on studies conducted from 2003 to 2019, government reports about the sustainable deployment of these technologies and their adoption in the Brazilian automotive market according to experts. Moreover, WAVE (Wireless Access in Vehicular Environment) and DSRC (Dedicated Short-range Communication) standards, the performance analysis of communication parameters and intervehicular available at the market are also described. The current status of ITS (Intelligent Transportation System) development in Brazil is reviewed, as well as the research institutes and governmental actions focused on introducing the concept of connected vehicles into the society. The Brazilian outlook for technological adoption concerning CVs was also discussed. Besides those, challenges related to technical aspects, safety and environmental issues, and the standardization for vehicle communication are also described. Finally, this review highlights the challenges and proposals from available technologies devoted to the roads and vehicular infrastructure communication, their evolution and upcoming trends.",
+            "Sustainable adoption of connected vehicles in the Brazilian landscape: policies, technical specifications and challenges",
+            "Douglas Aguiar do Nascimento and Yuzo Iano and Hermes Jos\u00e9 Loschi and Navid Razmjooy and Robert Sroufe and Vlademir de Jesus Silva Oliveira and Diego Arturo Pajuelo Castro and Matheus Montagner",
+            "2019",
+            "aNzgtAYAAAAJ:W7OEmFMy1HYC",
+            10,
+            "http:\/\/yadda.icm.edu.pl\/yadda\/element\/bwmeta1.element.baztech-03203ba5-dc0e-4251-b9c0-7342c98f8870",
+            "17525909587869221470",
+            "\/scholar?cites=17525909587869221470",
+            {
+                "2019":4,
+                "2020":5,
+                "2021":1
+            }
+        ],
+        [
+            "Cancer is currently one of the main health issues in the world. Among different varieties of cancers, skin cancer is the most common cancer in the world and accounts for 75% of the world's cancer. Indeed, skin cancer involves abnormal changes in the outer layer of the skin. Although most people with skin cancer recover, it is one of the major concerns of people due to its high prevalence. Most types of skin cancers grow only locally and invade adjacent tissues, but some of them, especially melanoma (cancer of the pigment cells), which is the rarest type of skin cancer, may spread through the circulatory system or lymphatic system and reach the farthest points of the body. Many papers have been reviewed about the application of image processing in cancer detection. In this paper, the automatic skin cancer detection and also different steps of such a process have been discussed based on the implantation capabilities.",
+            "Computer-aided diagnosis of skin cancer: a review",
+            "Navid Razmjooy and Mohsen Ashourian and Maryam Karimifard and Vania V Estrela and Hermes J Loschi and Douglas do Nascimento and Reinaldo P Fran\u00e7a and Mikhail Vishnevski",
+            "2020",
+            "aNzgtAYAAAAJ:ufrVoPGSRksC",
+            9,
+            "https:\/\/www.ingentaconnect.com\/contentone\/ben\/cmir\/2020\/00000016\/00000007\/art00004",
+            "7648051959728908512",
+            "\/scholar?cites=7648051959728908512",
+            {
+                "2019":1,
+                "2020":6,
+                "2021":2
+            }
+        ],
+        [
+            "Positive definiteness and Hurwitz stability of the interval systems are discussed. A linear matrix inequality representation is introduced to simplify the analysis of the interval system. First, it is shown that the interval matrix can be stable if it has 2 conditions. Afterward, they converted to linear matrix inequalities for simplifying the conditions solution. A Lyapunov function is introduced to prove the new representation based on linear matrix inequalities. ",
+            "Stability analysis of the interval systems based on linear matrix inequalities",
+            "Navid Razmjooy and Mehdi Ramezani and V\u00e2nia Vieira Estrela and Hermes Jos\u00e9 Loschi and Douglas Aguiar do Nascimento",
+            "2018",
+            "aNzgtAYAAAAJ:YsMSGLbcyi4C",
+            8,
+            "https:\/\/link.springer.com\/chapter\/10.1007\/978-3-030-16053-1_36",
+            "15849456967668436322",
+            "\/scholar?cites=15849456967668436322",
+            {
+                "2019":2,
+                "2020":5
+            }
+        ],
+        [
+            "In this paper is discussed the importance of analysis for electromagnetic compatibility of the photovoltaic generation systems components concerning emissions of radiated and conducted electromagnetic disturbances on mains DC and AC lines. Current standards and tests showed that some frequency spectrum bands such from 150 kHz to 5MHz it is the more affected by conducted disturbances and from 30MHz to 200MHz it is the more affected by radiated disturbances, by the two main types of photovoltaic generation systems: Grid-Tied and Off-Grid applications. The concern is greater since one equipment used for the tests has EMC certifications. In addition, with the measurements of radiated and conducted electromagnetic disturbances it becomes possible to discuss a future scenario for mandatory certification of components of PV generation systems, mainly PV inverters and their applications.",
+            "EMC Evaluation of Off-Grid and Grid-Tied Photovoltaic Systems for the Brazilian Scenario",
+            "HJ Loschi and LAS Ferreira and DA Nascimento and PER Cardoso and SRM Carvalho and F Conte",
+            "2018",
+            "aNzgtAYAAAAJ:_FxGoFyzp5QC",
+            8,
+            "http:\/\/www.jocet.org\/vol6\/447-EP004.pdf",
+            "2355134536111681883",
+            "\/scholar?cites=2355134536111681883",
+            {
+                "2017":1,
+                "2018":1,
+                "2019":2,
+                "2020":4
+            }
+        ],
+        [
+            "Unmanned aerial vehicles (UAVs) handle operations such as inspection, mapping, monitoring, and surveying, to cite a few, that assist image processing, aerial imaging, and computer vision (CV) algorithms. The UAVs with cameras collect a massive amount of images and videos for various research and commercial applications. Furthermore, UAVs have various sensors, eg, thermal, magnetic, sound, light, and speed, to collect environment details for specific research as well as commercial usages. Thus, this chapter focuses on acquiring, storing, processing, and compressing images and videos. This chapter describes how CV software impacts tasks such as processing, communications, storage, and compression besides other applications specific to a UAV cyber-physical system (CPS). Additionally, Section 2.2 explains the general architecture of the cloud-based UAV-CPS, the challenges, and design goals. Section 2.3 discusses memory usage in UAV, specific requirements, limitations of onboard storage, and general solutions. Section 2.4 briefs the UAV data logging (DL), primary benefits, and protocol standardisation with examples. Section 2.5 grants a view of the different types of DL, requirements, and proposes solutions. Section 2.6 discusses future trends of data storage, data processing, control, the impact of big data, complexity, privacy barriers, infrastructure, and other challenges.",
+            "Computer vision and data storage in UAVs",
+            "Vania V Estrela and Jude Hemanth and Hermes J Loschi and Douglas A Nascimento and Yuzo Iano and Navid Razmjooy",
+            "2020",
+            "aNzgtAYAAAAJ:3fE2CSJIrl8C",
+            4,
+            "http:\/\/scholar.google.com\/scholar?cluster=12547169644093845159&hl=en&oi=scholarr",
+            "12547169644093845159",
+            "\/scholar?cites=12547169644093845159",
+            {
+                "2020":1,
+                "2021":3
+            }
+        ],
+        [
+            "Orthogonal Space-Time Block Codes (OSTBC) and multiple-input-multiple-output (MIMO) communication system are new techniques with high performance that have many applications in wireless telecommunications. This chapter presents an image transfer technique for the unmanned aerial vehicle (UAV) in a UWB system using a hybrid structure of the MIMO-OSTBC wireless environment in multiple description coding (MDC) deals. MDC technique for image transmission is a new approach in which there is no record of it so far. This ensures that in the packet loss scenario due to channel errors, images with acceptable quality with no need for retransmission can be reconstructed. The proposed system is implemented using a different number of transmitter and receiver antennas UAV. Assuming a Rayleigh model for the communication channels, the MDC image transmission performance is compared with single \u2026",
+            "Image transmission in UAV MIMO UWB-OSTBC system over Rayleigh channel using multiple description coding (MDC)",
+            "Ali Arshaghi and Navid Razmjooy and Vania Estrela and Pawe\u0142 Burdziakowski and Douglas Nascimento and Anad Deshpande and Prashant Patavardhan",
+            "2020",
+            "aNzgtAYAAAAJ:0EnyYjriUFMC",
+            3,
+            "https:\/\/mostwiedzy.pl\/pl\/publication\/image-transmission-in-uav-mimo-uwb-ostbc-system-over-rayleigh-channel-using-multiple-description-cod,152708-1",
+            "12634076527236421348",
+            "\/scholar?cites=12634076527236421348",
+            {
+                "2021":3
+            }
+        ],
+        [
+            "This paper describes the use of conventional and unconventional partial discharge tests by capacitive and inductive coupling in Instrument Transformers (IT). The objective of this work was to evaluate Phase-Resolveld Partial Discharge (PRPD) signatures features obtained during on-site (online) and laboratory (offline) measurements, by comparing results with state-of-the-art patterns and standard recommendations. The analysis of the results showed that is possible to obtain partial discharge (PD) patterns - corona, background noise, internal PD, free potential and surface PD - at on-site measurements but those are compromised by the pulse attenuation, difficulties in performing measuring system calibration and the absence of reference voltage. Suitable range of on-site measuring was above 1 MHz up to 5 MHz. The results reached in on-site measuring can be used as image preprocessing methodology to \u2026",
+            "Evaluation of partial discharge signatures using inductive coupling at on-site measuring for instrument transformers",
+            "Douglas Aguiar do Nascimento and Yuzo Iano and Hermes Jos\u00e9 Loschi and Luiz Antonio de Sousa Ferreira and Jos\u00e9 Ant\u00f4nio Donizete Rossi and Clayton Duarte Pessoa",
+            "2018",
+            "aNzgtAYAAAAJ:IjCSPb-OGe4C",
+            3,
+            "https:\/\/www.degruyter.com\/view\/journals\/ijeeps\/19\/1\/article-20170160.xml",
+            "16393133126527252327",
+            "\/scholar?cites=16393133126527252327",
+            {
+                "2019":3
+            }
+        ],
+        [
+            "Field-Programmable Gate Array (FPGA) provides the possibility to design new \u201celectromagnetic compatibility (EMC) friendly\u201d control techniques for power electronic converters. Such control techniques use pseudo-random modulators (RanM) to control the converter switches. However, some issues connected with the FPGA-based design of RanM, such as matching the range of fixed-point numbers, might be challenging. The modern programming tools, such as LabVIEW, may facilitate the design process, but there are still fixed-point operations and limitations in arithmetic operations. This paper presents the design insights on the FPGA-based EMC friendly control system for DC\/DC converter. Probability density functions (PDF) are used to analyse and improve pseudo-random algorithms. The theoretical algorithms, hardware details and experimental results are presented and discussed in terms of conducted electromagnetic interference emission. View Full-Text",
+            "FPGA-Based System for Electromagnetic Interference Evaluation in Random Modulated DC\/DC Converters",
+            "Hermes Loschi and Piotr Lezynski and Robert Smolenski and Douglas Nascimento and Wojciech Sleszynski",
+            "2020",
+            "aNzgtAYAAAAJ:roLk4NBRz8UC",
+            2,
+            "https:\/\/www.mdpi.com\/1996-1073\/13\/9\/2389",
+            "9875426357281703864",
+            "\/scholar?cites=9875426357281703864",
+            {
+                "2020":2
+            }
+        ],
+        [
+            "\u2022 Off-Grid: Nas plantas que possuem transformador ligado \u00e0 carga, os sistemas podem ser do tipo: IT, TN, TT;\u2022 Off-Grid: Plantas que n\u00e3o exigem transformador, a instala\u00e7\u00e3o fotovoltaica deve ser isolada do aterramento (MANCILHA, 2013)(ABB, 2010);\u2022 Grid-Tied: O aterramento de SFRC difere dos sistemas isolados (PINHO; GALDINO, 2014)\u2013uso de aterramento funcional e de prote\u00e7\u00e3o.",
+            "Instala\u00e7\u00f5es De Sistemas De Gera\u00e7\u00e3o Solar Fotovoitaca",
+            "Douglas Aguiar NASCIMENTO and Yuzo IANO and Hermes Jos\u00e9 LOSCHI and Silvio Renato Messias DE CARVALHO",
+            "2019",
+            "aNzgtAYAAAAJ:Se3iqnhoufwC",
+            2,
+            "https:\/\/www.researchgate.net\/profile\/Hermes_Jose_Loschi\/publication\/324971327_Instalacoes_de_Sistemas_de_Geracao_Solar_Fotovoltaica_Um_estudo_sobre_sistemas_de_aterramento_protecao_contra_surto_e_descargas_atmosfericas\/links\/5aee2fa5a6fdcc8508b80f48\/Instalacoes-de-Sistemas-de-Geracao-Solar-Fotovoltaica-Um-estudo-sobre-sistemas-de-aterramento-protecao-contra-surto-e-descargas-atmosfericas.pdf",
+            "9239373707592877585",
+            "\/scholar?cites=9239373707592877585",
+            {
+                "2020":2
+            }
+        ],
+        [
+            "The performance of photovoltaic (PV) systems is highly influenced by the tilt angle of PV modules and the incidence of global solar irradiance, which may change the solar to electrical conversion efficiency. Some authors have addressed these uncertainties arising from PV solar generation by using mechanisms and methods in which solar tracking systems are integrated to PV systems. Since the advent of the internet of things (IoT), this solar tracking strategy has yet to meet the requirements of scalable distributed power systems that can seamlessly support the PV solar generation, mainly for remote monitoring and control. In this context, this paper aims at developing a prospective study devoted to examine fundamental concepts to implement solar tracking algorithms based on local solar time by using embedded technology from the IoT platform. Preliminary results evidenced an improvement of up to 38% in power \u2026",
+            "A solar tracking system based on local solar time integrated to photovoltaic systems",
+            "Luiz AS Ferreira and Hermes J Loschi and Abel AD Rodriguez and Yuzo Iano and Douglas A do Nascimento",
+            "2018",
+            "aNzgtAYAAAAJ:d1gkVwhDpl0C",
+            2,
+            "https:\/\/asmedigitalcollection.asme.org\/solarenergyengineering\/article-abstract\/140\/2\/021010\/367933",
+            "386481641513810587",
+            "\/scholar?cites=386481641513810587",
+            {
+                "2018":1,
+                "2019":1
+            }
+        ]
+    ]
+}

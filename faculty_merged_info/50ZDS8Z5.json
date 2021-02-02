@@ -1,0 +1,41 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "50ZDS8Z5",
+            "mKdf-V0AAAAJ",
+            [
+                "Superconducting qubit in a waveguide cavity with a coherence time approaching 0.1 ms",
+                "Solid-state qubits with current-controlled coupling",
+                "Decoherence in Josephson-junction qubits due to critical-current fluctuations",
+                "First-order sideband transitions with flux-driven asymmetric transmon qubits",
+                "Process verification of two-qubit quantum gates by randomized benchmarking",
+                "Entangling flux qubits with a bipolar dynamic inductance"
+            ],
+            [
+                "We report a superconducting artificial atom with a coherence time of T 2*= 92 \u03bc s and energy relaxation time T 1= 70 \u03bc s. The system consists of a single Josephson junction transmon qubit on a sapphire substrate embedded in an otherwise empty copper waveguide cavity whose lowest eigenmode is dispersively coupled to the qubit transition. We attribute the factor of four increase in the coherence quality factor relative to previous reports to device modifications aimed at reducing qubit dephasing from residual cavity photons. This simple device holds promise as a robust and easily produced artificial quantum system whose intrinsic coherence properties are sufficient to allow tests of quantum error correction.",
+                "The ability to switch the coupling between quantum bits (qubits) on and off is essential for implementing many quantum-computing algorithms. We demonstrated such control with two flux qubits coupled together through their mutual inductances and through the dc superconducting quantum interference device (SQUID) that reads out their magnetic flux states. A bias current applied to the SQUID in the zero-voltage state induced a change in the dynamic inductance, reducing the coupling energy controllably to zero and reversing its sign.",
+                "We compute the decoherence caused by 1\u2215 f fluctuations at low frequency f in the critical current I 0 of Josephson junctions incorporated into flux, phase, charge, and hybrid flux-charge superconducting quantum bits (qubits). The dephasing time \u03c4 \u03d5 scales as I 0\u2215 \u03a9 \u039b S I 0 1\u2215 2 (1 Hz), where \u03a9\u2215 2 \u03c0 is the energy-level splitting frequency, S I 0 (1 Hz) is the spectral density of the critical-current noise at 1 Hz, and \u039b\u2261\u2223 I 0 d \u03a9\u2215 \u03a9 d I 0\u2223 is a parameter computed for given parameters for each type of qubit that specifies the sensitivity of the level splitting to critical-current fluctuations. Computer simulations show that the envelope of the coherent oscillations of any qubit after time t scales as exp (\u2212 t 2\u2215 2 \u03c4 \u03d5 2) when the dephasing due to critical-current noise dominates the dephasing from all sources of dissipation. We compile published results for fluctuations in the critical current of Josephson tunnel junctions \u2026",
+                "We demonstrate rapid, first-order sideband transitions between a superconducting resonator and a frequency-modulated transmon qubit. The qubit contains a substantial asymmetry between its Josephson junctions leading to a linear portion of the energy band near the resonator frequency. The sideband transitions are driven with a magnetic flux signal of a few hundred MHz coupled to the qubit. This modulates the qubit splitting at a frequency near the detuning between the dressed qubit and resonator frequencies, leading to rates up to 85 MHz for exchanging quanta between the qubit and resonator.",
+                "We implement a complete randomized benchmarking protocol on a system of two superconducting qubits. The protocol consists of randomizing over gates in the Clifford group, which experimentally are generated via an improved two-qubit cross-resonance gate implementation and single-qubit unitaries. From this we extract an optimal average error per Clifford operation of 0.0936. We also perform an interleaved experiment, alternating our optimal two-qubit gate with random two-qubit Clifford gates, to obtain a two-qubit gate error of 0.0653. We compare these values with a two-qubit gate error of\u223c 0.12 obtained from quantum process tomography, which is likely limited by state preparation and measurement errors.",
+                "We propose a scheme to implement controllable coupling between two flux qubits using the screening current response of a dc superconducting quantum interference device (SQUID). The coupling strength is adjusted by the current bias applied to the SQUID and can be varied continuously from positive to negative values, allowing cancellation of the direct mutual inductance between the qubits. We show that this variable coupling scheme permits efficient realization of universal quantum logic. The same SQUID can be used to determine the flux states of the qubits."
+            ],
+            [
+                [
+                    "superconductivity",
+                    "quantum information",
+                    "vortex dynamics"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4
+    ],
+    "data":[
+        [
+            "MetaboLights is the first general purpose, open\u2010access database repository for cross\u2010platform and cross\u2010species metabolomics research at the European Bioinformatics Institute (EMBL\u2010EBI). Based upon the open\u2010source ISA framework, MetaboLights provides Metabolomics Standard Initiative (MSI) compliant metadata and raw experimental data associated with metabolomics experiments. Users can upload their study datasets into the MetaboLights Repository. These studies are then automatically assigned a stable and unique identifier (e.g., MTBLS1) that can be used for publication reference. The MetaboLights Reference Layer associates metabolites with metabolomics studies in the archive and is extensively annotated with data fields such as structural and chemical information, NMR and MS spectra, target species, metabolic pathways, and reactions. The database is manually curated with no specific release \u2026",
+            "MetaboLights: an open\u2010access database repository for metabolomics data",
+            "Namrata S Kale and Kenneth Haug and Pablo Conesa and Kalaivani Jayseelan and Pablo Moreno and Philippe Rocca\u2010Serra and Venkata Chandrasekhar Nainala and Rachel A Spicer and Mark Williams and Xuefei Li and Reza M Salek and Julian L Griffin and Christoph Steinbeck",
+            "2016",
+            "DFZ2T30AAAAJ:u5HHmVD_uO8C",
+            115,
+            "https:\/\/currentprotocols.onlinelibrary.wiley.com\/doi\/abs\/10.1002\/0471250953.bi1413s53",
+            "16133854927451921813",
+            "\/scholar?cites=16133854927451921813",
+            {
+                "2016":4,
+                "2017":14,
+                "2018":30,
+                "2019":40,
+                "2020":23,
+                "2021":2
+            }
+        ],
+        [
+            "MetaboLights is a database for metabolomics studies, their raw experimental data and associated metadata. The database is cross-species and cross-technique and it covers metabolite structures and their reference spectra as well as their biological roles and locations. MetaboLights is the recommended metabolomics repository for a number of leading journals and ELIXIR, the European infrastructure for life science information. In this article, we describe the significant updates that we have made over the last two years to the resource to respond to the increasing amount and diversity of data being submitted by the metabolomics community. We refreshed the website and most importantly, our submission process was completely overhauled to enable us to deliver a far more user-friendly submission process and to facilitate the growing demand for reproducibility and integration with other \u2018omics. Metabolomics \u2026",
+            "MetaboLights: a resource evolving in response to the needs of its scientific community",
+            "Kenneth Haug and Keeva Cochrane and Venkata Chandrasekhar Nainala and Mark Williams and Jiakang Chang and Kalai Vanii Jayaseelan and Claire O\u2019Donovan",
+            "2020",
+            "DFZ2T30AAAAJ:qjMakFHDy7sC",
+            94,
+            "https:\/\/academic.oup.com\/nar\/article-abstract\/48\/D1\/D440\/5613675",
+            "14373296018210351390",
+            "\/scholar?cites=14373296018210351390",
+            {
+                "2020":81,
+                "2021":13
+            }
+        ],
+        [
+            "To the Editor: Over the past few years, as the use of mass spectrometry (MS) has increased, multiple spectral libraries, databases and software frameworks have been created to enable sharing and searching of MS data. However, finding all the spectra that correspond to a specific compound across different databases continues to be a challenge. A spectral identifier that improves the exchange of mass spectra, as well as provenance and duplicate detection, would address these issues and enhance searchability. MassBank1 (http:\/\/www. massbank. jp and http:\/\/massbank. eu\/MassBank\/) has been the source of data for other open libraries, such as the Global Natural Products Social Molecular Networking2 (GNPS) and Human Metabolome Database3 (HMDB) libraries as well as the MetaboLights reference layer4. In turn, HMDB and communitycontributed spectra from GNPS have also been imported into MassBank \u2026",
+            "SPLASH, a hashed identifier for mass spectra",
+            "Gert Wohlgemuth and Sajjan S Mehta and Ramon F Mejia and Steffen Neumann and Diego Pedrosa and Tom\u00e1\u0161 Pluskal and Emma L Schymanski and Egon L Willighagen and Michael Wilson and David S Wishart and Masanori Arita and Pieter C Dorrestein and Nuno Bandeira and Mingxun Wang and Tobias Schulze and Reza M Salek and Christoph Steinbeck and Venkata Chandrasekhar Nainala and Robert Mistrik and Takaaki Nishioka and Oliver Fiehn",
+            "2016",
+            "DFZ2T30AAAAJ:u-x6o8ySG0sC",
+            42,
+            "https:\/\/www.nature.com\/nbt\/journal\/v34\/n11\/full\/nbt.3689.html",
+            "13491871662787864131",
+            "\/scholar?cites=13491871662787864131",
+            {
+                "2017":15,
+                "2018":12,
+                "2019":4,
+                "2020":11
+            }
+        ],
+        [
+            "NMR spectroscopy is the most popular technique used for structure elucidation of small organic molecules in solution, but incorrect structures are regularly reported. One-bond proton-carbon J-couplings provide additional information about chemical structure because they are determined by different features of molecular structure than are proton and carbon chemical shifts. However, these couplings are not routinely used to validate proposed structures because few software tools exist to predict them. This study assesses the accuracy of Density Functional Theory for predicting them using 396 published experimental observations from a diverse range of small organic molecules. With the B3LYP functional and the TZVP basis set, Density Functional Theory calculations using the open-source software package NWChem can predict one-bond CH J-couplings with good accuracy for most classes of small organic molecule. The root-mean-square deviation after correction is 1.5 Hz for most sp3 CH pairs and 1.9 Hz for sp2 pairs; larger errors are observed for sp3 pairs with multiple electronegative substituents and for sp pairs. These results suggest that prediction of one-bond CH J-couplings by Density Functional Theory is sufficiently accurate for structure validation. This will be of particular use in strained ring systems and heterocycles which have characteristic couplings and which pose challenges for structure elucidation.",
+            "The Potential Utility of Predicted One Bond Carbon-Proton Coupling Constants in the Structure Elucidation of Small Organic Molecules by NMR Spectroscopy",
+            "Christoph Steinbeck Chandrasekhar Venkata and Mark J. Forster and Peter W. A. Howe",
+            "2014",
+            "DFZ2T30AAAAJ:d1gkVwhDpl0C",
+            10,
+            "https:\/\/journals.plos.org\/plosone\/article?id=10.1371\/journal.pone.0111576",
+            "14039996999955483450",
+            "\/scholar?cites=14039996999955483450",
+            {
+                "2015":1,
+                "2016":1,
+                "2017":1,
+                "2018":3,
+                "2019":4
+            }
+        ],
+        [
+            "Following similar global efforts to exchange genomic and other biomedical data, global databases in metabolomics have now been established. MetaboLights, the first general purpose, publically available, cross-species, cross-application database in metabolomics, has become the fastest growing data repository at the European Bioinformatics Institute in terms of data volume. Here we present the automated assembly of species metabolomes in MetaboLights, a crucial reference for chemical biology, which is growing through user submissions.",
+            "Automated assembly of species metabolomes through data submission into a public repository",
+            "Reza M Salek and Pablo Conesa and Keeva Cochrane and Kenneth Haug and Mark Williams and Namrata Kale and Pablo Moreno and Kalai Vanii Jayaseelan and Jose Ramon Macias and Venkata Chandrasekhar Nainala and Robert D Hall and Laura K Reed and Mark R Viant and Claire O\u2019Donovan and Christoph Steinbeck",
+            "2017",
+            "DFZ2T30AAAAJ:9yKSN-GCB0IC",
+            7,
+            "https:\/\/academic.oup.com\/gigascience\/article-abstract\/6\/8\/gix062\/3979349",
+            "6771274031651561487",
+            "\/scholar?cites=6771274031651561487",
+            {
+                "2018":4,
+                "2019":1,
+                "2020":1,
+                "2021":1
+            }
+        ]
+    ]
+}

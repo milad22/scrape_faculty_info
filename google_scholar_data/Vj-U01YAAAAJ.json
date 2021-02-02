@@ -1,0 +1,65 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Vj-U01YAAAAJ",
+            "Ihar Lobach",
+            "University of Chicago",
+            "@uchicago.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=Vj-U01YAAAAJ",
+            31,
+            [
+                "accelerator physics",
+                "x-ray diffraction"
+            ],
+            29,
+            3,
+            3,
+            0,
+            0,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3TJYDkIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Aliaksei Halavanau",
+                    "affiliation":"SLAC National Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"qTzP5DwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Andrei Benediktovitch",
+                    "affiliation":"DESY"
+                }
+            ]
+        ]
+    ]
+}

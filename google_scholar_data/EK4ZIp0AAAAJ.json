@@ -1,0 +1,125 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "EK4ZIp0AAAAJ",
+            "Utkarsh Bajpai",
+            "PhD candiate, University of Delaware",
+            "@udel.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=EK4ZIp0AAAAJ",
+            79,
+            [
+                "spintronics",
+                "quantum transport"
+            ],
+            79,
+            4,
+            4,
+            4,
+            4,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"IeDlbkIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Branislav K. Nikolic",
+                    "affiliation":"Full Professor of Physics, University of Delaware, USA"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"a-MS3boAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Bogdan Stefan Popescu",
+                    "affiliation":""
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"qVZaCskAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Marko Petrovi\u0107",
+                    "affiliation":"Postdoctoral Researcher,  Georgetown University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"dTXes40AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hiroaki Ishizuka",
+                    "affiliation":"Tokyo Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Oi3Phu8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Luis E. F. Foa Torres",
+                    "affiliation":"Associate Professor, Departamento de F\u00edsica, FCFM, Universidad de Chile"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"c1CGwBQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kapildeb Dolui",
+                    "affiliation":"University of Delaware, USA"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"7a16b_QAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mark J.H. Ku",
+                    "affiliation":"University of Delaware"
+                }
+            ]
+        ]
+    ]
+}

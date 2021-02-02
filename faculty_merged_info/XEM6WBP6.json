@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "XEM6WBP6",
+            "TyX3mJMAAAAJ",
+            [
+                "Electron transport through thin organic films in metal\u2212 insulator\u2212 metal junctions based on self-assembled monolayers",
+                "Optical chirality and its interaction with matter",
+                "All-optical electrophysiology in mammalian neurons using engineered microbial rhodopsins",
+                "Enhanced enantioselectivity in excitation of chiral molecules by superchiral light",
+                "Optical recording of action potentials in mammalian neurons using a microbial rhodopsin",
+                "Electrical spiking in Escherichia coli probed with a fluorescent voltage-indicating protein",
+                "Surface plasmon resonance enhanced magneto-optics (SuPREMO): Faraday rotation enhancement in gold-coated iron oxide nanocrystals",
+                "Suppressing Brownian motion of individual biomolecules in solution",
+                "Method for trapping and manipulating nanoscale objects in solution",
+                "All-optical interrogation of neural circuits"
+            ],
+            [
+                "This paper describes an experimentally simple system for measuring rates of electron transport across organic thin films having a range of molecular structures. The system uses a metal\u2212insulator\u2212metal junction based on self-assembled monolayers (SAMs); it is particularly easy to assemble. The junction consists of a SAM supported on a silver film (Ag-SAM(1)) in contact with a second SAM supported on the surface of a drop of mercury (Hg-SAM(2))that is, a Ag-SAM(1)SAM(2)-Hg junction. SAM(1) and SAM(2) can be derived from the same or different thiols. The current that flowed across junctions with SAMs of aliphatic thiols or aromatic thiols on Ag and a SAM of hexadecane thiol on Hg depended both on the molecular structure and on the thickness of the SAM on Ag:\u2009 the current density at a bias of 0.5 V ranged from 2 \u00d7 10-10 A\/cm2 for HS(CH2)15CH3 on Ag to 1 \u00d7 10-6 A\/cm2 for HS(CH2)7CH3 on Ag, and from \u2026",
+                "We introduce a measure of the local density of chirality of the electromagnetic field. This optical chirality determines the asymmetry in the rates of excitation between a small chiral molecule and its mirror image, and applies to molecules in electromagnetic fields with arbitrary spatial dependence. A continuity equation for optical chirality in the presence of material currents describes the flow of chirality, in a manner analogous to the Poynting theorem for electromagnetic energy.\u201cSuperchiral\u201d solutions to Maxwell\u2019s equations show larger chiral asymmetry, in some regions of space, than is found in circularly polarized plane waves.",
+                "All-optical electrophysiology\u2014spatially resolved simultaneous optical perturbation and measurement of membrane voltage\u2014would open new vistas in neuroscience research. We evolved two archaerhodopsin-based voltage indicators, QuasAr1 and QuasAr2, which show improved brightness and voltage sensitivity, have microsecond response times and produce no photocurrent. We engineered a channelrhodopsin actuator, CheRiff, which shows high light sensitivity and rapid kinetics and is spectrally orthogonal to the QuasArs. A coexpression vector, Optopatch, enabled cross-talk\u2013free genetically targeted all-optical electrophysiology. In cultured rat neurons, we combined Optopatch with patterned optical excitation to probe back-propagating action potentials (APs) in dendritic spines, synaptic transmission, subcellular microsecond-timescale details of AP propagation, and simultaneous firing of many neurons in a \u2026",
+                "A molecule or larger body is chiral if it cannot be superimposed on its mirror image (enantiomer). Electromagnetic fields may be chiral, too, with circularly polarized light (CPL) as the paradigmatic example. A recently introduced measure of the local degree of chiral dissymmetry in electromagnetic fields suggested the existence of optical modes more selective than circularly polarized plane waves in preferentially exciting single enantiomers in certain regions of space. By probing induced fluorescence intensity, we demonstrated experimentally an 11-fold enhancement over CPL in discrimination of the enantiomers of a biperylene derivative by precisely sculpted electromagnetic fields. This result, which agrees to within 15% with theoretical predictions, establishes that optical chirality is a fundamental and tunable property of light, with possible applications ranging from plasmonic sensors to absolute asymmetric \u2026",
+                "Reliable optical detection of single action potentials in mammalian neurons has been one of the longest-standing challenges in neuroscience. Here we achieved this goal by using the endogenous fluorescence of a microbial rhodopsin protein, Archaerhodopsin 3 (Arch) from Halorubrum sodomense, expressed in cultured rat hippocampal neurons. This genetically encoded voltage indicator exhibited an approximately tenfold improvement in sensitivity and speed over existing protein-based voltage indicators, with a roughly linear twofold increase in brightness between\u2212 150 mV and+ 150 mV and a sub-millisecond response time. Arch detected single electrically triggered action potentials with an optical signal-to-noise ratio> 10. Arch (D95N) lacked endogenous proton pumping and had 50% greater sensitivity than wild type but had a slower response (41 ms). Nonetheless, Arch (D95N) also resolved individual \u2026",
+                "Bacteria have many voltage- and ligand-gated ion channels, and population-level measurements indicate that membrane potential is important for bacterial survival. However, it has not been possible to probe voltage dynamics in an intact bacterium. Here we developed a method to reveal electrical spiking in Escherichia coli. To probe bacterial membrane potential, we engineered a voltage-sensitive fluorescent protein based on green-absorbing proteorhodopsin. Expression of the proteorhodopsin optical proton sensor (PROPS) in E. coli revealed electrical spiking at up to 1 hertz. Spiking was sensitive to chemical and physical perturbations and coincided with rapid efflux of a small-molecule fluorophore, suggesting that bacterial efflux machinery may be electrically regulated.",
+                "We report enhanced optical Faraday rotation in gold-coated maghemite (\u03b3-Fe2O3) nanoparticles. The Faraday rotation spectrum measured from 480\u2212690 nm shows a peak at about 530 nm, not present in either uncoated maghemite nanoparticles or solid gold nanoparticles. This peak corresponds to an intrinsic electronic transition in the maghemite nanoparticles and is consistent with a near-field enhancement of Faraday rotation resulting from the spectral overlap of the surface plasmon resonance in the gold with the electronic transition in maghemite. This demonstration of surface plasmon resonance-enhanced magneto-optics (SuPREMO) in a composite magnetic\/plasmonic nanosystem may enable design of nanostructures for remote sensing and imaging of magnetic fields and for miniaturized magneto-optical devices.",
+                "Single biomolecules in free solution have long been of interest for detailed study by optical methods, but Brownian motion prevents the observation of one single molecule for extended periods. We have used an anti-Brownian electrokinetic (ABEL) trap to trap individual protein molecules in free solution, under ambient conditions, without requiring any attachment to beads or surfaces. We also demonstrate trapping and manipulation of single virus particles, lipid vesicles, and fluorescent semiconductor nanocrystals.",
+                "We present a device that allows a user to trap a single nanoscale object in solution at ambient temperature, and then to position the trapped object with nanoscale resolution. This anti-Brownian electrophoretic trap (ABEL trap) works by monitoring the Brownian motion of the particle (via fluorescence microscopy), and then applying a feedback voltage to the solution so that the electrophoretic drift exactly cancels the Brownian motion. The ABEL trap works on any object that can be imaged optically and that acquires a charge in water. The ABEL trap is noninvasive, is gentle enough to handle biological molecules, and can trap objects far smaller than can be trapped with laser tweezers. Our proof-of-principle device can trap fluorescent polystyrene nanospheres with diameters down to 20nm.",
+                "There have been two recent revolutionary advances in neuroscience: First, genetically encoded activity sensors have brought the goal of optical detection of single action potentials in vivo within reach. Second, optogenetic actuators now allow the activity of neurons to be controlled with millisecond precision. These revolutions have now been combined, together with advanced microscopies, to allow \u201call-optical\u201d readout and manipulation of activity in neural circuits with single-spike and single-neuron precision. This is a transformational advance that will open new frontiers in neuroscience research. Harnessing the power of light in the all-optical approach requires coexpression of genetically encoded activity sensors and optogenetic probes in the same neurons, as well as the ability to simultaneously target and record the light from the selected neurons. It has recently become possible to combine sensors and optical \u2026"
+            ],
+            [
+                [
+                    "Biophysics",
+                    "Neuroscience",
+                    "Physical Chemistry"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "4NQm1E8AAAAJ",
+            "Esperanza Gil Soto",
+            "Universidad de La Laguna",
+            "@ull.edu.es",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=4NQm1E8AAAAJ",
+            223,
+            [
+                "Entrepreneurship",
+                "Corporate Social Responsibility",
+                "Management information systems"
+            ],
+            205,
+            7,
+            7,
+            7,
+            7,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"uTExprwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Francisco J. Garc\u00eda Rodr\u00edguez",
+                    "affiliation":"Senior Lecturer in Business Management and Entrepreneurship in Universidad de La Laguna"
+                }
+            ]
+        ]
+    ]
+}

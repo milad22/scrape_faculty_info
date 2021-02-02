@@ -1,0 +1,148 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "IDQJ8MkAAAAJ",
+            "Franklin Dollar",
+            "Professor of Physics & Astronomy, University of California, Irvine",
+            "@uci.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=IDQJ8MkAAAAJ",
+            3238,
+            [
+                "Plasma Physics"
+            ],
+            2179,
+            26,
+            22,
+            38,
+            31,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"cRHdWZ0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Karl Krushelnick",
+                    "affiliation":"Center for Ultrafast Optical Science, University of Michigan"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"2uR3mrgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alexander George Roy Thomas",
+                    "affiliation":"University of Michigan"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fbL5uSAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Margaret Murnane",
+                    "affiliation":"Professor of Physics, University of Colorado at Boulder"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"KvJ5aqUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Daniel D. Hickstein",
+                    "affiliation":"NIST"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"cshPl0kAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Louise Willingale",
+                    "affiliation":"University of Michigan"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"_NJU0e8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Christopher Mancuso",
+                    "affiliation":"Michigan State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"68ufDXYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Carlos Hern\u00e1ndez-Garc\u00eda",
+                    "affiliation":"University of Salamanca"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"SPrmq6UAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tenio Popmintchev",
+                    "affiliation":"Assistant Professor of Physics, University of California San Diego and TU Wien"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"DPFoVmMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dimitar Popmintchev",
+                    "affiliation":"TU Wien"
+                }
+            ]
+        ]
+    ]
+}

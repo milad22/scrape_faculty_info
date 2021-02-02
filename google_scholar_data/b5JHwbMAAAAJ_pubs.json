@@ -1,0 +1,45 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            " Summary: The Biopython project is a mature open source international collaboration of volunteer developers, providing Python libraries for a wide range of bioinformatics problems. Biopython includes modules for reading and writing different sequence file formats and multiple sequence alignments, dealing with 3D macro molecular structures, interacting with common tools such as BLAST, ClustalW and EMBOSS, accessing key online databases, as well as providing numerical methods for statistical learning. Availability: Biopython is freely available, with documentation and source code at www.biopython.org under the Biopython license. Contact: All queries should be directed to the Biopython mailing lists, see www.biopython.org\/wiki\/_Mailing_listspeter.cock@scri.ac.uk.",
+            "Biopython: freely available Python tools for computational molecular biology and bioinformatics",
+            "Peter JA Cock and Tiago Antao and Jeffrey T Chang and Brad A Chapman and Cymon J Cox and Andrew Dalke and Iddo Friedberg and Thomas Hamelryck and Frank Kauff and Bartek Wilczynski and Michiel JL de Hoon",
+            "2009",
+            "b5JHwbMAAAAJ:qjMakFHDy7sC",
+            2549,
+            "https:\/\/academic.oup.com\/bioinformatics\/article-abstract\/25\/11\/1422\/330687",
+            "6316066505201525806",
+            "\/scholar?cites=6316066505201525806",
+            {
+                "2009":14,
+                "2010":57,
+                "2011":71,
+                "2012":96,
+                "2013":123,
+                "2014":141,
+                "2015":179,
+                "2016":249,
+                "2017":267,
+                "2018":356,
+                "2019":401,
+                "2020":527,
+                "2021":50
+            }
+        ]
+    ]
+}

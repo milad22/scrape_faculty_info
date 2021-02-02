@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "MMAE48GL",
+            "Th64cmYAAAAJ",
+            [
+                "Point-set topological spatial relations",
+                "Geographical information science",
+                "Medicine in Europe: complementary medicine in Europe",
+                "Overcoming the semantic and other barriers to GIS interoperability",
+                "The pixel: a snare and a delusion",
+                "Interactive maps for visual data exploration",
+                "Causes and consequences of error in digital elevation models",
+                "Information behaviour of migrant Hispanic farm workers and their families in the Pacific Northwest",
+                "Models of uncertainty in spatial data",
+                "A critical synthesis of remotely sensed optical image change detection techniques"
+            ],
+            [
+                "Practical needs in geographic information systems (GIS) have led to the investigation of formal and sound methods of describing spatial relations. After an introduction to the basic ideas and notions of topology, a novel theory of topological spatial relations between sets is developed in which the relations are defined in terms of the intersections of the boundaries and interiors of two sets. By considering empty and non-empty as the values of the intersections, a total of sixteen topological spatial relations is described, each of which can be realized in R 2. This set is reduced to nine relations if the sets are restricted to spatial regions, a fairly broad class of subsets of a connected topological space with an application to GIS. It is shown that these relations correspond to some of the standard set theoretical and topological spatial relations between sets such as equality, disjointness and containment in the interior.",
+                " Abstract. Research papers at conferences such as EGIS and the International Symposia on Spatial Data Handling address a set of intellectual and scientific questions which go well beyond the limited technical capabilities of current technology in geographical information systems. This paper reviews the topics which might be included in a science of geographical information. Research on these fundamental issues is a better prospect for long-term survival and acceptance in the academy than the development of technical capabilities. This paper reviews the current state of research in a series of key areas and speculates on why progress has been so uneven. The final section of the paper looks to the future and to new areas of significant potential in this area of research.",
+                "Complementary or unconventional treatments are used by many doctors and other therapists throughout Europe. The major forms are acupuncture, homoeopathy, manual therapy or manipulation, and phytotherapy or herbal medicine. The relative popularity of therapies differs between countries, but public demand is strong and growing. Regulation of practitioners varies widely: in most countries only registered health professionals may practice, but in the United Kingdom practice is virtually unregulated. Germany and some Scandinavian countries have intermediate systems. Legal reforms are in progress in the Netherlands and the United Kingdom. European institutions are starting to influence the development of complementary medicine. Harmonisation of training and regulation of practitioners is the challenge for the future.To speak of \u201calternative\u201d medicine is, as Pietroni has pointed out, like talking about \u2026",
+                "An increasing number of applications need to work on data that are scattered over several independent geographical information systems. This has led to extensive research efforts in the field of interoperable information systems. The term interoperability is used in a number of different contexts. In this paper a concise explanation of the meaning of interoperability in the context of GIS is given. Current efforts in this realm are presented. Problems and challenges of the next interoperable GIS generation are identified. A proposal to meet these challenges is presented.",
+                "The pixel is an explicit feature of remotely-sensed imagery, and a primary concept of the raster GIS (Geographical Information System) which is the usual vehicle for integration. This Letter addresses the underlying spatial conceptualization of the pixel, which is the parallel of the grid cell in spatial analysis, and the regular grid in sampling. It is argued that integration of remote sensing and GIS can only possibly advance if we develop methods to address the conceptual short-comings of the pixel as a spatial entity, and stop pretending that it is a true geographical object. Three major strands of research which address this issue are highlighted, including mixture modelling, geostatistics and fuzzy classification.",
+                "Descartes (formerly called IRIS) is a software system designed to support visual exploration of spatially referenced data, e.g. demographic, economical, or cultural information about geographical objects or locations such as countries, districts, or cities. Descartes offers two integrated services: automated presentation of data on maps, and facilities to interactively manipulate these maps. Automated mapping is enabled by incorporating generic knowledge on map design into the system. Descartes selects suitable presentation methods according to characteristics of the variables to be analysed and relationships among those variables if more than one were selected simultaneously. The cartographic knowledge of Descartes allows non-cartographers to receive proper presentations of their data, and the automation of map construction helps the users to save valuable time that can better be used for data analysis and \u2026",
+                "All digital data contain error and many are uncertain. Digital models of elevation surfaces consist of files containing large numbers of measurements representing the height of the surface of the earth, and therefore a proportion of those measurements are very likely to be subject to some level of error and uncertainty. The collection and handling of such data and their associated uncertainties has been a subject of considerable research, which has focused largely upon the description of the effects of interpolation and resolution uncertainties, as well as modelling the occurrence of errors. However, digital models of elevation derived from new technologies employing active methods of laser and radar ranging are becoming more widespread, and past research will need to be re-evaluated in the near future to accommodate such new data products. In this paper we review the source and nature of errors in digital models \u2026",
+                "Immigrants are generally perceived to be information poor, meaning they face major challenges with finding and using greatly needed everyday information. However, little research exists from an information behaviour perspective as differences in language, culture, and other factors such as access make immigrants a difficult population to study. We explored the everyday information behaviour and information grounds of migrant Hispanic farm workers through field observation and interviews with users and staff of community technology centres in a major agricultural area. Findings suggest that personal networks having various levels of credibility were used more readily than any other type of information source. Credibility and use of various sources seemed to relate to personal status as well as interest in information.",
+                "\u2018The universe, they said, depended for its operation on the balance of four forces which they identified as charm, persuasion, uncertainty and bloody-mindedness.\u2019Terry Pratchett (1986) acuracy n. An absence of erors.\u2018The computer offers both speed and acuracy, but the greatest of these is acuracy\u2019(sic)",
+                "State of the art reviews of remote sensing change detection are becoming increasingly complicated and disparate due to an ever growing list of techniques, algorithms and methods. To provide a clearer, synoptic view of the field this review has organised the literature by the unit of analysis and the comparison method used to identify change. This significantly reduces the conceptual overlap present in previous reviews giving a succinct nomenclature with which to understand and apply change detection workflows. Under this framework, several decades of research have been summarised to provide an overview of current change detection approaches. Seven units of analysis and six comparison methods were identified and described highlighting the advantages and limitations of each within a change detection workflow. Of these, the pixel and post-classification change methods remain the most popular choices \u2026"
+            ],
+            [
+                [
+                    "Geographical Information Science",
+                    "Spatial Analysis",
+                    "Uncertainty",
+                    "Fuzzy Sets",
+                    "Remote Sensing"
+                ]
+            ]
+        ]
+    ]
+}

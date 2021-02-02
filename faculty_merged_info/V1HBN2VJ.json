@@ -1,0 +1,48 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "V1HBN2VJ",
+            "3E5qk1EAAAAJ",
+            [
+                "Observation of optically induced Feshbach resonances in collisions of cold atoms",
+                "Photoassociation of sodium in a Bose-Einstein condensate",
+                "Super-radiance reveals infinite-range dipole interactions through a nanofiber",
+                "PEGylated Luminescent Gold Nanoclusters: Synthesis, Characterization, Bioconjugation, and Application to One\u2010and Two\u2010Photon Cellular Imaging",
+                "Cold-atom confinement in an all-optical dark ring trap",
+                "Ultracold ground-state molecule production in sodium",
+                "Azimuthally and radially polarized light with a nematic SLM",
+                "Generation of hollow beams by using a binary spatial light modulator",
+                "Cylindrical vector beams for rapid polarization-dependent measurements in atomic systems",
+                "Optical nanofibers: a new platform for quantum optics"
+            ],
+            [
+                "We have observed optically induced Feshbach resonances in a cold (< 1 mK) sodium vapor. The optical coupling of the ground and excited-state potentials changes the scattering properties of an ultracold gas in much the same way as recently observed magnetically induced Feshbach resonances, but allows for some experimental conveniences associated with using lasers. The scattering properties can be varied by changing either the intensity or the detuning of a laser tuned near a photoassociation transition to a molecular state in the dimer. In principle this method allows the scattering length of any atomic species to be altered. A simple model is used to fit the dispersive resonance line shapes.",
+                "We form ultracold Na 2 molecules by single-photon photoassociation of a Bose-Einstein condensate, measuring the photoassociation rate, linewidth, and light shift of the J= 1, v= 135 vibrational level of the A 1 \u03a3 u+ molecular state. The photoassociation rate constant increases linearly with intensity, even where it is predicted that many-body effects might limit the rate. Our observations are in good agreement with a two-body theory having no free parameters.",
+                "Atoms interact with each other through the electromagnetic field, creating collective states that can radiate faster or slower than a single atom, ie, super-and sub-radiance. When the field is confined to one dimension it enables infinite-range atom\u2013atom interactions. Here we present the first report of infinite-range interactions between macroscopically separated atomic dipoles mediated by an optical waveguide. We use cold 87 Rb atoms in the vicinity of a single-mode optical nanofiber (ONF) that coherently exchange evanescently coupled photons through the ONF mode. In particular, we observe super-radiance of a few atoms separated by hundreds of resonant wavelengths. The same platform allows us to measure sub-radiance, a rarely observed effect, presenting a unique tool for quantum optics. This result constitutes a proof of principle for collective behavior of macroscopically delocalized atomic states, a crucial \u2026",
+                "Biocompatible, near\u2010infrared luminescent gold nanoclusters (AuNCs) are synthesized directly in water using poly(ethylene glycol)\u2010dithiolane ligands terminating in either a carboxyl, amine, azide, or methoxy group. The \u22481.5 nm diameter AuNCs fluoresce at \u2248820 nm with quantum yields that range from 4\u20138%, depending on the terminal functional group present, and display average luminescence lifetimes approaching 1.5 \u03bcs. The two\u2010photon absorption (TPA) cross\u2010section and two\u2010photon excited fluorescence (TPEF) properties are also measured. Long\u2010term testing shows the poly(ethylene glycol) stabilized AuNCs maintain colloidal stability in a variety of media ranging from saline to tissue culture growth medium along with tolerating storage of up to 2 years. DNA and dye\u2010conjugation reactions confirm that the carboxyl, amine, and azide groups can be utilized on the AuNCs for carbodiimide, succinimidyl ester \u2026",
+                "We demonstrate confinement of Rb 85 atoms in a dark, toroidal optical trap. We use a spatial light modulator to convert a single blue-detuned Gaussian laser beam to a superposition of Laguerre-Gaussian modes that forms a ring-shaped intensity null bounded harmonically in all directions. We measure a 1\u2215 e spin-relaxation lifetime of\u2248 1.5 s for a trap detuning of 4.0 nm. For smaller detunings, a time-dependent relaxation rate is observed. We use these relaxation rate measurements and imaging diagnostics to optimize trap alignment in a programmable manner with the modulator. The results are compared with numerical simulations.",
+                "We have observed the formation of ground-state Na 2 molecules via the spontaneous decay of excited molecules created by the photoassociation of ultracold atoms. We measure the binding energies of molecules created in three hyperfine components of the lowest singlet and triplet potentials of Na 2 by two different methods. Two of the features are purely triplet a 3 \u03a3 u+(v= 15)(quasibound) states that have not been previously observed, while the third is a mixed X 1 \u03a3 g+\u2013a 3 \u03a3 u+ state. The molecules are detected with high-resolution cw laser ionization techniques and binding energies are measured to within 10 MHz.",
+                "We demonstrate a technique for generating azimuthally and radially polarized beams using a nematic liquid crystal spatial light modulator and a \u03c0 phase step. The technique is similar in concept to prior techniques that interfere TEM_01 and TEM_10 laser modes, but the presented technique removes the requirement of interferometric stability. We calculate an overlap integral of >0.96 with >70% efficiency from an input Gaussian mode. The technique can easily switch between beams with azimuthal and radial polarization.",
+                "We demonstrate the generation of hollow laser beams by using a binary spatial light modulator and compare the results with those for a continuous modulator. The binary phase modulator produces beams that have continuous, azimuthally varying phase profiles and can be dynamically changed with kilohertz refresh rates. The intensity and phase profiles are recorded through the focus of an imaging lens and are compared with scalar diffraction theory. We highlight properties of the beams relevant to optical dipole traps.",
+                "We demonstrate the use of cylindrical vector beams \u2013 beams with spatially varying polarization \u2013 for detecting and preparing the spin of a warm rubidium vapor in a spatially dependent manner. We show that a modified probe vector beam can serve as an atomic spin analyzer for an optically pumped medium, which spatially modulates absorption of the beam. We also demonstrate space-variant atomic spin by optical pumping with the vector beams. The beams are thus beneficial for making single-shot polarization-dependent measurements, as well as for providing a means of preparing samples with position-dependent spin.",
+                "The development of optical nanofibers (ONFs) and the study and control of their optical properties when coupling atoms to their electromagnetic modes has opened new possibilities for their use in quantum optics and quantum information science. These ONFs offer tight optical mode confinement (less than the wavelength of light) and diffraction-free propagation. The small cross section of the transverse field allows probing of linear and nonlinear spectroscopic features of atoms with exquisitely low power. The cooperativity\u2014the figure of merit in many quantum optics and quantum information systems\u2014tends to be large even for a single atom in the mode of an ONF, as it is proportional to the ratio of the atomic cross section to the electromagnetic mode cross section. ONFs offer a natural bus for information and for inter-atomic coupling through the tightly confined modes, which opens the possibility of one-dimensional \u2026"
+            ],
+            [
+                [
+                    "physics",
+                    "optics"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "KbcHK8YAAAAJ",
+            "Zhaoyu Liu",
+            "Physics Department Iowa State University and  Ames Laboratory, US Department of Energy",
+            "@iastate.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=KbcHK8YAAAAJ",
+            204,
+            [
+                "Condensed matter physics"
+            ],
+            203,
+            8,
+            8,
+            7,
+            7,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6CpDG0cAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jigang Wang",
+                    "affiliation":"Department of Physics and Astronomy, Ames Laboratory, Iowa State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Wf-jqPsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Liang Luo",
+                    "affiliation":"Scientist II, Ames Laboratory-US Department of Energy"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"DEYQdtwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Di Cheng",
+                    "affiliation":"Research assistant, Iowa State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"uwbJ27cAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Xu Yang",
+                    "affiliation":"Iowa State University & Ames Lab"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"66G5w8IAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Richard H J Kim (\uae40\uc900\uc5f0)",
+                    "affiliation":"Iowa State University \/ Ameslab"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"DffpvSIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dinusha Herath Mudiyanselage",
+                    "affiliation":"MSc Student, US DOE Ames Laboratory, Iowa State University"
+                }
+            ]
+        ]
+    ]
+}

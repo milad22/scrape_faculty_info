@@ -1,0 +1,126 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "mY_mJKQAAAAJ",
+            "Chris Tulley",
+            "Cardiff University",
+            "@cardiff.ac.uk",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=mY_mJKQAAAAJ",
+            10,
+            [
+                "Tectonics",
+                "Structural Geology",
+                "Rock Deformation"
+            ],
+            10,
+            2,
+            2,
+            0,
+            0,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Q3Hc-jEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Matthew Tarling",
+                    "affiliation":"Geology Department, University of Otago"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"lCX3Z2EAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Petrus le Roux",
+                    "affiliation":"Dept of Geological Sciences, University of Cape Town"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"INqaVxcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Chris Harris",
+                    "affiliation":"University of Cape Town"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"M1uySK8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"James M. Scott",
+                    "affiliation":"Department of Geology University of Otago"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"dFBQktEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Steven A.F. Smith",
+                    "affiliation":"Geology Department, University of Otago"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9bdGjVQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Johann Diener",
+                    "affiliation":"University of Cape Town"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"QYJKUG0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Adam Beall",
+                    "affiliation":"Cardiff University"
+                }
+            ]
+        ]
+    ]
+}

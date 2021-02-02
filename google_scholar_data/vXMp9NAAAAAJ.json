@@ -1,0 +1,126 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "vXMp9NAAAAAJ",
+            "Matthew Kleban",
+            "Professor of Physics, New York University",
+            "@nyu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=vXMp9NAAAAAJ",
+            3486,
+            [
+                "String Theory",
+                "Cosmology",
+                "Particle Physics"
+            ],
+            1232,
+            29,
+            18,
+            49,
+            33,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"LEcbAYIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"massimo porrati",
+                    "affiliation":"Professor of Physics, NYU"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"EW8nsSkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Nemanja Kaloper",
+                    "affiliation":"Professor of Physics, University of California at Davis"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"PjKglDoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mar\u00eda Rodr\u00edguez Mart\u00ednez",
+                    "affiliation":"IBM  Research - Z\u00fcrich"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"sQxFuFIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Veronika Hubeny",
+                    "affiliation":"UC Davis"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"8vjmVtgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mukund Rangamani",
+                    "affiliation":"Professor of Physics, UC Davis"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"RpTWVqMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Lorenzo Sorbo",
+                    "affiliation":"Professor of Physics, University of Massachusetts"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"cwRglaIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ian Swanson",
+                    "affiliation":""
+                }
+            ]
+        ]
+    ]
+}

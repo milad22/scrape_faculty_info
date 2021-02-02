@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "H1HJ80G1",
+            "TSG2dw8AAAAJ",
+            [
+                "The origin of binary stars",
+                "Dynamic fission instabilities in rapidly rotating N= 3\/2 polytropes-A comparison of results from finite-difference and smoothed particle hydrodynamics codes",
+                "Shifted Fresnel diffraction for computational holography",
+                "Magnetized neutron-star mergers and gravitational-wave signals",
+                "Nonlinear evolution of the r-modes in neutron stars",
+                "A New Criterion for Bar-Forming Instability in Rapidly Rotating Gaseous and Stellar Systems. I. Axisymmetric Form",
+                "A compact cylindrical Green\u2019s function expansion for the solution of potential problems",
+                "Simulating binary neutron stars: Dynamics and gravitational waves",
+                "Using gaseous disks to probe the geometric structure of elliptical galaxies"
+            ],
+            [
+                "Although we have a general understanding of the manner in which individual stars form, our understanding of how binary stars form is far from complete. This is in large part due to the fact that the star formation process happens very quickly and in regions of the Galaxy that are difficult to study observationally. We review the theoretical models that have been developed in an effort to explain how binaries form. Several proposed mechanisms appear to be quite promising, but none is completely satisfactory.",
+                "We use three different three-dimensional hydrodynamics codes to study fission instabilities in rapidly rotating, polytropic equilibrium models. In particular, we follow the growth of nonaxisymmetric structure in",
+                "Fourier-based approaches to calculate the Fresnel diffraction of light provide one of the most efficient algorithms for holographic computations because this permits the use of the fast Fourier transform (FFT). This research overcomes the limitations on sampling imposed by Fourier-based algorithms by the development of a fast shifted Fresnel transform. This fast shifted Fresnel transform is used to develop a tiling approach to hologram construction and reconstruction, which computes the Fresnel propagation of light between parallel planes having different resolutions.",
+                "We investigate the influence of magnetic fields upon the dynamics of, and resulting gravitational waves from, a binary neutron-star merger in full general relativity coupled to ideal magnetohydrodynamics. We consider two merger scenarios: one where the stars have aligned poloidal magnetic fields and one without. Both mergers result in a strongly differentially rotating object. In comparison to the nonmagnetized scenario, the aligned magnetic fields delay the full merger of the stars. During and after merger we observe phenomena driven by the magnetic field, including Kelvin-Helmholtz instabilities in shear layers, winding of the field lines, and transition from poloidal to toroidal magnetic fields. These effects not only mediate the production of electromagnetic radiation, but also can have a strong influence on the gravitational waves. Thus, there are promising prospects for studying such systems with both types of waves.",
+                "The evolution of a neutron-star r-mode driven unstable by gravitational radiation is studied here using numerical solutions of the full nonlinear fluid equations. The dimensionless amplitude of the mode grows to order unity before strong shocks develop which quickly damp the mode. In this simulation the star loses about 40% of its initial angular momentum and 50% of its rotational kinetic energy before the mode is damped. The nonlinear evolution causes the fluid to develop strong differential rotation which is concentrated near the surface and poles of the star.",
+                "We analyze previous results on the stability of uniformly and differentially rotating, self-gravitating, gaseous and stellar, axisymmetric systems to derive a new stability criterion for the appearance of toroidal, m= 2 Intermediate (I) and bar modes. In the process, we demonstrate that the bar modes in stellar systems and the m= 2 I-modes in gaseous systems have many common physical characteristics and only one substantial difference: because of the anisotropy of the stress tensor, dynamical instability sets in at lower rotation in stellar systems. This difference is reflected also in the new stability criterion. The new stability parameter\" alpha\" is formulated first for uniformly rotating systems and is based on the angular momentum content rather than on the energy content of a system. For stability of stellar systems\" alpha\"= 0.254-0.258, while it is in the range of 0.341-0.354 for gaseous systems. For uniform rotation, one can write\" alpha\" as a function of the total (rotational) kinetic and gravitational energies, and of a parameter which is characteristic of the topology\/connectedness and the geometric shape of a system.\" Alpha\" can be extended to and calculated for a variety of differentially rotating, gaseous and stellar, axisymmetric disk and spheroidal models whose equilibrium structures and stability characteristics are known. We also estimate\" alpha\" for gaseous toroidal models and for stellar disk systems embedded in an inert or responsive\" halo\". We find that the new stability criterion holds equally well for all these previously published axisymmetric models.",
+                "We show that an exact expression for the Green\u2019s function in cylindrical coordinates is   where   and   is the half\u2010integer degree Legendre function of the second kind. This expression is significantly more compact and easier to evaluate numerically than the more familiar cylindrical Green\u2019s function expression, which involves infinite integrals over products of Bessel functions and exponentials. It also contains far fewer terms in its series expansion\u2014and is therefore more amenable to accurate evaluation\u2014than does the familiar expression for   that is given in terms of spherical harmonics. This compact Green\u2019s function expression is well suited for the solution of potential problems in a wide variety of astrophysical contexts because it adapts readily to extremely flattened (or extremely elongated), isolated mass distributions.",
+                "We model two mergers of orbiting binary neutron stars, the first forming a black hole and the second a differentially rotating neutron star. We extract gravitational waveforms in the wave zone. Comparisons to a post-Newtonian analysis allow us to compute the orbital kinematics, including trajectories and orbital eccentricities. We verify our code by evolving single stars and extracting radial perturbative modes, which compare very well to results from perturbation theory. The Einstein equations are solved in a first-order reduction of the generalized harmonic formulation, and the fluid equations are solved using a modified convex essentially non-oscillatory method. All calculations are done in three spatial dimensions without symmetry assumptions. We use the had computational infrastructure for distributed adaptive mesh refinement.",
+                "Cold gas residing in the core of an elliptical galaxy should settle into a preferred plane ofthe galaxy"
+            ],
+            [
+                [
+                    "Astrophysics",
+                    "Computational Fluid Dynamics",
+                    "Computational Science"
+                ]
+            ]
+        ]
+    ]
+}

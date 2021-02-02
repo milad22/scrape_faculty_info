@@ -1,0 +1,36 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "PV44Q32N",
+            "x62kz58AAAAJ",
+            [
+                "Multipartite quantum entanglement evolution in photosynthetic complexes",
+                "Frequency fluctuations in tunable and nonlinear microwave cavities",
+                "A Nonlinear Charge and Flux Tunable Cavity Derived from an Embedded Cooper Pair Transistor"
+            ],
+            [
+                "We investigate the evolution of entanglement in the Fenna-Matthew-Olson (FMO) complex based on simulations using the scaled hierarchical equations of motion approach. We examine the role of entanglement in the FMO complex by direct computation of the convex roof. We use monogamy to give a lower bound for entanglement and obtain an upper bound from the evaluation of the convex roof. Examination of bipartite measures for all possible bipartitions provides a complete picture of the multipartite entanglement. Our results support the hypothesis that entanglement is maximum primary along the two distinct electronic energy transfer pathways. In addition, we note that the structure of multipartite entanglement is quite simple, suggesting that there are constraints on the mixed state entanglement beyond those due to monogamy.",
+                "We present a model for how frequency fluctuations comparable to the total cavity linewidth may arise in tunable and nonlinear microwave cavities and how these fluctuations affect the measurement of scattering-matrix elements. We apply this model to the specific case of a two-sided cavity and obtain closed-form expressions for the average scattering-matrix elements in several important cases. A key signature of our model is the subtle deformation of the trajectories swept out by scattering-matrix elements in the complex plane. Despite this signature, the fluctuating and nonfluctuating models are qualitatively similar enough to be mistaken for one another. In the case of tunable cavities, we show that if one fails to account for these fluctuations, then one finds damping rates that appear to depend on the tuning parameter, which is a common observation in such systems. In the case of a Kerr cavity, we show that there \u2026",
+                "We introduce the cavity-embedded Cooper pair transistor (cCPT), a device which behaves as a highly nonlinear microwave cavity whose resonant frequency can be tuned both by charging a gate capacitor and by threading flux through a SQUID loop. We characterize this device and find excellent agreement between theory and experiment. A key difficulty in this characterization is the presence of frequency fluctuations comparable in scale to the cavity linewidth, which deform our measured resonance circles in accordance with recent theoretical predictions [BL Brock et al., Phys. Rev. Applied (to be published), arXiv: 1906.11989]. By measuring the power spectral density of these frequency fluctuations at carefully chosen points in parameter space, we find that they are primarily a result of the  charge and flux noise common in solid state devices. Notably, we also observe key signatures of frequency fluctuations induced by quantum fluctuations in the cavity field via the Kerr nonlinearity."
+            ],
+            [
+                [
+                    "Quantum Information Science",
+                    "Superconducting Circuits",
+                    "Nonlinear Dynamics",
+                    "Microwave Engineering"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "YJXSOL0K",
+            "i8u1IFgAAAAJ",
+            [
+                "Variational study of triangular lattice spin-1\u2215 2 model with ring exchanges and spin liquid state in \u03ba\u2212(ET) 2 Cu 2 (CN) 3",
+                "Emergent photons and transitions in the O (3) sigma model with hedgehog suppression",
+                "Infinite-randomness quantum Ising critical fixed points",
+                "Griffiths effects and quantum critical points in dirty superconductors without spin-rotation invariance: One-dimensional examples",
+                "Plaquette Ordered Phase and Quantum Phase Diagram in the Spin-1 2 J 1\u2212 J 2 Square Heisenberg Model",
+                "Exotic order in simple models of bosonic systems",
+                "Explicit Derivation of Duality between a Free Dirac Cone and Quantum Electrodynamics in () Dimensions",
+                "The half-filled Landau level: The case for Dirac composite fermions",
+                "Spin bose-metal phase in a spin-1 2 model with ring exchange on a two-leg triangular strip",
+                "Orbital magnetic field effects in spin liquid with spinon Fermi sea: Possible application to \u03ba\u2212(ET) 2 Cu 2 (C N) 3"
+            ],
+            [
+                "We study triangular lattice spin-1\u2215 2 system with antiferromagnetic Heisenberg and ring exchanges using variational approach focusing on possible realization of spin-liquid states. Trial spin liquid wave functions are obtained by Gutzwiller projection of fermionic mean-field states and their energetics is compared against magnetically ordered trial states. We find that in a range of the ring exchange coupling upon destroying the antiferromagnetic order, the best such spin liquid state is essentially a Gutzwiller-projected Fermi sea state. We propose this spin liquid with a spinon Fermi surface as a candidate for the nonmagnetic insulating phase observed in the organic compound \u03ba\u2212(ET) 2 Cu 2 (CN) 3, and describe some experimental consequences of this proposal.",
+                "We study the effect of hedgehog suppression in the O (3) sigma model in D= 2+ 1. We show via Monte Carlo simulations that the sigma model can be disordered while effectively forbidding these point topological defects. The resulting paramagnetic state has gauge charged matter with half-integer spin (spinons) and also an emergent gauge field (photons), whose existence is explicitly demonstrated. Hence, this is an explicit realization of fractionalization in a model with global SU (2) symmetry. The zero-temperature ordering transition from this phase is found to be continuous but distinct from the regular Heisenberg ordering transition. We propose that these phases and this phase transition are captured by the noncompact C P 1 model, which contains a pair of bosonic fields coupled to a noncompact U (1) gauge field. Direct simulation of the transition in this model yields critical exponents that support this claim. The \u2026",
+                "We examine the ground state of the random quantum Ising model in a transverse field using a generalization of the Ma-Dasgupta-Hu renormalization group (RG) scheme. For spatial dimensionality d= 2, we find that at strong randomness the RG flow for the quantum critical point is towards an infinite-randomness fixed point, as in one dimension. This is consistent with the results of a recent quantum Monte Carlo study by Pich et al.[Phys. Rev. Lett. 81, 5916 (1998)], including estimates of the critical exponents from our RG that agree well with those from the quantum Monte Carlo. The same qualitative behavior appears to occur for three dimensions; we have not yet been able to determine whether or not it persists to arbitrarily high d. Some consequences of the infinite-randomness fixed point for the quantum critical scaling behavior are discussed. Because frustration is irrelevant in the infinite-randomness limit, the \u2026",
+                "We introduce a strong-disorder renormalization group (RG) approach suitable for investigating the quasiparticle excitations of disordered superconductors in which the quasiparticle spin is not conserved. We analyze one-dimensional models with this RG and with elementary transfer matrix methods. We find that such models with broken spin rotation invariance generically lie in one of two topologically distinct localized phases. Close enough to the critical point separating the two phases, the system has a power-law divergent low-energy density of states (with a nonuniversal continuously varying power law) in either phase, due to quantum Griffiths singularities. This critical point belongs to the same infinite-disorder universality class as the one-dimensional particle-hole symmetric Anderson localization problem, while the Griffiths phases in the vicinity of the transition are controlled by lines of strong (but not infinite \u2026",
+                "We study the spin-1\/2 Heisenberg model on the square lattice with first-and second-neighbor antiferromagnetic interactions J 1 and J 2, which possesses a nonmagnetic region that has been debated for many years and might realize the interesting Z 2 spin liquid. We use the density matrix renormalization group approach with explicit implementation of S U (2) spin rotation symmetry and study the model accurately on open cylinders with different boundary conditions. With increasing J 2, we find a N\u00e9el phase and a plaquette valence-bond (PVB) phase with a finite spin gap. From the finite-size scaling of the magnetic order parameter, we estimate that the N\u00e9el order vanishes at J 2\/J 1\u2243 0.44. For 0.5< J 2\/J 1< 0.61, we find dimer correlations and PVB textures whose decay lengths grow strongly with increasing system width, consistent with a long-range PVB order in the two-dimensional limit. The dimer-dimer \u2026",
+                "We show that simple Bose Hubbard models with unfrustrated hopping and short range two-body repulsive interactions can support stable fractionalized phases in two and higher dimensions, and in zero magnetic field. The simplicity of the constructed models advances the possibility of a controlled experimental realization and novel applications of such unconventional states.",
+                "We explicitly derive the duality between a free electronic Dirac cone and quantum electrodynamics in (2+ 1) dimensions (QED 3) with N= 1 fermion flavors. The duality proceeds via an exact, nonlocal mapping from electrons to dual fermions with long-range interactions encoded by an emergent gauge field. This mapping allows us to construct parent Hamiltonians for exotic topological-insulator surface phases, derive the particle-hole-symmetric field theory of a half-filled Landau level, and nontrivially constrain QED 3 scaling dimensions. We similarly establish duality between bosonic topological insulator surfaces and N= 2 QED 3.",
+                "In a two-dimensional electron gas under a strong magnetic field, correlations generate emergent excitations distinct from electrons. It has been predicted that \u201ccomposite fermions\u201d\u2014bound states of an electron with two magnetic flux quanta\u2014can experience zero net magnetic field and form a Fermi sea. Using infinite-cylinder density matrix renormalization group numerical simulations, we verify the existence of this exotic Fermi sea, but find that the phase exhibits particle-hole symmetry. This is self-consistent only if composite fermions are massless Dirac particles, similar to the surface of a topological insulator. Exploiting this analogy, we observe the suppression of 2kF backscattering, a characteristic of Dirac particles. Thus, the phenomenology of Dirac fermions is also relevant to two-dimensional electron gases in the quantum Hall regime.",
+                "Recent experiments on triangular lattice organic Mott insulators have found evidence for a two-dimensional (2D) spin liquid in close proximity to the metal-insulator transition. A Gutzwiller wave function study of the triangular lattice Heisenberg model with a four-spin ring exchange term appropriate in this regime has found that the projected spinon Fermi sea state has a low variational energy. This wave function, together with a slave particle-gauge theory analysis, suggests that this putative spin liquid possesses spin correlations that are singular along surfaces in momentum space, ie,\u201cBose surfaces.\u201d Signatures of this state, which we will refer to as a \u201cspin Bose metal\u201d(SBM), are expected to manifest in quasi-one-dimensional (quasi-1D) ladder systems: the discrete transverse momenta cut through the 2D Bose surface leading to a distinct pattern of 1D gapless modes. Here, we search for a quasi-1D descendant of \u2026",
+                "We consider orbital magnetic field effects in a spin liquid phase of a half-filled triangular lattice Hubbard system close to the Mott transition, continuing an earlier exploration of a state with spinon Fermi surface. Starting from the Hubbard model and focusing on the insulator side, we derive an effective spin Hamiltonian up to four-spin exchanges in the presence of magnetic field, and find that the magnetic field couples linearly to spin chirality on the triangles. The latter corresponds to a flux of an internal gauge field in a gauge theory description of the spin liquid, and therefore a static internal flux is induced. A quantitative estimate of the effect is obtained using a spinon mean-field analysis, where we find that this orbital field experienced by the spinons is comparable to or even larger than the applied field. We further argue that because the stiffness of the emergent internal gauge field is very small, such a spinon-gauge \u2026"
+            ],
+            [
+                [
+                    "Strongly correlated systems",
+                    "Gapless fractionalized phases (Spin-Bose metals",
+                    "Bose-metals",
+                    "non-Fermi liquids)",
+                    "Topological phase"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "WC0EN6PK",
+            "dWsO6KgAAAAJ",
+            [
+                "A time-dependent Hartree\u2013Fock approach for studying the electronic optical response of molecules in intense fields",
+                "Ultraviolet surprise: Efficient soft x-ray high-harmonic generation in multiply ionized plasmas",
+                "Sequential nonadiabatic excitation of large molecules and ions driven by strong laser fields",
+                "Static and dynamic polarizabilities of conjugated molecules and their cations",
+                "Nonadiabatic dynamics of polyatomic molecules and ions in strong laser fields",
+                "Electronic Structure of (n,0) Zigzag Carbon Nanotubes:\u2009 Cluster and Crystal Approach",
+                "Nonlinear electron transport effects in a chiral carbon nanotube",
+                "First results from the GlueX experiment",
+                "Ballistic transport and spin-orbit interaction of two-dimensional electrons on a cylindrical surface",
+                "Measurement of the beam asymmetry  for  and  photoproduction on the proton at  GeV"
+            ],
+            [
+                "For molecules in high intensity oscillating electric fields, the time-dependent Hartree\u2013Fock (TDHF) method is used to simulate the behavior of the electronic density prior to ionization. Since a perturbative approach is no longer valid at these intensities, the full TDHF equations are used to propagate the electronic density. A unitary transform approach is combined with the modified midpoint method to provide a stable and efficient algorithm to integrate these equations. The behavior of H2+ in an intense oscillating field computed using the TDHF method with a STO-3G basis set reproduces the analytic solution for the two-state coherent excitation model. For H2 with a 6-311++G(d,p) basis set, the TDHF results are nearly indistinguishable from calculations using the full time-dependent Schr\u00f6dinger equation. In an oscillating field of 3.17 \u00d7 1013 W cm\u22122 and 456 nm, the molecular orbital energies, electron populations \u2026",
+                "High-harmonic generation is a universal response of matter to strong femtosecond laser fields, coherently upconverting light to much shorter wavelengths. Optimizing the conversion of laser light into soft x-rays typically demands a trade-off between two competing factors. Because of reduced quantum diffusion of the radiating electron wave function, the emission from each species is highest when a short-wavelength ultraviolet driving laser is used. However, phase matching\u2014the constructive addition of x-ray waves from a large number of atoms\u2014favors longer-wavelength mid-infrared lasers. We identified a regime of high-harmonic generation driven by 40-cycle ultraviolet lasers in waveguides that can generate bright beams in the soft x-ray region of the spectrum, up to photon energies of 280 electron volts. Surprisingly, the high ultraviolet refractive indices of both neutral atoms and ions enabled effective phase \u2026",
+                "Electronic processes leading to dissociative ionization of polyatomic molecules in strong laser fields are investigated experimentally, theoretically, and numerically. Using time-of-flight ion mass spectroscopy, we study the dependence of fragmentation on laser intensity for a series of related molecules and report regular trends in this dependence on the size, symmetry, and electronic structure of a molecule. Based on these data, we develop a model of dissociative ionization of polyatomic molecules in intense laser fields. The model is built on three elements:(i) nonadiabatic population transfer from the ground electronic state to the excited-state manifold via a doorway (charge-transfer) transition;(ii) exponential enhancement of this transition by collective dynamic polarization of all electrons, and (iii) sequential energy deposition in both neutral molecules and resulting molecular ions. The sequential nonadiabatic \u2026",
+                "Recent advances in nonlinear optics and strong-field chemistry highlight the need for calculated properties of organic molecules and their molecular ions for which no experimental values exist. Both static and frequency-dependent properties are required to understand the optical response of molecules and their ions interacting with laser fields. It is particularly important to understand the dynamics of the optical response of multielectron systems in the near-IR (\u03bb \u223c 800 nm) region, where the majority of strong-field experiments are performed. To this end we used Hartree\u2212Fock (HF) and PBE0 density functional theory to calculate ground-state first-order polarizabilities (\u03b1) for two series of conjugated organic molecules and their molecular ions:\u2009 (a) all-trans linear polyenes ranging in size from ethylene (C2H4) to octadecanonene (C18H20) and (b) polyacenes ranging in size from benzene (C6H6) to tetracene (C18H \u2026",
+                "Ionization and\/or fragmentation of large organic molecules in strong laser fields can be quantitatively understood as a transition from adiabatic to nonadiabatic dynamics of the electronic degrees of freedom. Measurements of fragmentation patterns demonstrate regular trends as a function of the size and electronic structure of a molecule. A theoretical model is presented that agrees quantitatively with the measurements for a series of polycyclic aromatic molecules.",
+                "We study the electronic structure of (n,0) zigzag carbon nanotubes by means of two complementary numerical methods. Using the semiempirical PM3 method, we carry out quantum-chemical calculations for tube fragments of different symmetry and size, which represent these tubes. Using the tight-binding method, we proceed in parallel to determine the band structure of these tubes. The effect of cluster size on the structure of frontier orbitals and on the cluster stability is investigated for the (6,0) tube. We show that the highest occupied molecular orbitals (HOMOs) and the lowest unoccupied molecular orbitals (LUMOs) of the (n,0) tube fragments are localized on the edge atoms. The comparison between the band structure of the (6,0) tube and the molecular orbitals of the (6,0) tube fragment with 13 carbon hexagons along the tube axis indicates that the spatial structure of the HOMO\u2018s and the LUMO\u2018s directly \u2026",
+                "We present a novel, general, semiclassical theory of electron transport in a carbon nanotube exposed to an external electric field. The charge carriers are treated in the framework of the simplified tight-binding model. Simultaneous exposure to rapidly oscillating (ac) and constant (dc) electric fields is considered to exemplify our theory. Nonlinear and chiral effects are found, and their interaction is delineated. We predict the effect of an ac electric field on the magnitude and the direction of the total time-averaged current.",
+                "The GlueX experiment at Jefferson Lab ran with its first commissioning beam in late 2014 and the spring of 2015. Data were collected on both plastic and liquid hydrogen targets, and much of the detector has been commissioned. All of the detector systems are now performing at or near design specifications and events are being fully reconstructed, including exclusive production of \u03c00, \u03b7 and \u03c9 mesons. Linearly-polarized photons were successfully produced through coherent bremsstrahlung and polarization transfer to the \u03c1 has been observed.",
+                "The components of the ballistic magnetoconductance tensor of a two-dimensional electron gas placed on a cylindrical sector are calculated for various geometries. For a quasiclassical system a method is proposed for finding the conductance based only on the Bohr-Sommerfeld quantization condition and not requiring a knowledge of the matrix elements of the velocity. The effect of curvature of the surface on the spin-orbit interaction in a two-dimensional electron gas is investigated. As examples, the microwave absorption and longitudinal conductance of a hollow cylindrical wire are calculated, and also the conductance of a cylindrical sector. There are qualitative differences from planar systems, in particular the relative sign of the curvature and the spin-orbit coupling constant becomes important.",
+                "We report measurements of the photon beam asymmetry \u03a3 for the reactions \u03b3 \u20d7 p\u2192 p \u03c0 0 and \u03b3 \u20d7 p\u2192 p \u03b7 from the Glue X experiment using a 9 GeV linearly polarized, tagged photon beam incident on a liquid hydrogen target in Jefferson Lab's Hall D. The asymmetries, measured as a function of the proton momentum transfer, possess greater precision than previous \u03c0 0 measurements and are the first \u03b7 measurements in this energy regime. The results are compared with theoretical predictions based on t-channel, quasiparticle exchange and constrain the axial-vector component of the neutral meson production mechanism in these models."
+            ],
+            [
+                [
+                    "strong-field quantum control",
+                    "laser filamentation dynamics",
+                    "coherent broadband generation in microplasmas",
+                    "dimensionality reduct"
+                ]
+            ]
+        ]
+    ]
+}

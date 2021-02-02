@@ -1,0 +1,48 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Z57972U8",
+            "8AqWr_4AAAAJ",
+            [
+                "Glueball spectrum from an anisotropic lattice study",
+                "Analytic smearing of SU (3) link variables in lattice QCD",
+                "Glueball spectrum and matrix elements on anisotropic lattices",
+                "Efficient glueball simulations on anisotropic lattices",
+                "Constrained curve fitting",
+                "First results from  dynamical quark flavors on an anisotropic lattice: Light-hadron spectroscopy and setting the strange-quark mass",
+                "Novel quark-field creation operator construction for hadronic physics in lattice QCD",
+                "Heavy quarkonium physics",
+                "The a 1 in \u03c4 decay",
+                "Fine structure of the QCD string spectrum"
+            ],
+            [
+                "The spectrum of glueballs below 4 GeV in the SU (3) pure-gauge theory is investigated using Monte Carlo simulations of gluons on several anisotropic lattices with spatial grid separations ranging from 0.1 to 0.4 fm. Systematic errors from discretization and finite volume are studied, and the continuum spin quantum numbers are identified. Care is taken to distinguish single glueball states from two-glueball and torelon-pair states. Our determination of the spectrum significantly improves upon previous Wilson action calculations.",
+                "An analytic method of smearing link variables in lattice QCD is proposed and tested. The differentiability of the smearing scheme with respect to the link variables permits the use of modern Monte Carlo updating methods based on molecular dynamics evolution for gauge-field actions constructed using such smeared links. In examining the smeared mean plaquette and the static quark-antiquark potential, no degradation in effectiveness is observed as compared to link smearing methods currently in use, although an increased sensitivity to the smearing parameter is found.",
+                "The glueball-to-vacuum matrix elements of local gluonic operators in scalar, tensor, and pseudoscalar channels are investigated numerically on several anisotropic lattices with the spatial lattice spacing ranging from 0.1\u20130.2 fm. These matrix elements are needed to predict the glueball branching ratios in J\/\u03c8 radiative decays which will help identify the glueball states in experiments. Two types of improved local gluonic operators are constructed for a self-consistent check and the finite-volume effects are studied. We find that lattice spacing dependence of our results is very weak and the continuum limits are reliably extrapolated, as a result of improvement of the lattice gauge action and local operators. We also give updated glueball masses with various quantum numbers.",
+                "Monte Carlo results for the low-lying glueball spectrum using an improved, anisotropic action are presented. Ten simulations at lattice spacings ranging from 0.2 to 0.4 fm and two different anisotropies have been performed in order to demonstrate the advantages of using coarse, anisotropic lattices to calculate glueball masses. Our determinations of the tensor (2++) and pseudovector (1+\u2212) glueball masses are more accurate than previous Wilson action calculations.",
+                "We survey techniques for constrained curve fitting, based upon Bayesian statistics, that offer significant advantages over conventional techniques used by lattice field theorists.",
+                "We present the first light-hadron spectroscopy on a set of N f= 2+ 1 dynamical, anisotropic lattices. A convenient set of coordinates that parameterize the two-dimensional plane of light and strange-quark masses is introduced. These coordinates are used to extrapolate data obtained at the simulated values of the quark masses to the physical light and strange-quark point. A measurement of the Sommer scale on these ensembles is made, and the performance of the hybrid Monte Carlo algorithm used for generating the ensembles is estimated.",
+                "A new quark-field smearing algorithm is defined which enables efficient calculations of a broad range of hadron correlation functions. The technique applies a low-rank operator to define smooth fields that are to be used in hadron creation operators. The resulting space of smooth fields is small enough that all elements of the reduced quark propagator can be computed exactly at reasonable computational cost. Correlations between arbitrary sources, including multihadron operators can be computed a posteriori without requiring new lattice Dirac operator inversions. The method is tested on realistic lattice sizes with light dynamical quarks.",
+                "This report is the result of the collaboration and research effort of the Quarkonium Working Group over the last three years. It provides a comprehensive overview of the state of the art in heavy-quarkonium theory and experiment, covering quarkonium spectroscopy, decay, and production, the determination of QCD parameters from quarkonium observables, quarkonia in media, and the effects on quarkonia of physics beyond the Standard Model. An introduction to common theoretical and experimental tools is included. Future opportunities for research in quarkonium physics are also discussed.",
+                "The decay \u03c4\u2192 \u03bd \u03c4 \u03c0\u03c0\u03c0 provides a potentially powerful means of observing the axial-vector isovector state expected in the region of 1.2 GeV. Extraction of the properties of this resonance is, however, complicated by its broad width. We examine the problems of studying such a resonance, especially the model dependence of its deduced mass and width. Within a clearly defined and well-tested model we find m a 1= 1220\u00b115 MeV and \u0393 a 1= 420\u00b140 MeV.",
+                "Using advanced lattice methods in quantum chromodynamics, three distinct scales are established in the excitation spectrum of the gluon field around a static quark-antiquark pair as the color source separation R is varied. On the shortest length scale, the excitations are consistent with states created by local gluon field operators arising from a multipole operator product expansion. An intermediate crossover region below 2 fm is identified with a dramatic rearrangement of the level orderings. On the largest length scale of 2\u20133 fm, the spectrum agrees with that expected for stringlike excitations. The energies nearly reproduce asymptotic \u03c0\/R string gaps, but exhibit a fine structure, providing important clues for developing an effective bosonic string description."
+            ],
+            [
+                [
+                    "Theoretical Particle Physics",
+                    "Lattice QCD"
+                ]
+            ]
+        ]
+    ]
+}

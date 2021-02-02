@@ -1,0 +1,127 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "e-ZYGOUAAAAJ",
+            "Patrick Gavan O'Shea",
+            "HumRRO",
+            "@humrro.org",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=e-ZYGOUAAAAJ",
+            693,
+            [
+                "leadership",
+                "talent management",
+                "assessment development",
+                "coaching"
+            ],
+            301,
+            10,
+            8,
+            10,
+            7,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"bwo5ZiMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gerald Goodwin",
+                    "affiliation":"US Army Research Institute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"SBM3JrsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"James E. Driskell",
+                    "affiliation":"Florida Maxima Corporation"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"pzOYmE0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Eduardo Salas",
+                    "affiliation":"Rice University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"kgq0sLEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Neil M. A. Hauenstein",
+                    "affiliation":"Department of Psychology, Virginia Tech"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3gTEOkYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Roseanne J. Foti",
+                    "affiliation":"Virginia Tech"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"OhJP2rIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tammy Allen",
+                    "affiliation":"University of South Florida"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"KTer7v0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dan Putka",
+                    "affiliation":"Human Resources Research Organization"
+                }
+            ]
+        ]
+    ]
+}

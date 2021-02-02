@@ -1,0 +1,48 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "VXHGI7EP",
+            "OxGfOMAAAAAJ",
+            [
+                "Coherent manipulation of coupled electron spins in semiconductor quantum dots",
+                "Spins in few-electron quantum dots",
+                "Coulomb blockade and the Kondo effect in single-atom transistors",
+                "Quantum spintronics: engineering and manipulating atom-like spins in semiconductors",
+                "Triplet\u2013singlet spin relaxation via nuclei in a double quantum dot",
+                "Manipulation of a single charge in a double quantum dot",
+                "Circuit quantum electrodynamics with a spin qubit",
+                "Relaxation, dephasing, and quantum control of electron spins in double quantum dots",
+                "Quantum coherence in a one-electron semiconductor charge qubit",
+                "Suppressing spin qubit dephasing by nuclear state preparation"
+            ],
+            [
+                "We demonstrated coherent control of a quantum two-level system based on two-electron spin states in a double quantum dot, allowing state preparation, coherent manipulation, and projective readout. These techniques are based on rapid electrical control of the exchange interaction. Separating and later recombining a singlet spin state provided a measurement of the spin dephasing time, T2*, of \u223c10 nanoseconds, limited by hyperfine interactions with the gallium arsenide host nuclei. Rabi oscillations of two-electron spin states were demonstrated, and spin-echo pulse sequences were used to suppress hyperfine-induced dephasing. Using these quantum control techniques, a coherence time for two-electron spin states exceeding 1 microsecond was observed.",
+                "The canonical example of a quantum-mechanical two-level system is spin. The simplest picture of spin is a magnetic moment pointing up or down. The full quantum properties of spin become apparent in phenomena such as superpositions of spin states, entanglement among spins, and quantum measurements. Many of these phenomena have been observed in experiments performed on ensembles of particles with spin. Only in recent years have systems been realized in which individual electrons can be trapped and their quantum properties can be studied, thus avoiding unnecessary ensemble averaging. This review describes experiments performed with quantum dots, which are nanometer-scale boxes defined in a semiconductor host material. Quantum dots can hold a precise but tunable number of electron spins starting with 0, 1, 2, etc. Electrical contacts can be made for charge transport measurements and \u2026",
+                "Using molecules as electronic components is a powerful new direction in the science and technology of nanometre-scale systems 1. Experiments to date have examined a multitude of molecules conducting in parallel 2, 3, or, in some cases, transport through single molecules. The latter includes molecules probed in a two-terminal geometry using mechanically controlled break junctions 4, 5 or scanning probes 6, 7 as well as three-terminal single-molecule transistors made from carbon nanotubes 8, C 60 molecules 9, and conjugated molecules diluted in a less-conducting molecular layer 10. The ultimate limit would be a device where electrons hop on to, and off from, a single atom between two contacts. Here we describe transistors incorporating a transition-metal complex designed so that electron transport occurs through well-defined charge states of a single atom. We examine two related molecules containing a \u2026",
+                "The past decade has seen remarkable progress in isolating and controlling quantum coherence using charges and spins in semiconductors. Quantum control has been established at room temperature, and electron spin coherence times now exceed several seconds, a nine\u2013order-of-magnitude increase in coherence compared with the first semiconductor qubits. These coherence times rival those traditionally found only in atomic systems, ushering in a new era of ultracoherent spintronics. We review recent advances in quantum measurements, coherent control, and the generation of entangled states and describe some of the challenges that remain for processing quantum information with spins in semiconductors.",
+                "The spin of a confined electron, when oriented originally in some direction, will lose memory of that orientation after some time. Physical mechanisms leading to this relaxation of spin memory typically involve either coupling of the electron spin to its orbital motion or to nuclear spins 1, 2, 3, 4, 5, 6, 7. Relaxation of confined electron spin has been previously measured only for Zeeman or exchange split spin states, where spin-orbit effects dominate relaxation 8, 9, 10; spin flips due to nuclei have been observed in optical spectroscopy studies 11. Using an isolated GaAs double quantum dot defined by electrostatic gates and direct time domain measurements, we investigate in detail spin relaxation for arbitrary splitting of spin states. Here we show that electron spin flips are dominated by nuclear interactions and are slowed by several orders of magnitude when a magnetic field of a few millitesla is applied. These results \u2026",
+                "We manipulate a single electron in a fully tunable double quantum dot using microwave excitation. Under resonant conditions, microwaves drive transitions between the (1, 0) and (0, 1) charge states of the double dot. Local quantum point contact charge detectors enable a direct measurement of the photon-induced change in occupancy of the charge states. From charge sensing measurements, we find T 1\u223c 16 n s and a lower bound estimate for T 2* of 400 ps for the charge two-level system.",
+                "Electron spins trapped in quantum dots have been proposed as basic building blocks of a future quantum processor 1, 2, 3. Although fast, 180-picosecond, two-quantum-bit (two-qubit) operations can be realized using nearest-neighbour exchange coupling 4, a scalable, spin-based quantum computing architecture will almost certainly require long-range qubit interactions. Circuit quantum electrodynamics (cQED) allows spatially separated superconducting qubits to interact via a superconducting microwave cavity that acts as a \u2018quantum bus\u2019, making possible two-qubit entanglement and the implementation of simple quantum algorithms 5, 6, 7. Here we combine the cQED architecture with spin qubits by coupling an indium arsenide nanowire double quantum dot to a superconducting cavity 8, 9. The architecture allows us to achieve a charge\u2013cavity coupling rate of about 30 megahertz, consistent with coupling rates \u2026",
+                "Recent experiments have demonstrated quantum manipulation of two-electron spin states in double quantum dots using electrically controlled exchange interactions. Here we present a detailed theory for electron-spin dynamics in two-electron double-dot systems that was used to guide those experiments and analyze the results. Specifically, we analyze both spin-and charge-relaxation and dephasing mechanisms that are relevant to experiments and discuss practical approaches for quantum control of two-electron systems. We show that both charge and spin dephasing play important roles in the dynamics of the two-spin system, but neither represents a fundamental limit for electrical control of spin degrees of freedom in semiconductor quantum bits.",
+                "We study quantum coherence in a semiconductor charge qubit formed from a GaAs double quantum dot containing a single electron. Voltage pulses are applied to depletion gates to drive qubit rotations and noninvasive state readout is achieved using a quantum point contact charge detector. We measure a maximum coherence time of\u223c 7 ns at the charge degeneracy point, where the qubit level splitting is first-order insensitive to gate voltage fluctuations. We compare measurements of the coherence time as a function of detuning with numerical simulations and predictions from a 1\/f noise model.",
+                "Coherent spin states in semiconductor quantum dots offer promise as electrically controllable quantum bits (qubits) with scalable fabrication. For few-electron quantum dots made from gallium arsenide (GaAs), fluctuating nuclear spins in the host lattice are the dominant source of spin decoherence. We report a method of preparing the nuclear spin environment that suppresses the relevant component of nuclear spin fluctuations below its equilibrium value by a factor of \u223c70, extending the inhomogeneous dephasing time for the two-electron spin state beyond 1 microsecond. The nuclear state can be readily prepared by electrical gate manipulation and persists for more than 10 seconds."
+            ],
+            [
+                [
+                    "Quantum Information Science",
+                    "Condensed Matter Physics"
+                ]
+            ]
+        ]
+    ]
+}

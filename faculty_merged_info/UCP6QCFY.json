@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "UCP6QCFY",
+            "jxy08CgAAAAJ",
+            [
+                "The ATLAS simulation infrastructure",
+                "Direct evidence for neutrino flavor transformation from neutral-current interactions in the Sudbury Neutrino Observatory",
+                "Performance of the ATLAS trigger system in 2015",
+                "Measurement of the Rate of  Interactions Produced by  Solar Neutrinos at the Sudbury Neutrino Observatory",
+                "Expected performance of the ATLAS experiment-detector, trigger and physics",
+                "Muon recontruction performance of the ATLAS detector in proton\u2013proton colliion data at $$\\qrt {} $$= 13 TeV",
+                "Electron efficiency measurements with the ATLAS detector using 2012 LHC proton\u2013proton collision data",
+                "Electron performance measurements with the ATLAS detector using the 2010 LHC proton-proton collision data",
+                "Performance of missing transverse momentum reconstruction in proton-proton collisions at  with ATLAS",
+                "Luminosity Determination in Pp Collisions at S\u221a S= 8 TeV Using the ATLAS Detector at the LHC"
+            ],
+            [
+                "The simulation software for the ATLAS Experiment at the Large Hadron Collider is being used for large-scale production of events on the LHC Computing Grid. This simulation requires many components, from the generators that simulate particle collisions, through packages simulating the response of the various detectors and triggers. All of these components come together under the ATLAS simulation infrastructure. In this paper, that infrastructure is discussed, including that supporting the detector description, interfacing the event generation, and combining the GEANT4 simulation of the response of the individual detectors. Also described are the tools allowing the software validation, performance testing, and the validation of the simulated output against known physics processes.",
+                "Observations of neutral-current \u03bd interactions on deuterium in the Sudbury Neutrino Observatory are reported. Using the neutral current (NC), elastic scattering, and charged current reactions and assuming the standard 8 B shape, the \u03bd e component of the 8 B solar flux is \u03c6 e= 1.76\u2212 0.05+ 0.05 (stat)\u2212 0.09+ 0.09 (syst)\u00d7 10 6 cm\u2212 2 s\u2212 1 for a kinetic energy threshold of 5 MeV. The non-\u03bd e component is \u03c6 \u03bc \u03c4= 3.41\u2212 0.45+ 0.45 (stat)\u2212 0.45+ 0.48 (syst)\u00d7 10 6 cm\u2212 2 s\u2212 1, 5.3 \u03c3 greater than zero, providing strong evidence for solar \u03bd e flavor transformation. The total flux measured with the NC reaction is \u03c6 NC= 5.09\u2212 0.43+ 0.44 (stat)\u2212 0.43+ 0.46 (syst)\u00d7 10 6 cm\u2212 2 s\u2212 1, consistent with solar models.",
+                "During 2015 the ATLAS experiment recorded  of proton\u2013proton collision data at a centre-of-mass energy of . The ATLAS trigger system is a crucial component of the experiment, responsible for selecting events of interest at a recording rate of approximately 1 kHz from up to 40 MHz of collisions. This paper presents a short overview of the changes to the trigger and data acquisition systems during the first long shutdown of the LHC and shows the performance of the trigger system and its components based on the 2015 proton\u2013proton collision data.",
+                "Solar neutrinos from 8 B decay have been detected at the Sudbury Neutrino Observatory via the charged current (CC) reaction on deuterium and the elastic scattering (ES) of electrons. The flux of \u03bd e\u2019s is measured by the CC reaction rate to be \u03c6 CC (\u03bd e)= 1.75\u00b10.07 (stat)\u2212 0.11+ 0.12 (syst)\u00b10.05 (theor)\u00d7 10 6 cm\u2212 2 s\u2212 1. Comparison of \u03c6 CC (\u03bd e) to the Super-Kamiokande Collaboration\u2019s precision value of the flux inferred from the ES reaction yields a 3.3 \u03c3 difference, assuming the systematic uncertainties are normally distributed, providing evidence of an active non-\u03bd e component in the solar flux. The total flux of active 8 B neutrinos is determined to be 5.44\u00b10.99\u00d7 10 6 cm\u2212 2 s\u2212 1.",
+                "A detailed study is presented of the expected performance of the ATLAS detector. The reconstruction of tracks, leptons, photons, missing energy and jets is investigated, together with the performance of b-tagging and the trigger. The physics potential for a variety of interesting physics processes, within the Standard Model and beyond, is examined. The study comprises a series of notes based on simulations of the detector and physics processes, with particular emphasis given to the data expected from the first years of operation of the LHC at CERN.",
+                "This article documents the performance of the ATLAS muon identification and reconstruction using the LHC dataset recorded at  TeV in 2015. Using a large sample of  and  decays from 3.2 fb of pp collision data, measurements of the reconstruction efficiency, as well as of the momentum scale and resolution, are presented and compared to Monte Carlo simulations. The reconstruction efficiency is measured to be close to  over most of the covered phase space ( and  GeV). The isolation efficiency varies between 93 and  depending on the selection applied and on the momentum of the muon. Both efficiencies are well reproduced in simulation. In the central region of the detector, the momentum resolution is measured to be  () for muons from  () decays, and the momentum scale is known with an uncertainty of . In the region , the  resolution \u2026",
+                "This paper describes the algorithms for the reconstruction and identification of electrons in the central region of the ATLAS detector at the Large Hadron Collider (LHC). These algorithms were used for all ATLAS results with electrons in the final state that are based on the 2012 pp collision data produced by the LHC at= 8. The efficiency of these algorithms, together with the charge misidentification rate, is measured in data and evaluated in simulated samples using electrons from, and decays. For these efficiency measurements, the full recorded data set, corresponding to an integrated luminosity of 20.3 fb, is used. Based on a new reconstruction algorithm used in 2012, the electron reconstruction efficiency is 97% for electrons with and 99% at. Combining this with the efficiency of additional selection criteria to reject electrons from background processes or \u2026",
+                "Detailed measurements of the electron performance of the ATLAS detector at the LHC are reported, using decays of the Z, W and J\/\u03c8 particles. Data collected in 2010 at\\(\\sqrt {s}= 7\\mbox {~ TeV}\\) are used, corresponding to an integrated luminosity of almost 40 pb\u2212 1. The inter-alignment of the inner detector and the electromagnetic calorimeter, the determination of the electron energy scale and resolution, and the performance in terms of response uniformity and linearity are discussed. The electron identification, reconstruction and trigger efficiencies, as well as the charge misidentification probability, are also presented.",
+                "The measurement of missing transverse momentum in the ATLAS detector, described in this paper, makes use of the full event reconstruction and a calibration based on reconstructed physics objects. The performance of the missing transverse momentum reconstruction is evaluated using data collected in pp collisions at a centre-of-mass energy of 7 TeV in 2010. Minimum bias events and events with jets of hadrons are used from data samples corresponding to an integrated luminosity of about 0.3 nb\u22121 and 600 nb\u22121 respectively, together with events containing a Z boson decaying to two leptons (electrons or muons) or a W boson decaying to a lepton (electron or muon) and a neutrino, from a data sample corresponding to an integrated luminosity of about 36 pb\u22121. An estimate of the systematic uncertainty on the missing transverse momentum scale is presented.",
+                "The luminosity determination for the ATLAS detector at the LHC during pp collisions at s\u221a= 8 TeV in 2012 is presented. The evaluation of the luminosity scale is performed using several luminometers, and comparisons between these luminosity detectors are made to assess the accuracy, consistency and long-term stability of the results. A luminosity uncertainty of \u03b4\u2112\/\u2112 = \u00b11.9% is obtained for the 22.7 fb-1 of pp collision data delivered to ATLAS at s\u221a= 8 TeV in 2012."
+            ],
+            [
+                [
+                    "Particle Physics",
+                    "Machine Learning",
+                    "Scientific Computing"
+                ]
+            ]
+        ]
+    ]
+}

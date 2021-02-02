@@ -1,0 +1,32 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "3YRXB1XR",
+            "2HcD1KwAAAAJ",
+            [
+                "Double-deformable-mirror adaptive optics system for laser beam cleanup using blind optimization",
+                "Enhancement of the beam quality of non-uniform output slab laser amplifier with a 39-actuator rectangular piezoelectric deformable mirror"
+            ],
+            [
+                "An optimization-based correction method is developed to control simultaneously two deformable mirrors in a wavefront-sensor-less adaptive beam cleanup system, where the wave-front aberrations could not be compensated by a single deformable mirror. Stochastic parallel gradient decent algorithm is chosen as the optimization algorithm. In this control method, different aberrations are assigned to each deformable mirror according to their different correction quality. The method is proved to be effective by numerical simulations as well as experiments. Experimental results showed that the area containing 84% energy of the laser beam in the far-field can reach 3.0 times diffraction limited.",
+                "We present a slab laser amplifier beam cleanup experimental system based on a 39-actuator rectangular piezoelectric deformable mirror. Rather than use a wave-front sensor to measure distortions in the wave-front and then apply a conjugation wave-front for compensating them, the system uses a Stochastic Parallel Gradient Descent algorithm to maximize the power contained within a far-field designated bucket. Experimental results demonstrate that at the output power of 335W, more than 30% energy concentrates in the 1x diffraction-limited area while the beam quality is enhanced greatly."
+            ],
+            [
+                [
+                    "adaptive optics",
+                    "laser optics"
+                ]
+            ]
+        ]
+    ]
+}

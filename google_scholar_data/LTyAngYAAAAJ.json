@@ -1,0 +1,64 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "LTyAngYAAAAJ",
+            "Grayson Currie Rich",
+            "Enrico Fermi Institute and Kavli Institute for Cosmological Physics, University of Chicago",
+            "@uchicago.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=LTyAngYAAAAJ",
+            704,
+            [
+                "Nuclear and Particle Physics"
+            ],
+            645,
+            12,
+            10,
+            13,
+            10,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"z7Fgta4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Charles W Arnold",
+                    "affiliation":"Principal Scientist Naval Nuclear Lab"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"opWsXPgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Christian Iliadis",
+                    "affiliation":"University of North Carolina at Chapel Hill"
+                }
+            ]
+        ]
+    ]
+}

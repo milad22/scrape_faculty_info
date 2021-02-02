@@ -1,0 +1,127 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "6fMpzpcAAAAJ",
+            "King Chun Lai",
+            "Iowa State University",
+            "",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=6fMpzpcAAAAJ",
+            84,
+            [
+                "Multiscale Modeling",
+                "Computational Physics",
+                "Non-equilibrium Statistical Mechanics",
+                "Surface Science"
+            ],
+            84,
+            5,
+            5,
+            2,
+            2,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"U9-xpREAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Patricia Ann Thiel",
+                    "affiliation":"Iowa State University and Ames Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"DuhSCNoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yong Han",
+                    "affiliation":"Ames Laboratory, USDOE; Department of Physics and Astronomy, Iowa State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"u7lXR3QAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Da-Jiang Liu",
+                    "affiliation":"Iowa State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fDnWym8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ann Lii-Rosales",
+                    "affiliation":"Postdoctoral Researcher, University of Colorado Boulder"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"TtuqpQUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michael C.  Tringides",
+                    "affiliation":"Department of Physics and Astronomy Iowa State University and Ames Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"hdvBjAMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Wenyu Huang",
+                    "affiliation":"Iowa State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fV5u6E8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alex Travesset",
+                    "affiliation":"Iowa State University and Ames Lab"
+                }
+            ]
+        ]
+    ]
+}

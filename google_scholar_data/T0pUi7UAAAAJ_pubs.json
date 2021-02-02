@@ -1,0 +1,94 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2
+    ],
+    "data":[
+        [
+            "Somatic cell reprogramming, directed differentiation of pluripotent stem cells, and direct conversions between differentiated cell lineages represent powerful approaches to engineer cells for research and regenerative medicine. We have developed CellNet, a network biology platform that more accurately assesses the fidelity of cellular engineering than existing methodologies and generates hypotheses for improving cell derivations. Analyzing expression data from 56 published reports, we found that cells derived via directed differentiation more closely resemble their in vivo counterparts than products of direct conversion, as reflected by the establishment of target cell-type gene regulatory networks (GRNs). Furthermore, we discovered that directly converted cells fail to adequately silence expression programs of the starting population and that the establishment of unintended GRNs is common to virtually every \u2026",
+            "CellNet: network biology applied to stem cell engineering",
+            "Patrick Cahan and Hu Li and Samantha A Morris and Edroaldo Lummertz Da Rocha and George Q Daley and James J Collins",
+            "2014",
+            "T0pUi7UAAAAJ:Zph67rFs4hoC",
+            412,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0092867414009349",
+            "17072294575423953763",
+            "\/scholar?cites=17072294575423953763",
+            {
+                "2014":12,
+                "2015":63,
+                "2016":74,
+                "2017":65,
+                "2018":66,
+                "2019":68,
+                "2020":58,
+                "2021":5
+            }
+        ],
+        [
+            "The preimplantation mammalian embryo offers a striking opportunity to address the question of how and why apparently identical cells take on separate fates. Two cell fate decisions are taken before the embryo implants; these decisions set apart a group of pluripotent cells, progenitors for the future body, from the distinct extraembryonic lineages of trophectoderm and primitive endoderm. New molecular, cellular and developmental insights reveal the interplay of transcriptional regulation, epigenetic modifications, cell position and cell polarity in these two fate decisions in the mouse. We discuss how mechanisms proposed in previously distinct models might work in concert to progressively reinforce cell fate decisions through feedback loops.",
+            "Making a firm decision: multifaceted regulation of cell fate in the early mouse embryo",
+            "Magdalena Zernicka-Goetz and Samantha A Morris and Alexander W Bruce",
+            "2009",
+            "T0pUi7UAAAAJ:9yKSN-GCB0IC",
+            285,
+            "https:\/\/www.nature.com\/articles\/nrg2564",
+            "50569683049378151",
+            "\/scholar?cites=50569683049378151",
+            {
+                "2008":2,
+                "2009":3,
+                "2010":32,
+                "2011":27,
+                "2012":22,
+                "2013":29,
+                "2014":24,
+                "2015":21,
+                "2016":35,
+                "2017":25,
+                "2018":33,
+                "2019":16,
+                "2020":11,
+                "2021":1
+            }
+        ],
+        [
+            "A crucial question in mammalian development is how cells of the early embryo differentiate into distinct cell types. The first decision is taken when cells undertake waves of asymmetric division that generate one daughter on the inside and one on the outside of the embryo. After this division, some cells on the inside remain pluripotent and give rise to the epiblast, and hence the future body, whereas others develop into the primitive endoderm, an extraembryonic tissue. How the fate of these inside cells is decided is unknown: Is the process random, or is it related to their developmental origins? To address this question, we traced all cells by live-cell imaging in intact, unmanipulated embryos until the epiblast and primitive endoderm became distinct. This analysis revealed that inner cell mass (ICM) cells have unrestricted developmental potential. However, cells internalized by the first wave of asymmetric divisions are \u2026",
+            "Origin and formation of the first two distinct cell types of the inner cell mass in the mouse embryo",
+            "Samantha A Morris and Roy TY Teo and Huiliang Li and Paul Robson and David M Glover and Magdalena Zernicka-Goetz",
+            "2010",
+            "T0pUi7UAAAAJ:2osOgNQ5qMEC",
+            268,
+            "https:\/\/www.pnas.org\/content\/107\/14\/6364.short",
+            "12543946237681330215",
+            "\/scholar?cites=12543946237681330215",
+            {
+                "2010":7,
+                "2011":19,
+                "2012":25,
+                "2013":38,
+                "2014":35,
+                "2015":30,
+                "2016":29,
+                "2017":22,
+                "2018":23,
+                "2019":17,
+                "2020":20,
+                "2021":2
+            }
+        ]
+    ]
+}

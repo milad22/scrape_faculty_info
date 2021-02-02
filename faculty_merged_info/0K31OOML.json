@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "0K31OOML",
+            "ZVaMoP0AAAAJ",
+            [
+                "Double Exchange Alone Does Not Explain the Resistivity of ",
+                "Effect of a nonzero temperature on quantum critical points in itinerant fermion systems",
+                "Dynamic Jahn-Teller Effect and Colossal Magnetoresistance in ",
+                "Continuous-time Monte Carlo methods for quantum impurity models",
+                "Lattice effects in magnetoresistive manganese perovskites",
+                "Phenomenological model of nuclear relaxation in the normal state of YBa 2 Cu 3 O 7",
+                "Advances in the physics of high-temperature superconductivity",
+                "Continuous-time solver for quantum impurity models",
+                "Magnetic field-tuned quantum criticality in the metallic ruthenate Sr3Ru2O7",
+                "Electronic reconstruction at an interface between a Mott insulator and a band insulator"
+            ],
+            [
+                "The La 1\u2212 x Sr x MnO 3 system with 0.2\u2272 x\u2272 0.4 has traditionally been modeled with a \u201cdouble-exchange\u201d Hamiltonian in which it is assumed that the only relevant physics is the tendency of carrier hopping to line up neighboring spins. We present a solution of the double-exchange model, show it is incompatible with many aspects of the data, and propose that in addition to double-exchange physics a strong electron-phonon interaction arising from the Jahn-Teller splitting of the outer Mn d level plays a crucial role.",
+                "I reexamine the work of Hertz on quantum phase transitions in itinerant fermion systems. I determine when it is permissible to integrate out the fermions and analyze the critical phenomena via an effective bosonic theory in which only fluctuations of the ordering field are explicitly retained. By solving appropriate scaling equations I obtain the different regimes of behavior of the correlation length and free energy in the disordered phase of the effective bosonic theory. The results in many cases differ from those of Hertz, but make contact with more recent work on the dilute Bose gas. I briefly discuss the relevance of the results to heavy-fermion materials.",
+                "A model for the doped rare-earth manganites such as La 1\u2212 x Sr x MnO 3 incorporating the physics of dynamic Jahn-Teller and double-exchange effects is presented and solved via a dynamical mean field approximation. The interplay of these two effects as the electron phonon coupling is varied reproduces the observed behavior of the resistivity and magnetic transition temperature.",
+                "Quantum impurity models describe an atom or molecule embedded in a host material with which it can exchange electrons. They are basic to nanoscience as representations of quantum dots and molecular conductors and play an increasingly important role in the theory of \u201ccorrelated electron\u201d materials as auxiliary problems whose solution gives the \u201cdynamical mean-field\u201d approximation to the self-energy and local correlation functions. These applications require a method of solution which provides access to both high and low energy scales and is effective for wide classes of physically realistic models. The continuous-time quantum Monte Carlo algorithms reviewed in this article meet this challenge. Derivations and descriptions of the algorithms are presented in enough detail to allow other workers to write their own implementations, discuss the strengths and weaknesses of the methods, summarize the problems \u2026",
+                "The discovery of spectacularly large magnetoresistive responses in a class of metallic manganese oxides has raised hopes that these compounds might be of practical utility. But regardless of whether this promise is realized, these materials provide an ideal system in which to elucidate the properties of metals in which electron\u2013lattice interactions play a key role.",
+                "A phenomenological model of a system of antiferromagnetically correlated spins is shown to give a good quantitative description of NMR, nuclear-quadrupole-resonance, and Knight-shift measurements on yttrium, planar copper, and planar oxygen sites in YBa 2 Cu 3 O 7. The antiferromagnetic correlation length is estimated to be\u223c 2.5 lattice constants at T= 100 K. The temperature dependence of the correlation length ceases at T x\u2243 100 K. The enhancement of the observed relaxation rates over what is expected for weakly interacting electrons is calculated and shown to be large. Extension of the calculation to other cuprate superconductors is discussed.",
+                "The high-temperature copper oxide superconductors are of fundamental and enduring interest. They not only manifest superconducting transition temperatures inconceivable 15 years ago, but also exhibit many other properties apparently incompatible with conventional metal physics. The materials expand our notions of what is possible, and compel us to develop new experimental techniques and theoretical concepts. This article provides a perspective on recent developments and their implications for our understanding of interacting electrons in metals.",
+                "We present a new continuous-time solver for quantum impurity models such as those relevant to dynamical mean field theory. It is based on a stochastic sampling of a perturbation expansion in the impurity-bath hybridization parameter. Comparisons with Monte Carlo and exact diagonalization calculations confirm the accuracy of the new approach, which allows very efficient simulations even at low temperatures and for strong interactions. As examples of the power of the method we present results for the temperature dependence of the kinetic energy and the free energy, enabling an accurate location of the temperature-driven metal-insulator transition.",
+                "The concept of quantum criticality is proving to be central to attempts to understand the physics of strongly correlated electrons. Here, we argue that observations on the itinerant metamagnet Sr3Ru2O7 represent good evidence for a new class of quantum critical point, arising when the critical end point terminating a line of first-order transitions is depressed toward zero temperature. This is of interest both in its own right and because of the convenience of having a quantum critical point for which the tuning parameter is the magnetic field. The relationship between the resultant critical fluctuations and novel behavior very near the critical field is discussed.",
+                "Surface science is an important and well-established branch of materials science involving the study of changes in material properties near a surface or interface. A fundamental issue has been atomic reconstruction: how the surface lattice symmetry differs from the bulk.\u2018Correlated-electron compounds\u2019 are materials in which strong electron\u2013electron and electron\u2013lattice interactions produce new electronic phases, including interaction-induced (Mott) insulators, many forms of spin, charge and orbital ordering, and (presumably) high-transition-temperature superconductivity 1, 2. Here we propose that the fundamental issue for the new field of correlated-electron surface\/interface science is \u2018electronic reconstruction\u2019: how does the surface\/interface electronic phase differ from that in the bulk? As a step towards a general understanding of such phenomena, we present a theoretical study of an interface between a strongly \u2026"
+            ],
+            [
+                [
+                    "Condensed matter physics"
+                ]
+            ]
+        ]
+    ]
+}

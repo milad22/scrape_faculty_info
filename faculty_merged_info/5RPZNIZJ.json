@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "5RPZNIZJ",
+            "aoZ0mC8AAAAJ",
+            [
+                "Dynamical decoupling of open quantum systems",
+                "Dynamical suppression of decoherence in two-state quantum systems",
+                "Theory of quantum error correction for general noise",
+                "Universal control of decoupled quantum systems",
+                "NMR based quantum information processing: Achievements and prospects",
+                "A subsystem-independent generalization of entanglement",
+                "Experimental realization of noiseless subsystems for quantum information processing",
+                "Robust dynamical decoupling of quantum systems with bounded controls",
+                "Dynamically error-corrected gates for universal quantum computation",
+                "Dynamical generation of noiseless quantum subsystems"
+            ],
+            [
+                "We propose a novel dynamical method for beating decoherence and dissipation in open quantum systems. We demonstrate the possibility of filtering out the effects of unwanted (not necessarily known) system-environment interactions and show that the noise-suppression procedure can be combined with the capability of retaining control over the effective dynamical evolution of the open quantum system. Implications for quantum information processing are discussed.",
+                "The dynamics of a decohering two-level system driven by a suitable control Hamiltonian is studied. The control procedure is implemented as a sequence of radio-frequency pulses that repetitively flip the state of the system, a technique that can be termed quantum \u201cbang-bang\u201d control after its classical analog. Decoherence introduced by the system\u2019s interaction with a quantum environment is shown to be washed out completely in the limit of continuous flipping and greatly suppressed provided the interval between the pulses is made comparable to the correlation time of the environment. The model suggests a strategy to fight against decoherence that complements existing quantum error-correction techniques.",
+                "A measure of quality of an error-correcting code is the maximum number of errors that it is able to correct. We show that a suitable notion of \u201cnumber of errors\u201d e makes sense for any quantum or classical system in the presence of arbitrary interactions. Thus, e-error-correcting codes protect information without requiring the usual assumptions of independence. We prove the existence of large codes for both quantum and classical information. By viewing error-correcting codes as subsystems, we relate codes to irreducible representations of operator algebras and show that noiseless subsystems are infinite-distance error-correcting codes.",
+                "We show that if one can perform a restricted set of fast manipulations on a quantum system, one can implement a large class of dynamical evolutions by effectively removing or introducing selected Hamiltonians. The procedure can be used to achieve universal noise-tolerant control based on purely unitary open-loop transformations of the dynamics. As a result, it is in principle possible to perform noise-protected universal quantum computation using no extra space resources.",
+                "Nuclear magnetic resonance (NMR) provides an experimental setting to explore physical implementations of quantum information processing (QIP). Here we introduce the basic background for understanding applications of NMR to QIP and explain their current successes, limitations and potential. NMR spectroscopy is well known for its wealth of diverse coherent manipulations of spin dynamics. Ideas and instrumentation from liquid state NMR spectroscopy have been used to experiment with QIP. This approach has carried the field to a complexity of about 10 qubits, a small number for quantum computation but large enough for observing and better understanding the complexity of the quantum world. While liquid state NMR is the only present\u2010day technology about to reach this number of qubits, further increases in complexity will require new methods. We sketch one direction leading towards a scalable quantum \u2026",
+                "We present a generalization of entanglement based on the idea that entanglement is relative to a distinguished subspace of observables rather than a distinguished subsystem decomposition. A pure quantum state is entangled relative to such a subspace if its expectations are a proper mixture of those of other states. Many information-theoretic aspects of entanglement can be extended to this observable-based setting, suggesting new ways of measuring and classifying multipartite entanglement. By going beyond the distinguishable-subsystem framework, generalized entanglement also provides novel tools for probing quantum correlations in interacting many-body systems.",
+                "We demonstrate the protection of one bit of quantum information against all collective noise in three nuclear spins. Because no subspace of states offers this protection, the quantum bit was encoded in a proper noiseless subsystem. We therefore realize a general and efficient method for protecting quantum information. Robustness was verified for a full set of noise operators that do not distinguish the spins. Verification relied on the most complete exploration of engineered decoherence to date. The achieved fidelities show improved information storage for a large, noncommutative set of errors.",
+                "We propose a general procedure for implementing dynamical decoupling of quantum systems without requiring arbitrarily strong, impulsive control actions. This is accomplished by designing continuous decoupling propagators according to Eulerian paths in the decoupling group for the system. Such Eulerian decoupling schemes offer two important advantages over their impulsive counterparts: they are able to enforce the same dynamical symmetrization but with more realistic control resources and, at the same time, they are intrinsically tolerant against a large class of systematic implementation errors.",
+                "Scalable quantum computation in realistic devices requires that precise control can be implemented efficiently in the presence of decoherence and operational errors. We propose a general constructive procedure for designing robust unitary gates on an open quantum system without encoding or measurement overhead. Our results allow for a low-level error correction strategy solely based on Hamiltonian engineering using realistic bounded-strength controls and may substantially reduce implementation requirements for fault-tolerant quantum computing architectures.",
+                "We combine dynamical decoupling and universal control methods for open quantum systems with coding procedures. By exploiting a general algebraic approach, we show how appropriate encodings of quantum states result in obtaining universal control over dynamically generated noise-protected subsystems with limited control resources. In particular, we provide a constructive scheme based on two-body Hamiltonians for performing universal quantum computation over large noiseless spaces which can be engineered in the presence of arbitrary linear quantum noise."
+            ],
+            [
+                [
+                    "quantum information science",
+                    "open quantum systems",
+                    "quantum control",
+                    "quantum matter"
+                ]
+            ]
+        ]
+    ]
+}

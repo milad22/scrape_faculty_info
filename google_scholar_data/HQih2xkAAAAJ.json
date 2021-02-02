@@ -1,0 +1,67 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "HQih2xkAAAAJ",
+            "Dan T Bergstralh",
+            "University of Rochester",
+            "@rochester.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=HQih2xkAAAAJ",
+            3692,
+            [
+                "Epithelial Biology",
+                "Drosophila",
+                "Spindle Orientation",
+                "Cell Division"
+            ],
+            1372,
+            25,
+            19,
+            29,
+            23,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"SXAM65cAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Daniel St Johnston",
+                    "affiliation":"Director of teh Gurdon Institute, University of Cambridge"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"8ISuY00AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jeff Sekelsky",
+                    "affiliation":"Professor of Biology, University of North Carolina at Chapel Hill"
+                }
+            ]
+        ]
+    ]
+}

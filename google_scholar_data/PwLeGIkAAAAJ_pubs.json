@@ -1,0 +1,239 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Statistical mechanics is founded on the assumption that all accessible configurations of a system are equally likely. This requires dynamics that explore all states over time, known as ergodic dynamics. In isolated quantum systems, however, the occurrence of ergodic behaviour has remained an outstanding question 1, 2, 3, 4. Here, we demonstrate ergodic dynamics in a small quantum system consisting of only three superconducting qubits. The qubits undergo a sequence of rotations and interactions and we measure the evolution of the density matrix. Maps of the entanglement entropy show that the full system can act like a reservoir for individual qubits, increasing their entropy through entanglement. Surprisingly, these maps bear a strong resemblance to the phase space dynamics in the classical limit; classically, chaotic motion coincides with higher entanglement entropy. We further show that in regions of high \u2026",
+            "Ergodic dynamics and thermalization in an isolated quantum system",
+            "Charles Neill and P Roushan and M Fang and Y Chen and M Kolodrubetz and Z Chen and A Megrant and R Barends and B Campbell and B Chiaro and A Dunsworth and E Jeffrey and J Kelly and J Mutus and PJJ O\u2019malley and C Quintana and D Sank and A Vainsencher and J Wenner and TC White and Anatoli Polkovnikov and JM Martinis",
+            "2016",
+            "PwLeGIkAAAAJ:KlAtU1dfN6UC",
+            177,
+            "https:\/\/www.nature.com\/articles\/nphys3830?spm=smwp.content.content.3.1549843200036OtrcXwz",
+            "12738678840336184516",
+            "\/scholar?cites=12738678840336184516",
+            {
+                "2015":1,
+                "2016":5,
+                "2017":25,
+                "2018":41,
+                "2019":46,
+                "2020":51,
+                "2021":7
+            }
+        ],
+        [
+            "Topology, with its abstract mathematical constructs, often manifests itself in physics and has a pivotal role in our understanding of natural phenomena. Notably, the discovery of topological phases in condensed-matter systems has changed the modern conception of phases of matter 1, 2, 3, 4, 5. The global nature of topological ordering, however, makes direct experimental probing an outstanding challenge. Present experimental tools are mainly indirect and, as a result, are inadequate for studying the topology of physical systems at a fundamental level. Here we employ the exquisite control afforded by state-of-the-art superconducting quantum circuits to investigate topological properties of various quantum systems. The essence of our approach is to infer geometric curvature by measuring the deflection of quantum trajectories in the curved space of the Hamiltonian 6. Topological properties are then revealed by \u2026",
+            "Observation of topological transitions in interacting quantum circuits",
+            "Pedram Roushan and C Neill and Yu Chen and M Kolodrubetz and C Quintana and N Leung and M Fang and R Barends and B Campbell and Z Chen and B Chiaro and A Dunsworth and E Jeffrey and J Kelly and A Megrant and J Mutus and PJJ O\u2019Malley and D Sank and A Vainsencher and J Wenner and T White and A Polkovnikov and AN Cleland and JM Martinis",
+            "2014",
+            "PwLeGIkAAAAJ:MXK_kJrjxJIC",
+            160,
+            "https:\/\/www.nature.com\/articles\/nature13891",
+            "7174102860668836520",
+            "\/scholar?cites=7174102860668836520",
+            {
+                "2013":1,
+                "2014":4,
+                "2015":16,
+                "2016":23,
+                "2017":24,
+                "2018":25,
+                "2019":23,
+                "2020":40,
+                "2021":4
+            }
+        ],
+        [
+            "We generalize the Schrieffer-Wolff transformation to periodically driven systems using Floquet theory. The method is applied to the periodically driven, strongly interacting Fermi-Hubbard model, for which we identify two regimes resulting in different effective low-energy Hamiltonians. In the nonresonant regime, we realize an interacting spin model coupled to a static gauge field with a nonzero flux per plaquette. In the resonant regime, where the Hubbard interaction is a multiple of the driving frequency, we derive an effective Hamiltonian featuring doublon association and dissociation processes. The ground state of this Hamiltonian undergoes a phase transition between an ordered phase and a gapless Luttinger liquid phase. One can tune the system between different phases by changing the amplitude of the periodic drive.",
+            "Schrieffer-Wolff transformation for periodically driven systems: Strongly correlated systems with artificial gauge fields",
+            "Marin Bukov and Michael Kolodrubetz and Anatoli Polkovnikov",
+            "2016",
+            "PwLeGIkAAAAJ:WF5omc3nYNoC",
+            119,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.116.125301",
+            "8997690291151148852",
+            "\/scholar?cites=8997690291151148852",
+            {
+                "2016":5,
+                "2017":26,
+                "2018":32,
+                "2019":18,
+                "2020":36,
+                "2021":2
+            }
+        ],
+        [
+            "We solve for the time-dependent finite-size scaling functions of the one-dimensional transverse-field Ising chain during a linear-in-time ramp of the field through the quantum critical point. We then simulate Mott-insulating bosons in a tilted potential, an experimentally studied system in the same equilibrium universality class, and demonstrate that universality holds for the dynamics as well. We find qualitatively athermal features of the scaling functions, such as negative spin correlations, and we show that they should be robustly observable within present cold atom experiments.",
+            "Nonequilibrium dynamic critical scaling of the quantum Ising chain",
+            "Michael Kolodrubetz and Bryan K Clark and David A Huse",
+            "2012",
+            "PwLeGIkAAAAJ:u5HHmVD_uO8C",
+            111,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.109.015701",
+            "18296691842862901794",
+            "\/scholar?cites=18296691842862901794",
+            {
+                "2012":7,
+                "2013":12,
+                "2014":17,
+                "2015":13,
+                "2016":15,
+                "2017":10,
+                "2018":8,
+                "2019":14,
+                "2020":15
+            }
+        ],
+        [
+            "We present measurements of a topological property, the Chern number (C 1), of a closed manifold in the space of two-level system Hamiltonians, where the two-level system is formed from a superconducting qubit. We manipulate the parameters of the Hamiltonian of the superconducting qubit along paths in the manifold and extract C 1 from the nonadiabatic response of the qubit. By adjusting the manifold such that a degeneracy in the Hamiltonian passes from inside to outside the manifold, we observe a topological transition C 1= 1\u2192 0. Our measurement of C 1 is quantized to within 2% on either side of the transition.",
+            "Measuring a Topological Transition in an Artificial Spin- System",
+            "MD Schroer and MH Kolodrubetz and WF Kindel and M Sandberg and J Gao and MR Vissers and DP Pappas and Anatoli Polkovnikov and KW Lehnert",
+            "2014",
+            "PwLeGIkAAAAJ:3fE2CSJIrl8C",
+            108,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.113.050402",
+            "8559745363987124837",
+            "\/scholar?cites=8559745363987124837",
+            {
+                "2014":1,
+                "2015":12,
+                "2016":13,
+                "2017":22,
+                "2018":17,
+                "2019":14,
+                "2020":25,
+                "2021":4
+            }
+        ],
+        [
+            "In these lecture notes, partly based on a course taught at the Karpacz Winter School in March 2014, we explore the close connections between non-adiabatic response of a system with respect to macroscopic parameters and the geometry of quantum and classical states. We center our discussion around adiabatic gauge potentials, which are the generators of unitary basis transformations in quantum systems and generators of special canonical transformations in classical systems. In quantum systems, eigenstate expectation values of these potentials are the Berry connections and the covariance matrix of these gauge potentials is the geometric tensor, whose antisymmetric part defines the Berry curvature and whose symmetric part is the Fubini-Study metric tensor. In classical systems one simply replaces the eigenstate expectation value by an average over the micro-canonical shell. For complicated interacting \u2026",
+            "Geometry and non-adiabatic response in quantum and classical systems",
+            "Michael Kolodrubetz and Dries Sels and Pankaj Mehta and Anatoli Polkovnikov",
+            "2017",
+            "PwLeGIkAAAAJ:roLk4NBRz8UC",
+            103,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0370157317301989",
+            "5330164433845047801",
+            "\/scholar?cites=5330164433845047801",
+            {
+                "2017":5,
+                "2018":11,
+                "2019":25,
+                "2020":54,
+                "2021":7
+            }
+        ],
+        [
+            "We give a systematic review of the adiabatic theorem and the leading non-adiabatic corrections in periodically-driven (Floquet) systems. These corrections have a two-fold origin: (i) conventional ones originating from the gradually changing Floquet Hamiltonian and (ii) corrections originating from changing the micro-motion operator. These corrections conspire to give a Hall-type linear response for non-stroboscopic (time-averaged) observables allowing one to measure the Berry curvature and the Chern number related to the Floquet Hamiltonian, thus extending these concepts to periodically-driven many-body systems. The non-zero Floquet Chern number allows one to realize a Thouless energy pump, where one can adiabatically add energy to the system in discrete units of the driving frequency. We discuss the validity of Floquet Adiabatic Perturbation Theory (FAPT) using five different models covering linear and \u2026",
+            "Adiabatic perturbation theory and geometry of periodically-driven systems",
+            "Phillip Weinberg and Marin Bukov and Luca D\u2019Alessio and Anatoli Polkovnikov and Szabolcs Vajna and Michael Kolodrubetz",
+            "2017",
+            "PwLeGIkAAAAJ:_FxGoFyzp5QC",
+            88,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0370157317301412",
+            "8674968303409218121",
+            "\/scholar?cites=8674968303409218121",
+            {
+                "2016":3,
+                "2017":12,
+                "2018":25,
+                "2019":25,
+                "2020":22,
+                "2021":1
+            }
+        ],
+        [
+            "From the Aharonov-Bohm effect to general relativity, geometry plays a central role in modern physics. In quantum mechanics, many physical processes depend on the Berry curvature. However, recent advances in quantum information theory have highlighted the role of its symmetric counterpart, the quantum metric tensor. In this paper, we perform a detailed analysis of the ground state Riemannian geometry induced by the metric tensor, using the quantum X Y chain in a transverse field as our primary example. We focus on a particular geometric invariant, the Gaussian curvature, and show how both integrals of the curvature within a given phase and singularities of the curvature near phase transitions are protected by critical scaling theory. For cases where the curvature is integrable, we show that the integrated curvature provides a new geometric invariant, which like the Chern number characterizes individual \u2026",
+            "Classifying and measuring geometry of a quantum ground state manifold",
+            "Michael Kolodrubetz and Vladimir Gritsev and Anatoli Polkovnikov",
+            "2013",
+            "PwLeGIkAAAAJ:u-x6o8ySG0sC",
+            87,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.88.064304",
+            "7714817530826182617",
+            "\/scholar?cites=7714817530826182617",
+            {
+                "2013":1,
+                "2014":11,
+                "2015":7,
+                "2016":10,
+                "2017":9,
+                "2018":15,
+                "2019":11,
+                "2020":20,
+                "2021":3
+            }
+        ],
+        [
+            "An optically triggered liquid crystal infiltrated Q-switched photonic crystal laser is demonstrated. A photonic crystal laser cavity was designed and fabricated to support two orthogonally polarized high-Q cavity modes after liquid crystal infiltration. By controlling the liquid crystal orientation via a layer of photoaddressable polymer and a writing laser, the photonic crystal lasing mode can be reversibly switched between the two modes which also switches the laser???s emission polarization and wavelength. The creation of the Q-switched laser demonstrates the benefits of customizing photonic crystal cavities to maximally synergize with an infiltrated material and illustrates the potential of integrating semiconductor nanophotonics with optical materials.",
+            "Optically triggered Q-switched photonic crystal laser",
+            "Brett Maune and Jeremy Witzens and Thomas Baehr-Jones and Michael Kolodrubetz and Harry Atwater and Axel Scherer and Rainer Hagen and Yueming Qiu",
+            "2005",
+            "PwLeGIkAAAAJ:eQOLeE2rZwMC",
+            51,
+            "https:\/\/www.osapublishing.org\/abstract.cfm?uri=OE-13-12-4699",
+            "2619710811578879257",
+            "\/scholar?cites=2619710811578879257",
+            {
+                "2005":1,
+                "2006":7,
+                "2007":6,
+                "2008":9,
+                "2009":9,
+                "2010":6,
+                "2011":2,
+                "2012":1,
+                "2013":3,
+                "2014":2,
+                "2015":1,
+                "2016":4
+            }
+        ],
+        [
+            "We study the nonequilibrium dynamics of one-dimensional Mott-insulating bosons in the presence of a tunable effective electric field E which takes the system across a quantum critical point separating a disordered and a translation symmetry broken ordered phase. We provide an exact numerical computation of the residual energy Q, the log fidelity F, the defect density D\/L, and the order parameter correlation function for a linear-in-time variation of E with a rate v. We discuss the temporal and spatial variation of these quantities for a range of v and for finite system sizes as relevant to realistic experimental setups [J. Simon et al., Nature (London) 472, 307 (2011)]. We show that in finite-sized systems Q, F, and D obey Kibble-Zurek scaling, and suggest further experiments within this setup to test our theory.",
+            "Nonequilibrium dynamics of bosonic Mott insulators in an electric field",
+            "Michael Kolodrubetz and David Pekker and Bryan K Clark and Krishnendu Sengupta",
+            "2012",
+            "PwLeGIkAAAAJ:ufrVoPGSRksC",
+            42,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.85.100505",
+            "16107733287946941275",
+            "\/scholar?cites=16107733287946941275",
+            {
+                "2011":1,
+                "2012":5,
+                "2013":5,
+                "2014":8,
+                "2015":2,
+                "2016":8,
+                "2017":1,
+                "2018":5,
+                "2019":2,
+                "2020":5
+            }
+        ]
+    ]
+}

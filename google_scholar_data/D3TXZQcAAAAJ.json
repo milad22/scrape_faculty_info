@@ -1,0 +1,78 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "D3TXZQcAAAAJ",
+            "Ken Wharton",
+            "Professor of Physics, San Jose State University",
+            "@science.sjsu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=D3TXZQcAAAAJ",
+            3709,
+            [
+                "Quantum Foundations",
+                "Quantum Entanglement",
+                "Causality"
+            ],
+            720,
+            22,
+            14,
+            30,
+            23,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"d-GqKlEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Thomas E Cowan",
+                    "affiliation":"Helmholtz-Zentrum Dresden-Rossendorf (Director, Inst Rad Phys);  Professor of Physics, TU Dresden"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"icLXlz8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Huw Price",
+                    "affiliation":"Bertrand Russell Professor of Philosophy, Cambridge"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"BPtL1_MAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Peter W. Evans",
+                    "affiliation":"University of Queensland"
+                }
+            ]
+        ]
+    ]
+}

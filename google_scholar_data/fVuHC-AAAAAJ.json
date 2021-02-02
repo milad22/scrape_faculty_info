@@ -1,0 +1,90 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "fVuHC-AAAAAJ",
+            "SAYANTAN AUDDY",
+            "Postdoctoral Fellow at Institute of Astronomy and Astrophysics, Academia Sinica",
+            "@uwo.ca",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=fVuHC-AAAAAJ",
+            97,
+            [
+                "Star Formation",
+                "MHD simulations",
+                "Planet Formation Brown Dwarfs"
+            ],
+            96,
+            6,
+            6,
+            4,
+            4,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"hzVL8RgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Shantanu Basu",
+                    "affiliation":"University of Western Ontario"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"IMShVO0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sree Ram Valluri",
+                    "affiliation":"Professor Emeritus, Dept of Physics & Astronomy, Western University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"gxrN7gsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jaime E Pineda",
+                    "affiliation":"Max-Planck-Institut f\u00fcr extraterrestrische Physik"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"-dKei98AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Manuel Gil",
+                    "affiliation":"Data Scientist"
+                }
+            ]
+        ]
+    ]
+}

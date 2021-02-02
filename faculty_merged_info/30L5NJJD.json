@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "30L5NJJD",
+            "DAG-tGUAAAAJ",
+            [
+                "Self-pumped, continuous-wave phase conjugator using internal reflection",
+                "Photorefractive effects and light\u2010induced charge migration in barium titanate",
+                "Asymmetric self-defocusing of an optical beam from the photorefractive effect",
+                "Phase-conjugating mirror with continuous-wave gain",
+                "Photorefractive properties of strontium\u2010barium niobate",
+                "Theory of a self-pumped phase conjugator with two coupled interaction regions",
+                "40-nm-wide tunable fiber ring laser with single-mode operation using a highly stretchable FBG",
+                "Explanation of the apparent sublinear photoconductivity of photorefractive barium titanate",
+                "Optical novelty filters",
+                "Real-time edge enhancement using the photorefractive effect"
+            ],
+            [
+                "Continuous-wave phase conjugation of an image-bearing beam is demonstrated using a single-domain crystal of BaTiO3 and nothing else. The device operates by four-wave mixing using the photorefractive effect but without any external pumping beams or external mirrors. The customary pumping beams are derived from the incident beam and are internally reflected inside the crystal adjacent to an edge. The device is self-starting and has a phase-conjugate reflectivity of 30%. Imaging applications are discussed.",
+                "We propose a new theoretical model for the light\u2010induced migration of charges which mediates the \u2019\u2019photorefractive effect\u2019\u2019 (light\u2010induced refractive index change) in barium titanate and other crystals. We also present experimental results of various effects of this light\u2010induced charge migration in a single\u2010domain crystal of barium titanate, specifically, (1) energy transfer between two intersecting optical beams, (2) optical four\u2010wave mixing and optical\u2010beam phase conjugation, (3) erasure of spatial patterns of photorefractive index variations, and (4) photoconductivity. The theoretical model predicts the observed dependences of these effects on (1) beam intensities, directions, and polarizations, (2) crystal orientation, and (3) on an externally applied dc electric field. Time dependences of transients as well as steady\u2010state magnitudes are predicted. In this model, identical charges migrate by hopping between adjacent \u2026",
+                "A new kind of optical self-defocusing is described that in steady state is independent of optical beam power and is strongly asymmetric. The physical mechanism responsible is the photorefractive effect. We present a theory that explains the observed dependence of this self-defocusing on polarization, angle of incidence, beam size, and crystal orientation. Experimental results, using a single-domain crystal of BaTiO_3, are presented that show excellent quantitative agreement with the theory. Possible device applications are discussed, including an optical diode and a low-power bistable device with permanent memory.",
+                "We demonstrate a phase-conjugating mirror that has a continuous-wave power reflectivity much greater than unity (gain ~100). This mirror uses nonresonant degenerate four-wave mixing in a single crystal of barium titanate (BaTiO_3). With our mirror we have (1) observed cw self-oscillation in an optical resonator formed by this mirror and a normal mirror, (2) demonstrated a cw oscillator that, in spite of phase-distorting material placed inside the resonator, will always emit a TEM_00 mode, and (3) demonstrated an optical image amplifier. This mirror will work at any visible wavelength and with weak (milliwatt or weaker) pump beams.",
+                "We have grown and optically characterized strontium\u2010barium niobate crystals, including both undoped and cerium\u2010doped crystals having two different Sr\/Ba ratios (61\/39 and 75\/25). By measuring the coupling of two optical beams in the crystals, we have determined the following photorefractive properties: the effective density, sign, and spectral response of the dominant charge carrier, the grating formation rate, dark conductivity, and carrier diffusion length. We find that electrons are the dominant photorefractive charge carriers in all of our samples; the typical density of photorefractive charges is \u223c1\u00d71016 cm\u22123 in the undoped samples. The grating formation rate increases with intensity, with a slope of \u223c0.3 cm2\/(W\u2009s) over an intensity range of \u223c1\u201315 W\/cm2 in undoped samples. Cerium doping improves both the charge density (increased by a factor of \u223c3) and the response rate per unit intensity (\u223c5 times faster).",
+                "We present a plane-wave analysis of a recently demonstrated self-pumped phase conjugator. This device uses four-wave mixing to produce the phase-conjugate replica of an incident optical wave. All the waves are derived from the single incident wave: there are no externally supplied pumping beams. We consider the case of four-wave mixing in two interaction regions coupled by simple reflection. We calculate the phase-conjugate reflectivity as a function of coupling strength, taking into account imperfect coupling between the two interaction regions, and show that there is a threshold coupling strength below which the reflectivity is zero and above which the reflectivity is multiple valued. We also compute the coupling strength per unit length for a photorefractive crystal of barium titanate.",
+                "We demonstrate a 750-Hz linewidth single-mode erbium-doped fiber (EDF) ring laser with wide tunability using a widely tunable fiber Bragg grating (FBG). The stable single-mode operation is realized by using the FBG as a narrow wavelength-selective element and 4 m of unpumped EDF as a saturable absorber in the cavity. The 40-nm continuous tuning range of 1522-1562 nm is achieved using a highly stretchable FBG that exhibits a filter tuning range of over 52 nm. The grating is prepared with chemically stripped deuterium-loaded fiber to eliminate degrading factors for the grating strength, thereby achieving the wide tunability. The tuning range represents a 3.5-fold increase in wavelength tuning over previous use of FBGs.",
+                "We explain the apparent sublinear intensity dependence of photoconductivity in barium titanate. In our model shallow acceptors act as a reservoir for charges optically excited from the donors. As this reservoir fills, the fraction of occupied donors changes appreciably, changing the lifetime of the free carriers. We identify two types of barium titanate crystals having quite different photorefractive characteristics, depending on their relative density of donors and acceptors, and we find that the depth of the shallow acceptor level is\u223c 0.4\u00b10.1 eV in both types of crystals.",
+                "A novelty filter detects what is new in a scene and may be likened to a temporal high-pass filter. The current status of optical novelty filters and related devices, based upon four-wave mixing and two-beam coupling in photorefractive media, is reviewed. A detector that shows only what is not new, a monotony filter, may be likened to a temporal low-pass filter. Demonstrations of high- and low-pass and bandpass temporal image filters are then discussed. An analytical treatment of the two-beam coupling devices is given in a Laplace transform framework in the undepleted pump approximation assuming plane wave inputs. This allows a unified treatment of the various filter characteristics.< >",
+                "Edge enhancement, a type of optical image processing, is performed in a photorefractive material in real time and with low incident-light intensities (10^\u22123 W\/cm^2). We calculate the expected images using two different four-wave mixing geometries, which show good agreement with the images that we experimentally observe using a single-domain crystal of BaTiO_3 as the photorefractive material."
+            ],
+            [
+                [
+                    "optics",
+                    "lasers",
+                    "fibers"
+                ]
+            ]
+        ]
+    ]
+}

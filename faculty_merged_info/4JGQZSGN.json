@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "4JGQZSGN",
+            "JefeL4YAAAAJ",
+            [
+                "Invited review article: Single-photon sources and detectors",
+                "Measurement-induced entanglement for excitation stored in remote atomic ensembles",
+                "Single-photon generation from stored excitation in an atomic ensemble",
+                "Interference of single photons from two separate semiconductor quantum dots",
+                "Single-photon generation and detection: physics and applications",
+                "High accuracy verification of a correlated-photon-based method for determining photon-counting detection efficiency",
+                "Control of decoherence in the generation of photon pairs from atomic ensembles",
+                "Spectrally bright and broad fiber-based heralded single-photon source",
+                "An extremely low-noise heralded single-photon source: A breakthrough for quantum technologies",
+                "Coalescence of single photons emitted by disparate single-photon sources: The example of InAs quantum dots and parametric down-conversion sources"
+            ],
+            [
+                "We review the current status of single-photon-source and single-photon-detector technologies operating at wavelengths from the ultraviolet to the infrared. We discuss applications of these technologies to quantum communication, a field currently driving much of the development of single-photon sources and detectors.",
+                "A critical requirement for diverse applications in quantum information science is the capability to disseminate quantum resources over complex quantum networks 1, 2. For example, the coherent distribution of entangled quantum states together with quantum memory (for storing the states) can enable scalable architectures for quantum computation 3, communication 4 and metrology 5. Here we report observations of entanglement between two atomic ensembles located in distinct, spatially separated set-ups. Quantum interference in the detection of a photon emitted by one of the samples projects the otherwise independent ensembles into an entangled state with one joint excitation stored remotely in 10 5 atoms at each site 6. After a programmable delay, we confirm entanglement by mapping the state of the atoms to optical fields and measuring mutual coherences and photon statistics for these fields. We thereby \u2026",
+                "Single photons are generated from an ensemble of cold Cs atoms via the protocol of Duan et al.[Nature (London) 414, 413 (2001)]. Conditioned upon an initial detection from field 1 at 852 nm, a photon in field 2 at 894 nm is produced in a controlled fashion from excitation stored within the atomic ensemble. The single-quantum character of field 2 is demonstrated by the violation of a Cauchy-Schwarz inequality, namely w (1 2, 1 2| 1 1)= 0.24\u00b10.05\u2271 1, where w (1 2, 1 2| 1 1) describes the detection of two events (1 2, 1 2) conditioned upon an initial detection 1 1, with w\u2192 0 for single photons.",
+                "We demonstrate and characterize interference between discrete photons emitted by two separate semiconductor quantum dot states in different samples excited by a pulsed laser. Their energies are tuned into resonance using strain. The photons have a total coalescence probability of 18.1% and the coincidence rate is below the classical limit. Postselection of coincidences within a narrow time window increases the coalescence probability to 47%. The probabilities are reduced from unity because of dephasing and the postselection value is also reduced by the detector time response.",
+                "Single-photon generation and detection is at the forefront of modern optical physics research. This book is intended to provide a comprehensive overview of the current status of single-photon techniques and research methods in the spectral region from the visible to the infrared. The use of single photons, produced on demand with well-defined quantum properties, offers an unprecedented set of capabilities that are central to the new area of quantum information and are of revolutionary importance in areas that range from the traditional, such as high sensitivity detection for astronomy, remote sensing, and medical diagnostics, to the exotic, such as secretive surveillance and very long communication links for data transmission on interplanetary missions. The goal of this volume is to provide researchers with a comprehensive overview of the technology and techniques that are available to enable them to better design an experimental plan for its intended purpose. The book will be broken into chapters focused specifically on the development and capabilities of the available detectors and sources to allow a comparative understanding to be developed by the reader along with and idea of how the field is progressing and what can be expected in the near future. Along with this technology, we will include chapters devoted to the applications of this technology, which is in fact much of the driver for its development. This is set to become the go-to reference for this field. Covers all the basic aspects needed to perform single-photon experiments and serves as the first reference to any newcomer who would like to produce an experimental design that \u2026",
+                "We have characterized an independent primary standard method to calibrate detection efficiency of photon-counting detectors based on twophoton correlations. We have verified this method and its uncertainty by comparing it to a substitution method using a conventionally calibrated transfer detector tied to a national primary standard detector scale. We obtained a relative standard uncertainty for the correlated-photon method of 0.18 % (k=1) and for the substitution method of 0.17 % (k=1). From a series of measurements we found that the two independent calibration techniques differ by 0.14 (14) %, which is within the established uncertainty of comparison. We believe this is the highest accuracy characterization and independent verification of the correlated-photon method yet achieved.",
+                "We report an investigation to establish the physical mechanisms responsible for decoherence in the generation of photon pairs from atomic ensembles, via the protocol of Duan et al. for long-distance quantum communication [Nature (London) 414, 413 (2001)] and present the experimental techniques necessary to properly control the process. We develop a theory to model in detail the decoherence process in experiments with magneto-optical traps. The inhomogeneous broadening of the ground state by the trap magnetic field is identified as the principal mechanism for decoherence. The theory includes the Zeeman structure of the atomic hyperfine levels used in the experiment, and the polarization of both excitation fields and detected photons. In conjunction with our theoretical analysis, we report a series of measurements to characterize and control the coherence time in our experimental setup. We use \u2026",
+                "We present an experimental characterization of a heralded single-photon source based on spontaneous four-wave mixing in a single-mode microstructure fiber. We measure the second-order correlation function g (2)(0) to be far below the classical, Poissonian limit of 1 over a broad spectral range. With single-spatial-mode output, such a spectrally bright and broad fiber-based heralded single-photon source is suitable for a variety of quantum-information applications.",
+                "Low noise single-photon sources are a critical element for quantum technologies. We present a heralded single-photon source with an extremely low level of residual background photons, by implementing low-jitter detectors and electronics and a fast custom-made pulse generator controlling an optical shutter (a LiNbO3 waveguide optical switch) on the output of the source. This source has a second-order autocorrelation g(2)(0)=0.005(7), and an output noise factor (defined as the ratio of the number of noise photons to total photons at the source output channel) of 0.25(1)%. These are the best performance characteristics reported to date.",
+                "Single photons produced by fundamentally dissimilar physical processes will in general not be indistinguishable. We show how photons produced from a quantum dot and by parametric down-conversion in a nonlinear crystal can be manipulated to be indistinguishable. The measured two-photon coalescence probability is 16%, and is limited by quantum-dot decoherence. Temporal filtering to the quantum-dot coherence time and accounting for detector time response increases this to 61% while retaining 25% of the events. This technique can connect different elements in a scalable quantum network."
+            ],
+            [
+                [
+                    "quantum optics",
+                    "nonlinear optics",
+                    "single photon technology",
+                    "metrology"
+                ]
+            ]
+        ]
+    ]
+}

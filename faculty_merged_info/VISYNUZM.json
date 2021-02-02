@@ -1,0 +1,40 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "VISYNUZM",
+            "mQ9V11wAAAAJ",
+            [
+                "Semistochastic projector monte carlo method",
+                "Approximating strongly correlated wave functions with correlator product states",
+                "Efficient heat-bath sampling in Fock space",
+                "Phase diagram of the Z 3 parafermionic chain with chiral interactions",
+                "Trimerized ground state of the spin-1 Heisenberg antiferromagnet on the kagome lattice"
+            ],
+            [
+                "We introduce a semistochastic implementation of the power method to compute, for very large matrices, the dominant eigenvalue and expectation values involving the corresponding eigenvector. The method is semistochastic in that the matrix multiplication is partially implemented numerically exactly and partially stochastically with respect to expectation values only. Compared to a fully stochastic method, the semistochastic approach significantly reduces the computational time required to obtain the eigenvalue to a specified statistical uncertainty. This is demonstrated by the application of the semistochastic quantum Monte Carlo method to systems with a sign problem: the fermion Hubbard model and the carbon dimer.",
+                "We describe correlator product states, a class of numerically efficient many-body wave functions to describe strongly correlated wave functions in any dimension. Correlator product states introduce direct correlations between physical degrees of freedom in a simple way, yet provide the flexibility to describe a wide variety of systems. We show that many interesting wave functions can be mapped exactly onto correlator product states, including Laughlin\u2019s quantum Hall wave function, Kitaev\u2019s toric code states, and Huse and Elser\u2019s frustrated spin states. We also outline the relationship between correlator product states and other common families of variational wave functions such as matrix product states, tensor product states, and resonating valence-bond states. Variational calculations for the Heisenberg and spinless Hubbard models demonstrate the promise of correlator product states for describing both two \u2026",
+                "We introduce an algorithm for sampling many-body quantum states in Fock space. The algorithm efficiently samples states with probability approximately proportional to an arbitrary function of the second-quantized Hamiltonian matrix element connecting the sampled state to the current state. We apply the new sampling algorithm to the recently developed semistochastic full configuration interaction quantum Monte Carlo (S-FCIQMC) method, a semistochastic implementation of the power method for projecting out the ground state energy in a basis of Slater determinants. Our new sampling method requires modest additional computational time and memory compared to uniform sampling but results in newly spawned weights that are approximately of the same magnitude, thereby greatly improving the efficiency of projection. A comparison in efficiency between our sampling algorithm and uniform sampling is \u2026",
+                "Parafermions are exotic quasiparticles with non-Abelian fractional statistics that can be realized and stabilized in one-dimensional models that are generalizations of the Kitaev p-wave wire. We study the simplest generalization, ie, the Z 3 parafermionic chain. Using a Jordan-Wigner transform we focus on the equivalent three-state chiral clock model, and study its rich phase diagram using the density matrix renormalization group technique. We perform our analyses using quantum entanglement diagnostics which allow us to determine phase boundaries, and the nature of the phase transitions. In particular, we study the transition between the topological and trivial phases, as well as to an intervening incommensurate phase which appears in a wide region of the phase diagram. The phase diagram is predicted to contain a Lifshitz type transition which we confirm using entanglement measures. We also attempt to \u2026",
+                "We study the phase diagram of the spin-1 quantum bilinear-biquadratic antiferromagnet on the kagome lattice using exact diagonalization and the density matrix renormalization group algorithm. The SU (3)-symmetric point of this model Hamiltonian is a spontaneously trimerized state whose qualitative nature persists even at the Heisenberg point, a finding that contrasts previous proposals. We report the ground state energy per site of the Heisenberg model to be\u2212 1.410 (2) and establish the presence of a spin gap."
+            ],
+            [
+                [
+                    "Condensed matter physics",
+                    "magnetism",
+                    "electronic structure",
+                    "computational physics"
+                ]
+            ]
+        ]
+    ]
+}

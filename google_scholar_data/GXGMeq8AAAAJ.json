@@ -1,0 +1,100 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "GXGMeq8AAAAJ",
+            "David K. Newsom",
+            "Unknown affiliation",
+            "@gwu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=GXGMeq8AAAAJ",
+            21,
+            [
+                "Computer Engineering"
+            ],
+            12,
+            3,
+            2,
+            0,
+            0,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3LQCyXQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tarek El-Ghazawi",
+                    "affiliation":"The George Washington University (GWU)"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"iNZqYdUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sardar Azari",
+                    "affiliation":"Senior Information Officer, World Bank Group"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ReO2U5AAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ahmad Anbar",
+                    "affiliation":"Amazon Web Services"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"C5h_Vt0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Olivier Serres",
+                    "affiliation":"Intel"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"YfUn3GEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Abdel-Hameed A. Badawy",
+                    "affiliation":"Klipsch School of Electrical & Computer Engineering, New Mexico State University"
+                }
+            ]
+        ]
+    ]
+}

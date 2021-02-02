@@ -1,0 +1,48 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "3QIRSYIF",
+            "5lTs01wAAAAJ",
+            [
+                "Raman scattering by superconducting-gap excitations and their coupling to charge-density waves",
+                "Magnetic wire traps and programmable manipulation of biological cells",
+                "Simultaneous magnetic manipulation and fluorescent tracking of multiple individual hybrid nanostructures",
+                "Dispersion of collective intersubband excitations in semiconductor superlattices",
+                "Raman scattering from superconducting gap excitations in the presence of a magnetic field",
+                "Exchange stiffness, magnetization, and spin waves in cubic and hexagonal phases of cobalt",
+                "Tuning of the valence-band structure of GaAs quantum wells by uniaxial stress",
+                "Magnetic tweezers\u2010based 3D microchannel electroporation for high\u2010throughput gene transfection in living cells",
+                "Light-induced giant softening of network glasses observed near the mean-field rigidity transition",
+                "On-chip magnetic separation and encapsulation of cells in droplets"
+            ],
+            [
+                "2 H-Nb Se 2 undergoes a charge-density-wave (CDW) distortion at 33 K which induces A and E Raman-active phonon modes. These are joined in the superconducting state at 2 K by new A and E Raman modes close in energy to the BCS gap 2 \u0394. Magnetic fields suppress the intensity of the new modes and enhance that of the CDW-induced modes, thus providing evidence of coupling between the superconducting-gap excitations and the CDW.",
+                "We present a multiplex method, based on microscopic programmable magnetic traps in zigzag wires patterned on a platform, to simultaneously apply directed forces on multiple fluid-borne cells or biologically inert magnetic microparticles or nanoparticles. The gentle tunable forces do not produce damage and retain cell viability. The technique is demonstrated with T-lymphocyte cells remotely manipulated (by a joystick) along desired trajectories on a silicon surface with average speeds up to 20 \u03bc m\/s.",
+                "Controlled transport of multiple individual nanostructures is crucial for nanoassembly and nanodelivery but is challenging because of small particle size. Although atomic force microscopy and optical and magnetic tweezers can control single particles, it is extremely difficult to scale these technologies for multiple structures. Here, we demonstrate a \u201cnano-conveyer-belt\u201d technology that permits simultaneous transport and tracking of multiple individual nanospecies in a selected direction. The technology consists of two components: nanocontainers, which encapsulate the nanomaterials transported, and nanoconveyer arrays, which use magnetic force to manipulate individual or aggregate nanocontainers. This technology is extremely versatile. For example, nanocontainers encapsulate quantum dots or rods and superparamagnetic iron oxide nanoparticles in <100 nm nanocontainers, the smallest magnetic \u2026",
+                "We report the observation, by inelastic light scattering, of the dispersion of collective intersubband excitations of electrons confined in GaAs quantum-well superlattices. The ability to probe plasmons with large in-plane wave vectors allows one the unique possibility to study excitations in the two-dimensional limit. Intrasubband plasmons in this regime are also observed for the first time. The results are interpreted with current theories which include estimates of many-body effects.",
+                "We recently observed, using Raman scattering as a probe, the superconducting gap excitation in 2 H\u2212 N b Se 2. This was seen by the appearance of two new Raman-active modes of different symmetry A (18 cm\u2212 1) and E (15 cm\u2212 1) when the sample is superconducting. In this paper we present further experimental details and results that confirm the theory of Balseiro and Falicov, which shows that the new modes borrow their Raman activity from low-lying charge-densitywave (CDW) phonons. Evidence of this direct coupling between superconducting electrons and the CDW phonon is seen by the behavior of the modes in a magnetic field. Such behavior of the Raman spectra is explained in terms of a model involving a complex gap. The effect of life-time broadening of the CDW phonon and consequences of varying coupling strength are presented.",
+                "We utilize Brillouin light scattering to investigate the magnetic properties of the hexagonal-close-packed as well as the body-and face-centered cubic phases of elemental cobalt stabilized as thin epilayers. Expressions for the dependence of the surface and bulk magnons on applied magnetic field and in-plane propagation direction yield the exchange stiffness constant D, saturation magnetization M, and magnetic anisotropy fields of the cobalt atoms synthesized in these distinct crystal structures. Estimates of D and M are also calculated from the electronic band structure for the different crystalline phases. Satisfactory agreement is found between theory and experiment. The implications of these results towards our understanding of magnetic properties of itinerant ferromagnets are discussed.\u00a9 1996 The American Physical Society.",
+                "Uniaxial stress induces striking effects on the polarized emission from the 2D Fermi sea in modulation-doped GaAs quantum well structures. These are interpreted within the effective-mass theory in terms of changes in valence-band mixing caused by modifications to the subband spacing and departure from tetragonal symmetry. Calculation of the electron-hole recombination together with a phenomenological approximation for the Fermi-sea shake-up processes successfully accounts for the luminescence spectra and their stress dependence.",
+                "A novel high\u2010throughput magnetic tweezers\u2010based 3D microchannel electroporation system capable of transfecting 40 000 cells\/cm2 on a single chip for gene therapy, regenerative medicine, and intracellular detection of target mRNA for screening cellular heterogeneity is reported. A single cell or an ordered array of individual cells are remotely guided by programmable magnetic fields to poration sites with high (>90%) cell alignment efficiency to enable various transfection reagents to be delivered simultaneously into the cells. The present technique, in contrast to the conventional vacuum\u2010based approach, is significantly gentler on the cellular membrane yielding >90% cell viability and, moreover, allows transfected cells to be transported for further analysis. Illustrating the versatility of the system, the GATA2 molecular beacon is delivered into leukemia cells to detect the regulation level of the GATA2 gene that is \u2026",
+                "The longitudinal acoustic (LA) mode of bulk Ge x Se 1\u2212 x glasses is examined in Brillouin scattering (BS) over the 0.15< x< 1\/3 range using near band-gap radiation (\u03bb= 647.1 nm). The LA-mode frequency (\u03bd LA) softens with increasing laser power in an athermal and reversible manner by nearly 30%(= \u0394 \u03bd LA\/\u03bd LA) near x= x c= 0.19 (1) or mean coordination number, r c= 2+ 2 x c= 2.38 (2), close to the mean-field rigidity percolation transition (r t= 2.40). BS is a bulk probe of elasticity, and photosoftening is maximized here when network stress is minimized near the elastic phase transition.",
+                "Single cell study is gaining importance because of the cell-to-cell variation that exists within cell population, even after significant initial sorting. Analysis of such variation at the gene expression level could impact single cell functional genomics, cancer, stem-cell research, and drug screening. The on-chip monitoring of individual cells in an isolated environment would prevent cross-contamination, provide high recovery yield, and enable study of biological traits at a single cell level. These advantages of on-chip biological experiments is a significant improvement for a myriad of cell analyses methods, compared to conventional methods, which require bulk samples and provide only averaged information on cell structure and function. We report on a device that integrates a mobile magnetic trap array with microfluidic technology to provide the possibility of separation of immunomagnetically labeled cells and their \u2026"
+            ],
+            [
+                [
+                    "Condensed Mater Physics",
+                    "Biophysics"
+                ]
+            ]
+        ]
+    ]
+}

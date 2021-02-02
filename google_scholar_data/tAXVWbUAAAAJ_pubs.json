@@ -1,0 +1,249 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Much of current understanding of cell motility arose from studying steady treadmilling of actin arrays. Recently, there have been a growing number of observations of a more complex, non-steady, actin behavior, including self-organized waves. It is becoming clear that these waves result from activation and inhibition feedbacks in actin dynamics acting on different scales, but the exact molecular nature of these feedbacks and the respective roles of biomechanics and biochemistry are still unclear. Here, we review recent advances achieved in experimental and theoretical studies of actin waves and discuss mechanisms and physiological significance of wavy protrusions.",
+            "Traveling waves in actin dynamics and cell motility",
+            "Jun Allard and Alex Mogilner",
+            "2013",
+            "tAXVWbUAAAAJ:LkGwnXOMwfcC",
+            179,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0955067412001378",
+            "5267561647018138331",
+            "\/scholar?cites=5267561647018138331",
+            {
+                "2012":1,
+                "2013":9,
+                "2014":32,
+                "2015":19,
+                "2016":16,
+                "2017":30,
+                "2018":26,
+                "2019":22,
+                "2020":22,
+                "2021":2
+            }
+        ],
+        [
+            "It is well known that the parallel order of microtubules in the plant cell cortex defines the direction of cell expansion, yet it remains unclear how microtubule orientation is controlled, especially on a cell-wide basis. Here we show through 4D imaging and computational modelling that plant cell polyhedral geometry provides spatial input that determines array orientation and heterogeneity. Microtubules depolymerize when encountering sharp cell edges head-on, whereas those oriented parallel to those sharp edges remain. Edge-induced microtubule depolymerization, however, is overcome by the microtubule-associated protein CLASP, which accumulates at specific cell edges, enables microtubule growth around sharp edges and promotes formation of microtubule bundles that span adjacent cell faces. By computationally modelling dynamic'microtubules on a cube'with edges differentially permissive to microtubule \u2026",
+            "A CLASP-modulated cell edge barrier mechanism drives cell-wide cortical microtubule organization in Arabidopsis",
+            "Chris Ambrose and Jun F Allard and Eric N Cytrynbaum and Geoffrey O Wasteneys",
+            "2011",
+            "tAXVWbUAAAAJ:qjMakFHDy7sC",
+            178,
+            "https:\/\/www.nature.com\/articles\/ncomms1444",
+            "2096088156805727682",
+            "\/scholar?cites=2096088156805727682",
+            {
+                "2011":1,
+                "2012":16,
+                "2013":23,
+                "2014":17,
+                "2015":20,
+                "2016":17,
+                "2017":14,
+                "2018":22,
+                "2019":23,
+                "2020":22,
+                "2021":1
+            }
+        ],
+        [
+            "A migrating cell is a molecular machine made of tens of thousands of short-lived and interacting parts. Understanding migration means understanding the self-organization of these parts into a system of functional units. This task is one of tackling complexity: First, the system integrates numerous chemical and mechanical component processes. Second, these processes are connected in feedback interactions and over a large range of spatial and temporal scales. Third, many processes are stochastic, which leads to heterogeneous migration behaviors. Early on in the research of cell migration it became evident that this complexity exceeds human intuition. Thus, the cell migration community has led the charge to build mathematical models that could integrate the diverse experimental observations and measurements in consistent frameworks, first in conceptual and more recently in molecularly explicit models. The \u2026",
+            "Mathematical modeling of eukaryotic cell migration: insights beyond experiments",
+            "Gaudenz Danuser and Jun Allard and Alex Mogilner",
+            "2013",
+            "tAXVWbUAAAAJ:Se3iqnhoufwC",
+            145,
+            "https:\/\/www.annualreviews.org\/doi\/abs\/10.1146\/annurev-cellbio-101512-122308",
+            "2536310222120103676",
+            "\/scholar?cites=2536310222120103676",
+            {
+                "2013":1,
+                "2014":12,
+                "2015":14,
+                "2016":33,
+                "2017":18,
+                "2018":32,
+                "2019":15,
+                "2020":19,
+                "2021":1
+            }
+        ],
+        [
+            "Among a number of innovative approaches that have modernized cell biology, modeling has a prominent yet unusual place. One popular view is that we progress linearly, from conceptual to ever more detailed models. We review recent discoveries of cell polarity mechanisms, in which modeling played an important role, to demonstrate that the experiment-theory feedback loop requires diverse models characterized by varying levels of biological detail and mathematical complexity. We argue that a quantitative model is a tool that has to fit an experimental study, and the model\u2019s value should be judged not by how complex and detailed it is, but by what could be learned from it.",
+            "Cell polarity: quantitative modeling as a tool in cell biology",
+            "Alex Mogilner and Jun Allard and Roy Wollman",
+            "2012",
+            "tAXVWbUAAAAJ:_FxGoFyzp5QC",
+            126,
+            "https:\/\/science.sciencemag.org\/content\/336\/6078\/175.abstract",
+            "7415229286913108644",
+            "\/scholar?cites=7415229286913108644",
+            {
+                "2012":8,
+                "2013":30,
+                "2014":19,
+                "2015":11,
+                "2016":15,
+                "2017":14,
+                "2018":15,
+                "2019":5,
+                "2020":8
+            }
+        ],
+        [
+            "A ctin filaments, with the aid of multiple accessory proteins, self-assemble into a variety of network patterns. We studied the organization and dynamics of the actin network in nonadhesive regions of cells bridging fibronectin-coated adhesive strips. The network was formed by actin nodes associated with and linked by myosin II and containing the formin disheveled-associated activator of morphogenesis 1 (DAAM1) and the cross-linker filamin A (FlnA). After Latrunculin A (LatA) addition, actin nodes appeared to be more prominent and demonstrated drift-diffusion motion. Superresolution microscopy revealed that, in untreated cells, DAAM1 formed patches with a similar spatial arrangement to the actin nodes. Node movement (diffusion coefficient and velocity) in LatA-treated cells was dependent on the level and activity of myosin IIA, DAAM1, and FlnA. Based on our results, we developed a computational model of the \u2026",
+            "Analysis of the local organization and dynamics of cellular actin networks",
+            "Weiwei Luo and Cheng-han Yu and Zi Zhao Lieu and Jun Allard and Alex Mogilner and Michael P Sheetz and Alexander D Bershadsky",
+            "2013",
+            "tAXVWbUAAAAJ:UebtZRa9Y70C",
+            96,
+            "https:\/\/rupress.org\/jcb\/article\/202\/7\/1057\/37400",
+            "14530940420001438972",
+            "\/scholar?cites=14530940420001438972",
+            {
+                "2014":24,
+                "2015":16,
+                "2016":19,
+                "2017":11,
+                "2018":8,
+                "2019":11,
+                "2020":6
+            }
+        ],
+        [
+            "FtsZ, a bacterial homologue of tubulin, plays a central role in bacterial cell division. It is the first of many proteins recruited to the division site to form the Z-ring, a dynamic structure that recycles on the time scale of seconds and is required for division to proceed. FtsZ has been recently shown to form rings inside tubular liposomes and to constrict the liposome membrane without the presence of other proteins, particularly molecular motors that appear to be absent from the bacterial proteome. Here, we propose a mathematical model for the dynamic turnover of the Z-ring and for its ability to generate a constriction force. Force generation is assumed to derive from GTP hydrolysis, which is known to induce curvature in FtsZ filaments. We find that this transition to a curved state is capable of generating a sufficient force to drive cell-wall invagination in vivo and can also explain the constriction seen in the in vitro liposome \u2026",
+            "Force generation by a dynamic Z-ring in Escherichia coli cell division",
+            "Jun F Allard and Eric N Cytrynbaum",
+            "2009",
+            "tAXVWbUAAAAJ:u-x6o8ySG0sC",
+            86,
+            "https:\/\/www.pnas.org\/content\/106\/1\/145.short",
+            "10517906282841076103",
+            "\/scholar?cites=10517906282841076103",
+            {
+                "2009":12,
+                "2010":11,
+                "2011":9,
+                "2012":11,
+                "2013":8,
+                "2014":6,
+                "2015":7,
+                "2016":7,
+                "2017":7,
+                "2018":2,
+                "2019":2,
+                "2020":4
+            }
+        ],
+        [
+            "Microtubules confined to the two-dimensional cortex of elongating plant cells must form a parallel yet dispersed array transverse to the elongation axis for proper cell wall expansion. Some of these microtubules exhibit free minus-ends, leading to migration at the cortex by hybrid treadmilling. Collisions between microtubules can result in plus-end entrainment (\u201czippering\u201d) or rapid depolymerization. Here, we present a computational model of cortical microtubule organization. We find that plus-end entrainment leads to self-organization of microtubules into parallel arrays, whereas catastrophe-inducing collisions do not. Catastrophe-inducing boundaries (e.g., upper and lower cross-walls) can tune the orientation of an ordered array to a direction transverse to elongation. We also find that changes in dynamic instability parameters, such as in mor1-1 mutants, can impede self-organization, in agreement with \u2026",
+            "Mechanisms of self-organization of cortical microtubules in plants revealed by computational simulations",
+            "Jun F Allard and Geoffrey O Wasteneys and Eric N Cytrynbaum",
+            "2010",
+            "tAXVWbUAAAAJ:d1gkVwhDpl0C",
+            83,
+            "https:\/\/www.molbiolcell.org\/doi\/abs\/10.1091\/mbc.E09-07-0579",
+            "1759222595056265664",
+            "\/scholar?cites=1759222595056265664",
+            {
+                "2010":3,
+                "2011":6,
+                "2012":14,
+                "2013":15,
+                "2014":12,
+                "2015":4,
+                "2016":4,
+                "2017":5,
+                "2018":7,
+                "2019":7,
+                "2020":5
+            }
+        ],
+        [
+            "Cell surface receptors have been extensively studied because they initiate and regulate signal transduction cascades leading to a variety of functional cellular outcomes. An important class of immune receptors (e.g., T-cell antigen receptors) whose ligands are anchored to the surfaces of other cells remain poorly understood. The mechanism by which ligand binding initiates receptor phosphorylation, a process termed \u201creceptor triggering\u201d, remains controversial. Recently, direct measurements of the (two-dimensional) receptor-ligand complex lifetimes at cell-cell interface were found to be smaller than (three-dimensional) lifetimes in solution but the underlying mechanism is unknown. At the cell-cell interface, the receptor-ligand complex spans a short intermembrane distance (15 nm) compared to long surface molecules (LSMs) whose ectodomains span >40 nm and these LSMs include phosphatases (e.g., CD45) that \u2026",
+            "Mechanical modulation of receptor-ligand interactions at cell-cell interfaces",
+            "Jun F Allard and Omer Dushek and Daniel Coombs and P Anton Van Der Merwe",
+            "2012",
+            "tAXVWbUAAAAJ:ufrVoPGSRksC",
+            47,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0006349512002068",
+            "1749690624188012741",
+            "\/scholar?cites=1749690624188012741",
+            {
+                "2012":3,
+                "2013":3,
+                "2014":7,
+                "2015":8,
+                "2016":3,
+                "2017":5,
+                "2018":8,
+                "2019":6,
+                "2020":4
+            }
+        ],
+        [
+            "Dynamic actin networks are excitable. In migrating cells, feedback loops can amplify stochastic fluctuations in actin dynamics, often resulting in traveling waves of protrusion. The precise contributions of various molecular and mechanical interactions to wave generation have been difficult to disentangle, in part due to complex cellular morphodynamics. Here we used a relatively simple cell type\u2014the fish epithelial keratocyte\u2014to define a set of mechanochemical feedback loops underlying actin network excitability and wave generation. Although keratocytes are normally characterized by the persistent protrusion of a broad leading edge, increasing cell-substrate adhesion strength results in waving protrusion of a short leading edge. We show that protrusion waves are due to fluctuations in actin polymerization rates and that overexpression of VASP, an actin anti-capping protein that promotes actin polymerization \u2026",
+            "Adhesion-dependent wave generation in crawling cells",
+            "Erin L Barnhart and Jun Allard and Sunny S Lou and Julie A Theriot and Alex Mogilner",
+            "2017",
+            "tAXVWbUAAAAJ:_Qo2XoVZTnwC",
+            44,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0960982216313367",
+            "15071686735856360937",
+            "\/scholar?cites=15071686735856360937",
+            {
+                "2017":9,
+                "2018":10,
+                "2019":9,
+                "2020":15,
+                "2021":1
+            }
+        ],
+        [
+            "Microtubules anchored to the two-dimensional cortex of plant cells collide through plus-end polymerization. Collisions can result in rapid depolymerization, directional plus-end entrainment, or crossover. These interactions are believed to give rise to cellwide self-organization of plant cortical microtubules arrays, which is required for proper cell wall growth. Although the cell-wide self-organization has been well studied, less emphasis has been placed on explaining the interactions mechanistically from the molecular scale. Here we present a model for microtubule-cortex anchoring and collision-based interactions between microtubules, based on a competition between cross-linker bonding, microtubule bending, and microtubule polymerization. Our model predicts a higher probability of entrainment at smaller collision angles and at longer unanchored lengths of plus-ends. This model addresses observed differences \u2026",
+            "A mechanochemical model explains interactions between cortical microtubules in plants",
+            "Jun F Allard and J Christian Ambrose and Geoffrey O Wasteneys and Eric N Cytrynbaum",
+            "2010",
+            "tAXVWbUAAAAJ:UeHWp8X0CEIC",
+            35,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0006349510007058",
+            "11787989434830650695",
+            "\/scholar?cites=11787989434830650695",
+            {
+                "2012":9,
+                "2013":9,
+                "2014":2,
+                "2015":1,
+                "2016":1,
+                "2017":2,
+                "2018":5,
+                "2019":6
+            }
+        ]
+    ]
+}

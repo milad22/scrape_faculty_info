@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "TCVEBC32",
+            "1ilkgi0AAAAJ",
+            [
+                "Field theory of non-equilibrium systems",
+                "Quasiparticle lifetime in a finite system: A nonperturbative approach",
+                "Keldysh technique and non-linear \u03c3-model: basic principles and applications",
+                "Electron-electron interactions in disordered metals: Keldysh formalism",
+                "Rare event statistics in reaction-diffusion systems",
+                "Coulomb drag in normal metals and superconductors: Diagrammatic approach",
+                "Sachdev\u2013Ye\u2013Kitaev model as Liouville quantum mechanics",
+                "Dynamic response of one-dimensional interacting fermions",
+                "Fermi-Luttinger liquid: Spectral function of interacting one-dimensional fermions",
+                "Power-law out of time order correlation functions in the SYK model"
+            ],
+            [
+                "The physics of non-equilibrium many-body systems is one of the most rapidly expanding areas of theoretical physics. Traditionally used in the study of laser physics and superconducting kinetics, these techniques have more recently found applications in the study of dynamics of cold atomic gases, mesoscopic and nano-mechanical systems. The book gives a self-contained presentation of the modern functional approach to non-equilibrium field-theoretical methods. They are applied to examples ranging from biophysics to the kinetics of superfluids and superconductors. Its step-by-step treatment gives particular emphasis to the pedagogical aspects, making it ideal as a reference for advanced graduate students and researchers in condensed matter physics.",
+                "The problem of electron-electron lifetime in a quantum dot is studied beyond perturbation theory by mapping onto the problem of localization in the Fock space. Localized and delocalized regimes are identified, corresponding to quasiparticle spectral peaks of zero and finite width, respectively. In the localized regime, quasiparticle states are single-particle-like. In the delocalized regime, each eigenstate is a superposition of states with very different quasiparticle content. The transition energy is \u03b5 c\u2243 \u0394 (g\/ln g) 1\/2, where \u0394 is mean level spacing, and g is the dimensionless conductance. Near \u03b5 c there is a broad critical region not described by the golden rule.",
+                "The purpose of this review is to provide a comprehensive pedagogical introduction into Keldysh technique for interacting out-of-equilibrium fermionic and bosonic systems. The emphasis is placed on a functional integral representation of the underlying microscopic models. A large part of the review is devoted to derivation and applications of the non-linear \u03c3-model for disordered metals and superconductors. We discuss topics such as transport properties, mesoscopic effects, counting statistics, interaction corrections, kinetic equations, etc. The section devoted to disordered superconductors includes the Usadel equation, fluctuation corrections, time-dependent Ginzburg\u2013Landau theory, proximity and Josephson effects, etc.",
+                "We develop a field theory formalism for the disordered interacting electron liquid in the dynamical Keldysh formulation. This formalism is an alternative to the previously used replica technique. In addition, it naturally allows for the treatment of nonequilibrium effects. Employing the gauge invariance of the theory and carefully choosing the saddle point in the Q-matrix manifold, we separate purely phase effects of the fluctuating potential from the ones that change quasiparticle dynamics. As a result, the cancellation of super-divergent diagrams (double logarithms in d= 2) is automatically built into the formalism. As a by-product we derive a nonperturbative expression for the single-particle density of states. The remaining low-energy \u03c3 model describes the quantum fluctuations of the electron distribution function. Its saddle-point equation appears to be the quantum kinetic equation with the appropriate collision integral \u2026",
+                "We present an efficient method to calculate probabilities of large deviations from the typical behavior (rare events) in reaction-diffusion systems. This method is based on a semiclassical treatment of an underlying \u201cquantum\u201d Hamiltonian, encoding the system\u2019s evolution. To this end, we formulate the corresponding canonical dynamical system and investigate its phase portrait. This method is presented for a number of pedagogical examples.",
+                "The diagrammatic linear response formalism for the Coulomb drag in two-layer systems is developed. This technique can be used to treat both elastic disorder and intralayer interaction effects. In the absence of intralayer electron-electron correlations we reproduce earlier results, obtained using the kinetic equation and the memory-function formalism. In addition we calculate weak-localization corrections to the drag coefficient and the Hall drag coefficient in a perpendicular magnetic field. As an example of the intralayer interaction effects we consider a situation where one (or both) layers are close to (but above) the superconducting transition temperature. Fluctuation corrections, analogous to the Aslamazov-Larkin corrections, to the drag coefficient are calculated. Although the fluctuation corrections do not enhance the drag coefficient for normal-superconductor systems, a dramatic enhancement is found for \u2026",
+                "We show that the proper inclusion of soft reparameterization modes in the Sachdev\u2013Ye\u2013Kitaev model of N randomly interacting Majorana fermions reduces its long-time behavior to that of Liouville quantum mechanics. As a result, all zero temperature correlation functions decay with the universal exponent\u221d \u03c4\u2212 3\/2 for times larger than the inverse single particle level spacing \u03c4\u226b N ln\u2061 N. In the particular case of the single particle Green function this behavior is manifestation of the zero-bias anomaly, or scaling in energy as \u03f5 1\/2. We also present exact diagonalization study supporting our conclusions.",
+                "We evaluate the dynamic structure factor S (q, \u03c9) of interacting one-dimensional spinless fermions with a nonlinear dispersion relation. The combined effect of the nonlinear dispersion and of the interactions leads to new universal features of S (q, \u03c9). The sharp peak S (q, \u03c9)\u221d q \u03b4 (\u03c9\u2212 u q), characteristic for the Tomonaga-Luttinger model, broadens up; S (q, \u03c9) for a fixed q becomes finite at arbitrarily large \u03c9. The main spectral weight, however, is confined to a narrow frequency interval of the width \u03b4 \u03c9\u223c q 2\/m. At the boundaries of this interval the structure factor exhibits power-law singularities with exponents depending on the interaction strength and on the wave number q.",
+                "We evaluate the spectral function of interacting fermions in one dimension. Contrary to the Tomonaga-Luttinger model, our treatment accounts for the nonlinearity of the free fermion spectrum. In a striking departure from the Luttinger liquid theory, the spectrum nonlinearity restores the main feature of the Fermi liquid: a Lorentzian peak in the spectral function on the particle mass shell. At the same time, the spectral function displays a power-law singularity on the hole mass shell, similar to that in the Luttinger liquid.",
+                "We evaluate the finite temperature partition sum and correlation functions of the Sachdev\u2013Ye\u2013Kitaev (SYK) model. Starting from a recently proposed mapping of the SYK model onto Liouville quantum mechanics, we obtain our results by exact integration over conformal Goldstone modes reparameterizing physical time. Perhaps, the least expected result of our analysis is that at time scales proportional to the number of particles the out of time order correlation function crosses over from a regime of exponential decay to a universal t\u2212 6 power-law behavior."
+            ],
+            [
+                [
+                    "Condensed Matter Physics"
+                ]
+            ]
+        ]
+    ]
+}

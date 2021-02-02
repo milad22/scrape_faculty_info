@@ -1,0 +1,77 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "L0K6eeYAAAAJ",
+            "Mehdi Sanati",
+            "PhD, University of Calgary",
+            "@ucalgary.ca",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=L0K6eeYAAAAJ",
+            99,
+            [
+                "Vibration Analysis",
+                "Joint Dynamics Identification"
+            ],
+            95,
+            7,
+            7,
+            4,
+            4,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"2G4p7e4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Simon S. Park",
+                    "affiliation":"University of Calgary"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Wf1aavwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Majid Mehrpouya",
+                    "affiliation":"University of Calgary"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"nC7AuoYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hamid Mostaghimi",
+                    "affiliation":"PhD candidate, University of Calgary"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Jet finding algorithms, as they are used in e+ e\u2212 and hadron collisions, are reviewed and compared. It is suggested that a successive combination style algorithm, similar to that used in e+ e\u2212 physics, might be useful also in hadron collisions, where cone style algorithms have been used previously.",
+            "Successive combination jet algorithm for hadron collisions",
+            "Stephen D Ellis and Davison E Soper",
+            "1993",
+            "VGA2geUAAAAJ:NJ774b8OgUMC",
+            2456,
+            "https:\/\/journals.aps.org\/prd\/abstract\/10.1103\/PhysRevD.48.3160",
+            "15412508599624227210",
+            "\/scholar?cites=15412508599624227210",
+            {
+                "1995":8,
+                "1996":12,
+                "1997":21,
+                "1998":33,
+                "1999":44,
+                "2000":57,
+                "2001":56,
+                "2002":69,
+                "2003":67,
+                "2004":64,
+                "2005":75,
+                "2006":78,
+                "2007":90,
+                "2008":110,
+                "2009":116,
+                "2010":118,
+                "2011":130,
+                "2012":147,
+                "2013":153,
+                "2014":126,
+                "2015":162,
+                "2016":169,
+                "2017":148,
+                "2018":163,
+                "2019":106,
+                "2020":95,
+                "2021":11
+            }
+        ]
+    ]
+}

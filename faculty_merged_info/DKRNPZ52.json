@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "DKRNPZ52",
+            "vUAGJkcAAAAJ",
+            [
+                "Excited state baryon spectroscopy from lattice QCD",
+                "First results from  dynamical quark flavors on an anisotropic lattice: Light-hadron spectroscopy and setting the strange-quark mass",
+                "Novel quark-field creation operator construction for hadronic physics in lattice QCD",
+                "Toward the excited meson spectrum of dynamical QCD",
+                "Physics opportunities with the 12 GeV upgrade at Jefferson Lab",
+                "Excited and exotic charmonium spectroscopy from lattice QCD",
+                "Excited and exotic charmonium spectroscopy from lattice QCD",
+                "Energy dependence of the  resonance in  elastic scattering from lattice QCD",
+                "Energy dependence of the  resonance in  elastic scattering from lattice QCD",
+                "Isoscalar meson spectroscopy from lattice QCD"
+            ],
+            [
+                "We present a calculation of the Nucleon and Delta excited state spectra on dynamical anisotropic clover lattices. A method for operator construction is introduced that allows for the reliable identification of the continuum spins of baryon states, overcoming the reduced symmetry of the cubic lattice. Using this method, we are able to determine a spectrum of single-particle states for spins up to and including J= 7 2, of both parities, the first time this has been achieved in a lattice calculation. We find a spectrum of states identifiable as admixtures of S U (6)\u2297 O (3) representations and a counting of levels that is consistent with the nonrelativistic q q q constituent quark model. This dense spectrum is incompatible with quark-diquark model solutions to the \u201cmissing resonance problem\u201d and shows no signs of parity doubling of states.",
+                "We present the first light-hadron spectroscopy on a set of N f= 2+ 1 dynamical, anisotropic lattices. A convenient set of coordinates that parameterize the two-dimensional plane of light and strange-quark masses is introduced. These coordinates are used to extrapolate data obtained at the simulated values of the quark masses to the physical light and strange-quark point. A measurement of the Sommer scale on these ensembles is made, and the performance of the hybrid Monte Carlo algorithm used for generating the ensembles is estimated.",
+                "A new quark-field smearing algorithm is defined which enables efficient calculations of a broad range of hadron correlation functions. The technique applies a low-rank operator to define smooth fields that are to be used in hadron creation operators. The resulting space of smooth fields is small enough that all elements of the reduced quark propagator can be computed exactly at reasonable computational cost. Correlations between arbitrary sources, including multihadron operators can be computed a posteriori without requiring new lattice Dirac operator inversions. The method is tested on realistic lattice sizes with light dynamical quarks.",
+                "We present a detailed description of the extraction of the highly excited isovector meson spectrum on dynamical anisotropic lattices using a new quark-field construction algorithm and a large variational basis of operators. With careful operator construction, the combination of these techniques is used to identify the continuum spin of extracted states reliably, overcoming the reduced rotational symmetry of the cubic lattice. Excited states, states with exotic quantum numbers (0+\u2212, 1\u2212+ and 2+\u2212), and states of high spin are resolved, including, for the first time in a lattice QCD calculation, spin-four states. The determinations of the spectrum of isovector mesons and kaons are performed on dynamical lattices with two volumes and with pion masses down to\u223c 400 MeV, with statistical precision typically at or below 1% even for highly excited states.",
+                "We summarize the scientific opportunities for utilization of the upgraded 12GeV Continuous Electron Beam Accelerator Facility (CEBAF) and associated experimental equipment at Jefferson Lab. This is based primarily on the 52 proposals recommended for approval by the Jefferson Lab Program Advisory Committee to date. The upgraded facility will enable a new experimental program with substantial discovery potential to address important topics in nuclear, hadronic, and electroweak physics.",
+                "We present a spectrum of highly excited charmonium mesons up to around 4.5 GeV calculated using dynamical lattice QCD. Employing novel computational techniques and the variational method with a large basis of carefully constructed operators, we extract and reliably identify the continuum spin of an extensive set of excited states, states with exotic quantum numbers (0+\u2212, 1\u2212+, 2+\u2212) and states with high spin. Calculations are performed on two lattice volumes with pion mass\u2248 400 MeV and the mass determinations have high statistical precision even for excited states. We discuss the results in light of experimental observations, identify the lightest \u2018supermultiplet\u2019of hybrid mesons and comment on the phenomenological implications of the spectrum of exotic mesons.",
+                "We present a spectrum of highly excited charmonium mesons up to around 4.5 GeV calculated using dynamical lattice QCD. Employing novel computational techniques and the variational method with a large basis of carefully constructed operators, we extract and reliably identify the continuum spin of an extensive set of excited states, states with exotic quantum numbers (0+\u2212, 1\u2212+, 2+\u2212) and states with high spin. Calculations are performed on two lattice volumes with pion mass\u2248 400 MeV and the mass determinations have high statistical precision even for excited states. We discuss the results in light of experimental observations, identify the lightest \u2018supermultiplet\u2019of hybrid mesons and comment on the phenomenological implications of the spectrum of exotic mesons.",
+                "We determine the energy-dependent amplitude for elastic \u03c0 \u03c0 P-wave scattering in isospin-1 by computing part of the discrete energy spectrum of QCD in finite cubic boxes. We observe a rapidly rising phase shift that can be well described by a single \u03c1 resonance. The spectrum is obtained from hadron correlators computed using lattice QCD with light quark masses corresponding to m \u03c0\u223c 400 MeV. Variational analyses are performed with large bases of hadron interpolating fields including, as well as fermion bilinears that resemble q q constructions, also operators that resemble pairs of pions with definite relative and total momentum. We compute the spectrum for a range of center-of-mass momenta and in various irreducible representations of the relevant symmetry group. Hence we determine more than 30 values of the isospin-1 P-wave scattering phase shift in the elastic region, mapping out its energy \u2026",
+                "We determine the energy-dependent amplitude for elastic \u03c0 \u03c0 P-wave scattering in isospin-1 by computing part of the discrete energy spectrum of QCD in finite cubic boxes. We observe a rapidly rising phase shift that can be well described by a single \u03c1 resonance. The spectrum is obtained from hadron correlators computed using lattice QCD with light quark masses corresponding to m \u03c0\u223c 400 MeV. Variational analyses are performed with large bases of hadron interpolating fields including, as well as fermion bilinears that resemble q q constructions, also operators that resemble pairs of pions with definite relative and total momentum. We compute the spectrum for a range of center-of-mass momenta and in various irreducible representations of the relevant symmetry group. Hence we determine more than 30 values of the isospin-1 P-wave scattering phase shift in the elastic region, mapping out its energy \u2026",
+                "We extract to high statistical precision an excited spectrum of single-particle isoscalar mesons using lattice QCD, including states of high spin and, for the first time, light exotic J PC isoscalars. The use of a novel quark field construction has enabled us to overcome the long-standing challenge of efficiently including quark-annihilation contributions. Hidden-flavor mixing angles are extracted and while most states are found to be close to ideally flavor mixed, there are examples of large mixing in the pseudoscalar and axial sectors in line with experiment. The exotic J PC isoscalar states appear at a mass scale comparable to the exotic isovector states."
+            ],
+            [
+                [
+                    "Nuclear Physics",
+                    "Particle Physics",
+                    "Computational Physics"
+                ]
+            ]
+        ]
+    ]
+}

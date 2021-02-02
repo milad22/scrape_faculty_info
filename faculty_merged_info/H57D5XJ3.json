@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "H57D5XJ3",
+            "avwVhJ4AAAAJ",
+            [
+                "Observation of antiferromagnetic correlations in the Hubbard model with ultracold atoms",
+                "Observation of spatial charge and spin correlations in the 2D Fermi-Hubbard model",
+                "Machine learning phases of strongly correlated fermions",
+                "Spin-imbalance in a 2D Fermi-Hubbard system",
+                "Fluctuation-dissipation theorem in an isolated system of quantum dipolar bosons after a quench",
+                "Thermodynamics of strongly interacting fermions in two-dimensional optical lattices",
+                "Quantum quenches in disordered systems: Approach to thermal equilibrium without a typical relaxation time",
+                "A short introduction to numerical linked-cluster expansions",
+                "Spin transport in a Mott insulator of ultracold fermions",
+                "Unsupervised machine learning account of magnetic transitions in the Hubbard model"
+            ],
+            [
+                "Ultracold atoms in optical lattices have great potential to contribute to a better understanding of some of the most important issues in many-body physics, such as high-temperature superconductivity 1. The Hubbard model\u2014a simplified representation of fermions moving on a periodic lattice\u2014is thought to describe the essential details of copper oxide superconductivity 2. This model describes many of the features shared by the copper oxides, including an interaction-driven Mott insulating state and an antiferromagnetic (AFM) state. Optical lattices filled with a two-spin-component Fermi gas of ultracold atoms can faithfully realize the Hubbard model with readily tunable parameters, and thus provide a platform for the systematic exploration of its phase diagram 3, 4. Realization of strongly correlated phases, however, has been hindered by the need to cool the atoms to temperatures as low as the magnetic exchange \u2026",
+                "Strong electron correlations lie at the origin of high-temperature superconductivity. Its essence is believed to be captured by the Fermi-Hubbard model of repulsively interacting fermions on a lattice. Here we report on the site-resolved observation of charge and spin correlations in the two-dimensional (2D) Fermi-Hubbard model realized with ultracold atoms. Antiferromagnetic spin correlations are maximal at half-filling and weaken monotonically upon doping. At large doping, nearest-neighbor correlations between singly charged sites are negative, revealing the formation of a correlation hole, the suppressed probability of finding two fermions near each other. As the doping is reduced, the correlations become positive, signaling strong bunching of doublons and holes, in agreement with numerical calculations. The dynamics of the doublon-hole correlations should play an important role for transport in the Fermi \u2026",
+                "Machine learning offers an unprecedented perspective for the problem of classifying phases in condensed matter physics. We employ neural-network machine learning techniques to distinguish finite-temperature phases of the strongly correlated fermions on cubic lattices. We show that a three-dimensional convolutional network trained on auxiliary field configurations produced by quantum Monte Carlo simulations of the Hubbard model can correctly predict the magnetic phase diagram of the model at the average density of one (half filling). We then use the network, trained at half filling, to explore the trend in the transition temperature as the system is doped away from half filling. This transfer learning approach predicts that the instability to the magnetic phase extends to at least 5% doping in this region. Our results pave the way for other machine learning applications in correlated quantum many-body systems.",
+                "The interplay of strong interactions and magnetic fields gives rise to unusual forms of superconductivity and magnetism in quantum many-body systems. Here, we present an experimental study of the two-dimensional Fermi-Hubbard model\u2014a paradigm for strongly correlated fermions on a lattice\u2014in the presence of a Zeeman field and varying doping. Using site-resolved measurements, we revealed anisotropic antiferromagnetic correlations, a precursor to long-range canted order. We observed nonmonotonic behavior of the local polarization with doping for strong interactions, which we attribute to the evolution from an antiferromagnetic insulator to a metallic phase. Our results pave the way to experimentally mapping the low-temperature phase diagram of the Fermi-Hubbard model as a function of both doping and spin polarization, for which many open questions remain.",
+                "We examine the validity of fluctuation-dissipation relations in isolated quantum systems taken out of equilibrium by a sudden quench. We focus on the dynamics of trapped hard-core bosons in one-dimensional lattices with dipolar interactions whose strength is changed during the quench. We find indications that fluctuation-dissipation relations hold if the system is nonintegrable after the quench, as well as if it is integrable after the quench if the initial state is an equilibrium state of a nonintegrable Hamiltonian. On the other hand, we find indications that they fail if the system is integrable both before and after quenching.",
+                "We study finite-temperature properties of strongly correlated fermions in two-dimensional optical lattices by means of numerical linked cluster expansions, a computational technique that allows one to obtain exact results in the thermodynamic limit. We focus our analysis on the strongly interacting regime, where the on-site repulsion is of the order of or greater than the band width. We compute the equation of state, double occupancy, entropy, uniform susceptibility, and spin correlations for temperatures that are similar to or below the ones achieved in current optical lattice experiments. We provide a quantitative analysis of adiabatic cooling of trapped fermions in two dimensions, by means of both flattening the trapping potential and increasing the interaction strength.",
+                "We study spectral properties and the dynamics after a quench of one-dimensional spinless fermions with short-range interactions and long-range random hopping. We show that a sufficiently fast decay of the hopping term promotes localization effects at finite temperature, which prevents thermalization even if the classical motion is chaotic. For slower decays, we find that thermalization does occur. However, within this model, the latter regime falls in an unexpected universality class, namely, observables exhibit a power-law (as opposed to an exponential) approach to their thermal expectation values.",
+                "We provide a pedagogical introduction to numerical linked-cluster expansions (NLCEs). We sketch the algorithm for generic Hamiltonians that only connect nearest-neighbor sites in a finite cluster with open boundary conditions. We then compare results for a specific model, the Heisenberg model, in each order of the NLCE with the ones for the finite cluster calculated directly by means of full exact diagonalization. We discuss how to reduce the computational cost of the NLCE calculations by taking into account symmetries and topologies of the linked clusters. Finally, we generalize the algorithm to the thermodynamic limit, and discuss several numerical resummation techniques that can be used to accelerate the convergence of the series.",
+                "Strongly correlated materials are expected to feature unconventional transport properties, such that charge, spin, and heat conduction are potentially independent probes of the dynamics. In contrast to charge transport, the measurement of spin transport in such materials is highly challenging. We observed spin conduction and diffusion in a system of ultracold fermionic atoms that realizes the half-filled Fermi-Hubbard model. For strong interactions, spin diffusion is driven by super-exchange and doublon-hole\u2013assisted tunneling, and strongly violates the quantum limit of charge diffusion. The technique developed in this work can be extended to finite doping, which can shed light on the complex interplay between spin and charge in the Hubbard model.",
+                "We employ several unsupervised machine learning techniques, including autoencoders, random trees embedding, and t-distributed stochastic neighboring ensemble (t-SNE), to reduce the dimensionality of, and therefore classify, raw (auxiliary) spin configurations generated, through Monte Carlo simulations of small clusters, for the Ising and Fermi-Hubbard models at finite temperatures. Results from a convolutional autoencoder for the three-dimensional Ising model can be shown to produce the magnetization and the susceptibility as a function of temperature with a high degree of accuracy. Quantum fluctuations distort this picture and prevent us from making such connections between the output of the autoencoder and physical observables for the Hubbard model. However, we are able to define an indicator based on the output of the t-SNE algorithm that shows a near perfect agreement with the antiferromagnetic \u2026"
+            ],
+            [
+                [
+                    "Strongly-correlated electronic systems",
+                    "Ultracold atoms in optical lattices",
+                    "Numerical methods",
+                    "Frustrated magnetism"
+                ]
+            ]
+        ]
+    ]
+}

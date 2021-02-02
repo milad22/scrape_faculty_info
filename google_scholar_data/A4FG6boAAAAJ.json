@@ -1,0 +1,127 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "A4FG6boAAAAJ",
+            "Zuo-Quan Jiang (\u848b\u4f50\u6743)",
+            "Professor of Chemistry, Institute of Functional Nano & Soft Materials (FUNSOM), Soochow University",
+            "@suda.edu.cn",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=A4FG6boAAAAJ",
+            4460,
+            [
+                "OLED",
+                "OPV",
+                "Conjugated Materials",
+                "Organic Synthesis"
+            ],
+            3498,
+            37,
+            32,
+            93,
+            83,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"EgHWH8MAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Liang-Sheng Liao",
+                    "affiliation":"Institute of Functional Nano & Soft Materials (FUNSOM), Soochow University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"zVXgHQIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Lin-Song Cui(\u5d14\u6797\u677e)",
+                    "affiliation":"Optoelectronics  Cavendish Laboratory, Cambridge"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"BAyK2M8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yongxi Li",
+                    "affiliation":"Assistant Research Scientist, EECS, University of Michigan"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"D86spE0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ya-Kun Wang",
+                    "affiliation":"Ph.D., University of Toronto, Soochow University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"nfAKNnQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yunqi Liu",
+                    "affiliation":"Professor, Institute of Chemistry, Chinese Academy of Sciences"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"DEeyRDoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Zhao-Kui Wang (\u738b\u7167\u594e)",
+                    "affiliation":"Professor, Soochow University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"E_h2YM4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jianyu Yuan",
+                    "affiliation":"Associate Professor"
+                }
+            ]
+        ]
+    ]
+}

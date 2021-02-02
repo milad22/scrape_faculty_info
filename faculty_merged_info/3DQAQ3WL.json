@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "3DQAQ3WL",
+            "ykG6SNAAAAAJ",
+            [
+                "Testing general relativity with atom interferometry",
+                "Multiaxis inertial sensing with long-time point source atom interferometry",
+                "Quantum superposition at the half-metre scale",
+                "Atomic gravitational wave interferometric sensor",
+                "New method for gravitational wave detection with atomic sensors",
+                "General relativistic effects in atom interferometry",
+                "Gravitational wave detection with atom interferometry",
+                "Matter wave lensing to picokelvin temperatures",
+                "Phase shift in an atom interferometer due to spacetime curvature across its wave function",
+                "An atomic gravitational wave interferometric sensor in low earth orbit (AGIS-LEO)"
+            ],
+            [
+                "The unprecedented precision of atom interferometry will soon lead to laboratory tests of general relativity to levels that will rival or exceed those reached by astrophysical observations. We propose such an experiment that will initially test the equivalence principle to 1 part in 10 15 (300 times better than the current limit), and 1 part in 10 17 in the future. It will also probe general relativistic effects\u2014such as the nonlinear three-graviton coupling, the gravity of an atom\u2019s kinetic energy, and the falling of light\u2014to several decimals. In contrast with astrophysical observations, laboratory tests can isolate these effects via their different functional dependence on experimental variables.",
+                "We show that light-pulse atom interferometry with atomic point sources and spatially resolved detection enables multiaxis (two rotation, one acceleration) precision inertial sensing at long interrogation times. Using this method, we demonstrate a light-pulse atom interferometer for Rb 87 with 1.4 cm peak wave packet separation and a duration of 2 T= 2.3 s. The inferred acceleration sensitivity of each shot is 6.7\u00d7 10\u2212 12 g, which improves on previous limits by more than 2 orders of magnitude. We also measure Earth\u2019s rotation rate with a precision of 200 nrad\/s.",
+                "The quantum superposition principle allows massive particles to be delocalized over distant positions. Though quantum mechanics has proved adept at describing the microscopic world, quantum superposition runs counter to intuitive conceptions of reality and locality when extended to the macroscopic scale 1, as exemplified by the thought experiment of Schr\u00f6dinger\u2019s cat 2. Matter-wave interferometers 3, which split and recombine wave packets in order to observe interference, provide a way to probe the superposition principle on macroscopic scales 4 and explore the transition to classical physics 5. In such experiments, large wave-packet separation is impeded by the need for long interaction times and large momentum beam splitters, which cause susceptibility to dephasing and decoherence 1. Here we use light-pulse atom interferometry 6, 7 to realize quantum interference with wave packets separated by up \u2026",
+                "We propose two distinct atom interferometer gravitational wave detectors, one terrestrial and another satellite based, utilizing the core technology of the Stanford 10 m atom interferometer presently under construction. Each configuration compares two widely separated atom interferometers run using common lasers. The signal scales with the distance between the interferometers, which can be large since only the light travels over this distance, not the atoms. The terrestrial experiment with two\u223c 10 m atom interferometers separated by a\u223c 1 km baseline can operate with strain sensitivity\u223c 10\u2212 19 Hz in the 1 Hz\u201310 Hz band, inaccessible to LIGO, and can detect gravitational waves from solar mass binaries out to megaparsec distances. The satellite experiment with two atom interferometers separated by a\u223c 1000 km baseline can probe the same frequency spectrum as LISA with comparable strain sensitivity\u223c 10 \u2026",
+                "Laser frequency noise is a dominant noise background for the detection of gravitational waves using long-baseline optical interferometry. Amelioration of this noise requires near simultaneous strain measurements on more than one interferometer baseline, necessitating, for example, more than two satellites for a space-based detector or two interferometer arms for a ground-based detector. We describe a new detection strategy based on recent advances in optical atomic clocks and atom interferometry which can operate at long baselines and which is immune to laser frequency noise. Laser frequency noise is suppressed because the signal arises strictly from the light propagation time between two ensembles of atoms. This new class of sensor allows sensitive gravitational wave detection with only a single baseline. This approach also has practical applications in, for example, the development of ultrasensitive \u2026",
+                "Atom interferometry is now reaching sufficient precision to motivate laboratory tests of general relativity. We begin by explaining the nonrelativistic calculation of the phase shift in an atom interferometer and deriving its range of validity. From this, we develop a method for calculating the phase shift in general relativity. Both the atoms and the light are treated relativistically and all coordinate dependencies are removed, thus revealing novel terms, cancellations, and new origins for previously calculated terms. This formalism is then used to find the relativistic effects in an atom interferometer in a weak gravitational field for application to laboratory tests of general relativity. The potentially testable relativistic effects include the nonlinear three-graviton coupling, the gravity of kinetic energy, and the falling of light. We propose specific experiments, one currently under construction, to measure each of these effects. These \u2026",
+                "We propose two distinct atom interferometer gravitational wave detectors, one terrestrial and another satellite-based, utilizing the core technology of the Stanford 10 m atom interferometer presently under construction. The terrestrial experiment can operate with strain sensitivity\u223c 10\u2212 19 Hz in the 1\u201310 Hz band, inaccessible to LIGO, and can detect gravitational waves from solar mass binaries out to megaparsec distances. The satellite experiment probes the same frequency spectrum as LISA with comparable strain sensitivity\u223c 10\u2212 20 Hz. Each configuration compares two widely separated atom interferometers run using common lasers. The effect of the gravitational waves on the propagating laser field produces the main effect in this configuration and enables a large enhancement in the gravitational wave signal while significantly suppressing many backgrounds. The use of ballistic atoms (instead of mirrors) as \u2026",
+                "Using a matter wave lens and a long time of flight, we cool an ensemble of Rb 87 atoms in two dimensions to an effective temperature of less than 5 0\u2212 30+ 50 pK. A short pulse of red-detuned light generates an optical dipole force that collimates the ensemble. We also report a three-dimensional magnetic lens that substantially reduces the chemical potential of evaporatively cooled ensembles with a high atom number. By observing such low temperatures, we set limits on proposed modifications to quantum mechanics in the macroscopic regime. These cooling techniques yield bright, collimated sources for precision atom interferometry.",
+                "Spacetime curvature induces tidal forces on the wave function of a single quantum system. Using a dual light-pulse atom interferometer, we measure a phase shift associated with such tidal forces. The macroscopic spatial superposition state in each interferometer (extending over 16 cm) acts as a nonlocal probe of the spacetime manifold. Additionally, we utilize the dual atom interferometer as a gradiometer for precise gravitational measurements.",
+                "We propose an atom interferometer gravitational wave detector in low Earth orbit (AGIS-LEO). Gravitational waves can be observed by comparing a pair of atom interferometers separated by a 30 km baseline. In the proposed configuration, one or three of these interferometer pairs are simultaneously operated through the use of two or three satellites in formation flight. The three satellite configuration allows for the increased suppression of multiple noise sources and for the detection of stochastic gravitational wave signals. The mission will offer a strain sensitivity of  in the 50mHz\u201310Hz frequency range, providing access to a rich scientific region with substantial discovery potential. This band is not currently addressed with the LIGO, VIRGO, or LISA instruments. We analyze systematic backgrounds that are relevant to the mission and discuss how they can be mitigated at the required levels. Some of \u2026"
+            ],
+            [
+                [
+                    "Atomic physics",
+                    "precision measurement",
+                    "gravitational waves"
+                ]
+            ]
+        ]
+    ]
+}

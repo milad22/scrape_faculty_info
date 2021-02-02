@@ -1,0 +1,54 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "yXahgHoAAAAJ",
+            "Dr. Moises Orengo-Avil\u00e9s",
+            "University of Puerto Rico at Mayaguez",
+            "@upr.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=yXahgHoAAAAJ",
+            36,
+            [
+                "Physics Education",
+                "Educational Technology",
+                "Leadership"
+            ],
+            3,
+            3,
+            1,
+            1,
+            0,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"gotBRxEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Lueny Morell",
+                    "affiliation":"InnovaHiEd"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "The fourth version of the Community Climate System Model (CCSM4) was recently completed and released to the climate community. This paper describes developments to all CCSM components, and documents fully coupled preindustrial control runs compared to the previous version, CCSM3. Using the standard atmosphere and land resolution of 1 results in the sea surface temperature biases in the major upwelling regions being comparable to the 1.4-resolution CCSM3. Two changes to the deep convection scheme in the atmosphere component result in CCSM4 producing El Ni\u00f1o\u2013Southern Oscillation variability with a much more realistic frequency distribution than in CCSM3, although the amplitude is too large compared to observations. These changes also improve the Madden\u2013Julian oscillation and the frequency distribution of tropical precipitation. A new overflow parameterization in the ocean component \u2026",
+            "The community climate system model version 4",
+            "Peter R Gent and Gokhan Danabasoglu and Leo J Donner and Marika M Holland and Elizabeth C Hunke and Steve R Jayne and David M Lawrence and Richard B Neale and Philip J Rasch and Mariana Vertenstein and Patrick H Worley and Zong-Liang Yang and Minghua Zhang",
+            "2011",
+            "ZncpGB0AAAAJ:2osOgNQ5qMEC",
+            2280,
+            "https:\/\/journals.ametsoc.org\/view\/journals\/clim\/24\/19\/2011jcli4083.1.xml?tab_body=fulltext-display",
+            "16298694435034380865",
+            "\/scholar?cites=16298694435034380865",
+            {
+                "2011":28,
+                "2012":126,
+                "2013":206,
+                "2014":242,
+                "2015":237,
+                "2016":297,
+                "2017":243,
+                "2018":292,
+                "2019":279,
+                "2020":283,
+                "2021":34
+            }
+        ]
+    ]
+}

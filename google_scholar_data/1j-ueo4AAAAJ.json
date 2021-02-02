@@ -1,0 +1,67 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "1j-ueo4AAAAJ",
+            "Adam LaMee",
+            "PhysTEC Teacher-in-Residence, University of Central Florida",
+            "@ucf.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=1j-ueo4AAAAJ",
+            5,
+            [
+                "physics",
+                "pedagogy",
+                "high energy",
+                "outreach"
+            ],
+            4,
+            1,
+            1,
+            0,
+            0,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"pkFl6wMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Victor Sampson",
+                    "affiliation":"The University of Texas at Austin"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"4JHRWOoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Todd Hutner",
+                    "affiliation":"Assistant Professor of Science Education, The University of Alabama, Curriculum & Instruction"
+                }
+            ]
+        ]
+    ]
+}

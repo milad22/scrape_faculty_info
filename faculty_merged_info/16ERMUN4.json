@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "16ERMUN4",
+            "l5vcWK4AAAAJ",
+            [
+                "Observation of a multimode plasma response and its relationship to density pumpout and edge-localized mode suppression",
+                "Measurement and modeling of three-dimensional equilibria in DIII-D",
+                "Compatibility of internal transport barrier with steady-state operation in the high bootstrap fraction regime on DIII-D",
+                "Measurement of plasma boundary displacement by n= 2 magnetic perturbations using imaging beam emission spectroscopy",
+                "An upgrade of the magnetic diagnostic system of the DIII-D tokamak for non-axisymmetric measurements",
+                "Linear ideal MHD predictions for n= 2 non-axisymmetric magnetic perturbations on DIII-D",
+                "Evidence for the importance of trapped particle resonances for resistive wall mode stability in high beta tokamak plasmas",
+                "Sustained suppression of type-I edge-localized modes with dominantly n= 2 magnetic fields in DIII-D"
+            ],
+            [
+                "Density pumpout and edge-localized mode (ELM) suppression by applied n= 2 magnetic fields in low-collisionality DIII-D plasmas are shown to be correlated with the magnitude of the plasma response driven on the high-field side (HFS) of the magnetic axis but not the low-field side (LFS) midplane. These distinct responses are a direct measurement of a multimodal magnetic plasma response, with each structure preferentially excited by a different n= 2 applied spectrum and preferentially detected on the LFS or HFS. Ideal and resistive magneto-hydrodynamic (MHD) calculations find that the LFS measurement is primarily sensitive to the excitation of stable kink modes, while the HFS measurement is primarily sensitive to resonant currents (whether fully shielding or partially penetrated). The resonant currents are themselves strongly modified by kink excitation, with the optimal applied field pitch for pumpout and ELM \u2026",
+                "A detailed experiment-theory comparison reveals that linear ideal MHD theory is in quantitative agreement with external magnetic and internal soft x-ray measurements of the plasma response to externally applied non-axisymmetric fields over a broad range of beta and rotation. This result represents a significant step toward the goal of advancing the understanding of three-dimensional tokamak equilibria. Both the magnetic and soft x-ray measurements show the driven plasma perturbation increases linearly with the applied perturbation, suggesting the relevance of linear plasma response models. The magnetic and soft x-ray measurements are made at multiple toroidal and poloidal locations, allowing well resolved measurements of the global structure. The comparison also highlights the need to include kinetic effects in the MHD model once beta exceeds 80% of the kink mode limit without a conducting wall. Two \u2026",
+                "Recent EAST\/DIII-D joint experiments on the high poloidal beta tokamak regime in DIII-D have demonstrated fully noninductive operation with an internal transport barrier (ITB) at large minor radius, at normalized fusion performance increased by\u2265 30% relative to earlier work (Politzer et al 2005 Nucl. Fusion 45 417). The advancement was enabled by improved understanding of the'relaxation oscillations', previously attributed to repetitive ITB collapses, and of the fast ion behavior in this regime. It was found that the'relaxation oscillations' are coupled core-edge modes amenable to wall-stabilization, and that fast ion losses which previously dictated a large plasma-wall separation to avoid wall over-heating, can be reduced to classical levels with sufficient plasma density. By using optimized waveforms of the plasma-wall separation and plasma density, fully noninductive plasmas have been sustained for long durations with \u2026",
+                "Imaging beam emission spectroscopy has been used to study the displacement of the plasma boundary in ELMing H-mode discharges with a 10 Hz rotating n= 2 external magnetic field perturbation in DIII-D. The rotating magnetic field creates a helical displacement of the beam emission profile of~ 2 cm on the low-field-side (LFS) midplane which rotates with the applied resonant magnetic perturbation. This shift in the beam emission profile is due primarily to a shift in the electron density profile, which is independently measured to be 1.9 cm on the LFS midplane. These boundary displacements exceed calculations for the displacement of the stable and unstable manifolds formed by the interaction of the magnetic perturbation with the divertor separatrix by a factor of 4\u20135, suggesting that the vacuum field model does not correctly model the effect of the magnetic perturbations even near the separatrix. The measured \u2026",
+                "The DIII-D tokamak magnetic diagnostic system [E. J. Strait, Rev. Sci. Instrum. 77, 023502 (2006)] has been upgraded to significantly expand the measurement of the plasma response to intrinsic and applied non-axisymmetric \u201c3D\u201d fields. The placement and design of 101 additional sensors allow resolution of toroidal mode numbers 1 \u2264 n \u2264 3, and poloidal wavelengths smaller than MARS-F, IPEC, and VMEC magnetohydrodynamic model predictions. Small 3D perturbations, relative to the equilibrium field (10\u22125 < \u03b4B\/B0 < 10\u22124), require sub-millimeter fabrication and installation tolerances. This high precision is achieved using electrical discharge machined components, and alignment techniques employing rotary laser levels and a coordinate measurement machine. A 16-bit data acquisition system is used in conjunction with analog signal-processing to recover non-axisymmetric perturbations. Co-located radial \u2026",
+                "An extensive examination of the plasma response to dominantly n= 2 non-axisymmetric magnetic perturbations (MPs) on the DIII-D tokamak shows the potential to control 3D field interactions by varying the poloidal spectrum of the radial magnetic field. The plasma response is calculated as a function of the applied magnetic field structure and plasma parameters, using the linear magnetohydrodynamic code MARS-F (Liu et al 2000 Phys. Plasmas 7 3681). The ideal, single fluid plasma response is decomposed into two main components: a local pitch-resonant response occurring at rational magnetic flux surfaces, and a global kink response. The efficiency with which the field couples to the total plasma response is determined by the safety factor and the structure of the applied field. In many cases, control of the applied field has a more significant effect than control of plasma parameters, which is of particular interest \u2026",
+                "Active measurements of the plasma stability in tokamak plasmas reveal the importance of kinetic resonances for resistive wall mode stability. The rotation dependence of the magnetic plasma response to externally applied quasistatic n= 1 magnetic fields clearly shows the signatures of an interaction between the resistive wall mode and the precession and bounce motions of trapped thermal ions, as predicted by a perturbative model of plasma stability including kinetic effects. The identification of the stabilization mechanism is an essential step towards quantitative predictions for the prospects of \u201cpassive\u201d resistive wall mode stabilization, ie, without the use of an \u201cactive\u201d feedback system, in fusion-alpha heated plasmas.",
+                "Type-I edge-localized modes (ELMs) have been suppressed in DIII-D (Luxon et al 2003 Nucl. Fusion 43 1813) H-mode discharges with a H 98Y2 confinement factor near 1.0 using magnetic perturbations (MPs) with dominant toroidal mode number n= 2. This expands access to the ELM-suppressed regime, which was previously attainable in DIII-D only with n= 3 fields. ELM suppression is obtained with two rows of internal coils for 1.8 s with normalized beta of 1.9 and average triangularity of 0.53, corresponding to a scaled version of ITER scenario 2 at an ITER relevant electron collisionality of 0.2. The applied field reduces the pedestal pressure and edge current via the density without degrading the edge thermal transport barrier. ELITE calculations find that the resulting profiles are stable to intermediate-n peeling\u2013ballooning modes. ELM suppression is found within different ranges of q 95 depending on the coil \u2026"
+            ],
+            [
+                [
+                    "Plasma Physics",
+                    "Fusion Energy",
+                    "MHD",
+                    "Optimal Control",
+                    "Magnetic Confinement"
+                ]
+            ]
+        ]
+    ]
+}

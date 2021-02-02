@@ -1,0 +1,91 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "QhS-LKIAAAAJ",
+            "Kevin E. Schmidt",
+            "Professor of Physics, Arizona State University",
+            "@asu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=QhS-LKIAAAAJ",
+            14333,
+            [
+                "Quantum Monte Carlo",
+                "Nuclear Structure",
+                "Femtosecond X-ray scattering",
+                "Cold atoms"
+            ],
+            4383,
+            59,
+            30,
+            132,
+            60,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Qa0gy50AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Stefano Gandolfi",
+                    "affiliation":"Theoretical Division, Los Alamos National Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"1_oLmFwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Joseph Carlson",
+                    "affiliation":"Theoretical Division, LANL"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"UxmHb8sAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"John Spence  FRS",
+                    "affiliation":"Richard Snell Professor of Physics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"X0wc58gAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Francesco Pederiva",
+                    "affiliation":"University of Trento, Physics Department, and INFN-TIFPA"
+                }
+            ]
+        ]
+    ]
+}

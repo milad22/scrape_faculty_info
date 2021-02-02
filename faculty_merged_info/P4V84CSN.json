@@ -1,0 +1,41 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "P4V84CSN",
+            "gw5WPAYAAAAJ",
+            [
+                "GW170817: joint constraint on the neutron star equation of state from multimessenger observations",
+                "Dynamical mass ejection from binary neutron star mergers",
+                "A large-scale dynamo and magnetoturbulence in rapidly rotating core-collapse supernovae",
+                "Binary neutron star mergers: mass ejection, electromagnetic counterparts, and nucleosynthesis",
+                "AT 2017gfo: an anisotropic and three-component kilonova counterpart of GW170817",
+                "Beyond second-order convergence in simulations of binary neutron stars in full general relativity",
+                "Multimessenger parameter estimation of GW170817"
+            ],
+            [
+                "Gravitational waves detected from the binary neutron star (NS) merger GW170817 constrained the NS equation of state by placing an upper bound on certain parameters, describing the binary's tidal interactions. We show that the interpretation of the UV\/optical\/infrared counterpart of GW170817 with kilonova models, combined with new numerical-relativity results, imply a complementary lower bound on the tidal deformability parameter. The joint constraints tentatively rule out both extremely stiff and soft NS equations of state.",
+                "We present fully general-relativistic simulations of binary neutron star mergers with a temperature and composition dependent nuclear equation of state. We study the dynamical mass ejection from both quasi-circular and dynamical-capture eccentric mergers. We systematically vary the level of our treatment of the microphysics to isolate the effects of neutrino cooling and heating and we compute the nucleosynthetic yields of the ejecta. We find that eccentric binaries can eject significantly more material than quasi-circular binaries and generate bright infrared and radio emission. In all our simulations the outflow is composed of a combination of tidally- and shock-driven ejecta, mostly distributed over a broad \u223c60\u00b0 angle from the orbital plane, and, to a lesser extent, by thermally driven winds at high latitudes. Ejecta from eccentric mergers are typically more neutron rich than those of quasi-circular mergers. We find \u2026",
+                "Magnetohydrodynamic turbulence is important in many high-energy astrophysical systems, where instabilities can amplify the local magnetic field over very short timescales 1, 2. Specifically, the magnetorotational instability and dynamo action 3, 4, 5, 6 have been suggested as a mechanism for the growth of magnetar-strength magnetic fields (of 10 15 gauss and above) and for powering the explosion 7, 8, 9, 10 of a rotating massive star 11, 12. Such stars are candidate progenitors of type Ic-bl hypernovae 13, 14, which make up all supernovae that are connected to long \u03b3-ray bursts 15, 16. The magnetorotational instability has been studied with local high-resolution shearing-box simulations in three dimensions 17, 18, 19, and with global two-dimensional simulations 20, but it is not known whether turbulence driven by this instability can result in the creation of a large-scale, ordered and dynamically relevant field \u2026",
+                "We present a systematic numerical relativity study of the mass ejection and the associated electromagnetic transients and nucleosynthesis from binary neutron star (NS) mergers. We find that a few 10\u2212 3 M\u2299 of material is ejected dynamically during the mergers. The amount and the properties of these outflows depend on binary parameters and on the NS equation of state (EOS). A small fraction of these ejecta, typically~ 10\u2212 6 M\u2299, is accelerated by shocks formed shortly after merger to velocities larger than 0.6c and produces bright radio flares on timescales of weeks, months, or years after merger. Their observation could constrain the strength with which the NSs bounce after merger and, consequently, the EOS of matter at extreme densities. The dynamical ejecta robustly produce second and third r-process peak nuclei with relative isotopic abundances close to solar. The production of light r-process elements is \u2026",
+                "The detection of a kilo\/macronova electromagnetic counterpart (AT 2017gfo) of the first gravitational-wave signal compatible with the merger of two neutron stars (GW170817) has confirmed the occurrence of r-process nucleosynthesis in this kind of event. The blue and red components of AT 2017gfo have been interpreted as the signature of multi-component ejecta in the merger dynamics. However, the explanation of AT 2017gfo in terms of the properties of the ejecta and of the ejection mechanisms is still incomplete. In this work, we analyze AT 2017gfo with a new semi-analytic model of kilo\/macronova inferred from general-relativistic simulations of the merger and long-term numerical models of the merger aftermath. The model accounts for the anisotropic emission from the three known mass ejecta components: dynamic, winds, and secular outflows from the disk. The early multi-band light curves of AT 2017gfo can only be \u2026",
+                "Despite the recent rapid progress in numerical relativity, a convergence order less than the second has so far plagued codes solving the Einstein\u2013Euler system of equations. We report simulations of the inspiral of binary neutron stars in quasi-circular orbits computed with a new code employing high-order, high-resolution shock-capturing, finite-differencing schemes that, for the first time, go beyond the second-order barrier. In particular, without any tuning or alignment, we measure a convergence order above three both in the phase and in the amplitude of the gravitational waves. Because the new code is already able to calculate waveforms with very small phase errors at modest resolutions, we are able to obtain accurate estimates of tidal effects in the inspiral that are essentially free from the large numerical viscosity typical of lower order methods, and even for the challenging large compactness and small \u2026",
+                "We combine gravitational wave (GW) and electromagnetic (EM) data to perform a Bayesian parameter estimation of the binary neutron star (NS) merger GW170817. The EM likelihood is constructed from a fit to a large number of numerical relativity simulations which we combine with a lower bound on the mass of the remnant\u2019s accretion disk inferred from the modeling of the EM light curve. In comparison with previous works, our analysis yields a more precise determination of the tidal deformability of the binary, for which the EM data provide a lower bound, and of the mass ratio of the binary, with the EM data favoring a smaller mass asymmetry. The 90% credible interval for the areal radius of a  NS is found to be  km (statistical and systematic uncertainties)."
+            ],
+            [
+                [
+                    "Numerical Relativity"
+                ]
+            ]
+        ]
+    ]
+}

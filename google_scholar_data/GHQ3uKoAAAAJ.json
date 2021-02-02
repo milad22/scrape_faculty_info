@@ -1,0 +1,104 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "GHQ3uKoAAAAJ",
+            "Nicholas (Nikolaos) Dimakis",
+            "Professor, University of Texas Rio Grande Valley",
+            "@utrgv.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=GHQ3uKoAAAAJ",
+            734,
+            [
+                "Physical Chemistry",
+                "graphene",
+                "adsorption",
+                "XAFS",
+                "QTAIM"
+            ],
+            422,
+            16,
+            13,
+            27,
+            18,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"KDuCKa0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Eugene S Smotkin",
+                    "affiliation":"Prof. Northeastern Univ. & NuVant Systems Inc. CEO"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"vNy0OAkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jonathan Doan",
+                    "affiliation":"Northeastern University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"OgeaGWgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dr. Sanju Gupta",
+                    "affiliation":"Adj. Professor, University of Central Florida, Physics & NanoScience Technology Center"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"CT721oIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Faisal Alamgir",
+                    "affiliation":"Georgia Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"4PXxk8EAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Muhammad Idrees Bhatti",
+                    "affiliation":"Professor at the University of Texas Rio Grande Valley (UTRGV)"
+                }
+            ]
+        ]
+    ]
+}

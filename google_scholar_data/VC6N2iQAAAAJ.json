@@ -1,0 +1,65 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "VC6N2iQAAAAJ",
+            "Bin Guo",
+            "Professor of Computer Science, Northwestern Polytechnical University",
+            "@nwpu.edu.cn",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=VC6N2iQAAAAJ",
+            6854,
+            [
+                "Ubiquitous Computing",
+                "Mobile Crowd Sensing"
+            ],
+            5750,
+            36,
+            33,
+            124,
+            111,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"qn8CqEYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Daqing Zhang, IEEE Fellow",
+                    "affiliation":"Chair Professor, Telecom SudParis\/Peking University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"jBK6MG0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Zhu WANG",
+                    "affiliation":"School of Computer Science, Northwestern Polytechnical University"
+                }
+            ]
+        ]
+    ]
+}

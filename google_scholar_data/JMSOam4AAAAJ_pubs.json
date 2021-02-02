@@ -1,0 +1,213 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "The process of measurement can modify the state of a quantum system and its subsequent evolution. Here, we demonstrate the control of quantum tunneling in an ultracold lattice gas by the measurement backaction imposed by the act of imaging the atoms, ie, light scattering. By varying the rate of light scattering from the atomic ensemble, we show the crossover from the weak measurement regime, where position measurements have little influence on tunneling dynamics, to the strong measurement regime, where measurement-induced localization causes a large suppression of tunneling\u2014a manifestation of the quantum Zeno effect. Our study realizes an experimental demonstration of the paradigmatic Heisenberg microscope and sheds light on the implications of measurement on the coherent evolution of a quantum system.",
+            "Measurement-induced localization of an ultracold lattice gas",
+            "YS Patil and S Chakram and M Vengalattore",
+            "2015",
+            "JMSOam4AAAAJ:u-x6o8ySG0sC",
+            119,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.115.140402",
+            "4597512999224036283",
+            "\/scholar?cites=4597512999224036283",
+            {
+                "2015":2,
+                "2016":19,
+                "2017":18,
+                "2018":30,
+                "2019":21,
+                "2020":27
+            }
+        ],
+        [
+            "We study the mechanical properties of stoichiometric SiN resonators through a combination of spectroscopic and interferometric imaging techniques. At room temperature, we demonstrate ultrahigh quality factors of 5\u00d7 10 7 and a f\u00d7 Q product of 1\u00d7 10 14 Hz. To our knowledge, these correspond to the largest values yet reported for mesoscopic flexural resonators. Through a comprehensive study of the limiting dissipation mechanisms as a function of resonator and substrate geometry, we identify radiation loss through the supporting substrate as the dominant loss process. In addition to pointing the way towards higher quality factors through optimized substrate designs, our work realizes an enabling platform for the observation and control of quantum behavior in a macroscopic mechanical system.",
+            "Dissipation in ultrahigh quality factor SiN membrane resonators",
+            "S Chakram and YS Patil and L Chang and M Vengalattore",
+            "2014",
+            "JMSOam4AAAAJ:u5HHmVD_uO8C",
+            99,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.112.127201",
+            "7359500539794826169",
+            "\/scholar?cites=7359500539794826169",
+            {
+                "2014":10,
+                "2015":14,
+                "2016":22,
+                "2017":13,
+                "2018":15,
+                "2019":12,
+                "2020":12,
+                "2021":1
+            }
+        ],
+        [
+            "Qubit connectivity is an important property of a quantum processor, with an ideal processor having random access\u2014the ability of arbitrary qubit pairs to interact directly. This a challenge with superconducting circuits, as state-of-the-art architectures rely on only nearest-neighbor coupling. Here, we implement a random access superconducting quantum information processor, demonstrating universal operations on a nine-qubit memory, with a Josephson junction transmon circuit serving as the central processor. The quantum memory uses the eigenmodes of a linear array of coupled superconducting resonators. We selectively stimulate vacuum Rabi oscillations between the transmon and individual eigenmodes through parametric flux modulation of the transmon frequency. Utilizing these oscillations, we perform a universal set of quantum gates on 38 arbitrary pairs of modes and prepare multimode entangled states \u2026",
+            "Random access quantum information processors using multimode circuit quantum electrodynamics",
+            "RK Naik and N Leung and S Chakram and Peter Groszkowski and Y Lu and N Earnest and DC McKay and Jens Koch and DI Schuster",
+            "2017",
+            "JMSOam4AAAAJ:YsMSGLbcyi4C",
+            73,
+            "https:\/\/www.nature.com\/articles\/s41467-017-02046-6\/briefing\/signup\/?origin=Nature&originReferralPoint=EmailBanner",
+            "6670337213802451217",
+            "\/scholar?cites=6670337213802451217",
+            {
+                "2018":18,
+                "2019":23,
+                "2020":31
+            }
+        ],
+        [
+            "We autonomously stabilize arbitrary states of a qubit through parametric modulation of the coupling between a fixed frequency qubit and resonator. The coupling modulation is achieved with a tunable coupling design, in which the qubit and the resonator are connected in parallel to a superconducting quantum interference device. This allows for quasistatic tuning of the qubit-cavity coupling strength from 12 MHz to more than 300 MHz. Additionally, the coupling can be dynamically modulated, allowing for single-photon exchange in 6 ns. Qubit coherence times exceeding 20 \u03bc s are maintained over the majority of the range of tuning, limited primarily by the Purcell effect. The parametric stabilization technique realized using the tunable coupler involves engineering the qubit bath through a combination of photon nonconserving sideband interactions realized by flux modulation, and direct qubit Rabi driving. We \u2026",
+            "Universal stabilization of a parametrically coupled qubit",
+            "Yao Lu and Srivatsan Chakram and Ngainam Leung and Nathan Earnest and Ravi K Naik and Ziwen Huang and Peter Groszkowski and Eliot Kapit and Jens Koch and David I Schuster",
+            "2017",
+            "JMSOam4AAAAJ:W7OEmFMy1HYC",
+            63,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.119.150502",
+            "17355934382825118575",
+            "\/scholar?cites=17355934382825118575",
+            {
+                "2017":3,
+                "2018":19,
+                "2019":17,
+                "2020":23,
+                "2021":1
+            }
+        ],
+        [
+            "We realize a quantum-compatible multimode interaction in an ultrahigh Q mechanical resonator via a reservoir-mediated parametric coupling. We use this interaction to demonstrate nondegenerate parametric amplification and thermomechanical noise squeezing, finding excellent agreement with a theoretical model of this interaction over a large dynamic range. This realization of strong multimode nonlinearities in a mechanical platform compatible with quantum-limited optical detection and cooling makes this a powerful system for nonlinear approaches to quantum metrology, transduction between optical and phononic fields, and the quantum manipulation of phononic degrees of freedom.",
+            "Thermomechanical Two-Mode Squeezing in an Ultrahigh- Membrane Resonator",
+            "YS Patil and S Chakram and L Chang and M Vengalattore",
+            "2015",
+            "JMSOam4AAAAJ:9yKSN-GCB0IC",
+            54,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.115.017202",
+            "4622806403751912137",
+            "\/scholar?cites=4622806403751912137",
+            {
+                "2015":3,
+                "2016":11,
+                "2017":10,
+                "2018":10,
+                "2019":7,
+                "2020":12,
+                "2021":1
+            }
+        ],
+        [
+            "We realize a \u039b system in a superconducting circuit, with metastable states exhibiting lifetimes up to 8 ms. We exponentially suppress the tunneling matrix elements involved in spontaneous energy relaxation by creating a \u201cheavy\u201d fluxonium, realized by adding a capacitive shunt to the original circuit design. The device allows for both cavity-assisted and direct fluorescent readouts, as well as state preparation schemes akin to optical pumping. Since direct transitions between the metastable states are strongly suppressed, we utilize Raman transitions for coherent manipulation of the states.",
+            "Realization of a  System with Metastable States of a Capacitively Shunted Fluxonium",
+            "Nathan Earnest and Srivatsan Chakram and Yao Lu and Nicholas Irons and Ravi K Naik and Nelson Leung and Leo Ocola and David A Czaplewski and Brian Baker and Jay Lawrence and Jens Koch and David I Schuster",
+            "2018",
+            "JMSOam4AAAAJ:zYLM7Y9cAGgC",
+            52,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.120.150504",
+            "3047984155032080323",
+            "\/scholar?cites=3047984155032080323",
+            {
+                "2017":1,
+                "2018":13,
+                "2019":16,
+                "2020":19,
+                "2021":3
+            }
+        ],
+        [
+            "We demonstrate the nondestructive imaging of a lattice gas of ultracold bosons. Atomic fluorescence is induced in the simultaneous presence of degenerate Raman sideband cooling. The combined influence of these processes controllably cycles an atom between a dark state and a fluorescing state while eliminating heating and loss. Through spatially resolved sideband spectroscopy following the imaging sequence, we demonstrate the efficacy of this imaging technique in various regimes of lattice depth and fluorescence acquisition rate. Our work provides an important extension of quantum gas imaging to the nondestructive detection, control, and manipulation of atoms in optical lattices. In addition, our technique can also be extended to atomic species that are less amenable to molasses-based lattice imaging.",
+            "Nondestructive imaging of an ultracold lattice gas",
+            "YS Patil and S Chakram and LM Aycock and M Vengalattore",
+            "2014",
+            "JMSOam4AAAAJ:d1gkVwhDpl0C",
+            37,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.90.033422",
+            "11184820184935505456",
+            "\/scholar?cites=11184820184935505456",
+            {
+                "2014":4,
+                "2015":10,
+                "2016":11,
+                "2017":4,
+                "2018":5,
+                "2019":3
+            }
+        ],
+        [
+            "We propose and experimentally demonstrate an efficient scheme for bidirectional and deterministic photonic communication between two remote superconducting modules. The two chips, each consists of a transmon, are connected through a one-meter long coaxial cable that is coupled to a dedicated \u201ccommunication\u201d resonator on each chip. The two communication resonators hybridize with a mode of the cable to form a dark \u201ccommunication mode\u201d that is highly immune to decay in the coaxial cable. We overcome the various restrictions of quantum communication channels established by other recent approaches in deterministic communication for superconducting qubits. Our approach enables bidirectional communication, and eliminates the high insertion loss and large volume footprint of circulators. We modulate the transmon frequency via a parametric drive to generate sideband interactions between the \u2026",
+            "Deterministic bidirectional communication and remote entanglement generation between superconducting qubits",
+            "N Leung and Y Lu and S Chakram and RK Naik and N Earnest and R Ma and K Jacobs and AN Cleland and DI Schuster",
+            "2019",
+            "JMSOam4AAAAJ:eQOLeE2rZwMC",
+            19,
+            "https:\/\/www.nature.com\/articles\/s41534-019-0128-0",
+            "607550751546391913",
+            "\/scholar?cites=607550751546391913",
+            {
+                "2019":5,
+                "2020":14
+            }
+        ],
+        [
+            "In a recent paper (Tranet al, Ann. Phys.311, 204 (2004)), some asymptotic number theoretical results on the partitioning of an integer were derived exploiting its connection to the quantum density of states of a many-particle system. We generalise these results to obtain an asymptotic formula for therestricted or coloured partitionsp k s (n), which is the number of partitions of an integern into the summand of sth powers of integers such that each power of a given integer may occur utmostk times. While the method is not rigorous, it reproduces the well-known asymptotic results fors = 1 apart from yielding more general results for arbitrary values ofs.",
+            "Gentile statistics and restricted partitions",
+            "CS Srivatsan and MVN Murthy and RK Bhaduri",
+            "2006",
+            "JMSOam4AAAAJ:Y0pCki6q_DkC",
+            16,
+            "https:\/\/link.springer.com\/article\/10.1007\/BF02704492",
+            "8867694430934225394",
+            "\/scholar?cites=8867694430934225394",
+            {
+                "2008":1,
+                "2009":1,
+                "2010":1,
+                "2011":2,
+                "2012":3,
+                "2013":1,
+                "2014":5,
+                "2015":1,
+                "2016":1
+            }
+        ],
+        [
+            "We describe the realization of multimode phononic correlations that arise from nonlinear interactions in a mechanical nondegenerate parametric amplifier. The nature of these correlations differs qualitatively depending on the strength of the driving field in relation to the threshold for parametric instability. Below this threshold, the correlations are manifest in a combined quadrature of the coupled mechanical modes. In this regime, the system is amenable to back-action evading measurement schemes for the detection of weak forces. Above threshold, the correlations are manifest in the amplitude difference between the two mechanical modes, akin to intensity difference squeezing observed in optical parametric oscillators. We discuss the crossover of correlations between these two regimes and applications of this quantum-compatible mechanical system to nonlinear metrology and out-of-equilibrium dynamics.",
+            "Multimode phononic correlations in a nondegenerate parametric amplifier",
+            "S Chakram and YS Patil and M Vengalattore",
+            "2015",
+            "JMSOam4AAAAJ:2osOgNQ5qMEC",
+            10,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/1367-2630\/17\/6\/063018\/meta",
+            "2539813534092900612",
+            "\/scholar?cites=2539813534092900612",
+            {
+                "2015":1,
+                "2016":2,
+                "2017":1,
+                "2018":5
+            }
+        ]
+    ]
+}

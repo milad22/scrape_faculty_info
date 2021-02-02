@@ -1,0 +1,68 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2
+    ],
+    "data":[
+        [
+            "We continue our study of the statistical properties of particles in equilibrium obeying Smoluchowski dynamics. We show that the system is governed by a kinetic equation of the memory function form and that the memory function is given by one of the self-energies available via perturbation theory as introduced in previous work. We determine the memory function explicitly to second order in an expansion in a pseudopotential. The method we use allows for a straightforward computation of corrections via a formal expansion and we therefore view it as an improvement over the conventional mode-coupling theory (MCT) formalism where it is not clear how to make systematic corrections. In addition, the formalism we have introduced is flexible enough to allow for a wide array of different approximation schemes, including density expansions. The convergence criteria for our formal series are not worked out here, but the \u2026",
+            "Kinetic equations governing Smoluchowski dynamics in equilibrium",
+            "Gene F Mazenko and David D McCowan and Paul Spyridis",
+            "2012",
+            "Ehs8dY8AAAAJ:u-x6o8ySG0sC",
+            9,
+            "https:\/\/journals.aps.org\/pre\/abstract\/10.1103\/PhysRevE.85.051105",
+            "18018698677476672220",
+            "\/scholar?cites=18018698677476672220",
+            {
+                "2012":1,
+                "2013":1,
+                "2014":3,
+                "2015":4
+            }
+        ],
+        [
+            "Since the mid-1980s, mode-coupling theory (MCT) has been the de facto theoretic description of dense fluids and the transition from the fluid state to the glassy state. MCT, however, is limited by the approximations used in its construction and lacks an unambiguous mechanism to institute corrections. We use recent results from a new theoretical framework\u2014developed from first principles via a self-consistent perturbation expansion in terms of an effective two-body potential\u2014to numerically explore the kinetics of systems of classical particles, specifically hard spheres governed by Smoluchowski dynamics. We present here a full solution for such a system to the kinetic equation governing the density-density time correlation function and show that the function exhibits the characteristic two-step decay of supercooled fluids and an ergodic-nonergodic transition to a dynamically arrested state. Unlike many previous \u2026",
+            "Numerical study of long-time dynamics and ergodic-nonergodic transitions in dense simple fluids",
+            "David D McCowan",
+            "2015",
+            "Ehs8dY8AAAAJ:9yKSN-GCB0IC",
+            3,
+            "https:\/\/journals.aps.org\/pre\/abstract\/10.1103\/PhysRevE.92.022107",
+            "3403070280959729196",
+            "\/scholar?cites=3403070280959729196",
+            {
+                "2015":1,
+                "2016":2
+            }
+        ],
+        [
+            "The random diffusion model is a continuum model for a conserved scalar density field \u03d5 driven by diffusive dynamics where the bare diffusion coefficient is density dependent. We generalize the model from one with a sharp wave-number cutoff to one with a more natural large wave-number cutoff. We investigate whether the features seen previously\u2014namely, a slowing down of the system and the development of a prepeak in the dynamic structure factor at a wave number below the first structure peak\u2014survive in this model. A method for extracting information about a hidden prepeak in experimental data is presented.",
+            "Random diffusion model with structure corrections",
+            "David D McCowan and Gene F Mazenko",
+            "2010",
+            "Ehs8dY8AAAAJ:u5HHmVD_uO8C",
+            2,
+            "https:\/\/journals.aps.org\/pre\/abstract\/10.1103\/PhysRevE.81.051106",
+            "11702218723973271871",
+            "\/scholar?cites=11702218723973271871",
+            {
+                "2013":1,
+                "2014":1
+            }
+        ]
+    ]
+}

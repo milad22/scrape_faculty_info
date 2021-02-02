@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "XIXFVK7N",
+            "d27Ji6kAAAAJ",
+            [
+                "Emergence of scaling in random networks",
+                "Statistical mechanics of complex networks",
+                "Diameter of the world-wide web",
+                "Error and attack tolerance of complex networks",
+                "The large-scale organization of metabolic networks",
+                "Mean-field theory for scale-free random networks",
+                "Near linear time algorithm to detect community structures in large-scale networks",
+                "Scale-free characteristics of random networks: the topology of the world-wide web",
+                "Topology of Evolving Networks: Local Events and Universality",
+                "Structural vulnerability of the North American power grid"
+            ],
+            [
+                "Systems as diverse as genetic networks or the World Wide Web are best described as networks with complex topology. A common property of many large networks is that the vertex connectivities follow a scale-free power-law distribution. This feature was found to be a consequence of two generic mechanisms: (i) networks expand continuously by the addition of new vertices, and (ii) new vertices attach preferentially to sites that are already well connected. A model based on these two ingredients reproduces the observed stationary scale-free distributions, which indicates that the development of large networks is governed by robust self-organizing phenomena that go beyond the particulars of the individual systems.",
+                "Complex networks describe a wide range of systems in nature and society. Frequently cited examples include the cell, a network of chemicals linked by chemical reactions, and the Internet, a network of routers and computers connected by physical links. While traditionally these systems have been modeled as random graphs, it is increasingly recognized that the topology and evolution of real networks are governed by robust organizing principles. This article reviews the recent advances in the field of complex networks, focusing on the statistical mechanics of network topology and dynamics. After reviewing the empirical data that motivated the recent interest in networks, the authors discuss the main models and analytical tools, covering random graphs, small-world and scale-free networks, the emerging theory of evolving networks, and the interplay between topology and the network\u2019s robustness against failures \u2026",
+                "Despite its increasing role in communication, the World-Wide Web remains uncontrolled: any individual or institution can create a website with any number of documents and links. This unregulated growth leads to a huge and complex web, which becomes a large directed graph whose vertices are documents and whose edges are links (URLs) that point from one document to another. The topology of this graph determines the web's connectivity and consequently how effectively we can locate information on it. But its enormous size (estimated to be at least 8\u00d7 10 8 documents 1) and the continual changing of documents and links make it impossible to catalogue all the vertices and edges.",
+                "Many complex systems display a surprising degree of tolerance against errors. For example, relatively simple organisms grow, persist and reproduce despite drastic pharmaceutical or environmental interventions, an error tolerance attributed to the robustness of the underlying metabolic network 1. Complex communication networks 2 display a surprising degree of robustness: although key components regularly malfunction, local failures rarely lead to the loss of the global information-carrying ability of the network. The stability of these and other complex systems is often attributed to the redundant wiring of the functional web defined by the systems' components. Here we demonstrate that error tolerance is not shared by all redundant systems: it is displayed only by a class of inhomogeneously wired networks, called scale-free networks, which include the World-Wide Web 3, 4, 5, the Internet 6, social networks 7 and \u2026",
+                "In a cell or microorganism, the processes that generate mass, energy, information transfer and cell-fate specification are seamlessly integrated through a complex network of cellular constituents and reactions 1. However, despite the key role of these networks in sustaining cellular functions, their large-scale structure is essentially unknown. Here we present a systematic comparative mathematical analysis of the metabolic networks of 43 organisms representing all three domains of life. We show that, despite significant variation in their individual constituents and pathways, these metabolic networks have the same topological scaling properties and show striking similarities to the inherent organization of complex non-biological systems 2. This may indicate that metabolic organization is not only identical for all living organisms, but also complies with the design principles of robust and error-tolerant scale-free networks \u2026",
+                "Random networks with complex topology are common in Nature, describing systems as diverse as the world wide web or social and business networks. Recently, it has been demonstrated that most large networks for which topological information is available display scale-free features. Here we study the scaling properties of the recently introduced scale-free model, that can account for the observed power-law distribution of the connectivities. We develop a mean-field method to predict the growth dynamics of the individual vertices, and use this to calculate analytically the connectivity distribution and the scaling exponents. The mean-field method can be used to address the properties of two variants of the scale-free model, that do not display power-law scaling.",
+                "Community detection and analysis is an important methodology for understanding the organization of various real-world networks and has applications in problems as diverse as consensus formation in social communities or the identification of functional modules in biochemical networks. Currently used algorithms that identify the community structures in large-scale real-world networks require a priori information such as the number and sizes of communities or are computationally expensive. In this paper we investigate a simple label propagation algorithm that uses the network structure alone as its guide and requires neither optimization of a predefined objective function nor prior information about the communities. In our algorithm every node is initialized with a unique label and at every step each node adopts the label that most of its neighbors currently have. In this iterative process densely connected groups of \u2026",
+                "The world-wide web forms a large directed graph, whose vertices are documents and edges are links pointing from one document to another. Here we demonstrate that despite its apparent random character, the topology of this graph has a number of universal scale-free characteristics. We introduce a model that leads to a scale-free network, capturing in a minimal fashion the self-organization processes governing the world-wide web.",
+                "Networks grow and evolve by local events, such as the addition of new nodes and links, or rewiring of links from one node to another. We show that depending on the frequency of these processes two topologically different networks can emerge, the connectivity distribution following either a generalized power law or an exponential. We propose a continuum theory that predicts these two regimes as well as the scaling function and the exponents, in good agreement with numerical results. Finally, we use the obtained predictions to fit the connectivity distribution of the network describing the professional links between movie actors.",
+                "The magnitude of the August 2003 blackout affecting the United States has put the challenges of energy transmission and distribution into limelight. Despite all the interest and concerted effort, the complexity and interconnectivity of the electric infrastructure precluded us for a long time from understanding why certain events happened. In this paper we study the power grid from a network perspective and determine its ability to transfer power between generators and consumers when certain nodes are disrupted. We find that the power grid is robust to most perturbations, yet disturbances affecting key transmision substations greatly reduce its ability to function. We emphasize that the global properties of the underlying network must be understood as they greatly affect local behavior."
+            ],
+            [
+                [
+                    "Network science",
+                    "Systems Biology",
+                    "Mathematical Biology"
+                ]
+            ]
+        ]
+    ]
+}

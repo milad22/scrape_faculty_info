@@ -1,0 +1,30 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "FPPASMPW",
+            "c0VPJGkAAAAJ",
+            [
+                "Analysis of Superfast Encoding Performance for Electronic Structure Simulations"
+            ],
+            [
+                "In our recent work, we examined various fermion-to-qubit mappings in the context of quantum simulation including the original Bravyi-Kitaev superfast encoding (OSE) as well as a generalized version (GSE). We return to OSE and compare it against the Jordan-Wigner (JW) transform for quantum chemistry considering the number of qubits required, the Pauli weight of terms in the transformed Hamiltonians, and the L 1 norm of the Hamiltonian. We considered a test set of molecular systems known as the Atomization Energy 6 (AE6) as well as hydrogen lattices. Our results showed that the resource efficiency of OSE is strongly affected by the spatial locality of the underlying single-particle basis. We find that OSE is outperformed by JW when the orbitals in the underlying single-particle basis are highly overlapping, which limits its applicability to near-term quantum chemistry simulations utilizing standard basis sets. In \u2026"
+            ],
+            [
+                [
+                    "quantum computation",
+                    "quantum simulation"
+                ]
+            ]
+        ]
+    ]
+}

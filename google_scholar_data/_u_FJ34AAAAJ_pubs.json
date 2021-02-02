@@ -1,0 +1,77 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2
+    ],
+    "data":[
+        [
+            "We describe the design of a new polarization sensitive receiver, spt-3g, for the 10-meter South Pole Telescope (spt). The spt-3g receiver will deliver a factor of ~20 improvement in mapping speed over the current receiver, spt-pol. The sensitivity of the spt-3g receiver will enable the advance from statistical detection of B-mode polarization anisotropy power to high signal-to-noise measurements of the individual modes, i.e., maps. This will lead to precise (~0.06 eV) constraints on the sum of neutrino masses with the potential to directly address the neutrino mass hierarchy. It will allow a separation of the lensing and inflationary B-mode power spectra, improving constraints on the amplitude and shape of the primordial signal, either through spt-3g data alone or in combination with bicep2\/keck, which is observing the same area of sky. The measurement of small-scale temperature anisotropy will provide new constraints \u2026",
+            "SPT-3G: a next-generation cosmic microwave background polarization experiment on the South Pole telescope",
+            "BA Benson and PAR Ade and Z Ahmed and SW Allen and K Arnold and JE Austermann and AN Bender and LE Bleem and JE Carlstrom and CL Chang and HM Cho and JF Cliche and TM Crawford and A Cukierman and T De Haan and MA Dobbs and D Dutcher and W Everett and A Gilbert and NW Halverson and D Hanson and NL Harrington and K Hattori and JW Henning and GC Hilton and GP Holder and WL Holzapfel and KD Irwin and R Keisler and L Knox and D Kubik and CL Kuo and AT Lee and EM Leitch and D Li and M McDonald and SS Meyer and J Montgomery and M Myers and T Natoli and H Nguyen and V Novosad and S Padin and Z Pan and J Pearson and C Reichardt and JE Ruhl and BR Saliwanchik and G Simard and G Smecher and JT Sayre and E Shirokoff and AA Stark and K Story and A Suzuki and KL Thompson and C Tucker and K Vanderlinde and JD Vieira and A Vikhlinin and G Wang and V Yefremenko and KW Yoon",
+            "2014",
+            "_u_FJ34AAAAJ:9yKSN-GCB0IC",
+            302,
+            "https:\/\/www.spiedigitallibrary.org\/conference-proceedings-of-spie\/9153\/1\/SPT-3G--a-next-gener%20ation-cosmic-microwave-background-polarization\/10.1117\/12.2057305.short",
+            "2160446852186466553",
+            "\/scholar?cites=2160446852186466553",
+            {
+                "2014":6,
+                "2015":25,
+                "2016":42,
+                "2017":36,
+                "2018":70,
+                "2019":60,
+                "2020":55,
+                "2021":8
+            }
+        ],
+        [
+            "This work presents the procedures used at Argonne National Laboratory to fabricate large arrays of multichroic transition-edge sensor (TES) bolometers for cosmic microwave background (CMB) measurements. These detectors will be assembled into the focal plane for the SPT-3G camera, the third generation CMB camera to be installed in the South Pole Telescope. The complete SPT-3G camera will have approximately 2690 pixels, for a total of 16 140 TES bolometric detectors. Each pixel is comprised of a broad-band sinuous antenna coupled to a Nb microstrip line. In-line filters are used to define the different bands before the millimeter-wavelength signal is fed to the respective Ti\/Au TES bolometers. There are six TES bolometer detectors per pixel, which allow for measurements of three band-passes (95, 150 and 220 GHz) and two polarizations. The steps involved in the monolithic fabrication of these detector \u2026",
+            "Fabrication of large dual-polarized multichroic TES bolometer arrays for CMB measurements with the SPT-3G camera",
+            "CM Posada and PAR Ade and Z Ahmed and K Arnold and JE Austermann and AN Bender and LE Bleem and BA Benson and K Byrum and JE Carlstrom and CL Chang and HM Cho and ST Ciocys and JF Cliche and TM Crawford and A Cukierman and D Czaplewski and J Ding and R Divan and T De Haan and MA Dobbs and D Dutcher and W Everett and A Gilbert and NW Halverson and NL Harrington and K Hattori and JW Henning and GC Hilton and WL Holzapfel and J Hubmayr and KD Irwin and O Jeong and R Keisler and D Kubik and CL Kuo and AT Lee and EM Leitch and S Lendinez and SS Meyer and CS Miller and J Montgomery and M Myers and A Nadolski and T Natoli and H Nguyen and V Novosad and S Padin and Z Pan and J Pearson and JE Ruhl and BR Saliwanchik and G Smecher and JT Sayre and E Shirokoff and L Stan and AA Stark and J Sobrin and K Story and A Suzuki and KL Thompson and C Tucker and K Vanderlinde and JD Vieira and G Wang and N Whitehorn and V Yefremenko and KW Yoon and KE Ziegler",
+            "2015",
+            "_u_FJ34AAAAJ:YsMSGLbcyi4C",
+            29,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0953-2048\/28\/9\/094002\/meta",
+            "8385209148500815731",
+            "\/scholar?cites=8385209148500815731",
+            {
+                "2016":6,
+                "2017":2,
+                "2018":14,
+                "2019":1,
+                "2020":4,
+                "2021":2
+            }
+        ],
+        [
+            "A new receiver for the South Pole Telescope, SPT-3G, was deployed in early 2017 to map the cosmic microwave background at 95, 150, and 220 GHz with  16,000 detectors, 10 times more than its predecessor SPTpol. The increase in detector count is made possible by lenslet-coupled trichroic polarization-sensitive pixels fabricated at Argonne National Laboratory, new 68 frequency-domain multiplexing readout electronics, and a higher-throughput optical design. The enhanced sensitivity of SPT-3G will enable a wide range of results including constraints on primordial B-mode polarization, measurements of gravitational lensing of the CMB, and a galaxy cluster survey. Here we present an overview of the instrument and its science objectives, highlighting its measured performance and plans for the upcoming 2018 observing season.",
+            "Spt-3g: A multichroic receiver for the south pole telescope",
+            "AJ Anderson and PAR Ade and Z Ahmed and JE Austermann and JS Avva and PS Barry and R Basu Thakur and AN Bender and BA Benson and LE Bleem and K Byrum and JE Carlstrom and FW Carter and T Cecil and CL Chang and HM Cho and JF Cliche and TM Crawford and A Cukierman and EV Denison and T de Haan and J Ding and MA Dobbs and D Dutcher and W Everett and A Foster and RN Gannon and A Gilbert and JC Groh and NW Halverson and AH Harke-Hosemann and NL Harrington and JW Henning and GC Hilton and GP Holder and WL Holzapfel and N Huang and KD Irwin and OB Jeong and M Jonas and T Khaire and L Knox and AM Kofman and M Korman and D Kubik and S Kuhlmann and N Kuklev and CL Kuo and AT Lee and EM Leitch and AE Lowitz and SS Meyer and D Michalik and J Montgomery and A Nadolski and T Natoli and H Nguyen and GI Noble and V Novosad and S Padin and Z Pan and J Pearson and CM Posada and A Rahlin and CL Reichardt and JE Ruhl and LJ Saunders and JT Sayre and I Shirley and E Shirokoff and G Smecher and JA Sobrin and AA Stark and KT Story and A Suzuki and QY Tang and KL Thompson and C Tucker and LR Vale and K Vanderlinde and JD Vieira and G Wang and N Whitehorn and V Yefremenko and KW Yoon and MR Young",
+            "2018",
+            "_u_FJ34AAAAJ:IjCSPb-OGe4C",
+            27,
+            "https:\/\/link.springer.com\/article\/10.1007\/s10909-018-2007-z",
+            "4565347084894123099",
+            "\/scholar?cites=4565347084894123099",
+            {
+                "2018":8,
+                "2019":4,
+                "2020":15
+            }
+        ]
+    ]
+}

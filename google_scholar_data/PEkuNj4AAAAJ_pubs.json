@@ -1,0 +1,82 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "The art of solving a structure from powder diffraction data has developed rapidly over the last ten years to the point where numerous crystal structures, both organic and inorganic, have been solved directly from powder data. However, it is still an art and, in contrast to its single crystal equivalent, is far from routine. The art lies not only in the correct application of a specific experimental technique or computer program, but also in the selection of the optimal path for the problem at hand. Written and edited by experts active in the field, and covering both the fundamental and applied aspects of structure solution from powder diffraction data, this book guides both novices and experienced practitioners alike through the maze of possibilities.",
+            "Structure determination from powder diffraction data",
+            "William IF David and Kenneth Shankland and Ch Baerlocher and LB McCusker",
+            "2002",
+            "PEkuNj4AAAAJ:u5HHmVD_uO8C",
+            588,
+            "http:\/\/books.google.com\/books?hl=en&lr=&id=x3sSDAAAQBAJ&oi=fnd&pg=PR9&dq=info:--1HRl1hdlQJ:scholar.google.com&ots=_YECIOLxpK&sig=r12I2L3ngbvZlOmprZr99lSt04s",
+            "6086158999676775931",
+            "\/scholar?cites=6086158999676775931",
+            {
+                "2002":6,
+                "2003":10,
+                "2004":23,
+                "2005":15,
+                "2006":23,
+                "2007":22,
+                "2008":35,
+                "2009":33,
+                "2010":48,
+                "2011":41,
+                "2012":55,
+                "2013":42,
+                "2014":40,
+                "2015":40,
+                "2016":27,
+                "2017":31,
+                "2018":33,
+                "2019":30,
+                "2020":26,
+                "2021":3
+            }
+        ],
+        [
+            "DASH is a user-friendly graphical-user-interface-driven computer program for solving crystal structures from X-ray powder diffraction data, optimized for molecular structures. Algorithms for multiple peak fitting, unit-cell indexing and space-group determination are included as part of the program. Molecular models can be read in a number of formats and automatically converted to Z-matrices in which flexible torsion angles are automatically identified. Simulated annealing is used to search for the global minimum in the space that describes the agreement between observed and calculated structure factors. The simulated annealing process is very fast, which in part is due to the use of correlated integrated intensities rather than the full powder pattern. Automatic minimization of the structures obtained by simulated annealing and automatic overlay of solutions assist in assessing the reproducibility of the best solution \u2026",
+            "DASH: a program for crystal structure determination from powder diffraction data",
+            "William IF David and Kenneth Shankland and Jacco Van De Streek and Elna Pidcock and WD Samuel Motherwell and Jason C Cole",
+            "2006",
+            "PEkuNj4AAAAJ:9yKSN-GCB0IC",
+            491,
+            "https:\/\/scripts.iucr.org\/cgi-bin\/paper?ks5103",
+            "7484834448400922373",
+            "\/scholar?cites=7484834448400922373",
+            {
+                "2006":2,
+                "2007":18,
+                "2008":19,
+                "2009":34,
+                "2010":43,
+                "2011":30,
+                "2012":32,
+                "2013":35,
+                "2014":41,
+                "2015":36,
+                "2016":32,
+                "2017":41,
+                "2018":41,
+                "2019":48,
+                "2020":27,
+                "2021":5
+            }
+        ]
+    ]
+}

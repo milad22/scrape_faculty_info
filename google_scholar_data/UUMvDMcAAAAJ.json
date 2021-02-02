@@ -1,0 +1,56 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "UUMvDMcAAAAJ",
+            "Ranajit Ghosh",
+            "CSIR-CMERI",
+            "@cmeri.res.in",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=UUMvDMcAAAAJ",
+            1492,
+            [
+                "Semiconducting nanostructures and thin film",
+                "optoelectronic",
+                "gas sensor",
+                "carbon nanotubes",
+                "Composites"
+            ],
+            595,
+            17,
+            11,
+            23,
+            15,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"aLkLUrcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Durga Basak",
+                    "affiliation":"Senior Professor, School of Physical Sciences, Indian Association for the Cultivation of Science"
+                }
+            ]
+        ]
+    ]
+}

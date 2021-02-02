@@ -1,0 +1,127 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "36gSGWkAAAAJ",
+            "cheng wang",
+            "Senior Research Scientist, Intel Labs",
+            "@intel.com",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=36gSGWkAAAAJ",
+            242666,
+            [
+                "Compiler Optimization",
+                "Dynamic Binary Optimization",
+                "Computer Architecture",
+                "Parallelization and Vectorization"
+            ],
+            150517,
+            204,
+            168,
+            1075,
+            910,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"dZAu_PkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Edson Borin",
+                    "affiliation":"University of Campinas"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"pnmGA74AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mauricio Breternitz Jr.",
+                    "affiliation":"Principal Integrated Researcher & Invited Associate Professor, ISTAR-IUL , ISCTE-IUL"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"8acGhSYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Feng Qin",
+                    "affiliation":"The Ohio State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"xjuoV4QAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Guido Araujo",
+                    "affiliation":"IC-UNICAMP"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"71wGQmkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hyunchul Park",
+                    "affiliation":"Google"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"KlhDpG0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Guilherme Ottoni",
+                    "affiliation":"Facebook"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Wov5tYoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David I. August",
+                    "affiliation":"Computer Science, Princeton University"
+                }
+            ]
+        ]
+    ]
+}

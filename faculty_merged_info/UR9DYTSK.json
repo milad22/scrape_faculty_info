@@ -1,0 +1,31 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "UR9DYTSK",
+            "Q166Sb4AAAAJ",
+            [
+                "Practical use of the information-theoretic approach",
+                "Multimodel inference: understanding AIC and BIC in model selection"
+            ],
+            [
+                "Model building and data analysis in the biological sciences somewhat presupposes that the person has some advanced education in the quantitative sciences, and statistics in particular. This requirement also implies that a person has substantial knowledge of statistical hypothesis-testing approaches. Such people, including ourselves over the past several years, often find it difficult to understand the information-theoretic approach, only because it is conceptually so very different from the testing approach that is so familiar. Relatively speaking, the concepts and practical use of the information-theoretic approach are much simpler than those of statistical hypothesis testing, and very much simpler than some of the various Bayesian approaches to data analysis (e.g., Laud and Ibrahim 1995 and Carlin and Chib 1995).",
+                "The model selection literature has been generally poor at reflecting the deep foundations of the Akaike information criterion (AIC) and at making appropriate comparisons to the Bayesian information criterion (BIC). There is a clear philosophy, a sound criterion based in information theory, and a rigorous statistical foundation for AIC. AIC can be justified as Bayesian using a \u201csavvy\u201d prior on models that is a function of sample size and the number of model parameters. Furthermore, BIC can be derived as a non-Bayesian result. Therefore, arguments about using AIC versus BIC for model selection cannot be from a Bayes versus frequentist perspective. The philosophical context of what is assumed about reality, approximating models, and the intent of model-based inference should determine whether AIC or BIC is used. Various facets of such multimodel inference are presented here, particularly methods of model \u2026"
+            ],
+            [
+                [
+                    "Quantitative ecology"
+                ]
+            ]
+        ]
+    ]
+}

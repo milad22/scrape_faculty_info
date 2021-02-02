@@ -1,0 +1,100 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "OY-vC2AAAAAJ",
+            "Henrik Aratyn",
+            "Professor of Physics, University of Illinois at Chicago",
+            "@uic.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=OY-vC2AAAAAJ",
+            2243,
+            [
+                "mathematical physics"
+            ],
+            233,
+            27,
+            8,
+            67,
+            6,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"l_0uL4cAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Abraham Hirsz Zimerman",
+                    "affiliation":"Professor voluntario aposentado, IFT - UNESP"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"vnLVF-kAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Svetlana Pacheva",
+                    "affiliation":"Institute for Nuclear Research and Nuclear Energy, Bulgarian Academy of Sciences, Sofia, Bulgaria"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6ORCkzUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Emil Nissimov",
+                    "affiliation":"Institute for Nuclear Research and Nuclear Energy, Bulgarian Academy of Sciences, Sofia, Bulgaria"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"hfz1olAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Johan van de Leur",
+                    "affiliation":"Mathematisch Instituut, Universiteit Utrecht"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"gjdQsPQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Constantin Rasinariu",
+                    "affiliation":"Loyola University Chicago"
+                }
+            ]
+        ]
+    ]
+}

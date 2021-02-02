@@ -1,0 +1,36 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "WJEJWYG4",
+            "RoOAWmUAAAAJ",
+            [
+                "Self-organized criticality: An explanation of the 1\/f noise",
+                "Self-organized criticality",
+                "Stochastic resonance and the benefits of noise: from ice ages to crayfish and SQUIDs",
+                "Theory of stochastic resonance"
+            ],
+            [
+                "We show that dynamical systems with spatial degrees of freedom naturally evolve into a self-organized critical point. Flicker noise, or 1\/f noise, can be identified with the dynamics of the critical state. This picture also yields insight into the origin of fractal objects.",
+                "We show that certain extended dissipative dynamical systems naturally evolve into a critical state, with no characteristic time or length scales. The temporal \u2018\u2018fingerprint\u2019\u2019of the self-organized critical state is the presence of flicker noise or 1\/f noise; its spatial signature is the emergence of scale-invariant (fractal) structure.",
+                "Noise in dynamical systems is usually considered a nuisance. But in certain nonlinear systems, including electronic circuits and biological sensory apparatus, the presence of noise can in fact enhance the detection of weak signals. This phenomenon, called stochastic resonance, may find useful application in physical, technological and biomedical contexts.",
+                "The concept of stochastic resonance has been introduced previously to describe a curious phenomenon in bistable systems subject to both periodic and random forcing: an increase in the input noise can result in an improvement in the output signal-to-noise ratio. In this paper we present a detailed theoretical and numerical study of stochastic resonance, based on a rate equation approach. The main result is an equation for the output signal-to-noise ratio as a function of the rate at which noise induces hopping between the two states. The manner in which the input noise strength determines this hopping rate depends on the precise nature of the bistable system. For this reason, the theory is applied to two classes of bistable systems, the double-well (continuous) system and the two-state (discrete) system. The theory is tested in detail against digital simulations."
+            ],
+            [
+                [
+                    "theoretical physics",
+                    "nonlinear science"
+                ]
+            ]
+        ]
+    ]
+}

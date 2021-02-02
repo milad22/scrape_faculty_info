@@ -1,0 +1,69 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "We briefly review our implementation of the real-space Green's function (RSGF) approach for calculations of X-ray spectra, focusing on recently developed parameter free models for dominant many-body effects. Although the RSGF approach has been widely used both for near edge (XANES) and extended (EXAFS) ranges, previous implementations relied on semi-phenomenological methods, e.g., the plasmon-pole model for the self-energy, the final-state rule for screened core hole effects, and the correlated Debye model for vibrational damping. Here we describe how these approximations can be replaced by efficient ab initio models including a many-pole model of the self-energy, inelastic losses and multiple-electron excitations; a linear response approach for the core hole; and a Lanczos approach for Debye\u2013Waller effects. We also discuss the implementation of these models and software improvements within \u2026",
+            "Parameter-free calculations of X-ray spectra with FEFF9",
+            "John J Rehr and Joshua J Kas and Fernando D Vila and Micah P Prange and Kevin Jorissen",
+            "2010",
+            "-WSKa84AAAAJ:pqnbT2bcN3wC",
+            839,
+            "https:\/\/pubs.rsc.org\/en\/content\/articlehtml\/2010\/cp\/b926434e",
+            "13017282039755469229",
+            "\/scholar?cites=13017282039755469229",
+            {
+                "2011":11,
+                "2012":14,
+                "2013":49,
+                "2014":76,
+                "2015":87,
+                "2016":103,
+                "2017":109,
+                "2018":122,
+                "2019":102,
+                "2020":136,
+                "2021":19
+            }
+        ],
+        [
+            "There has been dramatic progress in recent years both in the calculation and interpretation of various x-ray spectroscopies. However, current theoretical calculations often use a number of simplified models to account for many-body effects, in lieu of first principles calculations. In an effort to overcome these limitations we describe in this article a number of recent advances in theory and in theoretical codes which offer the prospect of parameter free calculations that include the dominant many-body effects. These advances are based on ab initio calculations of the dielectric and vibrational response of a system. Calculations of the dielectric function over a broad spectrum yield system dependent self-energies and mean-free paths, as well as intrinsic losses due to multi-electron excitations. Calculations of the dynamical matrix yield vibrational damping in terms of multiple-scattering Debye\u2013Waller factors. Our ab initio \u2026",
+            "Ab initio theory and calculations of X-ray spectra",
+            "John J Rehr and Joshua J Kas and Micah P Prange and Adam P Sorini and Yoshinari Takimoto and Fernando Vila",
+            "2009",
+            "-WSKa84AAAAJ:qjMakFHDy7sC",
+            454,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S1631070508001084",
+            "14871828178459051673",
+            "\/scholar?cites=14871828178459051673",
+            {
+                "2010":11,
+                "2011":11,
+                "2012":43,
+                "2013":44,
+                "2014":51,
+                "2015":49,
+                "2016":57,
+                "2017":42,
+                "2018":41,
+                "2019":38,
+                "2020":57,
+                "2021":8
+            }
+        ]
+    ]
+}

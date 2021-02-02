@@ -1,0 +1,114 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "n6JFNA4AAAAJ",
+            "Lauren McGough",
+            "Postdoc, University of Chicago",
+            "@uchicago.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=n6JFNA4AAAAJ",
+            465,
+            [
+                "evolutionary dynamics",
+                "immunology",
+                "theoretical biophysics"
+            ],
+            430,
+            5,
+            5,
+            5,
+            5,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"E7XqvDoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Herman Verlinde",
+                    "affiliation":"Professor of Physics, Princeton University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"2RbWld4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"M\u00e1rk Mezei",
+                    "affiliation":"Postdoc, Simons Center for Geometry and Physics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"oUMZgkIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Benjamin Safdi",
+                    "affiliation":"Assistant Professor of Physics, University of Michigan"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"jDewJRwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Rama Ranganathan",
+                    "affiliation":"Professor, Biochemistry and Molecular Biology, Institute for Molecular Engineering"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"4tGNjhQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sarah Rauscher",
+                    "affiliation":"Assistant Professor, University of Toronto"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"TyK96I4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Eugene Klyshko",
+                    "affiliation":"PhD student, University of Toronto, Department of Physics"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "AKoRbpIAAAAJ",
+            "Tim M.P. Tait",
+            "University of California, Irvine",
+            "@uci.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=AKoRbpIAAAAJ",
+            20488,
+            [
+                "Theoretical Particle Physics"
+            ],
+            8115,
+            69,
+            43,
+            140,
+            103,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"CtDh12YAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"C.-P. Yuan",
+                    "affiliation":"Professor, Department of Physics and Astronomy, Michigan State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"BQuJtTIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Philip (Flip) Tanedo",
+                    "affiliation":"UC Riverside"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"bvx4ICYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gianfranco Bertone",
+                    "affiliation":"Associate Professor, GRAPPA Institute, U. of Amsterdam "
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"D9PV2j8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hai-Bo Yu",
+                    "affiliation":"University of California, Riverside"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"e0zwUJUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Anthony DiFranzo",
+                    "affiliation":"Rutgers University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"54bHHi8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Eduardo Ponton",
+                    "affiliation":"Professor of Physics, IFT-UNESP and ICTP-SAIFR"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"4I8EuFkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Stefano Profumo",
+                    "affiliation":"University of California, Santa Cruz"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"cqNBjj4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Lorenzo Diaz-Cruz",
+                    "affiliation":"profesor de fisica teorica"
+                }
+            ]
+        ]
+    ]
+}

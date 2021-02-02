@@ -1,0 +1,101 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "D8QnfQ0AAAAJ",
+            "Nicolas Lehner",
+            "University of Notre Dame",
+            "@nd.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=D8QnfQ0AAAAJ",
+            5060,
+            [
+                "Astrophysics",
+                "Cosmology"
+            ],
+            2954,
+            42,
+            28,
+            75,
+            57,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"04fD24sAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"J. Xavier Prochaska",
+                    "affiliation":"UC Santa Cruz"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"hnpb8SgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"John O'Meara",
+                    "affiliation":"Chief Scientist, W. M. Keck Observatory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"xsWwpOQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Molly S. Peeples",
+                    "affiliation":"Space Telescope Science Instituted"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ATkYj4EAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Rongmon Bordoloi",
+                    "affiliation":"Assistant Professor of Physics, North Carolina State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"T70m45sAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Nicolas Tejos",
+                    "affiliation":"Pontificia Universidad Catolica de Valparaiso"
+                }
+            ]
+        ]
+    ]
+}

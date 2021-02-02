@@ -1,0 +1,128 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "mZ3tluwAAAAJ",
+            "Brian Quinn",
+            "University of the West of Scotland",
+            "@uws.ac.uk",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=mZ3tluwAAAAJ",
+            2797,
+            [
+                "Ecotoxicology",
+                "biomarkers",
+                "Aquaculture diagnostics",
+                "pharmaceuticals",
+                "microplastics"
+            ],
+            1947,
+            23,
+            19,
+            26,
+            22,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"NnfAQfwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gagne Francois",
+                    "affiliation":"Environment Changement Climatique Canada"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"XB1NO8QAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Wiebke Schmidt",
+                    "affiliation":"Specialist: Bathing and Shellfish Waters Research"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"zaf7dyYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Brian P Kelleher",
+                    "affiliation":"School of Chemical Science, Dublin City University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"LY4dmZkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Brett paull",
+                    "affiliation":"ACROSS, University of Tasmania"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"0wcSCRAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Leon Barron",
+                    "affiliation":"Imperial College London"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"vZue3Y4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mark John Costello",
+                    "affiliation":"Nord University and University of Auckland"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"CXxA3HUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David Sheehan",
+                    "affiliation":"Dean of Science, Khalifa University, Abu Dhabi, UAE"
+                }
+            ]
+        ]
+    ]
+}

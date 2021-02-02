@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "JYAG81UR",
+            "Rix_mv4AAAAJ",
+            [
+                "Chiral ground-state currents of interacting photons in a synthetic magnetic field",
+                "High-speed tracking of rupture and clustering in freely falling granular streams",
+                "Spin Hamiltonian for which the chiral spin liquid is the exact ground state",
+                "Exact parent Hamiltonian for the quantum Hall states in a lattice",
+                "Induced self-stabilization in fractional quantum Hall states of light",
+                "Optical-lattice Hamiltonians for relativistic quantum electrodynamics",
+                "Parent Hamiltonian for the chiral spin liquid",
+                "Universal stabilization of a parametrically coupled qubit",
+                "Human immunodeficiency virus type 1 matrix protein assembles on membranes as a hexamer",
+                "Hardware-efficient and fully autonomous quantum error correction in superconducting circuits"
+            ],
+            [
+                "The intriguing many-body phases of quantum matter arise from the interplay of particle interactions, spatial symmetries, and external fields. Generating these phases in an engineered system could provide deeper insight into their nature. Using superconducting qubits, we simultaneously realize synthetic magnetic fields and strong particle interactions, which are among the essential elements for studying quantum magnetism and fractional quantum Hall phenomena. The artificial magnetic fields are synthesized by sinusoidally modulating the qubit couplings. In a closed loop formed by the three qubits, we observe the directional circulation of photons, a signature of broken time-reversal symmetry. We demonstrate strong interactions through the creation of photon vacancies, or \u2018holes\u2019, which circulate in the opposite direction. The combination of these key elements results in chiral ground-state currents. Our work \u2026",
+                "Thin streams of liquid commonly break up into characteristic droplet patterns owing to the surface-tension-driven Plateau\u2013Rayleigh instability 1, 2, 3. Very similar patterns are observed when initially uniform streams of dry granular material break up into clusters of grains 4, 5, 6, even though flows of macroscopic particles are considered to lack surface tension 7, 8. Recent studies on freely falling granular streams tracked fluctuations in the stream profile 9, but the clustering mechanism remained unresolved because the full evolution of the instability could not be observed. Here we demonstrate that the cluster formation is driven by minute, nanoNewton cohesive forces that arise from a combination of van der Waals interactions and capillary bridges between nanometre-scale surface asperities. Our experiments involve high-speed video imaging of the granular stream in the co-moving frame, control over the properties \u2026",
+                "We construct a Hamiltonian that singles out the chiral spin liquid on a square lattice with periodic boundary conditions as the exact and, apart from the twofold topological degeneracy, unique ground state.",
+                "We study lattice models of charged particles in uniform magnetic fields. We show how longer range hopping can be engineered to produce a massively degenerate manifold of single-particle ground states with wave functions identical to those making up the lowest Landau level of continuum electrons in a magnetic field. We find that in the presence of local interactions, and at the appropriate filling factors, Laughlin\u2019s fractional quantum Hall wave function is an exact many-body ground state of our lattice model. The hopping matrix elements in our model fall off as a Gaussian, and when the flux per plaquette is small compared to the fundamental flux quantum one only needs to include nearest and next-nearest neighbor hoppings. We suggest how to realize this model using atoms in optical lattices, and describe observable consequences of the resulting fractional quantum Hall physics.",
+                "Recent progress in nanoscale quantum optics and superconducting qubits has made the creation of strongly correlated, and even topologically ordered, states of photons a real possibility. Many of these states are gapped and exhibit anyon excitations, which could be used for a robust form of quantum information processing. However, while numerous qubit array proposals exist to engineer the Hamiltonian for these systems, the question of how to stabilize the many-body ground state of these photonic quantum simulators against photon losses remains largely unanswered. We here propose a simple mechanism that achieves this goal for Abelian and non-Abelian fractional quantum Hall states of light. Our construction uses a uniform two-photon drive field to couple the qubits of the primary lattice with an auxiliary \u201cshadow\u201d lattice, composed of qubits with a much faster loss rate than the qubits of the primary quantum \u2026",
+                "We show how interpenetrating optical lattices containing Bose-Fermi mixtures can be constructed to emulate the thermodynamics of quantum electrodynamics (QED). We present models of neutral atoms on lattices in 1+ 1, 2+ 1, and 3+ 1 dimensions whose low-energy effective action reduces to that of photons coupled to Dirac fermions of the corresponding dimensionality. We give special attention to (2+ 1)-dimensional quantum electrodynamics (QED3) and discuss how two of its most interesting features, chiral symmetry breaking and Chern-Simons physics, could be observed experimentally.",
+                "We present a method for constructing parent Hamiltonians for the chiral spin liquid. We find two distinct Hamiltonians for which the chiral spin liquid on a square lattice is an exact zero-energy ground state. We diagonalize both Hamiltonians numerically for 16-site lattices, and find that the chiral spin liquid, modulo its twofold topological degeneracy, is indeed the unique ground state for one Hamiltonian, while it is not unique for the other.",
+                "We autonomously stabilize arbitrary states of a qubit through parametric modulation of the coupling between a fixed frequency qubit and resonator. The coupling modulation is achieved with a tunable coupling design, in which the qubit and the resonator are connected in parallel to a superconducting quantum interference device. This allows for quasistatic tuning of the qubit-cavity coupling strength from 12 MHz to more than 300 MHz. Additionally, the coupling can be dynamically modulated, allowing for single-photon exchange in 6 ns. Qubit coherence times exceeding 20 \u03bc s are maintained over the majority of the range of tuning, limited primarily by the Purcell effect. The parametric stabilization technique realized using the tunable coupler involves engineering the qubit bath through a combination of photon nonconserving sideband interactions realized by flux modulation, and direct qubit Rabi driving. We \u2026",
+                "The membrane-binding matrix (MA) domain of the human immunodeficiency virus type 1 (HIV-1) structural precursor Gag (PrGag) protein oligomerizes in solution as a trimer and crystallizes in three dimensions as a trimer unit. A number of models have been proposed to explain how MA trimers might align with respect to PrGag capsid (CA) N-terminal domains (NTDs), which assemble hexagonal lattices. We have examined the binding of naturally myristoylated HIV-1 matrix (MyrMA) and matrix plus capsid (MyrMACA) proteins on membranes in vitro. Unexpectedly, MyrMA and MyrMACA proteins both assembled hexagonal cage lattices on phosphatidylserine-cholesterol membranes. Membrane-bound MyrMA proteins did not organize into trimer units but, rather, organized into hexamer rings. Our results yield a model in which MA domains stack directly above NTD hexamers in immature particles, and they have \u2026",
+                "Superconducting qubits are among the most promising platforms for building a quantum computer. However, individual qubit coherence times are not far past the scalability threshold for quantum error correction, meaning that millions of physical devices would be required to construct a useful quantum computer. Consequently, further increases in coherence time are very desirable. In this Letter, we blueprint a simple circuit consisting of two transmon qubits and two additional lossy qubits or resonators, which is passively protected against all single-qubit quantum error channels through a combination of continuous driving and engineered dissipation. Photon losses are rapidly corrected through two-photon drive fields implemented with driven superconducting quantum interference device couplings, and dephasing from random potential fluctuations is heavily suppressed by the drive fields used to implement the \u2026"
+            ],
+            [
+                [
+                    "Quantum computing and simulation",
+                    "quantum many-body physics",
+                    "condensed matter theory"
+                ]
+            ]
+        ]
+    ]
+}

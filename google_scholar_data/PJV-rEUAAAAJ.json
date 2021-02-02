@@ -1,0 +1,64 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "PJV-rEUAAAAJ",
+            "Alexander Polyakov",
+            "NUST MISIS",
+            "@misis.ru",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=PJV-rEUAAAAJ",
+            8913,
+            [
+                "Wide bandgap semiconductors"
+            ],
+            3368,
+            46,
+            26,
+            228,
+            104,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"4FORIaAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Stephen Pearton",
+                    "affiliation":"Professor of Materials Science and Engineering, University of Florida"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"YiSGV6oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"In Hwan Lee",
+                    "affiliation":"Department of Materials Science & Engineering, Korea University"
+                }
+            ]
+        ]
+    ]
+}

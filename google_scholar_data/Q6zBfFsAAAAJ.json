@@ -1,0 +1,137 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Q6zBfFsAAAAJ",
+            "Lisa Paulius",
+            "Professor of Physics, Western Michigan University",
+            "@wmich.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=Q6zBfFsAAAAJ",
+            2140,
+            [
+                "condensed matter physics",
+                "superconductivity"
+            ],
+            262,
+            26,
+            9,
+            35,
+            6,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"mbEZavUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"M. Brian Maple",
+                    "affiliation":"Professor of Physics, UC San Diego"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"8ZYHf3kAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Goran Karapetrov",
+                    "affiliation":"Drexel University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"wl0vrl0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Carmen Almasan",
+                    "affiliation":"Kent State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"sCqMpOcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Thierry Klein",
+                    "affiliation":"Universit\u00e9 Grenoble - Alpes & Institut N\u00e9el, CNRS"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ivirF98AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"B. W. Lee (\uc774\ubcf4\ud654)",
+                    "affiliation":"Hankuk University of Foreign Studies"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"1E6M9-4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hugo Safar",
+                    "affiliation":"Alcatel Lucent - Bell Labs"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"cKkppLgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Andreas Rydh",
+                    "affiliation":"Associate professor, Department of Physics, Stockholm University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"B28mNVUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Xavier Obradors",
+                    "affiliation":"Research Professor , Institut Ciencia de Materials de Barcelona, CSIC"
+                }
+            ]
+        ]
+    ]
+}

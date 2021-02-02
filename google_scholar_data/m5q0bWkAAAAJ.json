@@ -1,0 +1,55 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "m5q0bWkAAAAJ",
+            "Christopher L. Smallwood",
+            "Assistant Professor, Department of Physics & Astronomy, San Jos\u00e9 State University",
+            "@sjsu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=m5q0bWkAAAAJ",
+            918,
+            [
+                "Optical Spectroscopy",
+                "Materials Science",
+                "Quantum Information",
+                "Condensed Matter Physics"
+            ],
+            542,
+            14,
+            14,
+            16,
+            16,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Wr4f__oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Steven Cundiff",
+                    "affiliation":"Physics Department, University of Michigan, Ann Arbor, MI 48109"
+                }
+            ]
+        ]
+    ]
+}

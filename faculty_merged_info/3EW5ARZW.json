@@ -1,0 +1,43 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "3EW5ARZW",
+            "1UbzzQcAAAAJ",
+            [
+                "Large-scale complementary integrated circuits based on organic transistors",
+                "Digital selection and analogue amplification coexist in a cortex-inspired silicon circuit",
+                "An energy-efficient micropower neural recording amplifier",
+                "Analog versus digital: extrapolating from electronics to neurobiology",
+                "Feedback analysis and design of RF power links for low-power bionic systems",
+                "Synthetic analog computation in living cells"
+            ],
+            [
+                "Thin-film transistors based on molecular and polymeric organic materials have been proposed for a number of applications, such as displays 1, 2, 3 and radio-frequency identification tags 4, 5, 6. The main factors motivating investigations of organic transistors are their lower cost and simpler packaging, relative to conventional inorganic electronics, and their compatibility with flexible substrates 7, 8. In most digital circuitry, minimal power dissipation and stability of performance against transistor parameter variations are crucial. In silicon-based microelectronics, these are achieved through the use of complementary logic\u2014which incorporates both p-and n-type transistors\u2014and it is therefore reasonable to suppose that adoption of such an approach with organic semiconductors will similarly result in reduced power dissipation, improved noise margins and greater operational stability. Complementary inverters and ring \u2026",
+                "Digital circuits such as the flip-flop use feedback to achieve multi-stability and nonlinearity to restore signals to logical levels, for example 0 and 1. Analogue feedback circuits are generally designed to operate linearly, so that signals are over a range, and the response is unique. By contrast, the response of cortical circuits to sensory stimulation can be both multistable and graded 1, 2, 3, 4. We propose that the neocortex combines digital selection of an active set of neurons with analogue response by dynamically varying the positive feedback inherent in its recurrent connections. Strong positive feedback causes differential instabilities that drive the selection of a set of active neurons under the constraints embedded in the synaptic weights. Once selected, the active neurons generate weaker, stable feedback that provides analogue amplification of the input. Here we present our model of cortical processing as an \u2026",
+                "This paper describes an ultralow-power neural recording amplifier. The amplifier appears to be the lowest power and most energy-efficient neural recording amplifier reported to date. We describe low-noise design techniques that help the neural amplifier achieve input-referred noise that is near the theoretical limit of any amplifier using a differential pair as an input stage. Since neural amplifiers must include differential input pairs in practice to allow robust rejection of common-mode and power supply noise, our design appears to be near the optimum allowed by theory. The bandwidth of the amplifier can be adjusted for recording either neural spikes or local field potentials (LFPs). When configured for recording neural spikes, the amplifier yielded a midband gain of 40.8 dB and a -3-dB bandwidth from 45 Hz to 5.32 kHz; the amplifier's input-referred noise was measured to be 3.06 muV rms  while consuming 7.56 \u2026",
+                "We review the pros and cons of analog and digital computation. We propose that computation that is most efficient in its use of resources is neither analog computation nor digital computation but, rather, a mixture of the two forms. For maximum efficiency, the information and information-processing resources of the hybrid form must be distributed over many wires, with an optimal signal-to-noise ratio per wire. Our results suggest that it is likely that the brain computes in a hybrid fashion and that an underappreciated and important reason for the efficiency of the human brain, which consumes only 12 W, is the hybrid and distributed nature of its architecture.",
+                "This paper presents a feedback-loop technique for analyzing and designing RF power links for transcutaneous bionic systems, i.e., between an external RF coil and an internal RF coil implanted inside the body. The feedback techniques shed geometric insight into link design and minimize algebraic manipulations. We demonstrate that when the loop transmission of the link's feedback loop is -1, the link is critically coupled, i.e., the magnitude of the voltage transfer function across the link is maximal. We also derive an optimal loading condition that maximizes the energy efficiency of the link and use it as a basis for our link design. We present an example of a bionic implant system designed for load power consumptions in the 1-10-mW range, a low-power regime not significantly explored in prior designs. Such low power levels add to the challenge of link efficiency, because the overhead associated with switching \u2026",
+                "A central goal of synthetic biology is to achieve multi-signal integration and processing in living cells for diagnostic, therapeutic and biotechnology applications 1. Digital logic has been used to build small-scale circuits, but other frameworks may be needed for efficient computation in the resource-limited environments of cells 2, 3. Here we demonstrate that synthetic analog gene circuits can be engineered to execute sophisticated computational functions in living cells using just three transcription factors. Such synthetic analog gene circuits exploit feedback to implement logarithmically linear sensing, addition, ratiometric and power-law computations. The circuits exhibit Weber\u2019s law behaviour as in natural biological systems 4, operate over a wide dynamic range of up to four orders of magnitude and can be designed to have tunable transfer functions. Our circuits can be composed to implement higher-order functions \u2026"
+            ],
+            [
+                [
+                    "Analog Circuits",
+                    "Bioelectronics",
+                    "Synthetic Biology",
+                    "Ultra Low Power Implants",
+                    "Bio-inspired and Quantum Computers"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "DOMzcTgAAAAJ",
+            "James C. Gumbart",
+            "Georgia Tech",
+            "@physics.gatech.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=DOMzcTgAAAAJ",
+            20176,
+            [
+                "Biophysics"
+            ],
+            10606,
+            37,
+            30,
+            65,
+            64,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"k7vghtEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Klaus Schulten",
+                    "affiliation":"Professor of Physics, University of Illinois at Urbana-Champaign"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"0OFP8-cAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Chris Chipot",
+                    "affiliation":"University of Lorraine \u2014 University of Illinois, Urbana-Champaign"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"bTNiP34AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Emad Tajkhorshid, PhD",
+                    "affiliation":"Professor of Biochemistry and Biophysics, University of Illinois"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"hoGTGlMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Benoit Roux",
+                    "affiliation":"Professor of Biochemistry, The university of Chicago"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"iBXp8d0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Anna Pavlova",
+                    "affiliation":"Georgia Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3HhHtg0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Karl Lundquist",
+                    "affiliation":"Postdoctoral Research Associate, Purdue University Department of Biological Sciences"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"EgzUN00AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Anthony Hazel",
+                    "affiliation":"Georgia Institute of Technology"
+                }
+            ]
+        ]
+    ]
+}

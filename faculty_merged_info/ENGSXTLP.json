@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "ENGSXTLP",
+            "XQIJlgIAAAAJ",
+            [
+                "Objective Eulerian Coherent Structures",
+                "Dependent modal space control",
+                "Efficient computation of null geodesics with applications to coherent vortex detection",
+                "Uncovering the Edge of the Polar Vortex",
+                "Forecasting Long-Lived Lagrangian Vortices from their Objective Eulerian Footprints",
+                "Search and rescue at sea aided by hidden flow structures",
+                "Exact theory of material spike formation in flow separation",
+                "Kinematics of Lagrangian flow separation in external aerodynamics",
+                "Dependent modal space control: Experimental test rig",
+                "Material spike formation in highly unsteady separated flows"
+            ],
+            [
+                "We define objective Eulerian Coherent Structures (OECSs) in two-dimensional, non-autonomous dynamical systems as the instantaneously most influential material curves. Specifically, OECSs are stationary curves of the averaged instantaneous material stretching-rate or material shearing-rate functionals. From these objective (frame-invariant) variational principles, we obtain explicit differential equations for hyperbolic, elliptic, and parabolic OECSs. As an illustration, we compute OECSs in an unsteady ocean velocity data set. In comparison to structures suggested by other common Eulerian diagnostic tools, we find OECSs to be the correct short-term cores of observed trajectory deformation patterns.",
+                "This paper presents a new control technique for reducing vibration in flexible structures. It is based on the modal approach and is called dependent modal space control (DMSC). The well-known independent modal space control (IMSC) method, devised in the 1980s, allows the frequency and damping of the controlled modes to be changed using diagonal control gain matrices, leaving the mode shapes unaltered. DMSC, on the other hand, can impose not only frequency and damping but also the controlled mode shapes by using full control gain matrices. In many applications, owing to the limited number of sensors\u2013actuators available for control and the increasing spillover effects, generic assignment of eigenvectors is not possible.",
+                "Recent results suggest that boundaries of coherent fluid vortices (elliptic coherent structures) can be identified as closed null geodesics of appropriate Lorentzian metrics defined on the flow domain. Here we derive an automated method for computing such null geodesics based on the geometry of the underlying geodesic flow. Our approach simplifies and improves existing procedures for computing variationally defined Eulerian and Lagrangian vortex boundaries. As an illustration, we compute objective vortex boundaries from satellite-inferred ocean velocity data. A MATLAB implementation of our method is available at https:\/\/github.com\/MattiaSerra\/Closed-Null-Geodesics-2D.",
+                "The polar vortices play a crucial role in the formation of the ozone hole and can cause severe weather anomalies. Their boundaries, known as the vortex \u201cedges,\u201d are typically identified via methods that are either frame dependent or return nonmaterial structures and, hence, are unsuitable for assessing material transport barriers. Using two-dimensional velocity data on isentropic surfaces in the Northern Hemisphere, the authors show that elliptic Lagrangian coherent structures (LCSs) identify the correct outermost material surface dividing the coherent stratospheric vortex core from the surrounding incoherent surf zone. Despite the purely kinematic construction of LCSs, the authors find a remarkable contrast in temperature and ozone concentration across the identified vortex boundary. The authors also show that potential vorticity\u2013based methods, despite their simplicity, misidentify the correct extent of the vortex edge.",
+                "We derive a non-dimensional metric to quantify the expected Lagrangian persistence of objectively defined Eulerian vortices in two-dimensional unsteady flows. This persistence metric is the averaged deviation of the vorticity from its spatial mean over the Eulerian vortex, normalized by the instantaneous material leakage from the Eulerian vortex. The metric offers a model-independent and frame-independent tool for uncovering the instantaneous Eulerian signature of long-lived Lagrangian vortices. Using satellite-derived ocean velocity data, we show that Lagrangian vortex-persistence predictions by our metric significantly outperform those inferred from other customary Eulerian diagnostics, such as the potential vorticity gradient and the Okubo-Weiss criterion.",
+                "Every year, hundreds of people die at sea because of vessel and airplane accidents. A key challenge in reducing the number of these fatalities is to make Search and Rescue (SAR) algorithms more efficient. Here, we address this challenge by uncovering hidden TRansient Attracting Profiles (TRAPs) in ocean-surface velocity data. Computable from a single velocity-field snapshot, TRAPs act as short-term attractors for all floating objects. In three different ocean field experiments, we show that TRAPs computed from measured as well as modeled velocities attract deployed drifters and manikins emulating people fallen in the water. TRAPs, which remain hidden to prior flow diagnostics, thus provide critical information for hazard responses, such as SAR and oil spill containment, and hence have the potential to save lives and limit environmental disasters.",
+                "We develop a frame-invariant theory of material spike formation during flow separation over a no-slip boundary in two-dimensional flows with arbitrary time dependence. Based on the exact curvature evolution of near-wall material lines, our theory identifies both fixed and moving flow separation, is effective also over short time intervals, and admits a rigorous instantaneous limit. As a byproduct, we derive explicit formulae for the evolution of material line curvature and the curvature rate for general compressible flows. The material backbone that we identify acts first as the precursor and later as the centrepiece of unsteady Lagrangian flow separation. We also discover a previously undetected spiking point where the backbone of separation connects to the boundary, and derive wall-based analytical formulae for its location. Finally, our theory explains the perception of off-wall separation in unsteady flows and provides conditions under which such a perception is justified. We illustrate our results on several analytical and experimental flows.",
+                "Kinematic aspects of flow separation in external aerodynamics are investigated in the Lagrangian frame. Specifically, the initial motion of upwelling fluid material from the wall is related to the long-term attracting manifolds in the flowfield. Although the short-time kinematics are governed by the formation of a material spike upstream of the zero-skin-friction point and ejection of particles in the direction of the asymptotic separation line, the trajectories of the fluid tracers are guided by attracting ridges in the finite-time Lyapunov exponents once they leave the vicinity of the wall. The wall signature of this initial fluid upwelling event, which is the so-called spiking point (Serra, M., Vetel, J., and Haller, G., \u201cExact Theory of Material Spike Formation in Flow Separation,\u201d Journal of Fluid Mechanics, Vol. 845, June 2018, pp. 51\u201392), is computed from the curvature of advected material lines and, for the first time, from high-order \u2026",
+                "This article presents the experimental validation of a new control technique for reducing vibration in flexible structures: Dependent modal space control. While the classic independent modal space control allows only the frequency and the damping of the controlled modes to be changed, dependent modal space control can also impose the controlled mode shapes. Depending on the kind and number of sensors and actuators available for control, the mode shape can be imposed in both a direct and an indirect way. Owing to the need for modal sensors and actuators for direct mode shape imposition, the second methodology is often preferred in many engineering applications. In the indirect method, the optimal closed loop mode shapes set is computed with an optimization algorithm in order to minimize an Input-Output Performance Index. The worsening spillover effects due to errors in the estimates of the system \u2026",
+                "We apply the recent frame-invariant theory of separation spike formation to complex unsteady flows, including a turbulent separation bubble, an impinging jet, and flows around a freely moving cylinder and a freely rotating ellipse. We show how the theory captures the onset of material spike formation, without any assumption on the flow type (steady, periodic, unsteady) or separation type (on-or off-wall, fixed or moving boundaries). We uncover new phenomena, such as the transition from on-wall to offwall separation, the merger of initially distinct spikes, and the presence of severe material spikes that remain hidden to previous approaches. Remarkably, even in steady flows around curved boundaries, we detect material spikes in the absence of flow reversal, the main ingredient to existing separation criteria. Together, our results unveil how an involved network of spikes arises, interacts and merges dynamically, leading to the final ejection of particles from the wall in highly transient flow separation processes."
+            ],
+            [
+                [
+                    "Nonlinear Dynamics",
+                    "Fluid Mechanics",
+                    "Morphogenesis",
+                    "Active Matter",
+                    "Control theory"
+                ]
+            ]
+        ]
+    ]
+}

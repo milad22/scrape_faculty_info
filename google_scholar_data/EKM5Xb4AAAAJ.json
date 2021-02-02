@@ -1,0 +1,53 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "EKM5Xb4AAAAJ",
+            "Shijing Tan",
+            "University of Science and Technology of China",
+            "@ustc.edu.cn",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=EKM5Xb4AAAAJ",
+            1170,
+            [
+                "Scanning tunneling microscopy",
+                "ultrafast photoemission spectroscopy"
+            ],
+            865,
+            15,
+            13,
+            19,
+            19,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"xCTIjlwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hrvoje Petek",
+                    "affiliation":"RK Mellon Chair of Physics and Astronomy and Professor of Chemistry, University of Pittsburgh"
+                }
+            ]
+        ]
+    ]
+}

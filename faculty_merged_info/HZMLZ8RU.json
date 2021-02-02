@@ -1,0 +1,37 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "HZMLZ8RU",
+            "_LHH8DgAAAAJ",
+            [
+                "\u201cNeural\u201d computation of decisions in optimization problems",
+                "Brain magnetic resonance imaging with contrast dependent on blood oxygenation",
+                "Intrinsic signal changes accompanying sensory stimulation: functional brain mapping with magnetic resonance imaging",
+                "Simple'neural'optimization networks: An A\/D converter, signal decision circuit, and a linear programming circuit",
+                "Computing with neural circuits: A model"
+            ],
+            [
+                "Highly-interconnected networks of nonlinear analog neurons are shown to be extremely effective in computing. The networks can rapidly provide a collectively-computed solution (a digital output) to a problem on the basis of analog input information. The problems to be solved must be formulated in terms of desired optima, often subject to constraints. The general principles involved in constructing networks to solve specific problems are discussed. Results of computer simulations of a network designed to solve a difficult but well-defined optimization problem-the Traveling-Salesman Problem-are presented and used to illustrate the computational power of the networks. Good solutions to this problem are collectively computed within an elapsed time of only a few neural time constants. The effectiveness of the computation involves both the nonlinear analog response of the neurons and the large connectivity \u2026",
+                "Paramagnetic deoxyhemoglobin in venous blood is a naturally occurring contrast agent for magnetic resonance imaging (MRI). By accentuating the effects of this agent through the use of gradient-echo techniques in high fields, we demonstrate in vivo images of brain microvasculature with image contrast reflecting the blood oxygen level. This blood oxygenation level-dependent (BOLD) contrast follows blood oxygen changes induced by anesthetics, by insulin-induced hypoglycemia, and by inhaled gas mixtures that alter metabolic demand or blood flow. The results suggest that BOLD contrast can be used to provide in vivo real-time maps of blood oxygenation in the brain under normal physiological conditions. BOLD contrast adds an additional feature to magnetic resonance imaging and complements other techniques that are attempting to provide positron emission tomography-like measurements related to \u2026",
+                "We report that visual stimulation produces an easily detectable (5-20%) transient increase in the intensity of water proton magnetic resonance signals in human primary visual cortex in gradient echo images at 4-T magnetic-field strength. The observed changes predominantly occur in areas containing gray matter and can be used to produce high-spatial-resolution functional brain maps in humans. Reducing the image-acquisition echo time from 40 msec to 8 msec reduces the amplitude of the fractional signal change, suggesting that it is produced by a change in apparent transverse relaxation time T*2. The amplitude, sign, and echo-time dependence of these intrinsic signal changes are consistent with the idea that neural activation increases regional cerebral blood flow and concomitantly increases venous-blood oxygenation.",
+                "We describe how several optimization problems can be rapidly solved by highly interconnected networks of simple analog processors. Analog-to-digital (A\/D) conversion was considered as a simple optimization problem, and an A\/D converter of novel architecture was designed. A\/D conversion is a simple example of a more general class of signal-decision problems which we show could also be solved by appropriately constructed networks. Circuits to solve these problems were designed using general principles which result from an understanding of the basic collective computational properties of a specific class of analog-processor networks. We also show that a network which solves linear programming problems can be understood from the same concepts.",
+                "A new conceptual framework and a minimization principle together provide an understanding of computation in model neural circuits. The circuits consist of nonlinear graded-response model neurons organized into networks with effectively symmetric synaptic connections. The neurons represent an approximation to biological neurons in which a simplified set of important computational properties is retained. Complex circuits solving problems similar to those essential in biology can be analyzed and understood without the need to follow the circuit dynamics in detail. Implementation of the model with electronic devices will provide a class of electronic circuits of novel form and function."
+            ],
+            [
+                [
+                    "Neuroscience"
+                ]
+            ]
+        ]
+    ]
+}

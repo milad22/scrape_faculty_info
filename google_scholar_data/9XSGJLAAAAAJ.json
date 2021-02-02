@@ -1,0 +1,54 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "9XSGJLAAAAAJ",
+            "Hyeong Jun Kim",
+            "UMass Amherst",
+            "@umass.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=9XSGJLAAAAAJ",
+            1372,
+            [
+                "Ionotronics",
+                "Ionoelastomers",
+                "Polymerized Ionic Liquids"
+            ],
+            984,
+            18,
+            18,
+            25,
+            24,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"svoxtDkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Bumjoon J. Kim",
+                    "affiliation":"Professor of Chemical and Biomolecular Engineering, KAIST"
+                }
+            ]
+        ]
+    ]
+}

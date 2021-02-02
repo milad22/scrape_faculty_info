@@ -1,0 +1,91 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "W6BaxJ8AAAAJ",
+            "Jeremy Rayner",
+            "Professor, Johnson Shoyama Graduate School of Public Policy, University of Saskatchewan",
+            "@usask.ca",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=W6BaxJ8AAAAJ",
+            3830,
+            [
+                "public policy",
+                "public administration",
+                "environmental policy",
+                "energy policy"
+            ],
+            1944,
+            32,
+            21,
+            58,
+            41,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"f5Sz0fwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michael Howlett, FRSC",
+                    "affiliation":"Canada Research Chair and Burnaby Mountain Professor, Simon Fraser University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"rOEzbLkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Adam M. Wellstead",
+                    "affiliation":"Professor, Michigan Technological University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"DkfzcnwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Benjamin Cashore",
+                    "affiliation":"Li Ka Shing Professor in Public Management, Lee Kuan Yew School of Public Policy, NUS"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"kfoRhFYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Paul Cairney",
+                    "affiliation":"Professor of Politics and Public Policy, University of Stirling"
+                }
+            ]
+        ]
+    ]
+}

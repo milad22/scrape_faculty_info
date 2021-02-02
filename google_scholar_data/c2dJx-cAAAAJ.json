@@ -1,0 +1,282 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "c2dJx-cAAAAJ",
+            "Michael Cooper",
+            "Professor of Physics & Astronomy, University of California Irvine",
+            "@uci.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=c2dJx-cAAAAJ",
+            25435,
+            [
+                "Galaxy Formation and Evolution",
+                "Large-Scale Structure and Galaxy Environments",
+                "Multiwavelength Galaxy Surveys"
+            ],
+            11072,
+            85,
+            54,
+            177,
+            151,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"XK_lijcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jeffrey A. Newman",
+                    "affiliation":"Associate Professor of Physics at Astronomy, University of Pittsburgh"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"gj21uNMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Benjamin Weiner",
+                    "affiliation":"Associate Astronomer, Steward Observatory, University of Arizona"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"wLhyxFAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Renbin Yan",
+                    "affiliation":"University of Kentucky"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3dtuscUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Brian Gerke",
+                    "affiliation":"Lawrence Berkeley National Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"jNvfcSAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Prof. Christopher Conselice",
+                    "affiliation":"University of Manchester"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ZcYscoEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jennifer Lotz",
+                    "affiliation":"Space Telescope Science Institute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"FHu8_fAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sandra Faber",
+                    "affiliation":"Professor Emerita, University of California Santa Cruz"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"gnHYBekAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kai Noeske",
+                    "affiliation":"European Space Agency"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"uxXs8h4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Darren Croton",
+                    "affiliation":"Swinburne University of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"korB95oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Francoise Combes",
+                    "affiliation":"Astronomer at Paris Observatoty"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"HJMip98AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Linda Tacconi",
+                    "affiliation":"Max-Planck-Institute for Extraterrestrial Physics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"JVEwB6MAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alberto Bolatto",
+                    "affiliation":"Professor of Astronomy, University of Maryland at College Park"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"iO_0hUAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Santiago Garcia-Burillo",
+                    "affiliation":""
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"oa9YUDMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Antonis Georgakakis",
+                    "affiliation":"National Observatory of Athens"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"1tJe4gMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Karoline Gilbert",
+                    "affiliation":"Assistant Astronomer, Space Telescope Science Institute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"YUp4IisAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Joel Primack",
+                    "affiliation":"Distinguished Professor of Physics Emeritus, University of California, Santa Cruz"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"mq6cQ3QAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Anton M. Koekemoer",
+                    "affiliation":"Space Telescope Science Institute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"SgYrkvcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Pauline Barmby",
+                    "affiliation":"University of Western Ontario"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ctB3b3AAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Frederic Bournaud",
+                    "affiliation":"Universit\u00e9 Paris Saclay & CEA Paris-Saclay"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"HevT7qEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"James Bullock",
+                    "affiliation":"Professor, University of California, Irvine"
+                }
+            ]
+        ]
+    ]
+}

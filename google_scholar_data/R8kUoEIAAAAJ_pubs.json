@@ -1,0 +1,39 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Recent progress in establishing the capability of radios to operate in full duplex mode on a single channel has been attracting growing attention from many researchers. We extend this work by considering the application to small cells, in particular resource-managed cellular systems similar to the TDD variant of LTE. We derive conditions where full duplex operation provides improved throughput compared to half duplex for a single cell scenario. We present a hybrid scheduler that defaults to half duplex operation but can assign full duplex timeslots when it is advantageous to do so. We compare the performance of such a scheduler with a traditional half duplex scheduler in terms of throughput and energy efficiency. Our simulation results show that we achieve as much as 81% of the capacity doubling promised by full duplex, with limitations deriving from interference effects specific to full duplex operation.",
+            "Improving small cell capacity with common-carrier full duplex radios",
+            "Sanjay Goyal and Pei Liu and Shivendra Panwar and Robert A DiFazio and Rui Yang and Jialing Li and Erdem Bala",
+            "2014",
+            "R8kUoEIAAAAJ:TFP_iSt0sucC",
+            107,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6884111\/",
+            "11984594728986577503",
+            "\/scholar?cites=11984594728986577503",
+            {
+                "2014":2,
+                "2015":19,
+                "2016":25,
+                "2017":27,
+                "2018":13,
+                "2019":14,
+                "2020":7
+            }
+        ]
+    ]
+}

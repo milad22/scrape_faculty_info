@@ -1,0 +1,88 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "panLJB4AAAAJ",
+            "Todd Adams",
+            "Professor of Physics, Florida State University",
+            "@hep.fsu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=panLJB4AAAAJ",
+            187387,
+            [
+                "experimental particle physics"
+            ],
+            109804,
+            194,
+            145,
+            1395,
+            1123,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Ty58YmYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Giacomo Bruno",
+                    "affiliation":"professor of physics, Universit\u00e9 catholique de Louvain (UCL), Louvain-la-Neuve, Belgium"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"mEi7nhcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Loic Quertenmont",
+                    "affiliation":"Phd Physicist at Universit\u00e9 catholique de Louvain"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"EhBaxDQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Giuseppe Della Ricca",
+                    "affiliation":"Professor, Universit\u00e0 degli Studi di Trieste & INFN Trieste"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"84VAy7YAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Andrew Askew",
+                    "affiliation":"Associate Professor of Physics, Florida State University"
+                }
+            ]
+        ]
+    ]
+}

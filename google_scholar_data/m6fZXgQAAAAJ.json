@@ -1,0 +1,90 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "m6fZXgQAAAAJ",
+            "Ranjan Mukherjee",
+            "Professor of Mechanical Engineering, Michigan State University",
+            "@egr.msu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=m6fZXgQAAAAJ",
+            6302,
+            [
+                "Dynamics and Control",
+                "Robotics",
+                "Mechatronics"
+            ],
+            2770,
+            39,
+            20,
+            94,
+            48,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"E2hskOQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Joga Dharma Setiawan",
+                    "affiliation":"Mechanical Engineering Department, Universitas Diponegoro"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"SGxf3DgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Nilay Kant",
+                    "affiliation":"Advanced Mechatronics & Control Engineer, Nexteer Automotive, Saginaw"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"nDVRQQNDAmMC",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dhrubajit Chowdhury",
+                    "affiliation":"Postdoctoral Research Associate, Oak Ridge National Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"iZO10LIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Guoming (George) Zhu",
+                    "affiliation":"Michigan State University"
+                }
+            ]
+        ]
+    ]
+}

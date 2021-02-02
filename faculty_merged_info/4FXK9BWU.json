@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "4FXK9BWU",
+            "hWCp31QAAAAJ",
+            [
+                "Enzyme promiscuity: mechanism and applications",
+                "Carbon\u2212 carbon bonds by hydrolytic enzymes",
+                "Fast carbon\u2212 carbon bond formation by a promiscuous lipase",
+                "Transaminase biocatalysis: optimization and application",
+                "Engineered enzymes for improved organic synthesis",
+                "Controlling lipase enantioselectivity for organic synthesis",
+                "Exploring the active-site of a rationally redesigned lipase for catalysis of Michael-type additions",
+                "Bioinformatic analysis of a PLP-dependent enzyme superfamily suitable for biocatalytic applications",
+                "Biocatalytic promiscuity",
+                "Transaminations with isopropyl amine: equilibrium displacement with yeast alcohol dehydrogenase coupled to in situ cofactor regeneration"
+            ],
+            [
+                "Introductory courses in biochemistry teach that enzymes are specific for their substrates and the reactions they catalyze. Enzymes diverging from this statement are sometimes called promiscuous. It has been suggested that relaxed substrate and reaction specificities can have an important role in enzyme evolution; however, enzyme promiscuity also has an applied aspect. Enzyme condition promiscuity has, for a long time, been used to run reactions under conditions of low water activity that favor ester synthesis instead of hydrolysis. Together with enzyme substrate promiscuity, it is exploited in numerous synthetic applications, from the laboratory to industrial scale. Furthermore, enzyme catalytic promiscuity, where enzymes catalyze accidental or induced new reactions, has begun to be recognized as a valuable research and synthesis tool. Exploiting enzyme catalytic promiscuity might lead to improvements in \u2026",
+                "Enzymes are efficient catalysts in synthetic chemistry, and their catalytic activity with unnatural substrates in organic reaction media is an area attracting much attention. Protein engineering has opened the possibility to change the reaction specificity of enzymes and allow for new reactions to take place in their active sites. We have used this strategy on the well-studied active-site scaffold offered by the serine hydrolase Candida antarctica lipase B (CALB, EC 3.1.1.3) to achieve catalytic activity for aldol reactions. The catalytic reaction was studied in detail by means of quantum chemical calculations in model systems. The predictions from the quantum chemical calculations were then challenged by experiments. Consequently, Ser105 in CALB was targeted by site-directed mutagenesis to create enzyme variants lacking the nucleophilic feature of the active site. The experiments clearly showed an increased reaction \u2026",
+                "Lipase B from Candida antarctica was redesigned to catalyze the promiscuous reaction of carbon\u2212carbon bond formation. Mutation of the catalytic serine to alanine afforded a mutant that catalyzed Michael additions of 1,3-dicarbonyls to \u03b1,\u03b2-unsaturated carbonyl compounds at high specific rates, such as 4000 s-1. The enzyme-catalyzed Michael addition reaction followed saturation kinetics and showed substrate inhibition. The designed enzyme showed high rate enhancements with a catalytic proficiency higher than 108, which is on the same level as that observed for enzymes with native substrates. ",
+                "Transaminases (TAs) are one of the most promising biocatalysts in organic synthesis for the preparation of chiral amino compounds. The concise reaction, excellent enantioselectivity, environmental friendliness and compatibility with other enzymatic or chemical systems have brought TAs to the attention of scientists working in the area of biocatalysis. However, to utilize TAs in a more efficient and economical way, attempts have to be made to optimize their performance. The demand for various substrate specificities, stability under non-physiological conditions and higher conversions in reversible reactions have been targeted and investigated thoroughly. A number of both protein- and process-based strategies have been developed to improve TAs and systems involving TAs. Moreover, by combination with other enzymes in cascade reactions or even in more complex systems, so called synthetic biology and \u2026",
+                "Recent developments to modify enzymes for use in organic synthesis have targeted several areas. These include altering the reaction mechanism of the enzyme to catalyse new reactions, switching substrate specificity, expanding substrate specificity, and improving substrate specificity, such as enantioselectivity in kinetic resolutions. Such modifications can be achieved either by rational redesign, which requires knowledge of the enzyme structure, or by random mutagenesis methods followed by screening. Both strategies of enzyme engineering can be successful and are very useful for improving the utility of enzymes for applied catalysis. Several examples illustrating these concepts in a variety of enzyme classes have appeared recently.",
+                "Lipases are used frequently as chiral catalysts in the synthesis of various fine chemicals and intermediates. The increasing need of compounds with high stereochemical purity requires catalysts with an improved and controlled performance. This overview emphasizes some important aspects for the control of lipase enantioselectivity and some examples where the enantioselectivity has been altered or reversed are highlighted. However, in several of these cases the complete explanation for the altered or reversed enantioselectivity remains unclear and needs to be solved. Three different strategies (engineering of the reaction medium, the substrate molecule, and the enzyme) for exploring lipase enantioselectivity at a molecular level are discussed and summarized. These three different approaches represent powerful tools for understanding the molecular basis for lipase enantioselective catalysis and can guide the \u2026",
+                "Michael-type additions of various thiols and alpha, beta-unsaturated carbonyl compounds were performed in organic solvent catalyzed by wild-type and a rationally redesigned mutant of Candida antarctica lipase B. The mutant locks the nucleophilic serine 105 in the active-site; this results in a changed catalytic mechanism of the enzyme. The possibility of utilizing this mutant for Michael-type additions was initially explored by quantum-chemical calculations on the reaction between acrolein and methanethiol in a model system. The model system was constructed on the basis of docking and molecular-dynamics simulations and was designed to simulate the catalytic properties of the active site. The catalytic system was explored experimentally with a range of different substrates. The k (cat) values were found to be in the range of 10 (-3) to 4 min (-1), similar to the values obtained with aldolase antibodies. The enzyme proficiency was 10 (7). Furthermore, the Michael-type reactions followed saturation kinetics and were confirmed to take place in the enzyme active site.",
+                "In this review we analyse structure\/sequence\u2013function relationships for the superfamily of PLP-dependent enzymes with special emphasis on class III transaminases. Amine transaminases are highly important for applications in biocatalysis in the synthesis of chiral amines. In addition, other enzyme activities such as racemases or decarboxylases are also discussed. The substrate scope and the ability to accept chemically different types of substrates are shown to be reflected in conserved patterns of amino acids around the active site. These findings are condensed in a sequence\u2013function matrix, which facilitates annotation and identification of biocatalytically relevant enzymes and protein engineering thereof.",
+                "Enzymes are attractive catalysts because of their promiscuity and their ability to perform highly regio\u2010, chemo\u2010 and stereoselective transformations. Enzyme promiscuity allows optimisation of industrial processes that require reaction conditions different from those in nature. Many enzymes can be used in reactions completely different from the reaction the enzyme originally evolved to perform. Such catalytically promiscuous reactions can be secondary activities hidden behind a native activity and might be discovered either in screening for that particular activity or, alternatively, by chance. Recently, researchers have designed enzymes to show catalytic promiscuity. It is also possible to design new enzymes from scratch by computer modelling (de novo design), but most work published to date starts from a known enzyme backbone. Promiscuous activity might also be induced or enhanced by rational design or \u2026",
+                "Enantiopure chiral amines synthesis using \u03c9-transaminases is hindered by an unfavourable equilibrium, but when using isopropylamine as the amine donor the equilibrium can be completely displaced by using a specific dehydrogenase in situ for removal of formed acetone."
+            ],
+            [
+                [
+                    "Biocatalysis",
+                    "Enzyme engineering",
+                    "Enzyme promiscuity"
+                ]
+            ]
+        ]
+    ]
+}

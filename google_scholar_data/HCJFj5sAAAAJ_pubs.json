@@ -1,0 +1,114 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3
+    ],
+    "data":[
+        [
+            "A novel fuzzy-observer-design approach is presented for Takagi-Sugeno fuzzy models with unknown output disturbances. In order to decouple the unknown output disturbance, an augmented fuzzy descriptor model is constructed by supposing the disturbance to be an auxiliary state vector. A fuzzy state-space observer is next designed for the augmented fuzzy descriptor system, and the simultaneous estimates of the original state and disturbance are thus obtained. The proposed observer technique is further applied to estimate sensor faults. Finally, a numerical example is given to illustrate the design procedure, and the simulation results show the desired tracking performance. The pre knowledge of the disturbance and fault is not necessary for our design. Moreover, the considered disturbance and sensor fault can be in any form.",
+            "Fuzzy state\/disturbance observer design for T\u2013S fuzzy systems with application to sensor fault estimation",
+            "Zhiwei Gao and Xiaoyan Shi and Steven X Ding",
+            "2008",
+            "HCJFj5sAAAAJ:qjMakFHDy7sC",
+            206,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/4459082\/",
+            "15705134598684118716",
+            "\/scholar?cites=15705134598684118716",
+            {
+                "2008":2,
+                "2009":3,
+                "2010":11,
+                "2011":17,
+                "2012":20,
+                "2013":13,
+                "2014":15,
+                "2015":16,
+                "2016":24,
+                "2017":18,
+                "2018":24,
+                "2019":18,
+                "2020":19,
+                "2021":4
+            }
+        ],
+        [
+            "In the paper, a complete proof of the properness and mean-square exponential stability for stochastic Brownian systems is firstly addressed, which lays a solid foundation for system analysis and control synthesis for this kind of stochastic systems. Observer-based controller for the descriptor system with Brownian motions is then investigated. It is noticed that the system dynamics and observer dynamics are both subjected to state Brownian fluctuation, which makes it challenging either to design observer gain and controller gain simultaneously or design the observer and control gains by using a complete separation design technique. A sequential design technique is proposed to calculate the control and observer gains by solving linear matrix inequalities. The proposed design methods are readily extended to the case for stochastic descriptor systems with multiple Brownian motions. A numerical example is finally \u2026",
+            "Observer-based controller design for stochastic descriptor systems with Brownian motions",
+            "Zhiwei Gao and Xiaoyan Shi",
+            "2013",
+            "HCJFj5sAAAAJ:2osOgNQ5qMEC",
+            65,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S000510981300201X",
+            "14845910676161427985",
+            "\/scholar?cites=14845910676161427985",
+            {
+                "2014":4,
+                "2015":3,
+                "2016":13,
+                "2017":16,
+                "2018":11,
+                "2019":9,
+                "2020":9
+            }
+        ],
+        [
+            "In this paper, new observer design approaches are presented for Takagi-Sugeno (T-S) fuzzy models with measurement output noises. In order to decouple the measurement noise, an augmented fuzzy descriptor model is first constructed. Then a fuzzy descriptor proportional and derivative (PD) observer is developed. When the fuzzy subsystems have the same output matrices, another fuzzy descriptor observer is designed, which can be transformed into a normal fuzzy observer. Via the proposed two kinds of fuzzy observer design, the state and the output noise can be estimated at the same time. The simulation result shows the satisfactory tracking performance.",
+            "Observer design for TS fuzzy systems with measurement output noises",
+            "Zhiwei Gao and Xiaoyan Shi and Steven X Ding",
+            "2005",
+            "HCJFj5sAAAAJ:9yKSN-GCB0IC",
+            18,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S147466701637166X",
+            "12410576024472947033",
+            "\/scholar?cites=12410576024472947033",
+            {
+                "2006":2,
+                "2007":4,
+                "2008":1,
+                "2009":3,
+                "2010":1,
+                "2011":1,
+                "2012":1,
+                "2013":1,
+                "2014":1,
+                "2015":1,
+                "2016":1,
+                "2017":1
+            }
+        ],
+        [
+            "This paper deals with stability and filtering problem for a class of stochastic descriptor system. lto formula is applied to descriptor system and a sufficient condition of stochastic descriptor system stability is given. A filter is designed to guarantee that the dynamics of the estimation error is stochastically asymptotically stable.",
+            "Filtering for a class of stochastic descriptor systems",
+            "DWC Ho and XY Shi and ZD Wang and ZW Gao",
+            "2005",
+            "HCJFj5sAAAAJ:u-x6o8ySG0sC",
+            18,
+            "http:\/\/scholar.google.com\/scholar?cluster=4947777364007315820&hl=en&oi=scholarr",
+            "4947777364007315820",
+            "\/scholar?cites=4947777364007315820",
+            {
+                "2008":2,
+                "2009":2,
+                "2010":4,
+                "2011":4,
+                "2012":3,
+                "2013":2,
+                "2014":1
+            }
+        ]
+    ]
+}

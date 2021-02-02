@@ -1,0 +1,238 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "We demonstrate field-effect transistors using heterogeneously stacked two-dimensional materials for all of the components, including the semiconductor, insulator, and metal layers. Specifically, MoS2 is used as the active channel material, hexagonal-BN as the top-gate dielectric, and graphene as the source\/drain and the top-gate contacts. This transistor exhibits n-type behavior with an ON\/OFF current ratio of >106, and an electron mobility of \u223c33 cm2\/V\u00b7s. Uniquely, the mobility does not degrade at high gate voltages, presenting an important advantage over conventional Si transistors where enhanced surface roughness scattering severely reduces carrier mobilities at high gate-fields. A WSe2\u2013MoS2 diode with graphene contacts is also demonstrated. The diode exhibits excellent rectification behavior and a low reverse bias current, suggesting high quality interfaces between the stacked layers. In this work, all \u2026",
+            "Field-effect transistors built from all two-dimensional material components",
+            "Tania Roy and Mahmut Tosun and Jeong Seuk Kang and Angada B Sachid and Sujay B Desai and Mark Hettick and Chenming C Hu and Ali Javey",
+            "2014",
+            "tnpPPIIAAAAJ:Zph67rFs4hoC",
+            553,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/nn501723y",
+            "16721993221632247961",
+            "\/scholar?cites=16721993221632247961",
+            {
+                "2014":9,
+                "2015":67,
+                "2016":85,
+                "2017":89,
+                "2018":111,
+                "2019":102,
+                "2020":78,
+                "2021":11
+            }
+        ],
+        [
+            "Two-dimensional layered semiconductors present a promising material platform for band-to-band-tunneling devices given their homogeneous band edge steepness due to their atomically flat thickness. Here, we experimentally demonstrate interlayer band-to-band tunneling in vertical MoS2\/WSe2 van der Waals (vdW) heterostructures using a dual-gate device architecture. The electric potential and carrier concentration of MoS2 and WSe2 layers are independently controlled by the two symmetric gates. The same device can be gate modulated to behave as either an Esaki diode with negative differential resistance, a backward diode with large reverse bias tunneling current, or a forward rectifying diode with low reverse bias current. Notably, a high gate coupling efficiency of \u223c80% is obtained for tuning the interlayer band alignments, arising from weak electrostatic screening by the atomically thin layers. This work \u2026",
+            "Dual-Gated MoS2\/WSe2 van der Waals Tunnel Diodes and Transistors",
+            "Tania Roy and Mahmut Tosun and Xi Cao and Hui Fang and Der-Hsien Lien and Peida Zhao and Yu-Ze Chen and Yu-Lun Chueh and Jing Guo and Ali Javey",
+            "2015",
+            "tnpPPIIAAAAJ:_kc_bZDykSQC",
+            441,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/nn507278b",
+            "5837718095097185877",
+            "\/scholar?cites=5837718095097185877",
+            {
+                "2015":21,
+                "2016":55,
+                "2017":71,
+                "2018":113,
+                "2019":82,
+                "2020":91,
+                "2021":6
+            }
+        ],
+        [
+            "Two-dimensional materials present a versatile platform for developing steep transistors due to their uniform thickness and sharp band edges. We demonstrate 2D-2D tunneling in a WSe2\/SnSe2 van der Waals vertical heterojunction device, where WSe2 is used as the gate controlled p-layer and SnSe2 is the degenerately n-type layer. The van der Waals gap facilitates the regulation of band alignment at the heterojunction, without the necessity of a tunneling barrier. ZrO2 is used as the gate dielectric, allowing the scaling of gate oxide to improve device subthreshold swing. Efficient gate control and clean interfaces yield a subthreshold swing of \u223c100\u2009mV\/dec for >2 decades of drain current at room temperature, hitherto unobserved in 2D-2D tunneling devices. The subthreshold swing is independent of temperature, which is a clear signature of band-to-band tunneling at the heterojunction. A maximum switching ratio \u2026",
+            "2D-2D tunneling field-effect transistors using WSe2\/SnSe2 heterostructures",
+            "Tania Roy and Mahmut Tosun and Mark Hettick and Geun Ho Ahn and Chenming Hu and Ali Javey",
+            "2016",
+            "tnpPPIIAAAAJ:Wp0gIr-vW9MC",
+            206,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.4942647",
+            "18365655401047330301",
+            "\/scholar?cites=18365655401047330301",
+            {
+                "2016":14,
+                "2017":28,
+                "2018":56,
+                "2019":56,
+                "2020":48,
+                "2021":4
+            }
+        ],
+        [
+            "When light is incident on 2D transition metal dichalcogenides (TMDCs), it engages in multiple reflections within underlying substrates, producing interferences that lead to enhancement or attenuation of the incoming and outgoing strength of light. Here, we report a simple method to engineer the light outcoupling in semiconducting TMDCs by modulating their dielectric surroundings. We show that by modulating the thicknesses of underlying substrates and capping layers, the interference caused by substrate can significantly enhance the light absorption and emission of WSe2, resulting in a \u223c11 times increase in Raman signal and a \u223c30 times increase in the photoluminescence (PL) intensity of WSe2. On the basis of the interference model, we also propose a strategy to control the photonic and optoelectronic properties of thin-layer WSe2. This work demonstrates the utilization of outcoupling engineering in 2D \u2026",
+            "Engineering light outcoupling in 2D materials",
+            "Der-Hsien Lien and Jeong Seuk Kang and Matin Amani and Kevin Chen and Mahmut Tosun and Hsin-Ping Wang and Tania Roy and Michael S Eggleston and Ming C Wu and Madan Dubey and Si-Chen Lee and Jr-Hau He and Ali Javey",
+            "2015",
+            "tnpPPIIAAAAJ:4TOpqqG69KYC",
+            118,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/nl504632u",
+            "14716816717709627278",
+            "\/scholar?cites=14716816717709627278",
+            {
+                "2015":9,
+                "2016":22,
+                "2017":20,
+                "2018":24,
+                "2019":25,
+                "2020":16,
+                "2021":2
+            }
+        ],
+        [
+            "Transition metal dichalcogenides (TMDCs) have been extensively explored for applications in electronic and optoelectronic devices due to their unique material properties. However, the presence of large contact resistances is still a fundamental challenge in the field. In this work, we study defect engineering by using a mild plasma treatment (He or H2) as an approach to reduce the contact resistance to WSe2. Material characterization by X-ray photoelectron spectroscopy, photoluminescence, and Kelvin probe force microscopy confirm defect-induced n-doping, up to degenerate level, which is attributed to the creation of anion (Se) vacancies. The plasma treatment is adopted in the fabrication process flow of WSe2 n-type metal-oxide\u2013semiconductor field-effect transistors to selectively create anion vacancies at the metal contact regions. Due to lowering the metal contact resistance, improvements in the device \u2026",
+            "Air-Stable n-Doping of WSe2 by Anion Vacancy Formation with Mild Plasma Treatment",
+            "Mahmut Tosun and Leslie Chan and Matin Amani and Tania Roy and Geun Ho Ahn and Peyman Taheri and Carlo Carraro and Joel W Ager and Roya Maboudian and Ali Javey",
+            "2016",
+            "tnpPPIIAAAAJ:mVmsd5A6BfQC",
+            117,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acsnano.6b02521",
+            "2020479727129855978",
+            "\/scholar?cites=2020479727129855978",
+            {
+                "2017":17,
+                "2018":28,
+                "2019":30,
+                "2020":35,
+                "2021":7
+            }
+        ],
+        [
+            "2D materials have attracted considerable attention due to their exciting optical and electronic properties, and demonstrate immense potential for next\u2010generation solar cells and other optoelectronic devices. With the scaling trends in photovoltaics moving toward thinner active materials, the atomically thin bodies and high flexibility of 2D materials make them the obvious choice for integration with future\u2010generation photovoltaic technology. Not only can graphene, with its high transparency and conductivity, be used as the electrodes in solar cells, but also its ambipolar electrical transport enables it to serve as both the anode and the cathode. 2D materials beyond graphene, such as transition\u2010metal dichalcogenides, are direct\u2010bandgap semiconductors at the monolayer level, and they can be used as the active layer in ultrathin flexible solar cells. However, since no 2D material has been featured in the roadmap of \u2026",
+            "The Role of Graphene and Other 2D Materials in Solar Photovoltaics",
+            "Sonali Das and Deepak Pandey and Jayan Thomas and Tania Roy",
+            "2019",
+            "tnpPPIIAAAAJ:HDshCWvjkbEC",
+            103,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1002\/adma.201802722",
+            "16195408284529462077",
+            "\/scholar?cites=16195408284529462077",
+            {
+                "2018":2,
+                "2019":27,
+                "2020":61,
+                "2021":13
+            }
+        ],
+        [
+            "Degradation mechanisms limiting the electrical reliability of GaN high-electron-mobility transistors (HEMTs) are generally attributed to defect generation by hot-electrons but specific mechanisms for such processes have not been identified. Here we give a model for the generation of active defects by the release of hydrogen atoms that passivate pre-exisiting defects. We report first-principles density-functional calculations of several candidate point defects and their interaction with hydrogen in GaN, under different growth conditions. Candidate precursor point defects in device quality GaN are identified by correlating previously observed trap levels with calculated optical levels. We propose dehydrogenation of point defects as a generic physical mechanism for defect generation in HEMTs under hot-electron stress when the degradation is not spontaneously reversible. Dehydrogenation of point defects explains (1 \u2026",
+            "Dehydrogenation of defects and hot-electron degradation in GaN high-electron-mobility transistors",
+            "YS Puzyrev and T Roy and M Beck and BR Tuttle and RD Schrimpf and DM Fleetwood and ST Pantelides",
+            "2011",
+            "tnpPPIIAAAAJ:2osOgNQ5qMEC",
+            103,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.3524185",
+            "6968372357516717045",
+            "\/scholar?cites=6968372357516717045",
+            {
+                "2011":6,
+                "2012":4,
+                "2013":8,
+                "2014":3,
+                "2015":10,
+                "2016":14,
+                "2017":14,
+                "2018":19,
+                "2019":12,
+                "2020":11,
+                "2021":1
+            }
+        ],
+        [
+            "The 1.8-MeV proton radiation responses are compared for AlGaN\/GaN HEMTs grown under Ga-rich, N-rich, and NH 3 -rich conditions. The NH 3 -rich devices are more susceptible to proton irradiation than the Ga-rich and N-rich devices. The 1\/  f  noise of the devices increases with increasing fluence. Density functional theory calculations show that N vacancies and Ga-N divacancies lead to enhanced noise in these devices.",
+            "Process dependence of proton-induced degradation in GaN HEMTs",
+            "Tania Roy and En Xia Zhang and Yevgeniy S Puzyrev and Daniel M Fleetwood and Ronald D Schrimpf and Bo K Choi and Anthony B Hmelo and Sokrates T Pantelides",
+            "2010",
+            "tnpPPIIAAAAJ:qjMakFHDy7sC",
+            76,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/5621942\/",
+            "16115914517929806911",
+            "\/scholar?cites=16115914517929806911",
+            {
+                "2011":4,
+                "2012":2,
+                "2013":6,
+                "2014":4,
+                "2015":16,
+                "2016":10,
+                "2017":9,
+                "2018":10,
+                "2019":3,
+                "2020":11
+            }
+        ],
+        [
+            "Threshold-voltage shifts and increases in 1\/ f  noise are observed in proton-irradiated AlGaN\/GaN high-electron-mobility transistors, indicating defect-mediated device degradation. Quantum mechanical calculations demonstrate that low-energy recoils caused by particle interactions with defect complexes are more likely to occur than atomic displacements in a defect-free region of the crystal. We identify the responsible defects and their precursors in the defect-mediated displacement mechanism. The electronic properties of these defects are consistent with the increases in threshold voltage and 1\/ f  noise in proton irradiation experiments.",
+            "Radiation-induced defect evolution and electrical degradation of AlGaN\/GaN high-electron-mobility transistors",
+            "YS Puzyrev and T Roy and EX Zhang and DM Fleetwood and RD Schrimpf and ST Pantelides",
+            "2011",
+            "tnpPPIIAAAAJ:eQOLeE2rZwMC",
+            62,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6065780\/",
+            "8277718905373963863",
+            "\/scholar?cites=8277718905373963863",
+            {
+                "2013":6,
+                "2014":3,
+                "2015":14,
+                "2016":10,
+                "2017":8,
+                "2018":6,
+                "2019":5,
+                "2020":9
+            }
+        ],
+        [
+            "Single event charge collection mechanisms in 90 nm triple-well NMOS devices are explained and compared with those of dual-well devices. The primary factors affecting the single event pulse width in triple-well NMOSFETs are the separation of deposited charge due to the n-well, potential rise in the p-well followed by the injection of electrons into the p-well by the source, and removal of holes by the p-well contact. Design parameters of p-wells, such as contact area, doping depth and placement, are varied to reduce single event pulse widths. Pulse width decreases as the area of the p-well contacts increases, the p-well contacts become deeper, and the p-well contacts are placed more frequently. Increasing the p-well-n-well junction depth also causes the full width half rail (FWHR) pulse width to decrease.",
+            "Single event mechanisms in 90 nm triple-well CMOS devices",
+            "Tania Roy and AF Witulski and RD Schrimpf and ML Alles and LW Massengill",
+            "2008",
+            "tnpPPIIAAAAJ:d1gkVwhDpl0C",
+            60,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/4723805\/",
+            "14597680670931332064",
+            "\/scholar?cites=14597680670931332064",
+            {
+                "2008":1,
+                "2009":2,
+                "2010":1,
+                "2011":3,
+                "2012":7,
+                "2013":3,
+                "2014":8,
+                "2015":9,
+                "2016":7,
+                "2017":5,
+                "2018":6,
+                "2019":5,
+                "2020":1,
+                "2021":1
+            }
+        ]
+    ]
+}

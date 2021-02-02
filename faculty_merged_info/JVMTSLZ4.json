@@ -1,0 +1,38 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "JVMTSLZ4",
+            "naArOacAAAAJ",
+            [
+                "Adaptive temporal antialiasing",
+                "Introduction to DirectX Raytracing",
+                "Real-Time View Independent Rasterization for Multi-View Rendering.",
+                "View-warped Multi-view Soft Shadows for Local Area Lights"
+            ],
+            [
+                "We introduce a pragmatic algorithm for real-time adaptive super-sampling in games. It extends temporal antialiasing of rasterized images with adaptive ray tracing, and conforms to the constraints of a commercial game engine and today's GPU ray tracing APIs. The algorithm removes blurring and ghosting artifacts associated with standard temporal antialiasing and achieves quality approaching 8x supersampling of geometry, shading, and materials while staying within the 33ms frame budget required of most games.",
+                "Modern graphics APIs such as DirectX 12 expose low-level hardware access and control to developers, often resulting in complex and verbose code that can be intimidating for novices. In this chapter, we hope to demystify the steps to set up and use DirectX for ray tracing.",
+                "Existing graphics hardware parallelizes view generation poorly, placing many multi-view effects\u2013such as soft shadows, defocus blur, and reflections\u2013out of reach for real-time applications. We present emerging solutions that address this problem using a high density point set tailored per frame to the current multi-view configuration, coupled with relatively simple reconstruction kernels. Points are a more flexible rendering primitive, which we leverage to render many high resolution views in parallel. Preliminary results show our approach accelerates point generation and the rendering of multi-view soft shadows up to 9\u00d7.",
+                "Rendering soft shadows cast by dynamic objects in real time with few visual artifacts is challenging to achieve. We introduce a new algorithm for local light sources that exhibits fewer artifacts than fast single-view approximations and is faster than high-quality multiview solutions. Inspired by layered depth images, image warping, and point-based rendering, our algorithm traverses complex occluder geometry once and creates an optimized multiview point cloud as a proxy. We then render many depth maps simultaneously on graphics hardware using GPU Compute. By significantly reducing the time spent producing depth maps, our solution presents a new alternative for applications that cannot yet afford the most accurate methods, but that strive for higher quality shadows than possible with common approximations."
+            ],
+            [
+                [
+                    "Computer Graphics",
+                    "Ray Tracing",
+                    "Global Illumination",
+                    "GPU"
+                ]
+            ]
+        ]
+    ]
+}

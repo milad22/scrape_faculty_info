@@ -1,0 +1,64 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "U2L_hSAAAAAJ",
+            "Ulrich Roos",
+            "Akademischer Rat, Institute for Social Sciences, University Augsburg, Germany",
+            "@phil.uni-augsburg.de",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=U2L_hSAAAAAJ",
+            431,
+            [
+
+            ],
+            231,
+            11,
+            9,
+            11,
+            8,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"tzLNMJcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gunther Hellmann",
+                    "affiliation":"Goethe University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"0sdYB3AAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Timo Seidl",
+                    "affiliation":"European University Institute"
+                }
+            ]
+        ]
+    ]
+}

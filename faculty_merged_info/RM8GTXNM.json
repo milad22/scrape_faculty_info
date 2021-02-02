@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "RM8GTXNM",
+            "-fWRZWAAAAAJ",
+            [
+                "Time-frequency analysis",
+                "Time-frequency distributions-a review",
+                "Generalized phase-space distribution functions",
+                "Time-frequency analysis",
+                "The scale representation",
+                "A numerical integration scheme for the N-body gravitational problem",
+                "Positive time-frequency distribution functions",
+                "Hierarchy equations for reduced density matrices",
+                "Monte Carlo simulation of anomalous transit-time dispersion of amorphous solids",
+                "Instantaneous frequency, its standard deviation and multicomponent signals"
+            ],
+            [
+                "Changing frequencies is one of the most primitive sensations since we are sur-rounded by light of changing color, by sounds of varying pitch, and by many other phenomena whose periodicities change in time. A sunset is dramatic because of the colors and the change in colors. The aim of time-frequency analysis is to describe how the frequency or spectral content of a signal evolves and to develop the physical and mathematical ideas needed to understand what a time-varying spectrum is. The attempt to represent a signal simultaneously in time and frequency is full of challenges, both physical and mathematical, and I hope this book conveys the fascination and elegance the subject holds for me. My aim is to give a simple exposition of the physical ideas and origins, motiva-tions, methods, underpinnings, and scaffolding of the field. I have attempted to be clear on questions of what is known, what is not known, what is speculation, and the limitations of our current knowledge. I never understood or learned unless I saw simple examples illustrating the ideas introduced. Naturally, I assume everyone else is like me. So, whenever possible, I illustrate each point with examples.The basic ideas and methods that have been developed are readily understood by the uninitiated; the book is self-contained. The mathematicsis elementary, with the possible exception of the last few chapters. There is an attitude these days that one should use from the beginning the most\" sophisticated\" mathematics. The rea-son generally given is that the sophisticated mathematics has to be learned even-tually. I have attempted to do everything with the simplest of \u2026",
+                "A review and tutorial of the fundamental ideas and methods of joint time-frequency distributions is presented. The objective of the field is to describe how the spectral content of a signal changes in time and to develop the physical and mathematical ideas needed to understand what a time-varying spectrum is. The basic gal is to devise a distribution that represents the energy or intensity of a signal simultaneously in time and frequency. Although the basic notions have been developing steadily over the last 40 years, there have recently been significant advances. This review is intended to be understandable to the nonspecialist with emphasis on the diversity of concepts and motivations that have gone into the formation of the field.< >",
+                "A set of quasi-probability distribution functions which give the correct quantum mechanical marginal distributions of position and momentum is studied. The phase-space distribution does not have to be bilinear in the state function. The Wigner distribution is a special case. A general relationship between the phase-space distribution functions and the rule of associating classical quantities to quantum mechanical operators is derived. This allows the writing of correspondence rules at will, of which the ones presently known are particular cases. The dynamics and other properties of the generalized phase-space distribution are considered.",
+                "We present a general method for calculating relevant moments of the wavelet transform. Explicit results are given for the time, frequency, and scale moments. Using the results obtained, we show that the wavelet transform has unique characteristics that are not possessed by other methods. We discuss whether these unusual characteristics are physically or mathematically important. Exactly solvable examples are given, and the results are contrasted to those of the standard methods such as the spectrogram and the Wigner distribution.",
+                "The authors considers \"scale\" a physical attribute of a signal and develop its properties. He presents an operator which represents scale and study its characteristics and representation. This allows one to define the scale transform and the energy scale density spectrum which is an indication of the intensity of scale values in a signal. He obtains explicit expressions for the mean scale, scale bandwidth, instantaneous scale, and scale group delay. Furthermore, he derives expressions for mean time, mean frequency, duration, frequency bandwidth in terms of the scale variable. The short-time transform is defined and used to obtain the conditional value of scale for a given time. He shows that as the windows narrows one obtains instantaneous scale. Convolution and correlation theorems for scale are derived. A formulation is devised for studying linear scale-invariant systems. He derives joint representations of time \u2026",
+                "A method for numerically integrating the N-body gravitational problem is described. We take advantage of the fact that the force on a star can be divided into two parts which operate on different time scales. One part is due to the stars in the immediate vicinity of the star in question and another part due to the distant stars. The part of the force due to the far away stars changes much more slowly than the component due to the nearby stars. Hence that part of the force does not have to be recalculated as frequently as that due to the nearby stars. For systems with large N, most of the stars constitute the \u201cdistant\u201d stars and the considerable saving of computing time allows us to integrate systems with up to 1000 particles.",
+                "We demonstrate the existence of positive joint distributions of time and frequency for arbitrary signals. A method is given to readily generate an infinite number of them for any signal. General properties of these distribution functions are derived and specific examples for some common signals are presented.",
+                "Starting with Schr\u00f6dinger's time-independent equation for N indistinguishable particles, an exact equation is derived for the reduced density matrix of order s, \u03c1 s. The equation contains terms dependent on \u03c1 s+ 1 and \u03c1 s+ 2. The Hartree-Fock equation is derived, without recourse to the variational method, by assuming that \u03c1 2 and \u03c1 3 are particular functionals of \u03c1 1.",
+                "Simple Monte Carlo multiple-trapping model simulations of the observed anomalous transit-time dispersion have been made. The model employs multiple trapping from an exponential distribution. Our results simulate the features of the experimental observations as well as provide a rational explanation for the transition from nondispersive to dispersive transients as a function of temperature. Comparisons with recent results in a\u2212 Se show excellent agreement.",
+                "We consider instantaneous frequency and its variance using the bilinear joint time-frequency distribu-tions. It is well known that these distributions give the instantaneous frequency as the time derivative of the phase. We show that they also lead to a reasonable definition for the standard deviation of instantaneous frequency, namely \u03c3w2(t) )= ((A'(t))\/(A(t)))2 where A(t) is the amplitude of the signal. We demonstrate the relationship with the bandwidth of the spectrum. We also derive the corresponding quantities for the short-time Fourier spectrum and show the relation to and consistency with the above definition. The concept of local spread of frequencies is used to define and clarify the meaning of multicomponent signals. It is argued that the breaking up of a signal into components is a local phenomenon and that the criteria for a meaningful decomposition is that the standard deviations of instantaneous frequency of \u2026"
+            ],
+            [
+                [
+                    "Quantum Mechanics",
+                    "Signal Analysis",
+                    "Noise theory",
+                    "Applied Mathematics",
+                    "Wave Propagation"
+                ]
+            ]
+        ]
+    ]
+}

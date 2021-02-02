@@ -1,0 +1,139 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "AXHR1g8AAAAJ",
+            "Xiao-Liang Shen",
+            "Wuhan University",
+            "@whu.edu.cn",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=AXHR1g8AAAAJ",
+            2048,
+            [
+                "IT Adoption & Diffusion",
+                "Social Media",
+                "Electronic Commerce",
+                "Knowledge Management"
+            ],
+            1772,
+            22,
+            20,
+            30,
+            26,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"XaysQM0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yongqiang Sun",
+                    "affiliation":"Wuhan University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"_XD7R64AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Nan Wang",
+                    "affiliation":"Wuhan University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"8U7hUbwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Christy M K Cheung",
+                    "affiliation":"Hong Kong Baptist University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"4zgmSlkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Matthew K O Lee",
+                    "affiliation":"City University of Hong Kong"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Cgl2JKEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kem Zhang",
+                    "affiliation":"Lakehead University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"DkDWxQEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tommy K.H. Chan",
+                    "affiliation":"Northumbria University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"5wBFghAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Zach W. Y. LEE",
+                    "affiliation":"Durham University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"qCutSb0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Shan Liu",
+                    "affiliation":"Xi'an Jiaotong University"
+                }
+            ]
+        ]
+    ]
+}

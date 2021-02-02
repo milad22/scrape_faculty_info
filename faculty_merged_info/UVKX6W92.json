@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "UVKX6W92",
+            "mCjNN7kAAAAJ",
+            [
+                "A new chaotic attractor coined",
+                "Bridge the gap between the Lorenz system and the Chen system",
+                "A time-varying complex dynamical network model and its controlled synchronization criteria",
+                "On pinning synchronization of complex dynamical networks",
+                "Adaptive synchronization of an uncertain complex dynamical network",
+                "Stability analysis of linear fractional differential system with multiple time delays",
+                "Pinning adaptive synchronization of a general complex dynamical network",
+                "Synchronization of an uncertain unified chaotic system via adaptive control",
+                "Generating hyperchaotic L\u00fc attractor via state feedback control",
+                "Characterizing the synchronizability of small-world dynamical networks"
+            ],
+            [
+                "This letter reports the finding of a new chaotic attractor in a simple three-dimensional autonomous system,  which connects the Lorenz attractor and Chen's attractor  and represents the transition from one to the other.",
+                "This paper introduces a unified chaotic system that contains the Lorenz and  the Chen systems as two dual systems at the two extremes of its parameter  spectrum. The new system represents the continued transition from the Lorenz  to the Chen system and is chaotic over the entire spectrum of the key system  parameter. Dynamical behaviors of the unified system are investigated in somewhat detail.",
+                "Today, complex networks have attracted increasing attention from various fields of science and engineering. It has been demonstrated that many complex networks display various synchronization phenomena. In this note, we introduce a time-varying complex dynamical network model. We then further investigate its synchronization phenomenon and prove several network synchronization theorems. Especially, we show that synchronization of such a time-varying dynamical network is completely determined by the inner-coupling matrix, and by the eigenvalues and the corresponding eigenvectors of the coupling configuration matrix of the network.",
+                "There exist some fundamental and yet challenging problems in pinning control of complex networks: (1) What types of pinning schemes may be chosen for a given complex network to realize synchronization? (2) What kinds of controllers may be designed to ensure the network synchronization? (3) How large should the coupling strength be used in a given complex network to achieve synchronization? This paper addresses these technique questions. Surprisingly, it is found that a network under a typical framework can realize synchronization subject to any linear feedback pinning scheme by using adaptive tuning of the coupling strength. In addition, it is found that the nodes with low degrees should be pinned first when the coupling strength is small, which is contrary to the common view that the most-highly-connected nodes should be pinned first. Furthermore, it is interesting to find that the derived pinning \u2026",
+                "This note further investigates the locally and globally adaptive synchronization of an uncertain complex dynamical network. Several network synchronization criteria are deduced. Especially, our hypotheses and designed adaptive controllers for network synchronization are rather simple in form. It is very useful for future practical engineering design. Moreover, numerical simulations are also given to show the effectiveness of our synchronization approaches.",
+                "In this paper, we study the stability of n-dimensional linear fractional differential equation with time delays, where the delay matrix is defined in (R +)n\u00d7n. By using the Laplace transform, we introduce a characteristic equation for the above system with multiple time delays. We discover that if all roots of the characteristic equation have negative parts, then the equilibrium of the above linear system with fractional order is Lyapunov globally asymptotical stable if the equilibrium exist that is almost the same as that of classical differential equations. As its an application, we apply our theorem to the delayed system in one spatial dimension studied by Chen and Moore [Nonlinear Dynamics 29, 2002, 191] and determine the asymptotically stable region of the system. We also deal with synchronization between the coupled Duffing oscillators with time delays by the linear feedback control method and \u2026",
+                "There are two challenging fundamental questions in pinning control of complex networks: (i) How many nodes should a network with fixed network structure and coupling strength be pinned to reach network synchronization? (ii) How much coupling strength should a network with fixed network structure and pinning nodes be applied to realize network synchronization? To fix these two questions, we propose a general complex dynamical network model and then further investigate its pinning adaptive synchronization. Based on this model, we attain several novel adaptive synchronization criteria which indeed give the positive answers to these two questions. That is, we provide a simply approximate formula for estimating the detailed number of pinning nodes and the magnitude of the coupling strength for a given general complex dynamical network. Here, the coupling-configuration matrix and the inner-coupling \u2026",
+                "A new adaptive control method is proposed for adaptive synchronization of two uncertain chaotic systems, using a specific uncertain unified chaotic model as an example for illustration.",
+                "This paper constructs a new hyperchaotic system based on L\u00fc system by using a state feedback controller. The detailed dynamical behaviors of this hyperchaotic system are further investigated, including Lyapunov exponents spectrum, bifurcation, and Poincar\u00e9 mapping. Moreover, a novel circuit diagram is designed for verifying the hyperchaotic behaviors and some experimental observations are also given.",
+                "Many real-world complex networks display a small-world feature-a high degree of clustering and a small average distance. We show that the maximum synchronizability of a network is completely determined by its associated feedback system, which has a precise meaning in terms of synchronous communication. We introduce a new concept of synchronizability matrix to characterize the maximum synchronizability of a network. Several new concepts, such as sensitive edge and robust edge, are proposed for analyzing the robustness and fragility of synchronization of a network. Using the knowledge of synchronizability, we can purposefully increase the robustness of the network synchronization and prevent it from attacks. Some applications in small-world networks are also discussed briefly."
+            ],
+            [
+                [
+                    "Multi-agent systems",
+                    "nonlinear circuits and systems",
+                    "dynamics and control",
+                    "networked control systems",
+                    "applied mathematics"
+                ]
+            ]
+        ]
+    ]
+}

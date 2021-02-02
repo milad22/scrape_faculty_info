@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "DKMJ8QHD",
+            "SYt4Ru8AAAAJ",
+            [
+                "Irreversible Monte Carlo algorithms for efficient sampling",
+                "Quantum lithography by coherent control of classical light pulses",
+                "Lifting\u2014a nonreversible Markov chain Monte Carlo algorithm",
+                "Mutations in Cas9 enhance the rate of acquisition of viral spacer sequences during the CRISPR-Cas immune response",
+                "Non-equilibrium physics and evolution\u2014adaptation, extinction, and ecology: a Key Issues review",
+                "Emergence of clones in sexual populations",
+                "Inertial particles driven by a telegraph noise",
+                "Mpemba index and anomalous relaxation",
+                "Clustering of matter in waves and currents",
+                "Dynamics of adaptive immunity against phage in bacterial populations"
+            ],
+            [
+                "Equilibrium systems evolve according to Detailed Balance (DB). This principle guided the development of Monte Carlo sampling techniques, of which the Metropolis\u2013Hastings (MH) algorithm is the famous representative. It is also known that DB is sufficient but not necessary. We construct irreversible deformation of a given reversible algorithm capable of dramatic improvement of sampling from known distribution. Our transformation modifies transition rates keeping the structure of transitions intact. To illustrate the general scheme we design an Irreversible version of Metropolis\u2013Hastings (IMH) and test it on an example of a spin cluster. Standard MH for the model suffers from critical slowdown, while IMH is free from critical slowdown.",
+                "The smallest spot in optical lithography and microscopy is generally limited by diffraction. Quantum lithography, which utilizes interference between groups of N entangled photons, was recently proposed to beat the diffraction limit by a factor N. Here we propose a simple method to obtain N photons interference with classical pulses that excite a narrow multiphoton transition, thus shifting the \"quantum weight\" from the electromagnetic field to the lithographic material. We show how a practical complete lithographic scheme can be developed and demonstrate the underlying principles experimentally by two-photon interference in atomic Rubidium, to obtain focal spots that beat the diffraction limit by a factor of 2.",
+                "Markov chain Monte Carlo algorithms are invaluable tools for exploring stationary properties of physical systems, especially in situations where direct sampling is unfeasible. Common implementations of Monte Carlo algorithms employ reversible Markov chains. Reversible chains obey detailed balance and thus ensure that the system will eventually relax to equilibrium, though detailed balance is not necessary for convergence to equilibrium. We review nonreversible Markov chains, which violate detailed balance and yet still relax to a given target stationary distribution. In particular cases, nonreversible Markov chains are substantially better at sampling than the conventional reversible Markov chains with up to a square root improvement in the convergence time to the steady state. One kind of nonreversible Markov chain is constructed from the reversible ones by enlarging the state space and by modifying and \u2026",
+                "CRISPR loci and their associated (Cas) proteins encode a prokaryotic immune system that protects against viruses and plasmids. Upon infection, a low fraction of cells acquire short DNA sequences from the invader. These sequences (spacers) are integrated in between the repeats of the CRISPR locus and immunize the host against the matching invader. Spacers specify the targets of the CRISPR immune response through transcription into short RNA guides that direct Cas nucleases to the invading DNA molecules. Here we performed random mutagenesis of the RNA-guided Cas9 nuclease to look for variants that provide enhanced immunity against viral infection. We identified a mutation, I473F, that increases the rate of spacer acquisition by more than two orders of magnitude. Our results highlight the role of Cas9 during CRISPR immunization and provide a useful tool to study this rare process and develop it as \u2026",
+                "Evolutionary dynamics in nature constitute an immensely complex non-equilibrium process. We review the application of physical models of evolution, by focusing on adaptation, extinction, and ecology. In each case, we examine key concepts by working through examples. Adaptation is discussed in the context of bacterial evolution, with a view toward the relationship between growth rates, mutation rates, selection strength, and environmental changes. Extinction dynamics for an isolated population are reviewed, with emphasis on the relation between timescales of extinction, population size, and temporally correlated noise. Ecological models are discussed by focusing on the effect of spatial interspecies interactions on diversity. Connections between physical processes\u2014such as diffusion, turbulence, and localization\u2014and evolutionary phenomena are highlighted.",
+                "In sexual population, recombination reshuffles genetic variation and produces novel combinations of existing alleles, while selection amplifies the fittest genotypes in the population. If recombination is more rapid than selection, populations consist of a diverse mixture of many genotypes, as is observed in many populations. In the opposite regime, which is realized for example in the facultatively sexual populations that outcross in only a fraction of reproductive cycles, selection can amplify individual genotypes into large clones. Such clones emerge when the fitness advantage of some of the genotypes is large enough that they grow to a significant fraction of the population despite being broken down by recombination. The occurrence of this' clonal condensation'depends, in addition to the outcrossing rate, on the heritability of fitness. Clonal condensation leads to a strong genetic heterogeneity of the population which \u2026",
+                "We present a model for the Lagrangian dynamics of inertial particles in a compressible flow, where fluid velocity gradients are modeled by a telegraph noise. The model allows for an analytic investigation of the role of time correlation of the flow in the aggregation-disorder transition of inertial particles. The dependence on the Stokes number St and the Kubo number Ku of the Lyapunov exponent of particle trajectories reveals the presence of a region in parameter space (St, Ku), where the leading Lyapunov exponent changes sign, thus signaling the transition. The asymptotics of short-and long-correlated flows are discussed, as well as the fluid-tracer limit.",
+                "The Mpemba effect is a counterintuitive relaxation phenomenon, where a system prepared at a hot temperature cools down faster than an identical system initiated at a cold temperature when both are quenched to an even colder bath. Such nonmonotonic relaxations are observed in various systems, including water, magnetic alloys, polymers, and driven granular gases. We analyze the Mpemba effect in Markovian dynamics and discover that a stronger version of the effect often exists for a carefully chosen set of initial temperatures. In this strong Mpemba effect, the relaxation time jumps to a smaller value leading to exponentially faster equilibration dynamics. The number of such special initial temperatures defines the Mpemba index, whose parity is a topological property of the system. To demonstrate these concepts, we first analyze the different types of Mpemba relaxations in the mean-field antiferromagnetic Ising \u2026",
+                "The growth rate of small-scale density inhomogeneities (the entropy production rate) is given by the sum of the Lyapunov exponents in a random flow. We derive an analytic formula for the rate in a flow of weakly interacting waves and show that in most cases it is zero up to the fourth order in the wave amplitude. We then derive an analytic formula for the rate in a flow of waves and currents. Estimates of the rate and the fractal dimension of the density distribution show that the interplay between waves and currents is a realistic mechanism for providing patchiness of the pollutant distribution on the ocean surface.",
+                "The CRISPR (clustered regularly interspaced short palindromic repeats) mechanism allows bacteria to adaptively defend against phages by acquiring short genomic sequences (spacers) that target specific sequences in the viral genome. We propose a population dynamical model where immunity can be both acquired and lost. The model predicts regimes where bacterial and phage populations can co-exist, others where the populations exhibit damped oscillations, and still others where one population is driven to extinction. Our model considers two key parameters: (1) ease of acquisition and (2) spacer effectiveness in conferring immunity. Analytical calculations and numerical simulations show that if spacers differ mainly in ease of acquisition, or if the probability of acquiring them is sufficiently high, bacteria develop a diverse population of spacers. On the other hand, if spacers differ mainly in their effectiveness, their final distribution will be highly peaked, akin to a \u201cwinner-take-all\u201d scenario, leading to a specialized spacer distribution. Bacteria can interpolate between these limiting behaviors by actively tuning their overall acquisition probability."
+            ],
+            [
+                [
+                    "statistical physics",
+                    "soft-condensed matter",
+                    "biophysics",
+                    "turbulence"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "BVA2RWRO",
+            "FjZSRRMAAAAJ",
+            [
+                "Hybrid Pre-processing Technique for Handling Imbalanced Data and Detecting Outliers for KNN Classifier",
+                "A novel technique: ensemble hybrid 1NN model using stacking approach"
+            ],
+            [
+                "Data mining is a technique of examining huge quanta of pre-existing data in order to discover new patterns and relationships among them, which will help to make better decisions. Classification is a data mining technique which organises data into categories. In this paper, in order to enhance the performance of k nearest neighbour (kNN) classifier-a kind of classification technique that is among the most widely used-a new data pre-processing technique has been proposed, which can handle some classification issues such as imbalanced data and outliers. In an imbalanced dataset, the classification categories are not equally distributed. Imbalanced dataset have an inherent issue when it comes to using classifiers on them that have been developed using machine learning algorithms. The basic nature of these algorithms is to reduce errors without relying on balance of classes. Another issue addressed in this \u2026",
+                "This paper proposes a novel hybrid classification model which has enhanced the performance of the standard kNN (k = 1) classification model significantly. In this study by the means of ensemble stacking approach kNN classification model and rotation forest classification model are hybridized as base classifiers and simple logistic classifier as the meta classification model. The performance of this proposed hybrid model was assessed using Accuracy and FMeasure. The model was compared with standard kNN and nine other classification models. The results showed that the proposed hybrid model has notably high performance than the other models."
+            ],
+            [
+                [
+                    "Data mining"
+                ]
+            ]
+        ]
+    ]
+}

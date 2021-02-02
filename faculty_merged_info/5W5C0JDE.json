@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "5W5C0JDE",
+            "5ZMeAxoAAAAJ",
+            [
+                "Support vector regression machines",
+                "A statistical model for positron emission tomography",
+                "An updated set of basic linear algebra subprograms (BLAS)",
+                "Reorthogonalization and stable algorithms for updating the Gram-Schmidt \ud835\udc44\ud835\udc45 factorization",
+                "Some stable methods for calculating inertia and solving symmetric linear systems",
+                "Implementing and accelerating the EM algorithm for positron emission tomography",
+                "A variable projection method for solving separable nonlinear least squares problems",
+                "Maximum likelihood, least squares, and penalized least squares for PET",
+                "Solving the quadratic programming problem arising in support vector classification",
+                "Decomposition of a symmetric matrix"
+            ],
+            [
+                "A new regression technique based on Vapnik's concept of support vectors is introduced. We compare support vector regression (SVR) with a committee regression technique (bagging) based on regression trees and ridge regression done in feature space. On the basis of these experiments, it is expected that SVR will have advantages in high dimensionality space because SVR optimization does not depend on the dimensionality of the input space.",
+                "Positron emission tomography (PET)\u2014still in its research stages\u2014is a technique that promises to open new medical frontiers by enabling physicians to study the metabolic activity of the body in a pictorial manner. Much as in X-ray transmission tomography and other modes of computerized tomography, the quality of the reconstructed image in PET is very sensitive to the mathematical algorithm to be used for reconstruction. In this article, we tailor a mathematical model to the physics of positron emissions, and we use the model to describe the basic image reconstruction problem of PET as a standard problem in statistical estimation from incomplete data. We describe various estimation procedures, such as the maximum likelihood (ML) method (using the EM algorithm), the method of moments, and the least squares method. A computer simulation of a PET experiment is then used to demonstrate the ML and the least \u2026",
+                "Numerical linear algebra, particularly the solution of linear systems of equations, linear least squares problems, eigenvalue problems and singular value",
+                "Numerically stable algorithms are given for updating the Gram-Schmidt QR factorization of an  matrix  when A is modified by a matrix of rank one, or when a row or column is inserted or deleted. The algorithms require  operations per update, and are based on the use of elementary two-by-two reflection matrices and the Gram-Schmidt process with reorthogonalization. An error analysis of the reorthogonalization process provides rigorous justification for the corresponding ALGOL procedures.",
+                "Several decompositions of symmetric matrices for calculating inertia and solving systems of linear equations are discussed. New partial pivoting strategies for decomposing symmetric matrices are introduced and analyzed.",
+                "Since the publication of Shepp and Vadi's [ 14] maximum likelihood reconstruction algorithm for emission tomography (ET), many medical research centers engaged in ET have made an effort to change their reconstruction algorithms to this new approach. Some have succeeded, while others claim they could not adopt this new approach primarily because of limited computing power. In this paper, we discuss techniques for reducing the computational requirements of the reconstruction algorithm. Specifically, the paper discusses the data structures one might use and ways of taking advantage of the geometry of the physical system. The paper also treats some of the numerical aspects of the EM (expectation maximization) algorithm, and ways of speeding up the numerical algorithm using some of the traditional techniques of numerical analysis.",
+                "Consider the separable nonlinear least squares problem of findinga \u03b5R  n  and \u03b1 \u03b5R  k  which, for given data (y  i ,t  i ),i=1,2,...m, and functions \u03d5 j (\u03b1,t),j=1,2,...,n(m>n), minimize the functional   where \u03b8(\u03b1) ij =\u03d5 j (\u03b1,t  i ). Golub and Pereyra have shown that this problem can be reduced to a nonlinear least squares problem involving\u03b1 only, and a linear least squares problem involvinga only. In this paper we propose a new method for determining the optimal\u03b1 which computationally has proved more efficient than the Golub-Pereyra scheme.",
+                "The EM algorithm is the basic approach used to maximize the log likelihood objective function for the reconstruction problem in positron emission tomography (PET). The EM algorithm is a scaled steepest ascent algorithm that elegantly handles the nonnegativity constraints of the problem. It is shown that the same scaled steepest descent algorithm can be applied to the least squares merit function, and that it can be accelerated using the conjugate gradient approach. The experiments suggest that one can cut the computation by about a factor of 3 by using this technique. The results are applied to various penalized least squares functions which might be used to produce a smoother image.< >",
+                "In machine learning one is given\u2019training\u2019vectors xi, i= 1,..., l of length N and integers ai, i= 1,..., l. which suggest that data xi is supposed to be associated with class ai. From this data one is supposed to create a mechanism by which one can determine for any given data item of length N which class it is in. As shown in Vapnik [12] central to the support vector technique is a matrix Q where qi, j is a function of xi and xj and essentially defines the surface that separates the classes. For class m define the vector y as follows yi=",
+                "An algorithm is presented to compute a triangular factorization and the inertia of a symmetric matrix. The algorithm is stable even when the matrix is not positive definite and is as fast as Cholesky. Programs for solving associated systems of linear equations are included."
+            ],
+            [
+                [
+                    "scientific computing"
+                ]
+            ]
+        ]
+    ]
+}

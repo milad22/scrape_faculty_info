@@ -1,0 +1,39 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "A64NQVO5",
+            "_MHaph0AAAAJ",
+            [
+                "Photonic crystals",
+                "The design and implementation of FFTW3",
+                "Block-iterative frequency-domain methods for Maxwell\u2019s equations in a planewave basis",
+                "MEEP: A flexible free-software package for electromagnetic simulations by the FDTD method",
+                "FFTW: An adaptive software architecture for the FFT",
+                "Guided modes in photonic crystal slabs"
+            ],
+            [
+                "A new class of composite materials has emerged which provides a means to control and manipulate light. These materials, known as photonic crystals, are periodic arrays of dielectric scatteres in homogeneous dielectric matrices. They affect the properties of photons in much the same way a semiconductor affects the properties of an electron. Consequently, photons can have band structures, localized defect states, surface states, etc. The ability to mold and guide light will lead to many applications in the control of spontaneous emission and in the fabrication of novel optoelectronic devices.",
+                "FFTW is an implementation of the discrete Fourier transform (DFT) that adapts to the hardware in order to maximize performance. This paper shows that such an approach can yield an implementation that is competitive with hand-optimized libraries, and describes the software structure that makes our current FFTW3 version flexible and adaptive. We further discuss a new algorithm for real-data DFTs of prime size, a new way of implementing DFTs by means of machine-specific single-instruction, multiple-data (SIMD) instructions, and how a special-purpose compiler can derive optimized implementations of the discrete cosine and sine transforms automatically from a DFT algorithm.",
+                "We describe a fully-vectorial, three-dimensional algorithm to compute the definite-frequency eigenstates of Maxwell's equations in arbitrary periodic dielectric structures, including systems with anisotropy (birefringence) or magnetic materials, using preconditioned block-iterative eigensolvers in a planewave basis. Favorable scaling with the system size and the number of computed bands is exhibited. We propose a new effective dielectric tensor for anisotropic structures, and demonstrate that O Delta x^2 convergence can be achieved even in systems with sharp material discontinuities. We show how it is possible to solve for interior eigenvalues, such as localized defect modes, without computing the many underlying eigenstates. Preconditioned conjugate-gradient Rayleigh-quotient minimization is compared with the Davidson method for eigensolution, and a number of iteration variants and preconditioners are \u2026",
+                "This paper describes Meep, a popular free implementation of the finite-difference time-domain (FDTD) method for simulating electromagnetism. In particular, we focus on aspects of implementing a full-featured FDTD package that go beyond standard textbook descriptions of the algorithm, or ways in which Meep differs from typical FDTD implementations. These include pervasive interpolation and accurate modeling of subpixel features, advanced signal processing, support for nonlinear materials via Pad\u00e9 approximants, and flexible scripting capabilities.Program title: MeepCatalogue identifier: AEFU_v1_0Program summary URL:: http:\/\/cpc.cs.qub.ac.uk\/summaries\/AEFU_v1_0.htmlProgram obtainable from: CPC Program Library, Queen's University, Belfast, N. IrelandLicensing provisions: GNU GPLNo. of lines in distributed program, including test data, etc.: 151\u2009821No. of bytes in distributed \u2026",
+                "FFT literature has been mostly concerned with minimizing the number of floating-point operations performed by an algorithm. Unfortunately, on present-day microprocessors this measure is far less important than it used to be, and interactions with the processor pipeline and the memory hierarchy have a larger impact on performance. Consequently, one must know the details of a computer architecture in order to design a fast algorithm. In this paper, we propose an adaptive FFT program that tunes the computation automatically for any particular hardware. We compared our program, called FFTW, with over 40 implementations of the FFT on 7 machines. Our tests show that FFTW's self-optimizing approach usually yields significantly better performance than all other publicly available software. FFTW also compares favorably with machine-specific, vendor-optimized libraries.",
+                "We analyze the properties of two-dimensionally periodic dielectric structures that have a band gap for propagation in a plane and that use index guiding to confine light in the third dimension. Such structures are more amenable to fabrication than photonic crystals with full three-dimensional band gaps, but retain or approximate many of the latter\u2019s desirable properties. We show how traditional band-structure analysis can be adapted to slab systems in the context of several representative structures, and describe the unique features that arise in this framework compared to ordinary photonic crystals."
+            ],
+            [
+                [
+
+                ]
+            ]
+        ]
+    ]
+}

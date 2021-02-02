@@ -1,0 +1,78 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "Protein levels have been shown to vary substantially between individual cells in clonal populations. In prokaryotes, the contribution to such fluctuations from the inherent randomness of gene expression has largely been attributed to having just a few transcripts of the corresponding mRNAs. By contrast, eukaryotic studies tend to emphasize chromatin remodeling and burst-like transcription. Here, we study single-cell transcription in Escherichia coli by measuring mRNA levels in individual living cells. The results directly demonstrate transcriptional bursting, similar to that indirectly inferred for eukaryotes. We also measure mRNA partitioning at cell division and correlate mRNA and protein levels in single cells. Partitioning is approximately binomial, and mRNA-protein correlations are weaker earlier in the cell cycle, where cell division has recently randomized the relative concentrations. Our methods further extend \u2026",
+            "Real-time kinetics of gene activity in individual bacteria",
+            "Ido Golding and Johan Paulsson and Scott M Zawilski and Edward C Cox",
+            "2005",
+            "MYZVrRYAAAAJ:u5HHmVD_uO8C",
+            1451,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0092867405010378",
+            "3429480301907012948",
+            "\/scholar?cites=3429480301907012948",
+            {
+                "2006":33,
+                "2007":57,
+                "2008":79,
+                "2009":88,
+                "2010":90,
+                "2011":101,
+                "2012":99,
+                "2013":116,
+                "2014":105,
+                "2015":103,
+                "2016":130,
+                "2017":93,
+                "2018":104,
+                "2019":119,
+                "2020":117,
+                "2021":8
+            }
+        ],
+        [
+            "We track the motion of individual fluorescently labeled mRNA molecules inside live E. coli cells. We find that the motion is subdiffusive, with an exponent that is robust to physiological changes, including the disruption of cytoskeletal elements. By modifying the parameters of the RNA molecule and the bacterial cell, we are able to examine the possible mechanisms that can lead to this unique type of motion, especially the effect of macromolecular crowding. We also examine the implications of anomalous diffusion on the kinetics of bacterial gene regulation, in particular, how transcription factors find their DNA targets.",
+            "Physical nature of bacterial cytoplasm",
+            "Ido Golding and Edward C Cox",
+            "2006",
+            "MYZVrRYAAAAJ:u-x6o8ySG0sC",
+            891,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.96.098102",
+            "7596857188805096882",
+            "\/scholar?cites=7596857188805096882",
+            {
+                "2006":7,
+                "2007":26,
+                "2008":45,
+                "2009":36,
+                "2010":66,
+                "2011":62,
+                "2012":69,
+                "2013":71,
+                "2014":89,
+                "2015":79,
+                "2016":60,
+                "2017":65,
+                "2018":76,
+                "2019":70,
+                "2020":60,
+                "2021":3
+            }
+        ]
+    ]
+}

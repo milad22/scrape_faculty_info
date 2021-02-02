@@ -1,0 +1,125 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "KqxXUuwAAAAJ",
+            "Nguyen Hoang Luong",
+            "Vietnam National University, Hanoi; Hanoi University of Science",
+            "@vnu.edu.vn",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=KqxXUuwAAAAJ",
+            2224,
+            [
+                "Physics",
+                "Nanoscience and Nanotechnology"
+            ],
+            1075,
+            24,
+            16,
+            50,
+            26,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"n9jCDn4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Nguyen Hoang Hai",
+                    "affiliation":"Vietnam National University, Hanoi; Hanoi University of Science; VNU University of Science"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"jiHdrTEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Luu Manh Quynh",
+                    "affiliation":"Center for Materials Science, Faculty of Physics, Hanoi University of Science, Vietnam National"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3LIBclcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Luc Huy Hoang",
+                    "affiliation":"Faculty of Physics, Hanoi National University of Education"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"hj1-t6cAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Cao Xuan Huu",
+                    "affiliation":"The University of Danang \u2013 University of Science and Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"upMit2EAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"NH Duc",
+                    "affiliation":"Professor of Physics, Vietnam National University Hanoi"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3IbZw0IAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Donald A MacLaren",
+                    "affiliation":"University of Glasgow"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"cLMm3tkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"L. H. Lewis",
+                    "affiliation":"Northeastern University"
+                }
+            ]
+        ]
+    ]
+}

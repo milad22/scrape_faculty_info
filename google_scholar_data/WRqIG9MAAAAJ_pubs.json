@@ -1,0 +1,180 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ],
+    "data":[
+        [
+            "In this work, for the first time at our knowledge, the improvement of chalcogenide-based CBRAM performance and reliability by Sb doping of the GeS 2  electrolyte is presented. An original analysis, based on in-depth physico-chemical characterization, device electrical measurements, empirical model and first principle calculations, is shown. We argue that optimized ~10% Sb doping in the GeS 2  electrolyte allows to achieve SET speed of 30ns at 2.2V (i.e. 0.66pJ SET programming power), while assuring 10 years data retention at 125\u00b0C, >10 5  cycling and high robustness to Sn-Pb soldering profile. Finally, the improved thermal stability of the filament in the GeS 2 -Sb matrix is clearly elucidated by means of molecular dynamics calculations.",
+            "Sb-doped GeS2as performance and reliability booster in Conductive Bridge RAM",
+            "E Vianello and G Molas and F Longnos and P Blaise and E Souchier and C Cagli and G Palma and J Guy and M Bernard and M Reyboz and G Rodriguez and A Roule and C Carabasse and V Delaye and V Jousseaume and S Maitrejean and G Reimbold and B De Salvo and F Dahmani and P Verrier and D Bretegnier and J Liebault",
+            "2012",
+            "WRqIG9MAAAAJ:u5HHmVD_uO8C",
+            48,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6479145\/",
+            "12669399641980299634",
+            "\/scholar?cites=12669399641980299634",
+            {
+                "2013":11,
+                "2014":5,
+                "2015":11,
+                "2016":2,
+                "2017":5,
+                "2018":7,
+                "2019":5,
+                "2020":2
+            }
+        ],
+        [
+            "In this work, we present an experimental and theoretical analysis of scaled (down to 10nm) Al 2 O 3 \/CuTeGe based CBRAM. We focus on the understanding of the physical mechanisms responsible for the failure of high and low resistance states at high temperature. Using a numerical model combined with ab-initio calculations, we elucidate for the 1 st  time at our knowledge the role of the filament morphology on the resistance instability. We demonstrate that an optimized filament shape (tuned by adjusting the operating conditions) significantly improves the memory window stability at high temperatures.",
+            "Investigation of the physical mechanisms governing data-retention in down to 10nm nano-trench Al2O3\/CuTeGe conductive bridge RAM (CBRAM)",
+            "J Guy and G Molas and E Vianello and F Longnos and S Blanc and C Carabasse and M Bernard and JF Nodin and A Toffoli and J Cluzel and P Blaise and P Dorion and O Cueto and H Grampeix and E Souchier and T Cabout and P Brianceau and V Balan and A Roule and S Maitrejean and L Perniola and B De Salvo",
+            "2013",
+            "WRqIG9MAAAAJ:d1gkVwhDpl0C",
+            38,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6724722\/",
+            "11621492434425781269",
+            "\/scholar?cites=11621492434425781269",
+            {
+                "2014":7,
+                "2015":11,
+                "2016":6,
+                "2017":5,
+                "2018":3,
+                "2019":2,
+                "2020":3,
+                "2021":1
+            }
+        ],
+        [
+            "In this paper the concept hybrid CBRAM assisted by oxygen vacancies is presented for the 1<;sup>st<;\/sup> time. Doping the resistive layer of oxide\/Cu based CBRAM with <; dopant species and concentrations is proposed in order to improve the memory performances. By means of experimental characterizations, numerical model and atomistic calculations, we demonstrate that increasing the doping content ease the filament formation by facilitating the Cu injection in the resistive layer. The proper choice of the doping element and concentration allows to significantly reduce the forming voltage (up to a forming free behavior), or alternatively to increase the memory window of 3 decades, with no forming voltage increase and retention degradation (stable behavior at 200\u00b0C, 260\u00b0C soldering sustained).",
+            "Controlling oxygen vacancies in doped oxide based CBRAM for improved memory performances",
+            "G Molas and E Vianello and F Dahmani and M Barci and P Blaise and J Guy and A Toffoli and M Bernard and A Roule and F Pierre and C Licitra and B De Salvo and L Perniola",
+            "2014",
+            "WRqIG9MAAAAJ:UeHWp8X0CEIC",
+            27,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7046993\/",
+            "7188625172765845244",
+            "\/scholar?cites=7188625172765845244",
+            {
+                "2015":3,
+                "2016":7,
+                "2017":8,
+                "2018":6,
+                "2019":3
+            }
+        ],
+        [
+            "In this paper, we investigate in depth Forming, SET, and Retention of conductive-bridge random-access memory (CBRAM). A kinetic Monte Carlo model of the CBRAM has been developed considering ionic hopping and chemical reaction dynamics. Based on inputs from ab initio calculations and the physical properties of the materials, the model offers the simulation of both the Forming\/SET and the Data Retention operations. It aims to create a bond between the physics at atomic level and the device behavior. From the model and experimental results obtained on decananometric devices, we propose an understanding of the physical mechanisms involved in the CBRAM operations. Using the consistent Forming\/SET and Data Retention model, we obtained good agreement with the experimental data. Finally, the impact of each layer of the CBRAM on the Forming\/SET behavior is decorrelated, allowing an \u2026",
+            "Investigation of forming, SET, and data retention of conductive-bridge random-access memory for stack optimization",
+            "J\u00e9r\u00e9my Guy and Gabriel Molas and Philippe Blaise and Mathieu Bernard and Anne Roule and Gilles Le Carval and Vincent Delaye and Alain Toffoli and G\u00e9rard Ghibaudo and Fabien Clermidy and Barbara De Salvo and Luca Perniola",
+            "2015",
+            "WRqIG9MAAAAJ:Tyk-4Ss8FVUC",
+            26,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7277031\/",
+            "17230529900974366482",
+            "\/scholar?cites=17230529900974366482",
+            {
+                "2016":1,
+                "2017":4,
+                "2018":3,
+                "2019":9,
+                "2020":8,
+                "2021":1
+            }
+        ],
+        [
+            "In this paper, we deeply investigate for the 1 st  time at our knowledge the impact of the CBRAM memory stack on the Forming, SET and RESET operations. Kinetic Monte Carlo simulations, based on inputs from ab-initio calculations and taking into account ionic hopping and chemical reaction dynamics are used to analyse experimental results obtained on decananometric devices. We propose guidelines to optimize the CBRAM stack, targeting Forming voltage reduction, improved trade-off between SET speed and disturb immunity (time voltage dilemma) and window margin increase (RESET efficiency).",
+            "Experimental and theoretical understanding of Forming, SET and RESET operations in Conductive Bridge RAM (CBRAM) for memory stack optimization",
+            "J Guy and G Molas and P Blaise and C Carabasse and M Bernard and A Roule and G Le Carval and V Sousa and H Grampeix and V Delaye and A Toffoli and J Cluzel and P Brianceau and O Pollet and V Balan and S Barraud and O Cueto and G Ghibaudo and F Clermidy and B De Salvo and L Perniola",
+            "2014",
+            "WRqIG9MAAAAJ:IjCSPb-OGe4C",
+            22,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7046997\/",
+            "11753904871104052511",
+            "\/scholar?cites=11753904871104052511",
+            {
+                "2015":2,
+                "2016":4,
+                "2017":5,
+                "2018":4,
+                "2019":3,
+                "2020":3,
+                "2021":1
+            }
+        ],
+        [
+            "In this paper, the effect of the active layer thickness and temperature on the switching kinetics of GeS 2-based conductive bridge memories is addressed through electrical characterization. Results are explained in terms of a thermally and field driven ion hopping model for reversible resistance switching. The combined analysis reveals that at high temperature the set voltage and the set resistance decrease. Furthermore, the study suggests that applying the same reset condition, for GeS 2 thicknesses lower than 50 nm, the conductive filament is almost dissolved, while for thicker layers a portion of the filament still remains.",
+            "Effect of the active layer thickness and temperature on the switching kinetics of GeS2-based conductive bridge memories",
+            "Giorgio Palma and Elisa Vianello and Gabriel Molas and Carlo Cagli and Florian Longnos and Jeremy Guy and Marina Reyboz and Catherine Carabasse and Mathieu Bernard and Faiz Dahmani and Damien Bretegnier and Jacques Liebault and Barbara De Salvo",
+            "2013",
+            "WRqIG9MAAAAJ:u-x6o8ySG0sC",
+            16,
+            "https:\/\/iopscience.iop.org\/article\/10.7567\/JJAP.52.04CD02\/meta",
+            "796798046375132421",
+            "\/scholar?cites=796798046375132421",
+            {
+                "2013":3,
+                "2014":4,
+                "2015":3,
+                "2016":2,
+                "2017":1,
+                "2018":2,
+                "2019":1
+            }
+        ],
+        [
+            "In this paper, we investigate the high temperature behavior of oxide-based conductive bridge memories. A methodology to optimize both high and low resistance states stability is presented. A numerical model is developed able to simulate the filament dissolution over time. This allows us to establish a clear correlation between the filament morphology and the ON\/OFF states stability. It is shown that the optimization of the memory programming conditions leads to a stable memory window up to 250\u00b0C.",
+            "Impact of SET and RESET conditions on CBRAM high temperature data retention",
+            "M Barci and J Guy and G Molas and E Vianello and A Toffoli and J Cluzel and A Roule and M Bernard and C Sabbione and L Perniola and B De Salvo",
+            "2014",
+            "WRqIG9MAAAAJ:9yKSN-GCB0IC",
+            15,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6860677\/",
+            "210976990322560723",
+            "\/scholar?cites=210976990322560723",
+            {
+                "2014":1,
+                "2015":3,
+                "2016":5,
+                "2017":2,
+                "2018":1,
+                "2019":3
+            }
+        ],
+        [
+            "In this paper, we use Kinetic Monte Carlo (KMC) simulations to investigate CBRAM variability. A full consistent model able to simulate SET, RESET, retention and endurance characteristics was proposed for the 1st time, allowing to describe experimental data obtained on Al 2 O 3 \/CuTex based CBRAM. The role of oxygen vacancy generation during programming is described and its impact on reliability (retention and endurance) is elucidated. The origin of the resistance spread is discussed and linked to the conductive filament shape and operating conditions. The cycle to cycle contribution on resistance variability is uncorrelated from the intrinsic resistance distribution limit. Finally, guidelines are given in order to optimize the memory distribution, reduce tail bits and improve CBRAM reliability.",
+            "Guidance to reliability improvement in CBRAM using advanced KMC modelling",
+            "J Guy and G Molas and C Cagli and M Bernard and A Roule and C Carabasse and A Toffoli and F Clermidy and B De Salvo and L Perniola",
+            "2017",
+            "WRqIG9MAAAAJ:eQOLeE2rZwMC",
+            8,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7936384\/",
+            "5942483421101961283",
+            "\/scholar?cites=5942483421101961283",
+            {
+                "2017":2,
+                "2018":2,
+                "2019":4
+            }
+        ]
+    ]
+}

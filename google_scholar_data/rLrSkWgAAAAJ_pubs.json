@@ -1,0 +1,213 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Thermal-bias-induced spin angular momentum transfer between a paramagnetic metal and ferromagnetic insulator is studied theoretically based on the stochastic Landau-Lifshitz-Gilbert (LLG) phenomenology. Magnons in the ferromagnet establish a nonequilibrium steady state by equilibrating with phonons via bulk Gilbert damping and electrons in the paramagnet via spin pumping, according to the fluctuation-dissipation theorem. Subthermal magnons and the associated spin currents are treated classically, while the appropriate quantum crossover is imposed on high-frequency magnetic fluctuations. We identify several length scales in the ferromagnet, which govern qualitative changes in the dependence of the thermally induced spin current on the magnetic film thickness.",
+            "Landau-Lifshitz theory of the longitudinal spin Seebeck effect",
+            "Silas Hoffman and Koji Sato and Yaroslav Tserkovnyak",
+            "2013",
+            "rLrSkWgAAAAJ:u5HHmVD_uO8C",
+            177,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.88.064408",
+            "15822094226511854579",
+            "\/scholar?cites=15822094226511854579",
+            {
+                "2013":7,
+                "2014":24,
+                "2015":35,
+                "2016":29,
+                "2017":31,
+                "2018":22,
+                "2019":15,
+                "2020":11,
+                "2021":1
+            }
+        ],
+        [
+            "We theoretically propose a set of universal quantum gates acting on a hybrid qubit formed by coupling a quantum-dot spin qubit and Majorana fermion qubit. First, we consider a quantum dot that is tunnel coupled to two topological superconductors. The effective spin-Majorana exchange facilitates a hybrid cnot gate for which either qubit can be the control or target. The second setup is a modular scalable network of topological superconductors and quantum dots. As a result of the exchange interaction between adjacent spin qubits, a cnot gate is implemented that acts on neighboring Majorana qubits and eliminates the necessity of interqubit braiding. In both setups, the spin-Majorana exchange interaction allows for a phase gate, acting on either the spin or the Majorana qubit, and for a swap or hybrid swap gate which is sufficient for universal quantum computation without projective measurements.",
+            "Universal quantum computation with hybrid spin-Majorana qubits",
+            "Silas Hoffman and Constantin Schrade and Jelena Klinovaja and Daniel Loss",
+            "2016",
+            "rLrSkWgAAAAJ:2osOgNQ5qMEC",
+            66,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.94.045316",
+            "1434287796908869377",
+            "\/scholar?cites=1434287796908869377",
+            {
+                "2016":1,
+                "2017":13,
+                "2018":16,
+                "2019":17,
+                "2020":18,
+                "2021":1
+            }
+        ],
+        [
+            "We study the quantum propagation of a Skyrmion in chiral magnetic insulators by generalizing the micromagnetic equations of motion to a finite-temperature path integral formalism, using field theoretic tools. Promoting the center of the Skyrmion to a dynamic quantity, the fluctuations around the Skyrmionic configuration give rise to a time-dependent damping of the Skyrmion motion. From the frequency dependence of the damping kernel, we are able to identify the Skyrmion mass, thus providing a microscopic description of the kinematic properties of Skyrmions. When defects are present or a magnetic trap is applied, the Skyrmion mass acquires a finite value proportional to the effective spin, even at vanishingly small temperature. We demonstrate that a Skyrmion in a confined geometry provided by a magnetic trap behaves as a massive particle owing to its quasi-one-dimensional confinement. An additional quantum \u2026",
+            "Quantum dynamics of skyrmions in chiral magnets",
+            "Christina Psaroudaki and Silas Hoffman and Jelena Klinovaja and Daniel Loss",
+            "2017",
+            "rLrSkWgAAAAJ:WF5omc3nYNoC",
+            41,
+            "https:\/\/journals.aps.org\/prx\/abstract\/10.1103\/PhysRevX.7.041045",
+            "2720456899588471645",
+            "\/scholar?cites=2720456899588471645",
+            {
+                "2017":3,
+                "2018":6,
+                "2019":10,
+                "2020":21,
+                "2021":1
+            }
+        ],
+        [
+            "We study theoretically the detection of the topological phase transition occurring in Rashba nanowires with proximity-induced superconductivity using a quantum dot. The bulk states lowest in energy of such a nanowire have a spin polarization parallel or antiparallel to the applied magnetic field in the topological or trivial phase, respectively. We show that this property can be probed by the quantum dot created at the end of the nanowire by external gates. By tuning one of the two spin-split levels of the quantum dot to be in resonance with nanowire bulk states, one can detect the spin polarization of the lowest band via transport measurement. This allows one to determine the topological phase of the Rashba nanowire independently of the presence of Majorana bound states.",
+            "Topological phase detection in Rashba nanowires with a quantum dot",
+            "Denis Chevallier and Pawe\u0142 Szumniak and Silas Hoffman and Daniel Loss and Jelena Klinovaja",
+            "2018",
+            "rLrSkWgAAAAJ:Se3iqnhoufwC",
+            40,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.97.045404",
+            "7490865860803909221",
+            "\/scholar?cites=7490865860803909221",
+            {
+                "2017":2,
+                "2018":8,
+                "2019":14,
+                "2020":14,
+                "2021":2
+            }
+        ],
+        [
+            "Considering Rashba quantum wires with a proximity-induced superconducting gap as physical realizations of Majorana bound states and quantum dots, we calculate the overlap of the Majorana wave functions with the local wave functions on the dot. We determine the spin-dependent tunneling amplitudes between these two localized states and show that we can tune into a fully spin polarized tunneling regime by changing the distance between dot and Majorana bound state. Upon directly applying this to the tunneling model Hamiltonian, we calculate the effective magnetic field on the quantum dot flanked by two Majorana bound states. The direction of the induced magnetic field on the dot depends on the occupation of the nonlocal fermion formed from the two Majorana end states which can be used as a readout for such a Majorana qubit.",
+            "Spin-dependent coupling between quantum dots and topological quantum wires",
+            "Silas Hoffman and Denis Chevallier and Daniel Loss and Jelena Klinovaja",
+            "2017",
+            "rLrSkWgAAAAJ:_FxGoFyzp5QC",
+            40,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.96.045440",
+            "10105174727602514286",
+            "\/scholar?cites=10105174727602514286",
+            {
+                "2017":3,
+                "2018":9,
+                "2019":12,
+                "2020":15,
+                "2021":1
+            }
+        ],
+        [
+            "We theoretically consider the effect of a spatially periodic modulation of the superconducting order parameter on the formation of Majorana fermions induced by a one-dimensional system with magnetic impurities brought into close proximity to an s-wave superconductor. When the magnetic exchange energy is larger than the inter-impurity electron hopping we model the effective system as a chain of coupled Shiba states, while in the opposite regime, the effective system is accurately described by a quantum wire model. Upon including a spatially modulated superconducting pairing, we find, for sufficiently large magnetic exchange energy, that the system is able to support a single pair of Majorana fermions with one Majorana fermion on the left end of the system and one on the right end. When the modulation of superconductivity is large compared to the magnetic exchange energy, the Shiba chain returns to a \u2026",
+            "Topological phases of inhomogeneous superconductivity",
+            "Silas Hoffman and Jelena Klinovaja and Daniel Loss",
+            "2016",
+            "rLrSkWgAAAAJ:YsMSGLbcyi4C",
+            32,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.93.165418",
+            "4806751630918171901",
+            "\/scholar?cites=4806751630918171901",
+            {
+                "2016":2,
+                "2017":10,
+                "2018":5,
+                "2019":8,
+                "2020":7
+            }
+        ],
+        [
+            "We study the renormalization of the gap of an s-wave superconductor in the presence of two magnetic impurities. For weakly bound Shiba states, we analytically calculate the part of the gap renormalization that is sensitive to the relative orientation of the two impurity spins. For impurities with a strong exchange coupling to the conduction electrons, we solve the gap equation self-consistently by numerics and find that the subgap Shiba state turns into a supragap Andreev state when the local gap parameter changes sign under the impurities.",
+            "Superconducting gap renormalization around two magnetic impurities: From Shiba to Andreev bound states",
+            "Tobias Meng and Jelena Klinovaja and Silas Hoffman and Pascal Simon and Daniel Loss",
+            "2015",
+            "rLrSkWgAAAAJ:u-x6o8ySG0sC",
+            32,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.92.064503",
+            "37164448974409100",
+            "\/scholar?cites=37164448974409100",
+            {
+                "2015":1,
+                "2016":8,
+                "2017":8,
+                "2018":7,
+                "2019":2,
+                "2020":6
+            }
+        ],
+        [
+            "Magnetic resonance techniques not only provide powerful imaging tools that have revolutionized medicine, but they have a wide spectrum of applications in other fields of science such as biology, chemistry, neuroscience and physics. However, current state-of-the-art magnetometers are unable to detect a single nuclear spin unless the tip-to-sample separation is made sufficiently small. Here, we demonstrate theoretically that by placing a ferromagnetic particle between a nitrogen\u2013vacancy magnetometer and a target spin, the magnetometer sensitivity is improved dramatically. Using materials and techniques that are already experimentally available, our proposed set-up is sensitive enough to detect a single nuclear spin within ten milliseconds of data acquisition at room temperature. The sensitivity is practically unchanged when the ferromagnet surface to the target spin separation is smaller than the ferromagnet \u2026",
+            "High-efficiency resonant amplification of weak magnetic fields for single spin magnetometry at room temperature",
+            "Luka Trifunovic and Fabio L Pedrocchi and Silas Hoffman and Patrick Maletinsky and Amir Yacoby and Daniel Loss",
+            "2015",
+            "rLrSkWgAAAAJ:d1gkVwhDpl0C",
+            28,
+            "https:\/\/www.nature.com\/nnano\/journal\/v10\/n6\/full\/nnano.2015.74.html",
+            "12515624702698719477",
+            "\/scholar?cites=12515624702698719477",
+            {
+                "2015":3,
+                "2016":8,
+                "2017":7,
+                "2018":5,
+                "2019":2,
+                "2020":3
+            }
+        ],
+        [
+            "A hard proximity-induced superconducting gap has recently been observed in semiconductor nanowire systems at low magnetic fields. However, in the topological regime at high magnetic fields, a soft gap emerges and represents a fundamental obstacle to topologically protected quantum information processing with Majorana bound states. Here we show that in a setup of double Rashba nanowires that are coupled to an s-wave superconductor and subjected to an external magnetic field along the wires, the topological threshold can be significantly reduced by the destructive interference of direct and crossed-Andreev pairing in this setup, precisely down to the magnetic field regime in which current experimental technology allows for a hard superconducting gap. We also show that the resulting Majorana bound states exhibit sufficiently short localization lengths, which makes them ideal candidates for future \u2026",
+            "Low-field topological threshold in Majorana double nanowires",
+            "Constantin Schrade and Manisha Thakurathi and Christopher Reeg and Silas Hoffman and Jelena Klinovaja and Daniel Loss",
+            "2017",
+            "rLrSkWgAAAAJ:LkGwnXOMwfcC",
+            23,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.96.035306",
+            "14622396686404929158",
+            "\/scholar?cites=14622396686404929158",
+            {
+                "2017":3,
+                "2018":9,
+                "2019":5,
+                "2020":6
+            }
+        ],
+        [
+            "The recent experimental discovery of \u03c6 0 Josephson junctions by Szombati et al.[Nat. Phys. 12, 568 (2016)], characterized by a finite phase offset in the supercurrent, requires the same ingredients as topological superconductors, which suggests a profound connection between these two distinct phenomena. Here, we show that a quantum dot \u03c6 0 Josephson junction can serve as a qualitative indicator for topological superconductivity: microscopically, we find that the phase shift in a junction of s-wave superconductors is due to the spin-orbit induced mixing of singly occupied states on the quantum dot, while for a topological superconductor junction it is due to singlet-triplet mixing. Because of this important difference, when the spin-orbit vector of the quantum dot and the external Zeeman field are orthogonal, the s-wave superconductors form a \u03c0 Josephson junction, while the topological superconductors have a finite \u2026",
+            "Detecting topological superconductivity with  Josephson junctions",
+            "Constantin Schrade and Silas Hoffman and Daniel Loss",
+            "2017",
+            "rLrSkWgAAAAJ:Y0pCki6q_DkC",
+            20,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.95.195421",
+            "16213546603896364713",
+            "\/scholar?cites=16213546603896364713",
+            {
+                "2017":6,
+                "2018":10,
+                "2019":2,
+                "2020":2
+            }
+        ]
+    ]
+}

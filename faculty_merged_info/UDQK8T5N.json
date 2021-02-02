@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "UDQK8T5N",
+            "5OPWL70AAAAJ",
+            [
+                "Numerical estimates of hadronic masses in a pure SU (3) gauge theory",
+                "Quantum gravitation: The Feynman path integral approach",
+                "Higher derivative quantum gravity on a simplicial lattice",
+                "On the quantum corrections to the Newtonian potential",
+                "Numerical estiamtes for the spectrum of quantum chromodynamics",
+                "Considerations on numerical analysis of QCD",
+                "Phases of four-dimensional simplicial quantum gravity",
+                "Numerical simulations of quantum chromodynamics",
+                "Nonlocal effective gravitational field equations and the running of Newton\u2019s constant G",
+                "Some predictions for an improved fermion action on the lattice"
+            ],
+            [
+                "In lattice quantum chromodynamics, the hadronic mass spectrum is evaluated by computer simulations in the approximation where closed quark loops are neglected. Chiral symmetry is shown to be spontaneously broken and an estimate of the pion decay constant is given.",
+                "\" Quantum Gravitation\" approaches the subject from the point of view of Feynman path integrals, which provide a manifestly covariant approach in which fundamental quantum aspects of the theory such as radiative corrections and the renormalization group can be systematically and consistently addressed. It is shown that the path integral method is suitable for both perturbative as well as non-perturbative studies, and is already known to offer a framework for the theoretical investigation of non-Abelian gauge theories, the basis for three of the four known fundamental forces in nature. The book thus provides a coherent outline of the present status of the theory gravity based on Feynman\u2019s formulation, with an emphasis on quantitative results. Topics are organized in such a way that the correspondence to similar methods and results in modern gauge theories becomes apparent. Covariant perturbation theory are developed using the full machinery of Feynman rules, gauge fixing, background methods and ghosts. The renormalization group for gravity and the existence of non-trivial ultraviolet fixed points are investigated, stressing a close correspondence with well understood statistical field theory models. The final chapter addresses contemporary issues in quantum cosmology such as scale dependent gravitational constants and quantum effects in the early universe.",
+                "We generalize the action of Regge calculus to include the equivalent to both a cosmological constant term and a higher derivative term involving the integral of R2. We compare our expression for these terms with the continuum values for the regular tessellations of 2-, 3- and 4-dimensional spheres, and describe how the formalism may be applied to calculations in quantum gravity.",
+                "The leading long-distance quantum correction to the Newtonian potential for heavy spinless particles is computed in quantum gravity. The potential is obtained directly from the sum of all graviton exchange diagrams contributing to lowest non-trivial order to the scattering amplitude. The calculation correctly reproduces the leading classical relativistic post-Newtonian correction. The sign of the perturbative quantum correction would indicate that, in the absence of a cosmological constant, quantum effects lead to a slow increase of the gravitational coupling with distance.",
+                "We present estimates for the hadron masses in lattice QCD obtained in the approximation of neglecting dynamic-fermion loops. Both light-and heavy-quark systems are considered and their dependence on the coupling constant and the quark mass is studied. Some results for the decay amplitudes are also given. We discuss how the \u03b7\u2032 mass can be computed to lowest order in n f, the number of dynamic fermion flavors.",
+                "Recently many efforts have been devoted to the analysis of the low-energy part of the hadronic spectrum and of the pattern of chiral symmetry breaking in lattice QCD. While most of the numerical work has been done using the so-called quenched approximation [9, 2-7](ie neglecting the quark vacuum polarization diagrams), some recent results have been obtained for the full theory [1]. Although the results of these computations are affected by systematical errors (due for example to the small size of the lattice [8]) that are very difficult to control, they suggest (and make somehow concrete) the possibility of more precise investigations, to be done on larger lattices, which would determine the hadronic mass spectrum in a picture where systematic errors are under control and statistical errors are reasonably small. In this paper we discuss the strategy to remove the quenched approximation. The claim that these computations can be performed by using an amount of CPU time comparable with the time needed for a quenched computation is supported by the results of the numerical simulations [1] we mentioned above. In sect. 2 we review the general formalism [9-11, 2-4] for numerical simulations of lattice gauge theories with fermions. In sect. 3 we study the sources of systematic errors affecting the evaluation of the effects of quark loops, and we suggest the",
+                "The phase diagram and critical exponents for pure simplicial quantum gravity (Regge calculus) in four dimensions are discussed. In the small-G phase, where G is the bare Newton's constant, the simplices are collapsed and no continuum limit exists. In the large-G phase the ground state appears to be well behaved, and the curvature goes to zero continuously as the critical value of G is approached. Fluctuations in the curvature diverge at the critical point, while volume fluctuations remain finite. The critical exponents at the transition are estimated, and appear to be independent of the strength of the higher-derivative coupling a. With the lattice analogue of the DeWitt gravitational measure and for large enough G, the lattice higher-derivative theories (a> 0) and the reflection-positive pure Regge theory (a= 0) appear to belong to the same phase for large enough G, which would suggest a common, unitary quantum \u2026",
+                "A previously proposed method to perform Monte Carlo simulations with dynamical fermions is applied to lattice QCD. The main features of the computational technique are reviewed and results for some selected quantities, such as the average plaquette action and the quark condensate< \u03c8 \u03c8> are presented. Both the dependence on the quark mass and on the number of flavors are considered. An estimate of the scale parameter in the presence of fermions is given.",
+                "Nonperturbative studies of quantum gravity have recently suggested the possibility that the strength of gravitational interactions might slowly increase with distance. Here a set of generally covariant effective field equations are proposed, which are intended to incorporate the gravitational, vacuum-polarization induced, running of Newton\u2019s constant G. One attractive feature of this approach is that, from an underlying quantum gravity perspective, the resulting long-distance (or large time) effective gravitational action inherits only one adjustable parameter \u03be, having the units of a length, arising from dimensional transmutation in the gravitational sector. Assuming the above scenario to be correct, some simple predictions for the long-distance corrections to the classical standard model Robertson-Walker metric are worked out in detail, with the results formulated as much as possible in a model-independent framework. It is \u2026",
+                "We propose an improved fermion action on the lattice by adding a next nearest neightbor interaction term to Wilson action. The proposed action is expected to approach the continuum limit more rapidly. Using the improved action, the predictions for the critical value of the hopping parameter at weak and strong coupling are given. The relationship between quark masses on the lattice and in the continuum is also discussed."
+            ],
+            [
+                [
+                    "Particle Physics",
+                    "Gravitation",
+                    "Cosmology",
+                    "Statistical Mechanics"
+                ]
+            ]
+        ]
+    ]
+}

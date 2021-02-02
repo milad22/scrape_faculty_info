@@ -1,0 +1,87 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "Dealing with all aspects of Monte Carlo simulation of complex physical systems encountered in condensed-matter physics and statistical mechanics, this book provides an introduction to computer simulations in physics. This fourth edition contains extensive new material describing numerous powerful algorithms not covered in previous editions, in some cases representing new developments that have only recently appeared. Older methodologies whose impact was previously unclear or unappreciated are also introduced, in addition to many small revisions that bring the text and cited literature up to date. This edition also introduces the use of petascale computing facilities in the Monte Carlo arena. Throughout the book there are many applications, examples, recipes, case studies, and exercises to help the reader understand the material. It is ideal for graduate students and researchers, both in academia and industry, who want to learn techniques that have become a third tool of physical science, complementing experiment and analytical theory.",
+            "A guide to Monte Carlo simulations in statistical physics",
+            "David P Landau and Kurt Binder",
+            "2014",
+            "VnSaXAsAAAAJ:yCjxvIMm6_oC",
+            4640,
+            "http:\/\/books.google.com\/books?hl=en&lr=&id=56ARBgAAQBAJ&oi=fnd&pg=PR15&dq=info:rjtcwHz9chsJ:scholar.google.com&ots=4_ILyp2uc9&sig=au4fSw1N3nALSYdGOm9_fuxvbno",
+            "1977921898614111150",
+            "\/scholar?cites=1977921898614111150",
+            {
+                "2001":32,
+                "2002":91,
+                "2003":112,
+                "2004":138,
+                "2005":195,
+                "2006":223,
+                "2007":241,
+                "2008":271,
+                "2009":287,
+                "2010":283,
+                "2011":280,
+                "2012":250,
+                "2013":236,
+                "2014":267,
+                "2015":296,
+                "2016":278,
+                "2017":281,
+                "2018":284,
+                "2019":262,
+                "2020":266,
+                "2021":26
+            }
+        ],
+        [
+            "We present a new Monte Carlo algorithm that produces results of high accuracy with reduced simulational effort. Independent random walks are performed (concurrently or serially) in different, restricted ranges of energy, and the resultant density of states is modified continuously to produce locally flat histograms. This method permits us to directly access the free energy and entropy, is independent of temperature, and is efficient for the study of both 1st order and 2nd order phase transitions. It should also be useful for the study of complex systems with a rough energy landscape.",
+            "Efficient, multiple-range random walk algorithm to calculate the density of states",
+            "Fugao Wang and David P Landau",
+            "2001",
+            "VnSaXAsAAAAJ:u-x6o8ySG0sC",
+            3027,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.86.2050",
+            "2761502808857244972",
+            "\/scholar?cites=2761502808857244972",
+            {
+                "2002":39,
+                "2003":62,
+                "2004":89,
+                "2005":116,
+                "2006":128,
+                "2007":127,
+                "2008":150,
+                "2009":163,
+                "2010":195,
+                "2011":189,
+                "2012":179,
+                "2013":185,
+                "2014":207,
+                "2015":191,
+                "2016":201,
+                "2017":201,
+                "2018":184,
+                "2019":182,
+                "2020":203,
+                "2021":15
+            }
+        ]
+    ]
+}

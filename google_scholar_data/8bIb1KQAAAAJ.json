@@ -1,0 +1,137 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "8bIb1KQAAAAJ",
+            "Andrew Roberts",
+            "Army Personnel Research Capability",
+            "@mod.gov.uk",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=8bIb1KQAAAAJ",
+            345,
+            [
+                "Sport and exercise medicine",
+                "biomechanics"
+            ],
+            259,
+            9,
+            7,
+            9,
+            7,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"8b9fT_sAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sharon Dixon",
+                    "affiliation":"University of Exeter"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6lBomw0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Patrick Wheeler",
+                    "affiliation":"Consultant, Sport & Exercise Medicine, University Hospitals of Leicester NHS Trust"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"bd63R5gAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Daniel Tik-Pui Fong",
+                    "affiliation":"Senior Lecturer in Rehabilitation Science, Loughborough University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"O1eBjq0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mark Lewis",
+                    "affiliation":"Professor of Musculoskeletal Biology, Loughborough University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"SlNOC-kAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Aliah F Shaheen",
+                    "affiliation":"Senior Lecturer in Biomechanics, Brunel University London"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"FccU5m4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Richard Villar",
+                    "affiliation":""
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"s6MPw3wAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michael Pycraft Hughes",
+                    "affiliation":"University of Surrey"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"DlgUQM4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Richard Seah",
+                    "affiliation":"Consultant in Sport & Exercise Medicine, London, U.K."
+                }
+            ]
+        ]
+    ]
+}

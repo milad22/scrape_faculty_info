@@ -1,0 +1,36 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "MVKBM7VB",
+            "6CQ_uloAAAAJ",
+            [
+                "Integrated modeling program, applied chemical theory (IMPACT)",
+                "AGBNP: An analytic implicit solvent model suitable for molecular dynamics simulations and high\u2010resolution modeling",
+                "Enthalpy\u2212 entropy and cavity decomposition of alkane hydration free energies: Numerical results and implications for theories of hydrophobic solvation"
+            ],
+            [
+                "We provide an overview of the IMPACT molecular mechanics program with an emphasis on recent developments and a description of its current functionality. With respect to core molecular mechanics technologies we include a status report for the fixed charge and polarizable force fields that can be used with the program and illustrate how the force fields, when used together with new atom typing and parameter assignment modules, have greatly expanded the coverage of organic compounds and medicinally relevant ligands. As we discuss in this review, explicit solvent simulations have been used to guide our design of implicit solvent models based on the generalized Born framework and a novel nonpolar estimator that have recently been incorporated into the program. With IMPACT it is possible to use several different advanced conformational sampling algorithms based on combining features of molecular \u2026",
+                "We have developed an implicit solvent effective potential (AGBNP) that is suitable for molecular dynamics simulations and high-resolution modeling. It is based on a novel implementation of the pairwise descreening Generalized Born model for the electrostatic component and a new nonpolar hydration free energy estimator. The nonpolar term consists of an estimator for the solute-solvent van der Waals dispersion energy designed to mimic the continuum solvent solute-solvent van der Waals interaction energy, in addition to a surface area term corresponding to the work of cavity formation. AGBNP makes use of a new parameter-free algorithm to calculate the scaling coefficients used in the pairwise descreening scheme to take into account atomic overlaps. The same algorithm is also used to calculate atomic surface areas. We show that excellent agreement is achieved for the GB self-energies and surface areas in \u2026",
+                "This study reports the first complete description of the solution thermodynamics of a series of linear, branched, and cyclic alkanes in water by computer simulations, including the enthalpy and entropy changes in addition to the solvation free energies. We have also obtained a complete thermodynamic description of the solvation of the associated alkane cavities. Our results lead to the following key observations:\u2009 (i) The theoretical prediction that hydration entropy and solvent reorganization are weakly coupled to solute\u2212solvent dispersion interactions is confirmed by computer simulations. (ii) The weak correlation between solute\u2212solvent dispersion interaction energies with solute surface area explains the large relative solubilities of cyclic alkanes and the large difference between the free energy\/surface area relations observed for gas to water transfer processes compared to processes involving conformational \u2026"
+            ],
+            [
+                [
+                    "biophysics",
+                    "chemical physics",
+                    "proteins",
+                    "computational biology"
+                ]
+            ]
+        ]
+    ]
+}

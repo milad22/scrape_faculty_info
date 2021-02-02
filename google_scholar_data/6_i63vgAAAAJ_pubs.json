@@ -1,0 +1,65 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "Python offers basic facilities for interactive work and a comprehensive library on top of which more sophisticated systems can be built. The IPython project provides on enhanced interactive environment that includes, among other features, support for data visualization and facilities for distributed and parallel computation",
+            "IPython: a system for interactive scientific computing",
+            "Fernando P\u00e9rez and Brian E Granger",
+            "2007",
+            "6_i63vgAAAAJ:YOwf2qJgpHMC",
+            3115,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/4160251\/",
+            "9869903761521342638",
+            "\/scholar?cites=9869903761521342638",
+            {
+                "2008":10,
+                "2009":24,
+                "2010":28,
+                "2011":33,
+                "2012":39,
+                "2013":94,
+                "2014":179,
+                "2015":298,
+                "2016":416,
+                "2017":403,
+                "2018":516,
+                "2019":471,
+                "2020":511,
+                "2021":67
+            }
+        ],
+        [
+            "It is increasingly necessary for researchers in all fields to write computer code, and in order to reproduce research results, it is important that this code is published. We present Jupyter notebooks, a document format for publishing code, results and explanations in a form that is both readable and executable. We discuss various tools and use cases for notebook documents.",
+            "Jupyter Notebooks-a publishing format for reproducible computational workflows.",
+            "Thomas Kluyver and Benjamin Ragan-Kelley and Fernando P\u00e9rez and Brian E Granger and Matthias Bussonnier and Jonathan Frederic and Kyle Kelley and Jessica B Hamrick and Jason Grout and Sylvain Corlay and Paul Ivanov and Dami\u00e1n Avila and Safia Abdalla and Carol Willing and et al.",
+            "2016",
+            "6_i63vgAAAAJ:aqlVkmm33-oC",
+            966,
+            "http:\/\/books.google.com\/books?hl=en&lr=&id=Lgy3DAAAQBAJ&oi=fnd&pg=PA87&dq=info:AW2laknywGsJ:scholar.google.com&ots=N2yU6PxJem&sig=kq3Lrjxr-Ont2GTFuTiecB02vWw",
+            "7764472154722495745",
+            "\/scholar?cites=7764472154722495745",
+            {
+                "2017":37,
+                "2018":195,
+                "2019":326,
+                "2020":368,
+                "2021":34
+            }
+        ]
+    ]
+}

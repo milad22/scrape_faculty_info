@@ -1,0 +1,120 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "data":[
+        [
+            "Small molecules are indispensable to modern medical therapy. However, their use may lead to unintended, negative medical outcomes commonly referred to as adverse drug reactions (ADRs). These effects vary widely in mechanism, severity, and populations affected, making ADR prediction and identification important public health concerns. Current methods rely on clinical trials and postmarket surveillance programs to find novel ADRs; however, clinical trials are limited by small sample size, whereas postmarket surveillance methods may be biased and inherently leave patients at risk until sufficient clinical evidence has been gathered. Systems pharmacology, an emerging interdisciplinary field combining network and chemical biology, provides important tools to uncover and understand ADRs and may mitigate the drawbacks of traditional methods. In particular, network analysis allows researchers to integrate \u2026",
+            "Systems biology approaches for identifying adverse drug reactions and elucidating their underlying biological mechanisms",
+            "Mary Regina Boland and Alexandra Jacunski and Tal Lorberbaum and Joseph D Romano and Robert Moskovitch and Nicholas P Tatonetti",
+            "2016",
+            "Lr-3Bj4AAAAJ:9yKSN-GCB0IC",
+            32,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1002\/wsbm.1323",
+            "14174248577525979029",
+            "\/scholar?cites=14174248577525979029",
+            {
+                "2016":2,
+                "2017":10,
+                "2018":3,
+                "2019":12,
+                "2020":3
+            }
+        ],
+        [
+            "The discovery of new pharmaceutical drugs is one of the preeminent tasks---scientifically, economically, and socially---in biomedical research. Advances in informatics and computational biology have increased productivity at many stages of the drug discovery pipeline. Nevertheless, drug discovery has slowed, largely due to the reliance on small molecules as the primary source of novel hypotheses. In recent years, it has become apparent that natural products (such as plant metabolites, animal toxins, and immunological components) comprise a vast and diverse source of bioactive compounds, some of which are supported by thousands of years of traditional medicine. However, natural products possess unique characteristics that distinguish them from traditional small molecule drug candidates, requiring new methods and approaches for assessing their therapeutic potential. In this review, we investigate a number of state-of-the-art techniques in bioinformatics, cheminformatics, and knowledge engineering for data-driven drug discovery from natural products. We focus on methods that aim to bridge the gap between traditional small-molecule drug candidates and different classes of natural products. We also explore the current informatics knowledge gaps and other barriers that need to be overcome to fully leverage these compounds for drug discovery. Finally, we conclude with a `road map' of research priorities that seeks to realize this goal.",
+            "Informatics and computational methods in natural product drug discovery: A review and perspectives",
+            "Joseph D Romano and Nicholas P Tatonetti",
+            "2019",
+            "Lr-3Bj4AAAAJ:IjCSPb-OGe4C",
+            24,
+            "https:\/\/www.frontiersin.org\/articles\/10.3389\/fgene.2019.00368\/full",
+            "11461611408044634283",
+            "\/scholar?cites=11461611408044634283",
+            {
+                "2019":2,
+                "2020":18,
+                "2021":4
+            }
+        ],
+        [
+            "Animal venoms have been used for therapeutic purposes since the dawn of recorded history. Only a small fraction, however, have been tested for pharmaceutical utility. Modern computational methods enable the systematic exploration of novel therapeutic uses for venom compounds. Unfortunately, there is currently no comprehensive resource describing the clinical effects of venoms to support this computational analysis. We present VenomKB, a new publicly accessible knowledge base and website that aims to act as a repository for emerging and putative venom therapies. Presently, it consists of three database tables:(1) Manually curated records of putative venom therapies supported by scientific literature,(2) automatically parsed MEDLINE articles describing compounds that may be venom derived, and their effects on the human body, and (3) automatically retrieved records from the new Semantic Medline \u2026",
+            "VenomKB, a new knowledge base for facilitating the validation of putative venom therapies",
+            "Joseph D Romano and Nicholas P Tatonetti",
+            "2015",
+            "Lr-3Bj4AAAAJ:d1gkVwhDpl0C",
+            8,
+            "https:\/\/www.nature.com\/articles\/sdata201565",
+            "10749764197677184379",
+            "\/scholar?cites=10749764197677184379",
+            {
+                "2016":2,
+                "2017":1,
+                "2018":3,
+                "2019":2
+            }
+        ],
+        [
+            "Venoms and venom-derived compounds constitute a rich and largely unexplored source of potentially therapeutic compounds. To facilitate biomedical research, it is necessary to design a robust informatics infrastructure that will allow semantic computation of venom concepts in a standardized, consistent manner. We have designed an ontology of venom-related concepts\u2014named Venom Ontology\u2014that reuses an existing public data source: UniProt\u2019s Tox-Prot database. In addition to describing the ontology and its construction, we have performed three separate case studies demonstrating its utility:(1) An exploration of venom peptide similarity networks within specific genera;(2) A broad overview of the distribution of available data among common taxonomic groups spanning the known tree of life; and (3) An analysis of the distribution of venom complexity across those same taxonomic groups. Venom Ontology is \u2026",
+            "Using a Novel Ontology to Inform the Discovery of Therapeutic Peptides from Animal Venoms",
+            "Joseph D Romano and Nicholas P Tatonetti",
+            "2016",
+            "Lr-3Bj4AAAAJ:2osOgNQ5qMEC",
+            4,
+            "https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC5001765\/",
+            "13812255261821036462",
+            "\/scholar?cites=13812255261821036462",
+            {
+                "2018":2,
+                "2019":2
+            }
+        ],
+        [
+            "The characterization of complex diseases remains a great challenge for biomedical researchers due to the myriad interactions of genetic and environmental factors. Network medicine approaches strive to accommodate these factors holistically. Phylogenomic techniques that can leverage available genomic data may provide an evolutionary perspective that may elucidate knowledge for gene networks of complex diseases and provide another source of information for network medicine approaches. Here, an automated method is presented that leverages publicly available genomic data and phylogenomic techniques, resulting in a gene network. The potential of approach is demonstrated based on a case study of nine genes associated with Alzheimer Disease, a complex neurodegenerative syndrome.The developed technique, which is incorporated into an update to a previously described Perl script called \u201cASAP \u2026",
+            "Adapting simultaneous analysis phylogenomic techniques to study complex disease gene relationships",
+            "Joseph D Romano and William G Tharp and Indra Neil Sarkar",
+            "2015",
+            "Lr-3Bj4AAAAJ:u5HHmVD_uO8C",
+            3,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S1532046415000040",
+            "2933870931495223365",
+            "\/scholar?cites=2933870931495223365",
+            {
+                "2016":1,
+                "2017":2
+            }
+        ],
+        [
+            "Venom peptides comprise one of the richest sources of bioactive compounds available for drug discovery. However, venom data and knowledge are fragmentary and poorly structured, and fail to capitalize on the important characteristics of venoms that make them so interesting to the biomedical community.We present VenomKB v2.0, a new open-access resource for knowledge representation and retrieval of venom bioactivities, sequences, structures, and classifications. VenomKB provides a complete infrastructure for computational toxinology, with a focus on drug discovery and effects that venoms have on the human body. VenomKB is accompanied by a suite of tools for programmatic access, and, in this article, we highlight scenarios demonstrating its usefulness and novel contributions to toxinology, pharmacology, and informatics.VenomKB can be accessed online at http:\/\/venomkb.org\/, and the code can be found at https:\/\/github.com\/tatonetti-lab\/venomkb\/. All code and data are available under open-source and open-access licenses.",
+            "VenomKB v2. 0: A knowledge repository for computational toxinology",
+            "Joseph Romano and Victor Nwankwo and Nicholas Tatonetti",
+            "2018",
+            "Lr-3Bj4AAAAJ:qjMakFHDy7sC",
+            2,
+            "https:\/\/www.biorxiv.org\/content\/10.1101\/295204v1.abstract",
+            "5199342295578910435",
+            "\/scholar?cites=5199342295578910435",
+            {
+                "2018":1,
+                "2019":1
+            }
+        ]
+    ]
+}

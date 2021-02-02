@@ -1,0 +1,78 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2
+    ],
+    "data":[
+        [
+            "Inter-area low frequency electromagnetic oscillation (LFEO) in inter-connected power systems is one of the major barriers to improve the dynamic performance of power systems, since they could either limit the amount of power transfer on the tie-lines or endanger the dynamic stability of the power systems. With the high penetration of wind and photovoltaic (PV) power plants in power systems, LFEO is becoming a problem worth more attention in renewable energy age and must be better solved in order to accept more wind and PV power in power systems. Wide-area damping control (WADC) has gained popularity in suppression of inter-area LFEO recently. Many control strategies have been developed on WADC design. This paper aims to provide a general review on practical issues, typical WADC off-line and adaptive design methods and engineering cases regarding WADC implementations. These practical \u2026",
+            "A review on wide-area damping control to restrain inter-area low frequency oscillation for large-scale power systems with increasing renewable generation",
+            "Xinran Zhang and Chao Lu and Shichao Liu and Xiaoyu Wang",
+            "2016",
+            "8lGWgWYAAAAJ:u-x6o8ySG0sC",
+            52,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S1364032115015506",
+            "8716484917011287677",
+            "\/scholar?cites=8716484917011287677",
+            {
+                "2016":4,
+                "2017":10,
+                "2018":20,
+                "2019":6,
+                "2020":10,
+                "2021":2
+            }
+        ],
+        [
+            "Communication network brings new challenges such as time delay and data loss to wide-area damping control of power systems. The uncertainty caused by stochastic time delay of network communication increases the difficulty of wide-area control performance analysis. This paper proposes a mathematical expectation modeling approach to model and analyze wide-area controlled power systems considering the effect of stochastic time delay. In the proposed method, mathematical expectation of stochastic time delay distribution is derived to accurately model the impact of communication network on wide-area control performance. The theoretical frame of the proposed modeling approach is presented, and the effectiveness of the method is verified through the simulation of a power system with eight generators and 36 nodes.",
+            "Mathematical expectation modeling of wide-area controlled power systems with stochastic time delay",
+            "Chao Lu and Xinran Zhang and Xiaoyu Wang and Yingduo Han",
+            "2015",
+            "8lGWgWYAAAAJ:u5HHmVD_uO8C",
+            48,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7008569\/",
+            "2809247348252569969",
+            "\/scholar?cites=2809247348252569969",
+            {
+                "2015":2,
+                "2016":9,
+                "2017":8,
+                "2018":12,
+                "2019":5,
+                "2020":9,
+                "2021":3
+            }
+        ],
+        [
+            "Stochastic time delay is a new challenge for communication networks in wide-area damping control (WADC) systems. Uncertainties introduced by stochastic time delays increase the difficulty of modeling, analyzing the stability, and designing the controller. In this paper, a new approach for stability analysis and controller design through expectation modeling is proposed to solve for the uncertainty in wide-area controlled power systems introduced by the effect of a stochastic time delay. In the proposed method, the expectation model that considers the detailed stochastic time delay distribution is derived to accurately model the effect of a communication network on the wide-area control performance. Through a matrix transformation of the expectation model, the eigenvalue of the WADC system that considers time delay can then be calculated; this eigenvalue can be used for analyzing the system stability. A novel \u2026",
+            "Stability analysis and controller design of a wide-area time-delay system based on the expectation model method",
+            "Xinran Zhang and Chao Lu and Xiaorong Xie and Zhao Yang Dong",
+            "2015",
+            "8lGWgWYAAAAJ:d1gkVwhDpl0C",
+            42,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7322272\/",
+            "5177596937636499158",
+            "\/scholar?cites=5177596937636499158",
+            {
+                "2016":3,
+                "2017":8,
+                "2018":11,
+                "2019":9,
+                "2020":10
+            }
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "x62kz58AAAAJ",
+            "Benjamin L. Brock",
+            "Graduate Student, Dartmouth College",
+            "@dartmouth.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=x62kz58AAAAJ",
+            51,
+            [
+                "Quantum Information Science",
+                "Superconducting Circuits",
+                "Nonlinear Dynamics",
+                "Microwave Engineering"
+            ],
+            24,
+            2,
+            2,
+            1,
+            1,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"dQqUZ_kAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Peter Love",
+                    "affiliation":"Department of Physics and Astronomy, Tufts University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Y0j6GhkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alex Rimberg",
+                    "affiliation":"Dartmouth College"
+                }
+            ]
+        ]
+    ]
+}

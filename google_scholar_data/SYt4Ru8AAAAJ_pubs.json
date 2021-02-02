@@ -1,0 +1,235 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Equilibrium systems evolve according to Detailed Balance (DB). This principle guided the development of Monte Carlo sampling techniques, of which the Metropolis\u2013Hastings (MH) algorithm is the famous representative. It is also known that DB is sufficient but not necessary. We construct irreversible deformation of a given reversible algorithm capable of dramatic improvement of sampling from known distribution. Our transformation modifies transition rates keeping the structure of transitions intact. To illustrate the general scheme we design an Irreversible version of Metropolis\u2013Hastings (IMH) and test it on an example of a spin cluster. Standard MH for the model suffers from critical slowdown, while IMH is free from critical slowdown.",
+            "Irreversible Monte Carlo algorithms for efficient sampling",
+            "Konstantin S Turitsyn and Michael Chertkov and Marija Vucelja",
+            "2011",
+            "SYt4Ru8AAAAJ:qjMakFHDy7sC",
+            106,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0167278910002782",
+            "10640007776443667761",
+            "\/scholar?cites=10640007776443667761",
+            {
+                "2010":1,
+                "2011":2,
+                "2012":2,
+                "2013":7,
+                "2014":6,
+                "2015":12,
+                "2016":16,
+                "2017":11,
+                "2018":18,
+                "2019":14,
+                "2020":16
+            }
+        ],
+        [
+            "The smallest spot in optical lithography and microscopy is generally limited by diffraction. Quantum lithography, which utilizes interference between groups of N entangled photons, was recently proposed to beat the diffraction limit by a factor N. Here we propose a simple method to obtain N photons interference with classical pulses that excite a narrow multiphoton transition, thus shifting the \"quantum weight\" from the electromagnetic field to the lithographic material. We show how a practical complete lithographic scheme can be developed and demonstrate the underlying principles experimentally by two-photon interference in atomic Rubidium, to obtain focal spots that beat the diffraction limit by a factor of 2.",
+            "Quantum lithography by coherent control of classical light pulses",
+            "Avi Pe\u2019er and Barak Dayan and Marija Vucelja and Yaron Silberberg and Asher A Friesem",
+            "2004",
+            "SYt4Ru8AAAAJ:u5HHmVD_uO8C",
+            67,
+            "https:\/\/www.osapublishing.org\/abstract.cfm?uri=oe-12-26-6600",
+            "9787893418786049620",
+            "\/scholar?cites=9787893418786049620",
+            {
+                "2005":1,
+                "2006":3,
+                "2007":6,
+                "2008":12,
+                "2009":2,
+                "2010":6,
+                "2011":3,
+                "2012":3,
+                "2013":13,
+                "2014":4,
+                "2015":2,
+                "2016":2,
+                "2017":1,
+                "2018":1,
+                "2019":3,
+                "2020":5
+            }
+        ],
+        [
+            "Markov chain Monte Carlo algorithms are invaluable tools for exploring stationary properties of physical systems, especially in situations where direct sampling is unfeasible. Common implementations of Monte Carlo algorithms employ reversible Markov chains. Reversible chains obey detailed balance and thus ensure that the system will eventually relax to equilibrium, though detailed balance is not necessary for convergence to equilibrium. We review nonreversible Markov chains, which violate detailed balance and yet still relax to a given target stationary distribution. In particular cases, nonreversible Markov chains are substantially better at sampling than the conventional reversible Markov chains with up to a square root improvement in the convergence time to the steady state. One kind of nonreversible Markov chain is constructed from the reversible ones by enlarging the state space and by modifying and \u2026",
+            "Lifting\u2014a nonreversible Markov chain Monte Carlo algorithm",
+            "Marija Vucelja",
+            "2016",
+            "SYt4Ru8AAAAJ:UebtZRa9Y70C",
+            35,
+            "https:\/\/aapt.scitation.org\/doi\/abs\/10.1119\/1.4961596",
+            "14460462788731979416",
+            "\/scholar?cites=14460462788731979416",
+            {
+                "2016":2,
+                "2017":4,
+                "2018":7,
+                "2019":8,
+                "2020":12
+            }
+        ],
+        [
+            "CRISPR loci and their associated (Cas) proteins encode a prokaryotic immune system that protects against viruses and plasmids. Upon infection, a low fraction of cells acquire short DNA sequences from the invader. These sequences (spacers) are integrated in between the repeats of the CRISPR locus and immunize the host against the matching invader. Spacers specify the targets of the CRISPR immune response through transcription into short RNA guides that direct Cas nucleases to the invading DNA molecules. Here we performed random mutagenesis of the RNA-guided Cas9 nuclease to look for variants that provide enhanced immunity against viral infection. We identified a mutation, I473F, that increases the rate of spacer acquisition by more than two orders of magnitude. Our results highlight the role of Cas9 during CRISPR immunization and provide a useful tool to study this rare process and develop it as \u2026",
+            "Mutations in Cas9 enhance the rate of acquisition of viral spacer sequences during the CRISPR-Cas immune response",
+            "Robert Heler and Addison V Wright and Marija Vucelja and David Bikard and Jennifer A Doudna and Luciano A Marraffini",
+            "2017",
+            "SYt4Ru8AAAAJ:hqOjcs7Dif8C",
+            33,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S1097276516307766",
+            "2979730967644248152",
+            "\/scholar?cites=2979730967644248152",
+            {
+                "2017":6,
+                "2018":6,
+                "2019":11,
+                "2020":7,
+                "2021":3
+            }
+        ],
+        [
+            "Evolutionary dynamics in nature constitute an immensely complex non-equilibrium process. We review the application of physical models of evolution, by focusing on adaptation, extinction, and ecology. In each case, we examine key concepts by working through examples. Adaptation is discussed in the context of bacterial evolution, with a view toward the relationship between growth rates, mutation rates, selection strength, and environmental changes. Extinction dynamics for an isolated population are reviewed, with emphasis on the relation between timescales of extinction, population size, and temporally correlated noise. Ecological models are discussed by focusing on the effect of spatial interspecies interactions on diversity. Connections between physical processes\u2014such as diffusion, turbulence, and localization\u2014and evolutionary phenomena are highlighted.",
+            "Non-equilibrium physics and evolution\u2014adaptation, extinction, and ecology: a Key Issues review",
+            "E Kussell and M Vucelja",
+            "2014",
+            "SYt4Ru8AAAAJ:WF5omc3nYNoC",
+            23,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0034-4885\/77\/10\/102602\/meta",
+            "14308735483012750495",
+            "\/scholar?cites=14308735483012750495",
+            {
+                "2015":3,
+                "2016":5,
+                "2017":3,
+                "2018":4,
+                "2019":2,
+                "2020":6
+            }
+        ],
+        [
+            "In sexual population, recombination reshuffles genetic variation and produces novel combinations of existing alleles, while selection amplifies the fittest genotypes in the population. If recombination is more rapid than selection, populations consist of a diverse mixture of many genotypes, as is observed in many populations. In the opposite regime, which is realized for example in the facultatively sexual populations that outcross in only a fraction of reproductive cycles, selection can amplify individual genotypes into large clones. Such clones emerge when the fitness advantage of some of the genotypes is large enough that they grow to a significant fraction of the population despite being broken down by recombination. The occurrence of this' clonal condensation'depends, in addition to the outcrossing rate, on the heritability of fitness. Clonal condensation leads to a strong genetic heterogeneity of the population which \u2026",
+            "Emergence of clones in sexual populations",
+            "Richard A Neher and Marija Vucelja and Mark Mezard and Boris I Shraiman",
+            "2013",
+            "SYt4Ru8AAAAJ:Y0pCki6q_DkC",
+            19,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/1742-5468\/2013\/01\/P01008\/meta",
+            "8528165308489878651",
+            "\/scholar?cites=8528165308489878651",
+            {
+                "2013":3,
+                "2014":5,
+                "2015":1,
+                "2016":1,
+                "2017":4,
+                "2018":2,
+                "2019":1,
+                "2020":1,
+                "2021":1
+            }
+        ],
+        [
+            "We present a model for the Lagrangian dynamics of inertial particles in a compressible flow, where fluid velocity gradients are modeled by a telegraph noise. The model allows for an analytic investigation of the role of time correlation of the flow in the aggregation-disorder transition of inertial particles. The dependence on the Stokes number St and the Kubo number Ku of the Lyapunov exponent of particle trajectories reveals the presence of a region in parameter space (St, Ku), where the leading Lyapunov exponent changes sign, thus signaling the transition. The asymptotics of short-and long-correlated flows are discussed, as well as the fluid-tracer limit.",
+            "Inertial particles driven by a telegraph noise",
+            "G Falkovich and S Musacchio and L Piterbarg and M Vucelja",
+            "2007",
+            "SYt4Ru8AAAAJ:d1gkVwhDpl0C",
+            19,
+            "https:\/\/journals.aps.org\/pre\/abstract\/10.1103\/PhysRevE.76.026313",
+            "16592965854258456378",
+            "\/scholar?cites=16592965854258456378",
+            {
+                "2007":2,
+                "2008":1,
+                "2009":1,
+                "2010":4,
+                "2011":1,
+                "2012":3,
+                "2013":2,
+                "2014":1,
+                "2015":1,
+                "2016":3
+            }
+        ],
+        [
+            "The Mpemba effect is a counterintuitive relaxation phenomenon, where a system prepared at a hot temperature cools down faster than an identical system initiated at a cold temperature when both are quenched to an even colder bath. Such nonmonotonic relaxations are observed in various systems, including water, magnetic alloys, polymers, and driven granular gases. We analyze the Mpemba effect in Markovian dynamics and discover that a stronger version of the effect often exists for a carefully chosen set of initial temperatures. In this strong Mpemba effect, the relaxation time jumps to a smaller value leading to exponentially faster equilibration dynamics. The number of such special initial temperatures defines the Mpemba index, whose parity is a topological property of the system. To demonstrate these concepts, we first analyze the different types of Mpemba relaxations in the mean-field antiferromagnetic Ising \u2026",
+            "Mpemba index and anomalous relaxation",
+            "Israel Klich and Oren Raz and Ori Hirschberg and Marija Vucelja",
+            "2019",
+            "SYt4Ru8AAAAJ:R3hNpaxXUhUC",
+            17,
+            "https:\/\/journals.aps.org\/prx\/abstract\/10.1103\/PhysRevX.9.021060",
+            "13533820858602508716",
+            "\/scholar?cites=13533820858602508716",
+            {
+                "2019":4,
+                "2020":12,
+                "2021":1
+            }
+        ],
+        [
+            "The growth rate of small-scale density inhomogeneities (the entropy production rate) is given by the sum of the Lyapunov exponents in a random flow. We derive an analytic formula for the rate in a flow of weakly interacting waves and show that in most cases it is zero up to the fourth order in the wave amplitude. We then derive an analytic formula for the rate in a flow of waves and currents. Estimates of the rate and the fractal dimension of the density distribution show that the interplay between waves and currents is a realistic mechanism for providing patchiness of the pollutant distribution on the ocean surface.",
+            "Clustering of matter in waves and currents",
+            "Marija Vucelja and Gregory Falkovich and Itzhak Fouxon",
+            "2007",
+            "SYt4Ru8AAAAJ:9yKSN-GCB0IC",
+            17,
+            "https:\/\/journals.aps.org\/pre\/abstract\/10.1103\/PhysRevE.75.065301",
+            "15313783867045217817",
+            "\/scholar?cites=15313783867045217817",
+            {
+                "2007":1,
+                "2008":3,
+                "2009":1,
+                "2010":1,
+                "2011":1,
+                "2012":4,
+                "2013":3,
+                "2014":3
+            }
+        ],
+        [
+            "The CRISPR (clustered regularly interspaced short palindromic repeats) mechanism allows bacteria to adaptively defend against phages by acquiring short genomic sequences (spacers) that target specific sequences in the viral genome. We propose a population dynamical model where immunity can be both acquired and lost. The model predicts regimes where bacterial and phage populations can co-exist, others where the populations exhibit damped oscillations, and still others where one population is driven to extinction. Our model considers two key parameters: (1) ease of acquisition and (2) spacer effectiveness in conferring immunity. Analytical calculations and numerical simulations show that if spacers differ mainly in ease of acquisition, or if the probability of acquiring them is sufficiently high, bacteria develop a diverse population of spacers. On the other hand, if spacers differ mainly in their effectiveness, their final distribution will be highly peaked, akin to a \u201cwinner-take-all\u201d scenario, leading to a specialized spacer distribution. Bacteria can interpolate between these limiting behaviors by actively tuning their overall acquisition probability.",
+            "Dynamics of adaptive immunity against phage in bacterial populations",
+            "Serena Bradde and Marija Vucelja and Tiberiu Te\u015fileanu and Vijay Balasubramanian",
+            "2017",
+            "SYt4Ru8AAAAJ:roLk4NBRz8UC",
+            14,
+            "https:\/\/journals.plos.org\/ploscompbiol\/article?rev=1&id=10.1371\/journal.pcbi.1005486",
+            "3357996537913155593",
+            "\/scholar?cites=3357996537913155593",
+            {
+                "2017":2,
+                "2018":5,
+                "2019":5,
+                "2020":2
+            }
+        ]
+    ]
+}

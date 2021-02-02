@@ -1,0 +1,41 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "9TSHLDOS",
+            "du8pT4kAAAAJ",
+            [
+                "IceCube-Gen2: The Window to the Extreme Universe",
+                "eV-scale sterile neutrino search using eight years of atmospheric muon neutrino data from the IceCube Neutrino Observatory",
+                "Searching for eV-scale sterile neutrinos with eight years of atmospheric neutrinos at the IceCube Neutrino Telescope",
+                "The IceCube high-energy starting event sample: Description and flux characterization with 7.5 years of data",
+                "Cosmic ray spectrum from 250 TeV to 10 PeV using IceTop",
+                "Measurement of the high-energy all-flavor neutrino-nucleon cross section with IceCube",
+                "Measurement of Astrophysical Tau Neutrinos in IceCube's High-Energy Starting Events"
+            ],
+            [
+                "The observation of electromagnetic radiation from radio to -ray wavelengths has provided a wealth of information about the universe. However, at PeV (10 eV) energies and above, most of the universe is impenetrable to photons. New messengers, namely cosmic neutrinos, are needed to explore the most extreme environments of the universe where black holes, neutron stars, and stellar explosions transform gravitational energy into non-thermal cosmic rays. The discovery of cosmic neutrinos with IceCube has opened this new window on the universe. In this white paper, we present an overview of a next-generation instrument, IceCube-Gen2, which will sharpen our understanding of the processes and environments that govern the universe at the highest energies. IceCube-Gen2 is designed to: 1) Resolve the high-energy neutrino sky from TeV to EeV energies; 2) Investigate cosmic particle acceleration through multi-messenger observations; 3) Reveal the sources and propagation of the highest energy particles in the universe; 4) Probe fundamental physics with high-energy neutrinos. IceCube-Gen2 will increase the annual rate of observed cosmic neutrinos by a factor of ten compared to IceCube, and will be able to detect sources five times fainter than its predecessor. Furthermore, through the addition of a radio array, IceCube-Gen2 will extend the energy range by several orders of magnitude compared to IceCube. Construction will take 8 years and cost about\\$350 M. The goal is to have IceCube-Gen2 fully operational by 2033. IceCube-Gen2 will play an essential role in shaping the new era of multi-messenger astronomy, fundamentally \u2026",
+                "The results of a 3+ 1 sterile neutrino search using eight years of data from the IceCube Neutrino Observatory are presented. A total of 305 735 muon neutrino events are analyzed in reconstructed energy-zenith space to test for signatures of a matter-enhanced oscillation that would occur given a sterile neutrino state with a mass-squared differences between 0.01 and 100 eV 2. The best-fit point is found to be at sin 2 (2 \u03b8 24)= 0.10 and \u0394 m 41 2= 4.5 eV 2, which is consistent with the no sterile neutrino hypothesis with a p value of 8.0%.",
+                "We report in detail on searches for eV-scale sterile neutrinos, in the context of a 3+ 1 model, using eight years of data from the IceCube Neutrino Telescope. By analyzing the reconstructed energies and zenith angles of 305,735 atmospheric \u03bd \u03bc and \u03bd \u03bc events we construct confidence intervals in two analysis spaces: sin 2 (2 \u03b8 24) vs \u0394 m 41 2 under the conservative assumption \u03b8 34= 0; and sin 2 (2 \u03b8 24) vs sin 2 (2 \u03b8 34) given sufficiently large \u0394 m 41 2 that fast oscillation features are unresolvable. Detailed discussions of the event selection, systematic uncertainties, and fitting procedures are presented. No strong evidence for sterile neutrinos is found, and the best-fit likelihood is consistent with the no sterile neutrino hypothesis with a p value of 8% in the first analysis space and 19% in the second.",
+                "The IceCube Neutrino Observatory has established the existence of a high-energy all-sky neutrino flux of astrophysical origin. This discovery was made using events interacting within a fiducial region of the detector surrounded by an active veto and with reconstructed energy above 60 TeV, commonly known as the high-energy starting event sample, or HESE. We revisit the analysis of the HESE sample with an additional 4.5 years of data, newer glacial ice models, and improved systematics treatment. This paper describes the sample in detail, reports on the latest astrophysical neutrino flux measurements, and presents a source search for astrophysical neutrinos. We give the compatibility of these observations with specific isotropic flux models proposed in the literature as well as generic power-law-like scenarios. Assuming , and an equal flux of neutrinos and antineutrinos, we find that the astrophysical neutrino spectrum is compatible with an unbroken power law, with a preferred spectral index of  for the  confidence interval.",
+                "We report here an extension of the measurement of the all-particle cosmic-ray spectrum with IceTop to lower energy. The new measurement gives full coverage of the knee region of the spectrum and reduces the gap in energy between previous IceTop and direct measurements. With a new trigger that selects events in closely spaced detectors in the center of the array, the IceTop energy threshold is lowered by almost an order of magnitude below its previous threshold of 2 PeV. In this paper we explain how the new trigger is implemented, and we describe the new machine-learning method developed to deal with events with very few detectors hit. We compare the results with previous measurements by IceTop and others that overlap at higher energy and with HAWC and Tibet in the 100 TeV range.",
+                "The flux of high-energy neutrinos passing through the Earth is attenuated due to their interactions with matter. The interaction rate is modulated by the neutrino interaction cross section and affects the flux arriving at the IceCube Neutrino Observatory, a cubic-kilometer neutrino detector embedded in the Antarctic ice sheet. We present a measurement of the neutrino cross section between 60 TeV and 10 PeV using the high-energy starting events (HESE) sample from IceCube with 7.5 years of data. The result is binned in neutrino energy and obtained using both Bayesian and frequentist statistics. We find it compatible with predictions from the Standard Model. Flavor information is explicitly included through updated morphology classifiers, proxies for the the three neutrino flavors. This is the first such measurement to use the three morphologies as observables and the first to account for neutrinos from tau decay.",
+                "We present the results of a search for astrophysical tau neutrinos in 7.5 years of IceCube's high-energy starting event data. At high energies, two energy depositions stemming from the tau neutrino charged-current interaction and subsequent tau lepton decay may be resolved. We report the first detection of two such events, with probabilities of  and  of being produced by astrophysical tau neutrinos. The resultant astrophysical neutrino flavor measurement is consistent with expectations, disfavoring a no-astrophysical tau neutrino flux scenario with 2.8 significance."
+            ],
+            [
+                [
+                    "Experimental High Energy Physics"
+                ]
+            ]
+        ]
+    ]
+}

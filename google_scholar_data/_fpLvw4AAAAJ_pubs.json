@@ -1,0 +1,234 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Quantum key distribution (QKD) systems often rely on polarization of light for encoding, thus limiting the amount of information that can be sent per photon and placing tight bounds on the error rates that such a system can tolerate. Here we describe a proof-of-principle experiment that indicates the feasibility of high-dimensional QKD based on the transverse structure of the light field allowing for the transfer of more than 1 bit per photon. Our implementation uses the orbital angular momentum (OAM) of photons and the corresponding mutually unbiased basis of angular position (ANG). Our experiment uses a digital micro-mirror device for the rapid generation of OAM and ANG modes at 4 kHz, and a mode sorter capable of sorting single photons based on their OAM and ANG content with a separation efficiency of 93%. Through the use of a seven-dimensional alphabet encoded in the OAM and ANG bases, we achieve \u2026",
+            "High-dimensional quantum cryptography with twisted light",
+            "Mohammad Mirhosseini and Omar S Maga\u00f1a-Loaiza and Malcolm N O\u2019Sullivan and Brandon Rodenburg and Mehul Malik and Martin PJ Lavery and Miles J Padgett and Daniel J Gauthier and Robert W Boyd",
+            "2015",
+            "_fpLvw4AAAAJ:h1pkognVyKwC",
+            447,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/1367-2630\/17\/3\/033033\/meta",
+            "9101791156689311656",
+            "\/scholar?cites=9101791156689311656",
+            {
+                "2014":6,
+                "2015":17,
+                "2016":66,
+                "2017":66,
+                "2018":100,
+                "2019":89,
+                "2020":97,
+                "2021":5
+            }
+        ],
+        [
+            "We report a technique for encoding both amplitude and phase variations onto a laser beam using a single digital micro-mirror device (DMD). Using this technique, we generate Laguerre-Gaussian and vortex orbital-angular-momentum (OAM) modes, along with modes in a set that is mutually unbiased with respect to the OAM basis. Additionally, we have demonstrated rapid switching among the generated modes at a speed of 4 kHz, which is much faster than the speed regularly achieved by phase-only spatial light modulators (SLMs). The dynamic control of both phase and amplitude of a laser beam is an enabling technology for classical communication and quantum key distribution (QKD) systems that employ spatial mode encoding.",
+            "Rapid generation of light beams carrying orbital angular momentum",
+            "Mohammad Mirhosseini and Omar S Magana-Loaiza and Changchen Chen and Brandon Rodenburg and Mehul Malik and Robert W Boyd",
+            "2013",
+            "_fpLvw4AAAAJ:I2jIoRS3jIgC",
+            192,
+            "https:\/\/www.osapublishing.org\/abstract.cfm?uri=oe-21-25-30196",
+            "5235867638625723985",
+            "\/scholar?cites=5235867638625723985",
+            {
+                "2014":25,
+                "2015":19,
+                "2016":29,
+                "2017":25,
+                "2018":26,
+                "2019":35,
+                "2020":27,
+                "2021":6
+            }
+        ],
+        [
+            "We present a weak measurement protocol that permits a sensitive estimation of angular rotations based on the concept of weak-value amplification. The shift in the state of a pointer, in both angular position and the conjugate orbital angular momentum bases, is used to estimate angular rotations. This is done by an amplification of both the real and imaginary parts of the weak-value of a polarization operator that has been coupled to the pointer, which is a spatial mode, via a spin-orbit coupling. Our experiment demonstrates the first realization of weak-value amplification in the azimuthal degree of freedom. We have achieved effective amplification factors as large as 100, providing a sensitivity that is on par with more complicated methods that employ quantum states of light or extremely large values of orbital angular momentum.",
+            "Amplification of angular rotations using weak measurements",
+            "Omar S Maga\u00f1a-Loaiza and Mohammad Mirhosseini and Brandon Rodenburg and Robert W Boyd",
+            "2014",
+            "_fpLvw4AAAAJ:9VeumLvkZSQC",
+            143,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.112.200401",
+            "3766026936343644200",
+            "\/scholar?cites=3766026936343644200",
+            {
+                "2014":7,
+                "2015":14,
+                "2016":14,
+                "2017":25,
+                "2018":29,
+                "2019":24,
+                "2020":28,
+                "2021":1
+            }
+        ],
+        [
+            "We describe a procedure by which a long () optical path through atmospheric turbulence can be experimentally simulated in a controlled fashion and scaled down to distances easily accessible in a laboratory setting. This procedure is then used to simulate a 1 km long free-space communication link in which information is encoded in orbital angular momentum spatial modes. We also demonstrate that standard adaptive optics methods can be used to mitigate many of the effects of thick atmospheric turbulence.",
+            "Simulating thick atmospheric turbulence in the lab with application to orbital angular momentum communication",
+            "Brandon Rodenburg and Mohammad Mirhosseini and Mehul Malik and Omar S Maga\u00f1a-Loaiza and Michael Yanakas and Laura Maher and Nicholas K Steinhoff and Glenn A Tyler and Robert W Boyd",
+            "2014",
+            "_fpLvw4AAAAJ:d1gkVwhDpl0C",
+            114,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/1367-2630\/16\/3\/033020\/meta",
+            "34639487896185454",
+            "\/scholar?cites=34639487896185454",
+            {
+                "2013":3,
+                "2014":15,
+                "2015":13,
+                "2016":19,
+                "2017":14,
+                "2018":15,
+                "2019":15,
+                "2020":19,
+                "2021":1
+            }
+        ],
+        [
+            "A Bell test is a randomized trial that compares experimental observations against the philosophical worldview of local realism. A Bell test requires spatially distributed entanglement, fast and high-efficiency detection and unpredictable measurement settings. Although technology can satisfy the first two of these requirements, the use of physical devices to choose settings in a Bell test involves making assumptions about the physics that one aims to test. Bell himself noted this weakness in using physical setting choices and argued that humanfree will'could be used rigorously to ensure unpredictability in Bell tests. Here we report a set of local-realism tests using human choices, which avoids assumptions about predictability in physics. We recruited about 100,000 human participants to play an online video game that incentivizes fast, sustained input of unpredictable selections and illustrates Bell-test methodology. The participants generated 97,347,490 binary choices, which were directed via a scalable web platform to 12 laboratories on five continents, where 13 experiments tested local realism using photons, single atoms, atomic ensembles, and superconducting devices. Over a 12-hour period on 30 November 2016, participants worldwide provided a sustained data flow of over 1,000 bits per second to the experiments, which used different human-generated data to choose each measurement setting. The observed correlations strongly contradict local realism and other realistic positions in bipartite and tripartite scenarios. Project outcomes include closing thefreedom-of-choice loophole'(the possibility that the setting choices are influenced byhidden \u2026",
+            "Challenging local realism with human choices",
+            "Carlos Abell\u00e1n and A Acin and A Alarc\u00f3n and O Alibart and CK Andersen and F Andreoli and A Beckert and FA Beduini and A Bendersky and M Bentivegna and P Bierhorst and D Burchardt and A Cabello and J Carine and S Carrasco and G Carvacho and D Cavalcanti and R Chaves and J Cort\u00e9s-Vega and A Cuevas and A Delgado and H De Riedmatten and C Eichler and P Farrera and J Fuenzalida and M Garcia-Matos and R Garthoff and S Gasparinetti and T Gerrits and F Ghafari Jouneghani and S Glancy and ES Gomez and P Gonz\u00e1lez and J-Y Guan and J Handsteiner and J Heinsoo and G Heinze and A Hirschmann and O Jimenez and F Kaiser and E Knill and LT Knoll and S Krinner and P Kurpiers and MA Larotonda and J-\u00c5 Larsson and A Lenhard and H Li and M-H Li and G Lima and B Liu and Y Liu and IH Grande and T Lunghi and X Ma and OS Magana-Loaiza and P Magnard and A Magnoni and M Marti-Prieto and D Martinez and P Mataloni and A Mattar and M Mazzera and RP Mirin and MW Mitchell and S Nam and M Oppliger and J-W Pan and RB Patel and GJ Pryde and D Rauch and K Redeker and D Riel\u00e4nder and M Ringbauer and T Roberson and W Rosenfeld and Y Salathe and L Santodonato and G Sauder",
+            "2018",
+            "_fpLvw4AAAAJ:PlWzFYVEG4EC",
+            107,
+            "https:\/\/arxiv.org\/abs\/1805.04431",
+            "17666215239102363240",
+            "\/scholar?cites=17666215239102363240",
+            {
+                "2017":1,
+                "2018":13,
+                "2019":43,
+                "2020":47,
+                "2021":1
+            }
+        ],
+        [
+            "The direct measurement of a complex wave function has been recently realized by using weak values. In this Letter, we introduce a method that exploits sparsity for the compressive measurement of the transverse spatial wave function of photons. The procedure involves weak measurements of random projection operators in the spatial domain followed by postselection in the momentum basis. Using this method, we experimentally measure a 192-dimensional state with a fidelity of 90% using only 25 percent of the total required measurements. Furthermore, we demonstrate the measurement of a 19 200-dimensional state, a task that would require an unfeasibly large acquiring time with the standard direct measurement technique.",
+            "Compressive direct measurement of the quantum wave function",
+            "Mohammad Mirhosseini and Omar S Maga\u00f1a-Loaiza and Seyed Mohammad Hashemi Rafsanjani and Robert W Boyd",
+            "2014",
+            "_fpLvw4AAAAJ:AFXcoJnoRH0C",
+            90,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.113.090402",
+            "8178827469802535226",
+            "\/scholar?cites=8178827469802535226",
+            {
+                "2014":1,
+                "2015":11,
+                "2016":14,
+                "2017":16,
+                "2018":12,
+                "2019":19,
+                "2020":16,
+                "2021":1
+            }
+        ],
+        [
+            "We present a compressive sensing protocol that tracks a moving object by removing static components from a scene. The implementation is carried out on a ghost imaging scheme to minimize both the number of photons and the number of measurements required to form a quantum image of the tracked object. This procedure tracks an object at low light levels with fewer than 3% of the measurements required for a raster scan, permitting us to more effectively use the information content in each photon.",
+            "Compressive object tracking using entangled photons",
+            "Omar S Magana-Loaiza and Gregory A Howland and Mehul Malik and John C Howell and Robert W Boyd",
+            "2013",
+            "_fpLvw4AAAAJ:cOfwuRB03ygC",
+            63,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.4809836",
+            "1547822062340161148",
+            "\/scholar?cites=1547822062340161148",
+            {
+                "2013":2,
+                "2014":7,
+                "2015":11,
+                "2016":11,
+                "2017":6,
+                "2018":8,
+                "2019":12,
+                "2020":5,
+                "2021":1
+            }
+        ],
+        [
+            "We present a state-transfer protocol that is mathematically equivalent to quantum teleportation but uses classical nonseparability instead of quantum entanglement. In our implementation we take advantage of nonseparability among three parties: orbital angular momentum (OAM), polarization, and the radial degrees of freedom of a beam of light. We demonstrate the transfer of arbitrary OAM states, in the subspace spanned by any two OAM states, to the polarization of the same beam.",
+            "State transfer based on classical nonseparability",
+            "Seyed Mohammad Hashemi Rafsanjani and Mohammad Mirhosseini and Omar S Magana-Loaiza and Robert W Boyd",
+            "2015",
+            "_fpLvw4AAAAJ:Oj-SLI0tZTcC",
+            56,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.92.023827",
+            "7258577637704476054",
+            "\/scholar?cites=7258577637704476054",
+            {
+                "2015":6,
+                "2016":14,
+                "2017":6,
+                "2018":8,
+                "2019":9,
+                "2020":13
+            }
+        ],
+        [
+            "We have built an imaging system that uses a photon's position or time-of-flight information to image an object, while using the photon's polarization for security. This ability allows us to obtain an image which is secure against an attack in which the object being imaged intercepts and resends the imaging photons with modified information. Popularly known as \u201cjamming,\u201d this type of attack is commonly directed at active imaging systems such as radar. In order to jam our imaging system, the object must disturb the delicate quantum state of the imaging photons, thus introducing statistical errors that reveal its activity.",
+            "Quantum-secured imaging",
+            "Mehul Malik and Omar S Maga\u00f1a-Loaiza and Robert W Boyd",
+            "2012",
+            "_fpLvw4AAAAJ:1_W9tMSvGuwC",
+            55,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.4770298",
+            "8800399969876113435",
+            "\/scholar?cites=8800399969876113435",
+            {
+                "2011":1,
+                "2012":7,
+                "2013":9,
+                "2014":6,
+                "2015":8,
+                "2016":5,
+                "2017":4,
+                "2018":9,
+                "2019":6
+            }
+        ],
+        [
+            "We experimentally demonstrate that the spectral sensitivity of a Mach\u2013Zehnder (MZ) interferometer can be enhanced through structural slow light. We observe a 20-fold resolution enhancement by placing a dispersion-engineered, slow-light, photonic-crystal waveguide in one arm of a fiber-based MZ interferometer. The spectral sensitivity of the interferometer increases roughly linearly with the group index, and we have quantified the resolution in terms of the spectral density of interference fringes. These results show promise for the use of slow-light methods for developing novel tools for optical metrology and, specifically, for compact high-resolution spectrometers.",
+            "Enhanced spectral sensitivity of a chip-scale photonic-crystal slow-light interferometer",
+            "Omar S Maga\u00f1a-Loaiza and Boshen Gao and Sebastian A Schulz and Kashif M Awan and Jeremy Upham and Ksenia Dolgaleva and Robert W Boyd",
+            "2016",
+            "_fpLvw4AAAAJ:z_wVstp3MssC",
+            46,
+            "https:\/\/www.osapublishing.org\/abstract.cfm?uri=ol-41-7-1431",
+            "15706314827062795139",
+            "\/scholar?cites=15706314827062795139",
+            {
+                "2016":1,
+                "2017":2,
+                "2018":16,
+                "2019":11,
+                "2020":14,
+                "2021":2
+            }
+        ]
+    ]
+}

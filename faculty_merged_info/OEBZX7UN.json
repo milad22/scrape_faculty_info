@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "OEBZX7UN",
+            "RjUYapgAAAAJ",
+            [
+                "Social consensus through the influence of committed minorities",
+                "Suppressing roughness of virtual times in parallel discrete-event simulations",
+                "Competition-driven network dynamics: Emergence of a scale-free leadership structure and collective efficiency",
+                "Dynamic phase transition, universality, and finite-size scaling in the two-dimensional kinetic Ising model in an oscillating field",
+                "Absence of first-order transition and tricritical point in the dynamic phase diagram of a spatially extended bistable system in an oscillating field",
+                "From massively parallel algorithms and fluctuating time horizons to nonequilibrium surface growth",
+                "The naming game in social networks: community formation and consensus engineering",
+                "Threshold-limited spreading in social networks with multiple initiators",
+                "Network synchronization in a noisy environment with time delays: Fundamental limits and trade-offs",
+                "Naming games in two-dimensional and small-world-connected random geometric networks"
+            ],
+            [
+                "We show how the prevailing majority opinion in a population can be rapidly reversed by a small fraction p of randomly distributed committed agents who consistently proselytize the opposing opinion and are immune to influence. Specifically, we show that when the committed fraction grows beyond a critical value p c\u2248 10%, there is a dramatic decrease in the time T c taken for the entire population to adopt the committed opinion. In particular, for complete graphs we show that when p< p c, T c~ exp [\u03b1 (p) N], whereas for p> p c, T c~ ln N. We conclude with simulation results for Erd\u0151s-R\u00e9nyi random graphs and scale-free networks which show qualitatively similar behavior.",
+                "In a parallel discrete-event simulation (PDES) scheme, tasks are distributed among processing elements (PEs) whose progress is controlled by a synchronization scheme. For lattice systems with short-range interactions, the progress of the conservative PDES scheme is governed by the Kardar-Parisi-Zhang equation from the theory of nonequilibrium surface growth. Although the simulated (virtual) times of the PEs progress at a nonzero rate, their standard deviation (spread) diverges with the number of PEs, hindering efficient data collection. We show that weak random interactions among the PEs can make this spread nondivergent. The PEs then progress at a nonzero, near-uniform rate without requiring global synchronizations.",
+                "Using the minority game as a model for competition dynamics, we investigate the effects of interagent communications across a network on the global evolution of the game. Agent communication across this network leads to the formation of an influence network, which is dynamically coupled to the evolution of the game, and it is responsible for the information flow driving the agents\u2019 actions. We show that the influence network spontaneously develops hubs with a broad distribution of in-degrees, defining a scale-free robust leadership structure. Furthermore, in realistic parameter ranges, facilitated by information exchange on the network, agents can generate a high degree of cooperation making the collective almost maximally efficient.",
+                "We study the two-dimensional kinetic Ising model below its equilibrium critical temperature, subject to a square-wave oscillating external field. We focus on the multidroplet regime, where the metastable phase decays through nucleation and growth of many droplets of the stable phase. At a critical frequency, the system undergoes a genuine nonequilibrium phase transition, in which the symmetry-broken phase corresponds to an asymmetric stationary limit cycle for the time-dependent magnetization. We investigate the universal aspects of this dynamic phase transition at various temperatures and field amplitudes via large-scale Monte Carlo simulations, employing finite-size scaling techniques adopted from equilibrium critical phenomena. The critical exponents, the fixed-point value of the fourth-order cumulant, and the critical order-parameter distribution all are consistent with the universality class of the two \u2026",
+                "It has been well established that spatially extended, bistable systems that are driven by an oscillating field exhibit a nonequilibrium dynamic phase transition (DPT). The DPT occurs when the field frequency is of the order of the inverse of an intrinsic lifetime associated with the transitions between the two stable states in a static field of the same magnitude as the amplitude of the oscillating field. The DPT is continuous and belongs to the same universality class as the equilibrium phase transition of the Ising model in zero field [G. Korniss et al., Phys. Rev. E 63, 016120 (2001); H. Fujisaka et al., Phys. Rev. E 63, 036109 (2001)]. However, it has previously been claimed that the DPT becomes discontinuous at temperatures below a tricritical point [M. Acharyya, Phys. Rev. E 59, 218 (1999)]. This claim was based on observations in dynamic Monte Carlo simulations of a multipeaked probability density for the dynamic order \u2026",
+                "We study the asymptotic scaling properties of a massively parallel algorithm for discrete-event simulations where the discrete events are Poisson arrivals. The evolution of the simulated time horizon is analogous to a nonequilibrium surface. Monte Carlo simulations and a coarse-grained approximation indicate that the macroscopic landscape in the steady state is governed by the Edwards-Wilkinson Hamiltonian. Since the efficiency of the algorithm corresponds to the density of local minima in the associated surface, our results imply that the algorithm is asymptotically scalable.",
+                "We study the dynamics of the Naming Game (Baronchelli et al. in J Stat Mech Theory Exp P06014, 2006b) in empirical social networks. This stylized agent-based model captures essential features of agreement dynamics in a network of autonomous agents, corresponding to the development of shared classification schemes in a network of artificial agents or opinion spreading and social dynamics in social networks. Our study focuses on the impact that communities in the underlying social graphs have on the outcome of the agreement process. We find that networks with strong community structure hinder the system from reaching global agreement; the evolution of the Naming Game in these networks maintains clusters of coexisting opinions indefinitely. Further, we investigate agent-based network strategies to facilitate convergence to global consensus.",
+                "A classical model for social-influence-driven opinion change is the threshold model. Here we study cascades of opinion change driven by threshold model dynamics in the case where multiple initiators trigger the cascade and where all nodes possess the same adoption threshold \u03d5. Specifically, using empirical and stylized models of social networks, we study cascade size as a function of the initiator fraction p. We find that even for arbitrarily high value of \u03d5, there exists a critical initiator fraction p c (\u03d5) beyond which the cascade becomes global. Network structure, in particular clustering, plays a significant role in this scenario. Similarly to the case of single-node or single-clique initiators studied previously, we observe that community structure within the network facilitates opinion spread to a larger extent than a homogeneous random network. Finally, we study the efficacy of different initiator selection strategies on the \u2026",
+                "We study the effects of nonzero time delays in stochastic synchronization problems with linear couplings in an arbitrary network. Using the known exact threshold value from the theory of differential equations with delays, we provide the synchronizability threshold for an arbitrary network. Further, by constructing the scaling theory of the underlying fluctuations, we establish the absolute limit of synchronization efficiency in a noisy environment with uniform time delays, ie, the minimum attainable value of the width of the synchronization landscape. Our results also have strong implications for optimization and trade-offs in network synchronization with delays.",
+                "We investigate a prototypical agent-based model, the naming game, on two-dimensional random geometric networks. The naming game [Baronchelli et al., J. Stat. Mech.: Theory Exp.(2006) P06014] is a minimal model, employing local communications that captures the emergence of shared communication schemes (languages) in a population of autonomous semiotic agents. Implementing the naming games with local broadcasts on random geometric graphs, serves as a model for agreement dynamics in large-scale, autonomously operating wireless sensor networks. Further, it captures essential features of the scaling properties of the agreement process for spatially embedded autonomous agents. Among the relevant observables capturing the temporal properties of the agreement process, we investigate the cluster-size distribution and the distribution of the agreement times, both exhibiting dynamic scaling. We \u2026"
+            ],
+            [
+                [
+                    "Statistical Physics",
+                    "Network Science",
+                    "Complex Networks",
+                    "Mathematical Biology",
+                    "Theoretical Ecology"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ],
+    "data":[
+        [
+            "We present simulation and experimental results for easily fabricated spiral plasmonic antenna analogues providing circular polarization selectivity. One circular polarization state is concentrated and transmitted through a subwavelength aperture, while the opposite circular state is blocked. The spectral bandwidth, efficiency, and extinction ratios are tunable through geometric parameters. Integration of such structures onto a focal plane array in conjunction with linear micropolarizers enables complete Stokes vector imaging, that, until now, has been difficult to achieve. An array of these structures forms a plasmonic metamaterial that exhibits high circular dichroism.",
+            "Spiral plasmonic nanoantennas as circular polarization transmission filters",
+            "KA Bachman and JJ Peltzer and PD Flammer and TE Furtak and RT Collins and RE Hollingsworth",
+            "2012",
+            "GLLQXnkAAAAJ:d1gkVwhDpl0C",
+            66,
+            "https:\/\/www.osapublishing.org\/abstract.cfm?uri=oe-20-2-1308",
+            "4804430100505541394",
+            "\/scholar?cites=4804430100505541394",
+            {
+                "2012":3,
+                "2013":8,
+                "2014":12,
+                "2015":7,
+                "2016":11,
+                "2017":5,
+                "2018":10,
+                "2019":4,
+                "2020":5,
+                "2021":1
+            }
+        ],
+        [
+            "VLSI compatible optical waveguides on silicon are currently of particular interest in order to integrate optical elements onto silicon chips, and for possible replacements of electrical cross-chip\/inter-core interconnects. Here we present simulation and experimental verification of a hybrid plasmon\/dielectric, single-mode, single-polarization waveguide for silicon-on-insulator wafers. Its fabrication is compatible with VLSI processing techniques, and it possesses desirable properties such as the absence of birefringence and low sensitivity to surface roughness and metallic losses. The waveguide structure naturally forms an MOS capacitor, possibly useful for active device integration. Simulations predict very long propagation lengths of millimeter scale with micron scale confinement, or sub-micron scale confinement with propagation lengths still in excess of 100 microns. The waveguide may be tuned continuously between \u2026",
+            "Hybrid plasmon\/dielectric waveguide for integrated silicon-on-insulator optical elements",
+            "P David Flammer and Jonathan M Banks and Thomas E Furtak and Charles G Durfee and Russell E Hollingsworth and Reuben T Collins",
+            "2010",
+            "GLLQXnkAAAAJ:u-x6o8ySG0sC",
+            44,
+            "https:\/\/www.osapublishing.org\/viewmedia.cfm?uri=oe-18-20-21013&seq=0",
+            "9691366988194147584",
+            "\/scholar?cites=9691366988194147584",
+            {
+                "2011":3,
+                "2012":7,
+                "2013":9,
+                "2014":9,
+                "2015":3,
+                "2016":6,
+                "2017":2,
+                "2018":1,
+                "2019":3,
+                "2020":1
+            }
+        ],
+        [
+            "Transmission through an opaque Au film with a single subwavelength aperture centered in a smooth cavity between linear grating structures is studied experimentally and with a finite element model. The model is in good agreement with measured results and is used to investigate local field behavior. It shows that a surface plasmon polariton (SPP) is launched along the metal surface, while interference of the SPP with the incident light along with resonant cavity effects give rise to suppression and enhancement in transmission. Based on experimental and modeling results, peak location and structure of the enhancement\/suppression bands are explained analytically, confirming the primary role of SPPs in enhanced transmission through small apertures in opaque metal films.",
+            "Interference and resonant cavity effects explain enhanced transmission through subwavelength apertures in thin metal films",
+            "PD Flammer and IC Schick and RT Collins and RE Hollingsworth",
+            "2007",
+            "GLLQXnkAAAAJ:u5HHmVD_uO8C",
+            23,
+            "https:\/\/www.osapublishing.org\/abstract.cfm?uri=OE-15-13-7984",
+            "3475080459514939332",
+            "\/scholar?cites=3475080459514939332",
+            {
+                "2006":2,
+                "2007":5,
+                "2008":5,
+                "2009":3,
+                "2010":4,
+                "2011":2,
+                "2012":2
+            }
+        ],
+        [
+            "The design of a new type of plasmonic ultra-high extinction ratio micropolarizing transmission filter is presented along with an experimental demonstration. A pair of dielectric coated metal gratings couple incident TM polarized light into surface plasmons, which are fed into a central metal-insulator-metal (MIM) waveguide, followed by transmission through a sub-wavelength aperture. Extinction ratios exceeding 10^11 are predicted by finite element simulation. Good absolute agreement for both the spectral and polarization response is obtained between measurement and simulations using measured geometric parameters. The filters can be easily fabricated and sized to match the pixel pitch of current focal plane arrays.",
+            "Ultra-high extinction ratio micropolarizers using plasmonic lenses",
+            "JJ Peltzer and PD Flammer and TE Furtak and RT Collins and RE Hollingsworth",
+            "2011",
+            "GLLQXnkAAAAJ:9yKSN-GCB0IC",
+            21,
+            "https:\/\/www.osapublishing.org\/abstract.cfm?uri=oe-19-19-18072",
+            "479385053904505810",
+            "\/scholar?cites=479385053904505810",
+            {
+                "2012":3,
+                "2013":3,
+                "2014":4,
+                "2015":3,
+                "2016":3,
+                "2017":1,
+                "2018":2,
+                "2019":1,
+                "2020":1
+            }
+        ],
+        [
+            "We present a Green\u2019s-function\/Green\u2019s-theorem integral equation approach to numerically modeling two-dimensional, s-polarized, wave propagation problems effectively for a variety of geometries. The model accurately calculates both near fields and far fields because of the minimal assumptions made on the behavior of the scattered radiation. The method was applied to modeling light emission from a near-field scanning optical microscope fiber tip. Several convergence and energy tests were used to give confidence in the results. The behavior of intensity and power near the tip was investigated. The effects of changing the dielectric constant of a sample material located below the tip were also examined.",
+            "Integral equations applied to wave propagation in two dimensions: modeling the tip of a near-field scanning optical microscope",
+            "Christopher M Kelso and P David Flammer and JA DeSanto and RT Collins",
+            "2001",
+            "GLLQXnkAAAAJ:5nxA0vEk-isC",
+            17,
+            "https:\/\/www.osapublishing.org\/abstract.cfm?uri=josaa-18-8-1993",
+            "14976543878745254105",
+            "\/scholar?cites=14976543878745254105",
+            {
+                "2003":2,
+                "2004":5,
+                "2005":1,
+                "2006":1,
+                "2007":1,
+                "2008":1,
+                "2009":1,
+                "2010":2,
+                "2011":1,
+                "2012":1,
+                "2013":1
+            }
+        ],
+        [
+            "Polarimetric imaging using micropolarizers integrated on focal plane arrays has previously been limited to the linear components of the Stokes vector because of the lack of an effective structure with selectivity to circular polarization. We discuss a plasmonic micropolarizing filter that can be tuned for linear or circular polarization as well as wavelength selectivity from blue to infrared (IR) through simple changes in its horizontal geometry. The filter consists of a patterned metal film with an aperture in a central cavity that is surrounded by gratings that couple to incoming light. The aperture and gratings are covered with a transparent dielectric layer to form a surface plasmon slab waveguide. A metal cap covers the aperture and forms a metal-insulator-metal (MIM) waveguide. Structures with linear apertures and gratings provide sensitivity to linear polarization, while structures with circular apertures and spiral gratings \u2026",
+            "Plasmonic micropolarizers for full Stokes vector imaging",
+            "JJ Peltzer and KA Bachman and JW Rose and PD Flammer and TE Furtak and RT Collins and RE Hollingsworth",
+            "2012",
+            "GLLQXnkAAAAJ:eQOLeE2rZwMC",
+            12,
+            "https:\/\/www.spiedigitallibrary.org\/conference-proceedings-of-spie\/8364\/83640O\/Plasmonic-micropolarizers-for-full-Stokes-vector-imaging\/10.1117\/12.919324.short",
+            "10422924520946943492",
+            "\/scholar?cites=10422924520946943492",
+            {
+                "2014":2,
+                "2015":1,
+                "2016":3,
+                "2017":3,
+                "2018":2,
+                "2019":1
+            }
+        ],
+        [
+            "Enhanced transmission through structures consisting of linear gratings surrounding a single subwavelength aperture in an opaque gold film is modeled using a commercial finite element model (FEM).  The stability of the FEM and boundary conditions are discussed, and different field visualizations are explored to gain insight into field behavior. The results from the FEM were compared with experimental results, yielding excellent agreement. This lends confidence that the FEM is giving an accurate representation of the field behavior around the structure. The FEM was then used to examine how transmission enhancement depends on geometric properties of the structure and to gain insight into the mechanisms of transmission enhancement.",
+            "Theoretical study of enhanced transmission through subwavelength linear apertures flanked by periodic corrugations",
+            "PD Flammer and IC Schick and JM Yarbrough and CG Allen and G Nuebel and EJ Schick and JM Dahdah and JT Martineau and MA Hurowitz and RE Hollingsworth and RT Collins",
+            "2006",
+            "GLLQXnkAAAAJ:qjMakFHDy7sC",
+            7,
+            "https:\/\/www.spiedigitallibrary.org\/conference-proceedings-of-spie\/6323\/63231Z\/Theoretical-study-of-enhanced-transmission-through-subwavelength-linear-apertures-flanked\/10.1117\/12.681267.short",
+            "4288283945399530574",
+            "\/scholar?cites=4288283945399530574",
+            {
+                "2006":1,
+                "2007":2,
+                "2008":2,
+                "2009":1,
+                "2010":1
+            }
+        ],
+        [
+            "We present a study of optical transmission in the visible and  near-infrared regimes through subwavelength apertures in gold  films. Samples consisting of single, ~100 nm wide, 50 micron long, linear apertures, centered between two finite grating structures, were prepared using electron-beam lithography with  subsequent broad-beam argon-ion milling. The period and number of  the corrugations that make up the grating structures was constant,  while the distance between the gratings on each side of the  aperture was varied. Spectrally resolved far-field transmission  measurements were obtained for normal incidence with a  spectrometer-coupled optical microscope configured for  transmission measurements. Transmission through these structures  was significantly enhanced relative to an isolated aperture at  resonant wavelengths for transverse magnetic polarized incident  light, in agreement with the literature \u2026",
+            "Experimental study of enhanced transmission through subwavelength linear apertures flanked by periodic corrugations",
+            "IC Schick and PD Flammer and JM Yarbrough and CG Allen and GJ Nuebel and EJ Schick and JM Dahdah and JT Martineau and MA Hurowitz and RE Hollingsworth and RT Collins",
+            "2006",
+            "GLLQXnkAAAAJ:2osOgNQ5qMEC",
+            7,
+            "https:\/\/www.spiedigitallibrary.org\/conference-proceedings-of-spie\/6323\/63230L\/Experimental-study-of-enhanced-transmission-through-subwavelength-linear-apertures-flanked\/10.1117\/12.680954.short",
+            "7545592378595566303",
+            "\/scholar?cites=7545592378595566303",
+            {
+                "2006":1,
+                "2007":2,
+                "2008":1,
+                "2009":2,
+                "2010":1
+            }
+        ]
+    ]
+}

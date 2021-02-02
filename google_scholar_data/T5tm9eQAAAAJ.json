@@ -1,0 +1,282 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "T5tm9eQAAAAJ",
+            "William L Hamilton",
+            "Assistant Professor of Computer Science, McGill University and Mila",
+            "@cs.mcgill.ca",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=T5tm9eQAAAAJ",
+            7247,
+            [
+                "Machine Learning",
+                "Graph Representation Learning",
+                "Natural Language Processing"
+            ],
+            7189,
+            22,
+            21,
+            27,
+            27,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Q_kKkIUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jure Leskovec",
+                    "affiliation":"Professor of Computer Science, Stanford University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6fqNXooAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Zhitao (Rex) Ying",
+                    "affiliation":"Stanford University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"uZg9l58AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dan Jurafsky",
+                    "affiliation":"Professor of Linguistics and Computer Science, Stanford University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"CEt6_mMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Joelle Pineau",
+                    "affiliation":"School of Computer Science, McGill University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"NDbMl7oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jiaxuan You",
+                    "affiliation":"CS PhD candidate, Stanford University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"_moJlrIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Xiang Ren",
+                    "affiliation":"Assistant Professor of Computer Science, USC"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3f6_I8MAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Christopher Morris",
+                    "affiliation":"Postdoc, Polytechnique Montr\u00e9al"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3YrWf7EAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"P. Li\u00f3, Pietro Lio, P. Lio, Pietro Li\u00f2, Pie...",
+                    "affiliation":"University of Cambridge"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ybPyI7IAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Joey Bose",
+                    "affiliation":"McGill University, Mila"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"xjEcoNQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kaifeng Chen",
+                    "affiliation":"Stanford University; Google Research"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"V9kRGxkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ruining He",
+                    "affiliation":"Google Research"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"kcTK_FAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Petar Veli\u010dkovi\u0107",
+                    "affiliation":"Senior Research Scientist, DeepMind"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"kukA0LcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yoshua Bengio",
+                    "affiliation":"Professor of computer science, University of Montreal, Mila, IVADO, CIFAR"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"-ZfwQOkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"William Fedus",
+                    "affiliation":"PhD Student, Montreal Institute for Learning Algorithms"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"68c5HfwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"R Devon Hjelm",
+                    "affiliation":"Microsoft Research, University of Montreal, Mila"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"HwryFLcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Vinodkumar Prabhakaran",
+                    "affiliation":"Research Scientist, Google LLC"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"iuCvTuIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mahdi Milani Fard",
+                    "affiliation":"Machine Learning Researcher, Google Inc."
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Trk_R8wAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kevin Clark",
+                    "affiliation":"Stanford University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Sou5ih0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Martin Grohe",
+                    "affiliation":"Professor of Computer Science, RWTH Aachen University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"enXCzCgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jan Eric Lenssen",
+                    "affiliation":"PhD Student, TU Dortmund University"
+                }
+            ]
+        ]
+    ]
+}

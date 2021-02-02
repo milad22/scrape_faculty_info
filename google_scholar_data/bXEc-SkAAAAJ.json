@@ -1,0 +1,124 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "bXEc-SkAAAAJ",
+            "Ricardo Alarcon",
+            "President's Professor",
+            "@asu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=bXEc-SkAAAAJ",
+            3432,
+            [
+                "Nuclear and Particle Physics"
+            ],
+            909,
+            32,
+            19,
+            64,
+            29,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"WePIPyUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"henk jan Bulten",
+                    "affiliation":""
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"N0B4HroAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jo van den Brand",
+                    "affiliation":"Professor of Physics, Nikhef"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"cdLbJ7QAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Douglas W. Higinbotham",
+                    "affiliation":"Jefferson Lab"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Li0sTuQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hauke Kolster",
+                    "affiliation":"Independent Research Scientist"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"TiRYj4oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Costas N. Papanicolas",
+                    "affiliation":"The Cyprus Institute, University of Athens"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3a0j8j4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"George R. Neil",
+                    "affiliation":"Jefferson Laboratory LCLS-II Senior Technical Lead"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"oc3F8HMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Bar\u0131\u015f Tamer Tongu\u00e7",
+                    "affiliation":"Fizik B\u00f6l\u00fcm\u00fc \u00d6\u011fretim \u00dcyesi, Sakarya \u00dcniversitesi"
+                }
+            ]
+        ]
+    ]
+}

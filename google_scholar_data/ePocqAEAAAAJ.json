@@ -1,0 +1,80 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "ePocqAEAAAAJ",
+            "Srikanth Hariharan",
+            "Unknown affiliation",
+            "",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=ePocqAEAAAAJ",
+            290,
+            [
+                "Wireless networks",
+                "Sensor networks",
+                "Cellular networks",
+                "Queueing theory",
+                "Network security"
+            ],
+            160,
+            10,
+            7,
+            10,
+            6,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"5kL-ZrAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ness Shroff",
+                    "affiliation":"Department of ECE and CSE, The Ohio State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"O3ysw6MAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Chatschik Bisdikian",
+                    "affiliation":"IBM Research"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"B1v2AUYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Zizhan Zheng",
+                    "affiliation":"Tulane University"
+                }
+            ]
+        ]
+    ]
+}

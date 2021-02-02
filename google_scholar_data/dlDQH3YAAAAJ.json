@@ -1,0 +1,100 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "dlDQH3YAAAAJ",
+            "Dimitra Karabali",
+            "Lehman College, CUNY",
+            "@lehman.cuny.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=dlDQH3YAAAAJ",
+            4900,
+            [
+                "Theoretical High Energy Physics"
+            ],
+            704,
+            30,
+            15,
+            45,
+            23,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"b-zGe9EAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"V.P. Nair",
+                    "affiliation":"Distinguished Professor of Physics, City College of the CUNY"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"mj9wWSwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mark Bowick",
+                    "affiliation":"Kavli Institute for Theoretical Physics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"D97nh-EAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Q-Han Park",
+                    "affiliation":"Professor of Physics, Korea University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ZtB-L8QAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Daniel Kabat",
+                    "affiliation":"Department of Physics and Astronomy, Lehman College, City University of New York"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"_agEI5IAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Glennys R Farrar",
+                    "affiliation":"Professor of Physics, New York University"
+                }
+            ]
+        ]
+    ]
+}

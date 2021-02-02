@@ -1,0 +1,64 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "XaWa4wUAAAAJ",
+            "Rommel J. Miranda",
+            "Professor of Science Education, Towson University",
+            "@towson.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=XaWa4wUAAAAJ",
+            285,
+            [
+                "Science Education"
+            ],
+            178,
+            10,
+            7,
+            10,
+            5,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Czn47G8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tina J Cartwright",
+                    "affiliation":"Marshall University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"RiuYwkYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Deb Hemler",
+                    "affiliation":"Fairmont State University"
+                }
+            ]
+        ]
+    ]
+}

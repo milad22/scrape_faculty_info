@@ -1,0 +1,117 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "data":[
+        [
+            "We introduce a multiscale framework that combines a time-dependent nonequilibrium Green-function (TDNEGF) algorithm, scaling linearly in the number of time steps and describing quantum-mechanically the conduction electrons in the presence of time-dependent fields of arbitrary strength or frequency, with classical time evolution of localized magnetic moments described by the Landau-Lifshitz-Gilbert (LLG) equation. The TDNEGF+ LLG framework can be applied to a variety of problems where current-driven spin torque induces the dynamics of magnetic moments as the key resource for next-generation spintronics. Previous approaches to such nonequilibrium many-body systems (like the steady-state-NEGF+ LLG framework) neglect noncommutativity of a quantum Hamiltonian of conduction electrons at different times and, therefore, the impact of time-dependent magnetic moments on electrons leading to the \u2026",
+            "Spin and Charge Pumping by a Steady or Pulse-Current-Driven Magnetic Domain Wall: A Self-Consistent Multiscale Time-Dependent Quantum-Classical Hybrid Approach",
+            "Marko D Petrovi\u0107 and Bogdan S Popescu and Utkarsh Bajpai and Petr Plech\u00e1\u010d and Branislav K Nikoli\u0107",
+            "2018",
+            "EK4ZIp0AAAAJ:9yKSN-GCB0IC",
+            23,
+            "https:\/\/journals.aps.org\/prapplied\/abstract\/10.1103\/PhysRevApplied.10.054038",
+            "7681152025188584207",
+            "\/scholar?cites=7681152025188584207",
+            {
+                "2019":7,
+                "2020":16
+            }
+        ],
+        [
+            "The conventional Landau-Lifshitz-Gilbert (LLG) equation is a widely used tool to describe the dynamics of local magnetic moments, viewed as classical vectors of fixed length, with their change assumed to take place simultaneously with the cause. Here we demonstrate that recently developed [MD Petrovi\u0107 et al., Phys. Rev. Appl. 10, 054038 (2018)] self-consistent coupling of the LLG equation to a time-dependent quantum-mechanical description of electrons\u2014where nonequilibrium spin density from time-dependent nonequilibrium Green function (TDNEGF) calculations is inserted within a torque term into the LLG equation while local magnetic moments evolved by the LLG equation introduce time-dependent potential in the quantum Hamiltonian of electrons\u2014microscopically generates time-retarded damping in the LLG equation described by a memory kernel that is also spatially dependent. For sufficiently slow \u2026",
+            "Time-retarded damping and magnetic inertia in the Landau-Lifshitz-Gilbert equation self-consistently coupled to electronic time-dependent nonequilibrium Green functions",
+            "Utkarsh Bajpai and Branislav K Nikoli\u0107",
+            "2019",
+            "EK4ZIp0AAAAJ:qjMakFHDy7sC",
+            17,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.99.134409",
+            "10511899612787622553",
+            "\/scholar?cites=10511899612787622553",
+            {
+                "2019":4,
+                "2020":12,
+                "2021":1
+            }
+        ],
+        [
+            "Shift current\u2014a photocurrent induced by light irradiating noncentrosymmetric materials in the absence of any bias voltage or built-in electric field\u2014is one of the mechanisms of the so-called bulk photovoltaic effect. It has been traditionally described as a nonlinear optical response of a periodic solid to continuous wave light using a perturbative formula, which is linear in the intensity of light and which involves Berry connection describing the shift in the center of mass position of the Wannier wave function associated with the transition between the valence and conduction bands of the solid. Since shift current is solely due to off-diagonal elements of the nonequilibrium density matrix that encode quantum correlations, its peculiar space\u2013time dynamics in response to femtosecond light pulse employed locally can be expected. To study such response requires to analyze realistic two-terminal devices, instead of traditional \u2026",
+            "Spatio-temporal dynamics of shift current quantum pumping by femtosecond light pulse",
+            "U Bajpai and BS Popescu and P Plech\u00e1\u010d and BK Nikoli\u0107 and LEF Foa Torres and H Ishizuka and N Nagaosa",
+            "2019",
+            "EK4ZIp0AAAAJ:W7OEmFMy1HYC",
+            17,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/2515-7639\/ab0a3e\/meta",
+            "15896118201817617082",
+            "\/scholar?cites=15896118201817617082",
+            {
+                "2018":1,
+                "2019":4,
+                "2020":12
+            }
+        ],
+        [
+            "The standard spin transfer torque (STT)\u2014where spin-polarized current drives the dynamics of magnetization viewed as a classical vector\u2014requires noncollinearity between electron spins carried by the current and magnetization of a ferromagnetic layer. However, recent experiments [A. Zholud et al., Phys. Rev. Lett. 119, 257201 (2017)] observing magnetization dynamics in spin valves at cryogenic temperatures, even when electron spin is collinear to magnetization, point at overlooked quantum effects in STT that can lead to highly nonclassical magnetization states. Using quantum many-body treatment, where an electron injected as a spin-polarized wave packet interacts with local spins comprising the anisotropic quantum Heisenberg ferromagnetic chain, we define quantum STT as any time evolution of local spins due to an initial many-body quantum state not being an eigenstate of an electron+ local-spins \u2026",
+            "Quantum spin transfer torque induced nonclassical magnetization dynamics and electron-magnetization entanglement",
+            "Priyanka Mondal and Utkarsh Bajpai and Marko D Petrovi\u0107 and Petr Plech\u00e1\u010d and Branislav K Nikoli\u0107",
+            "2019",
+            "EK4ZIp0AAAAJ:Tyk-4Ss8FVUC",
+            16,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.99.094431",
+            "14922707381050903555",
+            "\/scholar?cites=14922707381050903555",
+            {
+                "2019":3,
+                "2020":11,
+                "2021":2
+            }
+        ],
+        [
+            "The spin-mixing conductance (SMC) is a key quantity determining efficiency of spin transport across interfaces. Thus, knowledge of its precise value is required for accurate measurement of parameters quantifying numerous effects in spintronics, such as spin-orbit torque, spin Hall magnetoresistance, spin Hall effect, and spin pumping. However, the standard expression for SMC, provided by the scattering theory in terms of the reflection probability amplitudes, is inapplicable when strong spin-orbit coupling (SOC) is present directly at the interface. This is the precisely the case of topological-insulator\/ferromagnet and heavy-metal\/ferromagnet interfaces of great contemporary interest. We introduce an approach where first-principles Hamiltonian of these interfaces, obtained from noncollinear density functional theory (ncDFT) calculations, is combined with charge-conserving Floquet-nonequilibrium-Green-function \u2026",
+            "Effective spin-mixing conductance of topological-insulator\/ferromagnet and heavy-metal\/ferromagnet spin-orbit-coupled interfaces: A first-principles Floquet-nonequilibrium \u2026",
+            "Kapildeb Dolui and Utkarsh Bajpai and Branislav K Nikoli\u0107",
+            "2020",
+            "EK4ZIp0AAAAJ:IjCSPb-OGe4C",
+            3,
+            "https:\/\/journals.aps.org\/prmaterials\/abstract\/10.1103\/PhysRevMaterials.4.121201",
+            "14828977049254734260",
+            "\/scholar?cites=14828977049254734260",
+            {
+                "2019":1,
+                "2020":2
+            }
+        ],
+        [
+            "Using newly developed quantum-classical hybrid framework, we investigate interaction between spin-polarized conduction electrons and a single spin wave (SW) coherently excited within a metallic ferromagnetic nanowire. The SW is described by classical atomistic spin dynamics as a collection of precessing localized magnetic moments on each atom. The conduction electrons are described quantum mechanically using time-dependent nonequilibrium Green functions. When the nanowire hosting SW is attached to two normal metal (NM) leads, with no dc bias voltage applied between them, the SW pumps chiral electronic charge and spin currents into the leads. Their direction is tied to the direction of SW propagation and they scale linearly with the frequency of the precession. This is in contrast to standard pumping by the uniform precession mode with identical spin currents flowing in both directions and n o \u2026",
+            "Magnon-driven chiral charge and spin pumping and electron-magnon scattering from time-dependent quantum transport combined with classical atomistic spin dynamics",
+            "Abhin Suresh and Utkarsh Bajpai and Branislav K Nikoli\u0107",
+            "2020",
+            "EK4ZIp0AAAAJ:d1gkVwhDpl0C",
+            3,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.101.214412",
+            "7181514764656913799",
+            "\/scholar?cites=7181514764656913799",
+            {
+                "2020":2,
+                "2021":1
+            }
+        ]
+    ]
+}

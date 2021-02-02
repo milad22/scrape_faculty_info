@@ -1,0 +1,128 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "oq2eGCsAAAAJ",
+            "Charles R. Taylor",
+            "John A. Murphy Professor of Marketing, Villanova University",
+            "@villanova.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=oq2eGCsAAAAJ",
+            15207,
+            [
+                "Marketing",
+                "Advertising",
+                "Consumer Behavior",
+                "International Marketing",
+                "International Advertising"
+            ],
+            6546,
+            59,
+            36,
+            239,
+            124,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"HHtXWvcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Shintaro Okazaki",
+                    "affiliation":"Professor of Marketing, King's College London"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"KnnmEP4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Marko Sarstedt",
+                    "affiliation":"Otto-von-Guericke Universit\u00e4t Magdeburg"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"y5F176wAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Christian M. Ringle",
+                    "affiliation":"Professor of Management, Hamburg University of Technology, Technische Universit\u00e4t Hamburg, TUHH"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fd4FViQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Goksel Yalcinkaya",
+                    "affiliation":"Professor of Marketing, University of New Hampshire"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"o2cT_iAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"S. Tamer Cavusgil",
+                    "affiliation":"Callaway Professorial Chair, Georgia State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6qIoQzkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"p.w.j. verlegh",
+                    "affiliation":"Professor of Marketing, Vrije Universiteit (VU) Amsterdam"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"hlMe-2cAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michelle R. Nelson",
+                    "affiliation":"Professor of Advertising, Institute of Communications Research, Professor of Marketing, University"
+                }
+            ]
+        ]
+    ]
+}

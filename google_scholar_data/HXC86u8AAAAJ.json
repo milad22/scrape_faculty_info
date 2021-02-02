@@ -1,0 +1,112 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "HXC86u8AAAAJ",
+            "Joseph T. Ornstein",
+            "University of Georgia",
+            "@uga.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=HXC86u8AAAAJ",
+            164,
+            [
+                "Political Science"
+            ],
+            130,
+            6,
+            5,
+            5,
+            5,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"REcVpRUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Todd B Combs",
+                    "affiliation":"Washington University in St. Louis"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"SjWgEGIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Douglas A. Luke",
+                    "affiliation":"Professor of Public Health, Washington University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"sdXMfAsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Maxwell Palmer",
+                    "affiliation":"Boston University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"u77ebbEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Katherine Levine Einstein",
+                    "affiliation":"Associate Professor of Political Science, Boston University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"a9GoHyoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Stephanie Mazzucca",
+                    "affiliation":"Assistant Professor, Washington University in St. Louis"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"phgc0n0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Margaret Padek",
+                    "affiliation":"Washington University in St. Louis"
+                }
+            ]
+        ]
+    ]
+}

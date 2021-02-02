@@ -1,0 +1,112 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "5ZMeAxoAAAAJ",
+            "Linda Kaufman",
+            "Retired professor of Computer Science, William Paterson University",
+            "@wpunj.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=5ZMeAxoAAAAJ",
+            9283,
+            [
+                "scientific computing"
+            ],
+            3289,
+            25,
+            11,
+            41,
+            14,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"vtegaJgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"vapnik",
+                    "affiliation":"Professor of Columbia, Fellow of NEC Labs America, "
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"X4SbSTAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jack Dongarra",
+                    "affiliation":"University of Tennessee; Oak Ridge National Laboratory; University of Manchester"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"j2mrxBIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sven Hammarling",
+                    "affiliation":"Sen. Hon. Res. Fellow , U. of Manchester, Dept. of Mathematics; Hon. Principal Consultant, NAG Ltd."
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"J2HIi1cAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Arnold Neumaier",
+                    "affiliation":"Professor for Computational Mathematics, University of Vienna, Austria"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"RXYeHvUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Daniel D. Warner",
+                    "affiliation":"Professor of Mathematical Sciences, Clemson University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"eSSj_OIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Victor Pereyra",
+                    "affiliation":"Consulting Professor, Energy Resources Engineering, Stanford University"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "We present a comprehensive black-hole event generator, BlackMax, which simulates the experimental signatures of microscopic and Planckian black-hole production and evolution at the LHC in the context of brane world models with low-scale quantum gravity. The generator is based on phenomenologically realistic models free of serious problems that plague low-scale gravity, thus offering more realistic predictions for hadron-hadron colliders. The generator includes all of the black-hole gray-body factors known to date and incorporates the effects of black-hole rotation, splitting between the fermions, nonzero brane tension, and black-hole recoil due to Hawking radiation (although not all simultaneously). The generator can be interfaced with Herwig and Pythia. The main code can be downloaded from http:\/\/www-pnp. physics. ox. ac. uk\/~ issever\/BlackMax\/blackmax. html.",
+            "BlackMax: A black-hole event generator with rotation, recoil, split branes, and brane tension",
+            "De-Chang Dai and Glenn Starkman and Dejan Stojkovic and Cigdem Issever and Eram Rizvi and Jeff Tseng",
+            "2008",
+            "qqUNcY0AAAAJ:u5HHmVD_uO8C",
+            248,
+            "https:\/\/journals.aps.org\/prd\/abstract\/10.1103\/PhysRevD.77.076007",
+            "12574343344676974207",
+            "\/scholar?cites=12574343344676974207",
+            {
+                "2008":6,
+                "2009":24,
+                "2010":20,
+                "2011":20,
+                "2012":28,
+                "2013":35,
+                "2014":25,
+                "2015":30,
+                "2016":20,
+                "2017":20,
+                "2018":8,
+                "2019":6,
+                "2020":5
+            }
+        ]
+    ]
+}

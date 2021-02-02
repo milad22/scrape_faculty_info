@@ -1,0 +1,100 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "-LpQ89IAAAAJ",
+            "Sean Fleming",
+            "University of Arizona",
+            "@email.arizona.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=-LpQ89IAAAAJ",
+            8557,
+            [
+                "physics"
+            ],
+            2487,
+            34,
+            22,
+            45,
+            31,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"z8js5ZYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michelangelo Mangano",
+                    "affiliation":"CERN"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"MozCplAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ubirajara van Kolck",
+                    "affiliation":"Directeur de Recherche, CNRS"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"5EtyJRAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Christopher Lee",
+                    "affiliation":"Staff Scientist, Los Alamos National Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"5x-PyfMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Oscar Hern\u00e1ndez",
+                    "affiliation":"McGill University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"nh0r2c0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Emanuele Mereghetti",
+                    "affiliation":"Los Alamos National Laboratory"
+                }
+            ]
+        ]
+    ]
+}

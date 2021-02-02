@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "4C9ES13P",
+            "zdeb4PUAAAAJ",
+            [
+                "The birth of topological insulators",
+                "Topological invariants of time-reversal-invariant band structures",
+                "Unbounded growth of entanglement in models of many-body localization",
+                "Magnetoelectric polarizability and axion electrodynamics in crystalline insulators",
+                "Stability of the quantum spin Hall effect: Effects of interactions, disorder, and  topology",
+                "Three-dimensional topological insulators",
+                "Spin Polarization and Transport of Surface States in the Topological Insulators  and  from First Principles",
+                "Topological insulators: The next generation",
+                "Thermal conductance of thin silicon nanowires",
+                "Antiferromagnetic topological insulators"
+            ],
+            [
+                "Certain insulators have exotic metallic states on their surfaces. These states are formed by topological effects that also render the electrons travelling on such surfaces insensitive to scattering by impurities. Such topological insulators may provide new routes to generating novel phases and particles, possibly finding uses in technological applications in spintronics and quantum computing.",
+                "The topological invariants of a time-reversal-invariant band structure in two dimensions are multiple copies of the Z 2 invariant found by Kane and Mele. Such invariants protect the \u201ctopological insulator\u201d phase and give rise to a spin Hall effect carried by edge states. Each pair of bands related by time reversal is described by one Z 2 invariant, up to one less than half the dimension of the Bloch Hamiltonians. In three dimensions, there are four such invariants per band pair. The Z 2 invariants of a crystal determine the transitions between ordinary and topological insulators as its bands are occupied by electrons. We derive these invariants using maps from the Brillouin zone to the space of Bloch Hamiltonians and clarify the connections between Z 2 invariants, the integer invariants that underlie the integer quantum Hall effect, and previous invariants of T-invariant Fermi systems.",
+                "An important and incompletely answered question is whether a closed quantum system of many interacting particles can be localized by disorder. The time evolution of simple (unentangled) initial states is studied numerically for a system of interacting spinless fermions in one dimension described by the random-field X X Z Hamiltonian. Interactions induce a dramatic change in the propagation of entanglement and a smaller change in the propagation of particles. For even weak interactions, when the system is thought to be in a many-body localized phase, entanglement shows neither localized nor diffusive behavior but grows without limit in an infinite system: interactions act as a singular perturbation on the localized state with no interactions. The significance for proposed atomic experiments is that local measurements will show a large but nonthermal entropy in the many-body localized state. This entropy develops \u2026",
+                "The orbital motion of electrons in a three-dimensional solid can generate a pseudoscalar magnetoelectric coupling \u03b8, a fact we derive for the single-particle case using a recent theory of polarization in weakly inhomogeneous materials. This polarizability \u03b8 is the same parameter that appears in the \u201caxion electrodynamics\u201d Lagrangian \u0394 L E M=(\u03b8 e 2\/2 \u03c0 h) E\u00b7 B, which is known to describe the unusual magnetoelectric properties of the three-dimensional topological insulator (\u03b8= \u03c0). We compute \u03b8 for a simple model that accesses the topological insulator and discuss its connection to the surface Hall conductivity. The orbital magnetoelectric polarizability can be generalized to the many-particle wave function and defines the 3D topological insulator, like the integer quantum Hall effect, in terms of a topological ground-state response function.",
+                "The stability to interactions and disorder of the quantum spin Hall effect (QSHE) proposed for time-reversal-invariant two-dimensional systems is discussed. The QSHE requires an energy gap in the bulk and gapless edge modes that conduct spin-up and spin-down excitations in opposite directions. When the number of Kramers pairs of edge modes is odd, certain one-particle scattering processes are forbidden due to a topological Z 2 index. We show that in a many-body description, there are other scattering processes that can localize the edge modes and destroy the QSHE: the region of stability for both classes of models (even or odd number of Kramers pairs) is obtained explicitly in the chiral boson theory. For a single Kramers pair, the QSHE is stable to weak interactions and disorder, while for two Kramers pairs it is not; however, the two-pair case can be stabilized by either finite attractive or repulsive \u2026",
+                "Topological insulators in three dimensions are nonmagnetic insulators that possess metallic surface states as a consequence of the nontrivial topology of electronic wavefunctions in the bulk of the material. They are the first known examples of topological order in bulk solids. We review the basic phenomena and experimental history, starting with the observation of topological insulator behavior in Bi  Sb  by spin-and angle-resolved photoemission spectroscopy and continuing through measurements on other materials and by other probes. A self-contained introduction to the single-particle theory is then given, followed by the many-particle definition of a topological insulator as a material with quantized magnetoelectric polarizability. The last section reviews recent work on strongly correlated topological insulators and new effects that arise from the proximity effect between a topological insulator and a superconductor. While this article is not intended to be a comprehensive review of what is already a rather large field, we hope that it will serve as a useful introduction, summary of recent progress, and guideline to future directions.",
+                "We investigate the band dispersion and the spin texture of topologically protected surface states in the bulk topological insulators Bi 2 Se 3 and Bi 2 Te 3 by first-principles methods. Strong spin-orbit entanglement in these materials reduces the spin polarization of the surface states to\u223c 50% in both cases; this reduction is absent in simple models but of important implications to essentially any spintronic application. We propose a way of controlling the magnitude of spin polarization associated with a charge current in thin films of topological insulators by means of an external electric field. The proposed dual-gate device configuration provides new possibilities for electrical control of spin.",
+                "Spin-orbit coupling in some materials leads to the formation of surface states that are topologically protected from scattering. Theory and experiments have found an important new family of such materials.",
+                "The thermal conductance of individual single crystalline silicon nanowires with diameters less than 30 nm has been measured from 20 to 100 K. The observed thermal conductance shows unusual linear temperature dependence at low temperatures, as opposed to the T 3 dependence predicted by the conventional phonon transport model. In contrast to previous models, the present study suggests that phonon-boundary scattering is highly frequency dependent, and ranges from nearly ballistic to completely diffusive, which can explain the unexpected linear temperature dependence.",
+                "We consider antiferromagnets breaking both time-reversal (\u0398) and a primitive-lattice translational symmetry (T 1\/2) of a crystal but preserving the combination S= \u0398 T 1\/2. The S symmetry leads to a Z 2 topological classification of insulators, separating the ordinary insulator phase from the \u201cantiferromagnetic topological insulator\u201d phase. This state is similar to the \u201cstrong\u201d topological insulator with time-reversal symmetry and shares with it such properties as a quantized magnetoelectric effect. However, for certain surfaces the surface states are intrinsically gapped with a half-quantum Hall effect [\u03c3 x y= e 2\/(2 h)], which may aid experimental confirmation of \u03b8= \u03c0 quantized magnetoelectric coupling. Step edges on such a surface support gapless, chiral quantum wires. In closing we discuss GdBiPt as a possible example of this topological class."
+            ],
+            [
+                [
+                    "Theoretical physics",
+                    "Condensed matter physics",
+                    "Quantum information"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ],
+    "data":[
+        [
+            "X-ray crystallography provides the vast majority of macromolecular structures, but the success of the method relies on growing crystals of sufficient size. In conventional measurements, the necessary increase in X-ray dose to record data from crystals that are too small leads to extensive damage before a diffraction signal can be recorded 1, 2, 3. It is particularly challenging to obtain large, well-diffracting crystals of membrane proteins, for which fewer than 300 unique structures have been determined despite their importance in all living cells. Here we present a method for structure determination where single-crystal X-ray diffraction \u2018snapshots\u2019 are collected from a fully hydrated stream of nanocrystals using femtosecond pulses from a hard-X-ray free-electron laser, the Linac Coherent Light Source 4. We prove this concept with nanocrystals of photosystem I, one of the largest membrane protein complexes 5. More than \u2026",
+            "Femtosecond X-ray protein nanocrystallography",
+            "Henry N Chapman and Petra Fromme and Anton Barty and Thomas A White and Richard A Kirian and Andrew Aquila and Mark S Hunter and Joachim Schulz and Daniel P DePonte and Uwe Weierstall and R Bruce Doak and Filipe RNC Maia and Andrew V Martin and Ilme Schlichting and Lukas Lomb and Nicola Coppola and Robert L Shoeman and Sascha W Epp and Robert Hartmann and Daniel Rolles and Artem Rudenko and Lutz Foucar and Nils Kimmel and Georg Weidenspointner and Peter Holl and Mengning Liang and Miriam Barthelmess and Carl Caleman and S\u00e9bastien Boutet and Michael J Bogan and Jacek Krzywinski and Christoph Bostedt and Sa\u0161a Bajt and Lars Gumprecht and Benedikt Rudek and Benjamin Erk and Carlo Schmidt and Andr\u00e9 H\u00f6mke and Christian Reich and Daniel Pietschner and Lothar Str\u00fcder and G\u00fcnter Hauser and Hubert Gorke and Joachim Ullrich and Sven Herrmann and Gerhard Schaller and Florian Schopper and Heike Soltau and Kai-Uwe K\u00fchnel and Marc Messerschmidt and John D Bozek and Stefan P Hau-Riege and Matthias Frank and Christina Y Hampton and Raymond G Sierra and Dmitri Starodub and Garth J Williams and Janos Hajdu and Nicusor Timneanu and M Marvin Seibert and Jakob Andreasson and Andrea Rocker and Olof J\u00f6nsson and Martin Svenda and Stephan Stern and Karol Nass and Robert Andritschke and Claus-Dieter Schr\u00f6ter and Faton Krasniqi and Mario Bott and Kevin E Schmidt and Xiaoyu Wang and Ingo Grotjohann and James M Holton and Thomas RM Barends and Richard Neutze and Stefano Marchesini and Raimund Fromme and Sebastian Schorb and Daniela Rupp and Marcus Adolph and Tais Gorkhover and Inger Andersson and Helmut Hirsemann and Guillaume Potdevin and Heinz Graafsma and Bj\u00f6rn Nilsson and John CH Spence",
+            "2011",
+            "v6jFQDAAAAAJ:maZDTaKrznsC",
+            1876,
+            "https:\/\/www.nature.com\/articles\/nature09750",
+            "13585712640860074412",
+            "\/scholar?cites=13585712640860074412",
+            {
+                "2011":83,
+                "2012":161,
+                "2013":172,
+                "2014":249,
+                "2015":227,
+                "2016":201,
+                "2017":204,
+                "2018":193,
+                "2019":182,
+                "2020":168,
+                "2021":17
+            }
+        ],
+        [
+            "X-ray lasers offer new capabilities in understanding the structure of biological systems, complex materials and matter under extreme conditions 1, 2, 3, 4. Very short and extremely bright, coherent X-ray pulses can be used to outrun key damage processes and obtain a single diffraction pattern from a large macromolecule, a virus or a cell before the sample explodes and turns into plasma 1. The continuous diffraction pattern of non-crystalline objects permits oversampling and direct phase retrieval 2. Here we show that high-quality diffraction data can be obtained with a single X-ray pulse from a non-crystalline biological sample, a single mimivirus particle, which was injected into the pulsed beam of a hard-X-ray free-electron laser, the Linac Coherent Light Source 5. Calculations indicate that the energy deposited into the virus by the pulse heated the particle to over 100,000 K after the pulse had left the sample. The \u2026",
+            "Single mimivirus particles intercepted and imaged with an X-ray laser",
+            "M Marvin Seibert and Tomas Ekeberg and Filipe RNC Maia and Martin Svenda and Jakob Andreasson and Olof J\u00f6nsson and Du\u0161ko Odi\u0107 and Bianca Iwan and Andrea Rocker and Daniel Westphal and Max Hantke and Daniel P DePonte and Anton Barty and Joachim Schulz and Lars Gumprecht and Nicola Coppola and Andrew Aquila and Mengning Liang and Thomas A White and Andrew Martin and Carl Caleman and Stephan Stern and Chantal Abergel and Virginie Seltzer and Jean-Michel Claverie and Christoph Bostedt and John D Bozek and S\u00e9bastien Boutet and A Alan Miahnahri and Marc Messerschmidt and Jacek Krzywinski and Garth Williams and Keith O Hodgson and Michael J Bogan and Christina Y Hampton and Raymond G Sierra and Dmitri Starodub and Inger Andersson and Sa\u0161a Bajt and Miriam Barthelmess and John CH Spence and Petra Fromme and Uwe Weierstall and Richard Kirian and Mark Hunter and R Bruce Doak and Stefano Marchesini and Stefan P Hau-Riege and Matthias Frank and Robert L Shoeman and Lukas Lomb and Sascha W Epp and Robert Hartmann and Daniel Rolles and Artem Rudenko and Carlo Schmidt and Lutz Foucar and Nils Kimmel and Peter Holl and Benedikt Rudek and Benjamin Erk and Andr\u00e9 H\u00f6mke and Christian Reich and Daniel Pietschner and Georg Weidenspointner and Lothar Str\u00fcder and G\u00fcnter Hauser and Hubert Gorke and Joachim Ullrich and Ilme Schlichting and Sven Herrmann and Gerhard Schaller and Florian Schopper and Heike Soltau and Kai-Uwe K\u00fchnel and Robert Andritschke and Claus-Dieter Schr\u00f6ter and Faton Krasniqi and Mario Bott and Sebastian Schorb and Daniela Rupp and Marcus Adolph and Tais Gorkhover and Helmut Hirsemann and Guillaume Potdevin and Heinz Graafsma and Bj\u00f6rn Nilsson and Henry N Chapman and Janos Hajdu",
+            "2011",
+            "v6jFQDAAAAAJ:bEWYMUwI8FkC",
+            890,
+            "https:\/\/www.nature.com\/articles\/nature09748",
+            "12735776713254772966",
+            "\/scholar?cites=12735776713254772966",
+            {
+                "2011":62,
+                "2012":109,
+                "2013":110,
+                "2014":116,
+                "2015":95,
+                "2016":92,
+                "2017":68,
+                "2018":93,
+                "2019":51,
+                "2020":75,
+                "2021":11
+            }
+        ],
+        [
+            "Structure determination of proteins and other macromolecules has historically required the growth of high-quality crystals sufficiently large to diffract x-rays efficiently while withstanding radiation damage. We applied serial femtosecond crystallography (SFX) using an x-ray free-electron laser (XFEL) to obtain high-resolution structural information from microcrystals (less than 1 micrometer by 1 micrometer by 3 micrometers) of the well-characterized model protein lysozyme. The agreement with synchrotron data demonstrates the immediate relevance of SFX for analyzing the structure of the large group of difficult-to-crystallize molecules.",
+            "High-resolution protein structure determination by serial femtosecond crystallography",
+            "S\u00e9bastien Boutet and Lukas Lomb and Garth J Williams and Thomas RM Barends and Andrew Aquila and R Bruce Doak and Uwe Weierstall and Daniel P DePonte and Jan Steinbrener and Robert L Shoeman and Marc Messerschmidt and Anton Barty and Thomas A White and Stephan Kassemeyer and Richard A Kirian and M Marvin Seibert and Paul A Montanez and Chris Kenney and Ryan Herbst and Philip Hart and Jack Pines and Gunther Haller and Sol M Gruner and Hugh T Philipp and Mark W Tate and Marianne Hromalik and Lucas J Koerner and Niels Van Bakel and John Morse and Wilfred Ghonsalves and David Arnlund and Michael J Bogan and Carl Caleman and Raimund Fromme and Christina Y Hampton and Mark S Hunter and Linda C Johansson and Gergely Katona and Christopher Kupitz and Mengning Liang and Andrew V Martin and Karol Nass and Lars Redecke and Francesco Stellato and Nicusor Timneanu and Dingjie Wang and Nadia A Zatsepin and Donald Schafer and James Defever and Richard Neutze and Petra Fromme and John CH Spence and Henry N Chapman and Ilme Schlichting",
+            "2012",
+            "v6jFQDAAAAAJ:LkGwnXOMwfcC",
+            772,
+            "https:\/\/science.sciencemag.org\/content\/337\/6092\/362.abstract",
+            "3220450067659010773",
+            "\/scholar?cites=3220450067659010773",
+            {
+                "2011":2,
+                "2012":23,
+                "2013":86,
+                "2014":120,
+                "2015":121,
+                "2016":82,
+                "2017":92,
+                "2018":81,
+                "2019":79,
+                "2020":73,
+                "2021":7
+            }
+        ],
+        [
+            "We discuss the construction of a new SAXS\/WAXS beamline at the Advanced Light Source at Lawrence Berkeley Laboratory. The beamline is equipped with a multilayer monochromator in order to obtain a high X-ray flux. The detrimental effects that the increased bandwidth transmitted by this monochromator could have on the data quality of the SAXS and WAXS patterns is shown to be negligible for the experimental program intended to be operated on this beamline.",
+            "A SAXS\/WAXS\/GISAXS beamline with multilayer monochromator",
+            "Alexander Hexemer and Wim Bras and James Glossinger and Eric Schaible and Eliot Gann and Rick Kirian and Alastair MacDowell and Matthew Church and Bruce Rude and Howard Padmore",
+            "2010",
+            "v6jFQDAAAAAJ:sSrBHYA8nusC",
+            512,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/1742-6596\/247\/1\/012007\/meta",
+            "6841998573934746118",
+            "\/scholar?cites=6841998573934746118",
+            {
+                "2011":6,
+                "2012":15,
+                "2013":15,
+                "2014":29,
+                "2015":37,
+                "2016":66,
+                "2017":77,
+                "2018":85,
+                "2019":92,
+                "2020":75,
+                "2021":13
+            }
+        ],
+        [
+            "Lipidic cubic phase (LCP) crystallization has proven successful for high-resolution structure determination of challenging membrane proteins. Here we present a technique for extruding gel-like LCP with embedded membrane protein microcrystals, providing a continuously renewed source of material for serial femtosecond crystallography. Data collected from sub-10-\u03bcm-sized crystals produced with less than 0.5 mg of purified protein yield structural insights regarding cyclopamine binding to the Smoothened receptor.",
+            "Lipidic cubic phase injector facilitates membrane protein serial femtosecond crystallography",
+            "Uwe Weierstall and Daniel James and Chong Wang and Thomas A White and Dingjie Wang and Wei Liu and John CH Spence and R Bruce Doak and Garrett Nelson and Petra Fromme and Raimund Fromme and Ingo Grotjohann and Christopher Kupitz and Nadia A Zatsepin and Haiguang Liu and Shibom Basu and Daniel Wacker and Gye Won Han and Vsevolod Katritch and S\u00e9bastien Boutet and Marc Messerschmidt and Garth J Williams and Jason E Koglin and M Marvin Seibert and Markus Klinker and Cornelius Gati and Robert L Shoeman and Anton Barty and Henry N Chapman and Richard A Kirian and Kenneth R Beyerlein and Raymond C Stevens and Dianfan Li and Syed TA Shah and Nicole Howe and Martin Caffrey and Vadim Cherezov",
+            "2014",
+            "v6jFQDAAAAAJ:-f6ydRqryjwC",
+            455,
+            "https:\/\/www.nature.com\/articles\/ncomms4309",
+            "10072899960508378452",
+            "\/scholar?cites=10072899960508378452",
+            {
+                "2014":37,
+                "2015":73,
+                "2016":63,
+                "2017":65,
+                "2018":70,
+                "2019":72,
+                "2020":70,
+                "2021":3
+            }
+        ],
+        [
+            "The Trypanosoma brucei cysteine protease cathepsin B (TbCatB), which is involved in host protein degradation, is a promising target to develop new treatments against sleeping sickness, a fatal disease caused by this protozoan parasite. The structure of the mature, active form of TbCatB has so far not provided sufficient information for the design of a safe and specific drug against T. brucei. By combining two recent innovations, in vivo crystallization and serial femtosecond crystallography, we obtained the room-temperature 2.1 angstrom resolution structure of the fully glycosylated precursor complex of TbCatB. The structure reveals the mechanism of native TbCatB inhibition and demonstrates that new biomolecular information can be obtained by the \u201cdiffraction-before-destruction\u201d approach of x-ray free-electron lasers from hundreds of thousands of individual microcrystals.",
+            "Natively inhibited Trypanosoma brucei cathepsin B structure determined by using an X-ray laser",
+            "Lars Redecke and Karol Nass and Daniel P DePonte and Thomas A White and Dirk Rehders and Anton Barty and Francesco Stellato and Mengning Liang and Thomas RM Barends and S\u00e9bastien Boutet and Garth J Williams and Marc Messerschmidt and M Marvin Seibert and Andrew Aquila and David Arnlund and Sasa Bajt and Torsten Barth and Michael J Bogan and Carl Caleman and Tzu-Chiao Chao and R Bruce Doak and Holger Fleckenstein and Matthias Frank and Raimund Fromme and Lorenzo Galli and Ingo Grotjohann and Mark S Hunter and Linda C Johansson and Stephan Kassemeyer and Gergely Katona and Richard A Kirian and Rudolf Koopmann and Chris Kupitz and Lukas Lomb and Andrew V Martin and Stefan Mogk and Richard Neutze and Robert L Shoeman and Jan Steinbrener and Nicusor Timneanu and Dingjie Wang and Uwe Weierstall and Nadia A Zatsepin and John CH Spence and Petra Fromme and Ilme Schlichting and Michael Duszenko and Christian Betzel and Henry N Chapman",
+            "2013",
+            "v6jFQDAAAAAJ:TQgYirikUcIC",
+            441,
+            "https:\/\/science.sciencemag.org\/content\/339\/6116\/227.abstract",
+            "10626150827832425508",
+            "\/scholar?cites=10626150827832425508",
+            {
+                "2013":41,
+                "2014":100,
+                "2015":89,
+                "2016":64,
+                "2017":45,
+                "2018":38,
+                "2019":29,
+                "2020":27,
+                "2021":2
+            }
+        ],
+        [
+            "X-ray crystallography of G protein\u2013coupled receptors and other membrane proteins is hampered by difficulties associated with growing sufficiently large crystals that withstand radiation damage and yield high-resolution data at synchrotron sources. We used an x-ray free-electron laser (XFEL) with individual 50-femtosecond-duration x-ray pulses to minimize radiation damage and obtained a high-resolution room-temperature structure of a human serotonin receptor using sub-10-micrometer microcrystals grown in a membrane mimetic matrix known as lipidic cubic phase. Compared with the structure solved by using traditional microcrystallography from cryo-cooled crystals of about two orders of magnitude larger volume, the room-temperature XFEL structure displays a distinct distribution of thermal motions and conformations of residues that likely more accurately represent the receptor structure and dynamics in a \u2026",
+            "Serial femtosecond crystallography of G protein\u2013coupled receptors",
+            "Wei Liu and Daniel Wacker and Cornelius Gati and Gye Won Han and Daniel James and Dingjie Wang and Garrett Nelson and Uwe Weierstall and Vsevolod Katritch and Anton Barty and Nadia A Zatsepin and Dianfan Li and Marc Messerschmidt and S\u00e9bastien Boutet and Garth J Williams and Jason E Koglin and M Marvin Seibert and Chong Wang and Syed TA Shah and Shibom Basu and Raimund Fromme and Christopher Kupitz and Kimberley N Rendek and Ingo Grotjohann and Petra Fromme and Richard A Kirian and Kenneth R Beyerlein and Thomas A White and Henry N Chapman and Martin Caffrey and John CH Spence and Raymond C Stevens and Vadim Cherezov",
+            "2013",
+            "v6jFQDAAAAAJ:hqOjcs7Dif8C",
+            428,
+            "https:\/\/science.sciencemag.org\/content\/342\/6165\/1521.summary",
+            "4579828507077048979",
+            "\/scholar?cites=4579828507077048979",
+            {
+                "2014":48,
+                "2015":87,
+                "2016":74,
+                "2017":64,
+                "2018":54,
+                "2019":47,
+                "2020":44,
+                "2021":7
+            }
+        ],
+        [
+            "Photosynthesis, a process catalysed by plants, algae and cyanobacteria converts sunlight to energy thus sustaining all higher life on Earth. Two large membrane protein complexes, photosystem I and II (PSI and PSII), act in series to catalyse the light-driven reactions in photosynthesis. PSII catalyses the light-driven water splitting process, which maintains the Earth\u2019s oxygenic atmosphere 1. In this process, the oxygen-evolving complex (OEC) of PSII cycles through five states, S 0 to S 4, in which four electrons are sequentially extracted from the OEC in four light-driven charge-separation events. Here we describe time resolved experiments on PSII nano\/microcrystals from Thermosynechococcus elongatus performed with the recently developed 2 technique of serial femtosecond crystallography. Structures have been determined from PSII in the dark S 1 state and after double laser excitation (putative S 3 state) at 5 and \u2026",
+            "Serial time-resolved crystallography of photosystem II using a femtosecond X-ray laser",
+            "Christopher Kupitz and Shibom Basu and Ingo Grotjohann and Raimund Fromme and Nadia A Zatsepin and Kimberly N Rendek and Mark S Hunter and Robert L Shoeman and Thomas A White and Dingjie Wang and Daniel James and Jay-How Yang and Danielle E Cobb and Brenda Reeder and Raymond G Sierra and Haiguang Liu and Anton Barty and Andrew L Aquila and Daniel Deponte and Richard A Kirian and Sadia Bari and Jesse J Bergkamp and Kenneth R Beyerlein and Michael J Bogan and Carl Caleman and Tzu-Chiao Chao and Chelsie E Conrad and Katherine M Davis and Holger Fleckenstein and Lorenzo Galli and Stefan P Hau-Riege and Stephan Kassemeyer and Hartawan Laksmono and Mengning Liang and Lukas Lomb and Stefano Marchesini and Andrew V Martin and Marc Messerschmidt and Despina Milathianaki and Karol Nass and Alexandra Ros and Shatabdi Roy-Chowdhury and Kevin Schmidt and Marvin Seibert and Jan Steinbrener and Francesco Stellato and Lifen Yan and Chunhong Yoon and Thomas A Moore and Ana L Moore and Yulia Pushkar and Garth J Williams and S\u00e9bastien Boutet and R Bruce Doak and Uwe Weierstall and Matthias Frank and Henry N Chapman and John CH Spence and Petra Fromme",
+            "2014",
+            "v6jFQDAAAAAJ:YFjsv_pBGBYC",
+            396,
+            "https:\/\/www.nature.com\/articles\/nature13453",
+            "14705295553266059284",
+            "\/scholar?cites=14705295553266059284",
+            {
+                "2013":1,
+                "2014":12,
+                "2015":71,
+                "2016":71,
+                "2017":72,
+                "2018":71,
+                "2019":57,
+                "2020":36,
+                "2021":3
+            }
+        ]
+    ]
+}

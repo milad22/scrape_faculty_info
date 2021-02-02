@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "DC88GK0S",
+            "-XDAZnsAAAAJ",
+            [
+                "Modeling and control of quantum systems: an introduction",
+                "Quantum Markovian subsystems: invariance, attractivity, and control",
+                "Analysis and synthesis of attractive quantum Markovian dynamics",
+                "Stabilizing entangled states with quasi-local quantum dynamical semigroups",
+                "Consensus for quantum networks: Symmetry from gossip interactions",
+                "Steady-state entanglement by engineered quasi-local Markovian dissipation",
+                "Quantum resources for purification and cooling: fundamental limits and opportunities",
+                "Stabilizing quantum states by constructive design of open quantum dynamics",
+                "Engineering stable discrete-time quantum dynamics via a canonical QR decomposition",
+                "Hamiltonian control of quantum dynamical semigroups: Stabilization and convergence speed"
+            ],
+            [
+                "The scope of this work is to provide a self-contained introduction to a selection of basic theoretical aspects in the modeling and control of quantum mechanical systems, as well as a brief survey on the main approaches to control synthesis. While part of the existing theory, especially in the open-loop setting, stems directly from classical control theory (most notably geometric control and optimal control), a number of tools specifically tailored for quantum systems have been developed since the 1980s, in order to take into account their distinctive features: the probabilistic nature of atomic-scale physical systems, the effect of dissipation and the irreversible character of the measurements have all proved to be critical in feedback-design problems. The relevant dynamical models for both closed and open quantum systems are presented, along with the main results on their controllability and stability. A brief review of several \u2026",
+                "We characterize the dynamical behavior of continuous-time, Markovian quantum systems with respect to a subsystem of interest. Markovian dynamics describes a wide class of open quantum systems of relevance to quantum information processing, subsystem encodings offering a general pathway to faithfully represent quantum information. We provide explicit linear-algebraic characterizations of the notion of invariant and noiseless subsystem for Markovian master equations, under different robustness assumptions for model-parameter and initial-state variations. The stronger concept of an attractive quantum subsystem is introduced, and sufficient existence conditions are identified based on Lyapunov's stability techniques. As a main control application, we address the potential of output-feedback Markovian control strategies for quantum pure state-stabilization and noiseless-subspace generation. In particular \u2026",
+                "We propose a general framework for investigating a large class of stabilization problems in Markovian quantum systems. Building on the notions of invariant and attractive quantum subsystem, we characterize attractive subspaces by exploring the structure of the invariant sets for the dynamics. Our general analysis results are exploited to assess the ability of open-loop Hamiltonian and output-feedback control strategies to synthesize Markovian generators which stabilize a target subsystem, subspace, or pure state. In particular, we provide an algebraic characterization of the manifold of stabilizable pure states in arbitrary finite-dimensional Markovian systems, that leads to a constructive strategy for designing the relevant controllers. Implications for stabilization of entangled pure states are addressed by example.",
+                "We provide a solution to the problem of determining whether a target pure state can be asymptotically prepared using dissipative Markovian dynamics under fixed locality constraints. Besides recovering existing results for a large class of physically relevant entangled states, our approach has the advantage of providing an explicit stabilization test solely based on the input state and constraints of the problem. Connections with the formalism of frustration-free parent Hamiltonians are discussed, as well as control implementations in terms of a switching output-feedback law.",
+                "This paper extends the consensus framework, widely studied in the literature on distributed computing and control algorithms, to networks of quantum systems. We define consensus situations on the basis of invariance and symmetry properties, finding four different generalizations of classical consensus states. This new viewpoint can be directly used to study consensus for probability distributions, as these can be seen as a particular case of quantum statistical states: in this light, our analysis is also relevant for classical problems. We then extend the gossip consensus algorithm to the quantum setting and prove it converges to symmetric states while preserving the expectation of permutation-invariant global observables. Applications of the framework and the algorithms to estimation and control problems on quantum networks are discussed.",
+                "We characterize and construct time-independent Markovian dynamics that drive a finite-dimensional multipartite quantum system into a target (pure) entangled steady state, subject to physical locality constraints. In situations where the desired stabilization task can not be attained solely based on local dissipative means, we allow for local Hamiltonian control or, if the latter is not an option, we suitably restrict the set of admissible initial states. In both cases, we provide algorithms for constructing a master equation that achieves the intended objective and show how this can genuinely extend the manifold of stabilizable states. In particular, we present quasi-local control protocols for dissipatively engineering multipartite GHZ\" cat\" states and W states on  qubits. For GHZ states, we find that no scalable procedure exists for achieving stabilization from arbitrary initial states, whereas this is possible for a target W state by a suitable combination of a two-body Hamiltonian and dissipators. Interestingly, for both entanglement classes, we show that quasi-local stabilization may be scalably achieved conditional to initialization of the system in a large, appropriately chosen subspace.",
+                "Preparing a quantum system in a pure state is ultimately limited by the nature of the system's evolution in the presence of its environment and by the initial state of the environment itself. We show that, when the system and environment are initially uncorrelated and arbitrary joint unitary dynamics is allowed, the system may be purified up to a certain (possibly arbitrarily small) threshold if and only if its environment, either natural or engineered, contains a \u201cvirtual subsystem\u201d which has the same dimension and is in a state with the desired purity. Beside providing a unified understanding of quantum purification dynamics in terms of a \u201cgeneralized swap process,\u201d our results shed light on the significance of a no-go theorem for exact ground-state cooling, as well as on the quantum resources needed for achieving an intended purification task.",
+                "Based on recent work on the asymptotic behavior of controlled quantum Markovian dynamics, we show that any generic quantum state can be stabilized by devising constructively a simple Lindblad-GKS generator that can achieve global asymptotic stability at the desired state. The applicability of such result is demonstrated by designing a direct feedback strategy that achieves global stabilization of a qubit state encoded in a noise-protected subspace.",
+                "We analyze the asymptotic behavior of discrete-time, Markovian quantum systems with respect to a subspace of interest. Global asymptotic stability of subspaces is relevant to quantum information processing, in particular for initializing the system in pure states or subspace codes. We provide a linear-algebraic characterization of the dynamical properties leading to invariance and attractivity of a given quantum subspace. We then construct a design algorithm for discrete-time feedback control that allows to stabilize a target subspace, proving that if the control problem is feasible, then the algorithm returns an effective control choice. In order to prove this result, a canonical QR matrix decomposition is derived, and also used to establish the control scheme potential for the simulation of open-system dynamics.",
+                "We consider finite-dimensional Markovian open quantum systems, and characterize the extent to which time-independent Hamiltonian control may allow to stabilize a target quantum state or subspace and optimize the resulting convergence speed. For a generic Lindblad master equation, we introduce a dissipation-induced decomposition of the associated Hilbert space, and show how it serves both as a tool to analyze global stability properties for given control resources and as the starting point to synthesize controls that ensure rapid convergence. The resulting design principles are illustrated in realistic Markovian control settings motivated by quantum information processing, including quantum-optical systems and nitrogen-vacancy centers in diamond."
+            ],
+            [
+                [
+                    "Quantum Control",
+                    "System Theory",
+                    "Quantum Information",
+                    "Linear Algebra"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "V06U7MsAAAAJ",
+            "Jun YANG",
+            "Professor of Aquatic EcoHealth, Institute of Urban Environment, Chinese Academy of Sciences",
+            "@iue.ac.cn",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=V06U7MsAAAAJ",
+            18828,
+            [
+                "drinking water reservoir",
+                "aquatic ecohealth",
+                "freshwater ecology",
+                "protist",
+                "biomonitoring and bioassessment"
+            ],
+            12241,
+            68,
+            54,
+            299,
+            248,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"7APJzakAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David M Wilkinson",
+                    "affiliation":"University of Lincoln, UK."
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"piD55sUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yong-Guan Zhu",
+                    "affiliation":"Professor of Environmental Sciences, Institute of Urban Environment"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"sMQzve4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Stefano Amalfitano",
+                    "affiliation":"Water Research Institute (IRSA-CNR)"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"05Uw_XEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Thomas N. Sherratt",
+                    "affiliation":"Professor of Evolutionary Ecology, Carleton University"
+                }
+            ]
+        ]
+    ]
+}

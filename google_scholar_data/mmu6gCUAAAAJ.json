@@ -1,0 +1,114 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "mmu6gCUAAAAJ",
+            "Giovanni Ossola",
+            "New York City College of Technology - CUNY",
+            "@citytech.cuny.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=mmu6gCUAAAAJ",
+            6812,
+            [
+                "Theoretical Particle Physics",
+                "Collider Physics",
+                "Scattering Amplitudes"
+            ],
+            3312,
+            33,
+            23,
+            45,
+            31,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"OWmPfGYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Francesco Tramontano",
+                    "affiliation":"Universit\u00e0 di Napoli \"Federico II\""
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"zXyxWuEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Andrea Ferroglia",
+                    "affiliation":"New York City College of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Fk9o5UEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"costas papadopoulos",
+                    "affiliation":"NCSR DEMOKRITOS"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"cQp1BYYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Roberto Pittau",
+                    "affiliation":"University of Granada (Spain)"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"5GI_xHoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Paolo Gambino",
+                    "affiliation":"Universit\u00e0 di Torino"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"wWWEwk0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alan D. Sokal",
+                    "affiliation":"Professor of Physics, New York University;  Professor of Mathematics, University College London"
+                }
+            ]
+        ]
+    ]
+}

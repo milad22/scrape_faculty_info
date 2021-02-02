@@ -1,0 +1,48 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "9M8UES4X",
+            "P9DoZBoAAAAJ",
+            [
+                "Implementation of cavity squeezing of a collective atomic spin",
+                "States of an ensemble of two-level atoms with reduced quantum uncertainty",
+                "Measuring the scrambling of quantum information",
+                "An Aharonov-Bohm interferometer for determining Bloch band topology",
+                "Orientation-dependent entanglement lifetime in a squeezed atomic clock",
+                "Squeezing the collective spin of a dilute atomic ensemble by cavity feedback",
+                "Bloch state tomography using Wilson lines",
+                "Interaction between atomic ensembles and optical resonators: Classical description",
+                "Optomechanical cavity cooling of an atomic ensemble",
+                "Approaching the Heisenberg limit without single-particle detection"
+            ],
+            [
+                "We squeeze unconditionally the collective spin of a dilute ensemble of laser-cooled Rb 87 atoms using their interaction with a driven optical resonator. The shape and size of the resulting spin uncertainty region are well described by a simple analytical model [MH Schleier-Smith, ID Leroux, and V. Vuleti\u0107, arXiv: 0911.3936 [Phys. Rev. A (to be published)]] through 2 orders of magnitude in the effective interaction strength, without free parameters. We deterministically generate states with up to 5.6 (6) dB of metrologically relevant spin squeezing on the canonical Rb 87 hyperfine clock transition.",
+                "We generate entangled states of an ensemble of 5\u00d7 10 4 Rb 87 atoms by optical quantum nondemolition measurement. The resonator-enhanced measurement leaves the atomic ensemble, prepared in a superposition of hyperfine clock levels, in a squeezed spin state. By comparing the resulting reduction of quantum projection noise [up to 8.8 (8) dB] with the concomitant reduction of coherence, we demonstrate a clock input state with spectroscopic sensitivity 3.0 (8) dB beyond the standard quantum limit.",
+                "We provide a general protocol to measure out-of-time-order correlation functions. These correlation functions are of broad theoretical interest for diagnosing the scrambling of quantum information in interacting quantum systems and have recently received particular attention in the study of chaos and black holes within holographic duality. Measuring them requires an echo-type sequence in which the sign of a many-body Hamiltonian is reversed. We illustrate our protocol by detailing an implementation employing cold atoms and cavity quantum electrodynamics to probe spin models with nonlocal interactions. To verify the feasibility of the scheme with current technology, we analyze the effects of dissipation in a chaotic kicked-top model. Finally, we propose a number of other experimental platforms where similar out-of-time-order correlation functions can be measured.",
+                "The geometric structure of a single-particle energy band in a solid is fundamental for a wide range of many-body phenomena and is uniquely characterized by the distribution of Berry curvature over the Brillouin zone. We realize an atomic interferometer to measure Berry flux in momentum space, in analogy to an Aharonov-Bohm interferometer that measures magnetic flux in real space. We demonstrate the interferometer for a graphene-type hexagonal optical lattice loaded with bosonic atoms. By detecting the singular \u03c0 Berry flux localized at each Dirac point, we establish the high momentum resolution of this interferometric technique. Our work forms the basis for a general framework to fully characterize topological band structures.",
+                "We study experimentally the application of a class of entangled states, squeezed spin states, to the improvement of atomic-clock precision. In the presence of anisotropic noise, the entanglement lifetime is strongly dependent on squeezing orientation. We measure the Allan deviation spectrum of a clock operated with a phase-squeezed input state. For averaging times up to 50 s the squeezed clock achieves a given precision 2.8 (3) times faster than a clock operating at the standard quantum limit.",
+                "We propose and analyze a simple method to squeeze dynamically and unconditionally the collective spin of a dilute atomic ensemble by interaction with a driven mode of an optical resonator, as recently demonstrated [ID Leroux, MH Schleier-Smith, and V. Vuleti\u0107, Phys. Rev. Lett. 104, 073602 (2010)]. We show that substantial squeezing can be achieved in the regime of strong collective ensemble-resonator coupling. The squeezing is ultimately limited either by photon emission into free space or by the curvature of the Bloch sphere. We derive both limits and show where each prevails.",
+                "Topology and geometry are essential to our understanding of modern physics, underlying many foundational concepts from high-energy theories, quantum information, and condensed-matter physics. In condensed-matter systems, a wide range of phenomena stem from the geometry of the band eigenstates, which is encoded in the matrix-valued Wilson line for general multiband systems. Using an ultracold gas of rubidium atoms loaded in a honeycomb optical lattice, we realize strong-force dynamics in Bloch bands that are described by Wilson lines and observe an evolution in the band populations that directly reveals the band geometry. Our technique enables a full determination of band eigenstates, Berry curvature, and topological invariants, including single- and multiband Chern and  numbers.",
+                "Many effects in the interaction between atoms and a cavity that are usually described in quantum mechanical terms (cavity quantum electrodynamics, cavity QED) can be understood and quantitatively analyzed within a classical framework. We adopt such a classical picture of a radiating dipole oscillator to derive explicit expressions for the coupling of single atoms and atomic ensembles to Gaussian modes in free space and in an optical resonator. The cooperativity parameter of cavity QED is shown to play a central role and is given a geometrical interpretation. The classical analysis yields transparent, intuitive results that are useful for analyzing applications of cavity QED such as atom detection and counting, cavity cooling, cavity spin squeezing, cavity spin optomechanics, or phase transitions associated with the self-organization of the ensemble-light system.",
+                "We demonstrate cavity sideband cooling of a single collective motional mode of an atomic ensemble down to a mean phonon occupation number\u27e8 n\u27e9 min\ufeff= 2.0\u2212 0.3+ 0.9. Both\u27e8 n\u27e9 min\ufeff and the observed cooling rate are in good agreement with an optomechanical model. The cooling rate constant is proportional to the total photon scattering rate by the ensemble, demonstrating the cooperative character of the light-emission-induced cooling process. We deduce fundamental limits to cavity cooling either the collective mode or, sympathetically, the single-atom degrees of freedom.",
+                "We propose an approach to quantum phase estimation that can attain precision near the Heisenberg limit without requiring single-particle-resolved state detection. We show that the \u201cone-axis twisting\u201d interaction, well known for generating spin squeezing in atomic ensembles, can also amplify the output signal of an entanglement-enhanced interferometer to facilitate readout. Applying this interaction-based readout to oversqueezed, non-Gaussian states yields a Heisenberg scaling in phase sensitivity, which persists in the presence of detection noise as large as the quantum projection noise of an unentangled ensemble. Even in dissipative implementations\u2014eg, employing light-mediated interactions in an optical cavity or Rydberg dressing\u2014the method significantly relaxes the detection resolution required for spectroscopy beyond the standard quantum limit."
+            ],
+            [
+                [
+                    "Atomic Physics",
+                    "Quantum Optics"
+                ]
+            ]
+        ]
+    ]
+}

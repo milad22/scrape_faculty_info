@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "BURCO6JM",
+            "4Qiq3VEAAAAJ",
+            [
+                "The high-throughput highway to computational materials design",
+                "AFLOWLIB. ORG: A distributed materials properties repository from high-throughput ab initio calculations",
+                "AFLOW: An automatic framework for high-throughput materials discovery",
+                "First-principles elastic constants and electronic structure of  and PtSi",
+                "Evolutionary approach for determining first-principles hamiltonians",
+                "Algorithm for generating derivative structures",
+                "Compressive sensing as a paradigm for building physics models",
+                "Using genetic algorithms to map first-principles results to model Hamiltonians: Application to the generalized Ising model for alloys",
+                "The AFLOW standard for high-throughput materials science calculations",
+                "UNCLE: a code for constructing cluster expansions for arbitrary lattices with minimal user-input"
+            ],
+            [
+                "High-throughput computational materials design is an emerging area of materials science. By combining advanced thermodynamic and electronic-structure methods with intelligent data mining and database construction, and exploiting the power of current supercomputer architectures, scientists generate, manage and analyse enormous data repositories for the discovery of novel materials. In this Review we provide a current snapshot of this rapidly evolving field, and highlight the challenges and opportunities that lie ahead.",
+                "Empirical databases of crystal structures and thermodynamic properties are fundamental tools for materials research. Recent rapid proliferation of computational data on materials properties presents the possibility to complement and extend the databases where the experimental data is lacking or difficult to obtain. Enhanced repositories that integrate both computational and empirical approaches open novel opportunities for structure discovery and optimization, including uncovering of unsuspected compounds, metastable structures and correlations between various characteristics. The practical realization of these opportunities depends on a systematic compilation and classification of the generated data in addition to an accessible interface for the materials science community. In this paper we present an extensive repository, aflowlib.org, comprising phase-diagrams, electronic structure and magnetic properties \u2026",
+                "Recent advances in computational materials science present novel opportunities for structure discovery and optimization, including uncovering of unsuspected compounds and metastable structures, electronic structure, surface, and nano-particle properties. The practical realization of these opportunities requires systematic generation and classification of the relevant computational data by high-throughput methods. In this paper we present Aflow (Automatic Flow), a software framework for high-throughput calculation of crystal structure properties of alloys, intermetallics and inorganic compounds. The Aflow software is available for the scientific community on the website of the materials research consortium, aflowlib.org. Its geometric and electronic structure analysis and manipulation tools are additionally available for online operation at the same website. The combination of automatic methods and user online \u2026",
+                "We have carried out a first-principles study of the elastic properties and electronic structure for two room-temperature stable Pt silicide phases, tetragonal \u03b1\u2212 Pt 2 Si, and orthorhombic PtSi. We have calculated all of the equilibrium structural parameters for both phases: the a and c lattice constants for \u03b1\u2212 Pt 2 Si and the a, b, and c lattice constants and four internal structural parameters for PtSi. These results agree closely with experimental data. We have also calculated the zero-pressure elastic constants, confirming prior results for pure Pt and Si and predicting values for the six (nine) independent, nonzero elastic constants of \u03b1\u2212 Pt 2 Si (PtSi). These calculations include a full treatment of all relevant internal displacements induced by the elastic strains, including an explicit determination of the dimensionless internal displacement parameters for the three strains in \u03b1\u2212 Pt 2 Si for which they are nonzero. We have \u2026",
+                "Modern condensed-matter theory from first principles is highly successful when applied to materials of given structure-type or restricted unit-cell size. But this approach is limited where large cells or searches over millions of structure types become necessary. To treat these with first-principles accuracy, one'coarse-grains' the many-particle Schr\u00f6dinger equation into'model hamiltonians'1, 2, 3 whose variables are configurational order parameters (atomic positions, spin and so on), connected by a few'interaction parameters' obtained from a microscopic theory 3, 4. But to construct a truly quantitative model hamiltonian, one must know just which types of interaction parameters to use, from possibly 10 6\u201310 8 alternative selections. Here we show how genetic algorithms 5, mimicking biological evolution ('survival of the fittest'), can be used to distil reliable model hamiltonian parameters from a database of first-principles \u2026",
+                "We present an algorithm for generating all derivative superstructures\u2014for arbitrary parent structures and for any number of atom types. This algorithm enumerates superlattices and atomic configurations in a geometry-independent way. The key concept is to use the quotient group associated with each superlattice to determine all unique atomic configurations. The run time of the algorithm scales linearly with the number of unique structures found.",
+                "The widely accepted intuition that the important properties of solids are determined by a few key variables underpins many methods in physics. Though this reductionist paradigm is applicable in many physical problems, its utility can be limited because the intuition for identifying the key variables often does not exist or is difficult to develop. Machine learning algorithms (genetic programming, neural networks, Bayesian methods, etc.) attempt to eliminate the a priori need for such intuition but often do so with increased computational burden and human time. A recently developed technique in the field of signal processing, compressive sensing (CS), provides a simple, general, and efficient way of finding the key descriptive variables. CS is a powerful paradigm for model building; we show that its models are more physical and predict more accurately than current state-of-the-art approaches and can be constructed at a \u2026",
+                "The cluster expansion method provides a standard framework to map first-principles generated energies for a few selected configurations of a binary alloy onto a finite set of pair and many-body interactions between the alloyed elements. These interactions describe the energetics of all possible configurations of the same alloy, which can hence be readily used to identify ground state structures and, through statistical mechanics solutions, find finite-temperature properties. In practice, the biggest challenge is to identify the types of interactions which are most important for a given alloy out of the many possibilities. We describe a genetic algorithm which automates this task. To avoid a possible trapping in a locally optimal interaction set, we periodically \u201clock out\u201d persistent near-optimal cluster expansions. In this way, we identify not only the best possible combination of interaction types but also any near-optimal cluster \u2026",
+                "The Automatic-Flow (AFLOW) standard for the high-throughput construction of materials science electronic structure databases is described. Electronic structure calculations of solid state materials depend on a large number of parameters which must be understood by researchers, and must be reported by originators to ensure reproducibility and enable collaborative database expansion. We therefore describe standard parameter values for k-point grid density, basis set plane wave kinetic energy cut-off, exchange\u2013correlation functionals, pseudopotentials, DFT+U parameters, and convergence criteria used in AFLOW calculations.",
+                "We present a new implementation of the cluster expansion formalism. The new code, UNiversal CLuster Expansion (UNCLE), consolidates recent advances in the methodology and leverages one new development in the formalism itself. As a core goal, the package reduces the need for user intervention, automating the method to reduce human error and judgment. The package extends standard cluster expansion formalism to the more complicated cases of ternary compounds, as well as surfaces, including adsorption and inequivalent sites."
+            ],
+            [
+                [
+                    "Physics",
+                    "machine learning",
+                    "computational materials science",
+                    "first-principles calculations",
+                    "algorithm development"
+                ]
+            ]
+        ]
+    ]
+}

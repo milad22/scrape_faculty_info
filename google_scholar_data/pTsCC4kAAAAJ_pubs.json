@@ -1,0 +1,157 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "data":[
+        [
+            "Superconductivity has been the focus of enormous research effort since its discovery more than a century ago. Yet, some features of this unique phenomenon remain poorly understood; prime among these is the connection between superconductivity and chemical\/structural properties of materials. To bridge the gap, several machine learning schemes are developed herein to model the critical temperatures (T c) of the 12,000+ known superconductors available via the SuperCon database. Materials are first divided into two classes based on their T c values, above and below 10 K, and a classification model predicting this label is trained. The model uses coarse-grained features based only on the chemical compositions. It shows strong predictive power, with out-of-sample accuracy of about 92%. Separate regression models are developed to predict the values of T c for cuprate, iron-based, and low-T c compounds \u2026",
+            "Machine learning modeling of superconducting critical temperature",
+            "Valentin Stanev and Corey Oses and A Gilad Kusne and Efrain Rodriguez and Johnpierre Paglione and Stefano Curtarolo and Ichiro Takeuchi",
+            "2018",
+            "pTsCC4kAAAAJ:r655XaDZu5IC",
+            125,
+            "https:\/\/www.nature.com\/articles\/s41524-018-0085-8",
+            "17466029210971774530",
+            "\/scholar?cites=17466029210971774530",
+            {
+                "2018":7,
+                "2019":38,
+                "2020":69,
+                "2021":10
+            }
+        ],
+        [
+            "Through neutron diffraction experiments, including spin-polarized measurements, we find a collinear incommensurate spin-density wave with propagation vector k=[0.4481 (4) 0 1 2] at base temperature in the superconducting parent compound Fe 1+ x Te. This critical concentration of interstitial iron corresponds to x\u2248 12% and leads to crystallographic phase separation at base temperature. The spin-density wave is short-range ordered with a correlation length of 22 (3) \u00c5, and as the ordering temperature is approached its propagation vector decreases linearly in the H direction and becomes long-range ordered. Upon further populating the interstitial iron site, the spin-density wave gives way to an incommensurate helical ordering with propagation vector k=[0.3855 (2) 0 1 2] at base temperature. For a sample with x\u2248 9 (1)%, we also find an incommensurate spin-density wave that competes with the bicollinear \u2026",
+            "Magnetic-crystallographic phase diagram of the superconducting parent compound Fe 1+ x Te",
+            "Efrain E Rodriguez and Chris Stock and Pawel Zajdel and Kathryn L Krycka and Charles F Majkrzak and Peter Zavalij and Mark A Green",
+            "2011",
+            "pTsCC4kAAAAJ:u-x6o8ySG0sC",
+            124,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.84.064403",
+            "11771251853020976096",
+            "\/scholar?cites=11771251853020976096",
+            {
+                "2011":5,
+                "2012":15,
+                "2013":11,
+                "2014":17,
+                "2015":13,
+                "2016":12,
+                "2017":20,
+                "2018":7,
+                "2019":12,
+                "2020":4,
+                "2021":3
+            }
+        ],
+        [
+            "We present evidence for possibly the highest magnetic ordering temperature in any compound without 3 d transition elements. Neutron powder diffraction measurements, at both time-of-flight and constant wavelength sources, were performed on two independently prepared SrTcO 3 powders. SrTcO 3 adopts a distorted perovskite structure with G-type antiferromagnetic ordering and has a moment of 1.87 (4) \u03bc B per Tc cation at room temperature with an extraordinarily high N\u00e9el point close to 750 C. Electronic structure calculations reveal extensive mixing between the technetium 4 d states and oxygen states proximal to the Fermi level. This hybridization leads to a close relationship between magnetic ordering temperature and moment formation in SrTcO 3.",
+            "High Temperature Magnetic Ordering in the  Perovskite ",
+            "Efrain E Rodriguez and Fr\u00e9d\u00e9ric Poineau and Anna Llobet and Brendan J Kennedy and Maxim Avdeev and Gordon J Thorogood and Melody L Carter and Ram Seshadri and David J Singh and Anthony K Cheetham",
+            "2011",
+            "pTsCC4kAAAAJ:u5HHmVD_uO8C",
+            112,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.106.067201",
+            "11803697540259870224",
+            "\/scholar?cites=11803697540259870224",
+            {
+                "2011":13,
+                "2012":18,
+                "2013":5,
+                "2014":13,
+                "2015":19,
+                "2016":5,
+                "2017":18,
+                "2018":3,
+                "2019":10,
+                "2020":6
+            }
+        ],
+        [
+            "The Materials Genome Initiative (MGI) advanced a new paradigm for materials discovery and design, namely that the pace of new materials deployment could be accelerated through complementary efforts in theory, computation, and experiment. Along with numerous successes, new challenges are inviting researchers to refocus the efforts and approaches that were originally inspired by the MGI. In May 2017, the National Science Foundation sponsored the workshop \u201cAdvancing and Accelerating Materials Innovation Through the Synergistic Interaction among Computation, Experiment, and Theory: Opening New Frontiers\u201d to review accomplishments that emerged from investments in science and infrastructure under the MGI, identify scientific opportunities in this new environment, examine how to effectively utilize new materials innovation infrastructure, and discuss challenges in achieving accelerated materials \u2026",
+            "New frontiers for the materials genome initiative",
+            "Juan J de Pablo and Nicholas E Jackson and Michael A Webb and Long-Qing Chen and Joel E Moore and Dane Morgan and Ryan Jacobs and Tresa Pollock and Darrell G Schlom and Eric S Toberer and James Analytis and Ismaila Dabo and Dean M DeLongchamp and Gregory A Fiete and Gregory M Grason and Geoffroy Hautier and Yifei Mo and Krishna Rajan and Evan J Reed and Efrain Rodriguez and Vladan Stevanovic and Jin Suntivich and Katsuyo Thornton and Ji-Cheng Zhao",
+            "2019",
+            "pTsCC4kAAAAJ:CzVmvSWNoUEC",
+            68,
+            "https:\/\/www.nature.com\/articles\/s41524-019-0173-4",
+            "9932969258596121720",
+            "\/scholar?cites=9932969258596121720",
+            {
+                "2019":8,
+                "2020":54,
+                "2021":6
+            }
+        ],
+        [
+            "We used neutron powder diffraction to obtain the local and long-range structure of La 0.5 Ca 0.5 Mn O 3 at room temperature and 20 K. By combining Rietveld and pair distribution function analysis of the total neutron scattering data, we have analyzed the structure of the compound using two competing models describing the low temperature phase: first the charge-ordered\u2013orbital-ordered model and second the Mn\ue5f8 Mn dimer model. These structural models fit the 20 K neutron powder diffraction pattern equally well using a Rietveld analysis. Therefore, pair distribution function analysis is used to probe the local and medium-range structure revealing a system with two distinctly distorted Mn octahedra and Mn ions with nonintegral valence states. The distorted octahedra differ with the structural model for the Zener polaron-type Mn\ue5f8 Mn dimer picture proposed for Pr 0.60 Ca 0.40 Mn O 3 and order in a similar \u2026",
+            "Neutron diffraction study of average and local structure in La 0.5 Ca 0.5 Mn O 3",
+            "EE Rodriguez and Th Proffen and A Llobet and JJ Rhyne and JF Mitchell",
+            "2005",
+            "pTsCC4kAAAAJ:d1gkVwhDpl0C",
+            68,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.71.104430",
+            "13336388490077138444",
+            "\/scholar?cites=13336388490077138444",
+            {
+                "2005":2,
+                "2006":4,
+                "2007":8,
+                "2008":11,
+                "2009":8,
+                "2010":3,
+                "2011":1,
+                "2012":6,
+                "2013":7,
+                "2014":4,
+                "2015":2,
+                "2016":2,
+                "2017":1,
+                "2018":3,
+                "2019":3,
+                "2020":3
+            }
+        ],
+        [
+            "The nature of the magnetism in the simplest iron arsenide is of fundamental importance in understanding the interplay between localized and itinerant magnetism and superconductivity. We present the magnetic structure of the itinerant monoarsenide FeAs with the B31 structure. Powder neutron diffraction confirms incommensurate modulated magnetism with wave vector q=(0.395\u00b10.001) c* at 4 K, but can not distinguish between a simple spiral and a collinear spin-density-wave structure. Polarized single-crystal diffraction confirms that the structure is best described as a noncollinear spin-density wave arising from a combination of itinerant and localized behavior with spin amplitude along the b-axis direction being (15\u00b15)% larger than in the a direction. Furthermore, the propagation vector is temperature dependent, and the magnetization near the critical point indicates a two-dimensional Heisenberg system. The \u2026",
+            "Noncollinear spin-density-wave antiferromagnetism in FeAs",
+            "EE Rodriguez and C Stock and KL Krycka and CF Majkrzak and P Zajdel and K Kirshenbaum and NP Butch and SR Saha and J Paglione and MA Green",
+            "2011",
+            "pTsCC4kAAAAJ:Y0pCki6q_DkC",
+            67,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.83.134438",
+            "13361096761594474736",
+            "\/scholar?cites=13361096761594474736",
+            {
+                "2011":4,
+                "2012":4,
+                "2013":6,
+                "2014":11,
+                "2015":8,
+                "2016":5,
+                "2017":5,
+                "2018":10,
+                "2019":5,
+                "2020":8,
+                "2021":1
+            }
+        ]
+    ]
+}

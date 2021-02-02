@@ -1,0 +1,53 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Il2BHjQAAAAJ",
+            "Farhad Shaveisi-Zadeh",
+            "Kermanshah University of Medical Sciences",
+            "@sbmu.ac.ir",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=Il2BHjQAAAAJ",
+            116,
+            [
+                "Medical Genetics",
+                "Medical Laboratory Sciences"
+            ],
+            94,
+            7,
+            7,
+            4,
+            3,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"RH6GAFIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Zahra Rostami-Far",
+                    "affiliation":"Molecular Pathology Research Center, Emam Reza Hospital, Kermanshah University of Medical Sciences"
+                }
+            ]
+        ]
+    ]
+}

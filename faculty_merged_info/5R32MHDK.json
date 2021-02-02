@@ -1,0 +1,39 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "5R32MHDK",
+            "3awvZSIAAAAJ",
+            [
+                "A synthetic oscillatory network of transcriptional regulators",
+                "From molecular to modular cell biology",
+                "Bacterial persistence as a phenotypic switch",
+                "Robustness in simple biochemical networks",
+                "Robustness in bacterial chemotaxis",
+                "Phenotypic diversity, population growth, and information in fluctuating environments"
+            ],
+            [
+                "Networks of interacting biomolecules carry out many essential functions in living cells 1, but the \u2018design principles\u2019 underlying the functioning of such intracellular networks remain poorly understood, despite intensive efforts including quantitative analysis of relatively simple systems 2. Here we present a complementary approach to this problem: the design and construction of a synthetic network to implement a particular function. We used three transcriptional repressor systems that are not part of any natural biological clock 3, 4, 5 to build an oscillating network, termed the repressilator, in Escherichia coli. The network periodically induces the synthesis of green fluorescent protein as a readout of its state in individual cells. The resulting oscillations, with typical periods of hours, are slower than the cell-division cycle, so the state of the oscillator has to be transmitted from generation to generation. This artificial clock \u2026",
+                "Cellular functions, such as signal transmission, are carried out by \u2018modules\u2019 made up of many species of interacting molecules. Understanding how modules work has depended on combining phenomenological analysis with molecular studies. General principles that govern the structure and behaviour of modules may be discovered with help from synthetic sciences such as engineering and computer science, from stronger interactions between experiment and theory in cell biology, and from an appreciation of evolutionary constraints.Action potentials are large, brief, highly nonlinear pulses of cell electrical potential which are central to communication between nerve cells. Hodgkin and Huxley\u2019s analysis of action potentials29 exemplifies understanding through in silico reconstruction. They studied the dynamical behaviour of the voltagedependent conductivity of a nerve cell membrane for Na+ and K+ ions, and \u2026",
+                "A fraction of a genetically homogeneous microbial population may survive exposure to stress such as antibiotic treatment. Unlike resistant mutants, cells regrown from such persistent bacteria remain sensitive to the antibiotic. We investigated the persistence of single cells of Escherichia coli with the use of microfluidic devices. Persistence was linked to preexisting heterogeneity in bacterial populations because phenotypic switching occurred between normally growing cells and persister cells having reduced growth rates. Quantitative measurements led to a simple mathematical description of the persistence switch. Inherent heterogeneity of bacterial populations may be important in adaptation to fluctuating environments and in the persistence of bacterial infections.",
+                "Cells use complex networks of interacting molecular components to transfer and process information. These \u201ccomputational devices of living cells\u201d 1 are responsible for many important cellular processes, including cell-cycle regulation and signal transduction. Here we address the issue of the sensitivity of the networks to variations in their biochemical parameters. We propose a mechanism for robust adaptation in simple signal transduction networks. We show that this mechanism applies in particular to bacterial chemotaxis 2, 3, 4, 5, 6, 7. This is demonstrated within a quantitative model which explains, in a unified way, many aspects of chemotaxis, including proper responses to chemical gradients 8, 9, 10, 11, 12. The adaptation property 10, 13, 14, 15, 16 is a consequence of the network's connectivity and does not require the \u2018fine-tuning\u2019of parameters. We argue that the key properties of biochemical networks \u2026",
+                "Networks of interacting proteins orchestrate the responses of living cells to a variety of external stimuli 1, but how sensitive is the functioning of these protein networks to variations in theirbiochemical parameters? One possibility is that to achieve appropriate function, the reaction rate constants and enzyme concentrations need to be adjusted in a precise manner, and any deviation from these \u2018fine-tuned\u2019values ruins the network's performance. An alternative possibility is that key properties of biochemical networks are robust 2; that is, they are insensitive to the precise values of the biochemical parameters. Here we address this issue in experiments using chemotaxis of Escherichia coli, one of the best-characterized sensory systems 3, 4. We focus on how response and adaptation to attractant signals vary with systematic changes in the intracellular concentration of the components of the chemotaxis network. We find \u2026",
+                "Organisms in fluctuating environments must constantly adapt their behavior to survive. In clonal populations, this may be achieved through sensing followed by response or through the generation of diversity by stochastic phenotype switching. Here we show that stochastic switching can be favored over sensing when the environment changes infrequently. The optimal switching rates then mimic the statistics of environmental changes. We derive a relation between the long-term growth rate of the organism and the information available about its fluctuating environment."
+            ],
+            [
+                [
+
+                ]
+            ]
+        ]
+    ]
+}

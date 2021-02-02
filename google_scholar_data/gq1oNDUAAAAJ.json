@@ -1,0 +1,88 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "gq1oNDUAAAAJ",
+            "Shuhui Song",
+            "Beijing Institute of Genomics, CAS",
+            "@big.ac.cn",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=gq1oNDUAAAAJ",
+            3545,
+            [
+                "Bioinformatics"
+            ],
+            2821,
+            27,
+            20,
+            44,
+            35,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"OpXY-zYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Songnian Hu",
+                    "affiliation":"Professor of Beijing Institute of Genomics, CAS"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"jkgpS0kAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jun Yu",
+                    "affiliation":"Professor of Genomics and Bioinformatics, Beijing Institute of Genomics, Chinese Academy of Sciences"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"wEW-CcsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Zhang Zhang",
+                    "affiliation":"Professor, Associate Director of CNCB-NGDC, Beijing Institute of Genomics, CAS"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"85XQTmcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Lina Ma",
+                    "affiliation":"Beijing Institute of Genomics, CAS \/ China National Center for Bioinformation"
+                }
+            ]
+        ]
+    ]
+}

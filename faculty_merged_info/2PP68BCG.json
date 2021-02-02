@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "2PP68BCG",
+            "b7eRrqoAAAAJ",
+            [
+                "Breaking the speed limit with atomic force microscopy",
+                "Production of phosphorene nanoribbons",
+                "iTweezers: optical micromanipulation controlled by an Apple iPad",
+                "Ionic solutions of two-dimensional materials",
+                "High-speed atomic force microscopy for materials science",
+                "Single crystal, luminescent carbon nitride nanosheets formed by spontaneous dissolution",
+                "High-speed AFM of human chromosomes in liquid",
+                "A new detection system for extremely small vertically mounted cantilevers",
+                "High-speed atomic force microscopy in slow motion\u2014understanding cantilever behaviour at high scan velocities",
+                "Opportunities in high\u2010speed atomic force microscopy"
+            ],
+            [
+                "High-speed atomic force microscopy (AFM) is important for following processes that occur on sub-second timescales for studies both in biology and materials science, and also for the ability to examine large areas of a specimen at high resolution in a practical length of time. Further developments of the previously reported high-speed contact-mode AFM are described. Two instruments are presented:(i) a high-speed flexure stage arrangement capable of imaging at a video rate of 30 fps, and (ii) an ultra-high speed instrument using a combined tuning fork and flexure-stage scanning system capable of ultra-high-speed imaging in excess of 1000 fps. Results of imaging collagen fibres under ambient conditions at rates of up to 1300 frames s\u2212 1 are presented. Despite tip\u2013specimen relative velocities of up to 200 mm s\u2212 1, no significant damage to the collagen specimen was observed even after tens of thousands of \u2026",
+                "Phosphorene is a mono-elemental, two-dimensional (2D) substance with outstanding, highly directional properties and a bandgap that depends on the number of layers of the material 1, 2, 3, 4, 5, 6, 7, 8. Nanoribbons, meanwhile, combine the flexibility and unidirectional properties of one-dimensional nanomaterials, the high surface area of 2D nanomaterials and the electron-confinement and edge effects of both. The structures of nanoribbons can thus lead to exceptional control over electronic band structure, the emergence of novel phenomena and unique architectures for applications 5, 6, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24. Phosphorene\u2019s intrinsically anisotropic structure has motivated numerous theoretical calculations of phosphorene nanoribbons (PNRs), predicting extraordinary properties 5, 6, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24. So far, however, discrete PNRs have not \u2026",
+                "The 3D interactive manipulation of multiple particles with holographic optical tweezers is often hampered by the control system. We use a multi-touch interface implemented on an Apple iPad to overcome many of the limitations of mouse-based control, and demonstrate an elegant and intuitive interface to multi-particle manipulation. This interface connects to the tweezers system hardware over a wireless network, allowing it to function as a remote monitor and control device.",
+                "Strategies for forming liquid dispersions of nanomaterials typically focus on retarding reaggregation, for example via surface modification, as opposed to promoting the thermodynamically driven dissolution common for molecule-sized species. Here we demonstrate the true dissolution of a wide range of important 2D nanomaterials by forming layered material salts that spontaneously dissolve in polar solvents yielding ionic solutions. The benign dissolution advantageously maintains the morphology of the starting material, is stable against reaggregation and can achieve solutions containing exclusively individualized monolayers. Importantly, the charge on the anionic nanosheet solutes is reversible, enables targeted deposition over large areas via electroplating and can initiate novel self-assembly upon drying. Our findings thus reveal a unique solution-like behaviour for 2D materials that enables their scalable \u2026",
+                "Since its inception in 1986, the field of atomic force microscopy (AFM) has enabled surface analysis and characterisation with unparalleled resolution in a wide variety of environments. However, the technique is limited by very low sample throughput and temporal resolution making it impractical for materials science research on macro sized or time evolving samples such as the observation of corrosion. The potential of AFM sparked intense efforts to overcome these limitations shortly after its invention, and has led to the development of high-speed atomic force microscopes (HS-AFMs). Within the last 5 years the technology underpinning these instruments has matured to the point where routine imaging can achieve megapixels per second over scan areas of square millimetres, removing the limitations from AFM for industrial scale materials characterisation. This review explains the technology and looks to the future \u2026",
+                "A primary method for the production of 2D nanosheets is liquid-phase delamination from their 3D layered bulk analogues. Most strategies currently achieve this objective by significant mechanical energy input or chemical modification but these processes are detrimental to the structure and properties of the resulting 2D nanomaterials. Bulk poly(triazine imide) (PTI)-based carbon nitrides are layered materials with a high degree of crystalline order. Here, we demonstrate that these semiconductors are spontaneously soluble in select polar aprotic solvents, that is, without any chemical or physical intervention. In contrast to more aggressive exfoliation strategies, this thermodynamically driven dissolution process perfectly maintains the crystallographic form of the starting material, yielding solutions of defect-free, hexagonal 2D nanosheets with a well-defined size distribution. This pristine nanosheet structure results in \u2026",
+                "Further developments of the previously reported high-speed contact-mode AFM are described. The technique is applied to the imaging of human chromosomes at video rate both in air and in water. These are the largest structures to have been imaged with high-speed AFM and the first imaging in liquid to be reported. A possible mechanism that allows such high-speed contact-mode imaging without significant damage to the sample is discussed in the context of the velocity dependence of the measured lateral force on the AFM tip.",
+                "Detection techniques currently used in scanning force microscopy impose limitations on the geometrical dimensions of the probes and, as a consequence, on their force sensitivity and temporal response. A new technique, based on scattered evanescent electromagnetic waves (SEW), is presented here that can detect the displacement of the extreme end of a vertically mounted cantilever. The resolution of this method is tested using different cantilever sizes and a theoretical model is developed to maximize the detection sensitivity. The applications presented here clearly show that the SEW detection system enables the use of force sensors with sub-micron size, opening new possibilities in the investigation of biomolecular systems and high speed imaging. Two types of cantilevers were successfully tested: a high force sensitivity lever with a spring constant of 0.17 pN nm\u2212 1 and a resonant frequency of 32 kHz; and a \u2026",
+                "Using scanning laser Doppler vibrometer we have identified sources of noise in contact mode high-speed atomic force microscope images and the cantilever dynamics that cause them. By analysing reconstructed animations of the entire cantilever passing over various surfaces, we identified higher eigenmode oscillations along the cantilever as the cause of the image artefacts. We demonstrate that these can be removed by monitoring the displacement rather than deflection of the tip of the cantilever. We compare deflection and displacement detection methods whilst imaging a calibration grid at high speed and show the significant advantage of imaging using displacement.",
+                "The atomic force microscope (AFM) has become integrated into standard characterisation procedures in many different areas of research. Nonetheless, typical imaging rates of commercial microscopes are still very slow, much to the frustration of the user. Developments in instrumentation for \u201chigh\u2010speed AFM\u201d (HSAFM) have been ongoing since the 1990s, and now nanometer resolution imaging at video rate is readily achievable. Despite thorough investigation of samples of a biological nature, use of HSAFM instruments to image samples of interest to materials scientists, or to carry out AFM lithography, has been minimal. This review gives a summary of different approaches to and advances in the development of high\u2010speed AFMs, highlights important discoveries made with new instruments, and briefly discusses new possibilities for HSAFM in materials science."
+            ],
+            [
+                [
+                    "High-Speed Atomic Force Microscopy",
+                    "Scanning Probe Microscopy",
+                    "Nanosensors",
+                    "Nanoscience"
+                ]
+            ]
+        ]
+    ]
+}

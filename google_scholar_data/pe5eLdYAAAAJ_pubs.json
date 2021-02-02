@@ -1,0 +1,56 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "In this paper we study a model quantum register R made of N replicas (cells) of a given finite-dimensional quantum system S. Assuming that all cells are coupled with a common environment with equal strength we show that, for N large enough, in the Hilbert space of R there exists a linear subspace C N which is dynamically decoupled from the environment. The states in C N evolve unitarily and are therefore decoherence-dissipation free. The space C N realizes a noiseless quantum code in which information can be stored, in principle, for an arbitrarily long time without being affected by errors.",
+            "Noiseless quantum codes",
+            "Paolo Zanardi and Mario Rasetti",
+            "1997",
+            "pe5eLdYAAAAJ:-f6ydRqryjwC",
+            1504,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.79.3306",
+            "4249863358302568061",
+            "\/scholar?cites=4249863358302568061",
+            {
+                "1998":8,
+                "1999":14,
+                "2000":39,
+                "2001":48,
+                "2002":60,
+                "2003":78,
+                "2004":79,
+                "2005":84,
+                "2006":103,
+                "2007":116,
+                "2008":116,
+                "2009":101,
+                "2010":62,
+                "2011":68,
+                "2012":71,
+                "2013":60,
+                "2014":61,
+                "2015":58,
+                "2016":65,
+                "2017":55,
+                "2018":54,
+                "2019":47,
+                "2020":50,
+                "2021":1
+            }
+        ]
+    ]
+}

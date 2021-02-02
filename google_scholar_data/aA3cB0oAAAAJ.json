@@ -1,0 +1,104 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "aA3cB0oAAAAJ",
+            "Usama al-Binni",
+            "University of Washington",
+            "@uw.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=aA3cB0oAAAAJ",
+            95,
+            [
+                "High-energy physics",
+                "quantum gravity",
+                "physics beyond the standard model",
+                "computational physics",
+                "physics education"
+            ],
+            37,
+            5,
+            4,
+            4,
+            0,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"gywJOO8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"George Siopsis",
+                    "affiliation":"Professor of Physics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"4vFTn_UAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"M P Paranthaman",
+                    "affiliation":"Distinguished Corporate Fellow and Group Leader, Materials Chemistry"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"pWH1b4EAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mohammad Shikakhwa",
+                    "affiliation":"Middle East Technical University NCC,"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"rh2oq2sAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ashfia Huq",
+                    "affiliation":""
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"H8FkrIgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Zhonghe Bi",
+                    "affiliation":"Oak Ridge National Laboratory-University of Tennessee"
+                }
+            ]
+        ]
+    ]
+}

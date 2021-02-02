@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "4F2ZVSJJ",
+            "4ryKjUQAAAAJ",
+            [
+                "Composite functional metasurfaces for multispectral achromatic optics",
+                "Nonlinear metamaterials for holography",
+                "Subwavelength nonlinear phase control and anomalous phase matching in plasmonic metasurfaces",
+                "Rational design of metallic nanocavities for resonantly enhanced four-wave mixing",
+                "Ultrafast dephasing of localized surface plasmons in colloidal silver nanoparticles: the influence of stabilizing agents",
+                "Luminescence properties and optical dephasing in a glass-ceramic containing sodium-niobate nanocrystals",
+                "Nanoscale broadband deep-ultraviolet light source from plasmonic nanoholes",
+                "Optimizing the nonlinear optical response of plasmonic metasurfaces",
+                "Ultraviolet dynamical optical limiting in a glass containing NaNbO 3 nanocrystals",
+                "Multilayered metamaterials for functional light control"
+            ],
+            [
+                "Nanostructured metasurfaces offer unique capabilities for subwavelength control of optical waves. Based on this potential, a large number of metasurfaces have been proposed recently as alternatives to standard optical elements. In most cases, however, these elements suffer from large chromatic aberrations, thus limiting their usefulness for multiwavelength or broadband applications. Here, in order to alleviate the chromatic aberrations of individual diffractive elements, we introduce dense vertical stacking of independent metasurfaces, where each layer is made from a different material, and is optimally designed for a different spectral band. Using this approach, we demonstrate a triply red, green and blue achromatic metalens in the visible range. We further demonstrate functional beam shaping by a self-aligned integrated element for stimulated emission depletion microscopy and a lens that provides anomalous \u2026",
+                "A hologram is an optical element storing phase and possibly amplitude information enabling the reconstruction of a three-dimensional image of an object by illumination and scattering of a coherent beam of light, and the image is generated at the same wavelength as the input laser beam. In recent years, it was shown that information can be stored in nanometric antennas giving rise to ultrathin components. Here we demonstrate nonlinear multilayer metamaterial holograms. A background free image is formed at a new frequency\u2014the third harmonic of the illuminating beam. Using e-beam lithography of multilayer plasmonic nanoantennas, we fabricate polarization-sensitive nonlinear elements such as blazed gratings, lenses and other computer-generated holograms. These holograms are analysed and prospects for future device applications are discussed.",
+                "Metasurfaces, and in particular those containing plasmonic-based metallic elements, constitute an attractive set of materials with a potential for replacing standard bulky optical elements. In recent years, increasing attention has been focused on their nonlinear optical properties, particularly in the context of second and third harmonic generation and beam steering by phase gratings. Here, we harness the full phase control enabled by subwavelength plasmonic elements to demonstrate a unique metasurface phase matching that is required for efficient nonlinear processes. We discuss the difference between scattering by a grating and by subwavelength phase-gradient elements. We show that for such interfaces an anomalous phase-matching condition prevails, which is the nonlinear analogue of the generalized Snell\u2019s law. The subwavelength phase control of optical nonlinearities paves the way for the design of \u2026",
+                "Optimizing the shape of nanostructures and nano-antennas for specific optical properties has evolved to be a very fruitful activity. With modern fabrication tools a large variety of possibilities is available for shaping both nanoparticles and nanocavities; in particular nanocavities in thin metal films have emerged as attractive candidates for new metamaterials and strong linear and nonlinear optical systems. Here we rationally design metallic nanocavities to boost their Four-Wave Mixing response by resonating the optical plasmonic resonances with the incoming and generated beams. The linear and nonlinear optical responses as well as the propagation of the electric fields inside the cavities are derived from the solution of Maxwell\u2019s equations by using the 3D finite-differences time domain method. The observed conversion-efficiency of near-infrared to visible light equals or surpasses that of BBO of equivalent \u2026",
+                "Localized surface plasmon dephasing times for aqueous colloidal silver nanoparticles (NPs) stabilized with three different capping agents (trisodium citrate\u2014TSC, poly(vinylpyrrolidone)\u2014PVP, and poly(vinylalcohol)\u2014 PVA) were measured using the persistent spectral hole burning technique. The results obtained by fitting a theoretical curve to the experimental data show that the dephasing times are dependent on the chosen stabilizer (3.0, 2.3, and 1.8 fs for TSC, PVP, and PVA, respectively), and the differences are attributed to changes in the electronic density of states due to the interaction between the NPs and the capping agents. The results are supported by ab initio calculations for the chemisorbate and metallic cluster interaction.",
+                "Photoluminescence (PL) and degenerate four-wave-mixing (DFWM) experiments were performed in a silica\u2013niobic composite containing NaNbO3 nanocrystals. The PL results indicate the presence of in-gap states attributed to excitons in the nanocrystals and defect centers. The luminescence of the samples becomes more intense at low temperatures, indicating that nonradiative relaxations dominate the dynamics of the in-gap states. The DFWM experiments allowed for measurements of the homogeneous relaxation time, (20\u2009\u00b1\u20093) fs, of the third-order polarization at room temperature. The main contributions to the dynamics of the electronic response are attributed to the trapping of electrons in the in-gap states and to carrier and phonon scattering.",
+                "We employ a broadband Ti:sapphire femtosecond oscillator to simultaneously launch two localized surface plasmon modes in rectangular plasmonic nanoholes. The resonant frequencies of these two modes match well with our laser spectrum. As a result, the nanoholes do not only efficiently boost the third harmonic radiation intensity, but also significantly broaden the harmonic\u2019s bandwidth, producing a nanoscale deep-ultraviolet light source in the range of 240 to 300 nm. Due to the involvement of two modes, the third harmonic beam becomes elliptically polarized and reaches its maximum intensity when laser polarization direction is 60\u00b0 with respect to the long edges, rather than the commonly used 90\u00b0.",
+                "Controlling the nonlinear optical response of nanoscale metamaterials opens new exciting applications such as frequency conversion or flat metal optical elements. To utilize the already well-developed fabrication methods, a systematic design methodology for obtaining high nonlinearities is required. In this paper we consider an optimization-based approach, combining a multiparameter genetic algorithm with three-dimensional finite-difference time domain (FDTD) simulations. We investigate two choices of the optimization function: one which looks for plasmonic resonance enhancements at the frequencies of the process using linear FDTD, and another one, based on nonlinear FDTD, which directly computes the predicted nonlinear response. We optimize a four-wave-mixing process with specific predefined input frequencies in an array of rectangular nanocavities milled in a thin free-standing gold film. Both \u2026",
+                "The nonlinear (NL) response of a glass\u2013ceramic with sodium niobate (NaNbO_3) nanocrystals (NCs) was investigated exciting the samples at 385 nm, in resonance with the samples\u2019 optical absorption edge. Besides the observation of optical limiting (OL) behavior, we characterized the optical response of the samples in the 0.1\u20131.0 ms range that was attributed to the accumulated electronic population in trapping states associated with the NCs. The NL absorption properties of samples heat-treated during several hours were studied and modeled using a system of coupled rate equations to determine the parameters that characterize the OL process.",
+                "We demonstrate composite, multiplexed 3D metamaterials for functional light manipulation. Applications include multi-wavelength achromatic metalenses in the visible spectral range, integrated elements for STED microscopy, and nonlinear holography. Prospects for novel applications are discussed."
+            ],
+            [
+                [
+                    "Nanophotonics",
+                    "Nonlinear optics",
+                    "Plasmonics",
+                    "Metamaterials",
+                    "Ultrafast phenomena"
+                ]
+            ]
+        ]
+    ]
+}

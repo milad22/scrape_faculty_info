@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "H672NI83",
+            "aqH01W4AAAAJ",
+            [
+                "Spin-injection spectroscopy of a spin-orbit coupled Fermi gas",
+                "Revealing the superfluid lambda transition in the universal thermodynamics of a unitary Fermi gas",
+                "Quantum-gas microscope for fermionic atoms",
+                "Observation of spatial charge and spin correlations in the 2D Fermi-Hubbard model",
+                "Feynman diagrams versus Fermi-gas Feynman emulator",
+                "Evolution of fermion pairing from three to two dimensions",
+                "New Test of Local Lorentz Invariance Using a  Comagnetometer",
+                "Heavy solitons in a fermionic superfluid",
+                "Motion of a solitonic vortex in the BEC-BCS crossover",
+                "Laser cooling of optically trapped molecules"
+            ],
+            [
+                "The coupling of the spin of electrons to their motional state lies at the heart of recently discovered topological phases of matter. Here we create and detect spin-orbit coupling in an atomic Fermi gas, a highly controllable form of quantum degenerate matter. We directly reveal the spin-orbit gap via spin-injection spectroscopy, which characterizes the energy-momentum dispersion and spin composition of the quantum states. For energies within the spin-orbit gap, the system acts as a spin diode. We also create a spin-orbit coupled lattice and probe its spinful band structure, which features additional spin gaps and a fully gapped spectrum. In the presence of s-wave interactions, such systems should display induced p-wave pairing, topological superfluidity, and Majorana edge states.",
+                "Fermi gases, collections of fermions such as neutrons and electrons, are found throughout nature, from solids to neutron stars. Interacting Fermi gases can form a superfluid or, for charged fermions, a superconductor. We have observed the superfluid phase transition in a strongly interacting Fermi gas by high-precision measurements of the local compressibility, density, and pressure. Our data completely determine the universal thermodynamics of these gases without any fit or external thermometer. The onset of superfluidity is observed in the compressibility, the chemical potential, the entropy, and the heat capacity, which displays a characteristic lambda-like feature at the critical temperature Tc\/TF = 0.167(13). The ground-state energy is  \u03beN EF with \u03be = 0.376(4). Our measurements provide a benchmark for many-body theories of strongly interacting fermions.",
+                "We realize a quantum-gas microscope for fermionic K 40 atoms trapped in an optical lattice, which allows one to probe strongly correlated fermions at the single-atom level. We combine 3D Raman sideband cooling with high-resolution optics to simultaneously cool and image individual atoms with single-lattice-site resolution at a detection fidelity above 95%. The imaging process leaves the atoms predominantly in the 3D motional ground state of their respective lattice sites, inviting the implementation of a Maxwell\u2019s demon to assemble low-entropy many-body states. Single-site-resolved imaging of fermions enables the direct observation of magnetic order, time-resolved measurements of the spread of particle correlations, and the detection of many-fermion entanglement.",
+                "Strong electron correlations lie at the origin of high-temperature superconductivity. Its essence is believed to be captured by the Fermi-Hubbard model of repulsively interacting fermions on a lattice. Here we report on the site-resolved observation of charge and spin correlations in the two-dimensional (2D) Fermi-Hubbard model realized with ultracold atoms. Antiferromagnetic spin correlations are maximal at half-filling and weaken monotonically upon doping. At large doping, nearest-neighbor correlations between singly charged sites are negative, revealing the formation of a correlation hole, the suppressed probability of finding two fermions near each other. As the doping is reduced, the correlations become positive, signaling strong bunching of doublons and holes, in agreement with numerical calculations. The dynamics of the doublon-hole correlations should play an important role for transport in the Fermi \u2026",
+                "Precise understanding of strongly interacting fermions, from electrons in modern materials to nuclear matter, presents a major goal in modern physics. However, the theoretical description of interacting Fermi systems is usually plagued by the intricate quantum statistics at play. Here we present a cross-validation between a new theoretical approach, bold diagrammatic Monte Carlo 1, 2, 3, and precision experiments on ultracold atoms. Specifically, we compute and measure, with unprecedented precision, the normal-state equation of state of the unitary gas, a prototypical example of a strongly correlated fermionic system 4, 5, 6. Excellent agreement demonstrates that a series of Feynman diagrams can be controllably resummed in a non-perturbative regime using bold diagrammatic Monte Carlo.",
+                "We follow the evolution of fermion pairing in the dimensional crossover from three-dimensional to two-dimensional as a strongly interacting Fermi gas of Li 6 atoms becomes confined to a stack of two-dimensional layers formed by a one-dimensional optical lattice. Decreasing the dimensionality leads to the opening of a gap in radio-frequency spectra, even on the Bardeen-Cooper-Schrieffer side of a Feshbach resonance. The measured binding energy of fermion pairs closely follows the theoretical two-body binding energy and, in the two-dimensional limit, the zero-temperature mean-field Bose-Einstein-condensation to Bardeen-Cooper-Schrieffer crossover theory.",
+                "We develop a new comagnetometer using Ne 21 atoms with nuclear spin I= 3\/2 and Rb atoms polarized by spin exchange with K atoms to search for tensor interactions that violate local Lorentz invariance. We frequently reverse the orientation of the experiment and search for signals at the first and second harmonics of the sidereal frequency. We constrain 4 of the 5 spatial Lorentz-violating coefficients c j k n that parametrize anisotropy of the maximum attainable velocity of a neutron at a level of 10\u2212 29, improving previous limits by 2 to 4 orders of magnitude and placing the most stringent constraint on deviations from local Lorentz invariance.",
+                "Solitons\u2014solitary waves that maintain their shape as they propagate\u2014occur as water waves in narrow canals, as light pulses in optical fibres and as quantum mechanical matter waves in superfluids and superconductors. Their highly nonlinear and localized nature makes them very sensitive probes of the medium in which they propagate. Here we create long-lived solitons in a strongly interacting superfluid of fermionic atoms and directly observe their motion. As the interactions are tuned from the regime of Bose\u2013Einstein condensation of tightly bound molecules towards the Bardeen\u2013Cooper\u2013Schrieffer limit of long-range Cooper pairs, the solitons\u2019 effective mass increases markedly, to more than 200 times their bare mass, signalling strong quantum fluctuations. This mass enhancement is more than 50 times larger than the theoretically predicted value. Our work provides a benchmark for theories of non-equilibrium \u2026",
+                "We observe a long-lived solitary wave in a superfluid Fermi gas of Li 6 atoms after phase imprinting. Tomographic imaging reveals the excitation to be a solitonic vortex, oriented transverse to the long axis of the cigar-shaped atom cloud. The precessional motion of the vortex is directly observed, and its period is measured as a function of the chemical potential in the BEC-BCS crossover. The long period and the correspondingly large ratio of the inertial to the bare mass of the vortex are in good agreement with estimates based on superfluid hydrodynamics that we derive here using the known equation of state in the BEC-BCS crossover.",
+                "Ultracold molecules are ideal platforms for many important applications, ranging from quantum simulation 1, 2, 3, 4, 5 and quantum information processing 6, 7 to precision tests of fundamental physics 2, 8, 9, 10, 11. Producing trapped, dense samples of ultracold molecules is a challenging task. One promising approach is direct laser cooling, which can be applied to several classes of molecules not easily assembled from ultracold atoms 12, 13. Here, we report the production of trapped samples of laser-cooled CaF molecules with densities of 8\u00d7 10 7 cm\u2212 3 and at phase-space densities of 2\u00d7 10\u2212 9, 35 times higher than for sub-Doppler-cooled samples in free space 14. These advances are made possible by efficient laser cooling of optically trapped molecules to well below the Doppler limit, a key step towards many future applications. These range from ultracold chemistry to quantum simulation, where \u2026"
+            ],
+            [
+                [
+
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "UjV0M9QAAAAJ",
+            "Tobias Scheffer",
+            "University of Potsdam, Germany",
+            "@cs.uni-potsdam.de",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=UjV0M9QAAAAJ",
+            5957,
+            [
+                "Machine learning"
+            ],
+            2422,
+            38,
+            21,
+            67,
+            42,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"sX8irEsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Steffen Bickel",
+                    "affiliation":"Nokia Gate5 GmbH"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"oWmjswoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ulf Brefeld",
+                    "affiliation":"Leuphana Universit\u00e4t L\u00fcneburg"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"5ZyZ9JwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michael Br\u00fcckner",
+                    "affiliation":"Sr. Machine Learning Scientist, Amazon"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"k6Ei14sAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Niels Landwehr",
+                    "affiliation":"Professor, University of Potsdam"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3olj1HIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Christoph Sawade",
+                    "affiliation":"HelloFresh SE"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"qAbXPJQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Paul Prasse",
+                    "affiliation":"University of Potsdam"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"icsj73sAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Szymon Jaroszewicz",
+                    "affiliation":"Professor at the Institute of Computer Science, Polish Academy of Sciences"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"sfTn4wEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Johannes F\u00fcrnkranz",
+                    "affiliation":"Johannes Kepler University, Linz"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"bjzy_9QAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Matthias Bussas",
+                    "affiliation":"Technical University Munich"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"nxD9IfcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Reinhold Kliegl",
+                    "affiliation":"Senior professor of psychology,  Division of training and movement science, University of Potsdam"
+                }
+            ]
+        ]
+    ]
+}

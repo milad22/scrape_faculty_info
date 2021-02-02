@@ -1,0 +1,80 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "JR_JZCAAAAAJ",
+            "Surendra Pd Singh",
+            "University of Wolverhampton",
+            "@mediware.it",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=JR_JZCAAAAAJ",
+            19201,
+            [
+                "Psychiatry",
+                "Genomics",
+                "Statistics",
+                "Schizophrenia",
+                "Bipolar Disorder"
+            ],
+            11093,
+            57,
+            43,
+            469,
+            283,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"AUEC_rIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Nilamadhab Kar",
+                    "affiliation":"Black Country Healthcare NHS Foundation Trust"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"zbPW_J4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Suravi Patra",
+                    "affiliation":"Additional Professor, Department of Psychiatry, AIIMS Bhubaneswar"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Qf5A5o8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Shishir Regmi",
+                    "affiliation":"Consultant Psychiatrist, CMDHB and Hon. Senior Lecturer at University of Auckland"
+                }
+            ]
+        ]
+    ]
+}

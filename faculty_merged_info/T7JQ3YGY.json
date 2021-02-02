@@ -1,0 +1,45 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "T7JQ3YGY",
+            "yh56TtAAAAAJ",
+            [
+                "Universal power law governing pedestrian interactions",
+                "Measurement-induced phase transitions in the dynamics of entanglement",
+                "Why is the bulk resistivity of topological insulators so small?",
+                "The price of anarchy in basketball",
+                "Capacitance of the Double Layer Formed at the Metal\/Ionic-Conductor Interface: How Large Can It Be?",
+                "Anomalously large capacitance of a plane capacitor with a two-dimensional electron gas",
+                "Coulomb disorder in three-dimensional Dirac systems"
+            ],
+            [
+                "Human crowds often bear a striking resemblance to interacting particle systems, and this has prompted many researchers to describe pedestrian dynamics in terms of interaction forces and potential energies. The correct quantitative form of this interaction, however, has remained an open question. Here, we introduce a novel statistical-mechanical approach to directly measure the interaction energy between pedestrians. This analysis, when applied to a large collection of human motion data, reveals a simple power-law interaction that is based not on the physical separation between pedestrians but on their projected time to a potential future collision, and is therefore fundamentally anticipatory in nature. Remarkably, this simple law is able to describe human interactions across a wide variety of situations, speeds, and densities. We further show, through simulations, that the interaction law we identify is sufficient to \u2026",
+                "We define dynamical universality classes for many-body systems whose unitary evolution is punctuated by projective measurements. In cases where such measurements occur randomly at a finite rate p for each degree of freedom, we show that the system has two dynamical phases:\u201centangling\u201d and \u201cdisentangling.\u201d The former occurs for p smaller than a critical rate p c and is characterized by volume-law entanglement in the steady state and \u201cballistic\u201d entanglement growth after a quench. By contrast, for p> p c the system can sustain only area-law entanglement. At p= p c the steady state is scale invariant, and in 1+ 1 D, the entanglement grows logarithmically after a quench. To obtain a simple heuristic picture for the entangling-disentangling transition, we first construct a toy model that describes the zeroth R\u00e9nyi entropy in discrete time. We solve this model exactly by mapping it to an optimization problem in \u2026",
+                "As-grown topological insulators (TIs) are typically heavily doped n-type crystals. Compensation by acceptors is used to move the Fermi level to the middle of the band gap, but even then TIs have a frustratingly small bulk resistivity. We show that this small resistivity is the result of band bending by poorly screened fluctuations in the random Coulomb potential. Using numerical simulations of a completely compensated TI, we find that the bulk resistivity has an activation energy of just 0.15 times the band gap, in good agreement with experimental data. At lower temperatures activated transport crosses over to variable range hopping with a relatively large localization length.",
+                "Optimizing the performance of a basketball offense may be viewed as a network problem, wherein each play represents a   pathway\" through which the ball and players may move from origin (the in-bounds pass) to goal (the basket).  Effective field goal percentages from the resulting shot attempts can be used to characterize the efficiency of each pathway.  Inspired by recent discussions of the   price of anarchy\" in traffic networks, this paper makes a formal analogy between a basketball offense and a simplified traffic network.  The analysis suggests that there may be a significant difference between taking the highest-percentage shot each time down the court and playing the most efficient possible game.  There may also be an analogue of Braess's Paradox in basketball, such that removing a key player from a team can result in the improvement of the team's offensive efficiency.",
+                "The capacitance of the double layer formed at a metal\/ionic-conductor interface can be remarkably large, so that the apparent width of the double layer is as small as 0.3 \u00c5. Mean-field theories fail to explain such large capacitance. We propose an alternate theory of the ionic double layer which allows for the binding of discrete ions to their image charges in the metal. We show that at small voltages the capacitance of the double layer is limited only by the weak dipole-dipole repulsion between bound ions, and is therefore very large. At large voltages the depletion of bound ions from one of the capacitor electrodes triggers a collapse of the capacitance to the mean-field value.",
+                "In electronic devices where a two-dimensional electron gas (2DEG) comprises one or both sides of a plane capacitor, the resulting capacitance C can be larger than the \u201cgeometric capacitance\u201d C g determined by the physical separation d between electrodes. This larger capacitance is known to result from the Coulomb correlations between individual electrons within the low-density 2DEG, which lead to a negative thermodynamic density of states. Experiments on such systems generally operate in the regime where the average spacing between electrons n\u2212 1\/2 in the 2DEG is smaller than d and these experiments observe C> C g by only a few percent. A recent experiment [L. Li, C. Richter, S. Paetel, T. Kopp, J. Mannhart, and R. Ashoori, arXiv: 1006.2847 (unpublished)], however, has observed C larger than C g by almost 40% while operating in the regime n d 2\u2aa1 1. In this paper we argue that at n d 2\u2aa1 1 \u2026",
+                "In three-dimensional materials with a Dirac spectrum, weak short-ranged disorder is essentially irrelevant near the Dirac point. This is manifestly not the case for Coulomb disorder, where the long-ranged nature of the potential produced by charged impurities implies large fluctuations of the disorder potential even when impurities are sparse, and these fluctuations are screened by the formation of electron\/hole puddles. In this paper, I present a theory of such nonlinear screening of Coulomb disorder in three-dimensional Dirac systems, and I derive the typical magnitude of the disorder potential, the corresponding density of states, and the size and density of electron\/hole puddles. The resulting conductivity is also discussed."
+            ],
+            [
+                [
+                    "quantum materials",
+                    "electron transport",
+                    "Coulomb interaction",
+                    "disordered networks",
+                    "theory of basketball"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "687fH5kAAAAJ",
+            "Louis Deslauriers",
+            "Harvard University",
+            "@fas.harvard.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=687fH5kAAAAJ",
+            3597,
+            [
+                "Physics Education Research",
+                "Atomic Physics"
+            ],
+            1703,
+            19,
+            16,
+            21,
+            17,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9rrnu-0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Christopher Monroe",
+                    "affiliation":"Professor of Physics, University of Maryland"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"h24312AAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Carl Wieman",
+                    "affiliation":"stanford university"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"DuOb8ioAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Winfried K. Hensinger",
+                    "affiliation":"University of Sussex"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"kQlsUW0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"B b blinov",
+                    "affiliation":"University of Washington"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"tPqE5CcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kelly Miller",
+                    "affiliation":"Harvard University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ULkJQpkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Luming Duan",
+                    "affiliation":"C.C. Yao Professor, Tsinghua University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6-rjB04AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Eric Mazur",
+                    "affiliation":"Balkanski Professor of Physics and Applied Physics"
+                }
+            ]
+        ]
+    ]
+}

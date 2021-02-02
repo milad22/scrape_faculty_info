@@ -1,0 +1,183 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "This paper applies a zonal hybrid RANS\/LES framework to analyze supersonic combustion in a model scramjet combustor. The geometries and boundary conditions of model scramjet combustor are based on an experiment conducted at DLR, German Aerospace Center. This model scramjet combustor was designed to achieve free flight Mach number of 5.5 and total air temperature of 1500 K. Hydrogen at subcritical conditions and thermal\/catalytic cracked kerosene at supercritical conditions are injected as fuel. A surrogate of thermal\/catalytic cracked kerosene is composed of ethylene and methane in supercritical conditions. To remain consistent with the hydrogen-fueled case, the total equivalence ratio is set to 0.034 for both cases. The total equivalence ratio is quite small, so it is not induced flow separation in the combustor duct. The thermodynamic and transport properties of the supercritical thermal\/catalytic \u2026",
+            "Combustion characteristics of hydrogen and cracked kerosene in a DLR scramjet combustor using hybrid RANS\/LES method",
+            "Junsu Shin and Hong-Gye Sung",
+            "2018",
+            "naF4TakAAAAJ:IjCSPb-OGe4C",
+            14,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S1270963817317674",
+            "4942535608792172699",
+            "\/scholar?cites=4942535608792172699",
+            {
+                "2018":2,
+                "2019":5,
+                "2020":5,
+                "2021":2
+            }
+        ],
+        [
+            "Non-reactive flows moving through a model scramjet were investigated using a delayed detached eddy simulation (DDES), which is a hybrid scheme combining Reynolds averaged Navier-Stokes scheme and a large eddy simulation. The three dimensional Navier-Stokes equations were solved numerically on a structural grid using finite volume methods. An in-house was developed. This code used a monotonic upstream-centered scheme for conservation laws (MUSCL) with an advection upstream splitting method by pressure weight function (AUSMPW+) for space. In addition, a 4th order Runge-Kutta scheme was used with preconditioning for time integration. The geometries and boundary conditions of a scramjet combustor operated by DLR, a German aerospace center, were considered. The profiles of the lower wall pressure and axial velocity obtained from a time-averaged solution were compared with \u2026",
+            "Numerical investigation of a model scramjet combustor using DDES",
+            "Junsu Shin and Hong-Gye Sung",
+            "2017",
+            "naF4TakAAAAJ:Tyk-4Ss8FVUC",
+            5,
+            "https:\/\/www.degruyter.com\/view\/journals\/tjj\/34\/1\/article-p75.xml",
+            "6513753231332870850",
+            "\/scholar?cites=6513753231332870850",
+            {
+                "2018":3,
+                "2019":2
+            }
+        ],
+        [
+            "Aluminum particle dust cloud combustion with oxygen is numerically simulated using an Eulerian\u2013Lagrangian two-phase approach. A single aluminum combustion model containing detailed aluminum combustion phenomena (melting, the heterogeneous surface reaction, alumina shell growth, combustion heat distribution, etc.) is suggested and applied to a three-dimensional, compressible CFD in-house code. High order space discretization and field variable interpolation for particle technics are employed to reduce grid dependency. Flame propagation is simulated in a slip-wall bounded open duct with well distributed aluminum particles in an O2\u2013N2 mixture. The flame structure shows a flame zone that is longer than the pre-heating zone. This is unlike a gas phase flame, and it is due to the long combustion time needed for solid particles. The temperature behaviors of the gas and particle phase are captured \u2026",
+            "A detailed flame structure and burning velocity analysis of aluminum dust cloud combustion using the Eulerian\u2013Lagrangian method",
+            "Doo-Hee Han and Jun-Su Shin and Hong-Gye Sung",
+            "2017",
+            "naF4TakAAAAJ:2osOgNQ5qMEC",
+            5,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S1540748916302516",
+            "992144852910793039",
+            "\/scholar?cites=992144852910793039",
+            {
+                "2017":3,
+                "2018":1,
+                "2019":1
+            }
+        ],
+        [
+            "I. Introduction he most important factor for stable operation of scramjet engine is efficient mixing of entrained air and fuel which leads to robust flame holding. However, developing scramjet with experimental method requires tremendous expense and time, so Computational Fluid Dynamics (CFD) is concerned as a best option to acquire key design parameters. Large Eddy Simulation (LES), one of the most promising CFD technique, have showed high accuracy in space and time, and capture combustion instabilities precisely, but the computational cost is very high since the size of cell must be small in the supersonic flows. Hybrid RANS\/LES method, on the other hand, requires less computational cost than LES and shows reasonable accuracy. There are two categories for hybrid RANS\/LES method. The first branch is zonal approach that RANS is applied to near-wall region and LES is used in other regions directly \u2026",
+            "Numerical Simulation of Hydrogen Combustion in Model SCRAMJET Combustor using IDDES framework",
+            "Junsu Shin and Kyoo Hwan Moon and Hong-Gye Sung",
+            "2015",
+            "naF4TakAAAAJ:u5HHmVD_uO8C",
+            5,
+            "https:\/\/arc.aiaa.org\/doi\/pdf\/10.2514\/6.2015-3625",
+            "88224704029957795",
+            "\/scholar?cites=88224704029957795",
+            {
+                "2017":1,
+                "2018":2,
+                "2019":1,
+                "2020":1
+            }
+        ],
+        [
+            "A zonal hybrid Reynolds-averaged Navier\u2013Stokes\/large-eddy simulation framework is implemented to investigate the diffusion combustion of hydrogen\u2013air in a model scramjet combustor. The computational domain is segregated into Reynolds-averaged Navier\u2013Stokes and large-eddy simulation regions. An upwind convective flux discretization method and  shear-stress transport turbulence models are applied to the Reynolds-averaged Navier\u2013Stokes region, and the low-dissipative convective flux discretization method and improved delayed detached-eddy simulation are applied to the large-eddy simulation region. To generate turbulence at the Reynolds-averaged Navier\u2013Stokes\/large-eddy simulation interface, a synthetic-eddy method is employed. The geometries and boundary conditions of the model scramjet combustor are based on an experiment conducted at German Aerospace Center. The turbulent \u2026",
+            "Zonal Hybrid Reynolds-Averaged Navier\u2013Stokes\/Large-Eddy Simulation of a Hydrogen-Fueled Scramjet Combustor",
+            "Junsu Shin and Hong-Gye Sung",
+            "2018",
+            "naF4TakAAAAJ:roLk4NBRz8UC",
+            3,
+            "https:\/\/arc.aiaa.org\/doi\/abs\/10.2514\/1.J056707",
+            "8690696671681379420",
+            "\/scholar?cites=8690696671681379420",
+            {
+                "2018":1,
+                "2019":1,
+                "2020":1
+            }
+        ],
+        [
+            "Numerical studies are carried out on the boundary layer behavior on a flat plate as well as on the non-reactive and reactive flows in a scramjet combustor to analyze the effects of various hybrid RANS\/LES methods. Three hybrid RANS\/LES methods are selected\u2014an improved delayed detached eddy simulation, the l 2\u03c9-detached eddy simulation, and the dynamic l 2\u03c9-detached eddy simulation. The present method is based on the finite-volume approach on structured mesh, and the governing equations are treated using the Favre averaging approach. Inviscid fluxes are discretized using 5th order WENO schemes. Turbulent combustion is modeled as a level-set flamelet model. Based on the results from the flat plate and the non-reacting and reacting simulation, most of the hybrid RANS\/LES methods show equivalent trends. However, dramatic differences are found in the calculations for the \u2026",
+            "Comparison of Hybrid RANS\/LES Methods for Supersonic Combustion in a Model Scramjet Combustor",
+            "Junsu Shin and Hong-Gye Sung",
+            "2018",
+            "naF4TakAAAAJ:qjMakFHDy7sC",
+            3,
+            "https:\/\/link.springer.com\/chapter\/10.1007\/978-3-319-70031-1_19",
+            "1295222954613452831",
+            "\/scholar?cites=1295222954613452831",
+            {
+                "2017":2,
+                "2018":1
+            }
+        ],
+        [
+            "\ucd08 \ub85d\uae08\uc18d \uc5f0\ub8cc \uc911 \ub110\ub9ac \uc0ac\uc6a9\ub418\ub294 \uc54c\ub8e8\ubbf8\ub284\uc758 \uc5f0\uc18c \ud2b9\uc131\uc5d0 \uad00\ud558\uc5ec 1 \ucc28\uc6d0 \uc5f0\uc18c\ubaa8\ub378\ub9c1\uc744 \uc81c\uc548\ud558\uc600\ub2e4. \uc5f0\uc18c\ubaa8\ub378\ub9c1\uc740 \uc608\uc5f4\uc601\uc5ed, \ubc18\uc751\uc601\uc5ed, \ubc18\uc751 \ud6c4 \uc601\uc5ed, \uc138 \uc601\uc5ed\uc73c\ub85c \ub098\ub204\uc5b4 \uc218\ud589\ud558\uc600\ub2e4. \ub610\ud55c \ud76c\ubc15\uc5f0\uc18c\ub85c \uac00\uc815\ud558\uc5ec \ub2e8\uc77c \uc785\uc790\uc758 \uacbd\uc6b0 \uc785\uc790\ud06c\uae30\uc640 \ub2f9\ub7c9\ube44\uc5d0 \ub530\ub978 \ud654\uc5fc\uc18d\ub3c4, \ub098\ub178\uc640 \ub9c8\uc774\ud06c\ub85c \uc785\uc790\uc758 \ud63c\ud569\ubb3c\uc758 \uacbd\uc6b0 \ud63c\ud569 \ube44\uc728\uc5d0 \ub530\ub978 \ud654\uc5fc\uc18d\ub3c4\ub97c \uc555\ub825\uc774 1 \uae30\uc555 \uc870\uac74\uc5d0\uc11c \uacc4\uc0b0\ud558\uc5ec \uc2e4\ud5d8\uacb0\uacfc\uc640 \ube44\uad50\ud558\uc600\ub2e4. \ub2e8\uc77c\uc785\uc790\uc758 \uacbd\uc6b0, \uc785\uc790\uc758 \ud06c\uae30\uac00 \uc791\uc544\uc9c8\uc218\ub85d \ud654\uc5fc\uc18d\ub3c4\uac00 \ube68\ub77c\uc9c0\uace0, \ub2f9\ub7c9\ube44\uac00 \ub0ae\uc544\uc9c8\uc218\ub85d \ud654\uc5fc\uc18d\ub3c4\uac00 \ub290\ub824\uc9c0\ub294 \ud604\uc0c1\uc774 \uad00\ucc30\ub418\uc5c8\ub2e4. \ub098\ub178\uc640 \ub9c8\uc774\ud06c\ub85c \uc785\uc790\uc758 \ud63c\ud569\ubb3c\uc758 \uacbd\uc6b0, \ub098\ub178 \uc785\uc790\uc758 \ud568\uc720\ub7c9\uc5d0 \ub530\ub77c \ud654\uc5fc\uc18d\ub3c4\ub294 \ube68\ub77c\uc9c0\uba70, \ud654\uc5fc\uad6c\uc870\ub294 \ubd84\ub9ac\ud654\uc5fc\uacfc \uc911\ucca9\ud654\uc5fc\uc774 \ub098\ud0c0\ub0a8\uc774 \uad00\ucc30\ub418\uc5c8\ub2e4.",
+            "\ub098\ub178-\ub9c8\uc774\ud06c\ub85c \uc54c\ub8e8\ubbf8\ub284 \ud63c\ud569 \uc785\uc790\uc758 \uacf5\uae30\uc640\uc758 \uc5f0\uc18c \ubaa8\ub378\ub9c1",
+            "\uc724\uc2dc\uacbd\uff0c \uc2e0\uc900\uc218\uff0c \uc131\ud64d\uacc4",
+            "2011",
+            "naF4TakAAAAJ:WF5omc3nYNoC",
+            3,
+            "https:\/\/www.researchgate.net\/profile\/Junsu_Shin3\/publication\/263995217_Combustion_Modeling_of_NanoMicro_Aluminum_Particle_Mixture\/links\/5ab40447458515ecebf0f6df\/Combustion-Modeling-of-Nano-Micro-Aluminum-Particle-Mixture.pdf",
+            "1607858126196216209",
+            "\/scholar?cites=1607858126196216209",
+            {
+                "2012":2,
+                "2013":1
+            }
+        ],
+        [
+            "In this study, small hybrid rocket was launched and flight altitude was measured. Flight path of rocket was analyzed with exterior ballistics analysis result. The data acquisition equipment was loaded in rocket and two launch test were performed. HDPE was used as fuel and N20 as oxidizer for this study.",
+            "Launch and Altitude Measurement of Small Hybrid Rocket",
+            "Ji-Sung Oh and Jun-Su Shin and Keun-Hwan Moon and Jung-Pyo Lee and Hee-Jang Moon and Hong-Gye Sung and Jin-Kon Kim",
+            "2010",
+            "naF4TakAAAAJ:hqOjcs7Dif8C",
+            3,
+            "https:\/\/www.koreascience.or.kr\/article\/JAKO201008160369503.page",
+            "15346245728248990937",
+            "\/scholar?cites=15346245728248990937",
+            {
+                "2016":2,
+                "2017":1
+            }
+        ],
+        [
+            "Mixing characteristics in a rectangular chamber are investigated using experimental and numerical methods. A mixing chamber with an axial inlet (representing fuel inlet) and a side inlet (representing air inlet) is designed. Two jets with different momentum ratios through the two inlets are mixed in the chamber. Computational fluid dynamic simulation is validated by experimental data of particle image velocimetry that measures flow velocity distribution. The momentum ratios of the two jets and the height of the axial inlet significantly influence the penetration depth of axial jet into the mixing chamber and the pressure drops at recirculation zones.",
+            "Numerical and experimental studies on the mixing characteristics of two jets with inclined angles in a rectangular chamber",
+            "Doo-Hee Han and Jun-Su Shin and Jeong-Seok Kang and Jung-Shin Park and Sun-Sang Park and Jae-Su Kwak and Hong-Gye Sung and Ho-Jin Choi",
+            "2014",
+            "naF4TakAAAAJ:UeHWp8X0CEIC",
+            2,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/s12206-014-0921-9.pdf",
+            "2771765213085560869",
+            "\/scholar?cites=2771765213085560869",
+            {
+                "2016":1,
+                "2017":1
+            }
+        ],
+        [
+            "Particle-in-cell method which blends Eulerian grids and Lagrangian particle is utilized to solve simplified hall-effect thruster. Since this study individually tracks not only neutrons and ions but also electrons, message passing interface (mpi) scheme is adopted for parallel computer cluster. Helical movement of an electron cloud in constant magnetic field is validated comparing with an exact solution. A plasma in radial magnetic field and axial electric field in a reaction cylinder is established. Electrons do double helix movement and are well anchored in a cylinder. Ionization of neutrons by impact with high-speed electrons generates ion particles. They are accelerated by axial electric field, which forms a plume of a plasma-effect thruster.",
+            "Numerical Analysis on Plasma Particles inside Electro-magnetic Field Using Particle-in-cell Method \uae30\ubc95\uc744 \uc774\uc6a9\ud55c \uc804\uc790\uae30\uc7a5\ub0b4 \ud50c\ub77c\uc988\ub9c8 \uc785\uc790\uc758 \uac70\ub3d9 \ud574\uc11d",
+            "Doo-Hee Han and Min-Kyung Joe and Junsu Shin and Hong-Gye Sung and Su-Kyum Kim",
+            "2017",
+            "naF4TakAAAAJ:W7OEmFMy1HYC",
+            1,
+            "https:\/\/www.koreascience.or.kr\/article\/JAKO201734549519095.page",
+            "10443039755655864712",
+            "\/scholar?cites=10443039755655864712",
+            {
+                "2020":1
+            }
+        ]
+    ]
+}

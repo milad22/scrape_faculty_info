@@ -1,0 +1,282 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "RAGiAS0AAAAJ",
+            "Robyn E. Sanderson",
+            "University of Pennsylvania \/  Center for Computational Astrophysics, Flatiron Institute",
+            "@sas.upenn.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=RAGiAS0AAAAJ",
+            1569,
+            [
+                "Dynamics of tidal streams",
+                "tests of dark matter",
+                "accreted stellar halos of galaxies"
+            ],
+            1219,
+            19,
+            17,
+            23,
+            21,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"0DwXX2gAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Andrew Wetzel",
+                    "affiliation":"University of California, Davis"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"WgMW5I4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Philip Hopkins",
+                    "affiliation":"Professor of Theoretical Astrophysics, California Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"naAk7WgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Shea Garrison-Kimmel",
+                    "affiliation":"Caltech"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"HevT7qEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"James Bullock",
+                    "affiliation":"Professor, University of California, Irvine"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3cYdpzEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mike Boylan-Kolchin",
+                    "affiliation":"The University of Texas at Austin"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"1Th-sc4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Amina Helmi",
+                    "affiliation":"Kapteyn Astronomical Institute, University of Groningen"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"BjYcMqMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kareem El-Badry",
+                    "affiliation":"UC Berkeley"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ozVCcn4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kathryn V Johnston",
+                    "affiliation":"Professor of Astronomy, Columbia University and Group Leader in Dynamics, Center for Computational Astrophysics, Flatiron Institute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"coy0GAgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Astrid Lamberts",
+                    "affiliation":"Postdoc in Theoretical Astrophysics, California Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"hcmW-W0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David W Hogg",
+                    "affiliation":"New York University & MPIA & Center for Computational Astrophysics, Flatiron Institute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"2H08ubAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Adam J. Burgasser",
+                    "affiliation":"UC San Diego"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"FajiwyIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"John Bochanski",
+                    "affiliation":"Rider University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"d67_2YcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sanjib Sharma",
+                    "affiliation":"University of Arizona, Columbia University, University Of Sydney"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Lp6RI3EAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Christopher C. Hayward",
+                    "affiliation":"Center for Computational Astrophysics, Flatiron Institute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"sCd6x4MAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Lina Necib",
+                    "affiliation":"California Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"89zvd18AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Xiangcheng Ma",
+                    "affiliation":"University of California, Berkeley"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ud_zb8oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sangmo Tony Sohn",
+                    "affiliation":"Space Telescope Science Institute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"TEw8EvwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jacqueline K Faherty",
+                    "affiliation":"American Museum of Natural History"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Q_4hXncAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tsang Keung Chan",
+                    "affiliation":"University of California San Diego"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"HCYi1wIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Derek Charles Richardson",
+                    "affiliation":"Professor of Astronomy, University of Maryland"
+                }
+            ]
+        ]
+    ]
+}

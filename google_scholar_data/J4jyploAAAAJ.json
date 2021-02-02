@@ -1,0 +1,66 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "J4jyploAAAAJ",
+            "Dr. Shiplu Sarker",
+            "Associate Professor, Dept. of Manufacturing & Civil Engineering, Norwegian University of Science",
+            "@ntnu.no",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=J4jyploAAAAJ",
+            398,
+            [
+                "Thermochemical conversion of biomass",
+                "Biochemical conversion of biomass",
+                "Sustainable energy ..."
+            ],
+            364,
+            13,
+            12,
+            17,
+            14,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"piGov2oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jacob J Lamb",
+                    "affiliation":"Researcher at the Department of Electronic Systems, NTNU"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"jKgPEt0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"martin weisbjerg",
+                    "affiliation":""
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "3S8JX0P0",
+            "K10QI94AAAAJ",
+            [
+                "Combined analysis of world data on nucleon spin structure functions",
+                "Sigma terms from an SU (3) chiral extrapolation",
+                "Mass of the  Dibaryon",
+                "Proton-Proton Fusion and Tritium  Decay from Lattice Quantum Chromodynamics",
+                "Magnetic form factors of the octet baryons from lattice QCD and chiral extrapolation",
+                "Double- decay matrix elements from lattice quantum chromodynamics",
+                "Electric form factors of the octet baryons from lattice QCD and chiral extrapolation",
+                "Flow-based generative models for Markov chain Monte Carlo in lattice field theory",
+                "Isotensor Axial Polarizability and Lattice QCD Input for Nuclear Double- Decay Phenomenology",
+                "Pressure distribution and shear forces inside the proton"
+            ],
+            [
+                "We analyse the proton, deuteron and neutron spin dependent structure functions at fixed Q2 = 5 GeV2. The experimental asymmetries for the proton, neutron and deuteron are compared and found to be consistent. The first moment of the neutron structure function is evaluated using all available data. We find that the Bjorken sum rule is confirmed within an experimental uncertainty of 17%. The quark spin contribution to the nucleon spin is small, and the strange quark spin content is different from zero.",
+                "We report a new analysis of lattice simulation results for octet baryon masses in 2+ 1-flavor QCD, with an emphasis on a precise determination of the pion-nucleon and strangeness nucleon sigma terms. A controlled chiral extrapolation of a recent PACS-CS Collaboration data set yields baryon masses which exhibit remarkable agreement both with experimental values at the physical point and with the results of independent lattice QCD simulations at unphysical meson masses. Using the Feynman-Hellmann relation, we evaluate sigma commutators for all octet baryons. The small statistical uncertainty and considerably smaller model dependence allows a significantly more precise determination of the pion-nucleon sigma commutator and the strangeness sigma term than hitherto possible, subject to an unresolved issue concerning the lattice scale setting.",
+                "Recent lattice QCD calculations have reported evidence for the existence of a bound state with strangeness\u2212 2 and baryon number 2 at quark masses somewhat higher than the physical values. By developing a description of the dependence of this binding energy on the up, down and strange quark masses that allows a controlled chiral extrapolation, we explore the hypothesis that this state is to be identified with the H dibaryon. Taking as input the recent results of the HAL and NPLQCD Collaborations, we show that the H dibaryon is likely to be unbound by 13\u00b114 MeV at the physical point.",
+                "The nuclear matrix element determining the p p\u2192 d e+ \u03bd fusion cross section and the Gamow-Teller matrix element contributing to tritium \u03b2 decay are calculated with lattice quantum chromodynamics for the first time. Using a new implementation of the background field method, these quantities are calculated at the SU (3) flavor\u2013symmetric value of the quark masses, corresponding to a pion mass of m \u03c0\u223c 806 MeV. The Gamow-Teller matrix element in tritium is found to be 0.979 (03)(10) at these quark masses, which is within 2 \u03c3 of the experimental value. Assuming that the short-distance correlated two-nucleon contributions to the matrix element (meson-exchange currents) depend only mildly on the quark masses, as seen for the analogous magnetic interactions, the calculated p p\u2192 d e+ \u03bd transition matrix element leads to a fusion cross section at the physical quark masses that is consistent with its currently \u2026",
+                "We present a 2+ 1-flavor lattice QCD calculation of the electromagnetic Dirac and Pauli form factors of the octet baryons. The magnetic Sachs form factor is extrapolated at six fixed values of Q 2 to the physical pseudoscalar masses and infinite volume using a formulation based on heavy-baryon chiral perturbation theory with finite-range regularization. We properly account for omitted disconnected quark contractions using a partially quenched effective field theory formalism. The results compare well with the experimental form factors of the nucleon and the magnetic moments of the octet baryons.",
+                "A lattice quantum chromodynamics (LQCD) calculation of the nuclear matrix element relevant to the n n\u2192 p p e e \u03bd e \u03bd e transition is described in detail, expanding on the results presented in Ref.[PE Shanahan et al., Phys. Rev. Lett. 119, 062003 (2017)]. This matrix element, which involves two insertions of the weak axial current, is an important input for phenomenological determinations of double-\u03b2 decay rates of nuclei. From this exploratory study, performed using unphysical values of the quark masses, the long-distance deuteron-pole contribution to the matrix element is separated from shorter-distance hadronic contributions. This polarizability, which is only accessible in double-weak processes, cannot be constrained from single-\u03b2 decay of nuclei, and is found to be smaller than the long-distance contributions in this calculation, but non-negligible. In this work, technical aspects of the LQCD calculations, and of \u2026",
+                "We apply a formalism inspired by heavy-baryon chiral perturbation theory with finite-range regularization to dynamical 2+ 1-flavor CSSM\/QCDSF\/UKQCD Collaboration lattice QCD simulation results for the electric form factors of the octet baryons. The electric form factor of each octet baryon is extrapolated to the physical pseudoscalar masses, after finite-volume corrections have been applied, at six fixed values of Q 2 in the range 0.2\u20131.3 GeV 2. The extrapolated lattice results accurately reproduce the experimental form factors of the nucleon at the physical point, indicating that omitted disconnected quark loop contributions are small relative to the uncertainties of the calculation. Furthermore, using the results of a recent lattice study of the magnetic form factors, we determine the ratio \u03bc p G E p\/G M p. This quantity decreases with Q 2 in a way qualitatively consistent with recent experimental results.",
+                "A Markov chain update scheme using a machine-learned flow-based generative model is proposed for Monte Carlo sampling in lattice field theories. The generative model may be optimized (trained) to produce samples from a distribution approximating the desired Boltzmann distribution determined by the lattice action of the theory being studied. Training the model systematically improves autocorrelation times in the Markov chain, even in regions of parameter space where standard Markov chain Monte Carlo algorithms exhibit critical slowing down in producing decorrelated updates. Moreover, the model may be trained without existing samples from the desired distribution. The algorithm is compared with HMC and local Metropolis sampling for \u03d5 4 theory in two dimensions.",
+                "The potential importance of short-distance nuclear effects in double-\u03b2 decay is assessed using a lattice QCD calculation of the n n\u2192 p p transition and effective field theory methods. At the unphysical quark masses used in the numerical computation, these effects, encoded in the isotensor axial polarizability, are found to be of similar magnitude to the nuclear modification of the single axial current, which phenomenologically is the quenching of the axial charge used in nuclear many-body calculations. This finding suggests that nuclear models for neutrinoful and neutrinoless double-\u03b2 decays should incorporate this previously neglected contribution if they are to provide reliable guidance for next-generation neutrinoless double-\u03b2 decay searches. The prospects of constraining the isotensor axial polarizabilities of nuclei using lattice QCD input into nuclear many-body calculations are discussed.",
+                "The distributions of pressure and shear forces inside the proton are investigated using lattice quantum chromodynamics (LQCD) calculations of the energy momentum tensor, allowing the first model-independent determination of these fundamental aspects of proton structure. This is achieved by combining recent LQCD results for the gluon contributions to the energy momentum tensor with earlier calculations of the quark contributions. The utility of LQCD calculations in exploring, and supplementing, the assumptions in a recent extraction of the pressure distribution in the proton from deeply virtual Compton scattering is also discussed. Based on this study, the target kinematics for experiments aiming to determine the pressure and shear distributions with greater precision at Thomas Jefferson National Accelerator Facility and a future electron ion collider are investigated."
+            ],
+            [
+                [
+
+                ]
+            ]
+        ]
+    ]
+}

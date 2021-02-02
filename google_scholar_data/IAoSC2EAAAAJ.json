@@ -1,0 +1,76 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "IAoSC2EAAAAJ",
+            "Joyoni Dey",
+            "Louisiana State University",
+            "@lsu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=IAoSC2EAAAAJ",
+            900,
+            [
+
+            ],
+            311,
+            13,
+            10,
+            17,
+            12,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"00gK5A4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Arda K\u00f6nik",
+                    "affiliation":"Nuclear Medicine Physicist, DFCI"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"dqJPxhEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sandy Napel",
+                    "affiliation":"Professor of Radiology, Stanford University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"AmKrZCMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Christopher F. Beaulieu",
+                    "affiliation":"Professor of Radiology, Stanford University"
+                }
+            ]
+        ]
+    ]
+}

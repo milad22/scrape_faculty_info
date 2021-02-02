@@ -1,0 +1,239 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "In this paper, we review recent theoretical progress and the latest experimental results in jet substructure from the Tevatron and the LHC. We review the status of and outlook for calculation and simulation tools for studying jet substructure. Following up on the report of the Boost 2010 workshop, we present a new set of benchmark comparisons of substructure techniques, focusing on the set of variables and grooming methods that are collectively known as' top taggers'. To facilitate further exploration, we have attempted to collect, harmonize and publish software implementations of these techniques.",
+            "Jet Substructure at the Tevatron and LHC: New results, new tools, new benchmarks",
+            "A Altheimer and S Arora and L Asquith and G Brooijmans and J Butterworth and M Campanelli and B Chapleau and AE Cholakian and JP Chou and M Dasgupta and A Davison and J Dolen and SD Ellis and R Essig and JJ Fan and R Field and A Fregoso and J Gallicchio and Yuri Gershtein and A Gomes and A Haas and Eva Halkiadakis and V Halyo and S Hoeche and A Hook and A Hornig and P Huang and E Izaguirre and M Jankowiak and G Kribs and D Krohn and AJ Larkoski and Amitabh Lath and C Lee and SeungJoon Lee and P Loch and P Maksimovic and M Martinez and DW Miller and T Plehn and K Prokofiev and R Rahmat and S Rappoccio and A Safonov and GP Salam and S Schumann and MD Schwartz and A Schwartzman and M Seymour and J Shao and P Sinervo and Minho Son and DE Soper and M Spannowsky and IW Stewart and M Strassler and E Strauss and M Takeuchi and J Thaler and Scott Thomas and B Tweedie and R Vasquez Sierra and CK Vermilion and M Villaplana and M Vos and J Wacker and D Walker and JR Walsh and LT Wang and S Wilbur and W Zhu",
+            "2012",
+            "dGYYlzIAAAAJ:IWHjjKOFINEC",
+            357,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0954-3899\/39\/6\/063001\/meta",
+            "17344459097344186558",
+            "\/scholar?cites=17344459097344186558",
+            {
+                "2012":38,
+                "2013":78,
+                "2014":49,
+                "2015":44,
+                "2016":58,
+                "2017":24,
+                "2018":25,
+                "2019":13,
+                "2020":25
+            }
+        ],
+        [
+            "This report of the BOOST2012 workshop presents the results of four working groups that studied key aspects of jet substructure. We discuss the potential of first-principle QCD calculations to yield a precise description of the substructure of jets and study the accuracy of state-of-the-art Monte Carlo tools. Limitations of the experiments\u2019 ability to resolve substructure are evaluated, with a focus on the impact of additional (pile-up) proton proton collisions on jet substructure performance in future LHC operating scenarios. A final section summarizes the lessons learnt from jet substructure analyses in searches for new physics in the production of boosted top quarks.",
+            "Boosted objects and jet substructure at the LHC. Report of BOOST2012, held at IFIC Valencia, 23rd\u201327th of July 2012",
+            "Andrew Altheimer and A Arce and L Asquith and J Backus Mayes and E Bergeaas Kuutmann and J Berger and D Bjergaard and Lene Bryngemark and A Buckley and J Butterworth and M Cacciari and M Campanelli and T Carli and M Chala and B Chapleau and C Chen and JP Chou and Th Cornelissen and D Curtin and M Dasgupta and A Davison and F de Almeida Dias and A de Cosa and A de Roeck and C Debenedetti and Caterina Doglioni and SD Ellis and F Fassi and J Ferrando and S Fleischmann and M Freytsis and ML Gonzalez Silva and S Gonzalez de la Hoz and F Guescini and Z Han and A Hook and A Hornig and E Izaguirre and M Jankowiak and J Juknevich and M Kaci and D Kar and G Kasieczka and R Kogler and A Larkoski and P Loch and D Lopez Mateos and S Marzani and L Masetti and V Mateu and DW Miller and K Mishra and P Nef and K Nordstrom and E Oliver Garcia and J Penwell and J Pilot and T Plehn and S Rappoccio and Andrea Rizzi and G Rodrigo and A Safonov and GP Salam and J Salt and S Schaetzel and M Schioppa and A Schmidt and J Scholtz and A Schwartzman and MD Schwartz and M Segala and M Son and G Soyez and M Spannowsky and I Stewart and D Strom and M Swiatlowski and V Sanchez Martinez and M Takeuchi and J Thaler and EN Thompson and NV Tran and C Vermilion and M Villaplana and M Vos and J Wacker and J Walsh",
+            "2014",
+            "dGYYlzIAAAAJ:M3ejUd6NZC8C",
+            236,
+            "https:\/\/link.springer.com\/article\/10.1140\/epjc\/s10052-014-2792-8\/figures\/6",
+            "12796814649087822428",
+            "\/scholar?cites=12796814649087822428",
+            {
+                "2013":1,
+                "2014":31,
+                "2015":30,
+                "2016":52,
+                "2017":43,
+                "2018":36,
+                "2019":14,
+                "2020":29
+            }
+        ],
+        [
+            "We examine the theoretical motivations for long-lived particle (LLP) signals at the LHC in a comprehensive survey of standard model (SM) extensions. LLPs are a common prediction of a wide range of theories that address unsolved fundamental mysteries such as naturalness, dark matter, baryogenesis and neutrino masses, and represent a natural and generic possibility for physics beyond the SM (BSM). In most cases the LLP lifetime can be treated as a free parameter from the m scale up to the Big Bang Nucleosynthesis limit of m. Neutral LLPs with lifetimes above 100 m are particularly difficult to probe, as the sensitivity of the LHC main detectors is limited by challenging backgrounds, triggers, and small acceptances. MATHUSLA is a proposal for a minimally instrumented, large-volume surface detector near ATLAS or CMS. It would search for neutral LLPs produced in HL-LHC collisions by reconstructing \u2026",
+            "Long-lived particles at the energy frontier: the MATHUSLA physics case",
+            "David Curtin and Marco Drewes and Matthew McCullough and Patrick Meade and Rabindra N Mohapatra and Jessie Shelton and Brian Shuve and Elena Accomando and Cristiano Alpigiani and Stefan Antusch and Juan Carlos Arteaga-Vel\u00e1zquez and Brian Batell and Martin Bauer and Nikita Blinov and Karen Salom\u00e9 Caballero-Mora and Jae Hyeok Chang and Eung Jin Chun and Timothy Cohen and Peter Cox and Nathaniel Craig and Csaba Cs\u00e1ki and Yanou Cui and Francesco D\u2019Eramo and Luigi Delle Rose and PS Bhupal Dev and Keith R Dienes and Jeff A Dror and Rouven Essig and Jared A Evans and Jason L Evans and Arturo Fern\u00e1ndez Tellez and Oliver Fischer and Thomas Flacke and Anthony Fradette and Claudia Frugiuele and Elina Fuchs and Tony Gherghetta and Gian F Giudice and Dmitry Gorbunov and Rick S Gupta and Claudia Hagedorn and Lawrence J Hall and Philip Harris and Juan Carlos Helo and Martin Hirsch and Yonit Hochberg and Anson Hook and Alejandro Ibarra and Seyda Ipek and Sunghoon Jung and Simon Knapen and Eric Kuflik and Zhen Liu and Salvator Lombardo and HJ Lubatti and David McKeen and Emiliano Molinaro and Stefano Moretti and Natsumi Nagata and Matthias Neubert and Jose Miguel No and Emmanuel Olaiya and Gilad Perez and Michael E Peskin and David Pinner and Maxim Pospelov and Matthew Reece and Dean J Robinson and Mario Rodr\u00edguez Cahuantzi and Rinaldo Santonico and Matthias Schlaffer and Claire H Shepherd-Themistocleous and Andrew Spray and Daniel Stolarski and Martin A Subieta Vasquez and Raman Sundrum and Andrea Thamm and Brooks Thomas and Yuhsin Tsai and Brock Tweedie and Stephen M West and Charles Young and Felix Yu and Bryan Zaldivar and Yongchao Zhang and Kathryn Zurek and Jos\u00e9 Zurita",
+            "2019",
+            "dGYYlzIAAAAJ:e5wmG9Sq2KIC",
+            203,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/1361-6633\/ab28d6\/meta",
+            "202599019831612952",
+            "\/scholar?cites=202599019831612952",
+            {
+                "2018":24,
+                "2019":76,
+                "2020":102,
+                "2021":1
+            }
+        ],
+        [
+            "Measurements of the Higgs boson and top quark masses indicate that the Standard Model Higgs potential becomes unstable around \u039b I\u223c 10 11 GeV. This instability is cosmologically relevant since quantum fluctuations during inflation can easily destabilize the electroweak vacuum if the Hubble parameter during inflation is larger than \u039b I (as preferred by the recent BICEP2 measurement). We perform a careful study of the evolution of the Higgs field during inflation, obtaining different results from those currently in the literature. We consider both tunneling via a Coleman-de Luccia or Hawking-Moss instanton, valid when the scale of inflation is below the instability scale, as well as a statistical treatment via the Fokker-Planck equation appropriate in the opposite regime. We show that a better understanding of the post-inflation evolution of the unstable AdS vacuum regions is crucial for determining the eventual fate of \u2026",
+            "Probable or improbable universe? Correlating electroweak vacuum instability with the scale of inflation",
+            "Anson Hook and John Kearney and Bibhushan Shakya and Kathryn M Zurek",
+            "2015",
+            "dGYYlzIAAAAJ:hC7cP41nSMkC",
+            122,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/JHEP01(2015)061.pdf",
+            "17831931837926644086",
+            "\/scholar?cites=17831931837926644086",
+            {
+                "2014":4,
+                "2015":21,
+                "2016":23,
+                "2017":30,
+                "2018":24,
+                "2019":11,
+                "2020":8,
+                "2021":1
+            }
+        ],
+        [
+            "New Abelian vector bosons can kinetically mix with the hypercharge gauge boson of the Standard Model. This letter computes the model-independent limits on vector bosons with masses from 1\u2009GeV to 1\u2009TeV. The limits arise from the numerous  experiments that have been performed in this energy range and bound the kinetic mixing by  for most of the mass range studied, regardless of any additional interactions that the new vector boson may have.",
+            "Model-independent bounds on kinetic mixing",
+            "Anson Hook and Eder Izaguirre and Jay G Wacker",
+            "2011",
+            "dGYYlzIAAAAJ:dhFuZR0502QC",
+            105,
+            "https:\/\/www.hindawi.com\/journals\/ahep\/2011\/859762\/abs\/",
+            "16488257353529273167",
+            "\/scholar?cites=16488257353529273167",
+            {
+                "2010":1,
+                "2011":6,
+                "2012":6,
+                "2013":6,
+                "2014":8,
+                "2015":8,
+                "2016":14,
+                "2017":10,
+                "2018":13,
+                "2019":12,
+                "2020":19,
+                "2021":1
+            }
+        ],
+        [
+            "A new jet observable, dipolarity, is introduced that can distinguish whether a pair of subjets arises from a color singlet source. This observable is incorporated into the HEPTopTagger and is shown to improve discrimination between top jets and QCD jets for moderate to high p T.",
+            "Jet dipolarity: top tagging with color flow",
+            "Anson Hook and Martin Jankowiak and Jay G Wacker",
+            "2012",
+            "dGYYlzIAAAAJ:8k81kl-MbHgC",
+            100,
+            "https:\/\/link.springer.com\/article\/10.1007\/JHEP04(2012)007",
+            "7761338885236983883",
+            "\/scholar?cites=7761338885236983883",
+            {
+                "2011":2,
+                "2012":15,
+                "2013":22,
+                "2014":15,
+                "2015":10,
+                "2016":12,
+                "2017":8,
+                "2018":2,
+                "2019":7,
+                "2020":7
+            }
+        ],
+        [
+            "We present a new solution to the electroweak hierarchy problem. We introduce N copies of the standard model with varying values of the Higgs mass parameter. This generically yields a sector whose weak scale is parametrically removed from the cutoff by a factor of 1\/N. Ensuring that reheating deposits a majority of the total energy density into this lightest sector requires a modification of the standard cosmological history, providing a powerful probe of the mechanism. Current and near-future experiments can explore much of the natural parameter space. Furthermore, supersymmetric completions that preserve grand unification predict superpartners with mass below m W M pl\/M GUT\u223c 10 TeV.",
+            "Solving the hierarchy problem at reheating with a large number of degrees of freedom",
+            "Nima Arkani-Hamed and Timothy Cohen and Raffaele Tito D\u2019Agnolo and Anson Hook and Hyung Do Kim and David Pinner",
+            "2016",
+            "dGYYlzIAAAAJ:_kc_bZDykSQC",
+            90,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.117.251801",
+            "12314442374738680108",
+            "\/scholar?cites=12314442374738680108",
+            {
+                "2017":16,
+                "2018":21,
+                "2019":28,
+                "2020":25
+            }
+        ],
+        [
+            "This article introduces a new class of searches for physics beyond the standard model that improves the sensitivity to signals with high jet multiplicity. The proposed searches gain access to high-multiplicity signals by reclustering events into large-radius, or \u201cfat,\u201d jets and by requiring that each event has multiple massive jets. This technique is applied to supersymmetric scenarios in which gluinos are pair-produced and then subsequently decay to final states with either moderate quantities of missing energy or final states without missing energy. In each of these scenarios, the use of jet mass improves the estimated reach in gluino mass by 20% to 50% over current LHC searches.",
+            "High multiplicity searches at the LHC using jet masses",
+            "Anson Hook and Eder Izaguirre and Mariangela Lisanti and Jay G Wacker",
+            "2012",
+            "dGYYlzIAAAAJ:kNdYIx-mwKoC",
+            89,
+            "https:\/\/journals.aps.org\/prd\/abstract\/10.1103\/PhysRevD.85.055029",
+            "9055126083807403021",
+            "\/scholar?cites=9055126083807403021",
+            {
+                "2012":7,
+                "2013":22,
+                "2014":10,
+                "2015":12,
+                "2016":9,
+                "2017":4,
+                "2018":12,
+                "2019":8,
+                "2020":5
+            }
+        ],
+        [
+            "We construct models of indirect gauge mediation where the dynamics responsible for breaking supersymmetry simultaneously generates a weakly coupled subsector of messengers. This provides a microscopic realization of messenger gauge mediation where the messenger and hidden sector fields are unified into a single sector. The UV theory is SQCD with massless and massive quarks plus singlets, and at low energies it flows to a weakly coupled quiver gauge theory. One node provides the primary source of supersymmetry breaking, which is then transmitted to the node giving rise to the messenger fields. These models break R-symmetry spontaneously, produce realistic gaugino and sfermion masses, and give a heavy gravitino.",
+            "A microscopic theory of gauge mediation",
+            "Anson Hook and Gonzalo Torroba",
+            "2011",
+            "dGYYlzIAAAAJ:Y0pCki6q_DkC",
+            85,
+            "https:\/\/link.springer.com\/article\/10.1007\/JHEP08(2011)113",
+            "3205279133798582827",
+            "\/scholar?cites=3205279133798582827",
+            {
+                "2011":1,
+                "2012":4,
+                "2013":11,
+                "2014":15,
+                "2015":12,
+                "2016":5,
+                "2017":10,
+                "2018":10,
+                "2019":6,
+                "2020":9,
+                "2021":2
+            }
+        ],
+        [
+            "We consider using particle production as a friction force by which to implement a \u201cRelaxion\u201d solution to the electroweak hierarchy problem. Using this approach, we are able to avoid superplanckian field excursions and avoid any conflict with the strong CP problem. The relaxation mechanism can work before, during or after inflation allowing for inflationary dynamics to play an important role or to be completely decoupled.",
+            "Relaxation from particle production",
+            "Anson Hook and Gustavo Marques-Tavares",
+            "2016",
+            "dGYYlzIAAAAJ:Se3iqnhoufwC",
+            72,
+            "https:\/\/link.springer.com\/article\/10.1007\/JHEP12(2016)101",
+            "5530073915613006624",
+            "\/scholar?cites=5530073915613006624",
+            {
+                "2016":1,
+                "2017":11,
+                "2018":17,
+                "2019":22,
+                "2020":20,
+                "2021":1
+            }
+        ]
+    ]
+}

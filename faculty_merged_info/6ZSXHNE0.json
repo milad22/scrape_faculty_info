@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "6ZSXHNE0",
+            "fUwwsXQAAAAJ",
+            [
+                "Robust Growth of Escherichia coli",
+                "Cell-Size Control and Homeostasis in Bacteria",
+                "Entropy-driven spatial organization of highly confined polymers: lessons for the bacterial chromosome",
+                "Entropy as the driver of chromosome segregation",
+                "Physical manipulation of the Escherichia coli chromosome reveals its soft nature",
+                "Self-assembly of the ionic peptide EAK16: the effect of charge distributions on self-assembly",
+                "Invariance of initiation mass and predictability of cell size in Escherichia coli",
+                "The multifork Escherichia coli chromosome is a self-duplicating and self-segregating thermodynamic ring polymer",
+                "Cell-size maintenance: universal strategy revealed",
+                "Kinetic model of DNA replication in eukaryotic organisms"
+            ],
+            [
+                "The quantitative study of the cell growth [1, 2, 3, 4, 5] has led to many fundamental insights in our understanding of a wide range of subjects, from the cell cycle [6, 7, 8, 9] to senescence [10]. Of particular importance is the growth rate, whose constancy represents a physiological steady state of an organism. Recent studies, however, suggest that the rate of elongation during exponential growth of bacterial cells decreases cumulatively with replicative age for both asymmetrically [11] and symmetrically [12, 13] dividing organisms, implying that a \u201csteady-state\u201d population consists of individual cells that are never in a steady state of growth. To resolve this seeming paradoxical observation, we studied the long-term growth and division patterns of Escherichia coli cells by employing a microfluidic device designed to follow steady-state growth and division of a large number of cells at a defined reproductive age. Our analysis \u2026",
+                "How cells control their size and maintain size homeostasis is a fundamental open question. Cell-size homeostasis has been discussed in the context of two major paradigms: \u201csizer,\u201d in which the cell actively monitors its size and triggers the cell cycle once it reaches a critical size, and \u201ctimer,\u201d in which the cell attempts to grow for a specific amount of time before division. These paradigms, in conjunction with the \u201cgrowth law\u201d [1] and the quantitative bacterial cell-cycle model [2], inspired numerous theoretical models [3, 4, 5, 6, 7, 8, 9] and experimental investigations, from growth [10, 11] to cell cycle and size control [12, 13, 14, 15]. However, experimental evidence involved difficult-to-verify assumptions or population-averaged data, which allowed different interpretations [1, 2, 3, 4, 5, 16, 17, 18, 19, 20] or limited conclusions [4, 5, 6, 7, 8, 9]. In particular, population-averaged data and correlations are inconclusive as the \u2026",
+                "Despite recent progress in visualization experiments, the mechanism underlying chromosome segregation in bacteria still remains elusive. Here we address a basic physical issue associated with bacterial chromosome segregation, namely the spatial organization of highly confined, self-avoiding polymers (of nontrivial topology) in a rod-shaped cell-like geometry. Through computer simulations, we present evidence that, under strong confinement conditions, topologically distinct domains of a polymer complex effectively repel each other to maximize their conformational entropy, suggesting that duplicated circular chromosomes could partition spontaneously. This mechanism not only is able to account for the spatial separation per se but also captures the major features of the spatiotemporal organization of the duplicating chromosomes observed in Escherichia coli and Caulobacter crescentus.",
+                "We present a new physical biology approach to understanding the relationship between the organization and segregation of bacterial chromosomes. We posit that replicated Escherichia coli daughter strands will spontaneously demix as a result of entropic forces, despite their strong confinement within the cell; in other words, we propose that entropy can act as a primordial physical force which drives chromosome segregation under the right physical conditions. Furthermore, proteins implicated in the regulation of chromosome structure and segregation may in fact function primarily in supporting such an entropy-driven segregation mechanism by regulating the physical state of chromosomes. We conclude that bacterial chromosome segregation is best understood in terms of spontaneous demixing of daughter strands. Our concept may also have important implications for chromosome segregation in eukaryotes, in \u2026",
+                "Replicating bacterial chromosomes continuously demix from each other and segregate within a compact volume inside the cell called the nucleoid. Although many proteins involved in this process have been identified, the nature of the global forces that shape and segregate the chromosomes has remained unclear because of limited knowledge of the micromechanical properties of the chromosome. In this work, we demonstrate experimentally the fundamentally soft nature of the bacterial chromosome and the entropic forces that can compact it in a crowded intracellular environment. We developed a unique \u201cmicropiston\u201d and measured the force-compression behavior of single Escherichia coli chromosomes in confinement. Our data show that forces on the order of 100 pN and free energies on the order of 105 kBT are sufficient to compress the chromosome to its in vivo size. For comparison, the pressure required to \u2026",
+                "Amphiphilic peptides suspended in aqueous solution display a rich set of aggregation behavior. Molecular-level studies of relatively simple amphiphilic molecules under controlled conditions are an essential step toward a better understanding of self-assembly phenomena of naturally occurring peptides\/proteins. Here, we study the influence of molecular architecture and interactions on the self-assembly of model peptides (EAK16s), using both experimental and theoretical approaches. Three different types of EAK16 were studied: EAK16-I, -II, and -IV, which have the same amino acid composition but different amino acid sequences. Atomic force microscopy confirms that EAK16-I and -II form fibrillar assemblies, whereas EAK16-IV forms globular structures. The Fourier transform infrared spectrum of EAK16-IV indicates the possible formation of a \u03b2-turn structure, which is not found in EAK16-I and -II. Our theoretical \u2026",
+                "It is generally assumed that the allocation and synthesis of total cellular resources in microorganisms are uniquely determined by the growth conditions. Adaptation to a new physiological state leads to a change in cell size via reallocation of cellular resources. However, it has not been understood how cell size is coordinated with biosynthesis and robustly adapts to physiological states. We show that cell size in Escherichia coli can be predicted for any steady-state condition by projecting all biosynthesis into three measurable variables representing replication initiation, replication-division cycle, and the global biosynthesis rate. These variables can be decoupled by selectively controlling their respective core biosynthesis using CRISPR interference and antibiotics, verifying our predictions that different physiological states can result in the same cell size. We performed extensive growth inhibition experiments, and we \u2026",
+                "At all but the slowest growth rates, Escherichia coli cell cycles overlap, and its nucleoid is segregated to daughter cells as a forked DNA circle with replication ongoing\u2014a state fundamentally different from eukaryotes. We have solved the chromosome organization, structural dynamics, and segregation of this constantly replicating chromosome. It is locally condensed to form a branched donut, compressed so that the least replicated DNA spans the cell center and the newest DNA extends toward the cell poles. Three narrow zones at the cell center and quarters contain both the replication forks and nascent DNA and serve to segregate the duplicated chromosomal information as it flows outward. The overall pattern is smoothly self-replicating, except when the duplicated terminus region is released from the septum and recoils to the center of a sister nucleoid. In circular cross-section of the cell, the left and right arms of \u2026",
+                "How cells maintain a stable size has fascinated scientists since the beginning of modern biology, but has remained largely mysterious. Recently, however, the ability to analyze single bacteria in real time has provided new, important quantitative insights into this long-standing question in cell biology.",
+                "We formulate a kinetic model of DNA replication that quantitatively describes recent results on DNA replication in the in vitro system of Xenopus laevis prior to the mid-blastula transition. The model describes well a large amount of different data within a simple theoretical framework. This allows one, for the first time, to determine the parameters governing the DNA replication program in a eukaryote on a genome-wide basis. In particular, we have determined the frequency of origin activation in time and space during the cell cycle. Although we focus on a specific stage of development, this model can easily be adapted to describe replication in many other organisms, including budding yeast."
+            ],
+            [
+                [
+                    "quantitative biology",
+                    "systems biology",
+                    "biological physics",
+                    "soft matter"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "0FDnA9AAAAAJ",
+            "Steven Ragnar Stroberg",
+            "University of Washington",
+            "@uw.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=0FDnA9AAAAAJ",
+            2355,
+            [
+                "Nuclear Physics",
+                "Many-body theory"
+            ],
+            2011,
+            27,
+            24,
+            51,
+            46,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9CnnrjMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jason D. Holt",
+                    "affiliation":"TRIUMF \/ McGill University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Q0Z4gzQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alexandra Gade",
+                    "affiliation":"Michigan State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"pBXBMkcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"B Alex Brown",
+                    "affiliation":"Professor of Physics, Michigan State University, NSCL, FRIB"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"vp5eM4UAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Heiko Hergert",
+                    "affiliation":"National Superconducting Cyclotron Laboratory, Michigan State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"c9tS4DYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"S.K. Bogner",
+                    "affiliation":"michigan state university"
+                }
+            ]
+        ]
+    ]
+}

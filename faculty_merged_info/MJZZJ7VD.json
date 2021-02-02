@@ -1,0 +1,45 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "MJZZJ7VD",
+            "YvvpezQAAAAJ",
+            [
+                "Sub-diffraction-limit imaging by stochastic optical reconstruction microscopy (STORM)",
+                "Three-dimensional super-resolution imaging by stochastic optical reconstruction microscopy",
+                "Electrical detection of single viruses",
+                "Super-resolution fluorescence microscopy",
+                "Multicolor super-resolution imaging with photo-switchable fluorescent probes",
+                "Local gabor binary pattern histogram sequence (lgbphs): A novel non-statistical model for face representation and recognition",
+                "Evaluation of fluorophores for optimal performance in localization-based super-resolution imaging",
+                "Breaking the diffraction barrier: super-resolution imaging of cells"
+            ],
+            [
+                "We have developed a high-resolution fluorescence microscopy method based on high-accuracy localization of photoswitchable fluorophores. In each imaging cycle, only a fraction of the fluorophores were turned on, allowing their positions to be determined with nanometer accuracy. The fluorophore positions obtained from a series of imaging cycles were used to reconstruct the overall image. We demonstrated an imaging resolution of 20 nm. This technique can, in principle, reach molecular-scale resolution.",
+                "Recent advances in far-field fluorescence microscopy have led to substantial improvements in image resolution, achieving a near-molecular resolution of 20 to 30 nanometers in the two lateral dimensions. Three-dimensional (3D) nanoscale-resolution imaging, however, remains a challenge. We demonstrated 3D stochastic optical reconstruction microscopy (STORM) by using optical astigmatism to determine both axial and lateral positions of individual fluorophores with nanometer accuracy. Iterative, stochastic activation of photoswitchable probes enables high-precision 3D localization of each probe, and thus the construction of a 3D image, without scanning the sample. Using this approach, we achieved an image resolution of 20 to 30 nanometers in the lateral dimensions and 50 to 60 nanometers in the axial dimension. This development allowed us to resolve the 3D morphology of nanoscopic cellular structures.",
+                "We report direct, real-time electrical detection of single virus particles with high selectivity by using nanowire field effect transistors. Measurements made with nanowire arrays modified with antibodies for influenza A showed discrete conductance changes characteristic of binding and unbinding in the presence of influenza A but not paramyxovirus or adenovirus. Simultaneous electrical and optical measurements using fluorescently labeled influenza A were used to demonstrate conclusively that the conductance changes correspond to binding\/unbinding of single viruses at the surface of nanowire devices. pH-dependent studies further show that the detection mechanism is caused by a field effect, and that the nanowire devices can be used to determine rapidly isoelectric points and variations in receptor-virus binding kinetics for different conditions. Lastly, studies of nanowire devices modified with antibodies specific \u2026",
+                "Achieving a spatial resolution that is not limited by the diffraction of light, recent developments of super-resolution fluorescence microscopy techniques allow the observation of many biological structures not resolvable in conventional fluorescence microscopy. New advances in these techniques now give them the ability to image three-dimensional (3D) structures, measure interactions by multicolor colocalization, and record dynamic processes in living cells at the nanometer scale. It is anticipated that super-resolution fluorescence microscopy will become a widely used tool for cell and tissue imaging to provide previously unobserved details of biological structures and processes.",
+                "Recent advances in far-field optical nanoscopy have enabled fluorescence imaging with a spatial resolution of 20 to 50 nanometers. Multicolor super-resolution imaging, however, remains a challenging task. Here, we introduce a family of photo-switchable fluorescent probes and demonstrate multicolor stochastic optical reconstruction microscopy (STORM). Each probe consists of a photo-switchable \u201creporter\u201d fluorophore that can be cycled between fluorescent and dark states, and an \u201cactivator\u201d that facilitates photo-activation of the reporter. Combinatorial pairing of reporters and activators allows the creation of probes with many distinct colors. Iterative, color-specific activation of sparse subsets of these probes allows their localization with nanometer accuracy, enabling the construction of a super-resolution STORM image. Using this approach, we demonstrate multicolor imaging of DNA model samples and \u2026",
+                "For years, researchers in face recognition area have been representing and recognizing faces based on subspace discriminant analysis or statistical learning. Nevertheless, these approaches are always suffering from the generalizability problem. This paper proposes a novel non-statistics based face representation approach, local Gabor binary pattern histogram sequence (LGBPHS), in which training procedure is unnecessary to construct the face model, so that the generalizability problem is naturally avoided. In this approach, a face image is modeled as a \"histogram sequence\" by concatenating the histograms of all the local regions of all the local Gabor magnitude binary pattern maps. For recognition, histogram intersection is used to measure the similarity of different LGBPHSs and the nearest neighborhood is exploited for final classification. Additionally, we have further proposed to assign different weights for \u2026",
+                "One approach to super-resolution fluorescence imaging uses sequential activation and localization of individual fluorophores to achieve high spatial resolution. Essential to this technique is the choice of fluorescent probes; the properties of the probes, including photons per switching event, on-off duty cycle, photostability and number of switching cycles, largely dictate the quality of super-resolution images. Although many probes have been reported, a systematic characterization of the properties of these probes and their impact on super-resolution image quality has been described in only a few cases. Here we quantitatively characterized the switching properties of 26 organic dyes and directly related these properties to the quality of super-resolution images. This analysis provides guidelines for characterization of super-resolution probes and a resource for selecting probes based on performance. Our evaluation \u2026",
+                "Anyone who has used a light microscope has wished that its resolution could be a little better. Now, after centuries of gradual improvements, fluorescence microscopy has made a quantum leap in its resolving power due, in large part, to advancements over the past several years in a new area of research called super-resolution fluorescence microscopy. In this Primer, we explain the principles of various super-resolution approaches, such as STED, (S)SIM, and STORM\/(F)PALM. Then, we describe recent applications of super-resolution microscopy in cells, which demonstrate how these approaches are beginning to provide new insights into cell biology, microbiology, and neurobiology."
+            ],
+            [
+                [
+                    "Super-resolution imaging",
+                    "Single molecule imaging",
+                    "Biophysics"
+                ]
+            ]
+        ]
+    ]
+}

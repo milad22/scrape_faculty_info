@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "9ACKYAYI",
+            "FHPjJrEAAAAJ",
+            [
+                "Generalization of the Landau-Lifshitz-Gilbert equation for conducting ferromagnets",
+                "Spin convertance at magnetic interfaces",
+                "Magnon mediated electric current drag across a ferromagnetic insulator layer",
+                "Bilinear magnetoelectric resistance as a probe of three-dimensional spin texture in topological surface states",
+                "Anisotropic magnetoresistance driven by surface spin-orbit scattering",
+                "Theory of unidirectional spin Hall magnetoresistance in heavy-metal\/ferromagnetic-metal bilayers",
+                "Nonlocal anomalous Hall effect",
+                "Giant anisotropy of Gilbert damping in epitaxial CoFe films",
+                "Angular dependence of anisotropic magnetoresistance in magnetic systems",
+                "Magnetization switching using topological surface states"
+            ],
+            [
+                "We propose an extension of the Landau-Lifshitz-Gilbert (LLG) equation by explicitly including the role of conduction electrons in magnetization dynamics of conducting ferromagnets. The temporal and spatial dependent magnetization order parameter m (r, t) generates both electrical and spin currents that provide dissipation of the energy and angular momentum of the processing magnet. The resulting LLG equation contains highly spatial dependence of damping term and thus micromagnetic simulations based on the standard LLG equation should be reexamined for magnetization dynamics involving narrow domain walls and spin waves with short wavelengths.",
+                "Exchange interaction between conduction electrons and magnetic moments at magnetic interfaces leads to mutual conversion between spin current and magnon current. We introduce a concept of spin convertance which quantitatively measures magnon current induced by spin accumulation and spin current created by magnon accumulation at a magnetic interface. We predict several phenomena on charge and spin drag across a magnetic insulator spacer for a few layered structures.",
+                "In a semiconductor heterostructure, the Coulomb interaction is responsible for the electric current drag between two 2D electron gases across an electron impenetrable insulator. For two metallic layers separated by a ferromagnetic insulator (FI) layer, the electric current drag can be mediated by a nonequilibrium magnon current of the FI. We determine the drag current by using the semiclassical Boltzmann approach with proper boundary conditions of electrons and magnons at the metal\u2013FI interface.",
+                "Surface states of three-dimensional topological insulators exhibit the phenomenon of spin\u2013momentum locking, whereby the orientation of an electron spin is determined by its momentum. Probing the spin texture of these states is of critical importance for the realization of topological insulator devices, but the main technique currently available is spin-and angle-resolved photoemission spectroscopy. Here we reveal a close link between the spin texture and a new kind of magnetoresistance, which depends on the relative orientation of the current with respect to the magnetic field as well as the crystallographic axes, and scales linearly with both the applied electric and magnetic fields. This bilinear magnetoelectric resistance can be used to map the spin texture of topological surface states by simple transport measurements. For a prototypical Bi 2 Se 3 single layer, we can map both the in-plane and out-of-plane \u2026",
+                "In a bilayer consisting of an insulator and a ferromagnetic metal (FM), interfacial spin-orbit scattering leads to spin mixing of the two conducting channels of the FM, which results in an unconventional anisotropic magnetoresistance (AMR). We theoretically investigate the magnetotransport in such bilayer structures by solving the spinor Boltzmann transport equation with the generalized Fuchs-Sondheimer boundary condition that takes into account the effect of spin-orbit scattering at the interface. We find that the new AMR exhibits a peculiar angular dependence which can serve as a genuine experimental signature. We also determine the dependence of the AMR on film thickness as well as resistivity spin asymmetry of the FM.",
+                "Recent experiments have revealed nonlinear features of the magnetoresistance in metallic bilayers consisting of a heavy metal (HM) and a ferromagnetic metal (FM). A small change in the longitudinal resistance of the bilayer has been observed when reversing the direction of either the applied in-plane current or the magnetization. We attribute such nonlinear transport behavior to the spin-polarization dependence of the electron mobility in the FM layer acting in concert with the spin accumulation induced in that layer by the spin Hall current originating in the bulk of the HM layer. An explicit expression for the nonlinear magnetoresistance is derived based on a simple drift-diffusion model, which shows that the nonlinear magnetoresistance appears at the first order of the spin Hall angle, and changes sign when the current is reversed, in agreement with the experimental observations. We also discuss possible ways to \u2026",
+                "The anomalous Hall (AH) effect is deemed to be a unique transport property of ferromagnetic metals, caused by the concerted action of spin polarization and spin-orbit coupling. Nevertheless, recent experiments have shown that the effect also occurs in a nonmagnetic metal (Pt) in contact with a magnetic insulator [yttrium iron garnet (YIG)], even when precautions are taken to ensure that there is no induced magnetization in the metal. We propose a theory of this effect based on the combined action of spin-dependent scattering from the magnetic interface and the spin-Hall effect in the bulk of the metal. At variance with previous theories, we predict the effect to be of first order in the spin-orbit coupling, just as the conventional anomalous Hall effect\u2014the only difference being the spatial separation of the spin-orbit interaction and the magnetization. For this reason we name this effect the nonlocal anomalous Hall effect \u2026",
+                "Tailoring Gilbert damping of metallic ferromagnetic thin films is one of the central interests in spintronics applications. Here we report a giant Gilbert damping anisotropy in epitaxial Co 50 Fe 50 thin films with a maximum-minimum damping ratio of 400%, determined by broadband spin-torque ferromagnetic resonance as well as inductive ferromagnetic resonance. We conclude that the origin of this damping anisotropy is the variation of the spin orbit coupling for different magnetization orientations in the cubic lattice, which is further corroborated from the magnitude of the anisotropic magnetoresistance in Co 50 Fe 50.",
+                "Anisotropic magnetoresistance (AMR), whose physical origin is attributed to the combination of spin dependent scattering and spin orbital coupling (SOC), usually displays simple angular dependence for polycrystalline ferromagnetic metals. By including generic spin dependent scattering and spin Hall (SH) terms in the Ohm's law, we explicitly show that various magneto-transport phenomena such as anomalous Hall (AH), SH, planar Hall (PH) and AMR could be quantitatively related for bulk polycrystalline ferromagnetic metals. We also discuss how AMR angular dependence is affected by the presence of interfacial SOC in magnetic layered structure.",
+                "Topological surface states (TSSs) in a topological insulator are expected to be able to produce a spin-orbit torque that can switch a neighboring ferromagnet. This effect may be absent if the ferromagnet is conductive because it can completely suppress the TSSs, but it should be present if the ferromagnet is insulating. This study reports TSS-induced switching in a bilayer consisting of a topological insulator Bi2Se3 and an insulating ferromagnet BaFe12O19. A charge current in Bi2Se3 can switch the magnetization in BaFe12O19 up and down. When the magnetization is switched by a field, a current in Bi2Se3 can reduce the switching field by ~4000 Oe. The switching efficiency at 3 K is 300 times higher than at room temperature; it is ~30 times higher than in Pt\/BaFe12O19. These strong effects originate from the presence of more pronounced TSSs at low temperatures due to enhanced surface conductivity and \u2026"
+            ],
+            [
+                [
+                    "condensed matter theory"
+                ]
+            ]
+        ]
+    ]
+}

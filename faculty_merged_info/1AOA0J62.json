@@ -1,0 +1,36 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "1AOA0J62",
+            "T0pUi7UAAAAJ",
+            [
+                "CellNet: network biology applied to stem cell engineering",
+                "Making a firm decision: multifaceted regulation of cell fate in the early mouse embryo",
+                "Origin and formation of the first two distinct cell types of the inner cell mass in the mouse embryo"
+            ],
+            [
+                "Somatic cell reprogramming, directed differentiation of pluripotent stem cells, and direct conversions between differentiated cell lineages represent powerful approaches to engineer cells for research and regenerative medicine. We have developed CellNet, a network biology platform that more accurately assesses the fidelity of cellular engineering than existing methodologies and generates hypotheses for improving cell derivations. Analyzing expression data from 56 published reports, we found that cells derived via directed differentiation more closely resemble their in vivo counterparts than products of direct conversion, as reflected by the establishment of target cell-type gene regulatory networks (GRNs). Furthermore, we discovered that directly converted cells fail to adequately silence expression programs of the starting population and that the establishment of unintended GRNs is common to virtually every \u2026",
+                "The preimplantation mammalian embryo offers a striking opportunity to address the question of how and why apparently identical cells take on separate fates. Two cell fate decisions are taken before the embryo implants; these decisions set apart a group of pluripotent cells, progenitors for the future body, from the distinct extraembryonic lineages of trophectoderm and primitive endoderm. New molecular, cellular and developmental insights reveal the interplay of transcriptional regulation, epigenetic modifications, cell position and cell polarity in these two fate decisions in the mouse. We discuss how mechanisms proposed in previously distinct models might work in concert to progressively reinforce cell fate decisions through feedback loops.",
+                "A crucial question in mammalian development is how cells of the early embryo differentiate into distinct cell types. The first decision is taken when cells undertake waves of asymmetric division that generate one daughter on the inside and one on the outside of the embryo. After this division, some cells on the inside remain pluripotent and give rise to the epiblast, and hence the future body, whereas others develop into the primitive endoderm, an extraembryonic tissue. How the fate of these inside cells is decided is unknown: Is the process random, or is it related to their developmental origins? To address this question, we traced all cells by live-cell imaging in intact, unmanipulated embryos until the epiblast and primitive endoderm became distinct. This analysis revealed that inner cell mass (ICM) cells have unrestricted developmental potential. However, cells internalized by the first wave of asymmetric divisions are \u2026"
+            ],
+            [
+                [
+                    "single-cell biology",
+                    "direct lineage reprogramming",
+                    "lineage tracing",
+                    "developmental biology"
+                ]
+            ]
+        ]
+    ]
+}

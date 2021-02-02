@@ -1,0 +1,204 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "To rationally design a productive heterologous biosynthesis system, it is essential to consider the suitability of foreign reactions for the specific endogenous metabolic infrastructure of a host. We developed a novel web server, called MRE, which, for a given pair of starting and desired compounds in a given chassis organism, ranks biosynthesis routes from the perspective of the integration of new reactions into the endogenous metabolic system. For each promising heterologous biosynthesis pathway, MRE suggests actual enzymes for foreign metabolic reactions and generates information on competing endogenous reactions for the consumption of metabolites. These unique, chassis-centered features distinguish MRE from existing pathway design tools and allow synthetic biologists to evaluate the design of their biosynthesis systems from a different angle. By using biosynthesis of a range of high-value natural \u2026",
+            "MRE: a web tool to suggest foreign enzymes for the biosynthesis pathway design with competing endogenous reactions in mind",
+            "Hiroyuki Kuwahara and Meshari Alazmi and Xuefeng Cui and Xin Gao",
+            "2016",
+            "LPfnClcAAAAJ:0EnyYjriUFMC",
+            30,
+            "https:\/\/academic.oup.com\/nar\/article-abstract\/44\/W1\/W217\/2499338",
+            "7338191047304222793",
+            "\/scholar?cites=7338191047304222793",
+            {
+                "2017":9,
+                "2018":4,
+                "2019":3,
+                "2020":12,
+                "2021":1
+            }
+        ],
+        [
+            " Motivation             : Protein homology detection, a fundamental problem in computational biology, is an indispensable step toward predicting protein structures and understanding protein functions. Despite the advances in recent decades on sequence alignment, threading and alignment-free methods, protein homology detection remains a challenging open problem. Recently, network methods that try to find transitive paths in the protein structure space demonstrate the importance of incorporating network information of the structure space. Yet, current methods merge the sequence space and the structure space into a single space, and thus introduce inconsistency in combining different sources of information.            Method             : We present a novel network-based protein homology detection method, CMsearch, based on cross-modal learning. Instead of exploring a single network built from \u2026",
+            "CMsearch: simultaneous exploration of protein sequence space and structure space improves not only protein homology detection but also protein structure prediction",
+            "Xuefeng Cui and Zhiwu Lu and Sheng Wang and Jim Jing-Yan Wang and Xin Gao",
+            "2016",
+            "LPfnClcAAAAJ:UebtZRa9Y70C",
+            25,
+            "https:\/\/academic.oup.com\/bioinformatics\/article-abstract\/32\/12\/i332\/2288851",
+            "3286431185943842880",
+            "\/scholar?cites=3286431185943842880",
+            {
+                "2018":5,
+                "2019":5,
+                "2020":14,
+                "2021":1
+            }
+        ],
+        [
+            " Motivation: Life science researchers often require an exhaustive list of protein coding genes similar to a given query gene. To find such genes, homology search tools, such as BLAST or PatternHunter, return a set of high-scoring pairs (HSPs). These HSPs then need to be correlated with existing sequence annotations, or assembled manually into putative gene structures. This process is error-prone and labor-intensive, especially in genomes without reliable gene annotation. Results: We have developed a homology search solution that automates this process, and instead of HSPs returns complete gene structures. We achieve better sensitivity and specificity by adapting a hidden Markov model for gene finding to reflect features of the query gene. Compared to traditional homology search, our novel approach identifies splice sites much more reliably and can even locate exons that were lost in \u2026",
+            "Homology search for genes",
+            "Xuefeng Cui and Tom\u00e1\u0161 Vina\u0159 and Bro\u0148a Brejov\u00e1 and Dennis Shasha and Ming Li",
+            "2007",
+            "LPfnClcAAAAJ:IjCSPb-OGe4C",
+            21,
+            "https:\/\/academic.oup.com\/bioinformatics\/article-abstract\/23\/13\/i97\/237396",
+            "8608785390554524550",
+            "\/scholar?cites=8608785390554524550",
+            {
+                "2007":1,
+                "2008":2,
+                "2009":3,
+                "2010":5,
+                "2011":4,
+                "2012":1,
+                "2013":1,
+                "2014":1,
+                "2015":1,
+                "2016":1,
+                "2017":1
+            }
+        ],
+        [
+            "Argonaute proteins (Ago) are core components of the RNA Induced Silencing Complex (RISC) that load and utilize small guide nucleic acids to silence mRNAs or cleave foreign DNAs. Despite the essential role of Ago in gene regulation and defense against virus, the molecular mechanism of guide-strand loading into Ago remains unclear. We explore such a mechanism in the bacterium Thermus thermophilus Ago (TtAgo), via a computational approach combining molecular dynamics, bias-exchange metadynamics, and protein\u2013DNA docking. We show that apo TtAgo adopts multiple closed states that are unable to accommodate guide-DNA. Conformations able to accommodate the guide are beyond the reach of thermal fluctuations from the closed states. These results suggest an induced-fit dominant mechanism for guide-strand loading in TtAgo, drastically different from the two-step mechanism for human Ago 2 \u2026",
+            "A Flexible Domain-Domain Hinge Promotes an Induced-fit Dominant Mechanism for the Loading of Guide-DNA into Argonaute Protein in Thermus thermophilus",
+            "Lizhe Zhu and Hanlun Jiang and Fu Kit Sheong and Xuefeng Cui and Xin Gao and Yanli Wang and Xuhui Huang",
+            "2016",
+            "LPfnClcAAAAJ:roLk4NBRz8UC",
+            16,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acs.jpcb.5b12426",
+            "992198141005571691",
+            "\/scholar?cites=992198141005571691",
+            {
+                "2017":8,
+                "2018":4,
+                "2019":4
+            }
+        ],
+        [
+            " Motivation: Biological molecules perform their functions through interactions with other molecules. Structure alignment of interaction interfaces between biological complexes is an indispensable step in detecting their structural similarities, which are keys to understanding their evolutionary histories and functions. Although various structure alignment methods have been developed to successfully access the similarities of protein structures or certain types of interaction interfaces, existing alignment tools cannot directly align arbitrary types of interfaces formed by protein, DNA or RNA molecules. Specifically, they require a \u2018blackbox preprocessing\u2019 to standardize interface types and chain identifiers. Yet their performance is limited and sometimes unsatisfactory. Results: Here we introduce a novel method, PROSTA-inter, that automatically determines and aligns interaction interfaces between two \u2026",
+            "Finding optimal interaction interface alignments between biological complexes",
+            "Xuefeng Cui and Hammad Naveed and Xin Gao",
+            "2015",
+            "LPfnClcAAAAJ:W7OEmFMy1HYC",
+            11,
+            "https:\/\/academic.oup.com\/bioinformatics\/article-abstract\/31\/12\/i133\/215868",
+            "2053066349591466253",
+            "\/scholar?cites=2053066349591466253",
+            {
+                "2015":3,
+                "2016":1,
+                "2017":3,
+                "2018":2,
+                "2019":2
+            }
+        ],
+        [
+            "At the core of RNA interference, the Argonaute proteins (Ago) load and utilize small guide nucleic acids to silence mRNAs or cleave foreign nucleic acids in a sequence specific manner. In recent years, based on extensive structural studies of Ago and its interaction with the nucleic acids, considerable progress has been made to reveal the dynamic aspects of various Ago-mediated processes. Here we review these novel insights into the guide-strand loading, duplex unwinding, and effects of seed mismatch, with a focus on two representative Agos, the human Ago 2 (hAgo2) and the bacterial Thermus thermophilus Ago (TtAgo). In particular, comprehensive molecular simulation studies revealed that although sharing similar overall structures, the two Agos have vastly different conformational landscapes and guide-strand loading mechanisms because of the distinct rigidity of their L1-PAZ hinge. Given the central role \u2026",
+            "Understanding the core of RNA interference: The dynamic aspects of Argonaute-mediated processes",
+            "Lizhe Zhu and Hanlun Jiang and Fu Kit Sheong and Xuefeng Cui and Yanli Wang and Xin Gao and Xuhui Huang",
+            "2017",
+            "LPfnClcAAAAJ:LkGwnXOMwfcC",
+            8,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0079610716300207",
+            "10219777671596002359",
+            "\/scholar?cites=10219777671596002359",
+            {
+                "2017":1,
+                "2018":2,
+                "2019":4,
+                "2020":1
+            }
+        ],
+        [
+            "Motivation: One common task in structural biology is to assess the similarities and differences among protein structures. A variety of structure alignment algorithms and programs has been designed and implemented for this purpose. A major drawback with existing structure alignment programs is that they require a large amount of computational time, rendering them infeasible for pairwise alignments on large collections of structures. To overcome this drawback, a fragment alphabet learned from known structures has been introduced. The method, however, considers local similarity only, and therefore occasionally assigns high scores to structures that are similar only in local fragments. Method: We propose a novel approach that eliminates false positives, through the comparison of both local and remote similarity, with little compromise in speed. Two kinds of contact libraries (ContactLib) are introduced to fingerprint \u2026",
+            "Fingerprinting protein structures effectively and efficiently",
+            "Xuefeng Cui and Shuai Cheng Li and Lin He and Ming Li",
+            "2014",
+            "LPfnClcAAAAJ:zYLM7Y9cAGgC",
+            8,
+            "https:\/\/academic.oup.com\/bioinformatics\/article-abstract\/30\/7\/949\/233056",
+            "15140884849398456528",
+            "\/scholar?cites=15140884849398456528",
+            {
+                "2014":1,
+                "2015":4,
+                "2016":2,
+                "2017":1
+            }
+        ],
+        [
+            "The protein structure classification problem, which is to assign a protein structure to a cluster of similar proteins, is one of the most fundamental problems in the construction and application of the protein structure space. Early manually curated protein structure classifications (e.g., SCOP and CATH) are very successful, but recently suffer the slow updating problem because of the increased throughput of newly solved protein structures. Thus, fully automatic methods to cluster proteins in the protein structure space have been designed and developed. In this study, we observed that the SCOP superfamilies are highly consistent with clustering trees representing hierarchical clustering procedures, but the tree cutting is very challenging and becomes the bottleneck of clustering accuracy. To overcome this challenge, we proposed a novel density-based K-nearest uphill clustering method that effectively eliminates noisy \u2026",
+            "K-nearest uphill clustering in the protein structure space",
+            "Xuefeng Cui and Xin Gao",
+            "2017",
+            "LPfnClcAAAAJ:Se3iqnhoufwC",
+            5,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0925231216309080",
+            "3686642761323054576",
+            "\/scholar?cites=3686642761323054576",
+            {
+                "2016":1,
+                "2017":1,
+                "2018":1,
+                "2019":2
+            }
+        ],
+        [
+            "A variety of methods have been proposed for structure similarity calculation, which are called structure alignment or superposition. One major shortcoming in current structure alignment algorithms is in their inherent design, which is based on local structure similarity. In this work, we propose a method to incorporate global information in obtaining optimal alignments and superpositions. Our method, when applied to optimizing the TM-score and the GDT score, produces significantly better results than current state-of-the-art protein structure alignment tools. Specifically, if the highest TM-score found by TMalign is lower than 0.6 and the highest TM-score found by one of the tested methods is higher than 0.5, there is a probability of 42% that TMalign failed to find TM-scores higher than 0.5, while the same probability is reduced to 2% if our method is used. This could significantly improve the accuracy of fold \u2026",
+            "Towards reliable automatic protein structure alignment",
+            "Xuefeng Cui and Shuai Cheng Li and Dongbo Bu and Ming Li",
+            "2013",
+            "LPfnClcAAAAJ:Y0pCki6q_DkC",
+            5,
+            "https:\/\/link.springer.com\/chapter\/10.1007\/978-3-642-40453-5_3",
+            "5463652683448896863",
+            "\/scholar?cites=5463652683448896863",
+            {
+                "2014":1,
+                "2015":3,
+                "2016":1
+            }
+        ],
+        [
+            "The Synthetic Biology Open Language (SBOL) is a community-driven open language to promote standardization in synthetic biology. To support the use of SBOL in metabolic engineering, we developed SBOLme, the first open-access repository of SBOL 2-compliant biochemical parts for a wide range of metabolic engineering applications. The URL of our repository is http:\/\/www.cbrc.kaust.edu.sa\/sbolme.",
+            "SBOLme: a repository of SBOL parts for metabolic engineering",
+            "Hiroyuki Kuwahara and Xuefeng Cui and Ramzan Umarov and Raik Grunberg and Chris J Myers and Xin Gao",
+            "2017",
+            "LPfnClcAAAAJ:KlAtU1dfN6UC",
+            4,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acssynbio.6b00278",
+            "13317188208928206619",
+            "\/scholar?cites=13317188208928206619",
+            {
+                "2017":2,
+                "2018":1,
+                "2019":1
+            }
+        ]
+    ]
+}

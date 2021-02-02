@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "TE93YGUK",
+            "XbNqQIoAAAAJ",
+            [
+                "Diffusion in disordered media",
+                "Resilience of the internet to random breakdowns",
+                "Breakdown of the internet under intentional attack",
+                "Diffusion and reactions in fractals and disordered systems",
+                "Efficient immunization strategies for computer networks and populations",
+                "Immunization and epidemic dynamics in complex networks",
+                "Percolation critical exponents in scale-free networks",
+                "Statics and dynamics of a diffusion-limited reaction: anomalous kinetics, nonequilibrium self-ordering, and a dynamic transition",
+                "Percolation in directed scale-free networks",
+                "Scale-free networks on lattices"
+            ],
+            [
+                "Diffusion in disordered systems does not follow the classical laws which describe transport in ordered crystalline media, and this leads to many anomalous physical properties. Since the application of percolation theory, the main advances in the understanding of these processes have come from fractal theory. Scaling theories and numerical simulations are important tools to describe diffusion processes (random walks: the \u2018ant in the labyrinth\u2019) on percolation systems and fractals. Different types of disordered systems exhibiting anomalous diffusion are presented (the incipient infinite percolation cluster, diffusion-limited aggregation clusters, lattice animals, and random combs), and scaling theories as well as numerical simulations of greater sophistication are described. Also, diffusion in the presence of singular distributions of transition rates is discussed and related to anomalous diffusion on disordered structures.",
+                "A common property of many large networks, including the Internet, is that the connectivity of the various nodes follows a scale-free power-law distribution, P (k)= c k\u2212 \u03b1. We study the stability of such networks with respect to crashes, such as random removal of sites. Our approach, based on percolation theory, leads to a general condition for the critical fraction of nodes, p c, that needs to be removed before the network disintegrates. We show analytically and numerically that for \u03b1\u2264 3 the transition never takes place, unless the network is finite. In the special case of the physical structure of the Internet (\u03b1\u2248 2.5), we find that it is impressively robust, with p c> 0.99.",
+                "We study the tolerance of random networks to intentional attack, whereby a fraction p of the most connected sites is removed. We focus on scale-free networks, having connectivity distribution P (k)\u223c k\u2212 \u03b1, and use percolation theory to study analytically and numerically the critical fraction p c needed for the disintegration of the network, as well as the size of the largest connected cluster. We find that even networks with \u03b1\u2264 3, known to be resilient to random removal of sites, are sensitive to intentional attack. We also argue that, near criticality, the average distance between sites in the spanning (largest) cluster scales with its mass, M, as M, rather than as log k M, as expected for random networks away from criticality.",
+                "Fractal structures are found everywhere in nature, and as a consequence anomalous diffusion has far reaching implications in a host of phenomena. This book describes diffusion and transport in disordered media such as fractals, porous rocks and random resistor networks. Part I contains material of general interest to statistical physics: fractals, percolation theory, regular random walks and diffusion, continuous time random walks and Levy walks, and flights. Part II covers anomalous diffusion in fractals and disordered media, while Part III serves as an introduction to the kinetics of diffusion-limited reactions. Part IV discusses the problem of diffusion-limited coalescence in one dimension. This book will be of particular interest to researchers requiring a clear introduction to the field. It will also be a valuable source to graduate students studying in areas of physics, chemistry, and engineering.",
+                "We present an effective immunization strategy for computer networks and populations with broad and, in particular, scale-free degree distributions. The proposed strategy, acquaintance immunization, calls for the immunization of random acquaintances of random nodes (individuals). The strategy requires no knowledge of the node degrees or any other global knowledge, as do targeted immunization strategies. We study analytically the critical threshold for complete immunization. We also study the strategy with respect to the susceptible-infected-removed epidemiological model. We show that the immunization threshold is dramatically reduced with the suggested strategy, for all studied cases.",
+                "We study the behavior of epidemic spreading in networks, and, in particular, scale free networks. We use the Susceptible-Infected-Removed (SIR) epidemiological model. We give simulation results for the dynamics of epidemic spreading. By mapping the model into a static bond-percolation model we derive analytical results for the total number of infected individuals. We study this model with various immunization strategies, including random, targeted and acquaintance immunization.",
+                "We study the behavior of scale-free networks, having connectivity distribution P (k)\u223c k\u2212 \u03bb, close to the percolation threshold. We show that for networks with 3< \u03bb< 4, known to undergo a transition at a finite threshold of dilution, the critical exponents are different than the expected mean-field values of regular percolation in infinite dimensions. Networks with 2< \u03bb< 3 possess only a percolative phase. Nevertheless, we show that in this case percolation critical exponents are well defined, near the limit of extreme dilution (where all sites are removed), and that also then the exponents bear a strong \u03bb dependence. The regular mean-field values are recovered only for \u03bb> 4.",
+                "We solve exactly the one-dimensional diffusion-limited single-species coagulation process (A+A\u2192A) with back reactions (A\u2192A+A) and\/or a steady input of particles (B\u2192A). The exact solution yields not only the steady-state concentration of particles, but also the exact time-dependent concentration as well as the time-dependent probability distribution for the distance between neighboring particles, i. e., the interparticle distribution function (IPDF). The concentration for this diffusion-limited reaction process does not obey the classical \u201cmean-field\u201d rate equation. Rather, the kinetics is described by a finite set of ordinary differential equations only in particular cases, with no such description holding in general. The reaction kinetics is linked to the spatial distribution of particles as reflected in the IPDFs. The spatial distribution of particles is totally random, i. e., the maximum entropy distribution, only in the steady \u2026",
+                "Many complex networks in nature have directed links, a property that affects the network\u2019s navigability and large-scale topology. Here we study the percolation properties of such directed scale-free networks with correlated in and out degree distributions. We derive a phase diagram that indicates the existence of three regimes, determined by the values of the degree exponents. In the first regime we regain the known directed percolation mean field exponents. In contrast, the second and third regimes are characterized by anomalous exponents, which we calculate analytically. In the third regime the network is resilient to random dilution, ie, the percolation threshold is p c\u2192 1.",
+                "We suggest a method for embedding scale-free networks, with degree distribution P (k)\u223c k\u2212 \u03bb, in regular Euclidean lattices accounting for geographical properties. The embedding is driven by a natural constraint of minimization of the total length of the links in the system. We find that all networks with \u03bb> 2 can be successfully embedded up to a (Euclidean) distance \u03be which can be made as large as desired upon the changing of an external parameter. Clusters of successive chemical shells are found to be compact (the fractal dimension is d f= d), while the dimension of the shortest path between any two sites is smaller than 1: d m i n=(\u03bb\u2212 2)\/(\u03bb\u2212 1\u2212 1\/d), contrary to all other known examples of fractals and disordered lattices."
+            ],
+            [
+                [
+                    "Complex Networks",
+                    "Dynamical Systems",
+                    "Diffusion-Limited Reactions",
+                    "Statistical Physics",
+                    "Biophysics"
+                ]
+            ]
+        ]
+    ]
+}

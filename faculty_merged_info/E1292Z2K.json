@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "E1292Z2K",
+            "NbXaSM0AAAAJ",
+            [
+                "Technical design report for the  ANDA (Anti P roton An nihilations at Da rmstadt) Straw Tube Tracker",
+                "First Measurement of Near-Threshold  Exclusive Photoproduction off the Proton",
+                "Experimental access to Transition Distribution Amplitudes with the PANDA experiment at FAIR",
+                "Recent developments with microchannel-plate PMTs",
+                "Search for a dark photon in electroproduced  pairs with the Heavy Photon Search experiment at JLab",
+                "Technical design report for the Barrel DIRC detector",
+                "Improved lifetime of microchannel-plate PMTs",
+                "Development of an Endcap DIRC for PANDA",
+                "The endcap disc DIRC of PANDA",
+                "Simulation and reconstruction of the PANDA Barrel DIRC"
+            ],
+            [
+                "This document describes the technical layout and the expected performance of the Straw Tube Tracker (STT), the main tracking detector of the ANDA target spectrometer. The STT encloses a Micro-Vertex-Detector (MVD) for the inner tracking and is followed in beam direction by a set of GEM stations. The tasks of the STT are the measurement of the particle momentum from the reconstructed trajectory and the measurement of the specific energy loss for a particle identification. Dedicated simulations with full analysis studies of certain proton-antiproton reactions, identified as being benchmark tests for the whole ANDA scientific program, have been performed to test the STT layout and performance. The results are presented, and the time lines to construct the STT are described.",
+                "We report on the measurement of the \u03b3 p\u2192 J\/\u03c8 p cross section from E \u03b3= 11.8 GeV down to the threshold at 8.2 GeV using a tagged photon beam with the GlueX experiment. We find that the total cross section falls toward the threshold less steeply than expected from two-gluon exchange models. The differential cross section d \u03c3\/d t has an exponential slope of 1.67\u00b10.39 GeV\u2212 2 at 10.7 GeV average energy. The LHCb pentaquark candidates P c+ can be produced in the s channel of this reaction. We see no evidence for them and set model-dependent upper limits on their branching fractions B (P c+\u2192 J\/\u03c8 p) and cross sections \u03c3 (\u03b3 p\u2192 P c+)\u00d7 B (P c+\u2192 J\/\u03c8 p).",
+                "Baryon-to-meson Transition Distribution Amplitudes (TDAs) encoding valuable new information on hadron structure appear as building blocks in the collinear factorized description for several types of hard exclusive reactions. In this paper, we address the possibility of accessing nucleon-to-pion (\u03c0N) TDAs from  reaction with the future P\u0304ANDA detector at the FAIR facility. At high center-of-mass energy and high invariant mass squared of the lepton pair q 2, the amplitude of the signal channel  admits a QCD factorized description in terms of \u03c0N TDAs and nucleon Distribution Amplitudes (DAs) in the forward and backward kinematic regimes. Assuming the validity of this factorized description, we perform feasibility studies for measuring  with the P\u0304ANDA detector. Detailed simulations on signal reconstruction efficiency as well as on rejection of the most severe \u2026",
+                "Microchannel-plate (MCP) PMTs are the favored photon sensors for the DIRC detectors of the PANDA experiment at FAIR. Until recently the main drawback of MCP-PMTs were serious aging effects which led to a limited lifetime due to a rapidly decreasing quantum efficiency (QE) of the photo cathode (PC) as the integrated anode charge (IAC) increased. In the latest models of PHOTONIS and Hamamatsu an innovative atomic layer deposition (ALD) technique is applied to overcome these limitations. During the last five years comprehensive aging tests with ALD coated MCP-PMTs were performed and the results were compared to tubes treated with other techniques. The QE in dependence of the IAC was measured as a function of the wavelength and the position across the PC. For the best performing tubes the lifetime improvement in comparison to the older MCP-PMTs is a factor of> 50 based on an IAC of \u2026",
+                "The Heavy Photon Search experiment took its first data in a 2015 engineering run using a 1.056 GeV, 50 nA electron beam provided by CEBAF at the Thomas Jefferson National Accelerator Facility, searching for a prompt, electroproduced dark photon with a mass between 19 and 81 MeV\/c 2. A search for a resonance in the e+ e\u2212 invariant mass distribution, using 1.7 days (1170 nb\u2212 1) of data, showed no evidence of dark photon decays above the large QED background, confirming earlier searches and demonstrating the full functionality of the experiment. Upper limits on the square of the coupling of the dark photon to the standard model photon are set at the level of 6\u00d7 10\u2212 6. Future runs with higher luminosity will explore new territory.",
+                "The (anti-Proton ANnihiliation at DArmstadt) experiment will be one of the four flagship experiments at the new international accelerator complex FAIR (Facility for Antiproton and Ion Research) in Darmstadt, Germany.  will address fundamental questions of hadron physics and quantum chromodynamics using high-intensity cooled antiproton beams with momenta between 1.5 and 15 GeV\/c and a design luminosity of up to 2\u00d7 10 32 cm\u2212 2 s\u2212 1. Excellent particle identification (PID) is crucial to the success of the  physics program. Hadronic PID in the barrel region of the target spectrometer will be performed by a fast and compact Cherenkov counter using the detection of internally reflected Cherenkov light (DIRC) technology. It is designed to cover the polar angle range from 22 to 140 and will provide at least 3 standard deviations (sd) \u03c0\/K separation up to 3.5 GeV\/c, matching the expected upper limit \u2026",
+                "The charged particle identification at the PANDA experiment will be mainly performed with DIRC detectors. Because of their advantageous properties the preferred photon sensors are MCP-PMTs. However, until recently these devices showed serious aging problems which resulted in a diminishing quantum efficiency (QE) of the photo cathode. By applying innovative countermeasures against the aging causes, the manufacturers recently succeeded in drastically improving the lifetime of MCP-PMTs. Especially the application of an ALD coating technique to seal the material of the micro-channels proves very powerful and results in a lifetime of\u2248 6 C\/cm 2 integrated anode charge without a substantial QE degradation for the latest PHOTONIS XP85112. This paper will present a comparative measurement of the lifetime of several older and recent MCP-PMTs demonstrating this progress.",
+                "The aim of this research is to develop a planar DIRC detector showing advantages and performance similar to a classical, barrel shaped DIRC, but at smaller polar angles which cannot be accessed using a cylindrical geometry. The device will complement the PANDA Barrel DIRC by covering polar angles from 5\u00b0 to 22\u00b0. The envisaged \u03c0\/K-separation is\u2265 3 \u03c3 up to 4 GeV\/c. A major challenge is the adaption of the device to the PANDA environment including a magnetic field of~ 1\u20132 T, high rates and radiation, limited space for optics and sensors as well as the lack of a common first-level trigger. This paper discusses a detector design which forms a compromise between these constraints and available hardware, a specific analytic reconstruction method, a performance estimation based on Geant4 simulations and finally the successful particle identification using a recent R&D prototype.",
+                "The Endcap Disc DIRC (EDD) for PANDA has been designed to identify traversing pions, kaons and protons in the future PANDA experiment. Its central part is a 2 cm thick fused silica plate. Focussing optics are attached to the outer rim of the plate, outside of the acceptance of the experiment. Fast, high-resolution MCP-PMTs, designed to register single Cherenkov photons, have been tested in magnetic field. Filters limit the spectral acceptance of the sensors to reduce dispersion effects and to extend their lifetime. A compact and fast readout is realized with ASICs. Analytical reconstruction algorithms allow for fast particle identification. The angular resolution of a DIRC prototype has been simulated in Monte Carlo and confirmed in a test beam. The final detector will be able to provide a 4 \u03c3 \u03c0\/K separation up to a momentum of 4 GeV\/c.",
+                "Hadronic particle identification (PID) in the barrel region of the PANDA experiment at the new Facility for Antiproton and Ion Research in Europe (FAIR) at GSI, Darmstadt will be provided by a DIRC (Detection of Internally Reflected Cherenkov light) counter. To optimize the performance and reduce the detector cost, detailed simulations of different design elements, such as the width of the radiators, the shape of the expansion volume, and the type of focusing system, were performed using Geant. Custom reconstruction algorithms were developed to match the detector geometry. We will discuss the single photon resolution and photon yield as well as the PID performance for the Barrel DIRC baseline design and several detector design options."
+            ],
+            [
+                [
+                    "nuclear physics",
+                    "hadron physics",
+                    "detector physics",
+                    "exotics"
+                ]
+            ]
+        ]
+    ]
+}

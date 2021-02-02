@@ -1,0 +1,173 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "data":[
+        [
+            "We study the constraints of crossing symmetry and unitarity in general 3D conformal field theories. In doing so we derive new results for conformal blocks appearing in four-point functions of scalars and present an efficient method for their computation in arbitrary space-time dimension. Comparing the resulting bounds on operator dimensions and product-expansion coefficients in 3D to known results, we find that the 3D Ising model lies at a corner point on the boundary of the allowed parameter space. We also derive general upper bounds on the dimensions of higher spin operators, relevant in the context of theories with weakly broken higher spin symmetries.",
+            "Solving the 3D Ising model with the conformal bootstrap",
+            "Sheer El-Showk and Miguel F Paulos and David Poland and Slava Rychkov and David Simmons-Duffin and Alessandro Vichi",
+            "2012",
+            "yyAUdh4AAAAJ:UeHWp8X0CEIC",
+            572,
+            "https:\/\/journals.aps.org\/prd\/abstract\/10.1103\/PhysRevD.86.025022",
+            "1495924328104832380",
+            "\/scholar?cites=1495924328104832380",
+            {
+                "2012":6,
+                "2013":20,
+                "2014":40,
+                "2015":55,
+                "2016":94,
+                "2017":94,
+                "2018":92,
+                "2019":77,
+                "2020":93,
+                "2021":1
+            }
+        ],
+        [
+            "We use the conformal bootstrap to perform a precision study of the operator spectrum of the critical 3d Ising model. We conjecture that the 3d Ising spectrum minimizes the central charge  in the space of unitary solutions to crossing symmetry. Because extremal solutions to crossing symmetry are uniquely determined, we are able to precisely reconstruct the first several -even operator dimensions and their OPE coefficients. We observe that a sharp transition in the operator spectrum occurs at the 3d Ising dimension , and find strong numerical evidence that operators decouple from the spectrum as one approaches the 3d Ising point. We compare this behavior to the analogous situation in 2d, where the disappearance of operators can be understood in terms of degenerate Virasoro representations.",
+            "Solving the 3d ising model with the conformal bootstrap ii. c-minimization and precise critical exponents",
+            "Sheer El-Showk and Miguel F Paulos and David Poland and Slava Rychkov and David Simmons-Duffin and Alessandro Vichi",
+            "2014",
+            "yyAUdh4AAAAJ:Se3iqnhoufwC",
+            460,
+            "https:\/\/link.springer.com\/article\/10.1007\/s10955-014-1042-7",
+            "17075140928694353241",
+            "\/scholar?cites=17075140928694353241",
+            {
+                "2014":18,
+                "2015":48,
+                "2016":81,
+                "2017":83,
+                "2018":81,
+                "2019":60,
+                "2020":86,
+                "2021":3
+            }
+        ],
+        [
+            "We develop the embedding formalism for conformal field theories, aimed at doing computations with symmetric traceless operators of arbitrary spin. We use an indexfree notation where tensors are encoded by polynomials in auxiliary polarization vectors. The efficiency of the formalism is demonstrated by computing the tensor structures allowed in n-point conformal correlation functions of tensors operators. Constraints due to tensor conservation also take a simple form in this formalism. Finally, we obtain a perfect match between the number of independent tensor structures of conformal correlators in d dimensions and the number of independent structures in scattering amplitudes of spinning particles in (d+ 1)-dimensional Minkowski space.",
+            "Spinning conformal correlators",
+            "Miguel S Costa and Joao Penedones and David Poland and Slava Rychkov",
+            "2011",
+            "yyAUdh4AAAAJ:2osOgNQ5qMEC",
+            400,
+            "https:\/\/link.springer.com\/article\/10.1007\/JHEP11(2011)071",
+            "14681712350345366419",
+            "\/scholar?cites=14681712350345366419",
+            {
+                "2011":1,
+                "2012":20,
+                "2013":26,
+                "2014":20,
+                "2015":32,
+                "2016":42,
+                "2017":55,
+                "2018":57,
+                "2019":59,
+                "2020":83,
+                "2021":4
+            }
+        ],
+        [
+            "We take an analytic approach to the CFT bootstrap, studying the 4-pt correlators of d> 2 dimensional CFTs in an Eikonal-type limit, where the conformal cross ratios satisfy| u|\u226a| \u03c5|< 1. We prove that every CFT with a scalar operator \u03d5 must contain infinite sequences of operators with twist approaching \u03c4\u2192 2\u0394 \u03d5+ 2n for each integer n as \u2113\u2192\u221e. We show how the rate of approach is controlled by the twist and OPE coefficient of the leading twist operator in the \u03d5\u00d7 \u03d5 OPE, and we discuss SCFTs and the 3d Ising Model as examples. Additionally, we show that the OPE coefficients of other large spin operators appearing in the OPE are bounded as \u2113\u2192\u221e. We interpret these results as a statement about superhorizon locality in AdS for general CFTs.",
+            "The analytic bootstrap and AdS superhorizon locality",
+            "A Liam Fitzpatrick and Jared Kaplan and David Poland and David Simmons-Duffin",
+            "2013",
+            "yyAUdh4AAAAJ:W7OEmFMy1HYC",
+            368,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/JHEP12(2013)004.pdf",
+            "2978806660912546690",
+            "\/scholar?cites=2978806660912546690",
+            {
+                "2012":1,
+                "2013":5,
+                "2014":19,
+                "2015":25,
+                "2016":41,
+                "2017":63,
+                "2018":65,
+                "2019":60,
+                "2020":87,
+                "2021":2
+            }
+        ],
+        [
+            "Conformal field theories have been long known to describe the fascinating universal physics of scale invariant critical points. They describe continuous phase transitions in fluids, magnets, and numerous other materials, while at the same time sit at the heart of our modern understanding of quantum field theory. For decades it has been a dream to study these intricate strongly coupled theories nonperturbatively using symmetries and other consistency conditions. This idea, called the conformal bootstrap, saw some successes in two dimensions but it is only in the last ten years that it has been fully realized in three, four, and other dimensions of interest. This renaissance has been possible due to both significant analytical progress in understanding how to set up the bootstrap equations and the development of numerical techniques for finding or constraining their solutions. These developments have led to a number of \u2026",
+            "The conformal bootstrap: Theory, numerical techniques, and applications",
+            "David Poland and Slava Rychkov and Alessandro Vichi",
+            "2019",
+            "yyAUdh4AAAAJ:eP5N1itS6b0C",
+            296,
+            "https:\/\/journals.aps.org\/rmp\/abstract\/10.1103\/RevModPhys.91.015002",
+            "10357892619078927437",
+            "\/scholar?cites=10357892619078927437",
+            {
+                "2018":18,
+                "2019":83,
+                "2020":184,
+                "2021":10
+            }
+        ],
+        [
+            "We make precise determinations of the leading scaling dimensions and operator product expansion (OPE) coefficients in the 3d Ising, O (2), and O (3) models from the conformal bootstrap with mixed correlators. We improve on previous studies by scanning over possible relative values of the leading OPE coefficients, which incorporates the physical information that there is only a single operator at a given scaling dimension. The scaling dimensions and OPE coefficients obtained for the 3d Ising model,(\u0394 \u03c3, \u0394 \u03f5, \u03bb \u03c3\u03c3\u03f5, \u03bb \u03f5\u03f5\u03f5)=(0. 5181489 (10), 1. 412625 (10), 1. 0518537 (41), 1. 532435 (19), give the most precise determinations of these quantities to date.",
+            "Precision Islands in the Ising and O(N) Models",
+            "Filip Kos and David Poland and David Simmons-Duffin and Alessandro Vichi",
+            "2016",
+            "yyAUdh4AAAAJ:5AT-p8ixKR4C",
+            281,
+            "https:\/\/link.springer.com\/article\/10.1007\/JHEP08(2016)036",
+            "16557414659826173420",
+            "\/scholar?cites=16557414659826173420",
+            {
+                "2016":17,
+                "2017":56,
+                "2018":66,
+                "2019":54,
+                "2020":82,
+                "2021":5
+            }
+        ],
+        [
+            "We study the conformal bootstrap for systems of correlators involving nonidentical operators. The constraints of crossing symmetry and unitarity for such mixed correlators can be phrased in the language of semidefinite programming. We apply this formalism to the simplest system of mixed correlators in 3D CFTs with a \u2124 2 global symmetry. For the leading \u2124 2-odd operator \u03c3 and \u2124 2-even operator \u03f5, we obtain numerical constraints on the allowed dimensions (\u0394 \u03c3, \u0394 \u03f5) assuming that \u03c3 and \u03f5 are the only relevant scalars in the theory. These constraints yield a small closed region in (\u0394 \u03c3, \u0394 \u03f5) space compatible with the known values in the 3D Ising CFT.",
+            "Bootstrapping mixed correlators in the 3D Ising model",
+            "Filip Kos and David Poland and David Simmons-Duffin",
+            "2014",
+            "yyAUdh4AAAAJ:_kc_bZDykSQC",
+            281,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/JHEP11(2014)109.pdf",
+            "15037388383023024946",
+            "\/scholar?cites=15037388383023024946",
+            {
+                "2014":4,
+                "2015":25,
+                "2016":51,
+                "2017":45,
+                "2018":50,
+                "2019":46,
+                "2020":56,
+                "2021":4
+            }
+        ]
+    ]
+}

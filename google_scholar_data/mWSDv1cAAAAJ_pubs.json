@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Most information retrieval technologies are designed to facilitate information discovery. However, much knowledge work involves finding and re-using previously seen information. We describe the design and evaluation of a system, called Stuff I've Seen (SIS), that facilitates information re-use. This is accomplished in two ways. First, the system provides a unified index of information that a person has seen, whether it was seen as email, web page, document, appointment, etc. Second, because the information has been seen before, rich contextual cues can be used in the search interface. The system has been used internally by more than 230 employees. We report on both qualitative and quantitative aspects of system use. Initial findings show that time and people are important retrieval cues. Users find information more easily using SIS, and use other search tools less frequently after installation.",
+            "Stuff I've seen: a system for personal information retrieval and re-use",
+            "Susan Dumais and Edward Cutrell and Jonathan J Cadiz and Gavin Jancke and Raman Sarin and Daniel C Robbins",
+            "2003",
+            "mWSDv1cAAAAJ:blknAaTinKkC",
+            1157,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/860435.860451",
+            "1336088463994314748",
+            "\/scholar?cites=1336088463994314748",
+            {
+                "2003":5,
+                "2004":39,
+                "2005":70,
+                "2006":80,
+                "2007":87,
+                "2008":108,
+                "2009":93,
+                "2010":93,
+                "2011":85,
+                "2012":78,
+                "2013":60,
+                "2014":51,
+                "2015":50,
+                "2016":56,
+                "2017":57,
+                "2018":46,
+                "2019":48,
+                "2020":24,
+                "2021":3
+            }
+        ]
+    ]
+}

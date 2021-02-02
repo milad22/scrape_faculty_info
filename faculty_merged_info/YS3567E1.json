@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "YS3567E1",
+            "RKPAeA8AAAAJ",
+            [
+                "Demonstration of ignition radiation temperatures in indirect-drive inertial confinement fusion hohlraums",
+                "Generation of scaled protogalactic seed magnetic fields in laser-produced shock waves",
+                "Ultrafast melting of carbon induced by intense proton beams",
+                "Design, construction, and calibration of a three-axis, high-frequency magnetic probe (-dot probe) as a diagnostic for exploding plasmas",
+                "Plasmons in strongly coupled shock-compressed matter",
+                "Effect of nonlocal transport on heat-wave propagation",
+                "Experiments and multiscale simulations of laser propagation through ignition-scale plasmas",
+                "Measurement of carbon ionization balance in high-temperature plasma mixtures by temporally resolved X-ray scattering",
+                "Backscatter measurements for NIF ignition targets (invited)",
+                "Radiation-driven hydrodynamics of high-Z hohlraums on the National Ignition Facility"
+            ],
+            [
+                "We demonstrate the hohlraum radiation temperature and symmetry required for ignition-scale inertial confinement fusion capsule implosions. Cryogenic gas-filled hohlraums with 2.2 mm-diameter capsules are heated with unprecedented laser energies of 1.2 MJ delivered by 192 ultraviolet laser beams on the National Ignition Facility. Laser backscatter measurements show that these hohlraums absorb 87% to 91% of the incident laser power resulting in peak radiation temperatures of T RAD= 300 eV and a symmetric implosion to a 100 \u03bc m diameter hot core.",
+                "The standard model for the origin of galactic magnetic fields is through the amplification of seed fields via dynamo or turbulent processes to the level consistent with present observations 1, 2, 3. Although other mechanisms may also operate 4, 5, currents from misaligned pressure and temperature gradients (the Biermann battery process) inevitably accompany the formation of galaxies in the absence of a primordial field. Driven by geometrical asymmetries in shocks 6 associated with the collapse of protogalactic structures, the Biermann battery is believed to generate tiny seed fields to a level of about 10\u2212 21 gauss (refs 7, 8). With the advent of high-power laser systems in the past two decades, a new area of research has opened in which, using simple scaling relations 9, 10, astrophysical environments can effectively be reproduced in the laboratory 11, 12. Here we report the results of an experiment that produced \u2026",
+                "Laser-produced proton beams have been used to achieve ultrafast volumetric heating of carbon samples at solid density. The isochoric melting of carbon was probed by a scattering of x rays from a secondary laser-produced plasma. From the scattering signal, we have deduced the fraction of the material that was melted by the inhomogeneous heating. The results are compared to different theoretical approaches for the equation of state which suggests modifications from standard models.",
+                "A three-axis, 2.5 mm overall diameter differential magnetic probe (also known as B-dot probe) is discussed in detail from its design and construction to its calibration and use as diagnostic of fast transient effects in exploding plasmas. A design and construction method is presented as a means to reduce stray pickup, eliminate electrostatic pickup, reduce physical size, and increase magnetic signals while maintaining a high bandwidth. The probe\u2019s frequency response is measured in detail from 10 kHz to 50 MHz using the presented calibration method and compared to theory. The effect of the probe\u2019s self-induction as a first order correction in frequency, O(\u03c9), on experimental signals and magnetic field calculations is discussed. The probe\u2019s viability as a diagnostic is demonstrated by measuring the magnetic field compression and diamagnetism of a sub-Alfv\u00e9nic (\u223c500\u2002km\/s,MA\u223c0.36) flow created from the \u2026",
+                "We present the first measurements of the plasmon dispersion and damping in laser shock-compressed solid matter. Petawatt laser produced K\u2212 \u03b1 radiation scatters on boron targets compressed by a 10 ns-long 400 J laser pulse. In the vicinity of the Fermi momentum, the scattering spectra show dispersionless, collisionally damped plasmons, indicating a strongly coupled electron liquid. These observations agree with calculations that include the Born-Mermin approximation to account for electron-ion collisional damping and local field corrections reflecting electron-electron correlations.",
+                "We present the first direct measurements of spatially and temporally resolved temperature and density profiles produced by nonlocal transport in a laser plasma. Absolutely calibrated measurements have been performed by Rayleigh scattering and by resolving the ion-acoustic wave spectra across the plasma volume with Thomson scattering. We find that the electron temperature and density profiles disagree with flux-limited models, but are consistent with nonlocal transport modeling.",
+                "With the next generation of high-power laser facilities for inertial fusion coming online 1, 2, ensuring laser beam propagation through centimetre-scale plasmas is a key physics issue for reaching ignition. Existing experimental results 3, 4, 5 including the most recent one 6 are limited to small laser spots, low-interaction laser beam energies and small plasma volumes of 1\u20132 mm. Here, we demonstrate the propagation of an intense, high-energy, ignition-size laser beam through fusion-size plasmas on the National Ignition Facility (NIF) and find the experimental measurements to agree with full-scale modelling. Previous attempts to apply computer modelling as a predictive capability have been limited by the inherently multiscale description of the full laser\u2013plasma interaction processes 7, 8, 9, 10, 11. The findings of this study validate supercomputer modelling as an essential tool for the design of future ignition \u2026",
+                "We have measured carbon ionization balance in a multi-component plasma in the high-temperature, up to fully ionized, regime by spectrally resolved X-ray scattering. In particular, the measurements have been performed in an underdense (n e\u2248 10 21 cm-3) 0.35-\u03bc m laser-produced plasma, containing a mixture of C, H with Al and Ar impurities, by using time-resolved back-scattered spectra from a 9.0 keV Zn He-\u03b1 X-ray probe detected with a high-efficiency graphite Bragg crystal coupled to a framing camera. Measured values for the plasma temperature and carbon ionization state as well as impurity concentrations were obtained by fitting the Doppler-broadened and Compton-shifted scattered spectra at various times after the plasma heating with a modified X-ray form factor that includes the full effects of cross-correlation between different species. These data test collisional-radiative and radiation hydrodynamics \u2026",
+                "Backscattered light via laser-plasma instabilities has been measured in early NIF hohlraum experiments on two beam quads using a suite of detectors. A full aperture backscatter system and near backscatter imager (NBI) instrument separately measure the stimulated Brillouin and stimulated Raman scattered light. Both instruments work in conjunction to determine the total backscattered power to an accuracy of \u223c15%. In order to achieve the power accuracy we have added time-resolution to the NBI for the first time. This capability provides a temporally resolved spatial image of the backscatter which can be viewed as a movie.",
+                "The first hohlraum experiments on the National Ignition Facility (NIF) using the initial four laser beams tested radiation temperature limits imposed by plasma filling. For a variety of hohlraum sizes and pulse lengths, the measured x-ray flux shows signatures of filling that coincide with hard x-ray emission from plasma streaming out of the hohlraum. These observations agree with hydrodynamic simulations and with an analytical model that includes hydrodynamic and coronal radiative losses. The modeling predicts radiation temperature limits with full NIF (1.8 MJ), greater, and of longer duration than required for ignition hohlraums."
+            ],
+            [
+                [
+                    "Plasma Physics"
+                ]
+            ]
+        ]
+    ]
+}

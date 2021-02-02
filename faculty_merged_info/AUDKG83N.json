@@ -1,0 +1,46 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "AUDKG83N",
+            "5OR1PGcAAAAJ",
+            [
+                "Lattice Boltzmann formulation for conjugate heat transfer in heterogeneous media",
+                "An inverse problem to estimate relaxation parameter and order of fractionality in fractional single-phase-lag heat equation",
+                "Explicit and implicit finite difference schemes for fractional Cattaneo equation",
+                "Analytical solution of the stagnation-point flow in a porous medium by using the homotopy analysis method",
+                "Tuning the random walk of active colloids: From individual run-and-tumble to dynamic clustering",
+                "Homotopy analysis solution of free convection flow on a horizontal impermeable surface embedded in a saturated porous medium",
+                "Modeling diffusion to thermal wave heat propagation by using fractional heat conduction constitutive model",
+                "Quincke rotor dynamics in confinement: rolling and hovering"
+            ],
+            [
+                "In this paper, we propose an approach for studying conjugate heat transfer using the lattice Boltzmann method (LBM). The approach is based on reformulating the lattice Boltzmann equation for solving the conservative form of the energy equation. This leads to the appearance of a source term, which introduces the jump conditions at the interface between two phases or components with different thermal properties. The proposed source term formulation conserves conductive and advective heat flux simultaneously, which makes it suitable for modeling conjugate heat transfer in general multiphase or multicomponent systems. The simple implementation of the source term approach avoids any correction of distribution functions neighboring the interface and provides an algorithm that is independent from the topology of the interface. Moreover, our approach is independent of the choice of lattice discretization and can \u2026",
+                "In this paper, an inverse analysis is performed for simultaneous estimation of relaxation time and order of fractionality in fractional single-phase-lag heat equation. This fractional heat conduction equation is applied on two physical problems. In inverse procedure, solutions of a previously validated linear dual-phase-lag model on the physical problems under study have been used as the measured temperatures. The inverse fractional single-phase-lag heat conduction problem is solved using the nonlinear parameter estimation technique based on the Levenberg\u2013Marquardt method. The results of the present study show that the Levenberg\u2013Marquardt method can be successfully applied on the inverse fractional heat transfer problem. The solution procedures employed in the present study for direct and inverse problems have greatly increased the reliability and success of parameter estimation problem. In the present \u2026",
+                "In this paper, the numerical solution of fractional (non-integer)-order Cattaneo equation for describing anomalous diffusion has been investigated. Two finite difference schemes namely an explicit predictor\u2013corrector and totally implicit schemes have been developed. In developing each scheme, a separate formulation approach for the governing equations has been considered. The explicit predictor\u2013corrector scheme is the fractional generalization of well-known MacCormack scheme and has been called Generalized MacCormack scheme. This scheme solves two coupled low-order equations and simultaneously computes the flux term with the main variable. Fully implicit scheme however solves a single high-order undecomposed equation. For Generalized MacCormack scheme, stability analysis has been studied through Fourier method. Through a numerical test, the experimental order of convergency of both \u2026",
+                "In this literature, the analytic solution of the non-linear Brinkman equation for the stagnation-point flow in a porous medium is obtained using the newly developed analytic method, namely the homotopy analysis method (HAM). The analytic results are compared with the numerical solution (NS) and the comparison reveals that a good agreement exists between the NS and HAM solution. Also the convergence of the obtained HAM solution is discussed explicitly. The obtained analytic solution is valid for all values of the dimensionless parameter \u03b2 as it is shown later in the article.",
+                "Active particles such as swimming bacteria or self-propelled colloids spontaneously self-organize into large-scale dynamic structures. The emergence of these collective states from the motility pattern of the individual particles, typically a random walk, is yet to be probed in a well-defined synthetic system. Here, we report the experimental realization of tunable colloidal motion that reproduces run-and-tumble and L\u00e9vy trajectories. We utilize the Quincke effect to achieve controlled sequences of repeated particle runs and random reorientations. We find that a population of these random walkers exhibit behaviors reminiscent of bacterial suspensions such as dynamic clusters and mesoscale turbulentlike flows.",
+                "In this paper, the analytic solution of the buoyancy-driven flow over a horizontal impermeable flat plate embedded in a saturated porous medium is derived using the newly developed analytic method, namely the homotopy analysis method (HAM). The HAM results show great agreement comparing with numerical results. HAM contains an auxiliary parameter \u210f that provides a simple way of controlling and adjusting the convergence region. The resultant analytic solution is valid for all acceptable values of the temperature exponent parameter \u03bb.",
+                "Based on the recently introduced fractional Taylor\u2019s formula, a fractional heat conduction constitutive equation is formulated by expanding the single-phase lag model using the fractional Taylor\u2019s formula. Combining with the energy balance equation, the derived fractional heat conduction equation has been shown to be capable of modeling diffusion-to-Thermal wave behavior of heat propagation by changing the order of fractional differentiation. Finally, finite sine-Fourier and Laplace transforms are employed to find the exact solution of a signaling problem.",
+                "The Quincke effect is an electrohydrodynamic instability which gives rise to a torque on a dielectric particle in a uniform DC electric field. Previous studies reported that a sphere initially resting on the electrode rolls with steady velocity. We experimentally find that in strong fields the rolling becomes unsteady, with time-periodic velocity. Furthermore, we find another regime, where the rotating sphere levitates in the space between the electrodes. Our experimental results show that the onset of Quincke rotation strongly depends on particle confinement and the threshold for rolling is higher compared to rotation in the hovering state."
+            ],
+            [
+                [
+                    "Active Matter",
+                    "Anomalous Transport",
+                    "Fractional Calculus",
+                    "Lattice Boltzmann Method"
+                ]
+            ]
+        ]
+    ]
+}

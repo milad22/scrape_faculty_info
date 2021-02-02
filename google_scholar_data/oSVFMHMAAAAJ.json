@@ -1,0 +1,55 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "oSVFMHMAAAAJ",
+            "Peter Faguy",
+            "Energy Efficiency and Renewable Energy, U.S. Department of Energy",
+            "@ee.doe.gov",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=oSVFMHMAAAAJ",
+            2257,
+            [
+                "electrochemistry",
+                "energy storage and conversion",
+                "materials science",
+                "analytical chemistry"
+            ],
+            491,
+            20,
+            9,
+            28,
+            8,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"tvQY9iIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alan Heeger",
+                    "affiliation":"Professor of Physics, Professor of Materials, University of California Santa Barbara"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "1UbzzQcAAAAJ",
+            "Rahul Sarpeshkar",
+            "Thomas E. Kurtz Professor, Professor of Engg., Microbiol.& Immunol., Physics, Mol. and Syst. Bio",
+            "@dartmouth.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=1UbzzQcAAAAJ",
+            11627,
+            [
+                "Analog Circuits",
+                "Bioelectronics",
+                "Synthetic Biology",
+                "Ultra Low Power Implants",
+                "Bio-inspired and Quantum Computers"
+            ],
+            4147,
+            53,
+            26,
+            112,
+            65,
+            [
+
+            ]
+        ]
+    ]
+}

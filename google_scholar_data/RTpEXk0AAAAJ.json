@@ -1,0 +1,136 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "RTpEXk0AAAAJ",
+            "Yanbei Chen",
+            "California Institute of Technology",
+            "@caltech.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=RTpEXk0AAAAJ",
+            67866,
+            [
+                "Physics"
+            ],
+            51539,
+            115,
+            75,
+            316,
+            262,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"aC1x15kAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Miao Haixing",
+                    "affiliation":"University of Birmingham"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"aE8huIkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Parameswaran Ajith",
+                    "affiliation":"International Centre for Theoretical Sciences"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"lOK_rucAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Denis Pollney",
+                    "affiliation":"Rhodes University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"egw5eS8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sascha Husa",
+                    "affiliation":"Associate Professor of Physics, Universitat de les Illes Balears"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"NmbTrBEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Geoffrey Lovelace",
+                    "affiliation":"Associate Professor of Physics, California State University, Fullerton"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fyeTFx4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ulrich Sperhake",
+                    "affiliation":"Ramon y Cajal Researcher, CSIC-IEEC Barcelona"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"pm0cQhoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Peter Diener",
+                    "affiliation":"Professor of Physics and Astronomy, Louisiana State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"iN7wHH4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Badri Krishnan",
+                    "affiliation":"Albert Einstein Institute,  Hannover, Germany"
+                }
+            ]
+        ]
+    ]
+}

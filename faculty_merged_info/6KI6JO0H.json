@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "6KI6JO0H",
+            "6zP3QBcAAAAJ",
+            [
+                "The spin-\u00bd Heisenberg antiferromagnet on a square lattice and its application to the cuprous oxides",
+                "Dynamical properties of a hole in a Heisenberg antiferromagnet",
+                "Phase Separation at all Interaction Strengths in the t-J Model",
+                "Nonperturbative length scale in high-temperature QCD",
+                "Classical phase fluctuations in high temperature superconductors",
+                "Microscopic calculations for normal and polarized liquid ",
+                "Nematic phase of the two-dimensional electron gas in a magnetic field",
+                "Stripes and the t-J Model",
+                "Theoretical studies of the dynamic structure function of liquid ",
+                "Condensate fraction and momentum distribution in the ground state of liquid "
+            ],
+            [
+                "The spin-\u00bd antiferromagnetic Heisenberg model on a square lattice is used to describe the dynamics of the spin degrees of freedom of undoped copper oxides. Even though the model lacks an exact solution, a solid, accurate, and rather conventional picture emerges from a number of techniques\u2014analytical (spin-wave theory, Schwinger boson mean-field theory, renormalization-group calculations), semianalytical (variational theory, series expansions), and numerical (quantum Monte Carlo, exact diagonalization, etc.). At zero temperature, the effect of the zero-point fluctuations is not strong enough to destroy the antiferromagnetic long-range order, despite the fact that we are dealing with a low-spin low-dimensional system. The corrections to the spin-wave theory, which treats perturbatively the effect of such fluctuations around the classical N\u00e9el ground state, appear to be small. At any nonzero temperature the \u2026",
+                "The t-J model in the large-t\/J and low-doping limit is approximated by an effective Hamiltonian that treats spin degrees of freedom within the linear-spin-wave approximation and the hole-hopping term with a hole-spin interaction vertex that is linear in the spin-wave operators. The Dyson\u2019s equation for the single-hole Green\u2019s function is solved numerically on finite-but sufficiently large-size square lattices. Our calculation is based on an approximate equation for the hole motion that has been obtained using a self-consistent perturbation approach where crossing diagrams are neglected. We have studied the contribution of vertex corrections and found that the leading two-loop crossing diagram is exactly zero. Thus, the leading nonzero contribution to the proper self-energy from crossing diagrams is a three-loop correction. In two dimensions, it is possible to solve Dyson\u2019s equation numerically including these three \u2026",
+                "We investigate the phase diagram of the two-dimensional tJ model using a recently developed Green's function Monte Carlo method for lattice fermions. We use the technique to calculate exact ground-state energies of the model on large lattices. In contrast to many previous studies, we find the model phase separates for all values of J\/t. In particular, it is unstable at the hole dopings and interaction strengths at which the model was thought to describe the cuprate superconductors.",
+                "The string tension of spacelike Wilson loops is computed in SU (3) lattice gauge theory in the high-temperature deconfined phase. Its physical value is extracted following the continuum limit. An upper bound for the length scale where nonperturbative fluctuations become dominant is computed. The value of the string tension and the nonperturbative length scale are very close to their zero-temperature counterparts.",
+                "Phase fluctuations of the superconducting order parameter play a larger role in the cuprates than in conventional BCS superconductors because of the low superfluid density \u03c1 s of a doped insulator. In this paper, we analyze an XY model of classical phase fluctuations in the high temperature superconductors using a low temperature expansion and Monte Carlo simulations. In agreement with experiment, the value of \u03c1 s at temperature T= 0 is a quite robust predictor of T c, and the evolution of \u03c1 s with T, including its T-linear behavior at low temperature, is insensitive to microscopic details.",
+                "Accurate variational calculations are carried out for the ground-state quantities of the normal and fully spin-polarized phases of liquid He 3. The variational wave functions include semioptimized two-body, three-body, and backflow correlations. Expectation values are calculated using Fermihypernetted-chain summation techniques. The elementary diagrams are summed with the scaling approximation developed earlier for Bose liquids. Results of calculations using the interatomic potential of Aziz et al. from equilibrium to melting density are reported. The calculated equation of state, sound velocity, and liquid structure function for the normal phase are in close agreement with the experimental data. The three-body and backflow correlations are found to be important in achieving this agreement with experiment. The energy of the spin-polarized phase is found to be above that of the normal phase over the entire liquid \u2026",
+                "The two-dimensional electron gas (2DEG) in moderate magnetic fields in ultraclean AlAs-GaAs heterojunctions exhibits transport anomalies suggestive of a compressible anisotropic metallic state. Using scaling arguments and Monte Carlo simulations, we develop an order parameter theory of an electron nematic phase. The observed temperature dependence of the resistivity anisotropy behaves like the orientational order parameter if the transition to the nematic state occurs at a finite temperature T c\u223c 65 mK, and is slightly rounded by a small background microscopic anisotropy. We propose a light scattering experiment to measure the critical susceptibility.",
+                "We investigate the two-dimensional t-J model at a hole doping of x= 1 8. The low-energy states are uniform (not striped). We find numerous excited states with charge density wave structures, which may be interpreted as striped phases. Some of these are consistent with neutron scattering data on cuprates and nickelates. Without additional terms in the t-J Hamiltonian, stripes can be stabilized only as ground states through the application of artificial boundary conditions.",
+                "The dynamic structure factor S (k, \u03c9) for liquid He 4 is studied with the use of perturbation theory in a correlated basis generated by the Feynman-Cohen (FC) excitation operator acting on the interacting ground state. We consider the coupling of one FC excitation to two FC excitations and sum the important contributions to all orders in perturbation theory. S (k, \u03c9) is calculated for many values of k in the interval (0.8 A \u030a\u2212 1, 4.5 A \u030a\u2212 1). We find a low-energy \u03b4-function peak which corresponds to the phonon-maxon-roton spectrum and report its energy e (k) and Z (k) as a function of k.\u2018\u2018Two-quasiparticle\u2019\u2019peaks are also found and they may be identified as roton-roton, maxon-maxon, and maxon-roton contributions. At high k, most of the strength of S (k, \u03c9) is distributed in the neighborhood of quasifree scattering energy \u03c9\u2243 \u0127 2 k 2\/2m, and the results are comparable with results of the impulse approximation \u2026",
+                "Calculations of the condensate fraction and momentum distribution of liquid He 4 are carried out using variational ground-state wave functions containing two-body (Jastrow) and three-body correlations. These wave functions give a satisfactory description of the equation of state of the liquid at T= 0. The calculations are performed within the scheme of hypernetted-chain equations, using the scaling approximation for evaluating the contributions of the elementary diagrams. Results are reported at densities \u03c1= 0.365 \u03c3\u2212 3, 0.401 \u03c3\u2212 3, and 0.438 \u03c3\u2212 3, and compared with momentum distributions obtained from experimental data and Green\u2019s-function Monte Carlo calculations."
+            ],
+            [
+                [
+                    "Condensed Matter Physics",
+                    "Computational Physics",
+                    "Quantum Many-Body Theory"
+                ]
+            ]
+        ]
+    ]
+}

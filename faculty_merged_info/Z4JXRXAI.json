@@ -1,0 +1,45 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Z4JXRXAI",
+            "MivW17gAAAAJ",
+            [
+                "Gene-expression profiles predict survival of patients with lung adenocarcinoma",
+                "Comparison of Beta-value and M-value methods for quantifying methylation levels by microarray analysis",
+                "Discordant protein and mRNA expression in lung adenocarcinomas",
+                "Phenomapping for novel classification of heart failure with preserved ejection fraction",
+                "Proteomic analysis of lung adenocarcinoma: identification of a highly expressed set of proteins in tumors",
+                "Protein profiles associated with survival in lung adenocarcinoma",
+                "Promoter methylation regulates estrogen receptor 2 in human endometrium and endometriosis"
+            ],
+            [
+                "Histopathology is insufficient to predict disease progression and clinical outcome in lung adenocarcinoma. Here we show that gene-expression profiles based on microarray analysis can be used to predict patient survival in early-stage lung adenocarcinomas. Genes most related to survival were identified with univariate Cox analysis. Using either two equivalent but independent training and testing sets, or'leave-one-out'cross-validation analysis with all tumors, a risk index based on the top 50 genes identified low-risk and high-risk stage I lung adenocarcinomas, which differed significantly with respect to survival. This risk index was then validated using an independent sample of lung adenocarcinomas that predicted high-and low-risk groups. This index included genes not previously associated with survival. The identification of a set of genes that predict survival in early-stage lung adenocarcinoma allows \u2026",
+                "High-throughput profiling of DNA methylation status of CpG islands is crucial to understand the epigenetic regulation of genes. The microarray-based Infinium methylation assay by Illumina is one platform for low-cost high-throughput methylation profiling. Both Beta-value and M-value statistics have been used as metrics to measure methylation levels. However, there are no detailed studies of their relations and their strengths and limitations. We demonstrate that the relationship between the Beta-value and M-value methods is a Logit transformation, and show that the Beta-value method has severe heteroscedasticity for highly methylated or unmethylated CpG sites. In order to evaluate the performance of the Beta-value and M-value methods for identifying differentially methylated CpG sites, we designed a methylation titration experiment. The evaluation results show that the M-value method provides much better \u2026",
+                "The relationship between gene expression measured at the mRNA level and the corresponding protein level is not well characterized in human cancer. In this study, we compared mRNA and protein expression for a cohort of genes in the same lung adenocarcinomas. The abundance of 165 protein spots representing 98 individual genes was analyzed in 76 lung adenocarcinomas and nine non-neoplastic lung tissues using two-dimensional polyacrylamide gel electrophoresis. Specific polypeptides were identified using matrix-assisted laser desorption\/ionization mass spectrometry. For the same 85 samples, mRNA levels were determined using oligonucleotide microarrays, allowing a comparative analysis of mRNA and protein expression among the 165 protein spots. Twenty-eight of the 165 protein spots (17%) or 21 of 98 genes (21.4%) had a statistically significant correlation between protein and mRNA \u2026",
+                "Heart failure with preserved ejection fraction (HFpEF) is a heterogeneous clinical syndrome in need of improved phenotypic classification. We sought to evaluate whether unbiased clustering analysis using dense phenotypic data (phenomapping) could identify phenotypically distinct HFpEF categories.We prospectively studied 397 patients with HFpEF and performed detailed clinical, laboratory, ECG, and echocardiographic phenotyping of the study participants. We used several statistical learning algorithms, including unbiased hierarchical cluster analysis of phenotypic data (67 continuous variables) and penalized model-based clustering, to define and characterize mutually exclusive groups making up a novel classification of HFpEF. All phenomapping analyses were performed by investigators blinded to clinical outcomes, and Cox regression was used to demonstrate the \u2026",
+                "Purpose: The goal of this study was to identify potential protein markers in lung adenocarcinomas.Experimental Design: A series of 93 lung adenocarcinomas (64 stage I and 29 stage III) and 10 uninvolved lung samples were examined for quantitative differences in protein expression using two-dimensional PAGE. Candidate proteins were identified using matrix-assisted laser desorption\/ionization mass spectrometry or peptide sequencing. The levels of the individual isoforms of nine proteins found to be overexpressed in the lung tumors were examined. Potential mechanisms for overexpression were examined by comparing mRNA expression levels, assessed using oligonucleotide arrays, to the protein values in the same samples.Results: Antioxidant enzyme AOE372, ATP synthase subunit d (ATP5D), \u03b21,4-galactosyltransferase, cytosolic inorganic pyrophosphatase, glucose-regulated Mr 58,000 protein \u2026",
+                "Morphologic assessment of lung tumors is informative but insufficient to adequately predict patient outcome. We previously identified transcriptional profiles that predict patient survival, and here we identify proteins associated with patient survival in lung adenocarcinoma. A total of 682 individual protein spots were quantified in 90 lung adenocarcinomas by using quantitative two-dimensional polyacrylamide gel electrophoresis analysis. A leave-one-out cross-validation procedure using the top 20 survival-associated proteins identified by Cox modeling indicated that protein profiles as a whole can predict survival in stage I tumor patients (P = 0.01). Thirty-three of 46 survival-associated proteins were identified by using mass spectrometry. Expression of 12 candidate proteins was confirmed as tumor-derived with immunohistochemical analysis and tissue microarrays. Oligonucleotide microarray results from both the \u2026",
+                "Steroid receptors in the stromal cells of endometrium and its disease counterpart tissue endometriosis play critical physiologic roles. We found that mRNA and protein levels of estrogen receptor 2 (ESR2) were strikingly higher, whereas levels of estrogen receptor 1 (ESR1), total progesterone receptor (PGR), and progesterone receptor B (PGR B) were significantly lower in endometriotic versus endometrial stromal cells. Because ESR2 displayed the most striking levels of differential expression between endometriotic and endometrial cells, and the mechanisms for this difference are unknown, we tested the hypothesis that alteration in DNA methylation is a mechanism responsible for severely increased ESR2 mRNA levels in endometriotic cells. We identified a CpG island occupying the promoter region (\u2212197\/+359) of the ESR2 gene. Bisulfite sequencing of this region showed significantly higher methylation in \u2026"
+            ],
+            [
+                [
+                    "genomics",
+                    "cancer",
+                    "bioinformatics",
+                    "biostatistics",
+                    "cardiovascular"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "anOEaDIAAAAJ",
+            "Jonah Kudler-Flam",
+            "PhD Candidate, University of Chicago",
+            "@uchicago.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=anOEaDIAAAAJ",
+            241,
+            [
+                "theoretical physics"
+            ],
+            241,
+            7,
+            7,
+            7,
+            7,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"7rSyhaAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yuya Kusuki",
+                    "affiliation":"Yukawa Institute for Theoretical Physics, Kyoto University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"7pMHKMUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Masahiro Nozaki",
+                    "affiliation":"The University of Chicago"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"KOJ_ViEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ian MacCormack",
+                    "affiliation":"University of Chicago"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Jv7tPW0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hassan Shapourian",
+                    "affiliation":"Postdoc, Microsoft Station Q"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ui3_8d8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Joe P. Chen",
+                    "affiliation":"Assistant Professor of Mathematics, Colgate University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Js1q86YAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ashvin Vishwanath",
+                    "affiliation":"Professor of Physics, Harvard University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"aAJ--b8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Shang Liu (\u5218\u5c1a)",
+                    "affiliation":"Department of Physics, GSAS, Harvard University"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "fh8oi10AAAAJ",
+            "Tyler J. Slade",
+            "Northwestern University",
+            "@u.northwestern.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=fh8oi10AAAAJ",
+            111,
+            [
+                "Solid State Chemistry",
+                "Materials Science",
+                "Inorganic Chemistry"
+            ],
+            111,
+            6,
+            6,
+            4,
+            4,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"QQBa5doAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kanatzidis",
+                    "affiliation":"Northwestern University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"EJDZSYMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"G. Jeffrey Snyder",
+                    "affiliation":"Northwestern University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"DJxLkJMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Chris Wolverton",
+                    "affiliation":"Professor of Materials Science and Eng., Northwestern University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"mj365oIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Vinayak Dravid",
+                    "affiliation":"Northwestern University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ZTzL2UsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Song Jin",
+                    "affiliation":"University of Wisconsin-Madison"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"PNexItMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yifan Dong",
+                    "affiliation":"China University of Geosciences; Chinese University of Hong Kong; University of Wisconsin Madison"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"u0UEx7oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Steven N. Girard",
+                    "affiliation":"Assistant Professor of Chemistry, University of Wisconsin - Whitewater"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6HZo5fIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jason F. Khoury",
+                    "affiliation":"Princeton University"
+                }
+            ]
+        ]
+    ]
+}

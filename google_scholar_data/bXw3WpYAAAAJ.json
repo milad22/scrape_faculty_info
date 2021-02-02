@@ -1,0 +1,64 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "bXw3WpYAAAAJ",
+            "Ernest David",
+            "Thiruvalluvar University",
+            "@tvu.edu.in",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=bXw3WpYAAAAJ",
+            1470,
+            [
+                "Physiology\/Biochemistry\/Nanotechnology"
+            ],
+            890,
+            21,
+            17,
+            34,
+            30,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"xCp2iFoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Pallu Reddanna",
+                    "affiliation":"Professor"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Y1nNg7gAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kannabiran Krishnan",
+                    "affiliation":"Professor of Biosciences, VIT University"
+                }
+            ]
+        ]
+    ]
+}

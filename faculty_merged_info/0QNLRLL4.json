@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "0QNLRLL4",
+            "0WBCi1AAAAAJ",
+            [
+                "Quantum error correction",
+                "TeXing the formulary: a collection of examples of the use of TEX to produce ruled tables and displayed equations. Memorandum report",
+                "Correcting quantum errors with entanglement",
+                "A simple model of quantum trajectories",
+                "Quantum to classical transition for random walks",
+                "Weak measurements are universal",
+                "Quantum walks driven by many coins",
+                "Quantum bayes rule",
+                "Quantum random walks with decoherent coins",
+                "Hitting time for quantum walks on the hypercube"
+            ],
+            [
+                "Quantum computation and information is one of the most exciting developments in science and technology of the last twenty years. To achieve large scale quantum computers and communication networks it is essential not only to overcome noise in stored quantum information, but also in general faulty quantum operations. Scalable quantum computers require a far-reaching theory of fault-tolerant quantum computation. This comprehensive text, written by leading experts in the field, focuses on quantum error correction and thoroughly covers the theory as well as experimental and practical issues. The book is not limited to a single approach, but reviews many different methods to control quantum errors, including topological codes, dynamical decoupling and decoherence-free subspaces. Basic subjects as well as advanced theory and a survey of topics from cutting-edge research make this book invaluable both as a pedagogical introduction at the graduate level and as a reference for experts in quantum information science.",
+                "The NRL Plasma Formulary is a collection of formulas and reference data in a handy pocketsized booklet. This report contains some sixty pages of text, tables, and displayed equations, together with the associated TEX files. An enlarged copy the output from an IMAGEN ink-jet printer of each page of the Formulary, identical with that which was photographically reduced for the actual book, is reprinted facing the TEX source code that generated it. Users can browse through the report until they come to a table or displayed equation similar to the one they want to produce, then extract from the facing page the control sequences they need. Keywords Differential operators in curvilinear coordinates Maxwells equations Electricity magnetism Electromagnetic frequencywavelength bands AC circuits Fluid mechanics Shocks Collisions and transport Ionospheric parameters Solar physics parameters Thermonuclear fusion Relativistic electron beams Beam instabilities Lasers Atomic physics and radiation.Descriptors:",
+                "We show how entanglement shared between encoder and decoder can simplify the theory of quantum error correction. The entanglement-assisted quantum codes we describe do not require the dual-containing constraint necessary for standard quantum error\u2013correcting codes, thus allowing us to \u201cquantize\u201d all of classical linear coding theory. In particular, efficient modern classical codes that attain the Shannon capacity can be made into entanglement-assisted quantum codes attaining the hashing bound (closely related to the quantum capacity). For systems without large amounts of shared entanglement, these codes can also be used as catalytic codes, in which a small amount of initial entanglement enables quantum communication.",
+                "Quantum trajectory theory, developed largely in the quantum optics community to describe open quantum systems subjected to continuous monitoring, has applications in many areas of quantum physics. I present a simple model, using two-level quantum systems (q-bits), to illustrate the essential physics of quantum trajectories and how different monitoring schemes correspond to different \u201cunravelings\u201d of a mixed state master equation. I also comment briefly on the relationship of the theory to the consistent histories formalism and to spontaneous collapse models.",
+                "We look at two possible routes to classical behavior for the discrete quantum random walk on the integers: decoherence in the quantum \u201ccoin\u201d which drives the walk, or the use of higher-dimensional (or multiple) coins to dilute the effects of interference. We use the position variance as an indicator of classical behavior and find analytical expressions for this in the long-time limit; we see that the multicoin walk retains the \u201cquantum\u201d quadratic growth of the variance except in the limit of a new coin for every step, while the walk with decoherence exhibits \u201cclassical\u201d linear growth of the variance even for weak decoherence.",
+                "It is well known that any projective measurement can be decomposed into a sequence of weak measurements, which cause only small changes to the state. Similar constructions for generalized measurements, however, have relied on the use of an ancilla system. We show that any generalized measurement can be decomposed into a sequence of weak measurements without the use of an ancilla, and give an explicit construction for these weak measurements. The measurement procedure has the structure of a random walk along a curve in state space, with the measurement ending when one of the end points is reached. This shows that any measurement can be generated by weak measurements, and hence that weak measurements are universal. This may have important applications to the theory of entanglement.",
+                "Quantum random walks have been much studied recently, largely due to their highly nonclassical behavior. In this paper, we study one possible route to classical behavior for the discrete quantum random walk on the line: the use of multiple quantum \u201ccoins\u201d(or more generally, coins of higher dimension) in order to diminish the effects of interference between paths. We find solutions to this system in terms of the single-coin random walk, and compare the asymptotic limit of these solutions to numerical simulations. We find exact analytical expressions for the time dependence of the first two moments, and show that in the long-time limit the \u201cquantum-mechanical\u201d behavior of the one-coin walk persists, even if each coin is flipped only twice. We further show that this is generic for a very broad class of possible walks, and that this behavior disappears only in the limit of a new coin for every step of the walk.",
+                "We state a quantum version of the Bayes rule for statistical inference and give a simple general derivation within the framework of generalized measurements. The rule can be applied to measurements on N copies of a system if the initial state of the N copies is exchangeable. As an illustration, we apply the rule to N qubits. Finally, we show that quantum state estimates derived via the principle of maximum entropy are fundamentally different from those obtained via the quantum Bayes rule.",
+                "The quantum random walk has been much studied recently, largely due to its highly nonclassical behavior. In this paper, we study one possible route to classical behavior for the discrete quantum walk on the line: the presence of decoherence in the quantum \u201ccoin\u201d which drives the walk. We find exact analytical expressions for the time dependence of the first two moments of position, and show that in the long-time limit the variance grows linearly with time, unlike the unitary walk. We compare this to the results of direct numerical simulation, and see how the form of the position distribution changes from the unitary to the usual classical result as we increase the strength of the decoherence.",
+                "Hitting times for discrete quantum walks on graphs give an average time before the walk reaches an ending condition. To be analogous to the hitting time for a classical walk, the quantum hitting time must involve repeated measurements as well as unitary evolution. We derive an expression for hitting time using superoperators, and numerically evaluate it for the discrete walk on the hypercube. The values found are compared to other analogs of hitting time suggested in earlier work. The dependence of hitting times on the type of unitary \u201ccoin\u201d is examined, and we give an example of an initial state and coin which gives an infinite hitting time for a quantum walk. Such infinite hitting times require destructive interference, and are not observed classically. Finally, we look at distortions of the hypercube, and observe that a loss of symmetry in the hypercube increases the hitting time. Symmetry seems to play an important \u2026"
+            ],
+            [
+                [
+                    "Quantum theory",
+                    "Quantum Computers",
+                    "Quantum Information",
+                    "Quantum Chaos",
+                    "Decoherence"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "el7p_C4AAAAJ",
+            "Joseph P Corbett",
+            "Postdoctoral Scholar",
+            "@ohio.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=el7p_C4AAAAJ",
+            76,
+            [
+                "magnetism",
+                "crystal growth",
+                "diffraction",
+                "scanning probe microscopy"
+            ],
+            76,
+            5,
+            5,
+            2,
+            2,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"FGzwCKgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David C. Ingram",
+                    "affiliation":"Professor of Physics, Ohio University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"yehDLwEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"AL Richard",
+                    "affiliation":"Michigan State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"XOBMvEIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jonathan Guerrero S\u00e1nchez",
+                    "affiliation":"Professor (Associate)"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"NK4ag9QAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Noboru Takeuchi",
+                    "affiliation":"Universidad Nacional Autonoma de Mexico"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ec61r5oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sneha Pandya",
+                    "affiliation":"Ohio University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"8G7HF0QAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jay A. Gupta",
+                    "affiliation":"ohio state university, associate professor of physics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fatrI_8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"James Gallagher",
+                    "affiliation":"Naval Research Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"xwSPxAQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Khan Alam",
+                    "affiliation":"The Institute for Molecular Engineering, The University of Chicago"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "P1D4M6UR",
+            "YSibOb4AAAAJ",
+            [
+                "Semiclassical transport and phonon scattering of electrons in semiconducting carbon nanotubes",
+                "Numerical and experimental characterization of -silicon carbide lateral metal-oxide-semiconductor field-effect transistor",
+                "Low-field semiclassical carrier transport in semiconducting carbon nanotubes",
+                "Electron transport and velocity oscillations in a carbon nanotube",
+                "From graphene to graphite: A general tight-binding approach for nanoribbon carrier transport",
+                "Deformation potential carrier-phonon scattering in semiconducting carbon nanotube transistors",
+                "A quasi-two-dimensional depth-dependent mobility model suitable for device simulation for Coulombic scattering due to interface trapped charges",
+                "Self-consistent calculations for n-type hexagonal SiC inversion layers"
+            ],
+            [
+                "Current flow, considering a semiclassical electron\u2013electric-field interaction and electron scattering by acoustic phonons, is studied in semiconducting zig-zag carbon nanotubes. The \u03c0-electronic band structure and the phonon spectrum of the nanotube are both calculated from graphene by the zone-folding method. Scattering rates are calculated using first-order perturbation theory and the deformation-potential approximation, while the selection rules for the electron-phonon interaction are developed based on the conservation of crystal momentum. The steady-state transport properties of electrons in small-diameter nanotubes are simulated using the Monte Carlo method. Results show negative differential mobility occurring at smaller threshold fields as the tube diameter increases. The peak drift velocity is also found to depend on the tube diameter, and reaches values as high as 5\u00d7 10 7 c m\/s in the largest tube \u2026",
+                "Combined simulation and experimental analyses are performed to characterize the 4H-silicon carbide (SiC) lateral metal-oxide-semiconductor field-effect transistor (MOSFET). Using a quasi-two-dimensional depth dependent Coulomb mobility model for scattering due to interface and oxide charge, along with existing models for other scattering mechanisms, and an in-house drift diffusion device simulator tailored for SiC MOSFETs, we have extracted values for interface trap density of states for 4H-SiC MOSFETs. Characterization shows that the interface trapped charge in 4H-SiC MOSFETs is responsible for mobility degradation and reduction in mobile inversion charge, and therefore reduced current. Its effect on mobility degradation decreases at higher gate voltages due to increased screening. Our results show that at high gate voltages, surface roughness plays the major role in surface mobility degradation in 4H \u2026",
+                "The theory of semiclassical carrier transport in semiconducting single-walled carbon nanotubes is presented. The focus is on transport in response to a small, axially applied field. Carriers are considered to scatter with longitudinal, torsional, and radial breathing acoustic phonons. Theory predicts large mobilities and large mean free paths, each increasing with increasing tube diameter. This results from a small effective mass, which varies inversely with the nanotube diameter. In large diameter tubes, the carrier mobility at 300 K is approximately 10 5 cm 2 V s, while the mean free path approaches 0.5\u2212 0.8 \u03bc m. Results depend on the lattice temperature, Poisson\u2019s ratio, and the chirality angle of the nanotube. Theoretical results compare very well with experiments on long semiconducting carbon nanotubes. This indicates that transport in long single-walled carbon nanotubes is likely limited by phonon scattering at \u2026",
+                "We report Monte Carlo (MC) simulation results showing applied bias dependent spatial velocity oscillations for semiconducting single-walled zig-zag carbon nanotubes (CNTs). MC simulations show velocity oscillations in CNTs at different lengths due to high scattering rates associated with optical phonon emissions in the one-dimensional CNT system. The frequencies of these oscillations are as high as 30 THz. In addition, we investigate average ensemble electron velocities as a function of tube length.",
+                "In an effort to better understand the behavior of graphene, we developed an ab initio parametrized fit of hydrocarbon interactions, out to arbitrary neighbors, including forces. Our computed bands show that ribbons of graphene have increased numbers of zigzag edge states, and decreased armchair band gaps, when multilayered. Armchair ribbons are known to obey three families of gap-to-width relationships; we further find that carrier group velocity v F varies by family: small gaps have ideal v F, and large gaps have\u00b120% deviations from ideal v F. Boltzmann carrier transport simulations from calculated phonon scattering show a similar, familial conductance behavior, with peak field-effect mobility and saturated, small-field conductance increasing linearly with ribbon width.",
+                "Theoretical calculations of carrier transport in semiconducting single-walled carbon nanotubes are compared with recent experiments. Considering carrier-phonon scattering, a deformation potential coupling constant of 14eV is determined. Theory predicts the low-field mobility, conductance, and on resistance of field-effect transistors as a function of nanotube diameter and temperature. When the device is in the on state, the mean free path (Lm-on) varies linearly with tube diameter and inversely with temperature. Intersubband scattering is found to strongly decrease Lm-on when a few subbands are occupied.",
+                "The silicon carbide (SiC)\u2013silicon dioxide (SiO2) interface in SiC metal-oxide-semiconductor field-effect transistors (MOSFETs) has shown the presence of a very large number of trap states. These traps become filled during inversion causing a lowering of conduction charge in the inversion layer, and increases Coulombic scattering of mobile charges. Owing to the large number of occupied interface traps, Coulomb interaction is likely to be an important scattering mechanism for SiC MOSFET device operation, resulting in very low surface mobilities. We have developed a first principles physics-based Coulomb scattering mobility model to understand this phenomenon and to study its effect on mobility in SiC devices. This type of Coulombic scattering is a quasi-two-dimensional phenomenon. Mobile charges located closer to the interface are scattered at a higher rate than those located far away from the interface \u2026",
+                "Surface band structure calculations are performed for different orientations of hexagonal silicon carbide (nH-SiC). The 4H-SiC and 6H-SiC hexagonal polytypes are considered. The subband structure perpendicular to an oxide-SiC interface is determined self-consistently with the confining transverse potential. Investigations have been performed in the range of weak\/strong inversion and high\/low temperatures. The (011\u03040), (112\u03040), (033\u03048), and (0001) surfaces are compared for both 4H-SiC and 6H-SiC. Each orientation is characterized based on its two-dimensional nature, its degree of anisotropy parallel to the oxide, and the spatial extent of mobile electrons from the oxide\u2013semiconductor interface."
+            ],
+            [
+                [
+                    "Electronic materials and devices",
+                    "biophysics"
+                ]
+            ]
+        ]
+    ]
+}

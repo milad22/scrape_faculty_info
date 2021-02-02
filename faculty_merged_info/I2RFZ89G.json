@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "I2RFZ89G",
+            "hHU3bEkAAAAJ",
+            [
+                "Nuclear magnetic resonance spectroscopy on a (5-nanometer) 3 sample volume",
+                "Approach to high-resolution ex situ NMR spectroscopy",
+                "High-resolution NMR spectroscopy with a portable single-sided sensor",
+                "High-resolution correlation spectroscopy of 13 C spins near a nitrogen-vacancy centre in diamond",
+                "High-resolution NMR correlation spectra of disordered solids",
+                "Photoinduced modification of single-photon emitters in hexagonal boron nitride",
+                "Near-deterministic activation of room-temperature quantum emitters in hexagonal boron nitride",
+                "Imaging mesoscopic nuclear spin noise with a diamond magnetometer",
+                "Scalable fabrication of high purity diamond nanocrystals with long-spin-coherence nitrogen vacancy centers",
+                "Nitrogen-vacancy-assisted magnetometry of paramagnetic centers in an individual diamond nanocrystal"
+            ],
+            [
+                "Application of nuclear magnetic resonance (NMR) spectroscopy to nanoscale samples has remained an elusive goal, achieved only with great experimental effort at subkelvin temperatures. We demonstrated detection of NMR signals from a (5-nanometer)3 voxel of various fluid and solid organic samples under ambient conditions. We used an atomic-size magnetic field sensor, a single nitrogen-vacancy defect center, embedded ~7 nanometers under the surface of a bulk diamond to record NMR spectra of various samples placed on the diamond surface. Its detection volume consisted of only 104 nuclear spins with a net magnetization of only 102 statistically polarized spins.",
+                "Nuclear magnetic resonance (NMR) experiments are typically performed with samples immersed in a magnet shimmed to high homogeneity. However, there are many circumstances in which it is impractical or undesirable to insert objects or subjects into the bore of a high-field magnet. Here we present a methodology based on an adaptation of nutation echoes that provides resolved spectra in the presence of matched inhomogeneous static and radiofrequency fields, thereby opening the way to high-resolution ex situ NMR. The observation of chemical shifts is regained through the use of multiple-pulse sequences of correlated, composite z-rotation pulses, producing resolved NMR spectra of liquid samples.",
+                "We report construction of a portable nuclear magnetic resonance sensor with a single-sided open probe design. The resulting magnetic field inhomogeneity is compensated by a pulse sequence that takes advantage of parallel inhomogeneity in the applied radio frequency field. We can thereby acquire fluorine-19 spectra of liquid fluorocarbons with 8 parts per million resolution, surmounting the long-standing obstacle of obtaining chemical shift information with open probe instruments.",
+                "Spin complexes comprising the nitrogen-vacancy centre and neighbouring spins are being considered as a building block for a new generation of spintronic and quantum information processing devices. As assembling identical spin clusters is difficult, new strategies are being developed to determine individual node structures with the highest precision. Here we use a pulse protocol to monitor the time evolution of the 13 C ensemble in the vicinity of a nitrogen-vacancy centre. We observe long-lived time correlations in the nuclear spin dynamics, limited by nitrogen-vacancy spin\u2013lattice relaxation. We use the host 14 N spin as a quantum register and demonstrate that hyperfine-shifted resonances can be separated upon proper nitrogen-vacancy initialization. Intriguingly, we find that the amplitude of the correlation signal exhibits a sharp dependence on the applied magnetic field. We discuss this observation in the \u2026",
+                "We show how high-resolution NMR spectra can be obtained for solids for which the spectra are normally broadened due to structural disorder. The method relies on correlations in the chemical shifts between pairs of coupled spins. It is found experimentally that there are strong correlations in the chemical shifts between neighboring spins in both phosphorus-31 and carbon-13 spectra. These correlations can be exploited not only to provide resolution in two-dimensional spectra, but also to yield \u201cchains\u201d of correlated chemical shifts, constituting a valuable new source of structural information for disordered materials. ",
+                "Fluorescent defects recently observed under ambient conditions in hexagonal boron nitride (h-BN) promise to open novel opportunities for the implementation of on-chip photonic devices that rely on identical photons from single emitters. Here we report on the room-temperature photoluminescence dynamics of individual emitters in multilayer h-BN flakes exposed to blue laser light. Comparison of optical spectra recorded at successive times reveals considerable spectral diffusion, possibly the result of slowly fluctuating, trapped-carrier-induced Stark shifts. Large spectral jumps\ue5f8reaching up to 100 nm\ue5f8followed by bleaching are observed in most cases upon prolonged exposure to blue light, an indication of one-directional photochemical changes possibly taking place on the flake surface. Remarkably, only a fraction of the observed emitters also fluoresce on green illumination, suggesting a more complex optical \u2026",
+                "Applications of quantum science to computing, cryptography, and imaging are on their way to becoming key next-generation technologies. Owing to the high-speed transmission and exceptional noise properties of photons, quantum photonic architectures are likely to play a central role. A long-standing hurdle, however, has been the realization of robust, device-compatible single-photon sources that can be activated and controlled on demand. Here we demonstrate large arrays of room-temperature quantum emitters in two-dimensional hexagonal boron nitride (hBN). The large energy gap inherent to this van der Waals material stabilizes the emitters at room temperature within nanoscale regions defined by substrate-induced deformation of few-atomic-layer hBN. Combining analytical and numerical modeling, we show that emitter activation is the result of carrier trapping in deformation potential wells localized near \u2026",
+                "Magnetic resonance imaging can characterize and discriminate among tissues using their diverse physical and biochemical properties. Unfortunately, submicrometer screening of biological specimens is presently not possible, mainly due to lack of detection sensitivity. Here we analyze the use of a nitrogen-vacancy center in diamond as a magnetic sensor for nanoscale nuclear spin imaging and spectroscopy. We examine the ability of such a sensor to probe the fluctuations of the \u201cclassical\u201d dipolar field due to a large number of neighboring nuclear spins in a densely protonated sample. We identify detection protocols that appropriately take into account the quantum character of the sensor and find a signal-to-noise ratio compatible with realistic experimental parameters. Through various example calculations we illustrate different kinds of image contrast. In particular, we show how to exploit the comparatively long \u2026",
+                "The combination of long spin coherence time and nanoscale size has made nitrogen vacancy (NV) centers in nanodiamonds the subject of much interest for quantum information and sensing applications. However, currently available high-pressure high-temperature (HPHT) nanodiamonds have a high concentration of paramagnetic impurities that limit their spin coherence time to the order of microseconds, less than 1% of that observed in bulk diamond. In this work, we use a porous metal mask and a reactive ion etching process to fabricate nanocrystals from high-purity chemical vapor deposition (CVD) diamond. We show that NV centers in these CVD nanodiamonds exhibit record-long spin coherence times in excess of 200 \u03bcs, enabling magnetic field sensitivities of 290 nT Hz\u20131\/2 with the spatial resolution characteristic of a 50 nm diameter probe.",
+                "Semiconductor nanoparticles host a number of paramagnetic point defects and impurities, many of them adjacent to the surface, whose response to external stimuli could help probe the complex dynamics of the particle and its local, nanoscale environment. Here, we use optically detected magnetic resonance in a nitrogen-vacancy (NV) center within an individual diamond nanocrystal to investigate the composition and spin dynamics of the particle-hosted spin bath. For the present sample, a \u223c45 nm diamond crystal, NV-assisted dark-spin spectroscopy reveals the presence of nitrogen donors and a second, yet-unidentified class of paramagnetic centers. Both groups share a common spin lifetime considerably shorter than that observed for the NV spin, suggesting some form of spatial clustering, possibly on the nanoparticle surface. Using double spin resonance and dynamical decoupling, we also demonstrate \u2026"
+            ],
+            [
+                [
+                    "Magnetic resonance at the nanoscale",
+                    "quantum control",
+                    "dynamic spin polarization"
+                ]
+            ]
+        ]
+    ]
+}

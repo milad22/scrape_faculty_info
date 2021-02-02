@@ -1,0 +1,91 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "C3ILe0oAAAAJ",
+            "Emily Rice",
+            "College of Staten Island",
+            "@csi.cuny.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=C3ILe0oAAAAJ",
+            3439,
+            [
+                "Astronomy",
+                "brown dwarf",
+                "extra-solar planets",
+                "star formation"
+            ],
+            2085,
+            27,
+            22,
+            47,
+            40,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"IH4YZaoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kelle Cruz",
+                    "affiliation":"Hunter College, CUNY; Center for Computational Astrophysics, Flatiron Institute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"wFzL8fwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Rebecca Oppenheimer",
+                    "affiliation":"American Museum of Natural History"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"VFwxtusAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sasha Hinkley",
+                    "affiliation":"University of Exeter"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"D91UXwgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Joshua Schlieder",
+                    "affiliation":"NASA GSFC"
+                }
+            ]
+        ]
+    ]
+}

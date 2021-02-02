@@ -1,0 +1,140 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "_HTCpv0AAAAJ",
+            "Michael Martens",
+            "Professor of Physics, Case Western Reserve University",
+            "@case.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=_HTCpv0AAAAJ",
+            7858,
+            [
+                "Magnetic Resonance Imaging",
+                "Superconducting Magnet Design",
+                "Magnetic Particle Imaging",
+                "High Energy Particle Physics",
+                "Accelerator"
+            ],
+            1483,
+            45,
+            17,
+            86,
+            30,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"yfebmzwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Robert J Deissler",
+                    "affiliation":"Case Western Reserve University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ICCEuzwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tanvir Baig",
+                    "affiliation":"Case Western Reserve University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"tdEpGggAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Robert Brown",
+                    "affiliation":"Case Western Reserve University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"WStKvFYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michael Longo",
+                    "affiliation":"University of Michigan"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"MtzzT2MAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Matthew Knepley",
+                    "affiliation":"Computer Science and Engineering, University at Buffalo"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"bGOG8egAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kenneth Kowalski",
+                    "affiliation":"Professor of Physics, Case Western Reserve University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"QVtMdscAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Zhen Yao",
+                    "affiliation":"Intel Corporation"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6Jp22rMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mark Griswold",
+                    "affiliation":"Case Western Reserve University"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2
+    ],
+    "data":[
+        [
+            "Numerical relativity has faced the problem that standard 3+ 1 simulations of black hole spacetimes without singularity excision and with singularity avoiding lapse and vanishing shift fail early on due to the so-called slice stretching. We discuss lapse and shift conditions for the nonexcision case that effectively cure slice stretching and allow run times of 1 0 0 0 M and more.",
+            "Gauge conditions for long-term numerical black hole evolutions without excision",
+            "Miguel Alcubierre and Bernd Br\u00fcgmann and Peter Diener and Michael Koppitz and Denis Pollney and Edward Seidel and Ryoji Takahashi",
+            "2003",
+            "pm0cQhoAAAAJ:u5HHmVD_uO8C",
+            482,
+            "https:\/\/journals.aps.org\/prd\/abstract\/10.1103\/PhysRevD.67.084023",
+            "10785946731028265328",
+            "\/scholar?cites=10785946731028265328",
+            {
+                "2002":2,
+                "2003":15,
+                "2004":26,
+                "2005":26,
+                "2006":25,
+                "2007":42,
+                "2008":37,
+                "2009":43,
+                "2010":31,
+                "2011":24,
+                "2012":26,
+                "2013":28,
+                "2014":14,
+                "2015":23,
+                "2016":17,
+                "2017":26,
+                "2018":27,
+                "2019":19,
+                "2020":27,
+                "2021":2
+            }
+        ],
+        [
+            "We describe the Einstein Toolkit, a community-driven, freely accessible computational infrastructure intended for use in numerical relativity, relativistic astrophysics, and other applications. The toolkit, developed by a collaboration involving researchers from multiple institutions around the world, combines a core set of components needed to simulate astrophysical objects such as black holes, compact objects, and collapsing stars, as well as a full suite of analysis tools. The Einstein Toolkit is currently based on the Cactus framework for high-performance computing and the Carpet adaptive mesh refinement driver. It implements spacetime evolution via the BSSN evolution system and general relativistic hydrodynamics in a finite-volume discretization. The toolkit is under continuous development and contains many new code components that have been publicly released for the first time and are described in this paper \u2026",
+            "The Einstein Toolkit: a community computational infrastructure for relativistic astrophysics",
+            "Frank L\u00f6ffler and Joshua Faber and Eloisa Bentivegna and Tanja Bode and Peter Diener and Roland Haas and Ian Hinder and Bruno C Mundim and Christian D Ott and Erik Schnetter and Gabrielle Allen and Manuela Campanelli and Pablo Laguna",
+            "2012",
+            "pm0cQhoAAAAJ:7PzlFSSx8tAC",
+            359,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0264-9381\/29\/11\/115001\/meta",
+            "3564018474748299739",
+            "\/scholar?cites=3564018474748299739",
+            {
+                "2012":12,
+                "2013":31,
+                "2014":22,
+                "2015":24,
+                "2016":43,
+                "2017":56,
+                "2018":44,
+                "2019":57,
+                "2020":61,
+                "2021":8
+            }
+        ],
+        [
+            "Gravitational waveforms from the inspiral and ring-down stages of the binary black-hole coalescences can be modeled accurately by approximation\/perturbation techniques in general relativity. Recent progress in numerical relativity has enabled us to model also the nonperturbative merger phase of the binary black-hole coalescence problem. This enables us to coherently search for all three stages of the coalescence of nonspinning binary black holes using a single template bank. Taking our motivation from these results, we propose a family of template waveforms which can model the inspiral, merger, and ring-down stages of the coalescence of nonspinning binary black holes that follow quasicircular inspiral. This two-dimensional template family is explicitly parametrized by the physical parameters of the binary. We show that the template family is not only effectual in detecting the signals from black-hole \u2026",
+            "Template bank for gravitational waveforms from coalescing binary black holes: Nonspinning binaries",
+            "Parameswaran Ajith and Stanislav Babak and Yanbei Chen and Martin Hewitson and Badri Krishnan and AM Sintes and John T Whelan and B Br\u00fcgmann and P Diener and Nils Dorband and J Gonzalez and Mark Hannam and Sascha Husa and Denis Pollney and Luciano Rezzolla and Lucia Santamaria and U Sperhake and J Thornburg",
+            "2008",
+            "pm0cQhoAAAAJ:9yKSN-GCB0IC",
+            348,
+            "https:\/\/journals.aps.org\/prd\/abstract\/10.1103\/PhysRevD.77.104017",
+            "9743074012998685793",
+            "\/scholar?cites=9743074012998685793",
+            {
+                "2007":1,
+                "2008":14,
+                "2009":39,
+                "2010":34,
+                "2011":34,
+                "2012":32,
+                "2013":30,
+                "2014":12,
+                "2015":19,
+                "2016":26,
+                "2017":15,
+                "2018":22,
+                "2019":31,
+                "2020":34,
+                "2021":4
+            }
+        ]
+    ]
+}

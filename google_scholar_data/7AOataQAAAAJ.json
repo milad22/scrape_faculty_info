@@ -1,0 +1,52 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "7AOataQAAAAJ",
+            "Claudio Pellegrini",
+            "University of California at Los Angeles",
+            "@physics.ucla.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=7AOataQAAAAJ",
+            10057,
+            [
+                "Physics"
+            ],
+            2582,
+            48,
+            22,
+            143,
+            53,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6AJit0sAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Agostino Marinelli",
+                    "affiliation":"Assistant Professor: Stanford University and SLAC National Accelerator Laboratory"
+                }
+            ]
+        ]
+    ]
+}

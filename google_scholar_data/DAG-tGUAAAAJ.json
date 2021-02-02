@@ -1,0 +1,102 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "DAG-tGUAAAAJ",
+            "jack feinberg",
+            "Professor of Physics, University of Southern California",
+            "@usc.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=DAG-tGUAAAAJ",
+            9436,
+            [
+                "optics",
+                "lasers",
+                "fibers"
+            ],
+            431,
+            53,
+            9,
+            111,
+            9,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Xj9_C5oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alan Willner",
+                    "affiliation":"Professor of Electrical Engineering, University of Southern California"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3eUjF64AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ertan Salik",
+                    "affiliation":"Professor of Physics, California State Polytechnic University, Pomona"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"m-6Mjh8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Stephen Ducharme",
+                    "affiliation":"University of Nebraska"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"oHc6hlAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David M. Pepper",
+                    "affiliation":"Malibu Scientific"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"u-t6dUMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Lynn A Boatner",
+                    "affiliation":"Director, ORNL Center for Radiation Detection Materials and Systems"
+                }
+            ]
+        ]
+    ]
+}

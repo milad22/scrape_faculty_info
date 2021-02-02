@@ -1,0 +1,34 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "O0ABKR39",
+            "PEkuNj4AAAAJ",
+            [
+                "Structure determination from powder diffraction data",
+                "DASH: a program for crystal structure determination from powder diffraction data"
+            ],
+            [
+                "The art of solving a structure from powder diffraction data has developed rapidly over the last ten years to the point where numerous crystal structures, both organic and inorganic, have been solved directly from powder data. However, it is still an art and, in contrast to its single crystal equivalent, is far from routine. The art lies not only in the correct application of a specific experimental technique or computer program, but also in the selection of the optimal path for the problem at hand. Written and edited by experts active in the field, and covering both the fundamental and applied aspects of structure solution from powder diffraction data, this book guides both novices and experienced practitioners alike through the maze of possibilities.",
+                "DASH is a user-friendly graphical-user-interface-driven computer program for solving crystal structures from X-ray powder diffraction data, optimized for molecular structures. Algorithms for multiple peak fitting, unit-cell indexing and space-group determination are included as part of the program. Molecular models can be read in a number of formats and automatically converted to Z-matrices in which flexible torsion angles are automatically identified. Simulated annealing is used to search for the global minimum in the space that describes the agreement between observed and calculated structure factors. The simulated annealing process is very fast, which in part is due to the use of correlated integrated intensities rather than the full powder pattern. Automatic minimization of the structures obtained by simulated annealing and automatic overlay of solutions assist in assessing the reproducibility of the best solution \u2026"
+            ],
+            [
+                [
+                    "molecular crystal structures",
+                    "powder diffraction",
+                    "researcherID = H-5943-2013",
+                    "orcid.org\/0000-0001-6566-0155"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "-NsQ58wAAAAJ",
+            "Peter W. Schiller",
+            "Research Professor, Clinical Res. Inst..Montreal and Research Prof. Pharmacol., Univ. of Montreal",
+            "@ircm.qc.ca",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=-NsQ58wAAAAJ",
+            13206,
+            [
+                "medicinal chemistry and molecular pharmacology of opioids",
+                "peptide-based drug development",
+                "mitochondria-protecting SS-peptides"
+            ],
+            2394,
+            58,
+            24,
+            246,
+            53,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"x90X9gEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hazel Szeto",
+                    "affiliation":"Weill Cornell Medical College"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"moEjUsoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ralf Schmidt",
+                    "affiliation":"EMD Serono"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"2pkbWSsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yixin Lu",
+                    "affiliation":"Professor of Chemistry, National University of Singapore"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Z8bi-tMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Marta Michas (Oleszczuk)",
+                    "affiliation":""
+                }
+            ]
+        ]
+    ]
+}

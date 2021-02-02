@@ -1,0 +1,113 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "h3ZhFpgAAAAJ",
+            "Martin WHITE",
+            "Berkeley",
+            "@berkeley.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=h3ZhFpgAAAAJ",
+            65688,
+            [
+                "Cosmology",
+                "astrophysics"
+            ],
+            33248,
+            112,
+            65,
+            304,
+            196,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"WSR8vAgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Douglas Scott",
+                    "affiliation":"University of British Columbia"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"PNAYyPMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Nikhil Padmanabhan",
+                    "affiliation":"Yale University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"-BynFYEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David Schlegel",
+                    "affiliation":"Senior Scientist, Lawrence Berkeley National Lab"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Glo43TUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Joe Silk",
+                    "affiliation":"IAP & JHU"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fhOi--4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Shirley Ho",
+                    "affiliation":"Flatiron Institute, Center for Computational Astrophysics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"pFSxhPMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ludovic Van Waerbeke",
+                    "affiliation":"University of British Columbia"
+                }
+            ]
+        ]
+    ]
+}

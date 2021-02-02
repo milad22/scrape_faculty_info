@@ -1,0 +1,39 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "NNIW65J1",
+            "vbR-zyUAAAAJ",
+            [
+                "Supporting micro-services deployment in a safer way: a static analysis and automated rewriting approach",
+                "A Hitchhiker's Guide to Model-Driven Engineering for Data-Centric Systems",
+                "Teaching DevOps at the Graduate Level",
+                "A delta\u2010oriented approach to support the safe reuse of black\u2010box code rewriters",
+                "Characterizing Black-box Composition Operators via Generated Tailored Benchmarks"
+            ],
+            [
+                "The SOA ecosystem has drastically evolved since its childhood in the early 2000s. From monolithic services, micro-services now cooperate together in ultra-large scale systems. In this context, there is a tremendous need to deploy frequently new services, or new version of existing services. Container-based technologies (eg, Docker) emerged recently to tool such deployments, promoting a black-box reuse mechanism to support off-the-shelf deployments. Unfortunately, from the service deployment point of view, such form of black-box reuse prevent to ensure what is really shipped inside the container with the service to deploy. In this paper, we propose a formalism to model and statically analyze service deployment artifacts based on state of the art deployment platforms. The static analysis mechanism leverages the hierarchy of deployment descriptors to verify a given deployment, as well as rewrite it to \u2026",
+                "A broad spectrum of application domains are increasingly making use of heterogeneous and large volumes of data with varying degrees of humans in the loop. The recent success of Artificial Intelligence (AI) and, in particular, Machine Learning (ML) further amplifies the relevance of data in the development, maintenance, evolution, and execution management of systems built with model-driven engineering techniques. Applications include critical infrastructure areas such as intelligent transportation, smart energy management, public healthcare, and emergency and disaster management; many of these systems are considered socio-technical systems given the human, social, and organizational factors that must be considered during the system life-cycle [1]. This article introduces a conceptual reference framework\u2013the Models and Data (MODA) framework\u2013to support a data-centric and model-driven approach for the integration of heterogeneous models and their respective data for the entire life-cycle of socio-technical systems.",
+                "The massive evolution of IT development towards new Web architectures, from service-oriented to micro-services, clouds and containers, call for changes in the way software is developed, deployed and maintained.",
+                "Large\u2010scale corrective and perfective maintenance is often automated thanks to rewriting rules using tools such as Python2to3, Spoon, or Coccinelle. Such tools consider these rules as black\u2010boxes and compose multiple rules by chaining them: giving the output of a given rewriting rule as input to the next one. It is up to the developer to identify the right order (if it exists) among all the different rules to yield the right program. In this paper, we define a formal model compatible with the black\u2010box assumption that reifies the modifications (\u0394s) made by each rule. Leveraging these \u0394s, we propose a way to safely compose multiple rules when applied to the same program by (a) ensuring the isolated application of the different rules and (b) identifying unexpected behaviors that were silently ignored before. We assess this approach on two large\u2010scale case studies: (a) identifying conflicts in the Linux source\u2010code \u2026",
+                "The integration of a model composition operator into a system is a challenging task: the properties associated with such operators can drastically change how the developers will be able to use it. In this paper, we describe a modelling framework that allows a software developer, who is not an expert in model composition, to describe the interface of the operators she wants to use, and describe the properties she expects from them to fit her needs (eg, idempotence, commutativity, associativity). This abstract description is used to pilot a property-based testing approach on generated code. We applied the approach to two case studies: feature model composition and Git merging."
+            ],
+            [
+                [
+                    "Software Composition",
+                    "Software Reuse",
+                    "Scalability"
+                ]
+            ]
+        ]
+    ]
+}

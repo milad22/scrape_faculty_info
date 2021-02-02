@@ -1,0 +1,148 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "UxUdJpcAAAAJ",
+            "Shenli Yuan",
+            "Stanford University",
+            "@stanford.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=UxUdJpcAAAAJ",
+            80,
+            [
+                "Robotics"
+            ],
+            79,
+            5,
+            5,
+            3,
+            3,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"1bEAnsEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alexa Siu",
+                    "affiliation":"Stanford University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"f3g5oeEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sean Follmer",
+                    "affiliation":"Assistant Professor of Mechanical Engineering and Computer Science (by courtesy), Stanford"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ECILkU8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Aman Satija",
+                    "affiliation":"Purdue University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"AdvSEXcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Robert P. Lucht",
+                    "affiliation":"Professor of Mechanical Engineering, Purdue University, West Lafayette, IN"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"FmrDR68AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kenneth Salisbury",
+                    "affiliation":"Professor of Computer Science and Surgery, Stanford University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6fjvChkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Andri Bezzola",
+                    "affiliation":"UC Santa Barbara; Samsung Research America"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"J1S9wLUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Lawrence Kim",
+                    "affiliation":"Stanford University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"usvR-8gAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mathieu Le Goc",
+                    "affiliation":"Google"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"UU76Pg4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Lin Shao",
+                    "affiliation":"Stanford University"
+                }
+            ]
+        ]
+    ]
+}

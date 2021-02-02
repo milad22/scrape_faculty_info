@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "9DOFJV0G",
+            "vG8flZcAAAAJ",
+            [
+                "Spin\u2013orbit-coupled Bose\u2013Einstein condensates",
+                "Synthetic magnetic fields for ultracold neutral atoms",
+                "Light-induced gauge fields for ultracold atoms",
+                "Spin\u2013orbit coupling in quantum gases",
+                "Bose-Einstein condensate in a uniform light-induced vector potential",
+                "Resonantly enhanced tunneling in a double layer quantum Hall ferromagnet",
+                "Mott-insulator transition in a two-dimensional atomic Bose gas",
+                "Visualizing edge states with an atomic Bose gas in the quantum Hall regime",
+                "Synthetic gauge fields in synthetic dimensions",
+                "Realistic time-reversal invariant topological insulators with neutral atoms"
+            ],
+            [
+                "Spin\u2013orbit (SO) coupling\u2014the interaction between a quantum particle\u2019s spin and its momentum\u2014is ubiquitous in physical systems. In condensed matter systems, SO coupling is crucial for the spin-Hall effect 1, 2 and topological insulators 3, 4, 5; it contributes to the electronic properties of materials such as GaAs, and is important for spintronic devices 6. Quantum many-body systems of ultracold atoms can be precisely controlled experimentally, and would therefore seem to provide an ideal platform on which to study SO coupling. Although an atom\u2019s intrinsic SO coupling affects its electronic structure, it does not lead to coupling between the spin and the centre-of-mass motion of the atom. Here, we engineer SO coupling (with equal Rashba 7 and Dresselhaus 8 strengths) in a neutral atomic Bose\u2013Einstein condensate by dressing two atomic spin states with a pair of lasers 9. Such coupling has not been realized \u2026",
+                "Neutral atomic Bose condensates and degenerate Fermi gases have been used to realize important many-body phenomena in their most simple and essential forms 1, 2, 3, without many of the complexities usually associated with material systems. However, the charge neutrality of these systems presents an apparent limitation\u2014a wide range of intriguing phenomena arise from the Lorentz force for charged particles in a magnetic field, such as the fractional quantum Hall effect in two-dimensional electron systems 4, 5. The limitation can be circumvented by exploiting the equivalence of the Lorentz force and the Coriolis force to create synthetic magnetic fields in rotating neutral systems. This was demonstrated by the appearance of quantized vortices in pioneering experiments 6, 7, 8, 9 on rotating quantum gases, a hallmark of superfluids or superconductors in a magnetic field. However, because of technical issues \u2026",
+                "Gauge fields are central in our modern understanding of physics at all scales. At the highest energy scales known, the microscopic universe is governed by particles interacting with each other through the exchange of gauge bosons. At the largest length scales, our Universe is ruled by gravity, whose gauge structure suggests the existence of a particle\u2014the graviton\u2014that mediates the gravitational force. At the mesoscopic scale, solid-state systems are subjected to gauge fields of different nature: materials can be immersed in external electromagnetic fields, but they can also feature emerging gauge fields in their low-energy description. In this review, we focus on another kind of gauge field: those engineered in systems of ultracold neutral atoms. In these setups, atoms are suitably coupled to laser fields that generate effective gauge potentials in their description. Neutral atoms' feeling'laser-induced gauge potentials \u2026",
+                "Spin\u2013orbit coupling links a particle\u2019s velocity to its quantum-mechanical spin, and is essential in numerous condensed matter phenomena, including topological insulators and Majorana fermions. In solid-state materials, spin\u2013orbit coupling originates from the movement of electrons in a crystal\u2019s intrinsic electric field, which is uniquely prescribed in any given material. In contrast, for ultracold atomic systems, the engineered \u2018material parameters\u2019 are tunable: a variety of synthetic spin\u2013orbit couplings can be engineered on demand using laser fields. Here we outline the current experimental and theoretical status of spin\u2013orbit coupling in ultracold atomic systems, discussing unique features that enable physics impossible in any other known setting.",
+                "We use a two-photon dressing field to create an effective vector gauge potential for Bose-Einstein-condensed atoms in the hyperfine ground state. These Raman-dressed states are spin and momentum superpositions, and we adiabatically load the atoms into the lowest energy dressed state. The effective Hamiltonian of these neutral atoms is like that of charged particles in a uniform magnetic vector potential whose magnitude is set by the strength and detuning of the Raman coupling. The spin and momentum decomposition of the dressed states reveals the strength of the effective vector potential, and our measurements agree quantitatively with a simple single-particle model. While the uniform effective vector potential described here corresponds to zero magnetic field, our technique can be extended to nonuniform vector potentials, giving nonzero effective magnetic fields.",
+                "The tunneling conductance between two parallel 2D electron systems has been measured in a regime of strong interlayer Coulomb correlations. At total Landau level filling \u03bd T= 1 the tunnel spectrum changes qualitatively when the boundary separating the compressible phase from the ferromagnetic quantized Hall state is crossed. A huge resonant enhancement replaces the strongly suppressed equilibrium tunneling characteristic of weakly coupled layers. The possible relationship of this enhancement to the Goldstone mode of the broken symmetry ground state is discussed.",
+                "Cold atoms in periodic potentials are versatile quantum systems for implementing simple models prevalent in condensed matter theory. Here we realize the 2D Bose-Hubbard model by loading a Bose-Einstein condensate into an optical lattice, and study the resulting Mott insulator. The measured momentum distributions agree quantitatively with theory (no adjustable parameters). In these systems, the Mott insulator forms in a spatially discrete shell structure which we probe by focusing on correlations in atom shot noise. These correlations show a marked dependence on the lattice depth, consistent with the changing size of the insulating shell expected from simple arguments.",
+                "Bringing ultracold atomic gases into the quantum Hall regime is challenging. We engineered an effective magnetic field in a two-dimensional lattice with an elongated-strip geometry, consisting of the sites of an optical lattice in the long direction and of three internal atomic spin states in the short direction. We imaged the localized states of atomic Bose-Einstein condensates in this strip; via excitation dynamics, we further observed both the skipping orbits of excited atoms traveling down the system\u2019s edges, analogous to edge magnetoplasmons in two-dimensional electron systems, and a dynamical Hall effect for bulk excitations. Our technique involves minimal heating, which will be important for spectroscopic measurements of the Hofstadter butterfly and realizations of Laughlin\u2019s charge pump.",
+                "We describe a simple technique for generating a cold-atom lattice pierced by a uniform magnetic field. Our method is to extend a one-dimensional optical lattice into the \u201cdimension\u201d provided by the internal atomic degrees of freedom, yielding a synthetic two-dimensional lattice. Suitable laser coupling between these internal states leads to a uniform magnetic flux within the two-dimensional lattice. We show that this setup reproduces the main features of magnetic lattice systems, such as the fractal Hofstadter-butterfly spectrum and the chiral edge states of the associated Chern insulating phases.",
+                "We lay out an experiment to realize time-reversal invariant topological insulators in alkali atomic gases. We introduce an original method to synthesize a gauge field in the near field of an atom chip, which effectively mimics the effects of spin-orbit coupling and produces quantum spin-Hall states. We also propose a feasible scheme to engineer sharp boundaries where the hallmark edge states are localized. Our multiband system has a large parameter space exhibiting a variety of quantum phase transitions between topological and normal insulating phases. Because of their remarkable versatility, cold-atom systems are ideally suited to realize topological states of matter and drive the development of topological quantum computing."
+            ],
+            [
+                [
+                    "Physics"
+                ]
+            ]
+        ]
+    ]
+}

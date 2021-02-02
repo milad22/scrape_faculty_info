@@ -1,0 +1,92 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "JombV-UAAAAJ",
+            "David J. H. Shih",
+            "Postdoctoral Fellow, Systems Biology, University of Texas M.D. Anderson Cancer Center",
+            "@mdanderson.org",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=JombV-UAAAAJ",
+            7899,
+            [
+                "Computational Medicine",
+                "Cancer Genomics",
+                "Bioinformatics",
+                "Biostatistics",
+                "Machine Learning"
+            ],
+            5654,
+            32,
+            29,
+            43,
+            43,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"5Od-c5QAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michael Taylor",
+                    "affiliation":"Toronto"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"pQj7gDMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Stefan M. Pfister",
+                    "affiliation":"Professor of Pediatrics, Hopp-Children\u00b4s Cancer Center Heidelberg (KiTZ)"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"s4JFle0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Vijay Ramaswamy",
+                    "affiliation":"Hospital for Sick Children"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"km3t3vUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Stephen Mack",
+                    "affiliation":"Cleveland Clinic"
+                }
+            ]
+        ]
+    ]
+}

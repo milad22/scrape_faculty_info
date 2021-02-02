@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "U9G12WNU",
+            "xs7IWm4AAAAJ",
+            [
+                "Gap symmetry and structure of Fe-based superconductors",
+                "Near-degeneracy of several pairing channels in multiorbital models for the Fe pnictides",
+                "Effect of strong scattering on the low-temperature penetration depth of a d-wave superconductor",
+                "Defects in correlated metals and superconductors",
+                "Mean-field theory of high-Tc superconductivity: The superexchange mechanism",
+                "Consequences of resonant impurity scattering in anisotropic superconductors: Thermal and spin relaxation properties",
+                "Proximity of antiferromagnetism and superconductivity in LaFeAsO 1\u2212 x F x: Effective Hamiltonian from ab initio studies",
+                "Anomalous temperature dependence of the magnetic field penetration depth in superconducting UBe13",
+                "Penetration Depth Measurements of 3D  Critical Behavior in  Crystals",
+                "Resonant impurity scattering in heavy fermion superconductors"
+            ],
+            [
+                "The recently discovered Fe-pnictide and chalcogenide superconductors display low-temperature properties suggesting superconducting gap structures which appear to vary substantially from family to family, and even within families as a function of doping or pressure. We propose that this apparent nonuniversality can actually be understood by considering the predictions of spin fluctuation theory and accounting for the peculiar electronic structure of these systems, coupled with the likely'sign-changing s-wave'(s\u00b1) symmetry. We review theoretical aspects, materials properties and experimental evidence relevant to this suggestion, and discuss which further measurements would be useful to settle these issues.",
+                "Weak-coupling approaches to the pairing problem in the iron pnictide superconductors have predicted a wide variety of superconducting ground states. We argue here that this is due both to the inadequacy of certain approximations to the effective low-energy band structure, and to the natural near degeneracy of different pairing channels in superconductors with many distinct Fermi surface sheets. In particular, we review attempts to construct two-orbital effective band models, the argument for their fundamental inconsistency with the symmetry of these materials, and compare the dynamical susceptibilities of two-and five-orbital tight-binding models. We then present results for the magnetic properties, pairing interactions and pairing instabilities within a five-orbital tight-binding random phase approximation model. We discuss the robustness of these results for different dopings, interaction strengths and variations in \u2026",
+                "For a pure superconductor in a d-wave-like state at temperatures T well below the critical temperature T c, the deviation \u0394\u03bb of the penetration depth from its zero-temperature value \u03bb (0) is proportional to T. When the concentration n i of strongly scattering impurities is nonzero, \u0394\u03bb\u221d T n, where n= 2 for T< T*\u226a T c and n= 1 for T*< T\u226a T c. The crossover temperature T* and the increase in \u03bb (0) scale as\u221a n i up to logarithmic corrections when resonant scattering is dominant. We argue that this case is relevant to recent measurements on YBa 2 Cu 3 O 7\u2212 \u03b4 and present specific results for a model pairing state with d x 2-y 2 symmetry.",
+                "In materials with strong local Coulomb interactions, simple defects such as atomic substitutions strongly affect both macroscopic and local properties of the system. A nonmagnetic impurity, for instance, is seen to induce magnetism nearby. Even without disorder, models of such correlated systems are generally not soluble in two or three dimensions, and so few exact results are known for the properties of such impurities. Nevertheless, some simple physical ideas have emerged from experiments and approximate theories. Here the authors review what we can learn about this problem from one-dimensional (1D) antiferromagnetically correlated systems. Experiments on the high-T c cuprate normal state which probe the effect of impurities on local charge and spin degrees of freedom are discussed, and compared with theories of single impurities in correlated hosts, as well as phenomenological effective Kondo \u2026",
+                "We develop the simplest mean-field theory of an extended Hubbard model in the limit of a large intrasite Coulomb interaction, concentrating on the possibility of superconductivity induced by the superexchange interaction and weakened by the intersite Coulomb repulsion. We calculate the critical temperature and the coherence length as a function of filling, as well as the temperature dependence of the magnetic susceptibility and specific heat. Finally, we comment on the physics of the insulating state at half filling, and mention the probable effects of fluctuations.",
+                "We present a systematic discussion of the effect of resonant impurity scattering on anisotropic model states of heavy-fermion superconductors. The impurity scattering is treated in the self-consistent T-matrix approximation including a renormalization of the frequency \u03c9 and the quasiparticle energy \u03be k. Model states considered include the axial and polar states familiar from superfluid He 3 as well as two states, termed hexial and hybrid, occurring in the group-theoretical classification of singlet states in hexagonal symmetry. We calculate the density of states, the critical temperature and the order parameter, the specific heat, the thermal conductivity, and the spin-lattice relaxation rate. Vertex corrections are included in the calculations of two-particle quantities. The observed properties of the prototype Fermi-liquid material UPt 3 show many qualitative features in common with our model. However, it turns out to be difficult \u2026",
+                "We report density functional theory calculations for the parent compound LaFeAsO of the recently discovered 26 K Fe-based superconductor LaFeAsO 1\u2212 x F x. We find that the ground state is an ordered antiferromagnet, with staggered moment of about 2.3 \u03bc B, on the border with the Mott insulating state. We fit the bands crossing the Fermi surface, derived from Fe and As, to a tight-binding Hamiltonian using maximally localized Wannier functions on Fe 3 d and As 4 p orbitals. The model Hamiltonian accurately describes the Fermi surface obtained via first-principles calculations. Due to the evident proximity of superconductivity to antiferromagnetism and the Mott transition, we suggest that the system may be an analog of the electron-doped cuprates, where antiferromagnetism and superconductivity coexist.",
+                "We report the first measurements of the magnetic-field penetration depth \u03bb in the heavy electron superconductor UBe13, performed using a SQUID magnetometer. We find the temperature dependence of \u03bb(T)-\u03bb(0) to follow aT 2 law at low temperatures, giving further evidence of extreme gap anisotropy in this compound. We calculate the temperature dependence expected for a variety of anisotropic states, including those representing certain classes of \u201cexotic\u201d pairing. In general situations, the supercurrent is not parallel to the vector potential, and a more complicated field penetration takes the place of the normal Meissner effect. We argue that the data are consistent with an energy gap with point nodes on the Fermi surface but inconsistent with the large value of the Landau parameterF 1  S                   expected for a translationally invariant Fermi liquid with large \u2026",
+                "We report measurements of the electromagnetic penetration depth \u03bb (T) in nominally pure crystals of YBa 2 Cu 3 O 6, 9 5, for temperatures close to the critical temperature T c. Over the range 0.001<(T c\u2212 T) T c< 0.1, we find that \u03bb (T)\u221d(1\u2212 T T c)\u2212 y with y\u2248 0.33, consistent with the critical behavior of the three dimensional XY model. The measured critical behavior is not affected by the presence of small amounts of Zn impurities, in agreement with the Harris criterion.",
+                "The effect of resonant impurity scattering on the properties of superconducting heavy fermion compounds proposed recently by Pethick and Pines is investigated within a self-consistent theory of pair-breaking. We discuss the thermodynamic and transport properties of axial and polar type order parameters for a range of impurity concentrations and scattering phase shifts. The results for the polar state with impurity concentrations n i\u2245 10\u2212 4 and phase shifts \u0394 o close to the unitarity limit \u03c0 2 appear to give a good description of data on UPt 3. Unusual behavior is predicted to occur in a gapless regime below a temperature T o\u2245 T c\u00b7(n i T F\/T c) 1 2."
+            ],
+            [
+                [
+                    "condensed matter physics",
+                    "statistical physics",
+                    "superconductivity"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "We have generated precise values for several key energies that are relevant to Cu-graphene or Cu-graphite systems. Such systems may find technological applications that range from graphene synthesis, to condensation heat transfer, to electrical contacts to graphene, to composites. Using density functional theory, we have calculated surface energies of the three low-index faces of bulk Cu. We find that these surface energies, calculated with the PBEsol functional, are significantly higher than with the more common PBE functional and agree more closely with experiment. We have also calculated the surface energies of graphene and graphite, the exfoliation energy between graphene and graphite, and the adhesion energies between graphene or graphite and a Cu(111) slab. The adhesion energy between a carbon layer and Cu(111) is close to the exfoliation energy and cleavage energy of graphite, the four sets \u2026",
+            "Surface energies, adhesion energies, and exfoliation energies relevant to copper-graphene and copper-graphite systems",
+            "Yong Han and King C Lai and Ann Lii-Rosales and Michael C Tringides and James W Evans and Patricia A Thiel",
+            "2019",
+            "6fMpzpcAAAAJ:YsMSGLbcyi4C",
+            19,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0039602818309671",
+            "18408605300642118512",
+            "\/scholar?cites=18408605300642118512",
+            {
+                "2019":3,
+                "2020":14,
+                "2021":2
+            }
+        ],
+        [
+            "Self-assembly of supported 2D or 3D nanocrystals (NCs) by vacuum deposition and of 3D NCs by solution-phase synthesis (with possible subsequent transfer to a support) produces intrinsically nonequilibrium systems. Individual NCs can have far-from-equilibrium shapes and composition profiles. The free energy of NC ensembles is lowered by coarsening which can involve Ostwald ripening or Smoluchowski ripening (NC diffusion and coalescence). Preservation of individual NC structure and inhibition of coarsening are key, e.g., for avoiding catalyst degradation. This review focuses on postsynthesis evolution of metallic NCs. Atomistic-level modeling typically utilizes stochastic lattice-gas models to access appropriate time and length scales. However, predictive modeling requires incorporation of realistic rates for relaxation mechanisms, e.g., periphery diffusion and intermixing, in numerous local environments \u2026",
+            "Reshaping, Intermixing, and Coarsening for Metallic Nanocrystals: Nonequilibrium Statistical Mechanical and Coarse-Grained Modeling",
+            "King C Lai and Yong Han and Peter Spurgeon and Wenyu Huang and Patricia A Thiel and Da-Jiang Liu and James W Evans",
+            "2019",
+            "6fMpzpcAAAAJ:W7OEmFMy1HYC",
+            19,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acs.chemrev.8b00582",
+            "18113999276831184176",
+            "\/scholar?cites=18113999276831184176",
+            {
+                "2019":4,
+                "2020":13,
+                "2021":2
+            }
+        ],
+        [
+            "Far-from-equilibrium evolution of metallic nanocluster shapes is highly sensitive to the atomistic-level details of surface diffusion for diverse local surface configurations. A stochastic model was developed incorporating realistic values for the multiple diffusion barriers (contrasting previous unrealistic generic prescriptions) based upon insights from homoepitaxial film growth. Kinetic Monte Carlo simulation then elucidates the conversion of Ag nanocubes to Wulff polyhedra mediated by nucleation of new {100} facets, the pinch-off of sufficiently elongated Ag nanorods, and key aspects of sintering for orientationally aligned Ag and Au nanoclusters. The time scale for sintering of Au nanoclusters observed in high-resolution transmission electron microscopy studies was also recovered.",
+            "Reshaping and sintering of 3D fcc metal nanoclusters: Stochastic atomistic modeling with realistic surface diffusion kinetics",
+            "King C Lai and James W Evans",
+            "2019",
+            "6fMpzpcAAAAJ:2osOgNQ5qMEC",
+            9,
+            "https:\/\/journals.aps.org\/prmaterials\/abstract\/10.1103\/PhysRevMaterials.3.026001",
+            "5479765805746090295",
+            "\/scholar?cites=5479765805746090295",
+            {
+                "2019":4,
+                "2020":5
+            }
+        ],
+        [
+            "In this paper, the authors describe the conditions under which Fe forms encapsulated nanocrystals beneath the surface of graphite, and they characterize these islands (graphite\u2009+\u2009Fe) thoroughly. The authors use the experimental techniques of scanning tunneling microscopy (STM) plus x-ray photoelectron spectroscopy (XPS) and the computational technique of density functional theory (DFT). Necessary conditions for encapsulation are preexisting ion-induced defects in the graphite substrate and elevated deposition temperature of 875\u2013900\u2009K. Evidence of encapsulation consists of atomically resolved STM images of a carbon lattice, both on top of the islands and on the sloping sides. The nature of the images indicates that this carbon lattice corresponds to a graphene blanket consisting of more than one graphene sheet that drapes continuously from the top of the island to the graphite substrate. The formation of \u2026",
+            "Fabricating Fe nanocrystals via encapsulation at the graphite surface",
+            "Ann Lii-Rosales and Yong Han and King C Lai and Dapeng Jing and Michael C Tringides and James W Evans and Patricia A Thiel",
+            "2019",
+            "6fMpzpcAAAAJ:ufrVoPGSRksC",
+            7,
+            "https:\/\/avs.scitation.org\/doi\/abs\/10.1116\/1.5124927",
+            "9494992571831687788",
+            "\/scholar?cites=9494992571831687788",
+            {
+                "2020":5,
+                "2021":2
+            }
+        ],
+        [
+            "The dynamics of nanoscale clusters can be distinct from macroscale behavior described by continuum formalisms. For diffusion of 2D clusters of N atoms in homoepitaxial systems mediated by edge atom hopping, macroscale theory predicts simple monotonic size scaling of the diffusion coefficient, DN \u223c N\u2212\u03b2, with \u03b2 = 3\/2. However, modeling for nanoclusters on metal(100) surfaces reveals that slow nucleation-mediated diffusion displaying weak size scaling \u03b2 < 1 occurs for \u201cperfect\u201d sizes Np = L2 and L(L+1) for integer L = 3,4,\u2026 (with unique square or near-square ground state shapes), and also for Np+3, Np+4,\u2026. In contrast, fast facile nucleation-free diffusion displaying strong size scaling \u03b2 \u2248 2.5 occurs for sizes Np+1 and Np+2. DN versus N oscillates strongly between the slowest branch (for Np+3) and the fastest branch (for Np+1). All branches merge for N = O(102), but macroscale behavior is only achieved for \u2026",
+            "Communication: Diverse nanoscale cluster dynamics: Diffusion of 2D epitaxial clusters",
+            "King C Lai and James W Evans and Da-Jiang Liu",
+            "2017",
+            "6fMpzpcAAAAJ:u5HHmVD_uO8C",
+            6,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.5008424",
+            "194837671775629926",
+            "\/scholar?cites=194837671775629926",
+            {
+                "2017":1,
+                "2018":1,
+                "2019":2,
+                "2020":2
+            }
+        ],
+        [
+            "For diffusion of two-dimensional homoepitaxial clusters of N atoms on metal (100) surfaces mediated by edge atom hopping, macroscale continuum theory suggests that the diffusion coefficient scales like D N\u223c N\u2212 \u03b2 with \u03b2= 3\/2. However, we find quite different and diverse behavior in multiple size regimes. These include:(i) facile diffusion for small sizes N< 9;(ii) slow nucleation-mediated diffusion with small \u03b2< 1 for \u201cperfect\u201d sizes N= N p= L 2 or L (L+ 1), for L= 3, 4,... having unique ground-state shapes, for moderate sizes 9\u2264 N\u2264 O (10 2); the same also applies for N= N p+ 3, N p+ 4,...(iii) facile diffusion but with large \u03b2> 2 for N= N p+ 1 and N p+ 2 also for moderate sizes 9\u2264 N\u2264 O (10 2);(iv) merging of the above distinct branches and subsequent anomalous scaling with 1\u2272 \u03b2< 3\/2, reflecting the quasifacetted structure of clusters, for larger N= O (10 2) to N= O (10 3);(v) classic scaling with \u03b2= 3\/2 for very large N= O \u2026",
+            "Diffusion of two-dimensional epitaxial clusters on metal (100) surfaces: Facile versus nucleation-mediated behavior and their merging for larger sizes",
+            "King C Lai and Da-Jiang Liu and James W Evans",
+            "2017",
+            "6fMpzpcAAAAJ:UeHWp8X0CEIC",
+            5,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.96.235406",
+            "12530712706796383410",
+            "\/scholar?cites=12530712706796383410",
+            {
+                "2018":1,
+                "2019":4
+            }
+        ],
+        [
+            "Synthesis of nanocrystals yields polydisperse distributions, which not only implies a distribution of nanocrystal sizes but also of shapes. Noting that the synthesis products often reflect kinetic effects and may not reflect minimum energy states, we propose that the nanocrystals (of gold, silver, platinum, etc.) typically used in self-assembly and directed-assembly experiments consist predominantly of variations of single-crystal face-centered cubic truncated octahedra with closed shells of atoms. Between each consecutive pair of \u201cmagic number\u201d (maximally symmetric) truncated octahedra, we identify 49 sizes with some degeneracy, for a total of 70 distinct closed-shell configurations. Energetic and geometric features of the nanocrystals for these special sizes are analyzed. Combining these results with previous theoretical models, we discuss the implications for crystal fractionalization, where polydisperse nanocrystals \u2026",
+            "Structure of Polydisperse fcc Nanocrystals: Implications for Crystal Fractionalization",
+            "King C Lai and Xun Zha and James W Evans and Alex Travesset",
+            "2019",
+            "6fMpzpcAAAAJ:Y0pCki6q_DkC",
+            4,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acs.jpcc.9b00146",
+            "16811377299387146381",
+            "\/scholar?cites=16811377299387146381",
+            {
+                "2019":2,
+                "2020":2
+            }
+        ],
+        [
+            "We use a variety of experimental techniques to characterize Cu clusters on bulk MoS 2 formed via physical vapor deposition of Cu in ultrahigh vacuum, at temperatures ranging from 300 K to 900 K. We find that large facetted clusters grow at elevated temperatures, using high Cu exposures. The cluster size distribution is bimodal, and under some conditions, large clusters are surrounded by a denuded zone. We propose that defect-mediated nucleation, and coarsening during deposition, are both operative in this system. At 780 K, a surprising type of facetted cluster emerges, and at 900 K this type predominates: pyramidal clusters with a triangular base, exposing (311) planes as side facets. This is a growth shape, rather than an equilibrium shape.",
+            "Non-equilibrium growth of metal clusters on a layered material: Cu on MoS2",
+            "Dapeng Jing and Ann Lii-Rosales and King C Lai and Qiang Li and Jaeyoun Kim and Michael C Tringides and James W Evans and Patricia A Thiel",
+            "2020",
+            "6fMpzpcAAAAJ:LkGwnXOMwfcC",
+            3,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/1367-2630\/ab84b5\/meta",
+            "7280365573136926053",
+            "\/scholar?cites=7280365573136926053",
+            {
+                "2020":2,
+                "2021":1
+            }
+        ],
+        [
+            "NiAl surfaces frequently serve as a platform for studying a broad range of physical and chemical phenomena including chemisorption, catalysis, oxidation, alloy growth, and surface nanostructure formation. Knowledge of precise values for low-index surface energies of NiAl, the most fundamental quantities characterizing surface thermodynamics, is often invaluable for understanding of these phenomena. In all previous analyses for NiAl(100) and NiAl(111), Ni- and Al-terminations are not distinguished, and half of the cleavage energy (or equivalently, the average of the surface energies of two differently terminated surfaces) is always identified as the \u201csurface energy\u201d. No values are available for individual surface energies of Ni- or Al-terminated NiAl(100) or NiAl(111) surfaces, whereas knowledge of only cleavage energy is often insufficient for analyzing surface-associated behavior. In this work, we perform \u2026",
+            "Low-index surface energies, cleavage energies, and surface relaxations for crystalline NiAl from first-principles calculations",
+            "Linxia Wang and King C Lai and Li Huang and James W Evans and Yong Han",
+            "2020",
+            "6fMpzpcAAAAJ:WF5omc3nYNoC",
+            3,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S003960281930740X",
+            "5973240130362662144",
+            "\/scholar?cites=5973240130362662144",
+            {
+                "2020":2
+            }
+        ],
+        [
+            "Experimental studies indicate that 3D crystalline metal nanoclusters (NCs) intercalated under the surface of graphite have flat-topped equilibrated shapes. We characterize the shapes of these facetted NCs sandwiched between a blanketing graphene layer and the underlying graphite substrate. Specifically, we focus on the cases of fcc Cu and hcp Fe NCs. The analysis involves numerical minimization of the system energy for a specified NC volume and NC height, the latter corresponding to the separation between parallel top and bottom facets. Our numerical analysis quantifies how the distance of the side facet planes from center of the nanocluster varies linearly with a natural characteristic linear dimension of the nanocluster. Calculated shapes of fcc Cu and hcp Fe NCs are consistent with the hexagonal footprints observed in scanning tunneling microscopy studies.",
+            "Equilibrium shapes of facetted 3D metal nanoclusters intercalated near the surface of layered materials",
+            "King C Lai and Ann Lii-Rosales and James W Evans",
+            "2020",
+            "6fMpzpcAAAAJ:MXK_kJrjxJIC",
+            2,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/1361-648X\/aba316\/meta",
+            "14168384000825134913",
+            "\/scholar?cites=14168384000825134913",
+            {
+                "2021":2
+            }
+        ]
+    ]
+}

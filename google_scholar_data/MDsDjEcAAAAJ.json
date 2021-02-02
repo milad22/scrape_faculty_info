@@ -1,0 +1,77 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "MDsDjEcAAAAJ",
+            "orlando alvarez",
+            "Instituto Geofisico Sismologico Volponi, CONICET",
+            "@conicet.gov.ar",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=MDsDjEcAAAAJ",
+            346,
+            [
+                "Earth Sciences",
+                "Geophysics"
+            ],
+            284,
+            10,
+            9,
+            10,
+            9,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fgCg4eIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Victor A Valencia",
+                    "affiliation":"Research Scientist, Washington State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"679kW4MAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mohamed Chlieh",
+                    "affiliation":"IRD - Institut de Recherche pour le D\u00e9veloppement"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"MSWk9YIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ricardo Carelli",
+                    "affiliation":"Profesor de Ingenier\u00eda de Control"
+                }
+            ]
+        ]
+    ]
+}

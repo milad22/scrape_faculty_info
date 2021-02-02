@@ -1,0 +1,48 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "KOQA9U2Y",
+            "x0NU7KEAAAAJ",
+            [
+                "Jamming is not just cool any more",
+                "Jamming at zero temperature and zero applied stress: The epitome of disorder",
+                "Random packings of frictionless particles",
+                "Dynamical heterogeneities in glasses, colloids, and granular media",
+                "The jamming transition and the marginally jammed solid",
+                "Counterion-mediated attraction between two like-charged rods",
+                "Vibrations and diverging length scales near the unjamming transition",
+                "The three-dimensional Ising model revisited numerically",
+                "Generalized L\u00e9vy walks and the role of chemokines in migration of effector CD8+ T cells",
+                "Force distributions near jamming and glass transitions"
+            ],
+            [
+                "All around us, things seem to be getting jammed. We travel on a highway and we are caught in traffic jams. At the wholefoods counter, grains and beans jam as they refuse to flow out of the bottom of the hopper into our bags. In factories, powdered raw materials clog the conduits that were designed to carry them smoothly. Our recourse in all these situations is to pound on our conduits, hoppers and dashboards until the jam miraculously disappears. We are usually so irritated that we have not really noticed that the jammed state, in all of these situations, has common properties. For example, the vibrations from the pounding actually do some good in reinitiating flow\u2014except in the case of the traffic jam. Does the jammed solid then have different properties from the solids we normally encounter in the laboratory?Writing in Physical Review Letters, Cates, Wittmer, Bouchaud and Claudin 1 contend that these jammed \u2026",
+                "We have studied how two-and three-dimensional systems made up of particles interacting with finite range, repulsive potentials jam (ie, develop a yield stress in a disordered state) at zero temperature and zero applied stress. At low packing fractions \u03c6, the system is not jammed and each particle can move without impediment from its neighbors. For each configuration, there is a unique jamming threshold \u03c6 c at which particles can no longer avoid each other, and the bulk and shear moduli simultaneously become nonzero. The distribution of \u03c6 c values becomes narrower as the system size increases, so that essentially all configurations jam at the same packing fraction in the thermodynamic limit. This packing fraction corresponds to the previously measured value for random close packing. In fact, our results provide a well-defined meaning for \u201crandom close packing\u201d in terms of the fraction of all phase space with \u2026",
+                "We conduct numerical simulations of random packings of frictionless particles at T= 0. The packing fraction where the pressure becomes nonzero is the same as the jamming threshold, where the static shear modulus becomes nonzero. The distribution of threshold packing fractions narrows, and its peak approaches random close packing as the system size increases. For packing fractions within the peak, there is no self-averaging, leading to exponential decay of the interparticle force distribution.",
+                "Most of the solid materials we use in everyday life, from plastics to cosmetic gels exist under a non-crystalline, amorphous form: they are glasses. Yet, we are still seeking a fundamental explanation as to what glasses really are and to why they form. In this book, we survey the most recent theoretical and experimental research dealing with glassy physics, from molecular to colloidal glasses and granular media. Leading experts in this field present broad and original perspectives on one of the deepest mysteries of condensed matter physics, with an emphasis on the key role played by heterogeneities in the dynamics of glassiness.",
+                "When a system jams, it undergoes a transition from a flowing to a rigid state. Despite this important change in the dynamics, the internal structure of the system remains disordered in the solid as well as the fluid phase. In this way jamming is quite different from crystallization, the other common way in which a fluid solidifies. Jamming is a paradigm for thinking about how many different types of fluids\u2014from molecular liquids to macroscopic granular matter\u2014develop rigidity. Here we review recent work on the jamming transition. We start with perhaps the simplest model: frictionless spheres interacting via repulsive finite-range forces at zero temperature. In this highly idealized case, the transition has aspects of both first- and second-order transitions. From studies of the normal modes of vibration for the marginally jammed solid, new physics has emerged for how a material can be rigid without having the elastic \u2026",
+                "We present a systematic theoretical approach to counterion-mediated interactions between like-charged rigid polymers, by treating condensed and free counterions as separate species in chemical equilibrium. We find that the condensed counterions introduce charge fluctuations along the length of the rods that give rise to attractive interactions, in quantitative agreement with recent simulations. This is similar to the van der Waals interaction, except that all multipoles, not just dipoles, must be included.",
+                "We numerically study the vibrations of jammed packings of particles interacting with finite-range, repulsive potentials at zero temperature. As the packing fraction \u03d5 is lowered towards the onset of unjamming at \u03d5 c, the density of vibrational states approaches a nonzero value in the limit of zero frequency. For \u03d5> \u03d5 c, there is a crossover frequency, \u03c9* below which the density of states drops towards zero. This crossover frequency obeys power-law scaling with \u03d5\u2212 \u03d5 c. Characteristic length scales, determined from the dominant wave vector contributing to the eigenmode at \u03c9*, diverge as power laws at the unjamming transition.",
+                "Several basic universal amplitude ratios are studied afresh for three-dimensional nearest-neighbor Ising models. In revising earlier work, modern estimates of the critical temperature and exponents are used in conjunction with biased inhomogeneous differential approximants to extrapolate the longest available series expansions to find the critical amplitudes: C\u00b1for the susceptibility \u03c7; \u0192 1\u00b1for the correlation length \u03b6 1; A\u00b1for the specific heat C (T); and B for the spontaneous magnetization M 0. We find C+ C-= 4.95\u00b10.15, \u0192 1+ \u0192 1-= 1.960\u00b10.01, A+ A-= 0.523\u00b10.009, \u03b1A+ C+ B+= 0.0581\u00b10.0010, while \u03b1A+(\u0192 1+) 3 verifies hyperuniversality to within\u00b10.8%. A method for calculating amplitude ratios which allows for corrections to scaling yields estimates for C+ C-and \u0192 1+ \u0192 1-in excellent agreement with those derived from the individual amplitudes. Finally, explicit formulae are given for the numerical evaluation of \u03c7 (T), \u03b6 1 \u2026",
+                "Chemokines have a central role in regulating processes essential to the immune function of T cells 1, 2, 3, such as their migration within lymphoid tissues and targeting of pathogens in sites of inflammation. Here we track T cells using multi-photon microscopy to demonstrate that the chemokine CXCL10 enhances the ability of CD8+ T cells to control the pathogen Toxoplasma gondii in the brains of chronically infected mice. This chemokine boosts T-cell function in two different ways: it maintains the effector T-cell population in the brain and speeds up the average migration speed without changing the nature of the walk statistics. Notably, these statistics are not Brownian; rather, CD8+ T-cell motility in the brain is well described by a generalized L\u00e9vy walk. According to our model, this unexpected feature enables T cells to find rare targets with more than an order of magnitude more efficiency than Brownian random \u2026",
+                "We calculate the distribution of interparticle normal forces P (F) near the glass and jamming transitions in model supercooled liquids and foams, respectively. P (F) develops a peak that appears near the glass or jamming transitions, whose height increases with decreasing temperature, decreasing shear stress and increasing packing density. A similar shape of P (F) was observed in experiments on static granular packings. We propose that the appearance of this peak signals the development of a yield stress. The sensitivity of the peak to temperature, shear stress, and density lends credence to the recently proposed generalized jamming phase diagram."
+            ],
+            [
+                [
+                    "condensed matter physics",
+                    "biophysics"
+                ]
+            ]
+        ]
+    ]
+}

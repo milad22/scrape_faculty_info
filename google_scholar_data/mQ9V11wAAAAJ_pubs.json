@@ -1,0 +1,127 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4
+    ],
+    "data":[
+        [
+            "We introduce a semistochastic implementation of the power method to compute, for very large matrices, the dominant eigenvalue and expectation values involving the corresponding eigenvector. The method is semistochastic in that the matrix multiplication is partially implemented numerically exactly and partially stochastically with respect to expectation values only. Compared to a fully stochastic method, the semistochastic approach significantly reduces the computational time required to obtain the eigenvalue to a specified statistical uncertainty. This is demonstrated by the application of the semistochastic quantum Monte Carlo method to systems with a sign problem: the fermion Hubbard model and the carbon dimer.",
+            "Semistochastic projector monte carlo method",
+            "FR Petruzielo and AA Holmes and Hitesh J Changlani and MP Nightingale and CJ Umrigar",
+            "2012",
+            "mQ9V11wAAAAJ:u-x6o8ySG0sC",
+            161,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.109.230201",
+            "14925432926167686796",
+            "\/scholar?cites=14925432926167686796",
+            {
+                "2012":1,
+                "2013":4,
+                "2014":17,
+                "2015":14,
+                "2016":24,
+                "2017":19,
+                "2018":28,
+                "2019":14,
+                "2020":38
+            }
+        ],
+        [
+            "We describe correlator product states, a class of numerically efficient many-body wave functions to describe strongly correlated wave functions in any dimension. Correlator product states introduce direct correlations between physical degrees of freedom in a simple way, yet provide the flexibility to describe a wide variety of systems. We show that many interesting wave functions can be mapped exactly onto correlator product states, including Laughlin\u2019s quantum Hall wave function, Kitaev\u2019s toric code states, and Huse and Elser\u2019s frustrated spin states. We also outline the relationship between correlator product states and other common families of variational wave functions such as matrix product states, tensor product states, and resonating valence-bond states. Variational calculations for the Heisenberg and spinless Hubbard models demonstrate the promise of correlator product states for describing both two \u2026",
+            "Approximating strongly correlated wave functions with correlator product states",
+            "Hitesh J Changlani and Jesse M Kinder and Cyrus J Umrigar and Garnet Kin-Lic Chan",
+            "2009",
+            "mQ9V11wAAAAJ:u5HHmVD_uO8C",
+            119,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.80.245116",
+            "10105130444883239916",
+            "\/scholar?cites=10105130444883239916",
+            {
+                "2010":5,
+                "2011":14,
+                "2012":15,
+                "2013":3,
+                "2014":10,
+                "2015":11,
+                "2016":10,
+                "2017":10,
+                "2018":19,
+                "2019":10,
+                "2020":12
+            }
+        ],
+        [
+            "We introduce an algorithm for sampling many-body quantum states in Fock space. The algorithm efficiently samples states with probability approximately proportional to an arbitrary function of the second-quantized Hamiltonian matrix element connecting the sampled state to the current state. We apply the new sampling algorithm to the recently developed semistochastic full configuration interaction quantum Monte Carlo (S-FCIQMC) method, a semistochastic implementation of the power method for projecting out the ground state energy in a basis of Slater determinants. Our new sampling method requires modest additional computational time and memory compared to uniform sampling but results in newly spawned weights that are approximately of the same magnitude, thereby greatly improving the efficiency of projection. A comparison in efficiency between our sampling algorithm and uniform sampling is \u2026",
+            "Efficient heat-bath sampling in Fock space",
+            "Adam A Holmes and Hitesh J Changlani and CJ Umrigar",
+            "2016",
+            "mQ9V11wAAAAJ:ULOm3_A8WrAC",
+            63,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acs.jctc.5b01170",
+            "8202118689828240325",
+            "\/scholar?cites=8202118689828240325",
+            {
+                "2015":1,
+                "2016":3,
+                "2017":11,
+                "2018":13,
+                "2019":8,
+                "2020":26,
+                "2021":1
+            }
+        ],
+        [
+            "Parafermions are exotic quasiparticles with non-Abelian fractional statistics that can be realized and stabilized in one-dimensional models that are generalizations of the Kitaev p-wave wire. We study the simplest generalization, ie, the Z 3 parafermionic chain. Using a Jordan-Wigner transform we focus on the equivalent three-state chiral clock model, and study its rich phase diagram using the density matrix renormalization group technique. We perform our analyses using quantum entanglement diagnostics which allow us to determine phase boundaries, and the nature of the phase transitions. In particular, we study the transition between the topological and trivial phases, as well as to an intervening incommensurate phase which appears in a wide region of the phase diagram. The phase diagram is predicted to contain a Lifshitz type transition which we confirm using entanglement measures. We also attempt to \u2026",
+            "Phase diagram of the Z 3 parafermionic chain with chiral interactions",
+            "Ye Zhuang and Hitesh J Changlani and Norm M Tubman and Taylor L Hughes",
+            "2015",
+            "mQ9V11wAAAAJ:Zph67rFs4hoC",
+            54,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.92.035154",
+            "15835282561380211970",
+            "\/scholar?cites=15835282561380211970",
+            {
+                "2016":8,
+                "2017":5,
+                "2018":19,
+                "2019":11,
+                "2020":9,
+                "2021":2
+            }
+        ],
+        [
+            "We study the phase diagram of the spin-1 quantum bilinear-biquadratic antiferromagnet on the kagome lattice using exact diagonalization and the density matrix renormalization group algorithm. The SU (3)-symmetric point of this model Hamiltonian is a spontaneously trimerized state whose qualitative nature persists even at the Heisenberg point, a finding that contrasts previous proposals. We report the ground state energy per site of the Heisenberg model to be\u2212 1.410 (2) and establish the presence of a spin gap.",
+            "Trimerized ground state of the spin-1 Heisenberg antiferromagnet on the kagome lattice",
+            "Hitesh J Changlani and Andreas M L\u00e4uchli",
+            "2015",
+            "mQ9V11wAAAAJ:RGFaLdJalmkC",
+            44,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.91.100407",
+            "79529088362627628",
+            "\/scholar?cites=79529088362627628",
+            {
+                "2015":7,
+                "2016":12,
+                "2017":6,
+                "2018":10,
+                "2019":3,
+                "2020":6
+            }
+        ]
+    ]
+}

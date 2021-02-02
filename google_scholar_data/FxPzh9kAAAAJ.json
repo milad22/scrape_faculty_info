@@ -1,0 +1,68 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "FxPzh9kAAAAJ",
+            "Alan Evans, PhD, FRSC, FCAHS",
+            "James McGill Professor of Neurology, Psychiatry, McGill U., Director, Healthy Brains, Health Lives",
+            "@mcgill.ca",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=FxPzh9kAAAAJ",
+            159430,
+            [
+                "brain imaging",
+                "MRI",
+                "PET",
+                "connectivity",
+                "neuroinformatics"
+            ],
+            50265,
+            196,
+            108,
+            704,
+            494,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ib5GlrQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"D. Louis Collins",
+                    "affiliation":"Professor of Biomedical Engineering and Neurology & Neurosurgery, McGill University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"g1EY49YAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Pierre-Louis Bazin",
+                    "affiliation":"IMCN, Universiteit van Amsterdam, and Max Planck Institute for Human Cognitive and Brain Sciences"
+                }
+            ]
+        ]
+    ]
+}

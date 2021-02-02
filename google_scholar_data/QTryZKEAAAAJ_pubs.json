@@ -1,0 +1,96 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4
+    ],
+    "data":[
+        [
+            "We consider the logarithmic negativity and related quantities of time evolution operators. We study free fermion, compact boson, and holographic conformal field theories (CFTs) as well as numerical simulations of random unitary circuits and integrable and chaotic spin chains. The holographic behavior strongly deviates from known non-holographic CFT results and displays clear signatures of maximal scrambling. Intriguingly, the random unitary circuits display nearly identical behavior to the holographic channels. Generically, we find the \u201cline-tension picture\u201d to effectively capture the entanglement dynamics for chaotic systems and the \u201cquasi-particle picture\u201d for integrable systems. With this motivation, we propose an effective \u201cline-tension\u201d that captures the dynamics of the logarithmic negativity in chaotic systems in the spacetime scaling limit. We compare the negativity and mutual information leading us to find \u2026",
+            "Quantum vs. classical information: operator negativity as a probe of scrambling",
+            "Jonah Kudler-Flam and Masahiro Nozaki and Shinsei Ryu and Mao Tian Tan",
+            "2020",
+            "QTryZKEAAAAJ:2osOgNQ5qMEC",
+            33,
+            "https:\/\/link.springer.com\/article\/10.1007\/JHEP01(2020)031",
+            "14440757350416637778",
+            "\/scholar?cites=14440757350416637778",
+            {
+                "2019":4,
+                "2020":29
+            }
+        ],
+        [
+            "We study operator entanglement measures of the unitary evolution operators of (1+ 1)-dimensional conformal field theories (CFTs), aiming to uncover their scrambling and chaotic behaviors. In particular, we compute the bi-partite and tri-partite mutual information for various configurations of input and output subsystems, and as a function of time. We contrast three different CFTs: the free fermion theory, compactified free boson theory at various radii, and CFTs with holographic dual. We find that the bi-partite mutual information exhibits distinct behaviors for these different CFTs, reflecting the different information scrambling capabilities of these unitary operators; while a quasi-particle picture can describe the case of the free fermion and free boson CFTs well, it completely fails for the case of holographic CFTs. Similarly, the tri-partite mutual information also distinguishes the unitary evolution operators of different CFTs \u2026",
+            "Signature of quantum chaos in operator entanglement in 2d CFTs",
+            "Laimei Nie and Masahiro Nozaki and Shinsei Ryu and Mao Tian Tan",
+            "2019",
+            "QTryZKEAAAAJ:u5HHmVD_uO8C",
+            15,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/1742-5468\/ab3a29\/meta",
+            "315967692676883169",
+            "\/scholar?cites=315967692676883169",
+            {
+                "2019":3,
+                "2020":12
+            }
+        ],
+        [
+            "We revisit the computation of particle number fluctuations and the R\u00e9nyi entanglement entropy of a two-dimensional Fermi gas using multidimensional bosonization. In particular, we compute these quantities for a circular Fermi surface and a circular entangling surface. Both quantities display a logarithmic violation of the area law, and the R\u00e9nyi entropy agrees with the Widom conjecture. Lastly, we compute the symmetry-resolved entanglement entropy for the two-dimensional circular Fermi surface and find that, while the total entanglement entropy scales as R ln R, the symmetry-resolved entanglement scales as R ln R, where R is the radius of the subregion of our interest.",
+            "Particle number fluctuations, R\u00e9nyi entropy, and symmetry-resolved entanglement entropy in a two-dimensional Fermi gas from multidimensional bosonization",
+            "Mao Tian Tan and Shinsei Ryu",
+            "2020",
+            "QTryZKEAAAAJ:d1gkVwhDpl0C",
+            12,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.101.235169",
+            "17821335437746635162",
+            "\/scholar?cites=17821335437746635162",
+            {
+                "2020":11,
+                "2021":1
+            }
+        ],
+        [
+            "We study the robustness of quantum and classical information to perturbations implemented by local operator insertions. We do this by computing multipartite entanglement measures in the Hilbert space of local operators in the Heisenberg picture. The sensitivity to initial conditions that we explore is an illuminating manifestation of the butterfly effect in quantum many-body systems. We derive a\" membrane theory\" in Haar random unitary circuits to compute the mutual information, logarithmic negativity, and reflected entropy in the local operator state by mapping to a classical statistical mechanics problem and find that any local operator insertion delocalizes information as fast as is allowed by causality. Identical behavior is found for conformal field theories admitting holographic duals where the bulk geometry is described by the eternal black hole with a local object situated at the horizon. In contrast to these maximal scramblers, only an  amount of information is found to be delocalized by local operators in integrable systems such as free fermions and Clifford circuits.",
+            "Entanglement of local operators and the butterfly effect",
+            "Jonah Kudler-Flam and Masahiro Nozaki and Shinsei Ryu and Mao Tian Tan",
+            "2020",
+            "QTryZKEAAAAJ:u-x6o8ySG0sC",
+            5,
+            "https:\/\/arxiv.org\/abs\/2005.14243",
+            "10026713175728540391",
+            "\/scholar?cites=10026713175728540391",
+            {
+                "2020":5
+            }
+        ],
+        [
+            "We characterize the growth and spreading of operators and entanglement in two paradigmatic non-thermalizing phases-the many-body localized phase and the random singlet phase-using out-of-time-ordered correlators, the entanglement contour, and operator entanglement. We contrast these phases with strongly thermalizing holographic conformal field theories and fully localized Anderson insulators. We obtain a phenomenological description of the operator and state dynamics of these phases and demonstrate the utility of the entanglement contour and operator entanglement measures as useful probes of slowly scrambling and non-thermalizing dynamics.",
+            "Operator and entanglement growth in non-thermalizing systems: many-body localization and the random singlet phase",
+            "Ian MacCormack and Mao Tian Tan and Jonah Kudler-Flam and Shinsei Ryu",
+            "2020",
+            "QTryZKEAAAAJ:9yKSN-GCB0IC",
+            5,
+            "https:\/\/arxiv.org\/abs\/2001.08222",
+            "14302334743320294823",
+            "\/scholar?cites=14302334743320294823",
+            {
+                "2020":5
+            }
+        ]
+    ]
+}

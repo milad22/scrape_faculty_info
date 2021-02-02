@@ -1,0 +1,114 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "TkVS0FAAAAAJ",
+            "Deepika Menon",
+            "Assistant Professor of Science Education, University of Nebraska-Lincoln",
+            "@unl.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=TkVS0FAAAAAJ",
+            223,
+            [
+                "Preservice science teacher education",
+                "Technology self-efficacy",
+                "Use of mobile-technologies in science education"
+            ],
+            205,
+            7,
+            6,
+            6,
+            5,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"inA_72YAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Troy D. Sadler",
+                    "affiliation":"Thomas James Professor in Experiential Learning, University of North Carolina at Chapel Hill"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"E82h_gYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Somnath Sinha",
+                    "affiliation":"CalTeach, University of California, Merced"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3aAKzm0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Deborah Hanuscin",
+                    "affiliation":"Western Washington University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"UUMbDekAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"William Romine",
+                    "affiliation":"Wright State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"GiZFmDAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Delinda van Garderen",
+                    "affiliation":"University of Missouri"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"AgZxhFsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Saiqa Azam",
+                    "affiliation":"Memorial University of Newfoundland"
+                }
+            ]
+        ]
+    ]
+}

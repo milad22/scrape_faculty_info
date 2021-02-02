@@ -1,0 +1,77 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "4LkudBkAAAAJ",
+            "Steven L. Manley",
+            "Professor Emeritus of Biological Sciences, CSU- Long Beach",
+            "@csulb.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=4LkudBkAAAAJ",
+            1532,
+            [
+                "Marine algal physiology & biochemistry",
+                "algal halocarbons. Retired"
+            ],
+            317,
+            20,
+            11,
+            27,
+            13,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"wkQXN5UAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kelly D. Goodwin",
+                    "affiliation":"NOAA"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"2qL4h9gAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kelly Redeker",
+                    "affiliation":"Lecturer in Biology, University of York"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"XZjpCNYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"George A. Jackson",
+                    "affiliation":"Professor of Oceanography, Texas A&M University"
+                }
+            ]
+        ]
+    ]
+}

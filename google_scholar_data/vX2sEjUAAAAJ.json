@@ -1,0 +1,55 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "vX2sEjUAAAAJ",
+            "Somayyeh Sheikholeslami",
+            "Adjunct Assistant Professor, Oakland University",
+            "",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=vX2sEjUAAAAJ",
+            10,
+            [
+                "Computational Physics",
+                "Mathematical modeling",
+                "Machine Learning",
+                "Condensed Matter and Biophysics"
+            ],
+            8,
+            2,
+            2,
+            0,
+            0,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"t6BGOl8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"James Lambers",
+                    "affiliation":"University of Southern Mississippi"
+                }
+            ]
+        ]
+    ]
+}

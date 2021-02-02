@@ -1,0 +1,66 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "2C161EQAAAAJ",
+            "Michael P. D'Antonio",
+            "Graduate Student, Stanford University",
+            "@stanford.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=2C161EQAAAAJ",
+            13,
+            [
+                "paleobotany",
+                "evolutionary biology",
+                "geology"
+            ],
+            13,
+            2,
+            2,
+            1,
+            1,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"BC0xxf8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"C. Kevin Boyce",
+                    "affiliation":"Professor of Paleontology, Stanford University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"oi6hP9IAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Daniel E. Ibarra",
+                    "affiliation":"Miller Institute and UC President\u2019s Postdoctoral Fellow, University of California, Berkeley"
+                }
+            ]
+        ]
+    ]
+}

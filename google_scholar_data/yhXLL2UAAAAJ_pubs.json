@@ -1,0 +1,126 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "data":[
+        [
+            "We demonstrate a classical analog of electromagnetically induced transparency (EIT) in a highly flexible planar terahertz metamaterial (MM) comprised of three-gap split-ring resonators. The keys to achieve EIT in this system are the frequency detuning and hybridization processes between two bright modes coexisting in the same unit cell as opposed to bright-dark modes. We present experimental verification of two bright modes coupling for a terahertz EIT-MM in the context of numerical results and theoretical analysis based on a coupled Lorentz oscillator model. In addition, a hybrid variation of the EIT-MM is proposed and implemented numerically to dynamically tune the EIT window by incorporating photosensitive silicon pads in the split gap region of the resonators. As a result, this hybrid MM enables the active optical control of a transition from the on state (EIT mode) to the off state (dipole mode).",
+            "Electromagnetically induced transparency control in terahertz metasurfaces based on bright-bright mode coupling",
+            "Riad Yahiaoui and Joshua A Burrow and Sirak M Mekonen and Andrew Sarangan and Jay Mathews and Imad Agha and Thomas A Searles",
+            "2018",
+            "yhXLL2UAAAAJ:tS2w5q8j5-wC",
+            65,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.97.155403",
+            "10932786369531287454",
+            "\/scholar?cites=10932786369531287454",
+            {
+                "2018":6,
+                "2019":22,
+                "2020":34,
+                "2021":3
+            }
+        ],
+        [
+            "Through magnetic linear dichroism spectroscopy, the magnetic susceptibility anisotropy of metallic single-walled carbon nanotubes has been extracted and found to be 2\u20134 times greater than values for semiconducting nanotubes. This large anisotropy can be understood in terms of large orbital paramagnetism of metallic nanotubes arising from the Aharonov-Bohm-phase-induced gap opening in a parallel field, and our calculations quantitatively reproduce these results. We also compare our values with previous work for semiconducting nanotubes, which confirm that the magnetic susceptibility anisotropy does not increase linearly with the diameter for small-diameter nanotubes.",
+            "Large anisotropy in the magnetic susceptibility of metallic carbon nanotubes",
+            "TA Searles and Y Imanaka and T Takamasu and H Ajiki and JA Fagan and EK Hobbie and J Kono",
+            "2010",
+            "yhXLL2UAAAAJ:u-x6o8ySG0sC",
+            37,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.105.017403",
+            "453763015526281718",
+            "\/scholar?cites=453763015526281718",
+            {
+                "2010":3,
+                "2011":4,
+                "2012":8,
+                "2013":3,
+                "2014":2,
+                "2015":3,
+                "2016":2,
+                "2017":2,
+                "2018":6,
+                "2019":4
+            }
+        ],
+        [
+            "We report the polarization-dependent electromagnetic response from a series of novel terahertz (THz) metasurfaces where asymmetry is introduced through the displacement of two adjacent metallic arms separated by a distance \u03b4. For all polarization states, the symmetric metasurface exhibits a low quality (Q) factor fundamental dipole mode. By breaking the symmetry, we experimentally observe a secondary dipole-like mode with a Q factor nearly 9\u00d7 higher than the fundamental resonance. As \u03b4 increases, the fundamental dipole mode f_1 redshifts and the secondary mode f_2 blueshifts creating a highly transmissive spectral window. Polarization-dependent measurements reveal a full suppression of f_2 for all asymmetries at \u03b8 \u2265 60\u00b0. Furthermore, at \u03b4 \u2265 60 \u03bcm, we observe a polarization selective electromagnetic induced transparency (EIT) for the fundamental mode. This work paves the way for applications in \u2026",
+            "Polarization-dependent electromagnetic responses of ultrathin and highly flexible asymmetric terahertz metasurfaces",
+            "Joshua A Burrow and Riad Yahiaoui and Andrew Sarangan and Imad Agha and Jay Mathews and Thomas A Searles",
+            "2017",
+            "yhXLL2UAAAAJ:08ZZubdj9fEC",
+            27,
+            "https:\/\/www.osapublishing.org\/abstract.cfm?uri=oe-25-26-32540",
+            "682877806501693585",
+            "\/scholar?cites=682877806501693585",
+            {
+                "2018":5,
+                "2019":10,
+                "2020":12
+            }
+        ],
+        [
+            "Traditional lattice-induced transparency demonstrations are activated by varying the meta-atom lattice constant such that the plasmonic and lattice modes interfere. Here we report on the observation of enhanced coupling between two eigenmodes (first- and second-order) by varying the lattice parameter in a symmetric split ring resonator design. The higher-order quasi-dark mode blueshifts, introducing strong coupling with the fundamental bright mode for periods above 345 \u03bcm. Numerical simulations are verified experimentally and supplemented with a two-oscillator model showing good agreement. Furthermore, larger positive group delay values are achieved in the vicinity of the transparency window with minimal absorption, indicating a strong potential for slow light applications.",
+            "Eigenmode hybridization enables lattice-induced transparency in symmetric terahertz metasurfaces for slow light applications",
+            "Joshua A Burrow and Riad Yahiaoui and Andrew Sarangan and Jay Mathews and Imad Agha and Thomas A Searles",
+            "2019",
+            "yhXLL2UAAAAJ:1qzjygNMrQYC",
+            7,
+            "https:\/\/www.osapublishing.org\/abstract.cfm?uri=ol-44-11-2705",
+            "891848445422212575",
+            "\/scholar?cites=891848445422212575",
+            {
+                "2019":3,
+                "2020":4
+            }
+        ],
+        [
+            "Over the past decade, substantial progress has been made in the chemical control (chiral enrichment, length sorting, handedness selectivity, and filling substance) of single-wall carbon nanotubes (SWCNTs). Recently, it was shown that large, horizontally aligned films can be created out of postprocessed SWCNT solutions. Here, we use machine-vision automation and parallelization to simultaneously produce globally aligned SWCNT films using pressure-driven filtration. Feedback control enables filtration to occur with a constant flow rate that not only improves the nematic ordering of the SWCNT films but also provides the ability to align a wide range of SWCNT types and on a variety of nanoporous membranes using the same filtration parameters. Using polarized optical spectroscopic techniques, we show that under standard implementation, meniscus combing produces a two-dimensional radial SWCNT \u2026",
+            "Global alignment of solution-based single-wall carbon nanotube films via machine-vision controlled filtration",
+            "Joshua S Walker and Jeffrey A Fagan and Adam J Biacchi and Valerie A Kuehl and Thomas A Searles and Angela R Hight Walker and William D Rice",
+            "2019",
+            "yhXLL2UAAAAJ:J-pR_7NvFogC",
+            6,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acs.nanolett.9b02853",
+            "13137233907665227668",
+            "\/scholar?cites=13137233907665227668",
+            {
+                "2020":5,
+                "2021":1
+            }
+        ],
+        [
+            "We present a hybrid graphene metasurface and its modulation by electrostatically tuning the conductivity of the graphene. Through modification of unit cell symmetry, multiple Fano-like resonances arise for additional modes over a 300 GHz range.",
+            "Graphene-based Metasurfaces for Multimode Tunable Terahertz Modulators",
+            "Thomas A Searles and Mehdi Rezaee and Amirhassan Shams-Ansari and Erin Strickland and Tina L Brower-Thomas and Gary L Harris and Riad Yahiaoui",
+            "2017",
+            "yhXLL2UAAAAJ:LkGwnXOMwfcC",
+            4,
+            "https:\/\/www.osapublishing.org\/abstract.cfm?uri=CLEO_SI-2017-JW2A.105",
+            "17298831738159742017",
+            "\/scholar?cites=17298831738159742017",
+            {
+                "2017":1,
+                "2018":2,
+                "2019":1
+            }
+        ]
+    ]
+}

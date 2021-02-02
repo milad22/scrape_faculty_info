@@ -1,0 +1,78 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "lBvWI8wAAAAJ",
+            "Huimin Liu",
+            "Shaanxi Normal University",
+            "@snnu.edu.cn",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=lBvWI8wAAAAJ",
+            614,
+            [
+                "Nano Materials",
+                "Fuel cell",
+                "Electrochemistry"
+            ],
+            614,
+            8,
+            8,
+            8,
+            8,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ssfvn2sAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yu Chen (\u9648\u715c \u9655\u897f\u5e08\u8303\u5927\u5b66)",
+                    "affiliation":"Dr. and Prof. of Chemistry, Shaanxi Normal University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"k0VuyFoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Shuhe Han",
+                    "affiliation":"Tianjin University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"AHJbZFEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Bao Yu Xia",
+                    "affiliation":"Huazhong University of Science and Technology"
+                }
+            ]
+        ]
+    ]
+}

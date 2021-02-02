@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "BBRVM60F",
+            "LOLZ61AAAAAJ",
+            [
+                "Large parallel cosmic string simulations: New results on loop production",
+                "Number of cosmic string loops",
+                "Stochastic gravitational wave background from smoothed cosmic string loops",
+                "Inter-brane interactions in compact spaces and brane inflation",
+                "Gravitational waves from broken cosmic strings: the bursts and the beads",
+                "Efficient numerical solution to vacuum decay with many fields",
+                "Rapid tunneling and percolation in the landscape",
+                "A wrinkle in coleman-de luccia",
+                "Cosmic superstring gravitational lensing phenomena: Predictions for networks of  strings",
+                "Early structure formation from cosmic string loops"
+            ],
+            [
+                "Using a new parallel computing technique, we have run the largest cosmic string simulations ever performed. Our results confirm the existence of a long transient period where a nonscaling distribution of small loops is produced at lengths depending on the initial correlation scale. As time passes, this initial population gives way to the true scaling regime, where loops of size approximately equal to one-twentieth the horizon distance become a significant component. We observe similar behavior in matter and radiation eras, as well as in flat space. In the matter era, the scaling population of large loops becomes the dominant component; we expect this to eventually happen in the other eras as well.",
+                "Using recent simulation results, we provide the mass and speed spectrum of cosmic string loops. This is the quantity of primary interest for many phenomenological signatures of cosmic strings, and it can be accurately predicted using recently acquired detailed knowledge of the loop production function. We emphasize that gravitational smoothing of long strings plays a negligible role in determining the total number of existing loops. We derive a bound on the string tension imposed by recent constraints on the stochastic gravitational wave background from pulsar timing arrays, finding G \u03bc\u2264 2.8\u00d7 10\u2212 9. We also provide a derivation of the Boltzmann equation for cosmic string loops in the language of differential forms.",
+                "We do a start-to-finish calculation of the stochastic gravitational wave background to be expected from cosmic strings. We start from a population of string loops taken from simulations, smooth these by Lorentzian convolution as a model of gravitational backreaction, calculate the average spectrum of gravitational waves emitted by the string population at any given time, and propagate it through a standard model cosmology to find the stochastic background today. Except for modeling back reaction as smoothing, we take into account all known effects, including changes in the number of cosmological relativistic degrees of freedom at early times and the possibility that some energy is in rare bursts that we might never have observed.",
+                "It has been pointed out that brane\u2013anti-brane inflation without warped geometry is not viable due to compactification effects (in the simplified scenario where the inflaton is decoupled from the compactification moduli). We show that the inflationary scenario with branes at a small angle in this simplified scenario remains viable. We also point out that brane\u2013anti-brane inflation may still be viable under some special conditions. We also discuss a way to treat potentials in compact spaces that should be useful in the analysis of more realistic brane inflationary scenarios.",
+                "We analyze the gravitational wave signatures of a network of metastable cosmic strings. We consider the case of cosmic string instability to breakage, with no primordial population of monopoles. This scenario is well motivated from grand unified theories and string-theoretic models with an inflationary phase below the grand unified theories\/string scale. The network initially evolves according to a scaling solution, but with breakage events resulting from confined monopoles (beads) being pair produced and accelerated apart. We find these ultrarelativistic beads to be a potent source of gravitational wave bursts, detectable by initial LIGO, advanced LIGO, and LISA. Indeed, advanced LIGO could observe bursts from strings with tensions as low as G \u03bc\u223c 10\u2212 12. In addition, we find that ultrarelativistic beads produce a scale-invariant stochastic background detectable by LIGO, LISA, and pulsar timing experiments. The \u2026",
+                "Finding numerical solutions describing bubble nucleation is notoriously difficult in more than one field space dimension. Traditional shooting methods fail because of the extreme non-linearity of field evolution over a macroscopic distance as a function of initial conditions. Minimization methods tend to become either slow or imprecise for larger numbers of fields due to their dependence on the high dimensionality of discretized function spaces. We present a new method for finding solutions which is both very efficient and able to cope with the non-linearities. Our method directly integrates the equations of motion except at a small number of junction points, so we do not need to introduce a discrete domain for our functions. The method, based on multiple shooting, typically finds solutions involving three fields in around a minute, and can find solutions for eight fields in about an hour. We include a numerical package for \u2026",
+                "Motivated by the possibility of a string landscape, we re-examine tunneling of a scalar field across single\/multiple barriers. Recent investigations have suggested modifications to the usual picture of false vacuum decay that leads to efficient and rapid tunneling in the landscape when certain conditions are met. This can be due to stringy effects (e.g. tunneling via the DBI action), or effects arising from the presence of multiple vacua (e.g. resonance tunneling). In this paper we discuss both DBI tunneling and resonance tunneling. We provide a QFT treatment of resonance tunneling using the Schr\u00f6dinger functional approach. We also show how DBI tunneling for supercritical barriers can naturally lead to conditions suitable for resonance tunneling. We argue, using basic ideas from percolation theory, that tunneling can be rapid in a landscape where a typical vacuum has multiple decay channels, and discuss various \u2026",
+                "Stringy effects on vacuum transitions are shown to include surprisingly large decay rates through very high potential barriers. This simple, yet counter-intuitive result will drastically modify the measure on the landscape of string vacua.",
+                "The unique, conical space-time created by cosmic strings brings about distinctive gravitational lensing phenomena. The variety of these distinctive phenomena is increased when the strings have nontrivial mutual interactions. In particular, when strings bind and create junctions, rather than intercommute, the resulting configurations can lead to novel gravitational lensing patterns. In this brief note, we use exact solutions to characterize these phenomena, the detection of which would be strong evidence for the existence of complex cosmic string networks of the kind predicted by string theory-motivated cosmic string models. We also correct some common errors in the lensing phenomenology of straight cosmic strings.",
+                "We examine the effects of cosmic strings on structure formation and on the ionization history of the universe. While Gaussian perturbations from inflation are known to provide the dominant contribution to the large scale structure of the universe, density perturbations due to strings are highly non-Gaussian and can produce nonlinear structures at very early times. This could lead to early star formation and reionization of the universe. We improve on earlier studies of these effects by accounting for high loop velocities and for the filamentary shape of the resulting halos. We find that for string energy scales G\u03bc gsim 10\u2212 7, the effect of strings on the CMB temperature and polarization power spectra can be significant and is likely to be detectable by the Planck satellite. We mention shortcomings of the standard cosmological model of galaxy formation which may be remedied with the addition of cosmic strings, and comment \u2026"
+            ],
+            [
+                [
+                    "Cosmology"
+                ]
+            ]
+        ]
+    ]
+}

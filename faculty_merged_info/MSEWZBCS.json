@@ -1,0 +1,39 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "MSEWZBCS",
+            "L9vy2hUAAAAJ",
+            [
+                "A Modified Broyden's Method for Accelerating Convergence in Self-Consistent Calculations",
+                "A generalized solid-state nudged elastic band method",
+                "Recycling Krylov subspaces for sequences of linear systems",
+                "Predicting twinning stress in fcc metals: Linking twin-energy pathways to twin nucleation",
+                "Density-functional theory for random alloys: total energy within the coherent-potential approximation"
+            ],
+            [
+                "A modification to Broyden\u2019s method for obtaining stable and computationally efficient convergence in self-consistent calculations is developed and discussed. The method incorporates the advantages of two schemes proposed by Srivastava and by Vanderbilt and Louie without any increase in complexity. Its improvement over their methods is discussed. The present method is compared with two other widely used convergence methods, simple mixing and Anderson\u2019s method, for the case of the disordered binary alloy Ni 0.35 Fe 0.65 on the verge of a magnetic instability and is shown to be much improved in stability and rate of convergence.",
+                "A generalized solid-state nudged elastic band (G-SSNEB) method is presented for determining reaction pathways of solid\u2013solid transformations involving both atomic and unit-cell degrees of freedom. We combine atomic and cell degrees of freedom into a unified description of the crystal structure so that calculated reaction paths are insensitive to the choice of periodic cell. For the rock-salt to wurtzite transition in CdSe, we demonstrate that the method is robust for mechanisms dominated either by atomic motion or by unit-cell deformation; notably, the lowest-energy transition mechanism found by our G-SSNEB changes with cell size from a concerted transformation of the cell coordinates in small cells to a nucleation event in large cells. The method is efficient and can be applied to systems in which the force and stress tensor are calculated using density functional theory.",
+                "Many problems in science and engineering require the solution of a long sequence of slowly changing linear systems. We propose and analyze two methods that significantly reduce the total number of matrix\u2010vector products required to solve all systems. We consider the general case where both the matrix and right\u2010hand side change, and we make no assumptions regarding the change in the right\u2010hand sides. Furthermore, we consider general nonsingular matrices, and we do not assume that all matrices are pairwise close or that the sequence of matrices converges to a particular matrix. Our methods work well under these general assumptions, and hence form a significant advancement with respect to related work in this area. We can reduce the cost of solving subsequent systems in the sequence by recycling selected subspaces generated for previous systems. We consider two approaches that allow for the \u2026",
+                "Deformation twinning is observed in numerous engineering and naturally occurring materials. However, a fundamental law for critical twinning stress has not yet emerged. We resolve this long-standing issue by integrating twin-energy pathways obtained via ab initio density functional theory with heterogeneous, dislocation-based twin nucleation models. Through a hierarchical theory, we establish an analytical expression that quantitatively predicts the critical twinning stress in face-centered cubic metals without any empiricism at any length scale. Our theory predicts a monotonic relation between the unstable twin stacking fault energy and twin nucleation stress revealing the physics of twinning.",
+                "A density-functional-based theory is developed for calculation of the total energy and pressure of random substitutional alloys within the Korringa-Kohn-Rostoker coherent-potential approximation. The theory is used to calculate the concentration variation of the equilibrium lattice spacing of \u03b1-phase Cu c Zn 1\u2212 c alloys. We find, in agreement with experiment, that the variation is almost linear and that it deviates from Vegard's rule."
+            ],
+            [
+                [
+                    "Materials Science",
+                    "Physics",
+                    "Computational Materials Science"
+                ]
+            ]
+        ]
+    ]
+}

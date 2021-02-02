@@ -1,0 +1,43 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "FX3GSE45",
+            "Y0j6GhkAAAAJ",
+            [
+                "Conductance fluctuations and chaotic scattering in ballistic microstructures",
+                "Controlled deposition of individual single-walled carbon nanotubes on chemically functionalized templates",
+                "Real-time detection of electron tunnelling in a quantum dot",
+                "Spin blockade and lifetime-enhanced transport in a few-electron Si\/SiGe double quantum dot",
+                "Dissipation-driven superconductor-insulator transition in a two-dimensional Josephson-junction array",
+                "Analogue Hawking radiation in a dc-SQUID array transmission line",
+                "Scaling behavior in the current-voltage characteristic of one-and two-dimensional arrays of small metallic islands"
+            ],
+            [
+                "We report detailed measurements of the low-temperature magnetoconductance in ballistic microstructures in the shape of a \u2018\u2018chaotic\u2019\u2019stadium and a circle with quantum-point-contact leads. Both structures show large, aperiodic, conductance fluctuations as a function of perpendicular magnetic field, and a zero-field resistance peak indicating geometry-dependent enhanced backscattering. Power spectra of fluctuations are consistent with recent semiclassical analyses based on quantum chaotic scattering, with the circle showing enhanced high-frequency spectral content.",
+                "Carbon nanotubes offer great promise as molecular wires because they exhibit high electrical conductivity and chemical stability. However, constructing nanotube-based electronic devices requires a controlled means of assembling the tubes. We report procedures both for producing individual short SWNT segments and for their reliable deposition on chemically functionalized nanolithographic templates. Using this method, we have positioned individual nanotubes at specific locations and orientations in such a way that the nanotubes contact metal electrodes. This discovery is potentially very important for fabrication of simple electrical circuits with nanotubes, and provides a new tool for study of electron transport in nanotubes.",
+                "Nanostructures in which strong (Coulomb) interactions exist between electrons are predicted to exhibit temporal electronic correlations 1. Although there is ample experimental evidence that such correlations exist 2, electron dynamics in engineered nanostructures have been observed directly only on long timescales 3. The faster dynamics associated with electrical currents or charge fluctuations 4 are usually inferred from direct (or quasi-direct) current measurements. Recently, interest in electron dynamics has risen, in part owing to the realization that additional information about electronic interactions can be found in the shot noise 5 or higher statistical moments 6, 7 of a direct current. Furthermore, interest in quantum computation has stimulated investigation of quantum bit (qubit) readout techniques 8, 9, which for many condensed-matter systems ultimately reduces to single-shot measurements of individual \u2026",
+                "Spin blockade occurs when an electron is unable to access an energetically favourable path through a quantum dot owing to spin conservation, resulting in a blockade of the current through the dot 1, 2, 3, 4, 5, 6. Spin blockade is the basis of a number of recent advances in spintronics, including the measurement and the manipulation of individual electron spins 7, 8. We report measurements of the spin blockade regime in a silicon double quantum dot, revealing a complementary phenomenon: lifetime-enhanced transport. We argue that our observations arise because the decay times for electron spins in silicon are long, enabling the electron to maintain its spin throughout its transit across the quantum dot and access fast paths that exist in some spin channels but not in others. Such long spin lifetimes are important for applications such as quantum computation and, more generally, spintronics.",
+                "We have fabricated a two-dimensional array of Josephson junctions within 100 nm of a two-dimensional electron gas (2DEG) in a GaAs\/AlGaAs heterostructure. The screening provided by the 2DEG causes the array to show superconducting behavior despite a large junction resistance. Varying the resistance per square of the 2DEG changes the dissipation in the electrodynamic environment of the array independently of any other parameters in the system. As the resistance increases, the current-voltage characteristics of the array change from superconducting to insulating in character.",
+                "We propose the use of a superconducting transmission line formed from an array of direct-current superconducting quantum interference devices for investigating analogue Hawking radiation. Biasing the array with a space-time varying flux modifies the propagation velocity of the transmission line, leading to an effective metric with a horizon. Being a fundamentally quantum mechanical device, this setup allows for investigations of quantum effects such as backreaction and analogue space-time fluctuations on the Hawking process.",
+                "We have measured the current-voltage (I-V) characteristics of one-and two-dimensional arrays of normal metal islands linked by small tunnel junctions. The tunneling resistance is large compared to the resistance quantum, and a ground plane reduces the screening length to much less than the interisland spacing. At temperatures well below the island charging energy, we find a threshold voltage V T below which little current flows. For V> V T, I scales as (V\/V T\u2212 1) \u03b6 where \u03b6= 1.36\u00b10.1 (1D) and 1.80\u00b10.16 (2D). We interpret this behavior as a dynamic critical phenomenon."
+            ],
+            [
+                [
+                    "Condensed matter physics",
+                    "quantum information",
+                    "quantum sensing"
+                ]
+            ]
+        ]
+    ]
+}

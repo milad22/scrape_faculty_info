@@ -1,0 +1,139 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "kEMlX3sAAAAJ",
+            "Martin Maldovan",
+            "Georgia Institute of Technology",
+            "@gatech.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=kEMlX3sAAAAJ",
+            4809,
+            [
+                "heat transfer",
+                "energy",
+                "separations",
+                "condensed matter physics"
+            ],
+            2421,
+            26,
+            23,
+            34,
+            30,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"zdNpWjEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Edwin L. Thomas",
+                    "affiliation":"TAMU or Rice University or MIT or Cornell University or University of Minnesota or University of"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"mFAWpC0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Chaitanya Ullal",
+                    "affiliation":"Associate Professor of Materials Science and Engineering"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"db312TUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"W Craig Carter",
+                    "affiliation":"Massachusetts Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"CUv1-V0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Abhinav Malhotra",
+                    "affiliation":"University of Delaware, Georgia Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"d0u-vvgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kartik Kothari",
+                    "affiliation":"Graduate Research Assistant, Georgia Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"VLMa-k0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Juan Manuel Restrepo Fl\u00f3rez",
+                    "affiliation":"University of Wisconsin-Madison"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6CG4z_wAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jae-Hwang Lee",
+                    "affiliation":"Associate Professor of Mechanical and Industrial Engineering, University of Massachusetts at Amherst"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"IMdt4GAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michael R. Bockstaller",
+                    "affiliation":"Professor of Materials Science and Engineering, Carnegie Mellon University"
+                }
+            ]
+        ]
+    ]
+}

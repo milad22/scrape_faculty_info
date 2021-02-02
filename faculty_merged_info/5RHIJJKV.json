@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "5RHIJJKV",
+            "r53arLgAAAAJ",
+            [
+                "Phonon effects in molecular transistors: Quantal and classical treatment",
+                "Nonequilibrium quantum criticality in open electronic systems",
+                "Out-of-equilibrium electrons and the Hall conductance of a Floquet topological insulator",
+                "Dissipative Floquet topological systems",
+                "Mode-coupling-induced dissipative and thermal effects at long times after a quantum quench",
+                "Quantum quenches in an X X Z spin chain from a spatially inhomogeneous initial state",
+                "Correlation functions in the prethermalized regime after a quantum quench of a spin chain",
+                "Semiclassical analysis of the nonequilibrium local polaron",
+                "Hydrodynamic long-time tails after a quantum quench",
+                "Short-time universal scaling in an isolated quantum system after a quench"
+            ],
+            [
+                "We present a comprehensive theoretical treatment of the effect of electron-phonon interactions on molecular transistors, including both quantal and classical limits. We study both equilibrated and out of equilibrium phonons. We present detailed results for conductance, noise, and phonon distribution in two regimes. One involves temperatures large as compared to the rate of electronic transitions on and off the dot; in this limit our approach yields classical rate equations, which are solved numerically for a wide range of parameters. The other regime is that of low temperatures and weak electron-phonon coupling where a perturbative approximation in the Keldysh formulation can be applied. The interplay between the phonon-induced renormalization of the density of states on the quantum dot and the phonon-induced renormalization of the dot-lead coupling is found to be important. Whether or not the phonons are \u2026",
+                "A theory is presented of quantum criticality in open (coupled to reservoirs) itinerant-electron magnets, with nonequilibrium drive provided by current flow across the system. Both departures from equilibrium at conventional (equilibrium) quantum critical points and the physics of phase transitions induced by the nonequilibrium drive are treated. Nonequilibrium-induced phase transitions are found to have the same leading critical behavior as conventional thermal phase transitions.",
+                "Graphene irradiated by a circularly polarized laser has been predicted to be a Floquet topological insulator showing a laser-induced quantum Hall effect. A circularly polarized laser also drives the system out of equilibrium, resulting in nonthermal electron distribution functions that strongly affect transport properties. Results are presented for the Hall conductance for two different cases. One is for a closed system, such as a cold-atomic gas, where transverse drift due to nonzero Berry curvature can be measured in time-of-flight measurements. For this case the effect of a circularly polarized laser that has been suddenly switched on is studied. The second is for an open system coupled to an external reservoir of phonons. While for the former the Hall conductance is far from the quantized limit, for the latter, coupling to a sufficiently low temperature reservoir of phonons is found to produce effective cooling, and thus an \u2026",
+                "Motivated by recent pump-probe spectroscopies, we study the effect of phonon dissipation and potential cooling on the nonequilibrium distribution function in a Floquet topological state. To this end, we apply a Floquet kinetic equation approach to study two-dimensional Dirac fermions irradiated by a circularly polarized laser, a system which is predicted to be in a laser-induced quantum Hall state. We find that the initial electron distribution shows an anisotropy with momentum-dependent spin textures whose properties are controlled by the switching-on protocol of the laser. The phonons then smoothen this out, leading to a nontrivial isotropic nonequilibrium distribution which has no memory of the initial state and initial switch-on protocol, and yet is distinct from a thermal state. An analytical expression for the distribution at the Dirac point is obtained that is relevant for observing quantized transport.",
+                "An interaction quench in a Luttinger liquid can drive it into an athermal steady state. We analyze the effects on such an out of equilibrium state of a mode coupling term due to a periodic potential. Employing a perturbative renormalization group approach we show that even when the periodic potential is an irrelevant perturbation in equilibrium, it has important consequences on the athermal steady state as it generates a temperature as well as a dissipation and hence a finite lifetime for the bosonic modes.",
+                "Results are presented for the nonequilibrium dynamics of a quantum X X Z-spin chain whose spins are initially arranged in a domain wall profile via the application of a magnetic field in the z direction, which is spatially varying along the chain. The system is driven out of equilibrium in two ways: a). by rapidly turning off the magnetic field, b). by rapidly quenching the interactions at the same time as the magnetic field is turned off. The time evolution of the domain wall profile as well as various two-point spin correlation functions are studied by the exact solution of the fermionic problem for the X X chain and via a bosonization approach and a mean-field approach for the X X Z chain. At long times the magnetization is found to equilibrate (reach the ground state value), while the two-point correlation functions in general do not. In particular, for quenches within the gapless X X phase, the spin correlation function transverse \u2026",
+                "Results are presented for a two-point correlation function of a spin chain after a quantum quench for an intermediate time regime where inelastic effects are weak. A Callan-Symanzik-like equation for the correlation function is explicitly constructed which is used to show the appearance of three distinct scaling regimes. One is for spatial separations within a light cone, the second is for spatial separations on the light cone, and the third is for spatial separations outside the light cone. In these three regimes, the correlation function is found to decay with power laws with nonequilibrium exponents that differ from those in equilibrium, as well as from those obtained from quenches in a quadratic Luttinger liquid theory. A detailed discussion is presented on how the existence of scaling depends on the properties of the initial state before the quench.",
+                "A resonant level strongly coupled to a local phonon under nonequilibrium conditions is investigated. The nonequilibrium Hartree-Fock approximation is shown to correspond to approximating the steady state density matrix by delta functions at field values to which the local dynamics relaxes in a semiclassical limit. If multiple solutions exist, all are shown to make nonvanishing contributions to physical quantities: multistability does not exist. Departures from equilibrium are shown to produce decoherence, preventing the formation of a polaron feature in the spectral function. The formalism also applies to the nonequilibrium Kondo problem.",
+                "After a quantum quench, a sudden change of parameters, generic many-particle quantum systems are expected to equilibrate. A few collisions of quasiparticles are usually sufficient to establish approximately local equilibrium. Reaching global equilibrium is, however, much more difficult as conserved quantities have to be transported for long distances to build up a pattern of fluctuations characteristic for equilibrium. Here we investigate the quantum quench of the one-dimensional bosonic Hubbard model from infinite to finite interaction strength U using semiclassical methods for weak and exact diagonalization for strong quenches. Equilibrium is approached only slowly, as t\u2212 1\/2 with subleading corrections proportional to t\u2212 3\/4, consistent with predictions from hydrodynamics. We show that these long-time tails determine the relaxation of a wide range of physical observables.",
+                "Renormalization-group methods provide a viable approach for investigating the emergent collective behavior of classical and quantum statistical systems in both equilibrium and nonequilibrium conditions. Within this approach we investigate here the dynamics of an isolated quantum system represented by a scalar \u03d5 4 theory after a global quench of the potential close to a dynamical critical point. We demonstrate that, within a prethermal regime, the time dependence of the relevant correlations is characterized by a short-time universal exponent, which we calculate at the lowest order in a dimensional expansion."
+            ],
+            [
+                [
+                    "Theoretical Condensed Matter Physics"
+                ]
+            ]
+        ]
+    ]
+}

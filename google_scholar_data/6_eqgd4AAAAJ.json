@@ -1,0 +1,126 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "6_eqgd4AAAAJ",
+            "Gerwin Koolstra",
+            "University of California Berkeley",
+            "@berkeley.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=6_eqgd4AAAAJ",
+            1036,
+            [
+                "Quantum computing",
+                "Superconducting circuits",
+                "Condensed Matter Physics"
+            ],
+            738,
+            5,
+            5,
+            4,
+            4,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fkMB15QAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David I. Schuster",
+                    "affiliation":"Professor of Physics, University of Chicago"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"B8gEYX4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hannes Bernien",
+                    "affiliation":"Assistant Professor, University of Chicago"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"H5fUUMAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Wolfgang Pfaff",
+                    "affiliation":"Asst. Prof., University of Illinois at Urbana-Champaign"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"CdVQETsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Machiel Blok",
+                    "affiliation":"University of Rochester"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"N5sm9W0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Samuel J Whiteley",
+                    "affiliation":"HRL Laboratories, LLC"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"49E3MkUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"F. Joseph Heremans",
+                    "affiliation":"Argonne National Lab"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"vaQcF6kAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ge Yang",
+                    "affiliation":"University of Chicago"
+                }
+            ]
+        ]
+    ]
+}

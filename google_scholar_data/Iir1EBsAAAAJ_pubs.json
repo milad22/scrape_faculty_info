@@ -1,0 +1,222 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Support Vector Machine (SVM) has been very popular for use in machine fault diagnosis as classifier. In most of the complex machine learning problems, the main challenge lies in finding good features. Sparse autoencoders have the ability to learn good features from the input data in an unsuperivised fashion. Sparse auto-encoders and other deep architectures are already showing very good results in text classification, speaker and speech recognition and face recognition as well. In this paper, we compare the performance of sparse autoencoders with soft max regression, fast classifier based on Mahalanobis distance and SVM in fault diagnosis of air compressors.",
+            "Intelligent condition based monitoring of rotating machines using sparse auto-encoders",
+            "Nishchal K Verma and Vishal Kumar Gupta and Mayank Sharma and Rahul Kumar Sevakula",
+            "2013",
+            "Iir1EBsAAAAJ:maZDTaKrznsC",
+            67,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6621447\/",
+            "16307811379564650290",
+            "\/scholar?cites=16307811379564650290",
+            {
+                "2014":1,
+                "2015":1,
+                "2016":6,
+                "2017":11,
+                "2018":10,
+                "2019":19,
+                "2020":14,
+                "2021":4
+            }
+        ],
+        [
+            "This paper presents the development of a novel synchrophasor measurement-based wide-area centralized damping controller to improve the stability of a power system in presence of time-varying delay and packet dropout in the communication network. Two different strategies have been adopted to deal with the input and the output delays. In the first strategy, the system output delay has been compensated by predicting the dynamics of the signals. In the second strategy, a wide-area controller, based on delay-range-dependent stability criteria, has been designed for the time-varying delays in the input signals. The network induced delays and the maximum amount of the consecutive packet dropout are assumed to be bounded. The controller parameters are optimally obtained using a trace minimization of certain matrix variables by formulating Linear Matrix Inequalities problem. The system has been identified by \u2026",
+            "A wide-area damping controller considering network input and output delays and packet drop",
+            "Bibhu Prasad Padhy and Suresh Chandra Srivastava and Nishchal K Verma",
+            "2016",
+            "Iir1EBsAAAAJ:Nw_I7GeUguwC",
+            63,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7456316\/",
+            "7256572690005165962",
+            "\/scholar?cites=7256572690005165962",
+            {
+                "2017":6,
+                "2018":16,
+                "2019":16,
+                "2020":20,
+                "2021":5
+            }
+        ],
+        [
+            "We propose a novel approach for content based color image classification using Support Vector Machine (SVM). Traditional classification approaches deal poorly on content based image classification tasks being one of the reasons of high dimensionality of the feature space. In this paper, color image classification is done on features extracted from histograms of color components. The benefit of using color image histograms are better efficiency, and insensitivity to small changes in camera view-point i.e. translation and rotation. As a case study for validation purpose, experimental trials were done on a database of about 500 images divided into four different classes has been reported and compared on histogram features for RGB, CMYK, Lab, YUV, YCBCR, HSV, HVC and YIQ color spaces. Results based on the proposed approach are found encouraging in terms of color image classification accuracy.",
+            "Content based color image classification using SVM",
+            "Saurabh Agrawal and Nishchal K Verma and Prateek Tamrakar and Pradip Sircar",
+            "2011",
+            "Iir1EBsAAAAJ:qPeb-qHga9sC",
+            61,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/5945183\/",
+            "4941867450274180689",
+            "\/scholar?cites=4941867450274180689",
+            {
+                "2011":1,
+                "2012":5,
+                "2013":9,
+                "2014":8,
+                "2015":6,
+                "2016":9,
+                "2017":4,
+                "2018":8,
+                "2019":3,
+                "2020":7
+            }
+        ],
+        [
+            "This paper proposes a novel adaptive Type-2 fuzzy filter for removing salt and pepper noise from the images. The filter removes noise in two steps. In the first step, the pixels are categorized as good or bad based on their primary membership function (MF) values in the respective filter window. In this paper, two approaches have been proposed for finding threshold between good or bad pixels by designing primary MFs. a) MFs with distinct Means and same Variance and b) MFs with distinct Means and distinct Variances. The primary MFs of the Type-2 fuzzy set is chosen as Gaussian membership functions. Whereas, in the second step, the pixels categorized as bad are denoised. For denoising, a novel Type-1 fuzzy approach based on a weighted mean of good pixels is presented in the paper. The proposed filter is validated for several standard images with the noise level as low as 20% to as high as 99%. The \u2026",
+            "Adaptive type-2 fuzzy approach for filtering salt and pepper noise in grayscale images",
+            "Vikas Singh and Raghav Dev and Narendra K Dhar and Pooja Agrawal and Nishchal K Verma",
+            "2018",
+            "Iir1EBsAAAAJ:B2rIPIGFPLEC",
+            60,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/8290697\/",
+            "8885490670382726089",
+            "\/scholar?cites=8885490670382726089",
+            {
+                "2018":7,
+                "2019":25,
+                "2020":26
+            }
+        ],
+        [
+            "Recent advancements in sensor technologies and data driven model based techniques have made intelligent diagnostic systems prominent in machine maintenance frameworks of industries. The performance of such systems immensely relies upon the quality of features extracted and the classifier model learned. Traditionally features were handcrafted, where engineers would manually design them with statistical parameters and signal transforms based energy distribution analysis. Recently, deep learning techniques have shown new ways of obtaining useful feature representation that provide state of the art results in image and speech processing applications. This paper first presents a brief survey of traditional handcrafted features and later presents a short analysis of handcrafted features v\/s features learned by deep neural networks (DNN), for doing fault diagnosis. The DNN based features in this paper were \u2026",
+            "Generating feature sets for fault diagnosis using denoising stacked auto-encoder",
+            "Raghuveer Thirukovalluru and Sonal Dixit and Rahul K Sevakula and Nishchal K Verma and Al Salour",
+            "2016",
+            "Iir1EBsAAAAJ:sJK75vZXtG0C",
+            60,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7542865\/",
+            "16770643484273404823",
+            "\/scholar?cites=16770643484273404823",
+            {
+                "2017":7,
+                "2018":12,
+                "2019":22,
+                "2020":16,
+                "2021":3
+            }
+        ],
+        [
+            "This paper presents a systematic procedure for designing a wide-area centralized Takagi-Sugeno fuzzy controller to improve the angular stability of a multimachine power system. The proposed fuzzy controller is robust and designed by satisfying certain linear matrix inequality conditions, to stabilize the system at multiple operating points. The bilinear matrix inequality problem, encountered in Lyapunov-based stability criterion, has been converted into a convex optimization problem to eliminate iterative solution. The input-output control signals are selected in the proposed control scheme by defining joint model controllability and observability index applying geometric approach. The proposed wide-area control scheme employs a global signal from the centralized controller to damp out the interarea mode of oscillations, apart from the local controllers, which are assumed to be present to damp out the local mode of \u2026",
+            "Robust wide-area TS fuzzy output feedback controller for enhancement of stability in multimachine power system",
+            "Bibhu Prasad Padhy and SC Srivastava and Nishchal K Verma",
+            "2011",
+            "Iir1EBsAAAAJ:_kc_bZDykSQC",
+            57,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6030909\/",
+            "2946987250202533315",
+            "\/scholar?cites=2946987250202533315",
+            {
+                "2013":4,
+                "2014":11,
+                "2015":5,
+                "2016":10,
+                "2017":3,
+                "2018":18,
+                "2019":3,
+                "2020":3
+            }
+        ],
+        [
+            "Intelligent fault diagnosis of machines for early recognition of faults saves industry from heavy losses occurring due to machine breakdowns. This paper proposes a process with a generic data mining model that can be used for developing acoustic signal-based fault diagnosis systems for reciprocating air compressors. The process includes details of data acquisition, sensitive position analysis for deciding suitable sensor locations, signal pre-processing, feature extraction, feature selection, and a classification approach. This process was validated by developing a real time fault diagnosis system on a reciprocating type air compressor having 8 designated states, including one healthy state, and 7 faulty states. The system was able to accurately detect all the faults by analyzing acoustic recordings taken from just a single position. Additionally, thorough analysis has been presented where performance of the system is \u2026",
+            "Intelligent condition based monitoring using acoustic signals for air compressors",
+            "Nishchal K Verma and Rahul Kumar Sevakula and Sonal Dixit and Al Salour",
+            "2015",
+            "Iir1EBsAAAAJ:yJjnfzR0HrkC",
+            55,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7177138\/",
+            "17995894763824192368",
+            "\/scholar?cites=17995894763824192368",
+            {
+                "2016":5,
+                "2017":7,
+                "2018":8,
+                "2019":14,
+                "2020":20,
+                "2021":1
+            }
+        ],
+        [
+            "In this study, Support Vector Machine (SVM) based methods have been used to classify the electrocardiogram (ECG) arrhythmias. Among various existing SVM methods, three well-known and widely used algorithms one-against-one, one-against-all, and fuzzy decision function are used here to distinguish between the presence and absence of cardiac arrhythmia and classifying them into one of the arrhythmia groups. The various types of arrhythmias in the Cardiac Arrhythmias ECG database chosen from University of California at Irvine (UCI) to train SVM, include ischemic changes (coronary artery disease), old inferior myocardial infarction, sinus bradycardy, right bundle branch block, and others. The results obtained through implementation of all three methods are thus compared as per their accuracy rate in percentages and the performance of the SVM classifier using one-against-all (OAA) method was found to \u2026",
+            "SVM based methods for arrhythmia classification in ECG",
+            "Narendra Kohli and Nishchal K Verma and Abhishek Roy",
+            "2010",
+            "Iir1EBsAAAAJ:9yKSN-GCB0IC",
+            43,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/5640480\/",
+            "5604791898127914429",
+            "\/scholar?cites=5604791898127914429",
+            {
+                "2011":2,
+                "2012":1,
+                "2013":3,
+                "2014":3,
+                "2015":4,
+                "2016":3,
+                "2017":4,
+                "2018":10,
+                "2019":10,
+                "2020":2,
+                "2021":1
+            }
+        ],
+        [
+            "The heating, ventilation, and air conditioning system is an important component for achieving desired thermal condition in rooms or spaces in buildings, office complex, or airports. This paper proposes a real-time event-triggered adaptive critic controller for generating near optimal control actions to achieve desired temperatures. The desired temperatures may have variable or fixed values over time. The real-time controller is designed in two phases. Initially event-triggered control actions are generated by linear quadratic regulator for small period while the actor-critic network of controller is trained. Later, adaptive critic controller takes over for event-based actions. Hence, the event triggering conditions for both general linear and nonlinear discrete time systems using Lyapunov stability analysis are derived in this paper. The event-based actor-critic network weight update formulation and ultimate boundedness of \u2026",
+            "Adaptive critic-based event-triggered control for HVAC system",
+            "Narendra Kumar Dhar and Nishchal Kumar Verma and Laxmidhar Behera",
+            "2017",
+            "Iir1EBsAAAAJ:N6_Y7JlWxwsC",
+            41,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7974781\/",
+            "2955835135380586581",
+            "\/scholar?cites=2955835135380586581",
+            {
+                "2017":1,
+                "2018":7,
+                "2019":18,
+                "2020":15
+            }
+        ],
+        [
+            "The emergence of deep learning has impacted numerous machine learning based applications and research. The reason for its success lies in two main advantages: 1) it provides the ability to learn very complex non-linear relationships between features and 2) it allows one to leverage information from unlabeled data that does not belong to the problem being handled. This paper presents a transfer learning procedure for cancer classification, which uses feature selection and normalization techniques in conjunction with s sparse autoencoders on gene expression data. While classifying any two tumor types, data of other tumor types were used in unsupervised manner to improve the feature representation. The performance of our algorithm was tested on 36 two-class benchmark datasets from the GEMLeR repository. On performing statistical tests, it is clearly ascertained that our algorithm statistically outperforms \u2026",
+            "Transfer learning for molecular cancer classification using deep neural networks",
+            "Rahul K Sevakula and Vikas Singh and Nishchal K Verma and Chandan Kumar and Yan Cui",
+            "2018",
+            "Iir1EBsAAAAJ:j8pvxH-kN2QC",
+            36,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/8331096\/",
+            "11742924091224455360",
+            "\/scholar?cites=11742924091224455360",
+            {
+                "2018":8,
+                "2019":8,
+                "2020":17,
+                "2021":3
+            }
+        ]
+    ]
+}

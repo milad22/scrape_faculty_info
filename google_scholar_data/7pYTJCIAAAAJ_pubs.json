@@ -1,0 +1,247 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "We study the constraints of crossing symmetry and unitarity in general 3D conformal field theories. In doing so we derive new results for conformal blocks appearing in four-point functions of scalars and present an efficient method for their computation in arbitrary space-time dimension. Comparing the resulting bounds on operator dimensions and product-expansion coefficients in 3D to known results, we find that the 3D Ising model lies at a corner point on the boundary of the allowed parameter space. We also derive general upper bounds on the dimensions of higher spin operators, relevant in the context of theories with weakly broken higher spin symmetries.",
+            "Solving the 3D Ising model with the conformal bootstrap",
+            "Sheer El-Showk and Miguel F Paulos and David Poland and Slava Rychkov and David Simmons-Duffin and Alessandro Vichi",
+            "2012",
+            "7pYTJCIAAAAJ:9yKSN-GCB0IC",
+            572,
+            "https:\/\/journals.aps.org\/prd\/abstract\/10.1103\/PhysRevD.86.025022",
+            "1495924328104832380",
+            "\/scholar?cites=1495924328104832380",
+            {
+                "2012":6,
+                "2013":20,
+                "2014":40,
+                "2015":55,
+                "2016":94,
+                "2017":94,
+                "2018":92,
+                "2019":77,
+                "2020":93,
+                "2021":1
+            }
+        ],
+        [
+            "We use the conformal bootstrap to perform a precision study of the operator spectrum of the critical 3d Ising model. We conjecture that the 3d Ising spectrum minimizes the central charge  in the space of unitary solutions to crossing symmetry. Because extremal solutions to crossing symmetry are uniquely determined, we are able to precisely reconstruct the first several -even operator dimensions and their OPE coefficients. We observe that a sharp transition in the operator spectrum occurs at the 3d Ising dimension , and find strong numerical evidence that operators decouple from the spectrum as one approaches the 3d Ising point. We compare this behavior to the analogous situation in 2d, where the disappearance of operators can be understood in terms of degenerate Virasoro representations.",
+            "Solving the 3d Ising Model with the Conformal Bootstrap II.                               c -Minimization and Precise Critical Exponents",
+            "Sheer El-Showk and Miguel F Paulos and David Poland and Slava Rychkov and David Simmons-Duffin and Alessandro Vichi",
+            "2014",
+            "7pYTJCIAAAAJ:zYLM7Y9cAGgC",
+            460,
+            "https:\/\/link.springer.com\/article\/10.1007\/s10955-014-1042-7",
+            "17075140928694353241",
+            "\/scholar?cites=17075140928694353241",
+            {
+                "2014":18,
+                "2015":48,
+                "2016":81,
+                "2017":83,
+                "2018":81,
+                "2019":60,
+                "2020":86,
+                "2021":3
+            }
+        ],
+        [
+            "We take an analytic approach to the CFT bootstrap, studying the 4-pt correlators of d> 2 dimensional CFTs in an Eikonal-type limit, where the conformal cross ratios satisfy| u|\u226a| \u03c5|< 1. We prove that every CFT with a scalar operator \u03d5 must contain infinite sequences of operators with twist approaching \u03c4\u2192 2\u0394 \u03d5+ 2n for each integer n as \u2113\u2192\u221e. We show how the rate of approach is controlled by the twist and OPE coefficient of the leading twist operator in the \u03d5\u00d7 \u03d5 OPE, and we discuss SCFTs and the 3d Ising Model as examples. Additionally, we show that the OPE coefficients of other large spin operators appearing in the OPE are bounded as \u2113\u2192\u221e. We interpret these results as a statement about superhorizon locality in AdS for general CFTs.",
+            "The analytic bootstrap and AdS superhorizon locality",
+            "A Liam Fitzpatrick and Jared Kaplan and David Poland and David Simmons-Duffin",
+            "2013",
+            "7pYTJCIAAAAJ:UeHWp8X0CEIC",
+            368,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/JHEP12(2013)004.pdf",
+            "2978806660912546690",
+            "\/scholar?cites=2978806660912546690",
+            {
+                "2012":1,
+                "2013":5,
+                "2014":19,
+                "2015":25,
+                "2016":41,
+                "2017":63,
+                "2018":65,
+                "2019":60,
+                "2020":87,
+                "2021":2
+            }
+        ],
+        [
+            "We make precise determinations of the leading scaling dimensions and operator product expansion (OPE) coefficients in the 3d Ising, O (2), and O (3) models from the conformal bootstrap with mixed correlators. We improve on previous studies by scanning over possible relative values of the leading OPE coefficients, which incorporates the physical information that there is only a single operator at a given scaling dimension. The scaling dimensions and OPE coefficients obtained for the 3d Ising model,(\u0394 \u03c3, \u0394 \u03f5, \u03bb \u03c3\u03c3\u03f5, \u03bb \u03f5\u03f5\u03f5)=(0. 5181489 (10), 1. 412625 (10), 1. 0518537 (41), 1. 532435 (19), give the most precise determinations of these quantities to date.",
+            "Precision islands in the Ising and O (N) models",
+            "Filip Kos and David Poland and David Simmons-Duffin and Alessandro Vichi",
+            "2016",
+            "7pYTJCIAAAAJ:7PzlFSSx8tAC",
+            281,
+            "https:\/\/link.springer.com\/article\/10.1007\/JHEP08(2016)036",
+            "16557414659826173420",
+            "\/scholar?cites=16557414659826173420",
+            {
+                "2016":17,
+                "2017":56,
+                "2018":66,
+                "2019":54,
+                "2020":82,
+                "2021":5
+            }
+        ],
+        [
+            "We study the conformal bootstrap for systems of correlators involving nonidentical operators. The constraints of crossing symmetry and unitarity for such mixed correlators can be phrased in the language of semidefinite programming. We apply this formalism to the simplest system of mixed correlators in 3D CFTs with a \u2124 2 global symmetry. For the leading \u2124 2-odd operator \u03c3 and \u2124 2-even operator \u03f5, we obtain numerical constraints on the allowed dimensions (\u0394 \u03c3, \u0394 \u03f5) assuming that \u03c3 and \u03f5 are the only relevant scalars in the theory. These constraints yield a small closed region in (\u0394 \u03c3, \u0394 \u03f5) space compatible with the known values in the 3D Ising CFT.",
+            "Bootstrapping mixed correlators in the 3D Ising model",
+            "Filip Kos and David Poland and David Simmons-Duffin",
+            "2014",
+            "7pYTJCIAAAAJ:aqlVkmm33-oC",
+            281,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/JHEP11(2014)109.pdf",
+            "15037388383023024946",
+            "\/scholar?cites=15037388383023024946",
+            {
+                "2014":4,
+                "2015":25,
+                "2016":51,
+                "2017":45,
+                "2018":50,
+                "2019":46,
+                "2020":56,
+                "2021":4
+            }
+        ],
+        [
+            "We introduce a method for computing conformal blocks of operators in arbitrary Lorentz representations in any spacetime dimension, making it possible to apply bootstrap techniques to operators with spin. The key idea is to implement the \u201cshadow formalism\u201d of Ferrara, Gatto, Grillo, and Parisi in a setting where conformal invariance is manifest. Conformal blocks in d-dimensions can be expressed as integrals over the projective null-cone in the \u201cembedding space\u201d d+ 1, 1. Taking care with their analytic structure, these integrals can be evaluated in great generality, reducing the computation of conformal blocks to a bookkeeping exercise. To facilitate calculations in four-dimensional CFTs, we introduce techniques for writing down conformally-invariant correlators using auxiliary twistor variables, and demonstrate their use in some simple examples.",
+            "Projectors, shadows, and conformal blocks",
+            "David Simmons-Duffin",
+            "2014",
+            "7pYTJCIAAAAJ:qxL8FJ1GzNcC",
+            276,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/JHEP04(2014)146.pdf",
+            "15010280784827874767",
+            "\/scholar?cites=15010280784827874767",
+            {
+                "2013":12,
+                "2014":12,
+                "2015":18,
+                "2016":35,
+                "2017":38,
+                "2018":40,
+                "2019":43,
+                "2020":71,
+                "2021":1
+            }
+        ],
+        [
+            "We derive general bounds on operator dimensions, central charges, and OPE coefficients in 4D conformal and superconformal field theories. In any CFT containing a scalar primary \u03d5 of dimension d we show that crossing symmetry of implies a completely general lower bound on the central charge c\u2265 f c (d). Similarly, in CFTs containing a complex scalar charged under global symmetries, we bound a combination of symmetry current two-point function coefficients \u03c4 IJ and flavor charges. We extend these bounds to superconformal theories by deriving the superconformal block expansions for four-point functions of a chiral superfield \u03a6 and its conjugate. In this case we derive bounds on the OPE coefficients of scalar operators appearing in the \u03a6\u00d7 \u03a6\u2020 OPE, and show that there is an upper bound on the dimension of \u03a6\u2020 \u03a6 when dim \u03a6 is close to 1. We also present even more stringent bounds on c \u2026",
+            "Bounds on 4D conformal and superconformal field theories",
+            "David Poland and David Simmons-Duffin",
+            "2011",
+            "7pYTJCIAAAAJ:Y0pCki6q_DkC",
+            266,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/JHEP05(2011)017.pdf",
+            "4606542194326902772",
+            "\/scholar?cites=4606542194326902772",
+            {
+                "2010":3,
+                "2011":16,
+                "2012":19,
+                "2013":15,
+                "2014":27,
+                "2015":28,
+                "2016":34,
+                "2017":38,
+                "2018":26,
+                "2019":21,
+                "2020":39
+            }
+        ],
+        [
+            "We study the conformal bootstrap for 3D CFTs with O (N) global symmetry. We obtain rigorous upper bounds on the scaling dimensions of the first O (N) singlet and symmetric tensor operators appearing in the \u03d5 i\u00d7 \u03d5 j OPE, where \u03d5 i is a fundamental of O (N). Comparing these bounds to previous determinations of critical exponents in the O (N) vector models, we find strong numerical evidence that the O (N) vector models saturate the bootstrap constraints at all values of N. We also compute general lower bounds on the central charge, giving numerical predictions for the values realized in the O (N) vector models. We compare our predictions to previous computations in the 1\/N expansion, finding precise agreement at large values of N.",
+            "Bootstrapping the O(N ) vector models",
+            "Filip Kos and David Poland and David Simmons-Duffin",
+            "2014",
+            "7pYTJCIAAAAJ:u5HHmVD_uO8C",
+            265,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/JHEP06(2014)091.pdf",
+            "85915620025185869",
+            "\/scholar?cites=85915620025185869",
+            {
+                "2013":1,
+                "2014":19,
+                "2015":25,
+                "2016":53,
+                "2017":38,
+                "2018":46,
+                "2019":36,
+                "2020":44,
+                "2021":3
+            }
+        ],
+        [
+            "We introduce a new numerical algorithm based on semidefinite programming to efficiently compute bounds on operator dimensions, central charges, and OPE coefficients in 4D conformal and superconformal field theories. Using our algorithm, we dramatically improve previous bounds on a number of CFT quantities, particularly for theories with global symmetries. In the case of SO (4) or SU (2) symmetry, our bounds severely constrain models of conformal technicolor. In superconformal theories, we place strong bounds on dim (\u03a6\u2020 \u03a6), where \u03a6 is a chiral operator. These bounds asymptote to the line dim (\u03a6\u2020 \u03a6)\u2264 2 dim (\u03a6) near dim (\u03a6)\u2243 1, forbidding positive anomalous dimensions in this region. We also place novel upper and lower bounds on OPE coefficients of protected operators in the \u03a6\u00d7 \u03a6 OPE. Finally, we find examples of lower bounds on central charges and flavor current two-point functions that \u2026",
+            "Carving out the space of 4D CFTs",
+            "David Poland and David Simmons-Duffin and Alessandro Vichi",
+            "2012",
+            "7pYTJCIAAAAJ:YsMSGLbcyi4C",
+            265,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/JHEP05(2012)110.pdf",
+            "5246677499615226582",
+            "\/scholar?cites=5246677499615226582",
+            {
+                "2011":4,
+                "2012":18,
+                "2013":18,
+                "2014":29,
+                "2015":32,
+                "2016":39,
+                "2017":36,
+                "2018":31,
+                "2019":22,
+                "2020":35,
+                "2021":1
+            }
+        ],
+        [
+            "We introduce SDPB: an open-source, parallelized, arbitrary-precision semidefinite program solver, designed for the conformal bootstrap. SDPB significantly outperforms less specialized solvers and should enable many new computations. As an example application, we compute a new rigorous high-precision bound on operator dimensions in the 3d Ising CFT, \u0394 \u03c3= 0.518151 (6), \u0394 \u03f5= 1.41264 (6).",
+            "A semidefinite program solver for the conformal bootstrap",
+            "David Simmons-Duffin",
+            "2015",
+            "7pYTJCIAAAAJ:5nxA0vEk-isC",
+            260,
+            "https:\/\/link.springer.com\/article\/10.1007\/JHEP06(2015)174",
+            "9740626389382398568",
+            "\/scholar?cites=9740626389382398568",
+            {
+                "2015":16,
+                "2016":48,
+                "2017":41,
+                "2018":40,
+                "2019":49,
+                "2020":61,
+                "2021":5
+            }
+        ]
+    ]
+}

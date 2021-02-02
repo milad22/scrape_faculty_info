@@ -1,0 +1,126 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "bahbb80AAAAJ",
+            "Omar F. Zaidan",
+            "Johns Hopkins University",
+            "@cs.jhu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=bahbb80AAAAJ",
+            2981,
+            [
+                "Machine Translation",
+                "Natural Language Processing",
+                "Crowdsourcing"
+            ],
+            1247,
+            17,
+            13,
+            19,
+            14,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"nv-MV58AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Chris Callison-Burch",
+                    "affiliation":"Associate Professor, University of Pennsylvania"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"OsIZgIYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Philipp Koehn",
+                    "affiliation":"Professor, Johns Hopkins University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"0r3PWLQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Christof Monz",
+                    "affiliation":"Associate Professor of Computer Science, University of Amsterdam"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"W2DsnAkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Chris Dyer",
+                    "affiliation":"DeepMind, Carnegie Mellon"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"tjb2UccAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jason Eisner",
+                    "affiliation":"Professor of Computer Science, Johns Hopkins University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"-WS_Jp4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Juri Ganitkevitch",
+                    "affiliation":"Apple"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fEyW6eAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Zhifei Li",
+                    "affiliation":"Research Scientist at Google"
+                }
+            ]
+        ]
+    ]
+}

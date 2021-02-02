@@ -1,0 +1,113 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "EUZilYkAAAAJ",
+            "Nian-Hai Shen",
+            "Ames Laboratory and Iowa State University",
+            "@ameslab.gov",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=EUZilYkAAAAJ",
+            1734,
+            [
+                "metamaterials",
+                "plasmonics"
+            ],
+            1148,
+            23,
+            18,
+            32,
+            23,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"U_agiyUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Costas M. Soukoulis",
+                    "affiliation":"Iowa State University\/Ames Laboratory & IESL\/FORTH"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"mDhqEwYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ekmel Ozbay",
+                    "affiliation":"Professor, Bilkent University, Ankara, TURKEY"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"L8bFL50AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Fang-Fang REN",
+                    "affiliation":"EME, RSPE, The Australian National University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"vdrjJScAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Stavroula Foteinopoulou",
+                    "affiliation":"U. of New Mexico"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"b8Xgu3UAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Qingguo Du",
+                    "affiliation":"School of Information Engineering, Wuhan University of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"TtvFz1cAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"mingkang",
+                    "affiliation":"tianjin normal university,nankai university, nanjing university, city university of HongKong"
+                }
+            ]
+        ]
+    ]
+}

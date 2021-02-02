@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "S4U0U3XX",
+            "tsNsOJ4AAAAJ",
+            [
+                "Detecting dynamical changes in time series using the permutation entropy",
+                "Multiscale analysis of complex time series: integration of chaos and random fractal theory, and beyond",
+                "On the structures and quantification of recurrence plots",
+                "Denoising nonlinear time series by adaptive filtering and wavelet shrinkage: a comparison",
+                "When can noise induce chaos?",
+                "Recurrence time statistics for chaotic systems and their applications",
+                "Analysis of biomedical signals by the Lempel-Ziv complexity: the effect of finite data size",
+                "Detection of low observable targets within sea clutter by structure function based multifractal analysis",
+                "Toward hardware-redundant, fault-tolerant logic for nanoelectronics",
+                "Assessment of long-range correlation in time series: how to avoid pitfalls"
+            ],
+            [
+                "Timely detection of unusual and\/or unexpected events in natural and man-made systems has deep scientific and practical relevance. We show that the recently proposed conceptually simple and easily calculated measure of permutation entropy can be effectively used to detect qualitative and quantitative dynamical changes. We illustrate our results on two model systems as well as on clinically characterized brain wave data from epileptic patients.",
+                "The only integrative approach to chaos and random fractal theory Chaos and random fractal theory are two of the most important theories developed for data analysis. Until now, there has been no single book that encompasses all of the basic concepts necessary for researchers to fully understand the ever-expanding literature and apply novel methods to effectively solve their signal processing problems. Multiscale Analysis of Complex Time Series fills this pressing need by presenting chaos and random fractal theory in a unified manner. Adopting a data-driven approach, the book covers: DNA sequence analysis EEG analysis Heart rate variability analysis Neural information processing Network traffic modeling Economic time series analysis And more Additionally, the book illustrates almost every concept presented through applications and a dedicated Web site is available with source codes written in various languages, including Java, Fortran, C, and MATLAB, together with some simulated and experimental data. The only modern treatment of signal processing with chaos and random fractals unified, this is an essential book for researchers and graduate students in electrical engineering, computer science, bioengineering, and many other fields.",
+                "Recurrence plots (RPs) often have fascinating structures, especially when the embedding dimension is 1. We identify four basic patterns of a RP, namely, patterns along the main (45\u00b0) diagonal, patterns along the 135\u00b0 diagonal, block-like structures, and square-like textures. We also study how the structures of and quantification statistics for RPs vary with the embedding parameters. By considering the distribution of the main diagonal line segments for chaotic systems, we relate some of the known statistics for the quantification of a RP to the Lyapunov exponent. This consideration enables us to introduce new ways of quantifying the diagonal line segments. Furthermore, we categorize recurrence points into two classes. A number of new quantities are identified which may be useful for the detection of nonstationarity in a time series, especially for the detection of a bifurcation sequence. A noisy transient Lorenz \u2026",
+                "Time series measured in real world is often nonlinear, even chaotic. To effectively extract desired information from measured time series, it is important to preprocess data to reduce noise. In this Letter, we propose an adaptive denoising algorithm. Using chaotic Lorenz data and calculating root-mean-square-error, Lyapunov exponent, and correlation dimension, we show that our adaptive algorithm more effectively reduces noise in the chaotic Lorenz system than wavelet denoising with three different thresholding choices. We further analyze an electroencephalogram (EEG) signal in sleep apnea and show that the adaptive algorithm again more effectively reduces the Electrocardiogram (ECG) and other types of noise contaminated in EEG than wavelet approaches.",
+                "Crutchfield et al. observed that noise truncates period-doubling cascade and induces chaos. To date, however, very little low-dimensional chaos has been unambiguously identified experimentally. This discrepancy stimulates us to reexamine the noisy logistic map. We find that noise can indeed induce chaos. However, this is not associated with the main 2 n cascade. We identify three basic conditions for noise to induce chaos. We also show that when noise induces chaos the complete period-doubling cascade is inhibited, otherwise the cascade is simply masked by noise.",
+                "By studying recurrence time statistics for chaotic systems, we identify two different types of recurrences and develop scaling laws relating the mean recurrence time to the information dimension of the chaotic attractor. We then design two novel and simple ways of using the recurrence time statistics for analyzing transient as well as nonstationary time series. We show that the methods are capable of detecting nonstationarity due to drift of parameters, locating bifurcations, telling the periodicity of major transient periodic motions, and other types of changes in the dynamics.",
+                "The Lempel-Ziv (LZ) complexity and its variants are popular metrics for characterizing biological signals. Proper interpretation of such analyses, however, has not been thoroughly addressed. In this letter, we study the the effect of finite data size. We derive analytic expressions for the LZ complexity for regular and random sequences, and employ them to develop a normalization scheme. To gain further understanding, we compare the LZ complexity with the correlation entropy from chaos theory in the context of epileptic seizure detection from EEG data, and discuss advantages of the normalized LZ complexity over the correlation entropy",
+                "Sea clutter is the backscattered returns from a patch of the sea surface illuminated by a radar pulse. Robust detection of targets within sea clutter may strengthen coastal security, improve navigation safety, and help environmental monitoring. However, no simple and reliable methods for detecting targets within sea clutter have been proposed. We introduce the structure function based multifractal theory to analyze 392 sea clutter datasets measured under various sea and weather conditions. It is found that sea clutter data exhibit multifractal behaviors in the time scale range of about 0.01 s to a few seconds, especially for data with targets. The fractal and multifractal features of sea clutter enable us to develop a simple and effective method to detect targets within sea clutter. It is shown that the method achieves very high detection accuracy. It is further shown that in the time scale range of 0.01 s to a few seconds, sea \u2026",
+                "This article provides an overview of several logic redundancy schemes, including von Neumann's multiplexing logic, N-tuple modular redundancy, and interwoven redundant logic. We discuss several important concepts for redundant nanoelectronic system designs based on recent results. First, we use Markov chain models to describe the error-correcting and stationary characteristics of multiple-stage multiplexing systems. Second, we show how to obtain the fundamental error bounds by using bifurcation analysis based on probabilistic models of unreliable gates. Third, we describe the notion of random interwoven redundancy. Finally, we compare the reliabilities of quadded and random interwoven structures by using a simulation-based approach. We observe that the deeper a circuit's logical depth, the more fault-tolerant the circuit tends to be for a fixed number of faults. For a constant gate failure rate, a circuit's \u2026",
+                "Due to the ubiquity of time series with long-range correlation in many areas of science and engineering, analysis and modeling of such data is an important problem. While the field seems to be mature, three major issues have not been satisfactorily resolved.(i) Many methods have been proposed to assess long-range correlation in time series. Under what circumstances do they yield consistent results?(ii) The mathematical theory of long-range correlation concerns the behavior of the correlation of the time series for very large times. A measured time series is finite, however. How can we relate the fractal scaling break at a specific time scale to important parameters of the data?(iii) An important technique in assessing long-range correlation in a time series is to construct a random walk process from the data, under the assumption that the data are like a stationary noise process. Due to the difficulty in determining \u2026"
+            ],
+            [
+                [
+                    "multiscale signal\/image processing",
+                    "nonlinear dynamics",
+                    "biomedical signal\/image processing",
+                    "systems biology"
+                ]
+            ]
+        ]
+    ]
+}

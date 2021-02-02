@@ -1,0 +1,90 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "H2oN1vEAAAAJ",
+            "Maryam Abbasi, PhD",
+            "Research Fellow, Griffith University, Australia",
+            "@griffith.edu.au",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=H2oN1vEAAAAJ",
+            622,
+            [
+                "Waste management",
+                "Artificial intelligence",
+                "Soft computing"
+            ],
+            515,
+            11,
+            9,
+            11,
+            9,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Kopn0jEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Roohollah Noori, PhD",
+                    "affiliation":"University of Oulu"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"oHXeEz0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ali El Hanandeh",
+                    "affiliation":"Griffith University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"sxHVD5AAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gholamreza Nabi bidhendi",
+                    "affiliation":"Professor at the Department of Environmental Engineering, University of Tehran"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"D_d25nUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Touraj Nasrabadi",
+                    "affiliation":"Associate professor, School of Environment,College of Engineering, University of Tehran"
+                }
+            ]
+        ]
+    ]
+}

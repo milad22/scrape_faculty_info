@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "C7EOG0GE",
+            "DToIDrMAAAAJ",
+            [
+                "Expected value of function of uncertain variables",
+                "Uncertain random variables: A mixture of uncertainty and randomness",
+                "Uncertain random programming with applications",
+                "Uncertain currency model and currency option pricing",
+                "An analytic method for solving uncertain differential equations",
+                "Uncertain stock model with periodic dividends",
+                "Risk index in uncertain random risk analysis",
+                "Linear optimization with bipolar fuzzy relational equation constraints using the \u0141ukasiewicz triangular norm",
+                "Value-at-risk in uncertain random risk analysis"
+            ],
+            [
+                "Uncertainty theory is a branch of mathematics based on normality, monotonicity, self-duality, countable subadditivity, and product measure axioms. Different from randomness and fuzziness, uncertainty theory provides a new mathematical model for uncertain phenomena. A key concept to describe uncertain quantity is uncertain variable, and expected value operator provides an average value of uncertain variable in the sense of uncertain measure. This paper will prove that the expected value of monotone function of uncertain variable is just a Lebesgue-Stieltjes integral of the function with respect to its uncertainty distribution, and give some useful expressions of expected value of function of uncertain variables. c\u20dd2010 World Academic Press, UK. All rights reserved.",
+                "In many cases, human uncertainty and objective randomness simultaneously appear in a system. In order to describe this phenomena, this paper presents a new concept of uncertain random variable. To measure uncertain random events, this paper also combines probability measure and uncertain measure into a chance measure. Based on the tool of chance measure, the concepts of chance distribution, expected value and variance of uncertain random variable are proposed.",
+                "Uncertain random variable is a tool to deal with a mixture of uncertainty and randomness. This paper presents an operational law of uncertain random variables, and shows an expected value formula by using probability and uncertainty distributions. This paper also provides a framework of uncertain random programming that is a type of mathematical programming involving uncertain random variables. Finally, some applications of uncertain random programming are discussed.",
+                "The Liu process is a new tool to deal with the noise process based on uncertainty theory. In this paper, we view the foreign exchange rate as an uncertain processes, described by uncertain differential equations driven by the Liu process, and build an uncertain currency model. Then, the uncertain currency option problems are discussed. Moreover, European and American currency option pricing formulas are derived for the proposed uncertain currency model and some mathematical properties are studied. Finally, two numerical examples are documented.",
+                "Uncertain differential equations are a type of differential equations driven by canonical process, and are quite different from stochastic differential equations that are driven by Brownian motion. A solution of an uncertain differential equation is an uncertain process. This paper presents an analytic method to solve a particular class of nonlinear uncertain differential equations and gives some examples to illustrate the proposed analytic method. c 2012 World Academic Press, UK. All rights reserved.",
+                "This paper presents an uncertain stock model with periodic dividends based on uncertainty theory. Some option pricing formulae related to the proposed model are investigated and several numerical examples are discussed to illustrate the related formula.",
+                "In many systems, randomness and uncertainty are present simultaneously. Uncertain random variables provide a tool to deal with these inexact phenomena. This paper proposes a concept of risk index to quantify the risk of an uncertain random system. In addition, a risk index theorem is proved in order to calculate the risk index, and is applied to series systems, parallel systems and standby systems. Finally, a concept of expected loss is suggested for an uncertain random system.",
+                "This paper discusses the linear optimization problem constrained by a system of bipolar fuzzy relational equations with max- composition, where the involved triangular norm is the \u0141ukasiewicz t-norm. Although it is in general NP-hard, such an optimization problem can be reformulated in polynomial time into a 0-1 integer linear optimization problem and then solved taking advantage of well developed techniques in integer optimization.",
+                "Uncertain random variables provide a tool to deal with phenomena in which uncertainty and randomness simultaneously exist. This paper proposes a concept of value-at-risk to quantify the risk of an uncertain random system. In addition, a value-at-risk theorem is proved in order to calculate the value-at-risk, and is applied to series systems, parallel system, k-out-of-n system, standby system, and structural system."
+            ],
+            [
+                [
+                    "Uncertainty Theory",
+                    "Uncertain Programming",
+                    "Uncertain Random Variable"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "nE0TiBwAAAAJ",
+            "Hanwen Zhang",
+            "Universidad Santo Tom\u00e1s",
+            "@usantotomas.edu.co",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=nE0TiBwAAAAJ",
+            310813,
+            [
+                "estad\u00edstica",
+                "series de tiempo",
+                "estad\u00edstica bayesiana"
+            ],
+            184898,
+            230,
+            182,
+            1857,
+            1489,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"HajkarwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hugo Andres Gutierrez Rojas",
+                    "affiliation":"Professor. Faculty of Statistics. Universidad Santo Tom\u00e1s"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"yiPuHu4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Edilberto Cepeda-Cuervo",
+                    "affiliation":"Universidad Nacional de Colombia"
+                }
+            ]
+        ]
+    ]
+}

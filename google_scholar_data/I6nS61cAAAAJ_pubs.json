@@ -1,0 +1,59 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "An approach for genome analysis based on sequencing and assembly of unselected pieces of DNA from the whole chromosome has been applied to obtain the complete nucleotide sequence (1,830,137 base pairs) of the genome from the bacterium Haemophilus influenzae Rd. This approach eliminates the need for initial mapping efforts and is therefore applicable to the vast array of microbial species for which genome maps are unavailable. The H. influenzae Rd genome sequence (Genome Sequence DataBase accession number L42023) represents the only complete genome sequence from a free-living organism.",
+            "Whole-genome random sequencing and assembly of Haemophilus influenzae Rd",
+            "Robert D Fleischmann and Mark D Adams and Owen White and Rebecca A Clayton and Ewen F Kirkness and Anthony R Kerlavage and Carol J Bult and Jean-Francois Tomb and Brian A Dougherty and Joseph M Merrick",
+            "1995",
+            "I6nS61cAAAAJ:geHnlv5EZngC",
+            6793,
+            "https:\/\/science.sciencemag.org\/content\/269\/5223\/496.abstract",
+            "5684015980909148342",
+            "\/scholar?cites=5684015980909148342",
+            {
+                "1995":40,
+                "1996":393,
+                "1997":503,
+                "1998":522,
+                "1999":408,
+                "2000":357,
+                "2001":327,
+                "2002":293,
+                "2003":283,
+                "2004":297,
+                "2005":255,
+                "2006":238,
+                "2007":249,
+                "2008":215,
+                "2009":210,
+                "2010":214,
+                "2011":233,
+                "2012":186,
+                "2013":219,
+                "2014":224,
+                "2015":183,
+                "2016":211,
+                "2017":183,
+                "2018":175,
+                "2019":134,
+                "2020":128,
+                "2021":12
+            }
+        ]
+    ]
+}

@@ -1,0 +1,239 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Evaporation and condensation at a liquid\/vapor interface are ubiquitous interphase mass and energy transfer phenomena that are still not well understood. We have carried out large scale molecular dynamics simulations of Lennard-Jones (LJ) fluids composed of monomers, dimers, or trimers to investigate these processes with molecular detail. For LJ monomers in contact with a vacuum, the evaporation rate is found to be very high with significant evaporative cooling and an accompanying density gradient in the liquid domain near the liquid\/vapor interface. Increasing the chain length to just dimers significantly reduces the evaporation rate. We confirm that mechanical equilibrium plays a key role in determining the evaporation rate and the density and temperature profiles across the liquid\/vapor interface. The velocity distributions of evaporated molecules and the evaporation and condensation coefficients are \u2026",
+            "Evaporation of Lennard-Jones fluids",
+            "Shengfeng Cheng and Jeremy B Lechman and Steven J Plimpton and Gary S Grest",
+            "2011",
+            "BliJkGMAAAAJ:d1gkVwhDpl0C",
+            84,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.3595260",
+            "2086001906435080595",
+            "\/scholar?cites=2086001906435080595",
+            {
+                "2011":1,
+                "2012":3,
+                "2013":7,
+                "2014":10,
+                "2015":6,
+                "2016":8,
+                "2017":15,
+                "2018":11,
+                "2019":10,
+                "2020":12,
+                "2021":1
+            }
+        ],
+        [
+            "Contact area plays a central role in continuum theories of friction and adhesion, and there is growing interest in calculating it with atomic resolution. Molecular dynamics simulations are used to study definitions of contact area based on instantaneous and time-averaged forces or separations between atoms. Flat and spherical surfaces with different atomic geometries, adhesion, and temperatures are examined. In continuum theory, the fraction of two flat surfaces that is in contact rises sharply from zero to unity when a load is applied. This simple behavior is surprisingly difficult to reproduce with atomic scale definitions of contact. At typical temperatures, nonadhesive surfaces are held apart by a small fraction of atoms with large thermal fluctuations until the normal pressure is comparable to the ideal hardness. The contact area associated with atoms interacting at any instant rises linearly with load. Time \u2026",
+            "Defining contact at the atomic scale",
+            "Shengfeng Cheng and Mark O Robbins",
+            "2010",
+            "BliJkGMAAAAJ:u5HHmVD_uO8C",
+            81,
+            "https:\/\/link.springer.com\/article\/10.1007\/s11249-010-9682-5",
+            "7057467564991993354",
+            "\/scholar?cites=7057467564991993354",
+            {
+                "2011":1,
+                "2012":9,
+                "2013":12,
+                "2014":14,
+                "2015":7,
+                "2016":9,
+                "2017":11,
+                "2018":7,
+                "2019":6,
+                "2020":2,
+                "2021":1
+            }
+        ],
+        [
+            "Molecular dynamics simulations are used to study contact between a rigid, nonadhesive, and spherical tip with radius of order 30 nm and a flat elastic substrate covered with a fluid monolayer of adsorbed chain molecules. Previous studies of bare surfaces showed that the atomic scale deviations from a sphere that are present on any tip constructed from discrete atoms lead to significant deviations from continuum theory and dramatic variability in friction forces. Introducing an adsorbed monolayer leads to larger deviations from continuum theory but decreases the variations between tips with different atomic structure. Although the film is fluid, it remains in the contact and behaves qualitatively like a thin elastic coating except for certain tips at high loads. Measures of the contact area based on the moments or outer limits of the pressure distribution and on counting contacting atoms are compared. The number of tip \u2026",
+            "Contact and friction of nanoasperities: Effects of adsorbed monolayers",
+            "Shengfeng Cheng and Binquan Luan and Mark O Robbins",
+            "2010",
+            "BliJkGMAAAAJ:u-x6o8ySG0sC",
+            72,
+            "https:\/\/journals.aps.org\/pre\/abstract\/10.1103\/PhysRevE.81.016102",
+            "15451101378367483944",
+            "\/scholar?cites=15451101378367483944",
+            {
+                "2009":1,
+                "2010":9,
+                "2011":2,
+                "2012":8,
+                "2013":2,
+                "2014":9,
+                "2015":3,
+                "2016":10,
+                "2017":6,
+                "2018":9,
+                "2019":6,
+                "2020":6
+            }
+        ],
+        [
+            "Large-scale molecular dynamics simulations are used to study the dispersion of nanoparticles (NPs) in a polymer film during solvent evaporation. As the solvent evaporates, a dense polymer-rich skin layer forms at the liquid\/vapor interface, which is either NP rich or poor depending on the strength of the NP\/polymer interaction. When the NPs are strongly wet by the polymer, the NPs accumulate at the interface and form layers. However, when the NPs are only partially wet by the polymer, most NPs are uniformly distributed in the bulk of the polymer film, with the dense skin layer serving as a barrier to prevent the NPs from moving to the interface. Our results point to a possible route to employ less favorable NP\/polymer interactions and fast solvent evaporation to uniformly disperse NPs in a polymer film, contrary to the common belief that strong NP\/polymer attractions are needed to make NPs well dispersed in polymer \u2026",
+            "Dispersing nanoparticles in a polymer film via solvent evaporation",
+            "Shengfeng Cheng and Gary S Grest",
+            "2016",
+            "BliJkGMAAAAJ:PuOEWVtPfzwC",
+            61,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acsmacrolett.6b00263",
+            "10847162142910584431",
+            "\/scholar?cites=10847162142910584431",
+            {
+                "2016":1,
+                "2017":13,
+                "2018":13,
+                "2019":16,
+                "2020":14,
+                "2021":4
+            }
+        ],
+        [
+            "While evaporating solvent is a widely used technique to assemble nano-sized objects into desired superstructures, there has been limited work on how the assembled structures are affected by the physical aspects of the process. We present large scale molecular dynamics simulations of the evaporation-induced assembly of nanoparticles suspended in a liquid that evaporates in a controlled fashion. The quality of the nanoparticle crystal formed just below the liquid\/vapor interface is found to be better at relatively slower evaporation rates, as less defects and grain boundaries appear. This trend is understood as the result of the competition between the accumulation and diffusion times of nanoparticles at the liquid\/vapor interface. When the former is smaller, nanoparticles are deposited so fast at the interface that they do not have sufficient time to arrange through diffusion, which leads to the prevalence of defects and \u2026",
+            "Molecular dynamics simulations of evaporation-induced nanoparticle assembly",
+            "Shengfeng Cheng and Gary S Grest",
+            "2013",
+            "BliJkGMAAAAJ:-f6ydRqryjwC",
+            55,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.4789807",
+            "14964001137938067834",
+            "\/scholar?cites=14964001137938067834",
+            {
+                "2013":1,
+                "2014":7,
+                "2015":1,
+                "2016":8,
+                "2017":10,
+                "2018":8,
+                "2019":8,
+                "2020":10,
+                "2021":2
+            }
+        ],
+        [
+            "A correlation is established between the macro-scale friction regimes of metals and a transition between two dominant atomistic mechanisms of deformation. Metals tend to exhibit bi-stable friction behavior\u2014low and converging or high and diverging. These general trends in behavior are shown to be largely explained using a simplified model based on grain size evolution, as a function of contact stress and temperature, and are demonstrated for self-mated pure copper and gold sliding contacts. Specifically, the low-friction regime (where \u00b5 < 0.5) is linked to the formation of ultra-nanocrystalline surface films (10\u201320 nm), driving toward shear accommodation by grain boundary sliding. Above a critical combination of stress and temperature\u2014demonstrated to be a material property\u2014shear accommodation transitions to dislocation dominated plasticity and high friction, with \u00b5 > 0.5. We utilize a combination of \u2026",
+            "Linking microstructural evolution and macro-scale friction behavior in metals",
+            "Nicolas Argibay and Michael E Chandross and Shengfeng Cheng and Joseph R Michael",
+            "2017",
+            "BliJkGMAAAAJ:J3LtWjKFLicC",
+            46,
+            "https:\/\/link.springer.com\/article\/10.1007\/s10853-016-0569-1",
+            "17100679275979726992",
+            "\/scholar?cites=17100679275979726992",
+            {
+                "2017":1,
+                "2018":13,
+                "2019":9,
+                "2020":19,
+                "2021":4
+            }
+        ],
+        [
+            "While the miscibility and spatial dispersion of nanoparticles (NPs) in a polymer melt critically affects the properties of the resulting nanocomposite, little simulation work exists on understanding this critical issue. We use isothermal\u2013isobaric ensemble simulations and show that larger NPs disperse more easily than small NPs, implying the relative dominance of NP\u2013polymer attractions over depletion-induced inter-NP attractions. Similarly, polymer chain length only plays a secondary role, probably because the entropic, depletion-induced inter-NP attractions only occur over length scales comparable to the correlation length in the melt, namely the segment size, \u03c3. Importantly, no NP self-assembly is observed, and the only transition that occurs for polymer systems with large enough NPs (\u03c3NP \u2265 6\u03c3) is of a purely, first-order solid\u2013fluid type. This result follows from the fact that the range of effective attractions between the \u2026",
+            "Simulating the miscibility of nanoparticles and polymer melts",
+            "Dong Meng and Sanat K Kumar and Shengfeng Cheng and Gary S Grest",
+            "2013",
+            "BliJkGMAAAAJ:IjCSPb-OGe4C",
+            43,
+            "https:\/\/pubs.rsc.org\/en\/content\/articlehtml\/2013\/sm\/c3sm50460c",
+            "4897040401002058476",
+            "\/scholar?cites=4897040401002058476",
+            {
+                "2013":1,
+                "2014":2,
+                "2015":5,
+                "2016":8,
+                "2017":6,
+                "2018":5,
+                "2019":6,
+                "2020":10
+            }
+        ],
+        [
+            "Large-scale molecular dynamics simulations are used to simulate a layer of nanoparticles floating on the surface of a liquid. Both a low viscosity liquid, represented by Lennard-Jones monomers, and a high viscosity liquid, represented by linear homopolymers, are studied. The organization and diffusion of the nanoparticles are analyzed as the nanoparticle density and the contact angle between the nanoparticles and liquid are varied. When the interaction between the nanoparticles and liquid is reduced the contact angle increases and the nanoparticles ride higher on the liquid surface, which enables them to diffuse faster. In this case the short-range order is also reduced as seen in the pair correlation function. For the polymeric liquids, the out-of-layer fluctuation is suppressed and the short-range order is slightly enhanced. However, the diffusion becomes much slower and the mean square displacement even \u2026",
+            "Structure and diffusion of nanoparticle monolayers floating at liquid\/vapor interfaces: A molecular dynamics study",
+            "Shengfeng Cheng and Gary S Grest",
+            "2012",
+            "BliJkGMAAAAJ:qjMakFHDy7sC",
+            40,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.4725543",
+            "15418545398087042508",
+            "\/scholar?cites=15418545398087042508",
+            {
+                "2013":4,
+                "2014":7,
+                "2015":2,
+                "2016":4,
+                "2017":6,
+                "2018":4,
+                "2019":9,
+                "2020":4
+            }
+        ],
+        [
+            "The low-frequency collective vibrational modes in proteins as well as the protein\u2013water interface have been suggested as dominant factors controlling the efficiency of biochemical reactions and biological energy transport. It is thus crucial to uncover the mystery of the hydration structure and dynamics as well as their coupling to collective motions of proteins in aqueous solutions. Here, we report dielectric properties of aqueous bovine serum albumin protein solutions as a model system using an extremely sensitive dielectric spectrometer with frequencies spanning from megahertz to terahertz. The dielectric relaxation spectra reveal several polarization mechanisms at the molecular level with different time constants and dielectric strengths, reflecting the complexity of protein\u2013water interactions. Combining the effective-medium approximation and molecular dynamics simulations, we have determined collective \u2026",
+            "High-Precision Megahertz-to-Terahertz Dielectric Spectroscopy of Protein Collective Motions and Hydration Dynamics",
+            "Ali Charkhesht and Chola Regmi and Katie R Mitchell-Koch and Shengfeng Cheng and Nguyen Q Vinh",
+            "2018",
+            "BliJkGMAAAAJ:0sTkTiv_uMkC",
+            30,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acs.jpcb.8b02872",
+            "16557532168208389293",
+            "\/scholar?cites=16557532168208389293",
+            {
+                "2018":2,
+                "2019":10,
+                "2020":13,
+                "2021":3
+            }
+        ],
+        [
+            "Molecular dynamics simulations are used to study the capillary adhesion from a nonvolatile liquid meniscus between a spherical tip and a flat substrate. The atomic structure of the tip, the tip radius, the contact angles of the liquid on the two surfaces, and the volume of the liquid bridge are varied. The capillary force between the tip and substrate is calculated as a function of their separation h. The force agrees with continuum predictions based on macroscopic theory for h down to\u223c 5 to 10 nm. At smaller h, the force tends to be less attractive than predicted and has strong oscillations. This oscillatory component of the capillary force is completely missed in the macroscopic theory, which only includes contributions from the surface tension around the circumference of the meniscus and the pressure difference over the cross section of the meniscus. The oscillation is found to be due to molecular layering of the liquid \u2026",
+            "Capillary Adhesion at the Nanometer Scale",
+            "Shengfeng Cheng and Mark O Robbins",
+            "2014",
+            "BliJkGMAAAAJ:R3hNpaxXUhUC",
+            28,
+            "https:\/\/journals.aps.org\/pre\/abstract\/10.1103\/PhysRevE.89.062402",
+            "13032279805336566606",
+            "\/scholar?cites=13032279805336566606",
+            {
+                "2014":1,
+                "2015":5,
+                "2016":6,
+                "2017":4,
+                "2018":6,
+                "2019":3,
+                "2020":2
+            }
+        ]
+    ]
+}

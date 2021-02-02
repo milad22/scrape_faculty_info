@@ -1,0 +1,127 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "C9LE-1sAAAAJ",
+            "Charles J. Bruce",
+            "Associate Professor of Neurobiology, Yale Univ",
+            "@yale.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=C9LE-1sAAAAJ",
+            16091,
+            [
+                "Neurophysiology",
+                "Vision",
+                "Eye Movements",
+                "Neuroanatomy"
+            ],
+            2274,
+            41,
+            20,
+            51,
+            33,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"QotpoA0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"charles gross",
+                    "affiliation":"professor of psychology, princeton university"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Q7Iqo-4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jacqueline Gottlieb",
+                    "affiliation":"Columbia University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"IngbCHQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ioan Opris",
+                    "affiliation":"University of Miami"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"xWI4K4sAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mriganka Sur",
+                    "affiliation":"Newton Professor of Neuroscience, MIT"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"-oJvjgEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Preston E. Garraghty",
+                    "affiliation":"Professor of Psychological and Brain Sciences, Indiana University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"7LHwvxsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ricardo Gattass",
+                    "affiliation":"Emeritus Professor of Neuroscience, Federal University of Rio de Janeiro"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"RKRYQvwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Patricia Goldman-Rakic (deceased)",
+                    "affiliation":"Eugene Higgins Professor of Neuroscience, Yale University"
+                }
+            ]
+        ]
+    ]
+}

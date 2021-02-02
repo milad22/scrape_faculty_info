@@ -1,0 +1,197 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "The ability to foresee the next moves of a user is crucial to ubiquitous computing. Disregarding major differences in individuals' routines, recent ground-breaking analysis on mobile phone data suggests high predictability in mobility. By nature, however, mobile phone data offer very low spatial and temporal resolutions. It remains largely unknown how the predictability changes with respect to different spatial\/temporal scales. Using high-resolution GPS data, this paper investigates the scaling effects on predictability. Given specified spatial-temporal scales, recorded trajectories are encoded into long strings of distinct locations, and several information-theoretic measures of predictability are derived. Somewhat surprisingly, high predictability is still present at very high spatial\/temporal resolutions. Moreover, the predictability is independent of the overall mobility area covered. This suggests highly regular mobility \u2026",
+            "Predictability of individuals' mobility with high-resolution positioning data",
+            "Miao Lin and Wen-Jing Hsu and Zhuo Qi Lee",
+            "2012",
+            "BlLcyO8AAAAJ:u5HHmVD_uO8C",
+            87,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/2370216.2370274",
+            "7866808331072007697",
+            "\/scholar?cites=7866808331072007697",
+            {
+                "2013":10,
+                "2014":13,
+                "2015":9,
+                "2016":14,
+                "2017":6,
+                "2018":11,
+                "2019":8,
+                "2020":11,
+                "2021":1
+            }
+        ],
+        [
+            "Global positioning systems (GPS) logs recorded in personal devices contain rich information such as travel patterns, locations of frequent visits and place\u2013event associations. There have been rather successful attempts in detecting the mode of transport from GPS logs such as walking, driving or taking a bus, which has found varied applications. However, the best-known schemes either require tedious manual labelling or pre-training process (or both). We present MoDetect (MD), a unsupervised scheme which eliminates the need of manual labelling and pre-training while attaining equal or greater accuracy compared with the best-known supervised methods. MD can also cater for differences in individual's behaviours, and hence may be more widely applicable than the existing schemes. To achieve this, MD relies on Kolmogorov\u2013Smirnov test which offers a theoretical assurance when computing similarity between \u2026",
+            "Detecting modes of transport from unlabelled positioning sensor data",
+            "Miao Lin and Wen-Jing Hsu and Zhuo Qi Lee",
+            "2013",
+            "BlLcyO8AAAAJ:u-x6o8ySG0sC",
+            23,
+            "https:\/\/www.tandfonline.com\/doi\/abs\/10.1080\/17489725.2013.819128",
+            "9341408978195730858",
+            "\/scholar?cites=9341408978195730858",
+            {
+                "2014":6,
+                "2015":4,
+                "2016":4,
+                "2017":4,
+                "2018":1,
+                "2019":4
+            }
+        ],
+        [
+            "Biased random walk has been studied extensively over the past decade especially in the transport and communication networks communities. The mean first passage time (MFPT) of a biased random walk is an important performance indicator in those domains. While the fundamental matrix approach gives precise solution to MFPT, the computation is expensive and the solution lacks interpretability. Other approaches based on the Mean Field Theory relate MFPT to the node degree alone. However, nodes with the same degree may have very different local weight distribution, which may result in vastly different MFPT. We derive an approximate bound to the MFPT of biased random walk with short relaxation time on complex network where the biases are controlled by arbitrarily assigned node weights. We show that the MFPT of a node in this general case is closely related to not only its node degree, but also its local weight distribution. The MFPTs obtained from computer simulations also agree with the new theoretical analysis. Our result enables fast estimation of MFPT, which is useful especially to differentiate between nodes that have very different local node weight distribution even though they share the same node degrees.",
+            "Estimating mean first passage time of biased random walks with short relaxation time on complex networks",
+            "Zhuo Qi Lee and Wen-Jing Hsu and Miao Lin",
+            "2014",
+            "BlLcyO8AAAAJ:9yKSN-GCB0IC",
+            7,
+            "https:\/\/journals.plos.org\/plosone\/article?id=10.1371\/journal.pone.0093348",
+            "7287883052880521971",
+            "\/scholar?cites=7287883052880521971",
+            {
+                "2014":1,
+                "2015":2,
+                "2016":1,
+                "2017":2
+            }
+        ],
+        [
+            "Previous studies suggest that human mobility is highly regular in two respects. Firstly, individual's travels are governed by occasional exploration of new locations and preferential return to most frequently visited locations. Secondly, human mobility sequences exhibit high predictability. The existing model [1] is able to mimic exploration and preferential return, and lit actual mobility data. However, the high predictability issue is not addressed in this model. In this paper, we derive an upper bound of the predictability manifested by this model. Motivated by the incorrigible gap between the bound and the empirical results shown in [2], we further propose a new Markovian model by modifying the rule of preferential return to be conditional on the individuals' current location. We show both theoretically and empirically that the new Markovian model presents high predictability while preserving the desirable scaling properties \u2026",
+            "Modeling High Predictability and Scaling Laws of Human Mobility",
+            "Miao Lin and Wen-Jing Hsu and Zhuo Qi Lee",
+            "2013",
+            "BlLcyO8AAAAJ:IjCSPb-OGe4C",
+            6,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6569077\/",
+            "13361439362530400280",
+            "\/scholar?cites=13361439362530400280",
+            {
+                "2014":1,
+                "2015":1,
+                "2016":1,
+                "2017":2,
+                "2018":1
+            }
+        ],
+        [
+            "As multi-dimensional text data are being generated at dazzling rate, topic modelling has become an important instrument for learning from large unstructured document sets. To focus on specific subsets of large document corpora, a user may specify various criteria to identify documents of interest before extracting topics from the documents. In this paper, we aim to accelerate the computation of topic models for documents that satisfy range queries. Our strategy is to create indexes for identifying documents, and pre-compute the topic models for certain subsets of documents. The indexes enable to efficiently identify the exact set (called the Canonical Set) of documents that fall within the user-specified range. The target topic model is computed by combining the pre-computed models associated with the Canonical Set of documents. In contrast, the best known approach based on Octrees only allows identifying an \u2026",
+            "Accelerating Topic Exploration of Multi-Dimensional Documents",
+            "Wen-Jing Hsu and You Lu and Zhuo Qi Lee",
+            "2017",
+            "BlLcyO8AAAAJ:W7OEmFMy1HYC",
+            4,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7965215\/",
+            "1859984690951542970",
+            "\/scholar?cites=1859984690951542970",
+            {
+                "2018":1,
+                "2019":3
+            }
+        ],
+        [
+            "Containers stowage optimization is a long-standing problem in the maritime industry. Since the problem was shown to be NP-hard, it is computationally challenging to obtain an optimal solution. We first review an efficient 2-phase block stowage scheme which can generate a feasible initial solution in just a few minutes. Since the algorithm relies heavily on checking whether any constraints will be violated by stowing a container at a specific location, we investigate the impact of changing the order in which the constraints are checked on the execution time of the algorithm. We evaluate seven different strategies for ordering the sequence in which the constraints are tested. Experiments based on real stowage instances show that, by strategically reordering the constraints test sequence, we can achieve 2 times speedup on the stowage planning algorithm on average, and up to 33 times speedup in certain \u2026",
+            "Optimizing Constraint Test Ordering for Efficient Automated Stowage Planning",
+            "Zhuo Qi Lee and Rui Fan and Wen-Jing Hsu",
+            "2015",
+            "BlLcyO8AAAAJ:zYLM7Y9cAGgC",
+            4,
+            "https:\/\/link.springer.com\/chapter\/10.1007\/978-3-319-24264-4_24",
+            "18364957570088690569",
+            "\/scholar?cites=18364957570088690569",
+            {
+                "2016":1,
+                "2017":2,
+                "2018":1
+            }
+        ],
+        [
+            "The container stowage planning problem is known to be NP-hard and heuristic algorithms have been proposed. Conventionally, the efficiency of the stowage planning algorithms are improved by pruning or reducing the search space. We observe that constraint evaluation is the core of most algorithms. In addition, the order at which the constraints are evaluated can have significant impact on the efficiency of the constraint evaluation engine. We propose random sample model (RSM) and sequential sample model (SSM) for analysis of the problem. We present and evaluate seven strategies in optimizing the constraint evaluation engine. We show how to achieve the optimal constraint ordering with respect to RSM and SSM, respectively. However, the optimal ordering for SSM requires perfect information about the states of the constraint tests, which is impractical. We present an alternative strategy and show \u2026",
+            "A near-optimal algorithm for constraint test ordering in automated stowage planning",
+            "Zhuo Qi Lee and Rui Fan and Wen-Jing Hsu",
+            "2018",
+            "BlLcyO8AAAAJ:YsMSGLbcyi4C",
+            3,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/8245909\/",
+            "12969407364733526350",
+            "\/scholar?cites=12969407364733526350",
+            {
+                "2018":1,
+                "2019":1,
+                "2020":1
+            }
+        ],
+        [
+            "Identifying nodes that play important roles in network dynamics in large scale complex networks is crucial for both characterizing the network and resource management. Under the viral marketing setting, Diffusion Centrality (DC) estimates the influential power of an individual. For the transport and physics communities, a node is considered important in Markov centrality (MC) if it can be quickly reached from the other nodes. Because these networks could contain millions of nodes, any ranking algorithm must have low time requirements to be practically useful. In this paper, we show that both metrics are strongly correlated, and we present a new method to enable fast estimation of the two metrics for large scale networks. The new approach is further validated empirically by using both real and synthetic networks. Our results refined the intuition that the influential power of an individual is largely governed by the local \u2026",
+            "Efficient algorithm for ranking of nodes' importance in information dissemination",
+            "Zhuo Qi Lee and Wen-Jing Hsu and Miao Lin",
+            "2014",
+            "BlLcyO8AAAAJ:qjMakFHDy7sC",
+            3,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6921565\/",
+            "13957659472990177050",
+            "\/scholar?cites=13957659472990177050",
+            {
+                "2015":1,
+                "2016":1,
+                "2017":1
+            }
+        ],
+        [
+            "Various Markov models have been proposed to model individuals' mobility, i.e., the transitions between locations. Although these studies are able to show high predicting accuracy of individuals' next move, two basic assumptions of these studies, namely the stationarity of individuals' mobility sequence and the dependency of visiting the locations, have never been validated. Moreover, a famous recent research suggests that individuals prefer to revisit the locations merely according to the visitation frequency. In this paper, we study these two presumed properties of individuals' mobility sequence. Specifically, stationarity is validated by analyzing the autocorrelation of the mobility sequences that are encoded under three popular schemes. With appropriate choice of spatial and temporal scale, two types of periodicity, e.g., daily and weekly, are observed. The visiting dependency between the locations is validated by \u2026",
+            "Uncovering Temporal and Spatial Localities in Individuals' Mobility",
+            "Miao Lin and Zhuo Qi Lee and Wen-Jing Hsu",
+            "2013",
+            "BlLcyO8AAAAJ:d1gkVwhDpl0C",
+            3,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6569143\/",
+            "2937699019472646952",
+            "\/scholar?cites=2937699019472646952",
+            {
+                "2014":2,
+                "2015":1
+            }
+        ],
+        [
+            "Container stowage planning is a complex task in which multiple objectives have to be optimized while ensuring that the stowage rules as well as the safety and balance requirements are observed. Most algorithms for solving the problem are comprised of 2 parts: a container-location selection mechanism and a constraint evaluation engine. The former selects one or more container-location pairs for allocation iteratively and the latter evaluates whether the selected container-location pairs violate any of the constraints. We observe that, using the same selection mechanism, the order in which the constraints are evaluated can have significant impact on the overall efficiency. We propose Sequential Sample Model (SSM) as an improvement over the existing Random Sample Model (RSM) for analysis of the problem. We present and evaluate several strategies in optimizing the constraint evaluation engine. We \u2026",
+            "Towards Real-Time Automated Stowage Planning -- Optimizing Constraint Test Ordering",
+            "Zhuo Qi Lee and Rui Fan and Wen-Jing Hsu",
+            "2016",
+            "BlLcyO8AAAAJ:Y0pCki6q_DkC",
+            2,
+            "https:\/\/link.springer.com\/chapter\/10.1007\/978-3-319-44896-1_12",
+            "17694386739674585449",
+            "\/scholar?cites=17694386739674585449",
+            {
+                "2018":1,
+                "2019":1
+            }
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "8TXWDTA5",
+            "tdYTb50AAAAJ",
+            [
+                "Adiabatic quantum computation",
+                "Experimental signature of programmable quantum annealing",
+                "Evolution of holographic entanglement entropy after thermal and electromagnetic quenches",
+                "A holographic superconductor in an external magnetic field",
+                "Quantum adiabatic Markovian master equations",
+                "Scattering processes and resonances from lattice QCD",
+                "Error-corrected quantum annealing with hundreds of qubits",
+                "Probing for quantum speedup in spin-glass problems with planted solutions"
+            ],
+            [
+                "Adiabatic quantum computing (AQC) started as an approach to solving optimization problems and has evolved into an important universal alternative to the standard circuit model of quantum computing, with deep connections to both classical and quantum complexity theory and condensed matter physics. This review gives an account of the major theoretical developments in the field, while focusing on the closed-system setting. The review is organized around a series of topics that are essential to an understanding of the underlying principles of AQC, its algorithmic accomplishments and limitations, and its scope in the more general setting of computational complexity theory. Several variants are presented of the adiabatic theorem, the cornerstone of AQC, and examples are given of explicit AQC algorithms that exhibit a quantum speedup. An overview of several proofs of the universality of AQC and related \u2026",
+                "Quantum annealing is a general strategy for solving difficult optimization problems with the aid of quantum adiabatic evolution. Both analytical and numerical evidence suggests that under idealized, closed system conditions, quantum annealing can outperform classical thermalization-based algorithms such as simulated annealing. Current engineered quantum annealing devices have a decoherence timescale which is orders of magnitude shorter than the adiabatic evolution time. Do they effectively perform classical thermalization when coupled to a decohering thermal environment? Here we present an experimental signature which is consistent with quantum annealing, and at the same time inconsistent with classical thermalization. Our experiment uses groups of eight superconducting flux qubits with programmable spin\u2013spin couplings, embedded on a commercially available chip with> 100 functional qubits \u2026",
+                "We study the evolution and scaling of the entanglement entropy after two types of quenches for a 2+ 1 field theory, using a conjectured holographic technique for its computation. We study a thermal quench, dual to the addition of a shell of uncharged matter to four-dimensional anti-de Sitter (AdS 4) spacetime, and study the subsequent formation of a Schwarzschild black hole. We also study an electromagnetic quench, dual to the addition of a shell of charged sources to AdS 4, following the subsequent formation of an extremal dyonic black hole. In these backgrounds, we consider the entanglement entropy of two types of geometries, the infinite strip and the round disc, and find distinct behavior for each. Some of our findings naturally supply results analogous to observations made in the literature for lower dimensions, but we also uncover several new phenomena, such as (in some cases) a discontinuity in the time \u2026",
+                "We study a system of a complex charged scalar coupled to a Reissner-Nordstr\u00f6m black hole in 3+ 1 dimensional anti-de Sitter spacetime, neglecting back-reaction. With suitable boundary conditions, the cases of a neutral and purely electric black hole have been studied in various limits and were shown to yield key elements of superconductivity in the dual 2+ 1 dimensional field theory, forming a condensate below a critical temperature. By adding magnetic charge to the black hole, we immerse the superconductor into an external magnetic field. We show that a family of condensates can form and we examine their structure. For finite magnetic field, they are localized in one dimension with a profile that is exactly solvable, since it maps to the quantum harmonic oscillator. As the magnetic field increases, the condensate shrinks in size, which is reminiscent of the Meissner effect.",
+                "We develop from first principles Markovian master equations suited for studying the time evolution of a system evolving adiabatically while coupled weakly to a thermal bath. We derive two sets of equations in the adiabatic limit, one using the rotating wave (secular) approximation that results in a master equation in Lindblad form, the other without the rotating wave approximation but not in Lindblad form. The two equations make markedly different predictions depending on whether or not the Lamb shift is included. Our analysis keeps track of the various time and energy scales associated with the various approximations we make, and thus allows for a systematic inclusion of higher order corrections, in particular beyond the adiabatic limit. We use our formalism to study the evolution of an Ising spin chain in a transverse field and coupled to a thermal bosonic bath, for which we identify four distinct evolution phases \u2026",
+                "The vast majority of hadrons observed in nature are not stable under the strong interaction; rather they are resonances whose existence is deduced from enhancements in the energy dependence of scattering amplitudes. The study of hadron resonances offers a window into the workings of quantum chromodynamics (QCD) in the low-energy nonperturbative region, and in addition many probes of the limits of the electroweak sector of the standard model consider processes which feature hadron resonances. From a theoretical standpoint, this is a challenging field: the same dynamics that binds quarks and gluons into hadron resonances also controls their decay into lighter hadrons, so a complete approach to QCD is required. Presently, lattice QCD is the only available tool that provides the required nonperturbative evaluation of hadron observables. This article reviews progress in the study of few-hadron reactions in \u2026",
+                "Quantum information processing offers dramatic speedups, yet is susceptible to decoherence, whereby quantum superpositions decay into mutually exclusive classical alternatives, thus robbing quantum computers of their power. This makes the development of quantum error correction an essential aspect of quantum computing. So far, little is known about protection against decoherence for quantum annealing, a computational paradigm aiming to exploit ground-state quantum dynamics to solve optimization problems more rapidly than is possible classically. Here we develop error correction for quantum annealing and experimentally demonstrate it using antiferromagnetic chains with up to 344 superconducting flux qubits in processors that have recently been shown to physically implement programmable quantum annealing. We demonstrate a substantial improvement over the performance of the processors in \u2026",
+                "The availability of quantum annealing devices with hundreds of qubits has made the experimental demonstration of a quantum speedup for optimization problems a coveted, albeit elusive goal. Going beyond earlier studies of random Ising problems, here we introduce a method to construct a set of frustrated Ising-model optimization problems with tunable hardness. We study the performance of a D-Wave Two device (DW2) with up to 503 qubits on these problems and compare it to a suite of classical algorithms, including a highly optimized algorithm designed to compete directly with the DW2. The problems are generated around predetermined ground-state configurations, called planted solutions, which makes them particularly suitable for benchmarking purposes. The problem set exhibits properties familiar from constraint satisfaction (SAT) problems, such as a peak in the typical hardness of the problems \u2026"
+            ],
+            [
+                [
+                    "quantum physics",
+                    "quantum computation"
+                ]
+            ]
+        ]
+    ]
+}

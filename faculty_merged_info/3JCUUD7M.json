@@ -1,0 +1,35 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "3JCUUD7M",
+            "GXGMeq8AAAAJ",
+            [
+                "Locality-aware power optimization and measurement methodology for PGAS workloads on SMP clusters",
+                "Granular CPU power measurement for SMP clusters",
+                "Energy Efficient Job Co-scheduling for High-Performance Parallel Computing Clusters",
+                "Predictive energy management techniques for PGAS programming"
+            ],
+            [
+                "Reducing energy consumption without affecting computational performance is a significant research driver in computer engineering. The Partitioned Global Address Space (PGAS) programming model provides a global address space for ease-of-use while providing locality-awareness for efficient execution. For symmetric multiprocessor (SMP) clusters, PGAS locality-awareness offers opportunities for intelligent energy management due to the inherent latencies in the interconnection network fabric. In this paper, the second in a series that explores PGAS power optimization, we present a detailed examination of how data locality-awareness can be exploited to improve the energy consumption of workload sharing on SMP clusters. We present a systematic methodology for analyzing a given algorithm's potential for locality-aware power optimization. We show how to automate the code modifications for an iterative \u2026",
+                "One of the key challenges in optimizing CPU power consumption at the program level is the difficulty of precisely measuring the power consumption of the CPU (as distinct from other system components) during the various phases of a program's execution. This paper presents a scalable CPU power measurement framework with its associated reporting and data acquisition components that can be used to accurately measure program-related CPU power consumption on symmetric multiprocessor (SMP) cluster systems.",
+                "Cost and environmental concerns continue to drive research in high performance computing (HPC) energy optimization. Commodity server platforms are increasingly deployed as compute clusters which have a variety of energy management control features. In this paper, we examine the energy reduction effect of different ways to co-schedule benchmark codes on a HPC cluster using different combinations of job queue control dimensions including, thread core affinity interleaving, Dynamic Voltage and Frequency Scaling (DVFS), and job re-ordering. The combination space of control parameters in conjunction with varying job queue depths is too large to explore using a direct measurement approach so we developed a scheduling simulator that can quickly and efficiently examine a large permutation space of job-spans to find the energy optimal order and control configuration. Equipped with the base time\/energy \u2026",
+                "Power consumption increasingly presents an upper bound on sustainable large scale computing performance and reliability. The Partitioned Global Address Space (PGAS) programming model is a family of parallel programming paradigms with a global address space for ease-of-use while providing locality awareness for efficient execution. Very little exploration has been done to determine the potential of PGAS programming models in improving scalable energy efficient computation for high performance computing (HPC) clusters. This paper examines features of the PGAS programming model that may support predictively reducing power consumption in distributed clusters via dynamic voltage frequency scaling (DVFS). These concepts are tested with Unified Parallel C (UPC) codes running on a cluster of commodity PCs which have been instrumented to measure power at the CPU socket level. We have also \u2026"
+            ],
+            [
+                [
+                    "Computer Engineering"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "1o5RRxkAAAAJ",
+            "James E Wilbanks",
+            "Assistant Professor of Management, University of Arkansas at Little Rock",
+            "@ualr.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=1o5RRxkAAAAJ",
+            775,
+            [
+                "Strategy and Entrepreneurship"
+            ],
+            536,
+            5,
+            5,
+            5,
+            4,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"b0cHfzkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Daniel B. Turban",
+                    "affiliation":"University of Missouri"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "0CVyG1UAAAAJ",
+            "Glen Evenbly",
+            "Universit\u00e9 de Sherbrooke",
+            "@usherbrooke.ca",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=0CVyG1UAAAAJ",
+            2612,
+            [
+                "Condensed Matter",
+                "Quantum Information"
+            ],
+            1739,
+            26,
+            23,
+            32,
+            32,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"D9oCceYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Robert N C Pfeifer",
+                    "affiliation":"Postdoctoral Research Fellow, Macquarie University, Sydney, Australia"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9Mad7CgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Luca Tagliacozzo",
+                    "affiliation":"RyC Fellow, Universidad de Barcelona"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"tXebds4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Steven White",
+                    "affiliation":"Distinguished Professor of Physics, University of California, Irvine"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"wBrDPIEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Frank Verstraete",
+                    "affiliation":"Theoretical Physics, Ghent University"
+                }
+            ]
+        ]
+    ]
+}

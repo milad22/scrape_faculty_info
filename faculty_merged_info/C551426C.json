@@ -1,0 +1,39 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "C551426C",
+            "UGsfenkAAAAJ",
+            [
+                "The automated computation of tree-level and next-to-leading order differential cross sections, and their matching to parton shower simulations",
+                "MadGraph 5: going beyond",
+                "MadGraph 5: going beyond",
+                "MadGraph\/MadEvent v4: the new web generation",
+                "MadEvent: Automatic event generation with MadGraph",
+                "Automatic generation of tree level helicity amplitudes"
+            ],
+            [
+                "We discuss the theoretical bases that underpin the automation of the computations of tree-level and next-to-leading order cross sections, of their matching to parton shower simulations, and of the merging of matched samples that differ by light-parton multiplicities. We present a computer program, MadGraph5 aMC@ NLO, capable of handling all these computations\u2014parton-level fixed order, shower-matched, merged\u2014in a unified framework whose defining features are flexibility, high level of parallelisation, and human intervention limited to input physics quantities. We demonstrate the potential of the program by presenting selected phenomenological applications relevant to the LHC and to a 1-TeV e+ e\u2212 collider. While next-to-leading order results are restricted to QCD corrections to SM processes in the first public version, we show that from the user viewpoint no changes have to be expected in the case of \u2026",
+                "M ad G raph 5 is the new version of the M ad G raph matrix element generator, written in the Python programming language. It implements a number of new, efficient algorithms that provide improved performance and functionality in all aspects of the program. It features a new user interface, several new output formats including C++ process libraries for P ythia 8, and full compatibility with F eyn R ules for new physics models implementation, allowing for event generation for any model that can be written in the form of a Lagrangian. M ad G raph 5 builds on the same philosophy as the previous versions, and its design allows it to be used as a collaborative platform where theoretical, phenomenological and simulation projects can be developed and then distributed to the high-energy community. We describe the ideas and the most important developments of the code and illustrate its capabilities through a few simple \u2026",
+                "M ad G raph 5 is the new version of the M ad G raph matrix element generator, written in the Python programming language. It implements a number of new, efficient algorithms that provide improved performance and functionality in all aspects of the program. It features a new user interface, several new output formats including C++ process libraries for P ythia 8, and full compatibility with F eyn R ules for new physics models implementation, allowing for event generation for any model that can be written in the form of a Lagrangian. M ad G raph 5 builds on the same philosophy as the previous versions, and its design allows it to be used as a collaborative platform where theoretical, phenomenological and simulation projects can be developed and then distributed to the high-energy community. We describe the ideas and the most important developments of the code and illustrate its capabilities through a few simple \u2026",
+                "We present the latest developments of the MadGraph\/MadEvent Monte Carlo event generator and several applications to hadron collider physics. In the current version events at the parton, hadron and detector level can be generated directly from a web interface, for arbitrary processes in the Standard Model and in several physics scenarios beyond it (HEFT, MSSM, 2HDM). The most important additions are: a new framework for implementing user-defined new physics models; a standalone running mode for creating and testing matrix elements; generation of events corresponding to different processes, such as signal (s) and backgrounds, in the same run; two platforms for data analysis, where events are accessible at the parton, hadron and detector level; and the generation of inclusive multi-jet samples by combining parton-level events with parton showers. To illustrate the new capabilities of the package some \u2026",
+                "We present a new multi-channel integration method and its implementation in the multi-purpose event generator MadEvent, which is based on MadGraph. Given a process, MadGraph automatically identifies all the relevant subprocesses, generates both the amplitudes and the mappings needed for an efficient integration over the phase space, and passes them to MadEvent. As a result, a process-specific, stand-alone code is produced that allows the user to calculate cross sections and produce unweighted events in a standard output format. Several examples are given for processes that are relevant for physics studies at present and forthcoming colliders.",
+                "The program MadGraph is presented which automatically generates postscript Feynman diagrams and Fortran code to calculate arbitrary tree level helicity amplitudes by calling HELAS[1] subroutines. The program is written in Fortran and is available in Unix and VMS versions. MadGraph currently includes standard model interactions of QCD and QFD, but is easily modified to include additional models such as supersymmetry."
+            ],
+            [
+                [
+                    "Physics Education Research"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "mwElZfUAAAAJ",
+            "Imran Mirza",
+            "Adjunct Professor, University of Alberta",
+            "@ualberta.ca",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=mwElZfUAAAAJ",
+            683,
+            [
+                "Leadership and Management",
+                "Hematopathology",
+                "Molecular Pathology",
+                "Genetics and Genomics"
+            ],
+            272,
+            13,
+            9,
+            16,
+            9,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Y8naPU8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Eric Hsi",
+                    "affiliation":"Cleveland Clinic"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fqvsNvUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Randy D Gascoyne",
+                    "affiliation":"Professor of Pathology, University of British Columbia"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3rkO5JgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Anna Janowska-Wieczorek",
+                    "affiliation":"University of Alberta, Professor of Medicine and Canadian Blood Services, Scientist"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"WDN30hIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sean Bagshaw",
+                    "affiliation":"University of Alberta"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"p5qwIa8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Adnan Mansoor, MD; FRCPC",
+                    "affiliation":"University of Calgary"
+                }
+            ]
+        ]
+    ]
+}

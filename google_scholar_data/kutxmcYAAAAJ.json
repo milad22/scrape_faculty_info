@@ -1,0 +1,112 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "kutxmcYAAAAJ",
+            "Kirill Tuchin",
+            "Iowa State University",
+            "@iastate.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=kutxmcYAAAAJ",
+            5962,
+            [
+
+            ],
+            2092,
+            35,
+            26,
+            62,
+            41,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"FZFMHPgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dmitri Kharzeev",
+                    "affiliation":"Stony Brook University and BNL"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"xgEJ9vsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yuri Kovchegov",
+                    "affiliation":"Professor of Physics, The Ohio State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"vh1NZlcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yang Li",
+                    "affiliation":"College of William & Mary"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"7SjeveIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"michael lublinsky",
+                    "affiliation":"Ben-Gurion University of the Negev"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"LTKRGJ4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Xingbo Zhao",
+                    "affiliation":"Institute of Modern Physics, Chinese Academy of Sciences"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"kdtwpMkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yang Li",
+                    "affiliation":"Florida Atlantic University"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "data":[
+        [
+            "Tumor genetics guides patient selection for many new therapies, and cell culture studies have demonstrated that specific mutations can promote metabolic phenotypes. However, whether tissue context defines cancer dependence on specific metabolic pathways is unknown. Kras activation and Trp53 deletion in the pancreas or the lung result in pancreatic ductal adenocarinoma (PDAC) or non\u2013small cell lung carcinoma (NSCLC), respectively, but despite the same initiating events, these tumors use branched-chain amino acids (BCAAs) differently. NSCLC tumors incorporate free BCAAs into tissue protein and use BCAAs as a nitrogen source, whereas PDAC tumors have decreased BCAA uptake. These differences are reflected in expression levels of BCAA catabolic enzymes in both mice and humans. Loss of Bcat1 and Bcat2, the enzymes responsible for BCAA use, impairs NSCLC tumor formation, but these \u2026",
+            "Tissue of origin dictates branched-chain amino acid metabolism in mutant Kras-driven cancers",
+            "Jared R Mayers and Margaret E Torrence and Laura V Danai and Thales Papagiannakopoulos and Shawn M Davidson and Matthew R Bauer and Allison N Lau and Brian W Ji and Purushottam D Dixit and Aaron M Hosios and Alexander Muir and Christopher R Chin and Elizaveta Freinkman and Tyler Jacks and Brian M Wolpin and Dennis Vitkup and Matthew G Vander Heiden",
+            "2016",
+            "0mcDrygAAAAJ:kWvqk_afx_IC",
+            264,
+            "https:\/\/science.sciencemag.org\/content\/353\/6304\/1161.abstract",
+            "6015351379811112427",
+            "\/scholar?cites=6015351379811112427",
+            {
+                "2016":6,
+                "2017":46,
+                "2018":66,
+                "2019":72,
+                "2020":67,
+                "2021":6
+            }
+        ],
+        [
+            "Probabilities of numbers of ligands proximal to an ion lead to simple, general formulae for the free energy of ion selectivity between different media. That free energy does not depend on the definition of an inner shell for ligand-counting, but other quantities of mechanistic interest do. If analysis is restricted to a specific coordination number, then two distinct probabilities are required to obtain the free energy in addition. The normalizations of those distributions produce partition function formulae for the free energy. Quasi-chemical theory introduces concepts of chemical equilibrium, then seeks the probability that is simplest to estimate, that of the most probable coordination number. Quasi-chemical theory establishes the utility of distributions of ligand-number, and sharpens our understanding of quasi-chemical calculations based on electronic structure methods. This development identifies contributions with clear \u2026",
+            "Ion selectivity from local configurations of ligands in solutions and ion channels",
+            "D Asthagiri and PD Dixit and S Merchant and ME Paulaitis and LR Pratt and SB Rempe and S Varma",
+            "2010",
+            "0mcDrygAAAAJ:u5HHmVD_uO8C",
+            78,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0009261409015267",
+            "979725278068080992",
+            "\/scholar?cites=979725278068080992",
+            {
+                "2010":10,
+                "2011":11,
+                "2012":9,
+                "2013":5,
+                "2014":6,
+                "2015":7,
+                "2016":6,
+                "2017":4,
+                "2018":4,
+                "2019":7,
+                "2020":8
+            }
+        ],
+        [
+            "An approximation to the \u223c4-Mbp basic genome shared by 32 strains of Escherichia coli representing six evolutionary groups has been derived and analyzed computationally. A multiple alignment of the 32 complete genome sequences was filtered to remove mobile elements and identify the most reliable \u223c90% of the aligned length of each of the resulting 496 basic-genome pairs. Patterns of single base-pair mutations (SNPs) in aligned pairs distinguish clonally inherited regions from regions where either genome has acquired DNA fragments from diverged genomes by homologous recombination since their last common ancestor. Such recombinant transfer is pervasive across the basic genome, mostly between genomes in the same evolutionary group, and generates many unique mosaic patterns. The six least-diverged genome pairs have one or two recombinant transfers of length \u223c40\u2013115 kbp (and few if any \u2026",
+            "Recombinant transfer in the basic genome of Escherichia coli",
+            "Purushottam Dixit and Tin Yau Pang and F William Studier and Sergei Maslov",
+            "2015",
+            "0mcDrygAAAAJ:jFemdcug13IC",
+            61,
+            "https:\/\/www.pnas.org\/content\/112\/29\/9070.short",
+            "8701947564887946012",
+            "\/scholar?cites=8701947564887946012",
+            {
+                "2015":5,
+                "2016":12,
+                "2017":10,
+                "2018":12,
+                "2019":8,
+                "2020":14
+            }
+        ],
+        [
+            "We are interested inferring rate processes on networks. In particular, given a network\u2019s topology, the stationary populations on its nodes, and a few global dynamical observables, can we infer all the transition rates between nodes? We draw inferences using the principle of maximum caliber (maximum path entropy). We have previously derived results for discrete-time Markov processes. Here, we treat continuous-time processes, such as dynamics among metastable states of proteins. The present work leads to a particularly important analytical result: namely, that when the network is constrained only by a mean jump rate, the rate matrix is given by a square-root dependence of the rate, kab \u221d (\u03c0b\/\u03c0a)1\/2, on \u03c0a and \u03c0b, the stationary-state populations at nodes a and b. This leads to a fast way to estimate all of the microscopic rates in the system. As an illustration, we show that the method accurately predicts the \u2026",
+            "Inferring transition rates of networks from populations in continuous-time Markov processes",
+            "Purushottam D. Dixit and Abhinav Jain and Gerhard Stock and Ken. A. Dill",
+            "2015",
+            "0mcDrygAAAAJ:MAUkC_7iAq8C",
+            54,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acs.jctc.5b00537",
+            "5104428482625561865",
+            "\/scholar?cites=5104428482625561865",
+            {
+                "2016":5,
+                "2017":8,
+                "2018":21,
+                "2019":9,
+                "2020":8,
+                "2021":3
+            }
+        ],
+        [
+            "To understand the thermodynamic exclusion of Na+ relative to K+ from the S 2 site of the selectivity filter, the distribution P X (\u025b)(X= K+ or Na+) of the binding energy (\u025b) of the ion with the channel is analyzed using the potential distribution theorem. By expressing the excess chemical potential of the ion as a sum of mean-field< \u025b> and fluctuation \u03bc ex flux, X contributions, we find that selectivity arises from a higher value of \u03bc flux, Na+ ex relative to \u03bc flux, K+ ex. To understand the role of site-site interactions on \u03bc ex flux, X, we decompose P X (\u025b) into n-dependent distributions, where n is the number of ion-coordinating ligands within a distance \u03bb from the ion. For \u03bb comparable to typical ion-oxygen bond distances, investigations building on this multistate model reveal an inverse correlation between favorable ion-site and site-site interactions: the ion-coordination states that most influence the thermodynamics of the ion \u2026",
+            "Ion selectivity in the KcsA potassium channel from the perspective of the ion binding site",
+            "Purushottam D Dixit and Safir Merchant and D Asthagiri",
+            "2009",
+            "0mcDrygAAAAJ:u-x6o8ySG0sC",
+            48,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0006349509003270",
+            "310929371427353037",
+            "\/scholar?cites=310929371427353037",
+            {
+                "2009":4,
+                "2010":5,
+                "2011":10,
+                "2012":6,
+                "2013":4,
+                "2014":2,
+                "2015":4,
+                "2016":5,
+                "2017":4,
+                "2018":2,
+                "2019":1,
+                "2020":1
+            }
+        ],
+        [
+            "We review here Maximum Caliber (Max Cal), a general variational principle for inferring distributions of paths in dynamical processes and networks. Max Cal is to dynamical trajectories what the principle of maximum entropy is to equilibrium states or stationary populations. In Max Cal, you maximize a path entropy over all possible pathways, subject to dynamical constraints, in order to predict relative path weights. Many well-known relationships of non-equilibrium statistical physics\u2014such as the Green-Kubo fluctuation-dissipation relations, Onsager\u2019s reciprocal relations, and Prigogine\u2019s minimum entropy production\u2014are limited to near-equilibrium processes. Max Cal is more general. While it can readily derive these results under those limits, Max Cal is also applicable far from equilibrium. We give examples of Max Cal as a method of inference about trajectory distributions from limited data, finding reaction \u2026",
+            "Perspective: Maximum caliber is a general variational principle for dynamical systems",
+            "Purushottam D Dixit and Jason Wagoner and Corey Weistuch and Steve Press\u00e9 and Kingshuk Ghosh and Ken A Dill",
+            "2018",
+            "0mcDrygAAAAJ:wvYxNZNCP7wC",
+            46,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.5012990",
+            "8317477372349063889",
+            "\/scholar?cites=8317477372349063889",
+            {
+                "2018":15,
+                "2019":15,
+                "2020":12,
+                "2021":4
+            }
+        ],
+        [
+            "While bacteria divide clonally, horizontal gene transfer followed by homologous recombination is now recognized as an important contributor to their evolution. However, the details of how the competition between clonality and recombination shapes genome diversity remains poorly understood. Using a computational model, we find two principal regimes in bacterial evolution and identify two composite parameters that dictate the evolutionary fate of bacterial species. In the divergent regime, characterized by either a low recombination frequency or strict barriers to recombination, cohesion due to recombination is not sufficient to overcome the mutational drift. As a consequence, the divergence between pairs of genomes in the population steadily increases in the course of their evolution. The species lacks genetic coherence with sexually isolated clonal subpopulations continuously formed and dissolved. In \u2026",
+            "Recombination-driven genome evolution and stability of bacterial species",
+            "Purushottam D Dixit and Tin Yau Pang and Sergei Maslov",
+            "2017",
+            "0mcDrygAAAAJ:YsrPvlHIBpEC",
+            38,
+            "https:\/\/academic.oup.com\/genetics\/article-abstract\/207\/1\/281\/5930725",
+            "15354459148390088728",
+            "\/scholar?cites=15354459148390088728",
+            {
+                "2017":4,
+                "2018":6,
+                "2019":9,
+                "2020":17,
+                "2021":1
+            }
+        ],
+        [
+            "We present a principled approach for estimating the matrix of microscopic transition probabilities among states of a Markov process, given only its stationary state population distribution and a single average global kinetic observable. We adapt Maximum Caliber, a variational principle in which the path entropy is maximized over the distribution of all possible trajectories, subject to basic kinetic constraints and some average dynamical observables. We illustrate the method by computing the solvation dynamics of water molecules from molecular dynamics trajectories.",
+            "Inferring microscopic kinetic rates from stationary state distributions",
+            "Purushottam D Dixit and Ken A Dill",
+            "2014",
+            "0mcDrygAAAAJ:1Ye0OR6EYb4C",
+            33,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/ct5001389",
+            "14188025178366131083",
+            "\/scholar?cites=14188025178366131083",
+            {
+                "2015":4,
+                "2016":4,
+                "2017":4,
+                "2018":13,
+                "2019":4,
+                "2020":3,
+                "2021":1
+            }
+        ],
+        [
+            "Probability distributions having power-law tails are observed in a broad range of social, economic, and biological systems. We describe here a potentially useful common framework. We derive distribution functions  for situations in which a \u201cjoiner particle\u201d k pays some form of price to enter a community of size , where costs are subject to economies of scale. Maximizing the Boltzmann\u2013Gibbs\u2013Shannon entropy subject to this energy-like constraint predicts a distribution having a power-law tail; it reduces to the Boltzmann distribution in the absence of economies of scale. We show that the predicted function gives excellent fits to 13 different distribution functions, ranging from friendship links in social networks, to protein\u2013protein interactions, to the severity of terrorist attacks. This approach may give useful insights into when to expect power-law distributions in the natural and social sciences.",
+            "A maximum entropy framework for nonexponential distributions",
+            "Jack Peterson and Purushottam D Dixit and Ken A Dill",
+            "2013",
+            "0mcDrygAAAAJ:AXkvAH5U_nMC",
+            33,
+            "https:\/\/www.pnas.org\/content\/110\/51\/20380.short",
+            "10323569995879364232",
+            "\/scholar?cites=10323569995879364232",
+            {
+                "2014":6,
+                "2015":9,
+                "2016":6,
+                "2017":4,
+                "2018":1,
+                "2019":6
+            }
+        ]
+    ]
+}

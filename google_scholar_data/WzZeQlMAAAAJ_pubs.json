@@ -1,0 +1,69 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2
+    ],
+    "data":[
+        [
+            "We measured the nucleation rates of lysozyme protein crystals using microfluidically produced emulsion drops containing supersaturated protein solution. The technique involves quenching several thousand independent nanoliter drops by rapidly lowering the temperature and then counting the number of drops that have not nucleated as a function of time at constant temperature. We fit the number distribution to a theoretical model developed by Pound and La Mer (J. Am. Chem. Soc. 1952, 74, 2323\u20132332) for heterogeneous nucleation and extract two nucleation rates and the number of nucleation sites per drop. We describe the technique in detail and present our analysis of the measured nucleation rates within the context of Classical Nucleation Theory, which adequately describes our observations. Of the two nucleation rates, one is a slow rate that varies with temperature and one is a fast rate independent of \u2026",
+            "Emulsion-based technique to measure protein crystal nucleation rates of lysozyme",
+            "Sathish V Akella and Aaron Mowitz and Michael Heymann and Seth Fraden",
+            "2014",
+            "WzZeQlMAAAAJ:u5HHmVD_uO8C",
+            43,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/cg500562r",
+            "9434782355399610744",
+            "\/scholar?cites=9434782355399610744",
+            {
+                "2015":10,
+                "2016":3,
+                "2017":11,
+                "2018":7,
+                "2019":6,
+                "2020":6
+            }
+        ],
+        [
+            "We formulate a numerical method for predicting the tensorial linear response of a rigid, asymmetrically charged body to an applied electric field. This prediction requires calculating the response of the fluid to the Stokes drag forces on the moving body and on the countercharges near its surface. To determine the fluid's motion, we represent both the body and the countercharges using many point sources of drag known as Stokeslets. Finding the correct flow field amounts to finding the set of drag forces on the Stokeslets that is consistent with the relative velocities experienced by each Stokeslet. The method rigorously satisfies the condition that the object moves with no transfer of momentum to the fluid. We demonstrate that a sphere represented by 1999 well-separated Stokeslets on its surface produces flow and drag force like a solid sphere to 1% accuracy. We show that a uniformly charged sphere with 3998 body \u2026",
+            "Predicting tensorial electrophoretic effects in asymmetric colloids",
+            "Aaron J Mowitz and TA Witten",
+            "2017",
+            "WzZeQlMAAAAJ:d1gkVwhDpl0C",
+            4,
+            "https:\/\/journals.aps.org\/pre\/abstract\/10.1103\/PhysRevE.96.062613",
+            "1008980697918203423",
+            "\/scholar?cites=1008980697918203423",
+            {
+                "2019":1,
+                "2020":3
+            }
+        ],
+        [
+            "Asymmetrically charged, nonspherical colloidal particles in general perform complex rotations and oblique motions under an electric field. The interplay of electrostatic and hydrodynamic forces complicates the prediction of these motions. We demonstrate a method of calculating the body tensors that dictate translational and rotational velocity vectors arising from an external electric field. We treat insulating rigid bodies in the linear-response regime, with indefinitely small electrostatic screening length. The method represents the body as an assembly of point sources of both hydrodynamic drag and surface electric field. We demonstrate agreement with predicted electrophoretic mobility to within a few percent for several shapes with uniform and nonuniform charges. We show that even symmetric shapes can have strong chiral twisting motions. The method applies more generally to active colloidal swimmers.",
+            "Chiral motion in colloidal electrophoresis",
+            "Lara Braverman and Aaron Mowitz and Thomas A Witten",
+            "2020",
+            "WzZeQlMAAAAJ:qjMakFHDy7sC",
+            1,
+            "https:\/\/journals.aps.org\/pre\/abstract\/10.1103\/PhysRevE.101.062608",
+            "17441076535500385428",
+            "\/scholar?cites=17441076535500385428",
+            {
+                "2020":1
+            }
+        ]
+    ]
+}

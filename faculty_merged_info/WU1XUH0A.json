@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "WU1XUH0A",
+            "G_sJJ8gAAAAJ",
+            [
+                "Understanding charge transport in lead iodide perovskite thin-film field-effect transistors",
+                "Electronic structures and spectral properties of endohedral fullerenes",
+                "Empirical bond polarizability model for fullerenes",
+                "Planarity of para Hexaphenyl",
+                "Temperature dependent photoluminescence of organic semiconductors with varying backbone conformation",
+                "Structural and spectroscopic investigations of bulk poly [bis (2-ethyl) hexylfluorene]",
+                "Polyfluorene as a model system for space-charge-limited conduction",
+                "Development of strain reduced GaN on Si (111) by substrate engineering",
+                "Low-operating voltage and stable organic field-effect transistors with poly (methyl methacrylate) gate dielectric solution deposited from a high dipole moment solvent",
+                "Chain morphologies in semicrystalline polyfluorene: evidence from Raman scattering"
+            ],
+            [
+                "Fundamental understanding of the charge transport physics of hybrid lead halide perovskite semiconductors is important for advancing their use in high-performance optoelectronics. We use field-effect transistors (FETs) to probe the charge transport mechanism in thin films of methylammonium lead iodide (MAPbI3). We show that through optimization of thin-film microstructure and source-drain contact modifications, it is possible to significantly minimize instability and hysteresis in FET characteristics and demonstrate an electron field-effect mobility (\u03bcFET) of 0.5 cm2\/Vs at room temperature. Temperature-dependent transport studies revealed a negative coefficient of mobility with three different temperature regimes. On the basis of electrical and spectroscopic studies, we attribute the three different regimes to transport limited by ion migration due to point defects associated with grain boundaries, polarization disorder \u2026",
+                "Endohedral fullerenes belong to a new class of compounds which are technologically and scientifically important owing to their unique structures and optoelectronic properties. This review focuses on theoretical calculations and spectroscopic (electronic, vibrational, and nuclear magnetic resonance (NMR)) studies of endohedral fullerenes thus far published. A theoretical background, with various computational methods used for determining energy-optimized electronic structure and calculation of vibrational spectra, is presented. Further, theoretical and spectroscopic investigations of individual endohedral fullerenes are discussed. Such studies provide structural information about the carbon cage, position of the encapsulated species, and the degree of charge transfer. In particular, 13C NMR spectroscopy is indispensable for the determination of the cage symmetry. In some cases, NMR signals from 45Sc \u2026",
+                "The static polarizability properties and the Raman-scattering intensities in molecular C 60 and C 70 are found to be well reproduced by a bond polarizability model with parameters similar to those obtained from studies of hydrocarbons. For the Raman spectrum of C 60 with off-resonance infrared laser excitation, a fit using first-principles vibrational eigenvectors yields \u03b1\u2225\u2032-\u03b1\u22a5\u2032= 2.30 A \u030a 2, 2 \u03b1\u22a5\u2032+ \u03b1\u2225\u2032= 2.30 A \u030a 2, \u03b1\u2225-\u03b1\u22a5= 1.28 A \u030a 3 for single bonds and \u03b1\u2225\u2032-\u03b1\u22a5\u2032= 2.60 A \u030a 2, 2 \u03b1\u22a5\u2032+ \u03b1\u2225\u2032= 7.55 A \u030a 2, \u03b1\u2225-\u03b1\u22a5= 0.32 A \u030a 3 for double bonds, with (\u03b1\u2225-\u03b1\u22a5) for the single bond arbitrarily set equal to its value in ethane, namely, 1.28 A \u030a 3. The transferability of these parameters to C 70 is discussed in detail.\u00a9 1996 The American Physical Society.",
+                "We present experimental and theoretical findings on the geometry of polycrystalline para hexaphenyl via Raman scattering. The planarity of the molecule is affected by hydrostatic pressure and temperature. Our studies indicate that the potential energy curve which governs the torsional motion between neighboring phenyl rings is \u201cW\u201d shaped. We determine the activation energy to promote the molecule from a nonplanar to a planar state to be 0.04 eV, in good agreement with our quantum chemical calculations. From the relative intensities of the 1280 cm\u2212 1 to the 1220 cm\u2212 1 Raman modes we show that high pressure planarizes the molecules, modifying the \u201cW\u201d-shaped potential energy curve to a \u201cU\u201d-shaped one.",
+                "We present photoluminescence studies as a function of temperature from a series of conjugated polymers and a conjugated molecule all with distinctly different backbone conformations. The organic materials investigated here are planar methylated ladder-type poly para-phenylene, semi-planar polyfluorene, and nonplanar para-hexaphenyl. In the long-chain-polymers the photoluminescence transition energies blueshift with increasing temperatures. In contrast, in the conjugated molecules transition energies redshift with increasing temperatures. Empirical models that explain the temperature dependence of the band gap energies in inorganic semiconductors are extended to explain the temperature dependence of the transition energies in conjugated molecules.",
+                "X-ray diffraction, optical spectroscopy (photoluminescence, photoluminescence excitation, Raman scattering), and molecular modeling are used in a broad study of structure and structural phase behavior within bulk poly(9,9-bis(2-ethylhexyl)fluorene-2,7-diyl) (PF2\/6). The nascent polymer initially appears in a disordered state, but annealing at modest temperatures, just above the glass transition temperature (Tg) of 332 K, initiates structural evolution toward the well-known hexagonal-type phase. Cooling from the high-temperature liquid crystal mesophase yields the same basic phase structure but with much improved long-range order. Despite these large-scale changes in the PF2\/6 interchain ordering, optical spectroscopy resolves only subtle variations in the spectroscopic features. Thermal cycling above 330 K (near Tg) yields red shifts in the Franck\u2212Condon (FC) emission. These shifts are, in part, irreversible \u2026",
+                "Ethyl-hexyl substituted polyfluorene (PF) with its high level of molecular disorder can be described very well by one-carrier space-charge-limited conduction for a discrete set of trap levels with energy\u223c 0.5 eV above the valence-band edge. Sweeping the bias above the trap-filling limit in the as-is polymer generates a set of exponential traps, which is clearly seen in the density of states calculations. The trapped charges in this set of traps have very long lifetimes and can be detrapped by photoexcitation. Thermal cycling the PF film to a crystalline phase prevents the creation of additional traps at higher voltages.",
+                "We report on a novel scheme of substrate engineering to obtain high-quality GaN layers on Si substrates. Ion implantation of an AlN\u2215Si substrate is performed to create a defective layer that partially isolates the III-nitride layer and the Si substrate and helps to reduce the strain in the film. Raman spectroscopy shows a substantial decrease in in-plane strain in GaN films grown on nitrogen implanted substrates. This is confirmed by the enhancement of the E2 (TO) phonon frequency from 564 to 567cm\u22121 corresponding to 84% stress reduction and substantial decrease in crack density for a 2-\u03bcm-thick GaN film. GaN films grown on implanted AlN\u2215Si substrate have better optical properties and smoother surface morphology as compared to nonimplanted AlN\u2215Si substrate.",
+                "A low-operating voltage and stable pentacene field-effect transistor (FET) employing thin low-dielectric constant gate layer of poly (methyl methacrylate) (PMMA) dissolved in propylene carbonate (PC) has been realized. This device exhibiting high field-effect mobility, a threshold voltage of \u22121\u2009V, and a small sub-threshold slope at operating voltages below \u22123\u2009V is compared with an FET cast from PMMA film dissolved in a low dipole moment solvent. The negligible hysteresis and excellent electrical stability of FETs under gate bias stress with the use of PC are traceable to the low density of trap states in PMMA bulk and at the interfaces.",
+                "The \u03b2 phase in di-octyl substituted polyfluorene (PF8) exhibits a surprising level of conformational order at nanometer length scales compared to other phases. We present Raman scattering studies of PF8 as a function of thermal cycling, which establishes a connection between the conformational isomers and the side and main chain morphology. Density-functional calculations of the vibrational spectra of single chain oligomers in conjunction with the experimental results demonstrate the incompatibility of the \u03b2 phase with the overall \u03b1 crystalline phase in PF8."
+            ],
+            [
+                [
+                    "Condensed Matter Physics",
+                    "Materials Science",
+                    "Organic Electronics"
+                ]
+            ]
+        ]
+    ]
+}

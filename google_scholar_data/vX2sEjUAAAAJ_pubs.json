@@ -1,0 +1,83 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3
+    ],
+    "data":[
+        [
+            "Binding of a solvated peptide A1 (1E 2P 3L 4Q 5L 6K 7M) with a graphene sheet is studied by a coarse-grained computer simulation involving input from three independent simulated interaction potentials in hierarchy. A number of local and global physical quantities such as energy, mobility, and binding profiles and radius of gyration of peptides are examined as a function of temperature (T). Quantitative differences (e.g., the extent of binding within a temperature range) and qualitative similarities are observed in results from three simulated potentials. Differences in variations of both local and global physical quantities suggest a need for such analysis with multiple inputs in assessing the reliability of both quantitative and qualitative observations. While all three potentials indicate binding at low T and unbinding at high T, the extent of binding of peptide with the temperature differs. Unlike un-solvated peptides (with \u2026",
+            "Binding of solvated peptide (EPLQLKM) with a graphene sheet via simulated coarse-grained approach",
+            "Somayyeh Sheikholeslami and RB Pandey and Nadiya Dragneva and Wely Floriano and Oleg Rubel and Stephen A Barr and Zhifeng Kuang and Rajiv Berry and Rajesh Naik and Barry Farmer",
+            "2014",
+            "vX2sEjUAAAAJ:u-x6o8ySG0sC",
+            5,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.4876716",
+            "10348628270166568574",
+            "\/scholar?cites=10348628270166568574",
+            {
+                "2014":1,
+                "2015":1,
+                "2016":1,
+                "2017":1,
+                "2018":1
+            }
+        ],
+        [
+            "A highly accurate and efficient numerical method is presented for computing the solution of a 1-D time-dependent partial differential equation in which the spatial differential operator features a piecewise constant coefficient defined on n pieces, in either self-adjoint and non-self-adjoint form, on a finite interval with periodic boundary conditions. The Uncertainty Principle is used to estimate the eigenvalues of the operator. Then, these estimates are used to construct a basis of eigenfunctions for use with a spectral method. The solution is presented as a truncated eigenfunction expansion, where each eigenfunction is a wave function that changes frequencies at the interfaces between different materials. Numerical experiments demonstrate the accuracy, efficiency and scalability of the method in comparison to other methods.",
+            "Diagonalization of 1-D differential operators with piecewise constant coefficients using the uncertainty principle",
+            "Sarah D Long and Somayyeh Sheikholeslami and James V Lambers and Carley Walker",
+            "2019",
+            "vX2sEjUAAAAJ:zYLM7Y9cAGgC",
+            3,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0378475418302003",
+            "14597444299667020676",
+            "\/scholar?cites=14597444299667020676",
+            {
+                "2019":1,
+                "2020":2
+            }
+        ],
+        [
+            "We solve the first order 2-D reaction\u2013diffusion equations which describe binding-diffusion kinetics using the photobleaching scanning profile of a confocal laser scanning microscope, approximated by a Gaussian laser profile. We show how to solve the first-order photobleaching kinetics partial differential equations (PDEs) using a time-stepping method known as a Krylov subspace spectral (KSS) method. KSS methods are explicit methods for solving time-dependent variable-coefficient partial differential equations. They approximate Fourier coefficients of the solution using Gaussian quadrature rules in the spectral domain. In this paper, we show how a KSS method can be used to obtain not only an approximate numerical solution, but also an approximate analytical solution when using initial conditions that come from pre-bleach steady states and also general initial conditions, to facilitate asymptotic analysis \u2026",
+            "Modeling of first-order photobleaching kinetics using Krylov subspace spectral methods",
+            "Somayyeh Sheikholeslami and James V Lambers",
+            "2018",
+            "vX2sEjUAAAAJ:u5HHmVD_uO8C",
+            1,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0898122117306673",
+            "9904575738274377387",
+            "\/scholar?cites=9904575738274377387",
+            {
+                "2019":1
+            }
+        ],
+        [
+            "We solve the first order reaction-diffusion equations which describes binding-diffusion kinetics using photobleaching scanning profile of confocal laser scanning Microscopes approximated by a Gaussian laser profile. We show how to solve the first order photobleaching kinetics partial differential equations with prebleach steady state initial conditions using a time-domain method known as a Krylov Subspace Spectral method (KSS method). KSS are explicit methods for solving time-dependent variable-coefficient partial differential equations (PDEs). KSS methods are advantageous compared to other methods because of its high resolution and its superior scalability. We will apply Gaussian Quadrature rules in the spectral domain developed by Golub and Meurant to solve PDEs. We present a simple rough analytical solution, as well as a computational solution that is first-order accurate. We then use this solution to \u2026",
+            "Solution of PDES For First-Order Photobleaching Kinetics Using Krylov Subspace Spectral Methods",
+            "Somayyeh Sheikholeslami",
+            "2017",
+            "vX2sEjUAAAAJ:W7OEmFMy1HYC",
+            1,
+            "https:\/\/www.cell.com\/biophysj\/pdf\/S0006-3495(16)34183-2.pdf",
+            "12462062510559625420",
+            "\/scholar?cites=12462062510559625420",
+            {
+                "2018":1
+            }
+        ]
+    ]
+}

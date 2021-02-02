@@ -1,0 +1,139 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "fhOi--4AAAAJ",
+            "Shirley Ho",
+            "Flatiron Institute, Center for Computational Astrophysics",
+            "@flatironinstitute.org",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=fhOi--4AAAAJ",
+            38592,
+            [
+                "Cosmology",
+                "Astrophysics",
+                "Machine Learning",
+                "Statistics"
+            ],
+            29860,
+            60,
+            55,
+            131,
+            124,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"PNAYyPMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Nikhil Padmanabhan",
+                    "affiliation":"Yale University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"-BynFYEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David Schlegel",
+                    "affiliation":"Senior Scientist, Lawrence Berkeley National Lab"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"vvMo3o8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mariana Vargas Maga\u00f1a",
+                    "affiliation":"Instituto de Fisica, UNAM"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"xLMq1EUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Antonio J. Cuesta",
+                    "affiliation":"Physics Department - Universidad de C\u00f3rdoba"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Yr5IIFEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Joel R. Brownstein",
+                    "affiliation":"University of Utah"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"W-0_21AAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Neta Bahcall",
+                    "affiliation":"Princeton university"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"gKgomRgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Nicholas P. Ross",
+                    "affiliation":"STFC Ernest Rutherford Fellow, Institute for Astronomy, University of Edinburgh"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"h3ZhFpgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Martin WHITE",
+                    "affiliation":"Berkeley"
+                }
+            ]
+        ]
+    ]
+}

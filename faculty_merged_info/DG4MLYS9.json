@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "DG4MLYS9",
+            "5BdD3-sAAAAJ",
+            [
+                "The ATLAS experiment at the CERN large hadron collider",
+                "The ATLAS simulation infrastructure",
+                "Performance of the ATLAS trigger system in 2015",
+                "Measurement of the Z\/ \u03b3* boson transverse momentum distribution in pp collisions at  TeV with the ATLAS detector",
+                "The large area telescope on the Fermi gamma-ray space telescope mission",
+                "Muon recontruction performance of the ATLAS detector in proton\u2013proton colliion data at $$\\qrt {} $$= 13 TeV",
+                "Luminosity Determination in Pp Collisions at S\u221a S= 8 TeV Using the ATLAS Detector at the LHC",
+                "The LHCb detector at the LHC",
+                "Evidence for the Higgs-boson Yukawa coupling to tau leptons with the ATLAS detector",
+                "Observation of a Centrality-Dependent Dijet Asymmetry in Lead-Lead Collisions at  with the ATLAS Detector at the LHC"
+            ],
+            [
+                "Aad, G; Bentvelsen, S; Bobbink, GJ; Bos, K; Boterenbrood, H; Brouwer, G; Buis, EJ; Buskop, JJF;\nColijn, AP; Dankers, R; Daum, C; de Boer, R; de Jong, P; Ennes, P; Gosselink, M; Groenstege,\nH; Hart, RGG; Hartjes, F; Hendriks, PJ; Hessey, NP; Jansweijer, PPM; Kieft, G; Klous, S; Kluit, P;\nKoffeman, E; Koutsman, A; Liebig, W; Limper, M; Linde, F; Luijckx, G; Massaro, G; Muijs, A; Peeters,\nSJM; Reichold, A; Rewiersma, P; Rijpstra, M; Scholte, RC; Schuijlenburg, HW; Snuverink, J; van\nder Graaf, H; van der Kraaij, E; Van Eijk, B; van Kesteren, Z; van Vulpen, I; Verkerke, W; Vermeulen,\nJC; Vreeswijk, M; Werneke, P; Cakir, O; Ciftci, AK; Duran Yildiz, H; Sultanov, S; Turk Cakir, I; Yilmaz,\nM; Aubert, B; Bazan, A; Beaugiraud, B; Bellachia, F; Berger, N; Blaising, JJ; Colas, J; Consonni,\nM; Delebecque, P; Delsart, PA; Di Ciaccio, L; Dayot, N Dumont>; Elles, S; Ghez, Philippe>; Girard,\nCG; Gouanere, M; Goy, C; Guillemin, T; Ionescu, G \u2026 \n",
+                "The simulation software for the ATLAS Experiment at the Large Hadron Collider is being used for large-scale production of events on the LHC Computing Grid. This simulation requires many components, from the generators that simulate particle collisions, through packages simulating the response of the various detectors and triggers. All of these components come together under the ATLAS simulation infrastructure. In this paper, that infrastructure is discussed, including that supporting the detector description, interfacing the event generation, and combining the GEANT4 simulation of the response of the individual detectors. Also described are the tools allowing the software validation, performance testing, and the validation of the simulated output against known physics processes.",
+                "During 2015 the ATLAS experiment recorded  of proton\u2013proton collision data at a centre-of-mass energy of . The ATLAS trigger system is a crucial component of the experiment, responsible for selecting events of interest at a recording rate of approximately 1 kHz from up to 40 MHz of collisions. This paper presents a short overview of the changes to the trigger and data acquisition systems during the first long shutdown of the LHC and shows the performance of the trigger system and its components based on the 2015 proton\u2013proton collision data.",
+                "This paper describes a measurement of the Z\/\u03b3* boson transverse momentum spectrum using ATLAS proton-proton collision data at a centre-of-mass energy of TeV at the LHC. The measurement is performed in the Z\/\u03b3*\u2192 e+ e\u2212 and Z\/\u03b3*\u2192 \u03bc+ \u03bc\u2212 channels, using data corresponding to an integrated luminosity of 4.7 fb\u2212 1. Normalized differential cross sections as a function of the Z\/\u03b3* boson transverse momentum are measured for transverse momenta up to 800 GeV. The measurement is performed inclusively for Z\/\u03b3* rapidities up to 2.4, as well as in three rapidity bins. The channel results are combined, compared to perturbative and resummed QCD calculations and used to constrain the parton shower parameters of Monte Carlo generators.",
+                "A revolution is underway in our understanding of the highenergy sky. The early SAS 2 (Fichtel et al. 1975) and COS B",
+                "This article documents the performance of the ATLAS muon identification and reconstruction using the LHC dataset recorded at  TeV in 2015. Using a large sample of  and  decays from 3.2 fb of pp collision data, measurements of the reconstruction efficiency, as well as of the momentum scale and resolution, are presented and compared to Monte Carlo simulations. The reconstruction efficiency is measured to be close to  over most of the covered phase space ( and  GeV). The isolation efficiency varies between 93 and  depending on the selection applied and on the momentum of the muon. Both efficiencies are well reproduced in simulation. In the central region of the detector, the momentum resolution is measured to be  () for muons from  () decays, and the momentum scale is known with an uncertainty of . In the region , the  resolution \u2026",
+                "The luminosity determination for the ATLAS detector at the LHC during pp collisions at s\u221a= 8 TeV in 2012 is presented. The evaluation of the luminosity scale is performed using several luminometers, and comparisons between these luminosity detectors are made to assess the accuracy, consistency and long-term stability of the results. A luminosity uncertainty of \u03b4\u2112\/\u2112 = \u00b11.9% is obtained for the 22.7 fb-1 of pp collision data delivered to ATLAS at s\u221a= 8 TeV in 2012.",
+                "The LHCb experiment is dedicated to precision measurements of CP violation and rare decays of B hadrons at the Large Hadron Collider (LHC) at CERN (Geneva). The initial configuration and expected performance of the detector and associated systems, as established by test beam measurements and simulation studies, is described.",
+                "Results of a search for H\u2192 \u03c4\u03c4 decays are presented, based on the full set of proton-proton collision data recorded by the ATLAS experiment at the LHC during 2011 and 2012. The data correspond to integrated luminosities of 4.5 fb\u2212 1 and 20.3 fb\u2212 1 at centre-of-mass energies of TeV and TeV respectively. All combinations of leptonic ( with \u2113= e, \u03bc) and hadronic (\u03c4\u2192 hadrons \u03bd) tau decays are considered. An excess of events over the expected background from other Standard Model processes is found with an observed (expected) significance of 4.5 (3.4) standard deviations. This excess provides evidence for the direct coupling of the recently discovered Higgs boson to fermions. The measured signal strength, normalised to the Standard Model expectation, of \u03bc= 1. 43\u2212 0.37+ 0.43 is consistent with the predicted Yukawa coupling strength in the Standard Model.",
+                "By using the ATLAS detector, observations have been made of a centrality-dependent dijet asymmetry in the collisions of lead ions at the Large Hadron Collider. In a sample of lead-lead events with a per-nucleon center of mass energy of 2.76 TeV, selected with a minimum bias trigger, jets are reconstructed in fine-grained, longitudinally segmented electromagnetic and hadronic calorimeters. The transverse energies of dijets in opposite hemispheres are observed to become systematically more unbalanced with increasing event centrality leading to a large number of events which contain highly asymmetric dijets. This is the first observation of an enhancement of events with such large dijet asymmetries, not observed in proton-proton collisions, which may point to an interpretation in terms of strong jet energy loss in a hot, dense medium."
+            ],
+            [
+                [
+                    "High Energy Physics",
+                    "Particle Physics",
+                    "Physics"
+                ]
+            ]
+        ]
+    ]
+}

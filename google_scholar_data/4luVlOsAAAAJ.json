@@ -1,0 +1,104 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "4luVlOsAAAAJ",
+            "James Lindsay",
+            "Associate Director of Knowledge Systems Group, Dana-Farber Cancer Institute",
+            "@dfci.harvard.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=4luVlOsAAAAJ",
+            623,
+            [
+                "Artificial Intelligence",
+                "Genome Biology",
+                "Genome Assembly",
+                "Cancer Genomics",
+                "Optimization"
+            ],
+            496,
+            7,
+            6,
+            5,
+            4,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"0FAQfO4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ion Mandoiu",
+                    "affiliation":"University of Connecticut"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"UzCRNJwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alexander Zelikovsky",
+                    "affiliation":"Georgia State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6kxms90AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Rachel O'Neill",
+                    "affiliation":""
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"7TxCT0gAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Craig Nelson",
+                    "affiliation":"Associate Professor of Genetics and Genomics, MCB, UCONN"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"H32FygoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Adrian Caciula",
+                    "affiliation":"Clinical Assistant Professor, Yeshiva University"
+                }
+            ]
+        ]
+    ]
+}

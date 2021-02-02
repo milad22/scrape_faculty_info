@@ -1,0 +1,224 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "DNA-stabilized silver clusters are remarkable for the selection of fluorescence color by the sequence of the stabilizing DNA oligomer. Yet despite a growing number of applications that exploit this property, no large-scale studies have probed origins of cluster color or whether certain colors occur more frequently than others. Here we employ a set of 684 randomly chosen 10-base oligomers to address these questions. Rather than a flat distribution, we find that specific color bands dominate. Cluster size data indicate that these \u201cmagic colors\u201d originate from the existence of magic numbers for DNA-stabilized silver clusters, which differ from those of spheroidal gold clusters stabilized by small-molecule ligands. Elongated cluster structures, enforced by multiple base ligands along the DNA, can account for both magic number sizes and color variation around peak wavelength populations.",
+            "Magic numbers in DNA-stabilized fluorescent silver clusters lead to magic colors",
+            "Stacy M Copp and Danielle Schultz and Steven Swasey and James Pavlovich and Mark Debord and Alexander Chiu and Kevin Olsson and Elisabeth Gwinn",
+            "2014",
+            "aCdLh8UAAAAJ:u5HHmVD_uO8C",
+            112,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/jz500146q",
+            "15650699373520055838",
+            "\/scholar?cites=15650699373520055838",
+            {
+                "2014":7,
+                "2015":16,
+                "2016":19,
+                "2017":13,
+                "2018":23,
+                "2019":13,
+                "2020":19,
+                "2021":2
+            }
+        ],
+        [
+            "DNA-protected silver clusters (Ag N-DNA) possess unique fluorescence properties that depend on the specific DNA template that stabilizes the cluster. They exhibit peak emission wavelengths that range across the visible and near-IR spectrum. This wide color palette, combined with low toxicity, high fluorescence quantum yields of some clusters, low synthesis costs, small cluster sizes and compatibility with DNA are enabling many applications that employ Ag N-DNA. Here we review what is known about the underlying composition and structure of Ag N-DNA, and how these relate to the optical properties of these fascinating, hybrid biomolecule-metal cluster nanomaterials. We place Ag N-DNA in the general context of ligand-stabilized metal clusters and compare their properties to those of other noble metal clusters stabilized by small molecule ligands. The methods used to isolate pure Ag N-DNA for analysis of composition and for studies of solution and single-emitter optical properties are discussed. We give a brief overview of structurally sensitive chiroptical studies, both theoretical and experimental, and review experiments on bringing silver clusters of distinct size and color into nanoscale DNA assemblies. Progress towards using DNA scaffolds to assemble multi-cluster arrays is also reviewed. View Full-Text",
+            "DNA-protected silver clusters for nanophotonics",
+            "Elisabeth Gwinn and Danielle Schultz and Stacy M Copp and Steven Swasey",
+            "2015",
+            "aCdLh8UAAAAJ:zYLM7Y9cAGgC",
+            89,
+            "https:\/\/www.mdpi.com\/2079-4991\/5\/1\/180",
+            "9529102997915168064",
+            "\/scholar?cites=9529102997915168064",
+            {
+                "2015":7,
+                "2016":13,
+                "2017":12,
+                "2018":22,
+                "2019":18,
+                "2020":14,
+                "2021":2
+            }
+        ],
+        [
+            "The remarkable precision that DNA scaffolds provide for arraying nanoscale optical elements enables optical phenomena that arise from interactions of metal nanoparticles, dye molecules, and quantum dots placed at nanoscale separations. However, control of ensemble optical properties has been limited by the difficulty of achieving uniform particle sizes and shapes. Ligand-stabilized metal clusters offer a route to atomically precise arrays that combine desirable attributes of both metals and molecules. Exploiting the unique advantages of the cluster regime requires techniques to realize controlled nanoscale placement of select cluster structures. Here we show that atomically monodisperse arrays of fluorescent, DNA-stabilized silver clusters can be realized on a prototypical scaffold, a DNA nanotube, with attachment sites separated by <10 nm. Cluster attachment is mediated by designed DNA linkers that enable \u2026",
+            "Atomically Precise Arrays of Fluorescent Silver Clusters: A Modular Approach for Metal Cluster Photonics on DNA Nanostructures",
+            "Stacy M Copp and Danielle E Schultz and Steven Swasey and Elisabeth G Gwinn",
+            "2015",
+            "aCdLh8UAAAAJ:IjCSPb-OGe4C",
+            69,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/nn506322q",
+            "15224450758234849489",
+            "\/scholar?cites=15224450758234849489",
+            {
+                "2015":4,
+                "2016":21,
+                "2017":13,
+                "2018":10,
+                "2019":11,
+                "2020":8,
+                "2021":2
+            }
+        ],
+        [
+            "Discriminative base motifs within DNA templates for fluorescent silver clusters are identified using methods that combine large experimental data sets with machine learning tools for pattern recognition. Combining the discovery of certain multibase motifs important for determining fluorescence brightness with a generative algorithm, the probability of selecting DNA templates that stabilize fluorescent silver clusters is increased by a factor of> 3.",
+            "Base motif recognition and design of DNA templates for fluorescent silver clusters by machine learning",
+            "Stacy M Copp and Petko Bogdanov and Mark Debord and Ambuj Singh and Elisabeth Gwinn",
+            "2014",
+            "aCdLh8UAAAAJ:2osOgNQ5qMEC",
+            64,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1002\/adma.201401402",
+            "14212054983198066651",
+            "\/scholar?cites=14212054983198066651",
+            {
+                "2015":10,
+                "2016":10,
+                "2017":10,
+                "2018":15,
+                "2019":7,
+                "2020":10,
+                "2021":2
+            }
+        ],
+        [
+            "We develop approaches to hold fluorescent silver clusters composed of only 10\u201320 atoms in nanoscale proximity, while retaining the individual structure of each cluster. This is accomplished using DNA clamp assemblies that incorporate a 10 atom silver cluster and a 15 or 16 atom silver cluster. Thermally modulated fluorescence resonance energy transfer (FRET) verifies assembly formation. Comparison to Fo\u0308rster theory, using measured spectral overlaps, indicates that the DNA clamps hold clusters within roughly 5 to 6 nm separations, in the range of the finest resolutions achievable on DNA scaffolds. The absence of spectral shifts in dual-cluster FRET pairs, relative to the individual clusters, shows that select few-atom silver clusters of different sizes are sufficiently stable to retain structural integrity within a single nanoscale DNA construct. The spectral stability of the cluster persists in a FRET pair with an organic \u2026",
+            "Dual-color nanoscale assemblies of structurally stable, few-atom silver clusters, as reported by fluorescence resonance energy transfer",
+            "Danielle Schultz and Stacy M Copp and Nemanja Marke\u02c7sevic and Kira Gardner and Sumant SR Oemrawsingh and Dirk Bouwmeester and Elisabeth Gwinn",
+            "2013",
+            "aCdLh8UAAAAJ:u-x6o8ySG0sC",
+            38,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/nn4033097",
+            "12963805811217647300",
+            "\/scholar?cites=12963805811217647300",
+            {
+                "2014":4,
+                "2015":9,
+                "2016":6,
+                "2017":6,
+                "2018":2,
+                "2019":7,
+                "2020":3,
+                "2021":1
+            }
+        ],
+        [
+            "This work investigates the effects of dielectric environment and cluster shape on electronic excitations of fluorescent DNA-stabilized silver clusters, AgN\u2013DNA. We first establish that the longitudinal plasmon wavelengths predicted by classical Mie-Gans (MG) theory agree with previous quantum calculations for excitation wavelengths of linear silver atom chains, even for clusters of just a few atoms. Application of MG theory to AgN\u2013DNA with 400\u2013850 nm cluster excitation wavelengths indicates that these clusters are characterized by a collective excitation process and suggests effective cluster thicknesses of \u223c2 silver atoms and aspect ratios of 1.5 to 5. To investigate sensitivity to the surrounding medium, we measure the wavelength shifts produced by addition of glycerol. These are smaller than reported for much larger gold nanoparticles but easily detectable due to narrower line widths, suggesting that AgN\u2013DNA \u2026",
+            "Cluster plasmonics: dielectric and shape effects on DNA-stabilized silver clusters",
+            "Stacy M Copp and Danielle Schultz and Steven M Swasey and Alexis Faris and Elisabeth G Gwinn",
+            "2016",
+            "aCdLh8UAAAAJ:ML0RJ9NH7IQC",
+            35,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acs.nanolett.6b00723",
+            "2573198553778380700",
+            "\/scholar?cites=2573198553778380700",
+            {
+                "2016":3,
+                "2017":6,
+                "2018":10,
+                "2019":11,
+                "2020":4,
+                "2021":1
+            }
+        ],
+        [
+            "DNA nucleobase sequence controls the size of DNA-stabilized silver clusters, leading to their well-known yet little understood sequence-tuned colors. The enormous space of possible DNA sequences for templating clusters has challenged the understanding of how sequence selects cluster properties and has limited the design of applications that employ these clusters. We investigate the genomic role of DNA sequence for fluorescent silver clusters using a data-driven approach. Employing rapid parallel silver cluster synthesis and fluorimetry, we determine the fluorescence spectra of silver cluster products stabilized by 1432 distinct DNA oligomers. By applying pattern recognition algorithms to this large experimental data set, we discover certain DNA base patterns, or \u201cmotifs,\u201d that correlate to silver clusters with similar fluorescence spectra. These motifs are employed in machine learning classifiers to predictively \u2026",
+            "Fluorescence color by data-driven design of genomic silver clusters",
+            "Stacy M Copp and Alexander Gorovits and Steven M Swasey and Sruthi Gudibandi and Petko Bogdanov and Elisabeth G Gwinn",
+            "2018",
+            "aCdLh8UAAAAJ:g3aElNc5_aQC",
+            26,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acsnano.8b03404",
+            "1098100812894544474",
+            "\/scholar?cites=1098100812894544474",
+            {
+                "2018":3,
+                "2019":9,
+                "2020":12,
+                "2021":2
+            }
+        ],
+        [
+            "We report experiments on self-focusing of femtosecond diffraction-resistant vortex beams in water. These beams are higher-order Bessel beams with weak azimuthal modulation of the transverse intensity patterns. The modulation overrides the self-focusing dynamics and results in the formation of regular bottlelike filament distributions. The peak-power thresholds for filamentation, at a particular distance, are relatively accurately estimated by the adaptation of the Marburger formula derived earlier for Gaussian beams. The nonlinear conversion of the incident conical waves into the localized spatial wave packets propagating near the beam axis is observed.",
+            "Self-focusing of femtosecond diffraction-resistant vortex beams in water",
+            "Stacy Shiffler and Pavel Polynkin and Jerome Moloney",
+            "2011",
+            "aCdLh8UAAAAJ:qjMakFHDy7sC",
+            20,
+            "https:\/\/www.osapublishing.org\/abstract.cfm?uri=ol-36-19-3834",
+            "16129538474076273163",
+            "\/scholar?cites=16129538474076273163",
+            {
+                "2012":2,
+                "2013":3,
+                "2014":4,
+                "2015":4,
+                "2016":2,
+                "2017":2,
+                "2018":1,
+                "2019":1,
+                "2020":1
+            }
+        ],
+        [
+            "The diverse optical and chemical properties of DNA-stabilized silver clusters (AgN-DNAs) have challenged the development of a common model for these sequence-tunable fluorophores. Although correlations between cluster geometry and fluorescence color have begun to shed light on how the optical properties of AgN-DNAs are selected, the exact mechanisms responsible for fluorescence remain unknown. To explore these mechanisms, we study four distinct purified AgN-DNAs in ethanol\u2013water and methanol\u2013water mixtures and find that the solvatochromic behavior of AgN-DNAs varies widely among different cluster species and differs markedly from prior results on impure material. Placing AgN-DNAs within the context of standard Lippert\u2013Mataga solvatochromism models based on the Onsager reaction field, we show that such nonspecific solvent models are not universally applicable to AgN-DNAs. Instead \u2026",
+            "Heterogeneous solvatochromism of fluorescent DNA-stabilized silver clusters precludes use of simple onsager-based stokes shift models",
+            "Stacy M Copp and Alexis Faris and Steven M Swasey and Elisabeth G Gwinn",
+            "2016",
+            "aCdLh8UAAAAJ:Y0pCki6q_DkC",
+            18,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acs.jpclett.5b02777",
+            "5237540531900712423",
+            "\/scholar?cites=5237540531900712423",
+            {
+                "2016":3,
+                "2017":5,
+                "2018":2,
+                "2019":2,
+                "2020":5,
+                "2021":1
+            }
+        ],
+        [
+            "In this paper we present a new near-IR emitting silver nanocluster (NIR-DNA-AgNC) with an unusually large Stokes shift between absorption and emission maximum (211 nm or 5600 cm\u2212 1). We studied the effect of viscosity and temperature on the steady state and time-resolved emission. The time-resolved results on NIR-DNA-AgNC show that the relaxation dynamics slow down significantly with increasing viscosity of the solvent. In high viscosity solution, the spectral relaxation stretches well into the nanosecond scale. As a result of this slow spectral relaxation in high viscosity solutions, a multi-exponential fluorescence decay time behavior is observed, in contrast to the more mono-exponential decay in low viscosity solution.",
+            "Unusually large Stokes shift for a near-infrared emitting DNA-stabilized silver nanocluster",
+            "Sidsel Ammitzb\u00f8ll Bogh and Miguel R Carro-Temboury and Cecilia Cerretani and Steven M Swasey and Stacy M Copp and Elisabeth G Gwinn and Tom Vosch",
+            "2018",
+            "aCdLh8UAAAAJ:EYYDruWGBe4C",
+            17,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/2050-6120\/aaa8bc\/meta",
+            "12484863777652512148",
+            "\/scholar?cites=12484863777652512148",
+            {
+                "2018":4,
+                "2019":5,
+                "2020":7,
+                "2021":1
+            }
+        ]
+    ]
+}

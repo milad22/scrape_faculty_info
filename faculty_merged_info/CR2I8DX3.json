@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "CR2I8DX3",
+            "kas3CxwAAAAJ",
+            [
+                "Embedded-atom method: Derivation and application to impurities, surfaces, and other defects in metals",
+                "Embedded-atom-method functions for the fcc metals Cu, Ag, Au, Ni, Pd, Pt, and their alloys",
+                "Semiempirical, quantum mechanical calculation of hydrogen embrittlement in metals",
+                "The embedded-atom method: a review of theory and applications",
+                "Application of the embedded atom method to Ni 3 Al",
+                "Model of metallic cohesion: The embedded-atom method",
+                "Model for energetics of solids based on the density matrix",
+                "Silicon optical fiber",
+                "Application of the embedded atom method to phonons in transition metals",
+                "Interface stresses and their effects on the elastic moduli of metallic multilayers"
+            ],
+            [
+                "We develop the embedded-atom method [Phys. Rev. Lett. 50, 1285 (1983)], based on density-functional theory, as a new means of calculating ground-state properties of realistic metal systems. We derive an expression for the total energy of a metal using the embedding energy from which we obtain several ground-state properties, such as the lattice constant, elastic constants, sublimation energy, and vacancy-formation energy. We obtain the embedding energy and accompanying pair potentials semiempirically for Ni and Pd, and use these to treat several problems: surface energy and relaxation of the (100),(110), and (111) faces; properties of H in bulk metal (H migration, binding of H to vacancies, and lattice expansion in the hydride phase); binding site and adsorption energy of hydrogen on (100),(110), and (111) surfaces; and lastly, fracture of Ni and the effects of hydrogen on the fracture. We emphasize \u2026",
+                "A consistent set of embedding functions and pair interactions for use with the embedded-atom method [MS Daw and MI Baskes, Phys. Rev. B 29, 6443 (1984)] have been determined empirically to describe the fcc metals Cu, Ag, Au, Ni, Pd, and Pt as well as alloys containing these metals. The functions are determined empirically by fitting to the sublimation energy, equilibrium lattice constant, elastic constants, and vacancy-formation energies of the pure metals and the heats of solution of the binary alloys. The validity of the functions is tested by computing a wide range of properties: the formation volume and migration energy of vacancies, the formation energy, formation volume, and migration energy of divacancies and self-interstitials, the surface energy and geometries of the low-index surfaces of the pure metals, and the segregation energy of substitutional impurities to (100) surfaces.",
+                "A new, semiempirical model of metals and impurities (embedded atom method) makes possible a static treatment of the brittle fracture of a transition metal in the presence of hydrogen. Results indicate that hydrogen can reduce the fracture stress in nickel.",
+                "The embedded-atom method is a semi-empirical method for performing calculations of defects in metals. The EAM incorporates a picture of metallic bonding, for which there is some fundamental basis. The limitations of the EAM are fairly well characterized: it works best for purely metallic systems with no directional bonding; it does not treat covalency or significant charge transfer; and it does not handle Fermi-surface effects. The main physical property incorporated in the EAM is the moderation of bond strength by other bonds (coordination-dependent bond strength). Within these constraints, the EAM provides a very useful and robust means of calculating approximate structure and energetics, from which many interesting properties of metals can be obtained.We believe that atomistic calculations will continue to play an important role in the development of materials theory. Where the EAM can be useful, there is a \u2026",
+                "The embedded atom method [M. S. Daw and M. I. Baskes, Phys. Rev. B 29, 6443 (1984) used to calculate phase stability, lattice vibrational frequencies, point defect properties, antiphase boundary energies, and surface energies and relaxations for Ni3Al. The empirical embedding functions and core-core repulsions used by this method are obtained. The equilibrium phases for the Ni-rich half of the composition range of Ni\u2013Al are determined for 1000 K and compared with experiment. The elastic constants and vibrational modes of Ni3Al are calculated and the elastic constants are compared with experiment. The formation energy, formation volume, and migration energies of vacancies are computed, and it is found that the formation energy of vacancies on the Ni sublattice is less than that on the Al sublattice. The (100) antiphase boundary is shown to be significantly lower in energy than the (111) antiphase \u2026",
+                "The embedded-atom method (EAM)[Phys. Rev. B 29, 6443 (1984)] has proven to be a significant improvement in simplified total-energy calculations for metallic systems. In the current work, the ansatz used in the EAM is derived from the local-density functional for the energy. The expression demonstrated here is most appropriate for simple metals and for transition metals with nearly empty or nearly full d bands. An embedding energy is defined as a function of an optimal constant background density, and an equation for that optimal background density is obtained. The cohesive energy is then related to the embedding energy and an electrostatic two-body interaction. It is shown that lowest-order electronic relaxations can be absorbed into the same ansatz. Model calculations are presented for fcc nickel within the Thomas\u2013Fermi\u2013Dirac\u2013von Weizs\u00e4cker model for the kinetic energy, with local exchange and \u2026",
+                "We propose a model for energetics of solids, based on a direct solution for the density matrix directly from the Hamiltonian. The approach is suitable for obtaining an approximate, finite-ranged density matrix in a basis of localized orbitals. This scheme scales linearly with the size of the system, and should represent an improvement over the much-used embedded-atom, cluster-functional, and bond-order potentials.",
+                "Described herein are initial experimental details and properties of a silicon core, silica glass-clad optical fiber fabricated using conventional optical fiber draw methods. Such semiconductor core fibers have potential to greatly influence the fields of nonlinear fiber optics, infrared and THz power delivery. More specifically, x-ray diffraction and Raman spectroscopy showed the core to be highly crystalline silicon. The measured propagation losses were 4.3 dB\/m at 2.936 \u03bcm, which likely are caused by either microcracks in the core arising from the large thermal expansion mismatch with the cladding or to SiO_2 precipitates formed from oxygen dissolved in the silicon melt. Suggestions for enhancing the performance of these semiconductor core fibers are provided. Here we show that lengths of an optical fiber containing a highly crystalline semiconducting core can be produced using scalable fiber fabrication techniques.",
+                "The lattice dynamical matrix has been derived from a new model of metallic cohesion, the Embedded Atom Method, based on approximations in density functional theory. The predictions of previously published empirical functions for Ni and Pd are compared to experimental phonon dispersions. The agreement shows that the Embedded Atom Method provides a reasonable description of transition metal lattice dynamics.",
+                "The embedded-atom method is used to calculate the surface stresses and the interface stresses for several fcc metals and interfaces between them. While the surface stresses are all positive (ie, they tend to put the underlying crystal in compression), in several instances (eg, in the Pt\/Ni system) negative interface stresses are found. The effects of the interface stresses on the elastic moduli of metallic multilayers are discussed."
+            ],
+            [
+                [
+                    "physics"
+                ]
+            ]
+        ]
+    ]
+}

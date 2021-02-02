@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "B5EU1651",
+            "MVa-d0gAAAAJ",
+            [
+                "Structure-property relationships from universal signatures of plasticity in disordered solids",
+                "Mechanical and microscopic properties of the reversible plastic regime in a 2D jammed material",
+                "Breakup of air bubbles in water: Memory and breakdown of cylindrical symmetry",
+                "Yielding and microstructure in a 2D jammed material under shear deformation",
+                "Memory formation in matter",
+                "Generic transient memory formation in disordered systems with noise",
+                "Multiple transient memories in experiments on sheared non-Brownian suspensions",
+                "Undulatory swimming in shear-thinning fluids: experiments with C. elegans",
+                "Undulatory swimming in shear-thinning fluids: experiments with C. elegans",
+                "Fluid elasticity can enable propulsion at low Reynolds number"
+            ],
+            [
+                "When deformed beyond their elastic limits, crystalline solids flow plastically via particle rearrangements localized around structural defects. Disordered solids also flow, but without obvious structural defects. We link structure to plasticity in disordered solids via a microscopic structural quantity, \u201csoftness,\u201d designed by machine learning to be maximally predictive of rearrangements. Experimental results and computations enabled us to measure the spatial correlations and strain response of softness, as well as two measures of plasticity: the size of rearrangements and the yield strain. All four quantities maintained remarkable commonality in their values for disordered packings of objects ranging from atoms to grains, spanning seven orders of magnitude in diameter and 13 orders of magnitude in elastic modulus. These commonalities link the spatial correlations and strain response of softness to rearrangement size and \u2026",
+                "At the microscopic level, plastic flow of a jammed, disordered material consists of a series of particle rearrangements that cannot be reversed by subsequent deformation. An infinitesimal deformation of the same material has no rearrangements. Yet between these limits, there may be a self-organized plastic regime with rearrangements, but with no net change upon reversing a deformation. We measure the oscillatory response of a jammed interfacial material, and directly observe rearrangements that couple to bulk stress and dissipate energy, but do not always give rise to global irreversibility.",
+                "Using high-speed video, we have studied air bubbles detaching from an underwater nozzle. As a bubble distorts, it forms a thin neck which develops a singular shape as it pinches off. As in other singularities, the minimum neck radius scales with the time until the breakup. However, because the air-water interfacial tension does not drive the breakup, even small initial cylindrical asymmetries are preserved throughout the collapse. This novel, nonuniversal singularity retains a memory of the nozzle shape, size, and tilt angle. In the last stages, the air appears to tear instead of pinch.",
+                "The question of how a disordered material's microstructure translates into macroscopic mechanical response is central to understanding and designing materials like pastes, foams and metallic glasses. Here, we examine a 2D soft jammed material under cyclic shear, imaging the structure of \u223c5 \u00d7 104 particles. Below a certain strain amplitude, the structure becomes conserved at long times, while above, it continually rearranges. We identify the boundary between these regimes as a yield strain, defined without rheological measurement. Its value is consistent with a simultaneous but independent measurement of yielding by stress-controlled bulk rheometry. While there are virtually no irreversible rearrangements in the steady state below yielding, we find a largely stable population of plastic rearrangements that are reversed with each cycle. These results point to a microscopic view of mechanical properties under \u2026",
+                "Memory formation in matter is a theme of broad intellectual relevance; it sits at the interdisciplinary crossroads of physics, biology, chemistry, and computer science. Memory connotes the ability to encode, access, and erase signatures of past history in the state of a system. Once the system has completely relaxed to thermal equilibrium, it is no longer able to recall aspects of its evolution. The memory of initial conditions or previous training protocols will be lost. Thus many forms of memory are intrinsically tied to far-from-equilibrium behavior and to transient response to a perturbation. This general behavior arises in diverse contexts in condensed-matter physics and materials, including phase change memory, shape memory, echoes, memory effects in glasses, return-point memory in disordered magnets, as well as related contexts in computer science. Yet, as opposed to the situation in biology, there is currently no \u2026",
+                "Out-of-equilibrium disordered systems may form memories of external driving in a remarkable fashion. The system \u201cremembers\u201d multiple values from a series of training inputs yet \u201cforgets\u201d nearly all of them at long times despite the inputs being continually repeated. Here, learning and forgetting are inseparable aspects of a single process. The memory loss may be prevented by the addition of noise. We identify a class of systems with this behavior, giving as an example a model of non-Brownian suspensions under cyclic shear.",
+                "A system with multiple transient memories can remember a set of inputs but subsequently forgets almost all of them, even as they are continually applied. If noise is added, the system can store all memories indefinitely. The phenomenon has recently been predicted for cyclically sheared non-Brownian suspensions. Here we present experiments on such suspensions, finding behavior consistent with multiple transient memories and showing how memories can be stabilized by noise.",
+                "The swimming behaviour of microorganisms can be strongly influenced by the rheology of their fluid environment. In this manuscript, we experimentally investigate the effects of shear-thinning viscosity on the swimming behaviour of an undulatory swimmer, the nematode Caenorhabditis elegans. Tracking methods are used to measure the swimmer's kinematic data (including propulsion speed) and velocity fields. We find that shear-thinning viscosity modifies the velocity fields produced by the swimming nematode but does not modify the nematode's speed and beating kinematics. Velocimetry data show significant enhancement in local vorticity and circulation and an increase in fluid velocity near the nematode's tail compared to Newtonian fluids of similar effective viscosity. These findings are compared to recent theoretical and numerical results.",
+                "The swimming behaviour of microorganisms can be strongly influenced by the rheology of their fluid environment. In this manuscript, we experimentally investigate the effects of shear-thinning viscosity on the swimming behaviour of an undulatory swimmer, the nematode Caenorhabditis elegans. Tracking methods are used to measure the swimmer's kinematic data (including propulsion speed) and velocity fields. We find that shear-thinning viscosity modifies the velocity fields produced by the swimming nematode but does not modify the nematode's speed and beating kinematics. Velocimetry data show significant enhancement in local vorticity and circulation and an increase in fluid velocity near the nematode's tail compared to Newtonian fluids of similar effective viscosity. These findings are compared to recent theoretical and numerical results.",
+                "Conventionally, a microscopic particle that performs a reciprocal stroke cannot move through its environment. This is because at small scales, the response of simple Newtonian fluids is purely viscous and flows are time-reversible. We show that by contrast, fluid elasticity enables propulsion by reciprocal forcing that is otherwise impossible. We present experiments on rigid objects actuated reciprocally in viscous fluids, demonstrating for the first time a purely elastic propulsion set by the object's shape and boundary conditions. We describe two different artificial \u201cswimmers\u201d that experimentally realize this principle."
+            ],
+            [
+                [
+                    "Soft Matter Physics"
+                ]
+            ]
+        ]
+    ]
+}

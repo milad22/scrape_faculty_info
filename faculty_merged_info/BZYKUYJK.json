@@ -1,0 +1,48 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "BZYKUYJK",
+            "86X9YxgAAAAJ",
+            [
+                "Geospace Environmental Modeling (GEM) magnetic reconnection challenge",
+                "Electron acceleration from contracting magnetic islands during reconnection",
+                "Alfv\u00e9nic collisionless magnetic reconnection and the Hall term",
+                "Formation of electron holes and particle energization during magnetic reconnection",
+                "Scaling of asymmetric magnetic reconnection: General theory and collisional simulations",
+                "Structure of the dissipation region during collisionless magnetic reconnection",
+                "Electron-scale measurements of magnetic reconnection in space",
+                "Role of dispersive waves in collisionless magnetic reconnection",
+                "The scaling of collisionless, magnetic reconnection for large systems",
+                "Two-scale structure of the electron dissipation region during collisionless magnetic reconnection"
+            ],
+            [
+                "The Geospace Environmental Modeling (GEM) Reconnection Challenge project is presented and the important results, which are presented in a series of companion papers, are summarized. Magnetic reconnection is studied in a simple Harris sheet configuration with a specified set of initial conditions, including a finite amplitude, magnetic island perturbation to trigger the dynamics. The evolution of the system is explored with a broad variety of codes, ranging from fully electromagnetic particle in cell (PIC) codes to conventional resistive magnetohydrodynamic (MHD) codes, and the results are compared. The goal is to identify the essential physics which is required to model collisionless magnetic reconnection. All models that include the Hall effect in the generalized Ohm's law produce essentially indistinguishable rates of reconnection, corresponding to nearly Alfv\u00e9nic inflow velocities. Thus the rate of reconnection \u2026",
+                "A long-standing problem in the study of space and astrophysical plasmas is to explain the production of energetic electrons as magnetic fields \u2018reconnect\u2019and release energy. In the Earth's magnetosphere, electron energies reach hundreds of thousands of electron volts (refs 1\u20133), whereas the typical electron energies associated with large-scale reconnection-driven flows are just a few electron volts. Recent observations further suggest that these energetic particles are produced in the region where the magnetic field reconnects 4. In solar flares, upwards of 50 per cent of the energy released can appear as energetic electrons 5, 6. Here we show that electrons gain kinetic energy by reflecting from the ends of the contracting \u2018magnetic islands\u2019 that form as reconnection proceeds. The mechanism is analogous to the increase of energy of a ball reflecting between two converging walls\u2014the ball gains energy with each \u2026",
+                "The Geospace Environment Modeling (GEM) Challenge Harris current sheet problem is simulated in 2 1\/2 dimensions using full particle, hybrid, and Hall MHD simulations. The same gross reconnection rate is found in all of the simulations independent of the type of code used, as long as the Hall term is included. In addition, the reconnection rate is independent of the mechanism which breaks the frozen\u2010in flux condition, whether it is electron inertia or grid scale diffusion. The insensitivity to the mechanism which breaks the frozen\u2010in condition is a consequence of whistler waves, which control the plasma dynamics at the small scales where the ions become unmagnetized. The dispersive character of whistlers, in which the phase velocity increases with decreasing scale size, allows the flux of electrons flowing away from the dissipation region to remain finite even as the strength of the dissipation approaches zero. As \u2026",
+                "Three-dimensional particle simulations of magnetic reconnection reveal the development of turbulence driven by intense electron beams that form near the magnetic x-line and separatrices. The turbulence collapses into localized three-dimensional nonlinear structures in which the electron density is depleted. The predicted structure of these electron holes compares favorably with satellite observations at Earth9s magnetopause. The birth and death of these electron holes and their associated intense electric fields lead to strong electron scattering and energization, whose understanding is critical to explaining why magnetic explosions in space release energy so quickly and produce such a large number of energetic electrons.",
+                "A Sweet-Parker-type scaling analysis for asymmetric antiparallel reconnection (in which the reconnecting magnetic field strengths and plasma densities are different on opposite sides of the dissipation region) is performed. Scaling laws for the reconnection rate, outflow speed, the density of the outflow, and the structure of the dissipation region are derived from first principles. These results are independent of the dissipation mechanism. It is shown that a generic feature of asymmetric reconnection is that the X-line and stagnation point are not colocated, leading to a bulk flow of plasma across the X-line. The scaling laws are verified using two-dimensional resistive magnetohydrodynamics numerical simulations for the special case of asymmetric magnetic fields with symmetric density. Observational signatures and applications to reconnection in the magnetosphere are discussed.",
+                "Collisionless magnetic reconnection is studied using a 2 1\/2\u2010dimensional hybrid code including Hall dynamics and electron inertia. The simulations reveal that the dissipation region develops a two\u2010scale structure: an inner electron region and an outer ion region. Close to the X line is a region with a scale of c\/\u03c9pe, the electron collisionless skin depth, where the electron flows completely dominate those of the ions and the frozen\u2010in magnetic flux constraint is broken. Outside of this region and encompassing the rest of the dissipation region, which scales like c\/\u03c9pi, the ion inertial length, is the Hall region where the electrons are frozen\u2010in to the magnetic field but the ions are not, allowing the two species to flow at different velocities. The decoupling of electron and ion motion in the dissipation region has important implications for the rate of magnetic reconnection in collisionless plasma: the ions are not constrained to \u2026",
+                "Magnetic reconnection is a physical process occurring in plasmas in which magnetic energy is explosively converted into heat and kinetic energy. The effects of reconnection\u2014such as solar flares, coronal mass ejections, magnetospheric substorms and auroras, and astrophysical plasma jets\u2014have been studied theoretically, modeled with computer simulations, and observed in space. However, the electron-scale kinetic physics, which controls how magnetic field lines break and reconnect, has up to now eluded observation.To advance understanding of magnetic reconnection with a definitive experiment in space, NASA developed and launched the Magnetospheric Multiscale (MMS) mission in March 2015. Flying in a tightly controlled tetrahedral formation, the MMS spacecraft can sample the magnetopause, where the interplanetary and geomagnetic fields reconnect, and make \u2026",
+                "Simulations of collisionless magnetic reconnection show a dramatic enhancement of the nonlinear reconnection rate due to the formation of an open outflow region. We link the formation of this open configuration to dispersive whistler and kinetic Alfv\u00e9n wave dynamics at small scales. The roles of these two waves are controlled by two dimensionless parameters, which allow us to identify regions of fast and slow reconnection.",
+                "Hybrid simulations with electron inertia, along with analytic scaling arguments, are presented which demonstrate that magnetic reconnection remains Alfv\u00e9nic in a collisionless system even as the macroscopic scale length of the system becomes very large. This fast reconnection is facilitated by the whistler physics present near the x\u2010line. The reconnection rate is found to be a universal constant corresponding to an inflow velocity towards the x\u2010line of around 0.1 cA.",
+                "Particle-in-cell simulations of collisionless magnetic reconnection are presented that demonstrate that reconnection remains fast in very large systems. The electron dissipation region develops a distinct two-scale structure along the outflow direction. Consistent with fast reconnection, the length of the electron current layer stabilizes and decreases with decreasing electron mass, approaching the ion inertial length for a proton-electron plasma. Surprisingly, the electrons form a super-Alfv\u00e9nic outflow jet that remains decoupled from the magnetic field and extends large distances downstream from the x line."
+            ],
+            [
+                [
+                    "Space Physics",
+                    "Plasma Physics"
+                ]
+            ]
+        ]
+    ]
+}

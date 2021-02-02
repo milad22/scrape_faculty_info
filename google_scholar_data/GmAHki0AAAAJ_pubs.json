@@ -1,0 +1,44 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "The simulation software for the ATLAS Experiment at the Large Hadron Collider is being used for large-scale production of events on the LHC Computing Grid. This simulation requires many components, from the generators that simulate particle collisions, through packages simulating the response of the various detectors and triggers. All of these components come together under the ATLAS simulation infrastructure. In this paper, that infrastructure is discussed, including that supporting the detector description, interfacing the event generation, and combining the GEANT4 simulation of the response of the individual detectors. Also described are the tools allowing the software validation, performance testing, and the validation of the simulated output against known physics processes.",
+            "The ATLAS simulation infrastructure",
+            "Georges Aad and B Abbott and J Abdallah and AA Abdelalim and Abdelmalek Abdesselam and B Abi and M Abolins and H Abramowicz and H Abreu and BS Acharya and DL Adams and TN Addy and J Adelman and C Adorisio and P Adragna and T Adye and S Aefsky and JA Aguilar-Saavedra and M Aharrouche and SP Ahlen and F Ahles and A Ahmad and H Ahmed and M Ahsan and G Aielli and T Akdogan and TPA \u00c5kesson and G Akimoto and AV Akimov and A Aktas and MS Alam and MA Alam and S Albrand and M Aleksa and IN Aleksandrov and C Alexa and G Alexander and G Alexandre and T Alexopoulos and M Alhroob and M Aliev and G Alimonti and J Alison and M Aliyev and PP Allport and SE Allwood-Spiers and J Almond and A Aloisio and R Alon and A Alonso and MG Alviggi and K Amako and C Amelung and A Amorim and G Amoros and N Amram and C Anastopoulos and T Andeen and CF Anders and KJ Anderson and A Andreazza and V Andrei and XS Anduaga and A Angerami and F Anghinolfi and N Anjos and A Annovi and A Antonaki and M Antonelli and S Antonelli and J Antos and B Antunovic and F Anulli and S Aoun and G Arabidze and I Aracena and Y Arai and ATH Arce and JP Archambault and S Arfaoui and J-F Arguin and T Argyropoulos and M Arik and AJ Armbruster and O Arnaez and C Arnault and A Artamonov and D Arutinov and M Asai and S Asai and R Asfandiyarov and S Ask and B \u00c5sman and D Asner and L Asquith and K Assamagan and A Astbury and A Astvatsatourov and G Atoian and B Auerbach and K Augsten and M Aurousseau and N Austin and G Avolio and R Avramidou and D Axen and C Ay and G Azuelos and Y Azuma and MA Baak and AM Bach and H Bachacou and K Bachas and M Backes and E Badescu and P Bagnaia and Y Bai and T Bain and JT Baines and OK Baker and MD Baker and S Baker and F Baltasar Dos Santos Pedrosa and E Banas and P Banerjee and S Banerjee and D Banfi and A Bangert and V Bansal and SP Baranov and S Baranov and A Barashkou and T Barber and EL Barberio and D Barberis and M Barbero and DY Bardin and T Barillari and M Barisonzi and T Barklow and N Barlow and BM Barnett and RM Barnett and A Baroncelli and AJ Barr and F Barreiro and J Barreiro Guimaraes da Costa and P Barrillon and R Bartoldus and D Bartsch",
+            "2010",
+            "GmAHki0AAAAJ:EBV337fEn3EC",
+            6067,
+            "https:\/\/link.springer.com\/article\/10.1140\/epjc\/s10052-010-1429-9",
+            "10614936945083796742",
+            "\/scholar?cites=10614936945083796742",
+            {
+                "2010":21,
+                "2011":324,
+                "2012":621,
+                "2013":549,
+                "2014":543,
+                "2015":708,
+                "2016":769,
+                "2017":760,
+                "2018":843,
+                "2019":582,
+                "2020":322,
+                "2021":11
+            }
+        ]
+    ]
+}

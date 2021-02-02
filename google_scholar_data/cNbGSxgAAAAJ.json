@@ -1,0 +1,90 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "cNbGSxgAAAAJ",
+            "Weerapat Pittayakanchit",
+            "Graduate Student, University of Chicago",
+            "@uchicago.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=cNbGSxgAAAAJ",
+            23,
+            [
+                "Biophysics",
+                "Nonlinear dynamics",
+                "Information theory"
+            ],
+            23,
+            2,
+            2,
+            1,
+            1,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Dh-xOjwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michael J Rust",
+                    "affiliation":"Associate Professor of Molecular Genetics and Cell Biology and of Physics, University of Chicago"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"KClBPZUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Arvind Murugan",
+                    "affiliation":"University of Chicago"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"R8FVF54AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Zhiyue Lu",
+                    "affiliation":"Department of Chemistry, University of North Carolina at Chapel Hill"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"CVtmcSoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Justin Chew",
+                    "affiliation":"Graduate Student, University of Chicago"
+                }
+            ]
+        ]
+    ]
+}

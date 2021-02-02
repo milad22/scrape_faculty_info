@@ -1,0 +1,161 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "eQiX0m4AAAAJ",
+            "Glenn Starkman",
+            "Distinguished University Professor  of Physics and Astronomy, Case Western Reserve University",
+            "@case.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=eQiX0m4AAAAJ",
+            11783,
+            [
+                "cosmology",
+                "particle physics"
+            ],
+            3452,
+            52,
+            30,
+            122,
+            72,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"MoTAuZMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dragan Huterer",
+                    "affiliation":"Professor of Physics, University of Michigan"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"qqUNcY0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dejan Stojkovic",
+                    "affiliation":"Professor of Physics, SUNY at Buffalo"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"xoOGOFEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David  N Spergel",
+                    "affiliation":"Center for Computational Astrophysics, Flatiron & Princeton University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"D_2ApacAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Lawrence M. Krauss",
+                    "affiliation":"Arizona State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"_No9jXMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Neil Cornish",
+                    "affiliation":"Regents Professor of Physics, Montana State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"xzt4czQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Pedro Ferreira",
+                    "affiliation":"University of Oxford"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"uOrMJpcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tanmay Vachaspati",
+                    "affiliation":"Arizona State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"dz8p_1EAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Eram Rizvi",
+                    "affiliation":"Queen Mary, University of London"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"bDk3ktoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Marisa March",
+                    "affiliation":"University of Pennsylvania"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Glo43TUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Joe Silk",
+                    "affiliation":"IAP & JHU"
+                }
+            ]
+        ]
+    ]
+}

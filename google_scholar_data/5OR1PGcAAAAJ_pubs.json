@@ -1,0 +1,181 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ],
+    "data":[
+        [
+            "In this paper, we propose an approach for studying conjugate heat transfer using the lattice Boltzmann method (LBM). The approach is based on reformulating the lattice Boltzmann equation for solving the conservative form of the energy equation. This leads to the appearance of a source term, which introduces the jump conditions at the interface between two phases or components with different thermal properties. The proposed source term formulation conserves conductive and advective heat flux simultaneously, which makes it suitable for modeling conjugate heat transfer in general multiphase or multicomponent systems. The simple implementation of the source term approach avoids any correction of distribution functions neighboring the interface and provides an algorithm that is independent from the topology of the interface. Moreover, our approach is independent of the choice of lattice discretization and can \u2026",
+            "Lattice Boltzmann formulation for conjugate heat transfer in heterogeneous media",
+            "Hamid Karani and Christian Huber",
+            "2015",
+            "5OR1PGcAAAAJ:eQOLeE2rZwMC",
+            83,
+            "https:\/\/journals.aps.org\/pre\/abstract\/10.1103\/PhysRevE.91.023304",
+            "7581738556118114535",
+            "\/scholar?cites=7581738556118114535",
+            {
+                "2015":3,
+                "2016":12,
+                "2017":24,
+                "2018":11,
+                "2019":18,
+                "2020":11,
+                "2021":3
+            }
+        ],
+        [
+            "In this paper, an inverse analysis is performed for simultaneous estimation of relaxation time and order of fractionality in fractional single-phase-lag heat equation. This fractional heat conduction equation is applied on two physical problems. In inverse procedure, solutions of a previously validated linear dual-phase-lag model on the physical problems under study have been used as the measured temperatures. The inverse fractional single-phase-lag heat conduction problem is solved using the nonlinear parameter estimation technique based on the Levenberg\u2013Marquardt method. The results of the present study show that the Levenberg\u2013Marquardt method can be successfully applied on the inverse fractional heat transfer problem. The solution procedures employed in the present study for direct and inverse problems have greatly increased the reliability and success of parameter estimation problem. In the present \u2026",
+            "An inverse problem to estimate relaxation parameter and order of fractionality in fractional single-phase-lag heat equation",
+            "Hamid R Ghazizadeh and A Azimi and M Maerefat",
+            "2012",
+            "5OR1PGcAAAAJ:d1gkVwhDpl0C",
+            59,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0017931011007174",
+            "10732368258577837213",
+            "\/scholar?cites=10732368258577837213",
+            {
+                "2013":7,
+                "2014":7,
+                "2015":6,
+                "2016":5,
+                "2017":13,
+                "2018":7,
+                "2019":8,
+                "2020":6
+            }
+        ],
+        [
+            "In this paper, the numerical solution of fractional (non-integer)-order Cattaneo equation for describing anomalous diffusion has been investigated. Two finite difference schemes namely an explicit predictor\u2013corrector and totally implicit schemes have been developed. In developing each scheme, a separate formulation approach for the governing equations has been considered. The explicit predictor\u2013corrector scheme is the fractional generalization of well-known MacCormack scheme and has been called Generalized MacCormack scheme. This scheme solves two coupled low-order equations and simultaneously computes the flux term with the main variable. Fully implicit scheme however solves a single high-order undecomposed equation. For Generalized MacCormack scheme, stability analysis has been studied through Fourier method. Through a numerical test, the experimental order of convergency of both \u2026",
+            "Explicit and implicit finite difference schemes for fractional Cattaneo equation",
+            "HR Ghazizadeh and Mehdi Maerefat and A Azimi",
+            "2010",
+            "5OR1PGcAAAAJ:u5HHmVD_uO8C",
+            51,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0021999110003001",
+            "18367028177445701529",
+            "\/scholar?cites=18367028177445701529",
+            {
+                "2011":2,
+                "2012":4,
+                "2013":3,
+                "2014":8,
+                "2015":9,
+                "2016":5,
+                "2017":8,
+                "2018":2,
+                "2019":5,
+                "2020":4
+            }
+        ],
+        [
+            "In this literature, the analytic solution of the non-linear Brinkman equation for the stagnation-point flow in a porous medium is obtained using the newly developed analytic method, namely the homotopy analysis method (HAM). The analytic results are compared with the numerical solution (NS) and the comparison reveals that a good agreement exists between the NS and HAM solution. Also the convergence of the obtained HAM solution is discussed explicitly. The obtained analytic solution is valid for all values of the dimensionless parameter \u03b2 as it is shown later in the article.",
+            "Analytical solution of the stagnation-point flow in a porous medium by using the homotopy analysis method",
+            "Z Ziabakhsh and G Domairry and HR Ghazizadeh",
+            "2009",
+            "5OR1PGcAAAAJ:9yKSN-GCB0IC",
+            43,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S1876107008001417",
+            "68236659205041871",
+            "\/scholar?cites=68236659205041871",
+            {
+                "2010":4,
+                "2011":3,
+                "2012":6,
+                "2013":5,
+                "2014":12,
+                "2015":4,
+                "2016":1,
+                "2017":6,
+                "2018":1,
+                "2019":1
+            }
+        ],
+        [
+            "Active particles such as swimming bacteria or self-propelled colloids spontaneously self-organize into large-scale dynamic structures. The emergence of these collective states from the motility pattern of the individual particles, typically a random walk, is yet to be probed in a well-defined synthetic system. Here, we report the experimental realization of tunable colloidal motion that reproduces run-and-tumble and L\u00e9vy trajectories. We utilize the Quincke effect to achieve controlled sequences of repeated particle runs and random reorientations. We find that a population of these random walkers exhibit behaviors reminiscent of bacterial suspensions such as dynamic clusters and mesoscale turbulentlike flows.",
+            "Tuning the random walk of active colloids: From individual run-and-tumble to dynamic clustering",
+            "Hamid Karani and Gerardo E Pradillo and Petia M Vlahovska",
+            "2019",
+            "5OR1PGcAAAAJ:hC7cP41nSMkC",
+            21,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.123.208002",
+            "10094275492795144337",
+            "\/scholar?cites=10094275492795144337",
+            {
+                "2020":15,
+                "2021":6
+            }
+        ],
+        [
+            "In this paper, the analytic solution of the buoyancy-driven flow over a horizontal impermeable flat plate embedded in a saturated porous medium is derived using the newly developed analytic method, namely the homotopy analysis method (HAM). The HAM results show great agreement comparing with numerical results. HAM contains an auxiliary parameter \u210f that provides a simple way of controlling and adjusting the convergence region. The resultant analytic solution is valid for all acceptable values of the temperature exponent parameter \u03bb.",
+            "Homotopy analysis solution of free convection flow on a horizontal impermeable surface embedded in a saturated porous medium",
+            "Majid M Moghaddam and HR Ghazizadeh and A Mansouri",
+            "2009",
+            "5OR1PGcAAAAJ:2osOgNQ5qMEC",
+            12,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S1007570408003006",
+            "5524331800795105507",
+            "\/scholar?cites=5524331800795105507",
+            {
+                "2010":4,
+                "2011":1,
+                "2012":1,
+                "2013":1,
+                "2014":1,
+                "2015":1,
+                "2016":3
+            }
+        ],
+        [
+            "Based on the recently introduced fractional Taylor\u2019s formula, a fractional heat conduction constitutive equation is formulated by expanding the single-phase lag model using the fractional Taylor\u2019s formula. Combining with the energy balance equation, the derived fractional heat conduction equation has been shown to be capable of modeling diffusion-to-Thermal wave behavior of heat propagation by changing the order of fractional differentiation. Finally, finite sine-Fourier and Laplace transforms are employed to find the exact solution of a signaling problem.",
+            "Modeling diffusion to thermal wave heat propagation by using fractional heat conduction constitutive model",
+            "H Ghazizadeh and M Marefat",
+            "2010",
+            "5OR1PGcAAAAJ:qjMakFHDy7sC",
+            9,
+            "http:\/\/jmee.isme.ir\/article_20568.html",
+            "17856883642873826670",
+            "\/scholar?cites=17856883642873826670",
+            {
+                "2013":1,
+                "2014":1,
+                "2015":5,
+                "2016":1,
+                "2017":1
+            }
+        ],
+        [
+            "The Quincke effect is an electrohydrodynamic instability which gives rise to a torque on a dielectric particle in a uniform DC electric field. Previous studies reported that a sphere initially resting on the electrode rolls with steady velocity. We experimentally find that in strong fields the rolling becomes unsteady, with time-periodic velocity. Furthermore, we find another regime, where the rotating sphere levitates in the space between the electrodes. Our experimental results show that the onset of Quincke rotation strongly depends on particle confinement and the threshold for rolling is higher compared to rotation in the hovering state.",
+            "Quincke rotor dynamics in confinement: rolling and hovering",
+            "Gerardo E Pradillo and Hamid Karani and Petia M Vlahovska",
+            "2019",
+            "5OR1PGcAAAAJ:mVmsd5A6BfQC",
+            8,
+            "https:\/\/pubs.rsc.org\/en\/content\/articlehtml\/2019\/sm\/c9sm01163c",
+            "15101221155540840514",
+            "\/scholar?cites=15101221155540840514",
+            {
+                "2019":1,
+                "2020":6
+            }
+        ]
+    ]
+}

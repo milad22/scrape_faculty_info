@@ -1,0 +1,137 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "gbGP-VwAAAAJ",
+            "Alexander V Morozov",
+            "Samsung R&D Intitute Rus",
+            "@samsung.com",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=gbGP-VwAAAAJ",
+            630,
+            [
+                "optics",
+                "holography"
+            ],
+            546,
+            9,
+            9,
+            7,
+            5,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Qj6BR0YAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hong-Seok Lee",
+                    "affiliation":"SAIT, Samsung Electronics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"LYKqkhAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Chil-Sung Choi",
+                    "affiliation":"Samsung Advanced Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"DrRBgJYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kim Sun Il",
+                    "affiliation":"Samsung Advanced Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"EA7LZBMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jungkwuen An",
+                    "affiliation":"Samsung Advanced Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"0LTAzVIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hoon Song",
+                    "affiliation":"Samsung Advanced Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"R5l9DocAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yunhee Kim",
+                    "affiliation":"Samsung electronics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"nsOownoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kyungsuk Pyun",
+                    "affiliation":"Nvidia, Stanford University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"V7yRULUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Konstantin Karapetyan",
+                    "affiliation":"PhD candidate, University of Bonn"
+                }
+            ]
+        ]
+    ]
+}

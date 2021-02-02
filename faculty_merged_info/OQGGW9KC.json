@@ -1,0 +1,45 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "OQGGW9KC",
+            "et5egTYAAAAJ",
+            [
+                "OSIRIS: A three-dimensional, fully relativistic particle in cell code for modeling plasma based accelerators",
+                "Proton shock acceleration in laser-plasma interactions",
+                "QUICKPIC: A highly efficient particle-in-cell code for modeling wakefield acceleration in plasmas",
+                "Compressing and focusing a short laser pulse by a thin plasma lens",
+                "Space-charge effects in the current-filamentation or Weibel instability",
+                "Laser channeling in millimeter-scale underdense plasmas of fast-ignition targets",
+                "Global simulation for laser-driven MeV electrons in fast ignition"
+            ],
+            [
+                "We describe OSIRIS, a three-dimensional, relativistic, massively parallel, object oriented particle-in-cell code for modeling plasma based accelerators. Developed in Fortran 90, the code runs on multiple platforms (Cray T3E, IBM SP, Mac clusters) and can be easily ported to new ones. Details on the code\u2019s capabilities are given. We discuss the object-oriented design of the code, the encapsulation of system dependent code and the parallelization of the algorithms involved. We also discuss the implementation of communications as a boundary condition problem and other key characteristics of the code, such as the moving window, open-space and thermal bath boundaries, arbitrary domain decomposition, 2D (cartesian and cylindric) and 3D simulation modes, electron sub-cycling, energy conservation and particle and field diagnostics. Finally results from three-dimensional simulations of particle and laser \u2026",
+                "The formation of strong, high Mach number (2\u20133), electrostatic shocks by laser pulses incident on overdense plasma slabs is observed in one-and two-dimensional particle-in-cell simulations, for a wide range of intensities, pulse durations, target thicknesses, and densities. The shocks propagate undisturbed across the plasma, accelerating the ions (protons). For a dimensionless field strength parameter a 0= 16 (I \u03bb 2\u2248 3\u00d7 10 20 W c m\u2212 2 \u03bc m 2, where I is the intensity and \u03bb the wavelength), and target thicknesses of a few microns, the shock is responsible for the highest energy protons. A plateau in the ion spectrum provides a direct signature for shock acceleration.",
+                "A highly efficient, fully parallelized, fully relativistic, three-dimensional particle-in-cell model for simulating plasma and laser wakefield acceleration is described. The model is based on the quasi-static or frozen field approximation, which reduces a fully three-dimensional electromagnetic field solve and particle push to a two-dimensional field solve and particle push. This is done by calculating the plasma wake assuming that the drive beam and\/or laser does not evolve during the time it takes for it to pass a plasma particle. The complete electromagnetic fields of the plasma wake and its associated index of refraction are then used to evolve the drive beam and\/or laser using very large time steps. This algorithm reduces the computational time by 2\u20133 orders of magnitude. Comparison between the new algorithm and conventional fully explicit models (OSIRIS) is presented. The agreement is excellent for problems of \u2026",
+                "We consider the possibility of using a thin plasma slab as an optical element to both focus and compress an intense laser pulse. By thin we mean that the focal length is larger than the lens thickness. We derive analytic formulas for the spot size and pulse length evolution of a short laser pulse propagating through a thin uniform plasma lens. The formulas are compared to simulation results from two types of particle-in-cell code. The simulations give a greater final spot size and a shorter focal length than the analytic formulas. The difference arises from spherical aberrations in the lens which lead to the generation of higher-order vacuum Gaussian modes. The simulations also show that Raman side scattering can develop. A thin lens experiment could provide unequivocal evidence of relativistic self-focusing.",
+                "We consider how an unmagnetized plasma responds to an incoming flux of energetic electrons. We assume a return current is present and allow for the incoming electrons to have a different transverse temperature than the return current. To analyze this configuration we present a nonrelativistic theory of the current-filamentation or Weibel instability for rigorously current-neutral and nonseparable distribution functions, f 0 (p x, p y, p z)\u2260 f x (p x) f y (p y) f z (p z). We find that such distribution functions lead to lower growth rates because of space-charge forces that arise when the forward-going electrons pinch to a lesser degree than the colder, backward-flowing electrons. We verify the growth rate, range of unstable wave numbers, and the formation of the density filaments using particle-in-cell simulations.",
+                "Two dimensional particle-in-cell simulations show that laser channeling in millimeter-scale underdense plasmas is a highly nonlinear and dynamic process involving longitudinal plasma buildup, laser hosing, channel bifurcation and self-correction, and electron heating to relativistic temperatures. The channeling speed is much less than the linear group velocity of the laser. The simulations find that low-intensity channeling pulses are preferred to minimize the required laser energy but with an estimated lower bound on the intensity of I\u2248 5\u00d7 10 18 W\/cm 2 if the channel is to be established within 100 ps. The channel is also shown to significantly increase the transmission of an ignition pulse.",
+                "A comprehensive examination of the interaction of a picosecond-long ignition pulse on high-density (40 times critical density) pellets using a two-dimensional particle-in-cell model is described. The global geometry consists of a 50 \u03bc m diameter pellet surrounded by a corona which is isolated by a vacuum region from the boundary. For cone-attached targets, as much as 67% of the incident laser energy is absorbed with 12% sent forward as fast electrons in a 23 cone. The current filaments are driven by the Weibel instability of the forward-going fast electron flux and its return current with the ions playing an important role of neutralizing the space charge. No global current filament coalescence has been observed. The electron distribution function obeys a power law, which begins at E\u223c 0.2 M e V and falls off as E\u2212(2\u20133)."
+            ],
+            [
+                [
+                    "plasma physics",
+                    "fusion",
+                    "astrophysics",
+                    "computing",
+                    "high energy density physics"
+                ]
+            ]
+        ]
+    ]
+}

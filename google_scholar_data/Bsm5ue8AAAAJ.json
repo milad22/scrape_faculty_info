@@ -1,0 +1,103 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Bsm5ue8AAAAJ",
+            "Anuradha Weerakkody",
+            "Scientist , University of Rhode Island",
+            "@uri.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=Bsm5ue8AAAAJ",
+            456,
+            [
+                "Membrane biophysics",
+                "Fluorescence spectroscopy",
+                "Protein folding kinetics",
+                "Circular dichroism"
+            ],
+            305,
+            7,
+            7,
+            7,
+            7,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"nPGEDaIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yana K. Reshetnyak",
+                    "affiliation":"Professor of Physics, University of Rhode Island"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Gamv0UMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Oleg A. Andreev",
+                    "affiliation":"Professor of Physics, University of Rhode Island"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"02avRO4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Donald Engelman",
+                    "affiliation":"Professor of Molecular Biophysics and Biochemistry, Yale"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ifVaWdUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Theyencheri Narayanan",
+                    "affiliation":"ESRF-The European Synchrotron"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9tb0wPkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Keykavous Parang",
+                    "affiliation":"Associate Dean of Research, Innovation, and Global Affairs, Professor, Chapman University, and"
+                }
+            ]
+        ]
+    ]
+}

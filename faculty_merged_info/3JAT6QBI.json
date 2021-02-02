@@ -1,0 +1,44 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "3JAT6QBI",
+            "SGCq0CEAAAAJ",
+            [
+                "Safety and activity of PD1 blockade by pidilizumab in combination with rituximab in patients with relapsed follicular lymphoma: a single group, open-label, phase 2 trial",
+                "Solar hydrogen generation from seawater with a modified BiVO4 photoanode",
+                "Activation of p53 by SIRT1 inhibition enhances elimination of CML leukemia stem cells in combination with imatinib",
+                "Persistent antigen at vaccination sites induces tumor-specific CD8+ T cell sequestration, dysfunction and deletion",
+                "Dopant-induced electron localization drives CO 2 reduction to C 2 hydrocarbons",
+                "Reciprocal leukemia-stroma VCAM-1\/VLA-4-dependent activation of NF-\u03baB mediates chemoresistance",
+                "Design and performance evaluation of overcurrent protection schemes for silicon carbide (SiC) power MOSFETs",
+                "Co3O4 nanoparticles as robust water oxidation catalysts towards remarkably enhanced photostability of a Ta3N5 photoanode"
+            ],
+            [
+                "Endogenous or iatrogenic antitumour immune responses can improve the course of follicular lymphoma, but might be diminished by immune checkpoints in the tumour microenvironment. These checkpoints might include effects of programmed cell death 1 (PD1), a co-inhibitory receptor that impairs T-cell function and is highly expressed on intratumoral T cells. We did this phase 2 trial to investigate the activity of pidilizumab, a humanised anti-PD1 monoclonal antibody, with rituximab in patients with relapsed follicular lymphoma.We did this open-label, non-randomised trial at the University of Texas MD Anderson Cancer Center (Houston, TX, USA). Adult (\u226518 years) patients with rituximab-sensitive follicular lymphoma relapsing after one to four previous therapies were eligible. Pidilizumab was administered at 3 mg\/kg intravenously every 4 weeks for four infusions, plus eight optional infusions \u2026",
+                "Hydrogen is a very promising candidate as a future energy carrier. It is attractive to produce hydrogen from solar energy and seawater, the most abundant renewable energy source and the most abundant natural resource on the earth. To date, there is no report on a stable photoelectrode with a high incident photon conversion efficiency (IPCE) in seawater splitting under irradiation by visible light. Herein, we report an efficient and stable system for seawater splitting based on a multi-metal oxide BiVO4 after modification. The results indicated that modified BiVO4 had a photocurrent density of 2.16 mA cm\u22122 at 1.0 VRHE in natural seawater under AM 1.5G sunlight (1000 W m\u22122) and exhibited the highest IPCE at 1.0 VRHE in the visible light region of 440\u2013480 nm among all known oxide photoanodes.",
+                "BCR-ABL tyrosine kinase inhibitors (TKI) fail to eliminate quiescent leukemia stem cells (LSC) in chronic myelogenous leukemia (CML). Thus, strategies targeting LSC are required to achieve cure. We show that the NAD+-dependent deacetylase SIRT1 is overexpressed in human CML LSC. Pharmacological inhibition of SIRT1 or SIRT1 knockdown increased apoptosis in LSC of chronic phase and blast crisis CML and reduced their growth in vitro and in vivo. SIRT1 effects were enhanced in combination with the BCR-ABL TKI imatinib. SIRT1 inhibition increased p53 acetylation and transcriptional activity in CML progenitors, and the inhibitory effects of SIRT1 targeting on CML cells depended on p53 expression and acetylation. Activation of p53 via SIRT1 inhibition represents a potential approach to target CML LSC.",
+                "To understand why cancer vaccine\u2013induced T cells often do not eradicate tumors, we studied immune responses in mice vaccinated with gp100 melanoma peptide in incomplete Freund's adjuvant (peptide\/IFA), which is commonly used in clinical cancer vaccine trials. Peptide\/IFA vaccination primed tumor-specific CD8+ T cells, which accumulated not in tumors but rather at the persisting, antigen-rich vaccination site. Once there, primed T cells became dysfunctional and underwent antigen-driven, interferon-\u03b3 (IFN-\u03b3)-and Fas ligand (FasL)-mediated apoptosis, resulting in hyporesponsiveness to subsequent vaccination. Provision of CD40-specific antibody, Toll-like receptor 7 (TLR7) agonist and interleukin-2 (IL-2) reduced T cell apoptosis but did not prevent vaccination-site sequestration. A nonpersisting vaccine formulation shifted T cell localization toward tumors, inducing superior antitumor activity while reducing \u2026",
+                "The electrochemical reduction of CO 2 to multi-carbon products has attracted much attention because it provides an avenue to the synthesis of value-added carbon-based fuels and feedstocks using renewable electricity. Unfortunately, the efficiency of CO 2 conversion to C 2 products remains below that necessary for its implementation at scale. Modifying the local electronic structure of copper with positive valence sites has been predicted to boost conversion to C 2 products. Here, we use boron to tune the ratio of Cu \u03b4+ to Cu 0 active sites and improve both stability and C 2-product generation. Simulations show that the ability to tune the average oxidation state of copper enables control over CO adsorption and dimerization, and makes it possible to implement a preference for the electrosynthesis of C 2 products. We report experimentally a C 2 Faradaic efficiency of 79\u00b12% on boron-doped copper catalysts and \u2026",
+                "Leukemia cells are protected from chemotherapy-induced apoptosis by their interactions with bone marrow mesenchymal stromal cells (BM-MSCs). Yet the underlying mechanisms associated with this protective effect remain unclear. Genome-wide gene expression profiling of BM-MSCs revealed that coculture with leukemia cells upregulated the transcription of genes associated with nuclear factor (NF)-\u03baB signaling. Moreover, primary BM-MSCs from leukemia patients expressed NF-\u03baB target genes at higher levels than their normal BM-MSC counterparts. The blockade of NF-\u03baB activation via chemical agents or the overexpression of the mutant form of inhibitor \u03baB-\u03b1 (I\u03baB\u03b1) in BM-MSCs markedly reduced the stromal-mediated drug resistance in leukemia cells in vitro and in vivo. In particular, our unique in vivo model of human leukemia BM microenvironment illustrated a direct link between NF-\u03baB activation and \u2026",
+                "Overcurrent protection of silicon carbide (SiC) metal-oxide-semiconductor field-effect transistors (MOSFETs) remains a challenge due to lack of practical knowledge. This paper presents three overcurrent protection methods to improve the reliability and overall cost of SiC MOSFET-based converters. First, a solid-state circuit breaker (SSCB) composed primarily by a Si IGBT and a commercial gate driver IC is connected in series with the dc bus to detect and clear overcurrent faults. Second, the desaturation technique using a sensing diode to detect the drain-source voltage under overcurrent faults is implemented as well. Third, a novel active overcurrent protection scheme through dynamic evaluation of fault current level is proposed. The design considerations and potential issues of the protection methods are described and analyzed in detail. A phase-leg configuration-based step-down converter is built to evaluate \u2026",
+                "Despite the fact that Ta3N5 absorbs a major fraction of the visible spectrum, the rapid decrease of photocurrent encountered in water photoelectrolysis over time remains a serious hurdle for the practical application of Ta3N5 photoelectrodes. Here, by employing a Co3O4 nanoparticle water oxidation catalyst (WOC) as well as an alkaline electrolyte, the photostability of Ta3N5 electrode is significantly improved. Co3O4\/Ta3N5 photoanode exhibits the best durability against photocorrosion to date, when compared with Co(OH)x\/Ta3N5 and IrO2\/Ta3N5 photoanodes. Specifically, about 75% of the initial stable photocurrent remains after 2 h irradiation at 1.2 V vs. RHE (reversible hydrogen electrode). Meanwhile, a photocurrent density of 3.1 mA cm\u22122 has been achieved on Co3O4\/Ta3N5 photoanode at 1.2 V vs. RHE with backside illumination under 1 sun AM 1.5 G simulated sunlight. The reason for the relatively high \u2026"
+            ],
+            [
+                [
+                    "nanomaterials",
+                    "synchrotron radiation"
+                ]
+            ]
+        ]
+    ]
+}

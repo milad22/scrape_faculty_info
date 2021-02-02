@@ -1,0 +1,231 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "We propose a family of exactly solvable toy models for the AdS\/CFT correspondence based on a novel construction of quantum error-correcting codes with a tensor network structure. Our building block is a special type of tensor with maximal entanglement along any bipartition, which gives rise to an isometry from the bulk Hilbert space to the boundary Hilbert space. The entire tensor network is an encoder for a quantum error-correcting code, where the bulk and boundary degrees of freedom may be identified as logical and physical degrees of freedom respectively. These models capture key features of entanglement in the AdS\/CFT correspondence; in particular, the Ryu-Takayanagi formula and the negativity of tripartite information are obeyed exactly in many cases. That bulk logical operators can be represented on multiple boundary regions mimics the Rindlerwedge reconstruction of boundary operators from bulk \u2026",
+            "Holographic quantum error-correcting codes: Toy models for the bulk\/boundary correspondence",
+            "Fernando Pastawski and Beni Yoshida and Daniel Harlow and John Preskill",
+            "2015",
+            "lz4HDRwAAAAJ:hqOjcs7Dif8C",
+            572,
+            "https:\/\/link.springer.com\/article\/10.1007\/JHEP06(2015)149",
+            "16046652639106512676",
+            "\/scholar?cites=16046652639106512676",
+            {
+                "2015":23,
+                "2016":45,
+                "2017":98,
+                "2018":100,
+                "2019":132,
+                "2020":164,
+                "2021":6
+            }
+        ],
+        [
+            "We point out a connection between the emergence of bulk locality in AdS\/CFT and the theory of quantum error correction. Bulk notions such as Bogoliubov transformations, location in the radial direction, and the holographic entropy bound all have natural CFT interpretations in the language of quantum error correction. We also show that the question of whether bulk operator reconstruction works only in the causal wedge or all the way to the extremal surface is related to the question of whether or not the quantum error correcting code realized by AdS\/CFT is also a \u201cquantum secret sharing scheme\u201d, and suggest a tensor network calculation that may settle the issue. Interestingly, the version of quantum error correction which is best suited to our analysis is the somewhat nonstandard \u201coperator algebra quantum error correction\u201d of Beny, Kempf, and Kribs. Our proposal gives a precise formulation of the idea of \u2026",
+            "Bulk locality and quantum error correction in AdS\/CFT",
+            "Ahmed Almheiri and Xi Dong and Daniel Harlow",
+            "2015",
+            "lz4HDRwAAAAJ:Se3iqnhoufwC",
+            460,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/JHEP04(2015)163.pdf",
+            "8936829785530058402",
+            "\/scholar?cites=8936829785530058402",
+            {
+                "2015":23,
+                "2016":45,
+                "2017":65,
+                "2018":70,
+                "2019":98,
+                "2020":153,
+                "2021":4
+            }
+        ],
+        [
+            "These lectures give an introduction to the quantum physics of black holes, including recent developments based on quantum information theory such as the firewall paradox and its various cousins. An introduction is also given to holography and the anti\u2013de Sitter\/conformal field theory (AdS\/CFT) correspondence, focusing on those aspects which are relevant for the black hole information problem.",
+            "Jerusalem lectures on black holes and quantum information",
+            "Daniel Harlow",
+            "2016",
+            "lz4HDRwAAAAJ:roLk4NBRz8UC",
+            296,
+            "https:\/\/journals.aps.org\/rmp\/abstract\/10.1103\/RevModPhys.88.015002",
+            "7857068810034032964",
+            "\/scholar?cites=7857068810034032964",
+            {
+                "2015":19,
+                "2016":31,
+                "2017":51,
+                "2018":56,
+                "2019":50,
+                "2020":83,
+                "2021":5
+            }
+        ],
+        [
+            "In this Letter we prove a simple theorem in quantum information theory, which implies that bulk operators in the anti\u2013de Sitter\/conformal field theory (AdS\/CFT) correspondence can be reconstructed as CFT operators in a spatial subregion A, provided that they lie in its entanglement wedge. This is an improvement on existing reconstruction methods, which have at most succeeded in the smaller causal wedge. The proof is a combination of the recent work of Jafferis, Lewkowycz, Maldacena, and Suh on the quantum relative entropy of a CFT subregion with earlier ideas interpreting the correspondence as a quantum error correcting code.",
+            "Reconstruction of bulk operators within the entanglement wedge in gauge-gravity duality",
+            "Xi Dong and Daniel Harlow and Aron C Wall",
+            "2016",
+            "lz4HDRwAAAAJ:kNdYIx-mwKoC",
+            282,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.117.021601",
+            "12523393063712601642",
+            "\/scholar?cites=12523393063712601642",
+            {
+                "2016":21,
+                "2017":41,
+                "2018":41,
+                "2019":64,
+                "2020":109,
+                "2021":6
+            }
+        ],
+        [
+            "Correlation functions in Liouville theory are meromorphic functions of the Liouville momenta, as is shown explicitly by the DOZZ formula for the three-point function on S 2. In a certain physical region, where a real classical solution exists, the semiclassical limit of the DOZZ formula is known to agree with what one would expect from the action of the classical solution. In this paper, we ask what happens outside of this physical region. Perhaps surprisingly we find that, while in some range of the Liouville momenta the semiclassical limit is associated to complex saddle points, in general Liouville\u2019s equations do not have enough complex-valued solutions to account for the semiclassical behavior. For a full picture, we either must include \u201csolutions\u201d of Liouville\u2019s equations in which the Liouville field is multivalued (as well as being complex-valued), or else we can reformulate Liouville theory as a Chern-Simons theory in \u2026",
+            "Analytic continuation of Liouville theory",
+            "Daniel Harlow and Jonathan Maltz and Edward Witten",
+            "2011",
+            "lz4HDRwAAAAJ:d1gkVwhDpl0C",
+            218,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/JHEP12(2011)071.pdf",
+            "10347053916294743554",
+            "\/scholar?cites=10347053916294743554",
+            {
+                "2011":2,
+                "2012":12,
+                "2013":13,
+                "2014":22,
+                "2015":27,
+                "2016":28,
+                "2017":27,
+                "2018":30,
+                "2019":32,
+                "2020":23,
+                "2021":1
+            }
+        ],
+        [
+            "In this paper we discuss quantum computational restrictions on the types of thought experiments recently used by Almheiri, Marolf, Polchinski, and Sully to argue against the smoothness of black hole horizons. We argue that the quantum computations required to do these experiments would take a time which is exponential in the entropy of the black hole under study, and we show that for a wide variety of black holes this prevents the experiments from being done. We interpret our results as motivating a broader type of nonlocality than is usually considered in the context of black hole thought experiments, and claim that once this type of nonlocality is allowed there may be no need for firewalls. Our results do not threaten the unitarity of black hole evaporation or the ability of advanced civilizations to test it.",
+            "Quantum computation vs. firewalls",
+            "Daniel Harlow and Patrick Hayden",
+            "2013",
+            "lz4HDRwAAAAJ:Y0pCki6q_DkC",
+            212,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/JHEP06(2013)085.pdf",
+            "18333953366271518469",
+            "\/scholar?cites=18333953366271518469",
+            {
+                "2013":20,
+                "2014":30,
+                "2015":19,
+                "2016":30,
+                "2017":34,
+                "2018":19,
+                "2019":26,
+                "2020":32,
+                "2021":1
+            }
+        ],
+        [
+            "I argue that a version of the quantum-corrected Ryu\u2013Takayanagi formula holds in any quantum error-correcting code. I present this result as a series of theorems of increasing generality, with the final statement expressed in the language of operator-algebra quantum error correction. In AdS\/CFT this gives a \u201cpurely boundary\u201d interpretation of the formula. I also extend a recent theorem, which established entanglement-wedge reconstruction in AdS\/CFT, when interpreted as a subsystem code, to the more general, and I argue more physical, case of subalgebra codes. For completeness, I include a self-contained presentation of the theory of von Neumann algebras on finite-dimensional Hilbert spaces, as well as the algebraic definition of entropy. The results confirm a close relationship between bulk gauge transformations, edge-modes\/soft-hair on black holes, and the Ryu\u2013Takayanagi formula. They also \u2026",
+            "The Ryu\u2013Takayanagi formula from quantum error correction",
+            "Daniel Harlow",
+            "2017",
+            "lz4HDRwAAAAJ:KlAtU1dfN6UC",
+            202,
+            "https:\/\/link.springer.com\/article\/10.1007\/s00220-017-2904-z",
+            "15867308114230195392",
+            "\/scholar?cites=15867308114230195392",
+            {
+                "2016":3,
+                "2017":29,
+                "2018":40,
+                "2019":53,
+                "2020":75,
+                "2021":2
+            }
+        ],
+        [
+            "Dual AdS\/CFT correlators can be computed in two ways: differentiate the bulk partition function with respect to boundary conditions, or extrapolate bulk correlation functions to the boundary. These dictionaries were conjectured to be equivalent by Banks, Douglas, Horowitz, and Martinec. We revisit this question at the level of bulk path integrals, showing that agreement in the presence of interactions requires careful treatment of the renormalization of bulk composite operators. By contrast, we emphasize that proposed dS\/CFT analogues of the two dictionaries are inequivalent. Next, we show quite generally that the wave function for Euclidean AdS analytically continues to the dS wave function with Euclidean initial conditions. Most of our arguments consider interacting fields on a fixed background, but in a final section we discuss the inclusion of bulk dynamical gravity.",
+            "Operator dictionaries and wave functions in AdS\/CFT and dS\/CFT",
+            "Daniel Harlow and Douglas Stanford",
+            "2011",
+            "lz4HDRwAAAAJ:u5HHmVD_uO8C",
+            175,
+            "https:\/\/arxiv.org\/abs\/1104.2621",
+            "5832967487208118707",
+            "\/scholar?cites=5832967487208118707",
+            {
+                "2011":3,
+                "2012":27,
+                "2013":20,
+                "2014":19,
+                "2015":22,
+                "2016":20,
+                "2017":15,
+                "2018":17,
+                "2019":11,
+                "2020":21
+            }
+        ],
+        [
+            "This paper revisits the question of reconstructing bulk gauge fields as boundary operators in AdS\/CFT. In the presence of the wormhole dual to the thermofield double state of two CFTs, the existence of bulk gauge fields is in some tension with the microscopic tensor factorization of the Hilbert space. I explain how this tension can be resolved by splitting the gauge field into charged constituents, and I argue that this leads to a new argument for the \u201cprinciple of completeness\u201d, which states that the charge lattice of a gauge theory coupled to gravity must be fully populated. I also claim that it leads to a new motivation for (and a clarification of) the \u201cweak gravity conjecture\u201d, which I interpret as a strengthening of this principle. This setup gives a simple example of a situation where describing low-energy bulk physics in CFT language requires knowledge of high-energy bulk physics. This contradicts to some extent the notion \u2026",
+            "Wormholes, emergent gauge fields, and the weak gravity conjecture",
+            "Daniel Harlow",
+            "2016",
+            "lz4HDRwAAAAJ:5nxA0vEk-isC",
+            149,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/JHEP01(2016)122.pdf",
+            "4771953513010623247",
+            "\/scholar?cites=4771953513010623247",
+            {
+                "2016":17,
+                "2017":20,
+                "2018":29,
+                "2019":46,
+                "2020":35,
+                "2021":2
+            }
+        ],
+        [
+            "In this paper we use the AdS\/CFT correspondence to refine and then establish a set of old conjectures about symmetries in quantum gravity. We first show that any global symmetry, discrete or continuous, in a bulk quantum gravity theory with a CFT dual would lead to an inconsistency in that CFT, and thus that there are no bulk global symmetries in AdS\/CFT. We then argue that any\" long-range\" bulk gauge symmetry leads to a global symmetry in the boundary CFT, whose consistency requires the existence of bulk dynamical objects which transform in all finite-dimensional irreducible representations of the bulk gauge group. We mostly assume that all internal symmetry groups are compact, but we also give a general condition on CFTs, which we expect to be true quite broadly, which implies this. We extend all of these results to the case of higher-form symmetries. Finally we extend a recently proposed new motivation for the weak gravity conjecture to more general gauge groups, reproducing the\" convex hull condition\" of Cheung and Remmen.An essential point, which we dwell on at length, is precisely defining what we mean by gauge and global symmetries in the bulk and boundary. Quantum field theory results we meet while assembling the necessary tools include continuous global symmetries without Noether currents, new perspectives on spontaneous symmetry-breaking and't Hooft anomalies, a new order parameter for confinement which works in the presence of fundamental quarks, a Hamiltonian lattice formulation of gauge theories with arbitrary discrete gauge groups, an extension of the Coleman-Mandula theorem to discrete symmetries, and an \u2026",
+            "Symmetries in quantum field theory and quantum gravity",
+            "Daniel Harlow and Hirosi Ooguri",
+            "2018",
+            "lz4HDRwAAAAJ:4TOpqqG69KYC",
+            100,
+            "https:\/\/arxiv.org\/abs\/1810.05338",
+            "5740335150172268996",
+            "\/scholar?cites=5740335150172268996",
+            {
+                "2018":5,
+                "2019":37,
+                "2020":55,
+                "2021":3
+            }
+        ]
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "data":[
+        [
+            "This study aims to demonstrate, using human cadavers the feasibility of energy\u2010based adaptive focusing of ultrasonic waves using magnetic resonance acoustic radiation force imaging (MR\u2010ARFI) in the framework of non\u2010invasive transcranial high intensity focused ultrasound (HIFU) therapy.Energy\u2010based adaptive focusing techniques were recently proposed in order to achieve aberration correction. The authors evaluate this method on a clinical brain HIFU system composed of 512 ultrasonic elements positioned inside a full body 1.5 T clinical magnetic resonance (MR) imaging system. Cadaver heads were mounted onto a clinical Leksell stereotactic frame. The ultrasonic wave intensity at the chosen location was indirectly estimated by the MR system measuring the local tissue displacement induced by the acoustic radiation force of the ultrasound (US) beams. For aberration correction, a set \u2026",
+            "MR\u2010guided adaptive focusing of therapeutic ultrasound beams in the human head",
+            "Laurent Marsac and Dorian Chauvet and Beno\u00eet Larrat and Mathieu Pernot and B Robert and Mathias Fink and Anne-Laure Boch and Jean-Fran\u00e7ois Aubry and Micka\u00ebl Tanter",
+            "2012",
+            "yH-48vkAAAAJ:2osOgNQ5qMEC",
+            100,
+            "https:\/\/aapm.onlinelibrary.wiley.com\/doi\/abs\/10.1118\/1.3678988",
+            "12111017645400174063",
+            "\/scholar?cites=12111017645400174063",
+            {
+                "2012":4,
+                "2013":17,
+                "2014":15,
+                "2015":12,
+                "2016":12,
+                "2017":7,
+                "2018":12,
+                "2019":10,
+                "2020":11
+            }
+        ],
+        [
+            "Typically, MR\u2010elastography (MRE) encodes the propagation of monochromatic acoustic waves in the MR\u2010phase images via sinusoidal gradients characterized by a detection frequency equal to the frequency of the mechanical vibration. Therefore, the echo time of a conventional MRE sequence is typically longer than the vibration period which is critical for heart tissue exhibiting a short T2. Thus, fast acquisition techniques like the so\u2010called fractional encoding of harmonic motions were developed for cardiac applications. However, fractional encoding of harmonic motions is limited since it is two orders of magnitude less sensitive to motion than conventional MRE sequences for low\u2010frequency vibrations. Here, a new sequence is derived from the so\u2010called displacement encoding with stimulated echoes (DENSE) sequence. This sequence is more sensitive to displacement than fractional encoding of harmonic \u2026",
+            "Application of DENSE\u2010MR\u2010elastography to the human heart",
+            "Benjamin Robert and Ralph Sinkus and Jean\u2010Luc Gennisson and Mathias Fink",
+            "2009",
+            "yH-48vkAAAAJ:d1gkVwhDpl0C",
+            59,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1002\/mrm.22124",
+            "2709112311723478226",
+            "\/scholar?cites=2709112311723478226",
+            {
+                "2010":5,
+                "2011":7,
+                "2012":12,
+                "2013":6,
+                "2014":8,
+                "2015":1,
+                "2016":3,
+                "2017":7,
+                "2018":3,
+                "2019":3,
+                "2020":4
+            }
+        ],
+        [
+            "In this study, we proposed an efficient free\u2010breathing strategy for rapid and improved cardiac diffusion\u2010weighted imaging (DWI) acquisition using a single\u2010shot spin\u2010echo echo planar imaging (SE\u2010EPI) sequence. Methods: A real\u2010time slice\u2010following technique during free\u2010breathing was combined with a sliding acquisition\u2010window strategy prior Principal Component Analysis temporal Maximum Intensity Projection (PCAtMIP) postprocessing of in\u2010plane co\u2010registered diffusion\u2010weighted images. This methodology was applied to 10 volunteers to quantify the performance of the motion correction technique and the reproducibility of diffusion parameters. Results: The slice\u2010following technique offers a powerful head\u2013foot respiratory motion management solution for SE\u2010EPI cDWI with the advantage of a 100% duty cycle scanning efficiency. The level of co\u2010registration was further improved using nonrigid motion \u2026",
+            "In vivo free\u2010breathing DTI and IVIM of the whole human heart using a real\u2010time slice\u2010followed SE\u2010EPI navigator\u2010based sequence: A reproducibility study in healthy volunteers",
+            "Kevin Moulin and Pierre Croisille and Thorsten Feiweier and Benedicte MA Delattre and Hongjiang Wei and Benjamin Robert and Olivier Beuf and Magalie Viallon",
+            "2016",
+            "yH-48vkAAAAJ:dhFuZR0502QC",
+            41,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1002\/mrm.25852",
+            "6813362178736668144",
+            "\/scholar?cites=6813362178736668144",
+            {
+                "2016":5,
+                "2017":6,
+                "2018":7,
+                "2019":10,
+                "2020":8,
+                "2021":1
+            }
+        ],
+        [
+            "",
+            "Parallel\u2010transmission\u2010enabled three\u2010dimensional T2\u2010weighted imaging of the human brain at 7 Tesla",
+            "Aur\u00e9lien Massire and Alexandre Vignaud and Benjamin Robert and Denis Le Bihan and Nicolas Boulant and Alexis Amadon",
+            "2015",
+            "yH-48vkAAAAJ:_kc_bZDykSQC",
+            32,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1002\/mrm.25353",
+            "14869202811055885317",
+            "\/scholar?cites=14869202811055885317",
+            {
+                "2015":6,
+                "2016":6,
+                "2017":5,
+                "2018":7,
+                "2019":6,
+                "2020":1
+            }
+        ],
+        [
+            "Inhomogeneous magnetization transfer (ihMT) shows great promise for specific imaging of myelinated tissues. Whereas the ihMT technique has been previously applied in brain applications, the current report presents a strategy for cervical spinal cord (SC) imaging free of cerebrospinal fluid (CSF) pulsatility artifacts.A pulsed ihMT preparation was combined with a single\u2010shot HASTE readout. Electrocardiogram (ECG) synchronization was used to acquire all images during the quiescent phase of SC motion. However ihMT signal quantification errors may occur when a variable recovery delay is introduced in the sequence as a consequence of variable cardiac cycle. A semiautomatic retrospective correction algorithm, based on repetition time (TR) \u2010matching, is proposed to correct for signal variations of long T1\u2010components (e.g., CSF).The proposed strategy combining ECG \u2026",
+            "Magnetization transfer from inhomogeneously broadened lines (ihMT): Improved imaging strategy for spinal cord applications",
+            "Olivier M Girard and Virginie Callot and Valentin H Prevost and Benjamin Robert and Manuel Taso and Guilherme Ribeiro and Gopal Varma and Novena Rangwala and David C Alsop and Guillaume Duhamel",
+            "2017",
+            "yH-48vkAAAAJ:9ZlFYXVOiuMC",
+            29,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1002\/mrm.26134",
+            "17232965237995738581",
+            "\/scholar?cites=17232965237995738581",
+            {
+                "2016":2,
+                "2017":6,
+                "2018":10,
+                "2019":4,
+                "2020":4,
+                "2021":1
+            }
+        ],
+        [
+            "To assess time-resolved spin-labeled (SL) magnetic resonance (MR) angiographic imaging with a large acquisition time window over two cardiac cycles for characterization of cerebral arteriovenous malformations (AVMs).This study was institutional review board\u2013approved. Sixteen patients presented with an AVM, provided informed consent, and were prospectively included. Time-resolved SL MR angiographic images with acquisition window that covered two cardiac cycles (acquisition time, 10\u201312 min; temporal resolution, 60 msec) or one cardiac cycle and time-of-flight (TOF) MR angiographic images were acquired with a 3-T MR imager. A diagnostic confidence index was used for image quality evaluation; scores were 0, no diagnosis, to 3, high image quality. AVM characterization consisted of arterial feeder, nidus size, and venous drainage type identification compared with those \u2026",
+            "Time-resolved spin-labeled MR angiography for the depiction of cerebral arteriovenous malformations: a comparison of techniques",
+            "H\u00e9l\u00e8ne Raoult and Elise Bannier and Benjamin Robert and Christian Barillot and Peter Schmitt and Jean-Yves Gauvrit",
+            "2014",
+            "yH-48vkAAAAJ:W7OEmFMy1HYC",
+            23,
+            "https:\/\/pubs.rsna.org\/doi\/abs\/10.1148\/radiol.13131252",
+            "17146738988279304815",
+            "\/scholar?cites=17146738988279304815",
+            {
+                "2014":3,
+                "2015":2,
+                "2016":3,
+                "2017":2,
+                "2018":4,
+                "2019":4,
+                "2020":4
+            }
+        ],
+        [
+            "In recent years, MRI has proven its usefulness for the diagnostic workup of patients with musculo-skeletal diseases, and also shown great promise as a non-invasive, quantitative outcome measure in clinical studies. The characterization of patterns of fatty degenerative lesions, which now plays an important part in the diagnosis of some diseases, is typically performed by the radiologist on routine T1-weighted images. We propose to rationalize acquisitions and reduce patients' time in the scanner by allowing radiologists to perform the qualitative grading of the muscles on images derived from fat\/water acquisitions. These maps are color-coded, where the different colors correspond to classes of fatty infiltration degree. This allows a quick visual assessment of the muscles, equivalent to the standard method. Using the weighted Kappa agreement test, the agreement between the proposed method and the traditional \u2026",
+            "Qualitative and quantitative evaluation of skeletal muscle fatty degenerative changes using whole-body Dixon nuclear magnetic resonance imaging for an important reduction of \u2026",
+            "Pierre-Yves Baudin and Benjamin Marty and Benjamin Robert and Alexey Shukelovitch and Robert Y Carlier and Noura Azzabou and Pierre G Carlier",
+            "2015",
+            "yH-48vkAAAAJ:Wp0gIr-vW9MC",
+            17,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0960896615006689",
+            "3580076417094225937",
+            "\/scholar?cites=3580076417094225937",
+            {
+                "2016":2,
+                "2017":3,
+                "2018":5,
+                "2019":4,
+                "2020":3
+            }
+        ]
+    ]
+}

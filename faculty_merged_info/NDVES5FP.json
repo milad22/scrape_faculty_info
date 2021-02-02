@@ -1,0 +1,37 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "NDVES5FP",
+            "42_5jx8AAAAJ",
+            [
+                "Adaptive image interpolation based on local gradient features",
+                "Wireless sensor network design for tactical military applications: Remote large-scale environments",
+                "Frequency domain equalisation of OFDM signals over frequency nonselective Rayleigh fading channels",
+                "Adaptive acquisition of PN sequences for DSSS communications"
+            ],
+            [
+                "This letter presents two adaptive interpolation methods based on applying an inverse gradient to conventional bilinear and bicubic interpolation. In simulations, the proposed methods exhibited a better performance than conventional bilinear and bicubic methods, particularly in the edge regions. In addition, the proposed methods can be used irrespective of the magnification factor (MF) and easily implemented due to their simple structure.",
+                "Wireless sensor networks (WSNs) can be used by the military for a number of purposes such as monitoring or tracking the enemies and force protection. Unlike commercial WSNs, a tactical military sensor network has different priority requirements for military usage. Especially in the remote large-scale network, topology, self-configuration, network connectivity, maintenance, and energy consumption are the challenges. In this paper, we present an overview of application scenarios in remote large-scale WSNs focusing on the primary requirements for tactical environments. We propose a sensor network architecture based on the cluster-tree based multi-hop model with optimized cluster head election and the corresponding node design method to meet the tactical requirements. With the proposed WSN architecture, one can easily design the sensor network for military usage in remote large scale environments.",
+                "In orthogonal frequency division multiplexing (OFDM) signal transmission via a frequency nonselective fading channel, multiplicative distortion in the time domain acts as intersymbol interference (ISI) in the frequency domain. The Letter proposes new compensation methods for the fading distortion in OFDM signals, in which compensation is achieved in the frequency domain. With the proposed methods, improved results can be obtained compared to previous schemes. The symbol error rate (SER) of each proposed scheme is obtained by baseband simulation.",
+                "Since the received signal levels in mobile communications are unknown and the location is varying, acquisition schemes for pseudonoise (PN) sequences with fixed thresholds cannot provide satisfactory performance. This fixed-threshold scheme may cause too many false alarms or result in a low detection probability for a selected threshold value. We present an adaptive acquisition scheme for PN sequences which estimate the background power level, multiply it with a threshold coefficient to keep the false alarms constant, and use it as a threshold."
+            ],
+            [
+                [
+                    "Mobile Communications",
+                    "Computer Networks",
+                    "Signal Processing"
+                ]
+            ]
+        ]
+    ]
+}

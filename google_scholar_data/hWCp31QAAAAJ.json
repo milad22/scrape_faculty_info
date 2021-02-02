@@ -1,0 +1,126 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "hWCp31QAAAAJ",
+            "Per Berglund",
+            "Professor at KTH Royal Institute of Technology, Stockholm, Sweden",
+            "@kth.se",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=hWCp31QAAAAJ",
+            4162,
+            [
+                "Biocatalysis",
+                "Enzyme engineering",
+                "Enzyme promiscuity"
+            ],
+            1671,
+            34,
+            24,
+            53,
+            35,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"7Um2bwQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Derek Logan",
+                    "affiliation":"Associate Professor Lund University & SARomics Biostructures AB"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"s9bnTtsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Armando Cordova",
+                    "affiliation":"Professor"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6-7UHrwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Samson Afewerki",
+                    "affiliation":"Harvard Medical School-Massachusetts Institute of Technology (MIT)"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"P1oVt7cAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tom van den Bergh",
+                    "affiliation":"Bio-Prodict"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"mNBu7GEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Robert Kourist",
+                    "affiliation":"Graz University of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3-xu9k0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Maria H\u00e5kansson, phD, Principal scie...",
+                    "affiliation":"SARomics Biostructures AB"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"p3HcwsoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mikael Widersten",
+                    "affiliation":"Professor of Biochemistry, Uppsala University"
+                }
+            ]
+        ]
+    ]
+}

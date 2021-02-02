@@ -1,0 +1,52 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "ZdskMAwAAAAJ",
+            "Xue Feng Zhang",
+            "Senior Research Engineer at GE GRC",
+            "@ge.com",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=ZdskMAwAAAAJ",
+            120819,
+            [
+                "Turbomachinery Aerodynamics"
+            ],
+            66515,
+            153,
+            107,
+            1300,
+            985,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"yiIqT5YAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Maria Vera-Morales",
+                    "affiliation":"Lecturer in Applied Aerodynamics, Loughborough University"
+                }
+            ]
+        ]
+    ]
+}

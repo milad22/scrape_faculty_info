@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "W4YGQ9WV",
+            "tsE4hDIAAAAJ",
+            [
+                "Nonequilibrium equality for free energy differences",
+                "Equilibrium free-energy differences from nonequilibrium measurements: A master-equation approach",
+                "Verification of the Crooks fluctuation theorem and recovery of RNA folding free energies",
+                "Equalities and inequalities: Irreversibility and the second law of thermodynamics at the nanoscale",
+                "Good practices in free-energy calculations",
+                "Hamiltonian derivation of a detailed fluctuation theorem",
+                "Rare events and the convergence of exponentially averaged work values",
+                "Classical and quantum fluctuation theorems for heat exchange",
+                "Work and information processing in a solvable model of Maxwell\u2019s demon",
+                "Experimental test of Hatano and Sasa's nonequilibrium steady-state equality"
+            ],
+            [
+                "An expression is derived for the equilibrium free energy difference between two configurations of a system, in terms of an ensemble of finite-time measurements of the work performed in parametrically switching from one configuration to the other. Two well-known identities emerge as limiting cases of this result.",
+                "In has recently been shown that the Helmholtz free-energy difference between two equilibrium configurations of a system may be obtained from an ensemble of finite-time (nonequilibrium) measurements of the work performed in switching an external parameter of the system. Here this result is established, as an identity, within the master equation formalism. Examples are discussed and numerical illustrations provided.",
+                "Atomic force microscopes and optical tweezers are widely used to probe the mechanical properties of individual molecules and molecular interactions, by exerting mechanical forces that induce transitions such as unfolding or dissociation. These transitions often occur under nonequilibrium conditions and are associated with hysteresis effects\u2014features usually taken to preclude the extraction of equilibrium information from the experimental data. But fluctuation theorems 1, 2, 3, 4, 5 allow us to relate the work along nonequilibrium trajectories to thermodynamic free-energy differences. They have been shown to be applicable to single-molecule force measurements 6 and have already provided information on the folding free energy of a RNA hairpin 7, 8. Here we show that the Crooks fluctuation theorem 9 can be used to determine folding free energies for folding and unfolding processes occurring in weak as well as \u2026",
+                "The reason we never observe violations of the second law of thermodynamics is in part a matter of statistics: When \u223c1023 degrees of freedom are involved, the odds are overwhelmingly stacked against the possibility of seeing significant deviations away from the mean behavior. As we turn our attention to smaller systems, however, statistical fluctuations become more prominent. In recent years it has become apparent that the fluctuations of systems far from thermal equilibrium are not mere background noise, but satisfy strong, useful, and unexpected properties. In particular, a proper accounting of fluctuations allows us to rewrite familiar inequalities of macroscopic thermodynamics as equalities. This review describes some of this progress, and argues that it has refined our understanding of irreversibility and the second law.",
+                "As access to computational resources continues to increase, free-energy calculations have emerged as a powerful tool that can play a predictive role in a wide range of research areas. Yet, the reliability of these calculations can often be improved significantly if a number of precepts, or good practices, are followed. Although the theory upon which these good practices rely has largely been known for many years, it is often overlooked or simply ignored. In other cases, the theoretical developments are too recent for their potential to be fully grasped and merged into popular platforms for the computation of free-energy differences. In this contribution, the current best practices for carrying out free-energy calculations using free energy perturbation and nonequilibrium work methods are discussed, demonstrating that at little to no additional cost, free-energy estimates could be markedly improved and bounded by \u2026",
+                "We analyze the microscopic evolution of a system undergoing a far-from-equilibrium thermodynamic process. Explicitly accounting for the degrees of freedom of participating heat reservoirs, we derive a hybrid result, similar in form to both the fluctuation theorem and a statement of detailed balance. We relate this result to the steady-state fluctuation theorem and to a free energy relation valid far from equilibrium.",
+                "Equilibrium free energy differences are given by exponential averages of nonequilibrium work values; such averages, however, often converge poorly, as they are dominated by rare realizations. I show that there is a simple and intuitively appealing description of these rare but dominant realizations. This description is expressed as a duality between \u201cforward\u201d and \u201creverse\u201d processes, and provides both heuristic insights and quantitative estimates regarding the number of realizations needed for convergence of the exponential average. Analogous results apply to the equilibrium perturbation method of estimating free energy differences. The pedagogical example of a piston and gas [RC Lua and AY Grosberg, J. Phys. Chem. B 109, 6805 (2005)] is used to illustrate the general discussion.",
+                "The statistics of heat exchange between two classical or quantum finite systems initially prepared at different temperatures are shown to obey a fluctuation theorem.",
+                "We describe a minimal model of an autonomous Maxwell demon, a device that delivers work by rectifying thermal fluctuations while simultaneously writing information to a memory register. We solve exactly for the steady-state behavior of our model, and we construct its phase diagram. We find that our device can also act as a \u201cLandauer eraser\u201d, using externally supplied work to remove information from the memory register. By exposing an explicit, transparent mechanism of operation, our model offers a simple paradigm for investigating the thermodynamics of information processing by small systems.",
+                "Most natural processes occur far from equilibrium and cannot be treated within the framework of classical thermodynamics. In 1998, Oono and Paniconi [Oono, Y. & Paniconi, M. (1998) Prog. Theor. Phys. Suppl. 130, 29\u201344] proposed a general phenomenological framework, steady-state thermodynamics, encompassing nonequilibrium steady states and transitions between such states. In 2001, Hatano and Sasa [Hatano, T. & Sasa, S. (2001) Phys. Rev. Lett. 86, 3463\u20133466] derived a testable prediction of this theory. Specifically, they were able to show that the exponential average of Y, a quantity similar to a dissipated work, should be equal to zero for arbitrary transitions between nonequilibrium steady states, \u2013ln<e\u2013Y> = 0. We have tested this strong prediction by measuring the dissipation and fluctuations of microspheres optically driven through water. We have found that \u2013ln<e\u2013Y> \u2248 0 for three different \u2026"
+            ],
+            [
+                [
+                    "Statistical Physics"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "nuqrAOUAAAAJ",
+            "Reto Trappitsch",
+            "Brandeis University",
+            "@brandeis.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=nuqrAOUAAAAJ",
+            733,
+            [
+                "Astrophysics",
+                "Stardust",
+                "Cosmochemistry",
+                "Cosmogenic Nuclides",
+                "Python"
+            ],
+            675,
+            14,
+            14,
+            19,
+            19,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"4r-qIHIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Andrew M. Davis",
+                    "affiliation":"Professor of the Geophysical Sciences, University of Chicago"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"uejn4nYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Thomas Stephan",
+                    "affiliation":"Research Professor, The University of Chicago"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"dGoIdFgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Nan Liu",
+                    "affiliation":"Research Assistant Professor, Department of Physics, Washington University in St. Louis"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"2xSNJXMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Falk Herwig",
+                    "affiliation":"University of Victoria"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ZZZorWwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Chris Fryer",
+                    "affiliation":"Los Alamos National Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"73_vNzQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Umberto Battino",
+                    "affiliation":"University of Edinburgh"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ZGlZ6DUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Nicolas Dauphas",
+                    "affiliation":"Professor, The University of Chicago"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"j2pfsAYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Philipp R. Heck",
+                    "affiliation":"Robert A. Pritzker Associate Curator, The Field Museum of Natural History"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Qo26UaMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Matthias M. M. Meier",
+                    "affiliation":"Head of Collections & Research, Curator of Earth Sciences, Naturmuseum St.Gallen"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"G0lBdrAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Patrick Boehnke",
+                    "affiliation":"Data Scientist"
+                }
+            ]
+        ]
+    ]
+}

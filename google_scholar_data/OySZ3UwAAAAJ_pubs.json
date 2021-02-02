@@ -1,0 +1,116 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3
+    ],
+    "data":[
+        [
+            "Tag identification is an important tool in RFID systems with applications for monitoring and tracking. A RFID reader recognizes tags through communication over a shared wireless channel. When multiple tags transmit their IDs simultaneously, the tag-to-reader signals collide and this collision disturbs a reader's identification process. Therefore, tag collision arbitration for passive tags is a significant issue for fast identification. This paper presents two adaptive tag anticollision protocols: an adaptive query splitting protocol (AQS), which is an improvement on the query tree protocol, and an adaptive binary splitting protocol (ABS), which is based on the binary tree protocol and is a de facto standard for RFID anticollision protocols. To reduce collisions and identify tags efficiently, adaptive tag anticollision protocols use information obtained from the last process of tag identification. Our performance evaluation shows that \u2026",
+            "Tag-splitting: adaptive collision arbitration protocols for RFID tag identification",
+            "Jihoon Myung and Wonjun Lee and Jaideep Srivastava and Timothy K Shih",
+            "2007",
+            "OySZ3UwAAAAJ:h-xndbdg2koC",
+            310,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/4180344\/",
+            "2830508087454860795",
+            "\/scholar?cites=2830508087454860795",
+            {
+                "2006":1,
+                "2007":5,
+                "2008":16,
+                "2009":29,
+                "2010":37,
+                "2011":37,
+                "2012":23,
+                "2013":29,
+                "2014":26,
+                "2015":33,
+                "2016":21,
+                "2017":18,
+                "2018":16,
+                "2019":10,
+                "2020":5
+            }
+        ],
+        [
+            "Wireless networks have evolved from 1G to 4G networks, allowing smart devices to become important tools in daily life. The 5G network is a revolutionary technology that can change consumers' Internet use habits, as it creates a truly wireless environment. It is faster, with better quality, and is more secure. Most importantly, users can truly use network services anytime, anywhere. With increasing demand, the use of bandwidth and frequency spectrum resources is beyond expectations. This paper found that the frequency spectrum and network information have considerable relevance; thus, spectrum utilization and channel flow interactions should be simultaneously considered. We considered that software defined radio (SDR) and software defined networks (SDNs) are the best solution. We propose a cross-layer architecture combining SDR and SDN characteristics. As the simulation evaluation results suggest, the \u2026",
+            "Integration of SDR and SDN for 5G",
+            "Hsin-Hung Cho and Chin-Feng Lai and Timothy K Shih and Han-Chieh Chao",
+            "2014",
+            "OySZ3UwAAAAJ:cCmJLe1CRJUC",
+            150,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6895241\/",
+            "2124076827165649109",
+            "\/scholar?cites=2124076827165649109",
+            {
+                "2015":18,
+                "2016":25,
+                "2017":43,
+                "2018":20,
+                "2019":18,
+                "2020":22,
+                "2021":1
+            }
+        ],
+        [
+            "A radio frequency identification (RFID) reader recognizes objects through wireless communications with RFID tags. Tag collision arbitration for passive tags is a significant issue for fast tag identification due to communication over a shared wireless channel. This paper presents an adaptive memoryless protocol, which is an improvement on the query tree protocol. Memoryless means that tags need not have additional memory except ID for identification. To reduce collisions and identify tags promptly, we use information obtained from the last process of tag identification at a reader. Our performance evaluation shows that the adaptive memoryless protocol causes fewer collisions and takes shorter delay for recognizing all tags while preserving lower communication overhead than other tree based tag anticollision protocols",
+            "An adaptive memoryless protocol for RFID tag collision arbitration",
+            "Jihoon Myung and Wonjun Lee and Timothy K Shih",
+            "2006",
+            "OySZ3UwAAAAJ:1YatL4jblGcC",
+            126,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/1703522\/",
+            "12068677833788615707",
+            "\/scholar?cites=12068677833788615707",
+            {
+                "2007":4,
+                "2008":17,
+                "2009":12,
+                "2010":12,
+                "2011":18,
+                "2012":12,
+                "2013":12,
+                "2014":7,
+                "2015":10,
+                "2016":7,
+                "2017":6,
+                "2018":6,
+                "2019":2
+            }
+        ],
+        [
+            "Game-based learning activities that facilitate students' listening and speaking skills were designed in this study. To participate in learning activities, students in the control group used traditional methods, while students in the experimental group used a mobile system. In our study, we looked into the feasibility of mobile game-based learning activities. One experiment was carried out and the results revealed that the experimental-group students significantly outperformed the control-group students on the verbal post-test. However, the performance of the two groups was equal on the listening post-test. Two variables (the average score for the interactive jigsaw game and the number of designed cards) were found to be the most important factors for influencing students' performance in the verbal post-test. Furthermore, most students had positive perceptions toward learning activities that are supported by a mobile \u2026",
+            "Evaluating listening and speaking skills in a mobile game-based learning environment with situational contexts",
+            "Wu-Yuin Hwang and Timothy K Shih and Zhao-Heng Ma and Rustam Shadiev and Shu-Yu Chen",
+            "2016",
+            "OySZ3UwAAAAJ:KQ7zX_ltr48C",
+            110,
+            "https:\/\/www.tandfonline.com\/doi\/abs\/10.1080\/09588221.2015.1016438",
+            "6926525860337629989",
+            "\/scholar?cites=6926525860337629989",
+            {
+                "2015":2,
+                "2016":6,
+                "2017":13,
+                "2018":21,
+                "2019":21,
+                "2020":36,
+                "2021":6
+            }
+        ]
+    ]
+}

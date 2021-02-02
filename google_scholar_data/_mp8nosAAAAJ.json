@@ -1,0 +1,102 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "_mp8nosAAAAJ",
+            "Audrius Brazdeikis",
+            "University of Houston",
+            "@uh.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=_mp8nosAAAAJ",
+            874,
+            [
+                "Physics",
+                "Nanomedicine",
+                "Bioengineering"
+            ],
+            306,
+            16,
+            10,
+            27,
+            10,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"_QdXxPIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ching-Wu Chu",
+                    "affiliation":"University of Houston"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"qOht0PsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Paolo Decuzzi",
+                    "affiliation":"Fondazione Istituto Italiano di Tecnologia - Italian Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"HwQQGhgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Arturas Vailionis",
+                    "affiliation":"Director, X-ray Lab, Stanford University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"wtJ5no0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"T. Randall Lee",
+                    "affiliation":"Professor, Associate Dean for Research, University of Houston"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"1WRnbpkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gyu Leem",
+                    "affiliation":"State University of New York - College of Environmental Science and Forestry"
+                }
+            ]
+        ]
+    ]
+}

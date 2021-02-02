@@ -1,0 +1,42 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "AIPYUT4B",
+            "ni6hdSgAAAAJ",
+            [
+                "Five parametric resonances in a microelectromechanical system",
+                "Design and modeling of a high-speed AFM-scanner",
+                "Effect of cubic nonlinearity on auto-parametrically amplified resonant MEMS mass sensor",
+                "A batch fabricated biomimetic dry adhesive",
+                "Nonlinear dynamics and its applications in micro-and nanoresonators",
+                "Generalized parametric resonance in electrostatically actuated microelectromechanical oscillators"
+            ],
+            [
+                "The Mathieu equation 1 governs the forced motion of a swing 2, the stability of ships 3 and columns 4, Faraday surface wave patterns on water 5, 6, the dynamics of electrons in Penning traps 7, and the behaviour of parametric amplifiers based on electronic 8 or superconducting devices 9. Theory predicts that parametric resonances occur near drive frequencies of 2\u03c9 0\/n, where \u03c9 0 is the system's natural frequency and n is an integer\u2a7e 1. But in macroscopic systems, only the first instability region can typically be observed, because of damping and the exponential narrowing 10 of the regions with increasing n. Here we report parametrically excited torsional oscillations in a single-crystal silicon microelectromechanical system. Five instability regions can be measured, due to the low damping, stability and precise frequency control achievable in this system. The centre frequencies of the instability regions agree with \u2026",
+                "A new mechanical scanner design for a high-speed atomic force microscope (AFM) is presented and discussed in terms of modeling and control. The positioning range of this scanner is 13 mum in the X- and Y-directions and 4.3 mum in the vertical direction. The lowest resonance frequency of this scanner is above 22 kHz. This paper is focused on the vertical direction of the scanner, being the crucial axis of motion with the highest precision and bandwidth requirements for gentle imaging with the AFM. A second- and a fourth-order mathematical model of the scanner are derived that allow new insights into important design parameters. Proportional-integral (Pl)-feedback control of the high-speed scanner is discussed and the performance of the new AFM is demonstrated by imaging a calibration grating and a biological sample at 8 frames\/s.",
+                "Parametric resonance has been well established in many areas of science, including the stability of ships, the forced motion of a swing and Faraday surface wave patterns on water. We have previously investigated a linear parametrically driven torsional oscillator and along with other groups have mentioned applications including mass sensing, parametric amplification, and others. Here, we thoroughly investigate the design of a highly sensitive mass sensor. The device we use to carry out this study is an in-plane parametrically resonant oscillator. We show that in this configuration, the nonlinearities (electrostatic and mechanical) have a large impact on the dynamic response of the structure. This result is not unique to this oscillator\u2014many MEMS oscillators display nonlinearities of equal importance (including the very common parallel plate actuator). We report the effects of nonlinearity on the behavior of parametric \u2026",
+                "The fine hair adhesive system found in nature is capable of reversibly adhering to just about any surface. This dry adhesive, best demonstrated in the pad of the gecko, makes use of a multilevel conformal structure to greatly increase inelastic surface contact, enhancing short range interactions and producing significant amounts of attractive forces. Recent work has attempted to reproduce and test the terminal submicrometre'hairs' of the system. Here we report the first batch fabricated multi-scale conformal system to mimic nature's dry adhesive. The approach makes use of massively parallel MEMS processing technology to produce 20\u2013150 \u00b5m platforms, supported by single slender pillars, and coated with~ 2 \u00b5m long,~ 200 nm diameter, organic looking polymer nanorods, or'organorods'. To characterize the structures a new mesoscale nanoindenter adhesion test technique has been developed. Experiments indicate \u2026",
+                "This paper describes past developments, ongoing work, and a vision of future topics for a research area with a relatively short history\u2014the application and exploitation of nonlinear dynamic behavior in micro-and nanoelectromechanical systems (M\/NEMS). M\/NEMS resonators are commonly used for applications such as sensing, signal processing, switching, and timing. Many of these implementations are driven by the recognition that some purely electrical components can be advantageously replaced by electromechanical analogs. The benefits of such an approach include smaller size, lower damping, and improved performance metrics. These devices offer the desirable feature of being easily integrated with solid-state circuits, thus enabling the development of integrated circuit (IC) chips with integrated mechanical and electrical functionality. The transition to electromechanical components requires that analysts \u2026",
+                "This paper investigates the dynamic response of a class of electrostatically driven microelectromechanical (MEM) oscillators. The particular systems of interest are those which feature parametric excitation that arises from forces produced by fluctuating voltages applied across comb drives. These systems are known to exhibit a wide range of behaviors, some of which have escaped explanation or prediction. In this paper we examine a general governing equation of motion for these systems and use it to provide a complete description of the dynamic response and its dependence on the system parameters. The defining feature of this equation is that both the linear and cubic terms feature parametric excitation which, in comparison to the case of purely linear parametric excitation (e.g. the Mathieu equation), significantly complicates the system's dynamics. One consequence is that an effective nonlinearity for the \u2026"
+            ],
+            [
+                [
+                    "MEMS",
+                    "microelectromechanical systems",
+                    "biomems",
+                    "nonlinear dynamics"
+                ]
+            ]
+        ]
+    ]
+}

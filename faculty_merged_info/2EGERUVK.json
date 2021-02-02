@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "2EGERUVK",
+            "CUcdUnYAAAAJ",
+            [
+                "Optical spin injection and spin lifetime in Ge heterostructures",
+                "Global flux surface hopping approach for mixed quantum-classical dynamics",
+                "Nonadiabatic molecular dynamics for thousand atom systems: A tight-binding approach toward pyxaid",
+                "Stretchable nanolasing from hybrid quadrupole plasmons",
+                "Auger-mediated electron relaxation is robust to deep hole traps: time-domain ab initio study of CdSe quantum dots",
+                "Observation of an excitonic quantum coherence in CdSe nanocrystals",
+                "Spin-dependent optical properties in strained silicon and germanium",
+                "Analysis of the trajectory surface hopping method from the markov state model perspective",
+                "Model for describing plasmonic nanolasers using Maxwell-Liouville equations with finite-difference time-domain calculations"
+            ],
+            [
+                "We demonstrate optical orientation in Ge\/SiGe quantum wells and study their spin properties. The ultrafast electron transfer from the center of the Brillouin zone to its edge allows us to achieve high spin polarizations and to resolve the spin dynamics of holes and electrons. The circular polarization degree of the direct gap photoluminescence exceeds the theoretical bulk limit, yielding\u223c 37% and\u223c 85% for transitions with heavy and light holes states, respectively. The spin lifetime of holes at the top of the valence band is estimated to be\u223c 0.5 ps and it is governed by transitions between light and heavy hole states. Electrons at the bottom of the conduction band, on the other hand, have a spin lifetime that exceeds 5 ns below 150 K. Theoretical analysis of the spin relaxation indicates that phonon-induced intervalley scattering dictates the spin lifetime of electrons.",
+                "A novel global flux surface hopping (GFSH) approach is proposed. In this method, the surface hopping probabilities rely on the gross population flow between states, rather than the state-to-state flux as in the standard fewest switches surface hopping (FSSH). GFSH captures the superexchange mechanism of population transfer, while FSSH lacks this capability. In other aspects, including minimization of the number of hops, internal consistency, velocity rescaling, and detailed balance, the GFSH algorithm is similar to FSSH. The advantages of GFSH are demonstrated with a model 3-level system and an Auger process in a semiconductor quantum dot. Current studies indicate that GFSH can replace FSSH, but further tests are needed.",
+                "Excited state dynamics at the nanoscale requires treatment of systems involving hundreds and thousands of atoms. In the majority of cases, depending on the process under investigation, the electronic structure component of the calculation constitutes the computation bottleneck. We developed an efficient approach for simulating nonadiabatic molecular dynamics (NA-MD) of large systems in the framework of the self-consistent charge density functional tight binding (SCC-DFTB) method. SCC-DFTB is combined with the fewest switches surface hopping (FSSH) and decoherence induced surface hopping (DISH) techniques for NA-MD. The approach is implemented within the Python extension for the ab initio dynamics (PYXAID) simulation package, which is an open source NA-MD program designed to handle nanoscale materials. The accuracy of the developed approach is tested with ab initio DFT and \u2026",
+                "This paper reports a robust and stretchable nanolaser platform that can preserve its high mode quality by exploiting hybrid quadrupole plasmons as an optical feedback mechanism. Increasing the size of metal nanoparticles in an array can introduce ultrasharp lattice plasmon resonances with out-of-plane charge oscillations that are tolerant to lateral strain. By patterning these nanoparticles onto an elastomeric slab surrounded by liquid gain, we realized reversible, tunable nanolasing with high strain sensitivity and no hysteresis. Our semiquantum modeling demonstrates that lasing build-up occurs at the hybrid quadrupole electromagnetic hot spots, which provides a route toward mechanical modulation of light-matter interactions on the nanoscale.",
+                "By slowing down electron\u2013phonon relaxation in nanoscale materials, one can increase efficiencies of solar energy conversion via hot electron extraction, multiple exciton generation, and elimination of exciton trapping. The elusive phonon bottleneck is hard to achieve, in particular, due to Auger-type energy exchange between electrons and holes. The Auger channel can be suppressed by hole trapping. Using time-domain ab initio simulation, we show that deep hole traps cannot fully eliminate the Auger channel. The simulations show that the hole-mediated electron relaxation is slowed down only by about 30%, which is in agreement with the recent experiments. The Auger energy exchange and hole relaxation to the trap state occur on similar time scales. Hole trapping is slow, because holes themselves experience a weak bottleneck effect. The study establishes the fundamental mechanisms of the electron and \u2026",
+                "Recent observations of excitonic coherences within photosynthetic complexes suggest that quantum coherences could enhance biological light harvesting efficiencies. Here, we employ optical pump\u2013probe spectroscopy with few-femtosecond pulses to observe an excitonic quantum coherence in CdSe nanocrystals, a prototypical artificial light harvesting system. This coherence, which encodes the high-speed migration of charge over nanometer length scales, is also found to markedly alter the displacement amplitudes of phonons, signaling dynamics in the non-Born\u2013Oppenheimer regime.",
+                "We present a comprehensive theory of spin-dependent optical transitions and their dependence on strain in Si and Ge. Symmetries of wave functions and interactions are used to derive concise ratios between intensities of the right and left circularly polarized luminescence for each of the dominant phonon-assisted optical transitions. These ratios are then used to explain the circular polarization degrees of the luminescence peaks in the spectra of biaxially strained Si and Ge, and of relaxed Si 1\u2212 x Ge x alloys. The spectra are numerically calculated by a combination of an empirical pseudopotential method, an adiabatic bond-charge model, and a rigid-ion model.",
+                "We analyze the applicability of the seminal fewest switches surface hopping (FSSH) method of Tully to modeling quantum transitions between electronic states that are not coupled directly, in the processes such as Auger recombination. We address the known deficiency of the method to describe such transitions by introducing an alternative definition for the surface hopping probabilities, as derived from the Markov state model perspective. We show that the resulting transition probabilities simplify to the quantum state populations derived from the time-dependent Schr\u00f6dinger equation, reducing to the rapidly switching surface hopping approach of Tully and Preston. The resulting surface hopping scheme is simple and appeals to the fundamentals of quantum mechanics. The computational approach is similar to the FSSH method of Tully, yet it leads to a notably different performance. We demonstrate that the method \u2026",
+                "We present a theoretical study of lasing action when plasmonic metallic structures that show lattice plasmon resonances are embedded in a gain medium. Our model combines classical electrodynamics for arrays of gold nanoparticles with a four-level quantum Liouville model of the laser dye photophysics. A numerical solution was implemented using finite-difference time-domain calculations coupled with a finite-difference solution to the Liouville equation. A particular focus of this work is the influence of dephasing in the quantum dynamics on the emission intensity at the threshold for lasing. We find that dephasing in the quantum system leads to reduced lasing emission, but with little effect on the long-term population inversion. Both electronic and vibrational dephasing is considered, but only electronic dephasing is significant, with the fully dephased result appearing for dephasing times comparable to plasmon \u2026"
+            ],
+            [
+                [
+                    "Physics",
+                    "Quantum Optics",
+                    "Non-adiabatic Molecular Dynamics",
+                    "Spintronics",
+                    "Quantum Chemistry"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "TXKUOEKV",
+            "60Wn3gYAAAAJ",
+            [
+                "Stimulated and spontaneous optical generation of electron spin coherence in charged GaAs quantum dots",
+                "Ultrafast optical rotations of electron spins in quantum dots",
+                "Quantum control of a spin qubit coupled to a photonic crystal cavity",
+                "Proposal for optical U (1) rotations of electron spin trapped in a quantum dot",
+                "An adaptive variational algorithm for exact molecular simulations on a quantum computer",
+                "Theory of fast optical spin rotation in a quantum dot based on geometric phases and trapped states",
+                "Optical spin initialization and nondestructive measurement in a quantum dot molecule",
+                "Optically generated 2-dimensional photonic cluster state from coupled quantum dots",
+                "Selective Optical Control of Electron Spin Coherence in Singly Charged GaAs\u2212 Al 0.3 Ga 0.7 As Quantum Dots",
+                "Unified theory of consequences of spontaneous emission in a \u039b system"
+            ],
+            [
+                "We report on the coherent optical excitation of electron spin polarization in the ground state of charged GaAs quantum dots via an intermediate charged exciton (trion) state. Coherent optical fields are used for the creation and detection of the Raman spin coherence between the spin ground states of the charged quantum dot. The measured spin decoherence time, which is likely limited by the nature of the spin ensemble, approaches 10 ns at zero field. We also show that the Raman spin coherence in the quantum beats is caused not only by the usual stimulated Raman interaction but also by simultaneous spontaneous radiative decay of either excited trion state to a coherent combination of the two spin states.",
+                "Coherent manipulation of quantum bits (qubits) on timescales much shorter than the coherence time 1, 2 is a key prerequisite for quantum information processing. Electron spins in quantum dots are particularly attractive for implementations of qubits, and efficient optical methods for initialization and readout of spins have been developed in recent years 3, 4. Spin coherence times in the microsecond range have been demonstrated 5. Therefore, spin control by picosecond optical pulses would be highly desirable so that a large number of spin rotations could be carried out while coherence is maintained. A major remaining challenge is demonstration of such rotations with high fidelity. Here, we use an ensemble of quantum-dot electron spins focused into a small number of precession modes about a magnetic field by periodic optical pumping. We demonstrate ultrafast optical rotations of spins about arbitrary axes on a \u2026",
+                "A key ingredient for a quantum network is an interface between stationary quantum bits and photons, which act as flying qubits for interactions and communication. Photonic crystal architectures are promising platforms for enhancing the coupling of light to solid-state qubits. Quantum dots can be integrated into a photonic crystal, with optical transitions coupling to photons and spin states forming a long-lived quantum memory. Many researchers have now succeeded in coupling these emitters to photonic crystal cavities, but there have been no demonstrations of a functional spin qubit and quantum gates in this environment. Here, we have developed a coupled cavity\u2013quantum dot system in which the dot is controllably charged with a single electron. We perform the initialization, rotation and measurement of a single electron spin qubit using laser pulses, and find that the cavity can significantly improve these processes.",
+                "We present a proposal to optically implement rotations of the electron spin in a quantum dot about the growth direction (z axis). In particular, we make use of the analytic properties of sech pulses in two-level systems to realize spin rotations about the growth direction by an arbitrary angle, for which we give an analytical expression. We propose to use this scheme to experimentally demonstrate this spin rotation. Using realistic system and pulse parameters we find the fidelity of the rotation to be more than 96% for pulses in the picosecond regime, and robust against small errors in pulse parameters. We design a feedback (adaptive) loop to correct for errors originating from unintended dynamics. The rotation is still evident\u2014albeit with a large fidelity loss\u2014in the ensemble case, providing the possibility of demonstration of this optical spin rotation in an ensemble of quantum dots.",
+                "Quantum simulation of chemical systems is one of the most promising near-term applications of quantum computers. The variational quantum eigensolver, a leading algorithm for molecular simulations on quantum hardware, has a serious limitation in that it typically relies on a pre-selected wavefunction ansatz that results in approximate wavefunctions and energies. Here we present an arbitrarily accurate variational algorithm that, instead of fixing an ansatz upfront, grows it systematically one operator at a time in a way dictated by the molecule being simulated. This generates an ansatz with a small number of parameters, leading to shallow-depth circuits. We present numerical simulations, including for a prototypical strongly correlated molecule, which show that our algorithm performs much better than a unitary coupled cluster approach, in terms of both circuit depth and chemical accuracy. Our results highlight the \u2026",
+                "A method is proposed for the optical rotation of the spin of an electron in a quantum dot using excited trion states to implement operations significantly faster than those of most existing proposals. Key ingredients are the geometric phase induced by 2 \u03c0 hyperbolic secant pulses, use of coherently trapped states and use of naturally dark states. Our proposal covers a variety of quantum dots by addressing different parameter regimes. Numerical simulations with typical parameters for InAs self-assembled quantum dots, including their dissipative dynamics, give fidelities of the operations in excess of 99%.",
+                "The spin of an electron in a self-assembled quantum dot molecule is optically prepared and measured through the trion triplet states. A longitudinal magnetic field is used to tune two of the trion states into resonance, forming a superposition state through asymmetric spin exchange. As a result, spin-flip Raman transitions can be used for optical spin initialization, while separate trion states enable cycling transitions for nondestructive measurement. With two-laser transmission spectroscopy we demonstrate both operations simultaneously, something not previously accomplished in a single quantum dot.",
+                "We propose a method to generate a two-dimensional cluster state of polarization encoded photonic qubits from two coupled quantum dot emitters. We combine the proposal for generating one-dimensional cluster state strings from a single dot, with a new proposal for an induced conditional phase gate between the two quantum dots. The entanglement between the two dots translates to entanglement between the two photonic cluster state strings. Further interpair coupling of the quantum dots using cavities and waveguides can lead to a two-dimensional cluster sheet, the importance of which stems from the fact that it is a universal resource for quantum computation. Analysis of errors indicates that our proposal is feasible with current technology. Crucially, the emitted photons need not have identical frequencies, and so there are no constraints on the resonance energies for the quantum dots.",
+                "Coherent transient excitation of the spin ground states in singly charged quantum dots creates optically coupled and decoupled states of the electron spin. We demonstrate selective excitation from the spin ground states to the trion state through phase sensitive control of the spin coherence via these three states, leading to partial rotations of the spin vector. This progress lays the ground work for achieving complete ultrafast spin rotations.",
+                "In a \u039b system with two nearly degenerate ground states and one excited state in an atom or quantum dot, spontaneous radiative decay can lead to a range of phenomena, including electron-photon entanglement, spontaneously generated coherence, and two-pathway decay. We show that a treatment of the radiative decay as a quantum evolution of a single physical system composed of a three-level electron subsystem and photons leads to a range of consequences depending on the electron-photon interaction and the measurement. Different treatments of the emitted photon channel the electron-photon system into a variety of final states. The theory is not restricted to the three-level system."
+            ],
+            [
+                [
+                    "quantum information",
+                    "condensed matter",
+                    "quantum optics",
+                    "VT Physics"
+                ]
+            ]
+        ]
+    ]
+}

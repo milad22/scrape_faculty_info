@@ -1,0 +1,39 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "J5RK8KFO",
+            "FTx_BNsAAAAJ",
+            [
+                "Drawing graphs: methods and models",
+                "DIALIGN-TX: greedy and progressive approaches for segment-based multiple sequence alignment",
+                "DIALIGN-T: an improved algorithm for segment-based multiple sequence alignment",
+                "Drawing high degree graphs with low bend numbers",
+                "Embedding vertices at points: Few bends suffice for planar graphs"
+            ],
+            [
+                "Graph drawing comprises all aspects of visualizing structural relations between objects. The range of topics dealt with extends from graph theory, graph algorithms, geometry, and topology to visual languages, visual perception, and information visualization, and to computer-human interaction and graphics design. This monograph gives a systematic overview of graph drawing and introduces the reader gently to the state of the art in the area. The presentation concentrates on algorithmic aspects, with an emphasis on interesting visualization problems with elegant solutions. Much attention is paid to a uniform style of writing and presentation, consistent terminology, and complementary coverage of the relevant issues throughout the 10 chapters. This tutorial is ideally suited as an introduction for newcomers to graph drawing. Ambitioned practitioners and researchers active in the area will find it a valuable source of reference and information.",
+                "DIALIGN-T is a reimplementation of the multiple-alignment program DIALIGN. Due to several algorithmic improvements, it produces significantly better alignments on locally and globally related sequence sets than previous versions of DIALIGN. However, like the original implementation of the program, DIALIGN-T uses a a straight-forward greedy approach to assemble multiple alignments from local pairwise sequence similarities. Such greedy approaches may be vulnerable to spurious random similarities and can therefore lead to suboptimal results. In this paper, we present DIALIGN-TX, a substantial improvement of DIALIGN-T that combines our previous greedy algorithm with a progressive alignment approach. Our new heuristic produces significantly better alignments, especially on globally related sequences, without increasing the CPU time and memory consumption exceedingly. The new method is based on a guide tree; to detect possible spurious sequence similarities, it employs a vertex-cover approximation on a conflict graph. We performed benchmarking tests on a large set of nucleic acid and protein sequences For protein benchmarks we used the benchmark database BALIBASE 3 and an updated release of the database IRMBASE 2 for assessing the quality on globally and locally related sequences, respectively. For alignment of nucleic acid sequences, we used BRAliBase II for global alignment and a newly developed database of locally related sequences called DIRM-BASE 1. IRMBASE 2 and DIRMBASE 1 are constructed by implanting highly conserved motives at random positions in long unalignable sequences. On \u2026",
+                "We present a complete re-implementation of the segment-based approach to multiple protein alignment that contains a number of improvements compared to the previous version 2.2 of DIALIGN. This previous version is superior to Needleman-Wunsch-based multi-alignment programs on locally related sequence sets. However, it is often outperformed by these methods on data sets with global but weak similarity at the primary-sequence level. In the present paper, we discuss strengths and weaknesses of DIALIGN in view of the underlying objective function. Based on these results, we propose several heuristics to improve the segment-based alignment approach. For pairwise alignment, we implemented a fragment-chaining algorithm that favours chains of low-scoring local alignments over isolated high-scoring fragments. For multiple alignment, we use an improved greedy procedure that is less sensitive to spurious local sequence similarities. To evaluate our method on globally related protein families, we used the well-known database BAliBASE. For benchmarking tests on locally related sequences, we created a new reference database called IRMBASE which consists of simulated conserved motifs implanted into non-related random sequences. On BAliBASE, our new program performs significantly better than the previous version of DIALIGN and is comparable to the standard global aligner CLUSTAL W, though it is outperformed by some newly developed programs that focus on global alignment. On the locally related test sets in IRMBASE, our method outperforms all other programs that we evaluated.",
+                "We consider the problem of drawing plane graphs with an arbitrarily high vertex degree orthogonally into the plane such that the number of bends on the edges should be minimized. It has been known how to achieve the bend minimum without any restriction of the size of the vertices. Naturally, the vertices should be represented by uniformly small squares. In addition we might require that each face should be represented by a non-empty region. This would allow a labeling of the faces. We present an efficient algorithm which provably achieves the bend minimum following these constraints. Omitting the latter requirement we conjecture that the problem becomes NP-hard. For that case we give advices for good approximations. We demonstrate the effectiveness of our approaches giving some interesting examples.",
+                "The existing literature gives efficient algorithms for mapping trees or less restrictively outerplanar graphs on a given set of points in a plane, so that the edges are drawn planar and as straight lines. We relax the latter requirement and allow very few bends on each edge while considering general plane graphs. Our results show two algorithms for mapping four-connected plane graphs with at most one bend per edge and for mapping general plane graphs with at most two bends per edge. Furthermore we give a point set, where for arbitrary plane graphs it is NP-complete to decide whether there is an mapping such that each edge has at most one bend."
+            ],
+            [
+                [
+                    "Geometric algorithms",
+                    "Graph drawing",
+                    "Combinatorial algorithms"
+                ]
+            ]
+        ]
+    ]
+}

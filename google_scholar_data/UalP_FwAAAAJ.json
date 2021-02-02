@@ -1,0 +1,124 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "UalP_FwAAAAJ",
+            "Paul A. Haynes",
+            "Professor and Director of Higher Degree Research, Department of Molecular Sciences",
+            "@mq.edu.au",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=UalP_FwAAAAJ",
+            9633,
+            [
+                "Plant and Environmental Proteomics"
+            ],
+            3261,
+            51,
+            30,
+            116,
+            79,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"7znfQ3IAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ghasem Hosseini Salekdeh",
+                    "affiliation":"Professor of Systems Biology (ABRII & Royan Inst), Honorary Professor (Macquarie University)"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"iokeItAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Steve Van Sluyter",
+                    "affiliation":"SIEF John Stocker Postdoctoral Fellow, Macquarie University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"mnE0VG0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Matteo Marangon",
+                    "affiliation":"Associate Professor - DAFNAE - Universit\u00e0 di Padova - Italy"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"HKLrcQ8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Leonidas G. Koniaris",
+                    "affiliation":"Indiana University, Simon Cancer Center"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"20oOZCgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Wolfram Weckwerth",
+                    "affiliation":"Professor, Head of Department and Vienna Metabolomics Center (VIME) at the University of Vienna"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"DGECT9UAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Giles Best, Ph.D.",
+                    "affiliation":"Postdoctoral Research Scientist, University of Sydney"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Yx5hx44AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tong Zhu",
+                    "affiliation":"Syngenta Crop Protection, LLC."
+                }
+            ]
+        ]
+    ]
+}

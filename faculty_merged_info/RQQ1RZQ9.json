@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "RQQ1RZQ9",
+            "5XnK14gAAAAJ",
+            [
+                "Empirical characteristics of dynamic trading strategies: The case of hedge funds",
+                "Chaos and nonlinear dynamics: application to financial markets",
+                "The risk in hedge fund strategies: Theory and evidence from trend followers",
+                "Nonlinear Dynamics, Chaos, and Instability: Statistical Theory and Economic Inference",
+                "Hedge fund benchmarks: A risk-based approach",
+                "Performance characteristics of hedge funds and commodity funds: Natural vs. spurious biases",
+                "Testing for nonlinear dependence in daily foreign exchange rates",
+                "Modeling heteroscedasticity in daily foreign-exchange rates",
+                "An exploratory investigation of the firm size effect",
+                "The statistical properties of daily foreign exchange rates: 1974\u20131983"
+            ],
+            [
+                "This article presents some new results on an unexplored dataset on hedge fund performance. The results indicate that hedge funds follow strategies that are dramatically different from mutual funds, and support the claim that these strategies are highly dynamic. The article finds five dominant investment styles in hedge funds, which when added to  asset class factor model can provide an integrated framework for style analysis of both buy-and-hold and dynamic trading strategies.",
+                "After the stock market crash of October 19, 1987, interest in nonlinear dynamics, especially deterministic chaotic dynamics, has increased in both the financial press and the academic literature. This has come about because the frequency of large moves in stock markets is greater than would be expected under a normal distribution. There are a number of possible explanations. A popular one is that the stock market is governed by chaotic dynamics. What exactly is chaos and how is it related to nonlinear dynamics? How does one detect chaos? Is there chaos in financial markets? Are there other explanations of the movements of financial prices other than chaos? The purpose of this paper is to explore these issues.",
+                "Hedge fund strategies typically generate option-like returns. Linear-factor models using benchmark asset indices have difficulty explaining them. Following the suggestions in , this article shows how to model hedge fund returns by focusing on the popular \u201ctrend-following\u201d strategy. We use lookback straddles to model trend-following strategies, and show that they can explain trend-following funds\u2019 returns better than standard asset indices. Though standard straddles lead to similar empirical results, lookback straddles are theoretically closer to the concept of trend following. Our model should be useful in the design of performance benchmarks for trend-following funds.",
+                "Chaos theory has touched on such fields as biology, cognitive science, and physics. By providing a unified and complete explanation of new statistical methods that are useful for testing for chaos in data sets, Brock, Hsieh, and LeBaron show how the principles of chaos theory can be applied to such areas of economics and finance as the changing structure of stock returns and nonlinearity in foreign exchange. They use computer models extensively to illustrate their ideas and explain this frontier research at a level of rigor sufficient for others to build upon as well as to verify the soundness of their arguments. The authors, who have played a major role in developing basic testing methods that are effective in detecting chaos and other nonlinearities, provide a detailed exposition of empirical techniques for identifying evidence of chaos. They introduce and describe the BDS statistic, an easy-to-use test that detects the existence of potentially forecastable structure, nonstationarity, or hidden patterns in time-series data and that can be adapted to test for the adequacy of fit of forecasting models. An extensive performance evaluation of the BDS is included. Nonlinear Dynamics, Chaos, and Instability also reviews important issues in the theoretical economics literature on chaos and complex dynamics, surveys existing work on the detection of chaos and nonlinear structure, and develops models and processes to discover predictable sequencing in time-series data, such as stock returns, that currently appear random. William A. Brock is Vilas Research Professor of Economics and Blake LeBaron is Assistant Professor of Economics, both at the University of \u2026",
+                "Following a review of the data and methodological difficulties in applying conventional models used for traditional asset class indexes to hedge funds, this article argues against the conventional approach. Instead, in an extension of previous work on asset-based style (ABS) factors, the article proposes a model of hedge fund returns that is similar to models based on arbitrage pricing theory, with dynamic risk-factor coefficients. For diversified hedge fund portfolios (as proxied by indexes of hedge funds and funds of hedge funds), the seven ABS factors can explain up to 80 percent of monthly return variations. Because ABS factors are directly observable from market prices, this model provides a standardized framework for identifying differences among major hedge fund indexes that is free of the biases inherent in hedge fund databases. ",
+                "It is well known that the pro forma performance of a sample of investment funds contains biases. These biases are documented in Brown, Goetzmann, Ibbotson, and Ross (1992) using mutual funds as subjects. The organization structure of hedge funds, as private and often offshore vehicles, makes data collection a much more onerous task, amplifying the impact of performance measurement biases. This paper reviews these biases in hedge funds. We also propose using funds-of-hedge funds to measure aggregate hedge fund performance, based on the idea that the investment experience of hedge fund investors can be used to estimate the performance of hedge funds.",
+                "The purpose of this article is to investigate whether daily changes in five major foreign exchange rates contain any nonlinearities. Although the data contain no linear correlation, evidence indicates the presence of substantial nonlinearity in a multiplicative rather than additive form. Further examination reveals that a generalized autoregressive conditional heteroskedasticity (GARCH) model can explain a large part of the nonlinearities for all five exchange rates.",
+                "This article estimates autoregressive conditionally heteroscedastic (ARCH) and generalized ARCH (GARCH) models for five foreign currencies, using 10 years of daily data, a variety of ARCH and GARCH specifications, a number of nonnormal error densities, and a comprehensive set of diagnostic checks. It finds that ARCH and GARCH models can usually remove all heteroscedasticity in price changes in all five currencies. Goodness-of-fit diagnostics indicate that exponential GARCH with certain nonnormal distributions fits the Canadian dollar extremely well and the Swiss franc and the deutsche mark reasonably well. Only one nonnormal distribution fits the Japanese yen reasonably well. None fit the British pound.",
+                "We investigate the firm size effect for the period 1958 to 1977 in the framework of a multi-factor pricing model. The risk-adjusted difference in returns between the top five percent and the bottom five percent of the NYSE firms is about one to two percent a year, a drop from about twelve percent per year before risk adjustment. The variable most responsible for the adjustment is the sensitivity of asset returns to the changing risk premium, measured by the return difference between low-grade bonds and long-term government bonds.",
+                "This paper examines the statistical properties of daily rates of change of five foreign currencies from 1974 to 1983. The main purpose is to discriminate between two competing explanations for the observed heavy tails of the distribution: that the data are independently drawn from a heavy tail distribution which remains fixed over time, and that the data come from distributions which vary over time. Evidence point to the rejection of the first hypothesis. Further investigations show that the rejection can be attributed to changing means and variances in the data, which can be described by a simple statistical model."
+            ],
+            [
+                [
+                    "Economics",
+                    "Econometrics",
+                    "Finance",
+                    "Statistics"
+                ]
+            ]
+        ]
+    ]
+}

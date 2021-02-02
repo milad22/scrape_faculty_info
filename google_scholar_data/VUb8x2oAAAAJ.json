@@ -1,0 +1,54 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "VUb8x2oAAAAJ",
+            "al amin kabir",
+            "Hampton University",
+            "@hamptonu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=VUb8x2oAAAAJ",
+            72,
+            [
+                "Nuclear Physics",
+                "Optics",
+                "Radio Astronomy"
+            ],
+            71,
+            2,
+            2,
+            1,
+            1,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"cdLbJ7QAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Douglas W. Higinbotham",
+                    "affiliation":"Jefferson Lab"
+                }
+            ]
+        ]
+    ]
+}

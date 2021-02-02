@@ -1,0 +1,64 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "SSj8p2gAAAAJ",
+            "Levon V. Asryan",
+            "Professor",
+            "@vt.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=SSj8p2gAAAAJ",
+            2561,
+            [
+                "Theory of semiconductor quantum dot lasers and quantum well lasers"
+            ],
+            651,
+            25,
+            14,
+            44,
+            25,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"jjaLkJYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Robert Suris",
+                    "affiliation":"Ioffe Institute at Russian Academy of Sciences"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"PIwdzBcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Serge Luryi",
+                    "affiliation":"Distinguished Professor of Electrical Engineering, Stony Brook University"
+                }
+            ]
+        ]
+    ]
+}

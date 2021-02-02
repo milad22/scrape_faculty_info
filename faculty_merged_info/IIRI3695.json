@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "IIRI3695",
+            "BFa7Xo0AAAAJ",
+            [
+                "Particle-turbulence interactions in atmospheric clouds",
+                "Preferential concentration of cloud droplets by turbulence: Effects on the early evolution of cumulus cloud droplet spectra",
+                "Heterogeneous surface crystallization observed in undercooled water",
+                "Evaporation freezing by contact nucleation inside\u2010out",
+                "Can we understand clouds without turbulence?",
+                "Scale-dependent droplet clustering in turbulent clouds",
+                "Inertial clustering of particles in high-Reynolds-number turbulence",
+                "Heterogeneous freezing of droplets with immersed mineral dust particles\u2013measurements and parameterization",
+                "Heterogeneous ice nucleation: exploring the transition from stochastic to singular freezing behavior",
+                "Homogeneous and inhomogeneous mixing in cumulus clouds: Dependence on local turbulence structure"
+            ],
+            [
+                "Turbulence is ubiquitous in atmospheric clouds, which have enormous turbulence Reynolds numbers owing to the large range of spatial scales present. Indeed, the ratio of energy-containing and dissipative length scales is on the order of 105 for a typical convective cloud, with a corresponding large-eddy Reynolds number on the order of 106 to 107. A characteristic trait of high-Reynolds-number turbulence is strong intermittency in energy dissipation, Lagrangian acceleration, and scalar gradients at small scales. Microscale properties of clouds are determined to a great extent by thermodynamic and fluid-mechanical interactions between droplets and the surrounding air, all of which take place at small spatial scales. Furthermore, these microscale properties of clouds affect the efficiency with which clouds produce rain as well as the nature of their interaction with atmospheric radiation and chemical \u2026",
+                "A mechanism is presented, based on the inherent turbulent nature of cumulus clouds, for the broadening of cloud droplet spectra during condensational growth. This mechanism operates independent of entrainment and, therefore, can operate in adiabatic cloud cores. Cloud droplets of sufficient size are not randomly dispersed in a cloud but are preferentially concentrated in regions of low vorticity in the turbulent flow field. Regions of high vorticity (low droplet concentration) develop higher supersaturation than regions of low vorticity (high droplet concentration). Therefore, on small spatial scales cloud droplets are growing in a strongly fluctuating supersaturation field. These fluctuations in supersaturation exist independent of large-scale vertical velocity fluctuations. Droplets growing in regions of high vorticity will experience enhanced growth rates, allowing some droplets to grow larger than predicted by the classic \u2026",
+                "We report laboratory observations of higher freezing temperatures when an ice-forming nucleus is near the surface of an undercooled water drop than when the nucleus is immersed in the drop. The nucleation rate at the water surface is a factor of 1010 greater than in bulk water, thereby complementing and providing evidence for homogeneous surface crystallization, which has been hypothesized recently. Interpretation of the data via classical nucleation theory shows that the free energy of formation of a critical ice germ is decreased by a factor of approximately 2 when the substrate is near the air\u2212water interface. Furthermore, the analysis suggests that the jump frequency of molecules from the liquid to the solid may be greatly enhanced at the interface. ",
+                "Ice formation in atmospheric clouds is crucial to our understanding of precipitation and cloud radiative properties. In recent work it was shown that heterogeneous ice nucleation rates can be strongly enhanced by a form of surface crystallization (Shaw et al., 2005). Here we present new laboratory data and consider the implications for contact nucleation and its relevance to ice nucleation in atmospheric clouds. Our observations contradict three leading hypotheses for contact nucleation and suggest, instead, that the notion of contact nucleation should be generalized to include surface crystallization from particles contacting a supercooled drop from the inside out, as well as from the outside in. Our findings lead to the hypothesis that the freezing temperature of an evaporating drop will suddenly become higher once the drop surface contacts an immersed ice nucleus. This mechanism for evaporation freezing is \u2026",
+                "Advances at the interface between atmospheric and turbulence research are helping to elucidate fundamental properties of clouds.",
+                "The current understanding of fundamental processes in atmospheric clouds, such as nucleation, droplet growth, and the onset of precipitation (collision-coalescence), is based on the assumption that droplets in undiluted clouds are distributed in space in a perfectly random manner, ie droplet positions are independently distributed with uniform probability. We have analysed data from a homogeneous cloud core to test this assumption and gain an understanding of the nature of droplet transport. This is done by examining one-dimensional cuts through clouds, using a theory originally developed for x-ray scattering by liquids, and obtaining statistics of droplet spacing. The data reveal droplet clustering even in cumulus cloud cores free of entrained ambient air. By relating the variance of droplet counts to the integral of the pair correlation function, we detect a systematic, scale-dependent clustering signature. The \u2026",
+                "We report experimental evidence of spatial clustering of dense particles in homogenous, isotropic turbulence at high Reynolds numbers. The dissipation-scale clustering becomes stronger as the Stokes number increases and is found to exhibit similarity with respect to the droplet Stokes number over a range of experimental conditions (particle diameter and turbulent energy dissipation rate). These findings are in qualitative agreement with recent theoretical and computational studies of inertial particle clustering in turbulence. Because of the large Reynolds numbers a broad scaling range of particle clustering due to turbulent mixing is present, and the inertial clustering can clearly be distinguished from that due to mixing of fluid particles.",
+                " During the measurement campaign FROST (FReezing Of duST), LACIS (Leipzig Aerosol Cloud Interaction Simulator) was used to investigate the immersion freezing behavior of size selected, coated and uncoated Arizona Test Dust (ATD) particles with a mobility diameter of 300 nm. Particles were coated with succinic acid (C4H6O4), sulfuric acid (H2SO4) and ammonium sulfate ((NH4)2SO4). Ice fractions at mixed-phase cloud temperatures ranging from 233.15 K to 239.15 K (\u00b10.60 K) were determined for all types of particles. In this temperature range, pure ATD particles and those coated with C4H6O4 or small amounts of H2SO4 were found to be the most efficient ice nuclei (IN). ATD particles coated with (NH4)2SO4 were the most inefficient IN. Since the supercooled droplets were highly diluted before freezing occurred, a freezing point suppression due to the soluble material on the particles (and therefore in the droplets) cannot explain this observation. Therefore, it is reasonable to assume that the coatings lead to particle surface alterations which cause the differences in the IN abilities. Two different theoretical approaches based on the stochastic and the singular hypotheses were applied to clarify and parameterize the freezing behavior of the particles investigated. Both approaches describe the experimentally determined results, yielding parameters that can subsequently be used to compare our results to those from other studies. However, we cannot clarify at the current state which of the two approaches correctly describes the investigated immersion freezing process. But both approaches confirm the assumption that the coatings lead to \u2026",
+                " Heterogeneous ice nucleation, a primary pathway for ice formation in the atmosphere, has been described alternately as being stochastic, in direct analogy with homogeneous nucleation, or singular, with ice nuclei initiating freezing at deterministic temperatures. We present an idealized, conceptual model to explore the transition between stochastic and singular ice nucleation. This \"soccer ball\" model treats particles as being covered with surface sites (patches of finite area) characterized by different nucleation barriers, but with each surface site following the stochastic nature of ice embryo formation. The model provides a phenomenological explanation for seemingly contradictory experimental results obtained in our research groups. Even with ice nucleation treated fundamentally as a stochastic process this process can be masked by the heterogeneity of surface properties, as might be typical for realistic atmospheric particle populations. Full evaluation of the model findings will require experiments with well characterized ice nucleating particles and the ability to vary both temperature and waiting time for freezing.",
+                "Baker, M.,, RG Corbin,, and J. Latham, 1980: The influence of entrainment on the evolution of cloud drop spectra: I. A model of inhomogeneous mixing. Quart. J. Roy. Meteor. Soc., 106, 581\u2013598."
+            ],
+            [
+                [
+                    "atmospheric physics",
+                    "turbulence",
+                    "cloud physics",
+                    "nucleation",
+                    "holography"
+                ]
+            ]
+        ]
+    ]
+}

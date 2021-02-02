@@ -1,0 +1,88 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "qyy8Sy0AAAAJ",
+            "Frank G. Schr\u00f6der",
+            "University of Delaware",
+            "@udel.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=qyy8Sy0AAAAJ",
+            15661,
+            [
+                "Astroparticle Physics: Radio Detection of Cosmic Ray Air Showers"
+            ],
+            9886,
+            57,
+            47,
+            134,
+            111,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"etWvM4cAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Andreas Haungs",
+                    "affiliation":"KIT - Karlsruhe Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"vCgmAukAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tim Huege",
+                    "affiliation":"Karlsruhe Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"bWgc6xMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Heino Falcke",
+                    "affiliation":"Professor of Astroparticle Physics and Radio Astronomy, Radboud University, Nijmegen"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"oTjxfx8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Olaf Scholten",
+                    "affiliation":"Professor of Physics, KVI, University of Groningen"
+                }
+            ]
+        ]
+    ]
+}

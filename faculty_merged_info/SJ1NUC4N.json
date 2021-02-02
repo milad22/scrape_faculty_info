@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "SJ1NUC4N",
+            "BbCLCQIAAAAJ",
+            [
+                "Towards the development of flexible non\u2010volatile memories",
+                "An overview of the development of flexible sensors",
+                "Recent advances in black phosphorus-based photonics, electronics, sensors and energy devices",
+                "Photonic synapses based on inorganic perovskite quantum dots for neuromorphic computing",
+                "Layer\u2010by\u2010layer\u2010assembled reduced graphene oxide\/gold nanoparticle hybrid double\u2010floating\u2010gate structure for low\u2010voltage flexible flash memory",
+                "Synergies of electrochemical metallization and valance change in all\u2010inorganic perovskite quantum dots for resistive switching",
+                "Microcontact printing of ultrahigh density gold nanoparticle monolayer for flexible flash memories",
+                "An upconverted photonic nonvolatile memory",
+                "Nonvolatile multilevel data storage memory device from controlled ambipolar charge trapping mechanism",
+                "Fluorinated phosphorene: electrochemical synthesis, atomistic fluorination, and enhanced stability"
+            ],
+            [
+                "Flexible non\u2010volatile memories have attracted tremendous attentions for data storage for future electronics application. From device perspective, the advantages of flexible memory devices include thin, lightweight, printable, foldable and stretchable. The flash memories, resistive random access memories (RRAM) and ferroelectric random access memory\/ferroelectric field\u2010effect transistor memories (FeRAM\/FeFET) are considered as promising candidates for next generation non\u2010volatile memory device. Here, we review the general background knowledge on device structure, working principle, materials, challenges and recent progress with the emphasis on the flexibility of above three categories of non\u2010volatile memories.",
+                "Flexible sensors that efficiently detect various stimuli relevant to specific environmental or biological species have been extensively studied due to their great potential for the Internet of Things and wearable electronics applications. The application of flexible and stretchable electronics to device\u2010engineering technologies has enabled the fabrication of slender, lightweight, stretchable, and foldable sensors. Here, recent studies on flexible sensors for biological analytes, ions, light, and pH are outlined. In addition, contemporary studies on device structure, materials, and fabrication methods for flexible sensors are discussed, and a market overview is provided. The conclusion presents challenges and perspectives in this field.",
+                "In the past several years, two-dimensional black phosphorus (BP) has captured the research community's interest because of its unique electronic, photonic, and mechanical properties. Remarkable efforts have been made regarding the synthesis, fundamental understanding, and applications of BP in the fields of nanoelectronics, nanophotonics, and optoelectronics. In this review, we summarize the recent developments in the study of BP, which covers the state-of-the-art synthesis methods for preparing single-layer or few-layer BP, the recent advances in characterizing its electronic, optical and mechanical properties, and the reported functional devices utilizing such properties. Finally we discuss the existing challenges in developing BP-based nanoelectronics and optoelectronics, and describe the prospects for future BP-related research.",
+                "Inspired by the biological neuromorphic system, which exhibits a high degree of connectivity to process huge amounts of information, photonic memory is expected to pave a way to overcome the von Neumann bottleneck for nonconventional computing. Here, a photonic flash memory based on all\u2010inorganic CsPbBr3 perovskite quantum dots (QDs) is demonstrated. The heterostructure formed between the CsPbBr3 QDs and semiconductor layer serves as a basis for optically programmable and electrically erasable characteristics of the memory device. Furthermore, synapse functions including short\u2010term plasticity, long\u2010term plasticity, and spike\u2010rate\u2010dependent plasticity are emulated at the device level. The photonic potentiation and electrical habituation are implemented and the synaptic weight exhibits multiple wavelength response from 365, 450, 520 to 660 nm. These results may locate the stage for further \u2026",
+                "A hybrid double\u2010floating\u2010gate flexible memory device by utilizing an rGO\u2010sheet monolayer and a Au NP array as upper and lower floating gates is reported. The rGO buffer layer acts as a charge\u2010trapping layer and introduces an energy barrier between the Au NP lower floating gate and the channel. The proposed memory device demonstrates a strong improvement in both field\u2010effect\u2010transistor (FET) and memory characteristics.",
+                "The in\u2010depth understanding of ions' generation and movement inside all\u2010inorganic perovskite quantum dots (CsPbBr3 QDs), which may lead to a paradigm to break through the conventional von Neumann bottleneck, is strictly limited. Here, it is shown that formation and annihilation of metal conductive filaments and Br\u2212 ion vacancy filaments driven by an external electric field and light irradiation can lead to pronounced resistive\u2010switching effects. Verified by field\u2010emission scanning electron microscopy as well as energy\u2010dispersive X\u2010ray spectroscopy analysis, the resistive switching behavior of CsPbBr3 QD\u2010based photonic resistive random\u2010access memory (RRAM) is initiated by the electrochemical metallization and valance change. By coupling CsPbBr3 QD\u2010based RRAM with a p\u2010channel transistor, the novel application of an RRAM\u2013gate field\u2010effect transistor presenting analogous functions of flash memory is \u2026",
+                "A uniform monolayer of alkanethiol\u2010protected gold nanoparticle arrays with ultrahigh density have been used as microcontact\u2010printable charge\u2010trapping layers for the application in flexible flash memories. The new devices are compared to two reference devices with a floating gate created by thermal evaporation and electrostatic self\u2010assembly, and show a large memory window, long retention times and good endurance properties.",
+                "Conventional flash memory devices are voltage driven and found to be unsafe for confidential data storage. To ensure the security of the stored data, there is a strong demand for developing novel nonvolatile memory technology for data encryption. Here we show a photonic flash memory device, based on upconversion nanocrystals, which is light driven with a particular narrow width of wavelength in addition to voltage bias. With the help of near-infrared light, we successfully manipulate the multilevel data storage of the flash memory device. These upconverted photonic flash memory devices exhibit high ON\/OFF ratio, long retention time and excellent rewritable characteristics.",
+                "The capability of storing multi-bit information is one of the most important challenges in memory technologies. An ambipolar polymer which intrinsically has the ability to transport electrons and holes as a semiconducting layer provides an opportunity for the charge trapping layer to trap both electrons and holes efficiently. Here, we achieved large memory window and distinct multilevel data storage by utilizing the phenomena of ambipolar charge trapping mechanism. As fabricated flexible memory devices display five well-defined data levels with good endurance and retention properties showing potential application in printed electronics.",
+                "Phosphorene has attracted great interest due to its unique electronic and optoelectronic properties owing to its tunable direct and moderate band\u2010gap in association with high carrier mobility. However, its intrinsic instability in air seriously hinders its practical applications, and problems of technical complexity and in\u2010process degradation exist in currently proposed stabilization strategies. A facile pathway in obtaining and stabilizing phosphorene through a one\u2010step, ionic liquid\u2010assisted electrochemical exfoliation and synchronous fluorination process is reported in this study. This strategy enables fluorinated phosphorene (FP) to be discovered and large\u2010scale, highly selective few\u2010layer FP (3\u22126 atomic layers) to be obtained. The synthesized FP is found to exhibit unique morphological and optical characteristics. Possible atomistic fluorination configurations of FP are revealed by core\u2010level binding energy shift \u2026"
+            ],
+            [
+                [
+                    "memristor",
+                    "flash memory",
+                    "sensor",
+                    "transistor",
+                    "neuromorphic computing"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "WTK2IA7K",
+            "pEnxwCMAAAAJ",
+            [
+                "Statistical mechanics of money",
+                "Exponential and power-law probability distributions of wealth and income in the United Kingdom and the United States",
+                "Colloquium: Statistical mechanics of money, wealth, and income",
+                "Evidence for the exponential distribution of income in the USA",
+                "Probability distribution of returns in the Heston model with stochastic volatility",
+                "Fractional ac Josephson effect in p-and d-wave superconductors",
+                "Midgap edge states and pairing symmetry of quasi-one-dimensional organic superconductors",
+                "Temporal evolution of the \u201cthermal\u201d and \u201csuperthermal\u201d income classes in the USA during 1983\u20132001",
+                "Fractional charge, spin and statistics of solitons in superfluid 3He film",
+                "Parquet solution for a flat Fermi surface"
+            ],
+            [
+                "In a closed economic system, money is conserved. Thus, by analogy with energy, the equilibrium probability distribution of money must follow the exponential Boltzmann-Gibbs law characterized by an effective temperature equal to the average amount of money per economic agent. We demonstrate how the Boltzmann-Gibbs distribution emerges in computer simulations of economic models. Then we consider a thermal machine, in which the difference of temperatures allows one to extract a monetary profit. We also discuss the role of debt, and models with broken time-reversal symmetry for which the Boltzmann-Gibbs law does not hold. The instantaneous distribution of money among the agents of a system should not be confused with the distribution of wealth. The latter also includes material wealth, which is not conserved, and thus may have a different (e.g. power-law) distribution.",
+                "We present the data on wealth and income distributions in the United Kingdom, as well as on the income distributions in the individual states of the USA. In all of these data, we find that the great majority of population is described by an exponential distribution, whereas the high-end tail follows a power law. The distributions are characterized by a dimensional scale analogous to temperature. The values of temperature are determined for the UK and the USA, as well as for the individual states of the USA.",
+                "This Colloquium reviews statistical models for money, wealth, and income distributions developed in the econophysics literature since the late 1990s. By analogy with the Boltzmann-Gibbs distribution of energy in physics, it is shown that the probability distribution of money is exponential for certain classes of models with interacting economic agents. Alternative scenarios are also reviewed. Data analysis of the empirical distributions of wealth and income reveals a two-class distribution. The majority of the population belongs to the lower class, characterized by the exponential (\u201cthermal\u201d) distribution, whereas a small fraction of the population in the upper class is characterized by the power-law (\u201csuperthermal\u201d) distribution. The lower part is very stable, stationary in time, whereas the upper part is highly dynamical and out of equilibrium.",
+                "Using tax and census data, we demonstrate that the distribution of individual income in the USA is exponential. Our calculated Lorenz curve without fitting parameters and Gini coefficient 1\/2 agree well with the data. From the individual income distribution, we derive the distribution function of income for families with two earners and show that it also agrees well with the data. The family data for the period 1947-1994 fit the Lorenz curve and Gini coefficient 3\/8 = 0.375 calculated for two-earners families.",
+                "We study the Heston model, where the stock price dynamics is governed by a geometrical (multiplicative) Brownian motion with stochastic variance. We solve the corresponding Fokker\u2010Planck equation exactly and, after integrating out the variance, find an analytic formula for the time\u2010dependent probability distribution of stock price changes (returns). The formula is in excellent agreement with the Dow\u2010Jones index for time lags from 1 to 250 trading days. For large returns, the distribution is exponential in log\u2010returns with a time\u2010dependent exponent, whereas for small returns it is Gaussian. For time lags longer than the relaxation time of variance, the probability distribution can be expressed in a scaling form using a Bessel function. The Dow\u2010Jones data for 1982\u20132001 follow the scaling function for seven orders of magnitude.",
+                "For certain orientations of Josephson junctions between two p  x -wave or two d-wave superconductors, the subgap Andreev bound states produce a -periodic relation between the Josephson current I and the phase difference : . Consequently, the ac Josephson current has the fractional frequency , where V is the dc voltage. In the tunneling limit, the Josephson current is proportional to the first power (not square) of the electron tunneling amplitude. Thus, the Josephson current between unconventional superconductors is carried by single electrons, rather than by Cooper pairs. The fractional ac Josephson effect can be observed experimentally by measuring frequency spectrum of microwave radiation from the junction. We also study junctions between singlet s-wave and triplet p  x -wave, as well as between chiral -wave \u2026",
+                "The singlets s\u2212 and d\u2212, and triplet p-wave pairing symmetries in quasi-one-dimensional organic superconductors can be experimentally discriminated by probing the Andreev bound states at the sample edges. These states have the energy in the middle of the superconducting gap and manifest themselves as a zero-bias peak in tunneling conductance into the corresponding edge. Their existence is related to the sign change of the pairing potential around the Fermi surface. We present an exact self-consistent solution of the edge problem showing the presence of the midgap states for p x-wave superconductivity. The spins of the edge state respond paramagnetically to a magnetic field parallel to the vector d that characterizes triplet pairing.",
+                "Personal income distribution in the USA has a well-defined two-class structure. The majority of population (97\u201399%) belongs to the lower class characterized by the exponential Boltzmann-Gibbs (\" thermal\") distribution, whereas the upper class (1\u20133% of the population) has a Pareto power law (\" superthermal\") distribution. By analyzing income data for 1983\u20132001, we show that the\" thermal\" part is stationary in time, save for a gradual increase of the effective temperature, whereas the\" superthermal\" tail swells and shrinks following the stock market. We discuss the concept of equilibrium inequality in a society, based on the principle of maximal entropy, and quantitatively show that it applies to the majority of population.",
+                "The topological Chern-Simons term with the parameter theta= n pi exists in the superfluid 3 He-A thin film, where an integer parameter n may be odd or even depending on the thickness of the film. The particle like soliton in 3 He-A film (so-called skyrmion) with integer topological charge Q has spin s= nQh (cross)\/2 and obeys Fermi-Dirac quantum statistics at odd Q and n. The topological term in action leads to specific quantised Hall effect for spin current in 3 He-A. In the planar phase of the 3 He film the non-singular 4 pi spin disclination has the fractional fermion charge 1\/2 n which corresponds to the fractional electric charge 1\/2 en for the disclination in the planar state superconductor. The spin disclination in the 3 He-A 1 film has both the fractional spin 1\/4 h (cross) n and fractional charge 1\/4 n.",
+                "We study instabilities occurring in the electron system whose Fermi surface has flat regions on its opposite sides. Such a Fermi surface resembles Fermi surfaces of some high-T c superconductors. In the framework of the parquet approximation, we classify possible instabilities and derive renormalization-group equations that determine the evolution of corresponding susceptibilities with decreasing temperature. Numerical solutions of the parquet equations are found to be in qualitative agreement with a ladder approximation. For the repulsive Hubbard interaction, the antiferromagnetic (spin-density-wave) instability dominates, but when the Fermi surface is not perfectly flat, the d-wave superconducting instability takes over."
+            ],
+            [
+                [
+                    "condensed matter theory",
+                    "econophysics"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4
+    ],
+    "data":[
+        [
+            " \u2013 The purpose of this paper is to study lightweight security scheme for Internet of Things (IoT) applications using Constrained Application Protocol (CoAP). Resource-constrained characteristics of IoT systems have ushered in compelling requirements for lightweight application protocol and security suites. CoAP has already been established as the candidate protocol for IoT systems. However, low overhead security scheme for CoAP is still an open problem. Existing security solutions like Datagram Transport Layer Security (DTLS) is not suitable, particularly due to its expensive handshaking, public key infrastructure (PKI)-based authentication and lengthy ciphersuite agreement process.  \u2013 This paper proposes a lightweight security scheme in CoAP using Advanced Encryption Standard (AES) 128 symmetric key algorithm. The \u2026",
+            "Lightweight security scheme for IoT applications using CoAP",
+            "Arijit Ukil and Soma Bandyopadhyay and Abhijan Bhattacharyya and Arpan Pal and Tulika Bose",
+            "2014",
+            "IY8ZatYAAAAJ:d1gkVwhDpl0C",
+            30,
+            "https:\/\/www.emerald.com\/insight\/content\/doi\/10.1108\/IJPCC-01-2014-0002\/full\/html",
+            "10541362861438497139",
+            "\/scholar?cites=10541362861438497139",
+            {
+                "2015":2,
+                "2016":4,
+                "2017":4,
+                "2018":7,
+                "2019":7,
+                "2020":5
+            }
+        ],
+        [
+            "Secure yet lightweight protocol for communication over the Internet is a pertinent problem for constrained environments in the context of Internet of Things (IoT) \/ Machine to Machine (M2M) applications. This paper extends the initial approaches published in [1], [2] and presents a novel cross-layer lightweight implementation to establish a secure channel. It distributes the responsibility of communication over secure channel in between the application and transport layers. Secure session establishment is performed using a payload embedded challenge response scheme over the Constrained Application Protocol (CoAP) [3]. Record encryption mechanism of Datagram Transport Layer Security (DTLS) [4] with Pre-Shared Key (PSK) [5] is used for encrypted exchange of application layer data. The secure session credentials derived from the application layer is used for encrypted exchange over the transport layer. The \u2026",
+            "LESS: Lightweight establishment of secure session: A cross-layer approach using CoAP and DTLS-PSK channel encryption",
+            "Abhijan Bhattacharyya and Tulika Bose and Soma Bandyopadhyay and Arijit Ukil and Arpan Pal",
+            "2015",
+            "IY8ZatYAAAAJ:2osOgNQ5qMEC",
+            23,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7096256\/",
+            "374061104487646804",
+            "\/scholar?cites=374061104487646804",
+            {
+                "2016":5,
+                "2017":5,
+                "2018":4,
+                "2019":3,
+                "2020":6
+            }
+        ],
+        [
+            "IoT (Internet of Things) systems are resource-constrained and primarily depend on sensors for contextual, physiological and behavioral information. Sensitive nature of sensor data incurs high probability of privacy breaching risk due to intended or malicious disclosure. Uncertainty about privacy cost while sharing sensitive sensor data through Internet would mostly result in overprovisioning of security mechanisms and it is detrimental for IoT scalability. In this paper, we propose a novel method of optimizing the need for IoT security enablement, which is based on the estimated privacy risk of shareable sensor data. Particularly, our scheme serves two objectives, viz. privacy risk assessment and optimizing the secure transmission based on that assessment. The challenges are, firstly, to determine the degree of privacy, and evaluate a privacy score from the fine-grained sensor data and, secondly, to preserve the \u2026",
+            "Why not keep your personal data secure yet private in IoT?: Our lightweight approach",
+            "Tulika Bose and Soma Bandyopadhyay and Arijit Ukil and Abhijan Bhattacharyya and Arpan Pal",
+            "2015",
+            "IY8ZatYAAAAJ:9yKSN-GCB0IC",
+            20,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7106942\/",
+            "2019522946200530897",
+            "\/scholar?cites=2019522946200530897",
+            {
+                "2016":2,
+                "2017":7,
+                "2018":4,
+                "2019":2,
+                "2020":4
+            }
+        ],
+        [
+            "In Internet of Things (IoT), numerous and diverse types of sensors generate a plethora of data that needs to be stored and processed with minimum loss of information. This demands efficient compression mechanisms where loss of information is minimized. Hence data generated by diverse sensors with different signal features require optimum balance between compression gain and information loss. This paper presents a unique analysis of contemporary lossy compression algorithms applied on real field sensor data with different sensor dynamics. The aim of the work is to classify the compression algorithms based on the signal characteristics of sensor data and to map them to different sensor data types to ensure efficient compression. The present work is the stepping stone for a future recommender system to choose the preferred compression techniques for the given type of sensor data.",
+            "Signal characteristics on sensor data compression in IoT-an investigation",
+            "Tulika Bose and Soma Bandyopadhyay and Sudhir Kumar and Abhijan Bhattacharyya and Arpan Pal",
+            "2016",
+            "IY8ZatYAAAAJ:Y0pCki6q_DkC",
+            19,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7733016\/",
+            "4154462823045842978",
+            "\/scholar?cites=4154462823045842978",
+            {
+                "2017":2,
+                "2018":7,
+                "2019":8,
+                "2020":2
+            }
+        ],
+        [
+            "The resource constrained characteristic of M2M systems has made secure channel establishment for sensor data communication a challenging task. While the proposed Constrained Application Protocol (CoAP) from Internet Engineering Task Force (IETF) enables lightweight application layer for sensor devices and gateways, lightweight security protocol on DTLS-secured CoAP (CoAPs) is still not optimally achieved. CoAPs proposes different modes of security starting from pre-shared key to certificate mode. This paper investigates the performance of the payload embedded novel authentication and key management mechanism proposed by the authors, which is robust in nature, compared to pre-shared key mode CoAPs, as well as lightweight. The proposed scheme can be integrated in future with pre-shared key mode of DTLS to reinforce DTLS for mutual authentication. We prove efficacy of our proposed \u2026",
+            "Auth-lite: lightweight M2Mauthentication reinforcing DTLS for CoAp",
+            "Arijit Ukil and Soma Bandyopadhyay and Abhijan Bhattacharyya and Arpan Pal and Tulika Bose",
+            "2014",
+            "IY8ZatYAAAAJ:u-x6o8ySG0sC",
+            15,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6815204\/",
+            "9118372589453189660",
+            "\/scholar?cites=9118372589453189660",
+            {
+                "2014":2,
+                "2015":3,
+                "2016":3,
+                "2017":3,
+                "2018":2,
+                "2019":2
+            }
+        ]
+    ]
+}

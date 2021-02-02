@@ -1,0 +1,54 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "7DWSCGgAAAAJ",
+            "David G. Harrison",
+            "Professor of Medicine, Vanderbilt University",
+            "@vanderbilt.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=7DWSCGgAAAAJ",
+            84941,
+            [
+                "Cardiovascular biology",
+                "hypertension",
+                "vascular biology"
+            ],
+            19823,
+            147,
+            78,
+            398,
+            254,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"-9Pl-RAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michael E. Davis",
+                    "affiliation":"Professor of Biomedical Engineering"
+                }
+            ]
+        ]
+    ]
+}

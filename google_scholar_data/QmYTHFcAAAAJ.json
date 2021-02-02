@@ -1,0 +1,284 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "QmYTHFcAAAAJ",
+            "Jason M. Johnson",
+            "Dana-Farber Cancer Institute, Stanford, Harvard, Pfizer, Merck, PatientsLikeMe",
+            "@dfci.harvard.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=QmYTHFcAAAAJ",
+            15532,
+            [
+                "informatics",
+                "genomics",
+                "computational biomedicine",
+                "cancer",
+                "biomarkers"
+            ],
+            3935,
+            34,
+            23,
+            39,
+            28,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"8oKuQrEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"John C. Castle",
+                    "affiliation":"Chief Data Scientist, Monte Rosa Therapeutics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"J6l-FFEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Zhengyan 'George' Kan",
+                    "affiliation":"Director of Computational Biology, Pfizer Inc."
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"s18-KHUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Eric Schadt",
+                    "affiliation":"Professor of Genetics and Genomic Sciences, Mount Sinai School of Medicine"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"7baJjYIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Peter Linsley",
+                    "affiliation":"Associate Member Director | Systems Immunology Benaroya Research Institute at Virginia Mason 1201 Ninth Avenue | Seattle, WA 98101"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"_Iq2ra4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Patrick Loerch",
+                    "affiliation":"Merck & Co"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"x0VwsFsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tomas Babak",
+                    "affiliation":"Queen's University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"yX3ObW8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Thomas A Cooper",
+                    "affiliation":"Baylor College of Medicine"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"PApX2aoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"NELSON LAU",
+                    "affiliation":"Boston University School of Medicine, Dept Biochemistry,"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Tkd2hkcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Andrew Grimson",
+                    "affiliation":"Cornell University, Dept. of Molecular Biology and Genetics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"aLegzvoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David Bartel",
+                    "affiliation":"Professor of Biology, HHMI, MIT, Whitehead Institute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"CYIK72AAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Julja Burchard",
+                    "affiliation":"Director, Bioinformatics, Sera Prognostics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"KdIFkvUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Huda Zoghbi",
+                    "affiliation":"Professor Baylor College of Medicine"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"BI-prh8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Stephen Edwards",
+                    "affiliation":"RTI International"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"hWYleB8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Chaolin Zhang",
+                    "affiliation":"Columbia University Medical Center"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"SfDzdgEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"George Church",
+                    "affiliation":"Harvard Medical School"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"vZUFF7oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Brian Roberts",
+                    "affiliation":"Senior Scientist, HudsonAlpha Institute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"TT_duF0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"matteo pellegrini",
+                    "affiliation":"university of california Los Angeles"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"cTqUxxUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Andrew Kasarskis",
+                    "affiliation":"Chief Data Officer, Mount Sinai Health System"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"DUGvmakAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Enoch S. Huang",
+                    "affiliation":"Pfizer Inc"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"LQ6umroAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ciamac Moallemi",
+                    "affiliation":"Professor, Graduate School of Business, Columbia University"
+                }
+            ]
+        ]
+    ]
+}

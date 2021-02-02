@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "TH5R7743",
+            "U_agiyUAAAAJ",
+            [
+                "Existence of a photonic gap in periodic dielectric structures",
+                "Determination of effective permittivity and permeability of metamaterials from reflection and transmission coefficients",
+                "Electromagnetic parameter retrieval from inhomogeneous metamaterials",
+                "Magnetic response of metamaterials at 100 terahertz",
+                "Past achievements and future challenges in the development of three-dimensional photonic metamaterials",
+                "Direct laser writing of three-dimensional photonic-crystal templates for telecommunications",
+                "Negative refractive index at optical wavelengths",
+                "Photonic band gaps in three dimensions: new layer-by-layer periodic structures",
+                "Negative-index metamaterial at 780 nm wavelength",
+                "Magnetic metamaterials at telecommunication and visible frequencies"
+            ],
+            [
+                "Using a plane-wave expansion method, we have solved Maxwell\u2019s equations for the propagation of electromagnetic waves in a periodic lattice of dielectric spheres (dielectric constant \u03b5 a) in a uniform dielectric background (\u03b5 b). Contrary to experiment, we find that fcc dielectric structures do not have a \u2018\u2018photonic band gap\u2019\u2019that extends throughout the Brillouin zone. However, we have determined that dielectric spheres arranged in the diamond structure do possess a full photonic band gap. This gap exists for refractive-index contrasts as low as 2.",
+                "We analyze the reflection and transmission coefficients calculated from transfer matrix simulations on finite lengths of electromagnetic metamaterials, to determine the effective permittivity (\u025b) and permeability (\u03bc). We perform this analysis on structures composed of periodic arrangements of wires, split ring resonators (SRRs), and both wires and SRRs. We find the recovered frequency-dependent \u025b and \u03bc are entirely consistent with analytic expressions predicted by effective medium arguments. Of particular relevance are that a wire medium exhibits a frequency region in which the real part of \u025b is negative, and SRRs produce a frequency region in which the real part of \u03bc is negative. In the combination structure, at frequencies where both the recovered real parts of \u025b and \u03bc are simultaneously negative, the real part of the index of refraction is also found to be unambiguously negative.",
+                "We discuss the validity of standard retrieval methods that assign bulk electromagnetic properties, such as the electric permittivity \u03b5 and the magnetic permeability \u03bc, from calculations of the scattering (S) parameters for finite-thickness samples. S-parameter retrieval methods have recently become the principal means of characterizing artificially structured metamaterials, which, by nature, are inherently inhomogeneous. While the unit cell of a metamaterial can be made considerably smaller than the free space wavelength, there remains a significant variation of the phase across the unit cell at operational frequencies in nearly all metamaterial structures reported to date. In this respect, metamaterials do not rigorously satisfy an effective medium limit and are closer conceptually to photonic crystals. Nevertheless, we show here that a modification of the standard S-parameter retrieval procedure yields physically \u2026",
+                "An array of single nonmagnetic metallic split rings can be used to implement a magnetic resonance, which arises from an inductor-capacitor circuit (LC) resonance, at 100-terahertz frequency. The excitation of the LC resonance in the normal-incidence geometry used in our experiments occurs through the coupling of the electric field of the incident light to the capacitance. The measured optical spectra of the nanofabricated gold structures come very close to the theoretical expectations. Additional numerical simulations show that our structures exhibit a frequency range with negative permeability for a beam configuration in which the magnetic field couples to the LC resonance. Together with an electric response that has negative permittivity, this can lead to materials with a negative index of refraction.",
+                "Photonic metamaterials are man-made structures composed of tailored micro-or nanostructured metallodielectric subwavelength building blocks. This deceptively simple yet powerful concept allows the realization of many new and unusual optical properties, such as magnetism at optical frequencies, negative refractive index, large positive refractive index, zero reflection through impedance matching, perfect absorption, giant circular dichroism and enhanced nonlinear optical properties. Possible applications of metamaterials include ultrahigh-resolution imaging systems, compact polarization optics and cloaking devices. This Review describes recent progress in the fabrication of three-dimensional metamaterial structures and discusses some of the remaining challenges.",
+                "The past decade has witnessed intensive research efforts related to the design and fabrication of photonic crystals 1, 2. These periodically structured dielectric materials can represent the optical analogue of semiconductor crystals, and provide a novel platform for the realization of integrated photonics. Despite intensive efforts, inexpensive fabrication techniques for large-scale three-dimensional photonic crystals of high enough quality, with photonic bandgaps at near-infrared frequencies, and built-in functional elements for telecommunication applications, have been elusive. Direct laser writing by multiphoton polymerization 3 of a photoresist has emerged as a technique for the rapid, cheap and flexible fabrication of nanostructures for photonics. In 1999, so-called layer-by-layer 4 or woodpile photonic crystals were fabricated with a fundamental stop band at 3.9 \u03bcm wavelength 5. In 2002, a corresponding 1.9 \u03bcm \u2026",
+                "     Metamaterials are designed to have structures that provide optical properties not found in nature. If their capacity can be extended, new kinds of devices for imaging and control of light will be possible.   ",
+                "A new three-dimensional (3D) periodic dielectric structure constructed with layers of dielectric rods of circular, elliptical, or rectangular shape is introduced. This new structure possesses a full photonic band gap of appreciable frequency width. At midgap, an attenuation of 21 dB per unit cell is obtained. This gap remains open for refractive indices n \u2265 1.9. Furthermore, this new 3D layer structure potentially has the additional advantage that it can be easily fabricated using conventional microfabrication techniques on the scale of optical wavelengths.",
+                "We further miniaturize a recently established silver-based negative-index metamaterial design. By comparing transmittance, reflectance, and phase-sensitive time-of-flight experiments with theory, we infer a real part of the refractive index of \u22120.6 at a 780 nm wavelength\u2014which is visible in the laboratory.",
+                "Arrays of gold split rings with a 50-nm minimum feature size and with an L C resonance at 200 THz frequency (1.5 \u03bc m wavelength) are fabricated. For normal-incidence conditions, they exhibit a pronounced fundamental magnetic mode, arising from a coupling via the electric component of the incident light. For oblique incidence, a coupling via the magnetic component is demonstrated as well. Moreover, we identify a novel higher-order magnetic resonance at around 370 THz (800 nm wavelength) that evolves out of the Mie resonance for oblique incidence. Comparison with theory delivers good agreement and also shows that the structures allow for a negative magnetic permeability."
+            ],
+            [
+                [
+                    "Photonic Crystals",
+                    "Metamaterials",
+                    "Plasmonics",
+                    "Random Lasers",
+                    "Electron and Light Localization"
+                ]
+            ]
+        ]
+    ]
+}

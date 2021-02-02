@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "YLBUIS9O",
+            "NgNXV6MAAAAJ",
+            [
+                "The extreme ultraviolet imager investigation for the IMAGE mission",
+                "Numerical solution of 2-D scattering problems using high-order methods",
+                "A balloon lens: Acoustic scattering from a penetrable sphere",
+                "Dual-function EUV multilayer mirrors for the IMAGE mission",
+                "Highly reflective uranium mirrors for astrophysics applications",
+                "Design of bifunctional XUV multilayer mirrors using a genetic algorithm",
+                "Erosion rate diagnostics in ion thrusters using laser-induced fluorescence",
+                "The use of genetic algorithms in multilayer mirror optimization",
+                "3D method of moments scattering computations using the fast multipole method",
+                "Intense XUV source of radiation within the 4-to 45-nm spectral range based on capillary discharge plasmas"
+            ],
+            [
+                "The Extreme Ultraviolet Imager (EUV) of the IMAGE Mission will study the distribution of He+ in Earth\u2019s plasmasphere by detecting its resonantly-scattered emission at 30.4 nm. It will record the structure and dynamics of the cold plasma in Earth\u2019s plasmasphere on a global scale. The 30.4-nm feature is relatively easy to measure because it is the brightest ion emission from the plasmasphere, it is spectrally isolated, and the background at that wavelength is negligible. Measurements are easy to interpret because the plasmaspheric He+ emission is optically thin, so its brightness is directly proportional to the He+ column abundance. Effective imaging of the plasmaspheric He+ requires global\u2019 snapshots\u2019 in which the high apogee and the wide field of view of EUV provide in a single exposure a map of the entire plasmasphere. EUV consists of three identical sensor heads, each having a field of view 30\u00b0 in \u2026",
+                "We demonstrate that a method of moments scattering code employing high-order methods can compute accurate values for the scattering cross section of a smooth body more efficiently than a scattering code employing standard low-order methods. Use of a high-order code also makes it practical to provide meaningful accuracy estimates for computed solutions.",
+                "A balloon filled with a gas that has a different sound speed than that of air has been used as an acoustic lens. One purpose of the lens is to show refraction of sound waves in an analogy to geometric optics. We discuss the physics of the balloon lens demonstration. To determine the validity of a gas-filled balloon as a classroom demonstration of an acoustic lens and to understand the corresponding phenomena, its physics is considered analytically, numerically, and experimentally. Our results show that although a geometric analogy is a good first-order approximation, scattering theory is required to fully understand the observed phenomena. Thus this demonstration can be adapted to a wide range of students, from those learning the basic principles of refraction to advanced students studying scattering.",
+                "We have developed a new family of EUV multilayer mirror coatings using uranium. Using this approach we have coated a set of six mirrors for the EUV Imager, a component of the IMAGE mission. This mission is a Medium Explorer (MIDEX) program, which is scheduled for launch early in 2000. The EUV Imager will study the distribution of He+ in the Earth's plasmasphere by detecting its resonantly scattered emission at 30.4 nm (41 eV) and will produce images of the structure and dynamics of the cold plasma on a global scale. There is, however, a bright emission at 58.4 nm (21 eV), which comes from neutral helium in the earth's ionosphere which also must be blocked. These photons are at too high an energy to filter with aluminum but at too low an energy to have negligible reflectance from most materials commonly used in EUV mirrors. Thus, a multilayer system which satisfied two optical functions, high \u2026",
+                "The reported optical constants of uranium differ from that of vacuum significantly more than other elements do over the range of about 150 to 350 eV.  This suggests that uranium could be used to produce high reflectance imaging mirrors for many soft x-ray applications.  Elemental uranium is too chemically active to be used as a front surface mirror without protection. We computed the expected reflectance of carbon-coated uranium films and of uranium-nickel alloys for low-angle reflectors.  Carbon is mostly transparent below its K absorption edge at about 283 eV.  The reflectance at 10 degrees from grazing is computed to be greater than 50% at 277 eV (C K\u03b1).  For comparison, about 5 degrees is the maximum grazing incidence angle for which conventional materials are computed to have comparable reflectance.  We sputter deposited and measured the reflectance of carbon-coated uranium layers at 44.7 \u00c5 (C K\u03b1 \u2026",
+                "We designed multilayer mirrors for the IMAGE\/Explorer mission that were intended to reflect well at 304* and poorly at 584*. The best designs utilized the novel materials U and Y [TeX:] _2 O [TeX:] _3 with Al or Si as spacer layers. The highest design reflectivities were obtained with aperiodic multilayers, although these were too hard to grow in practice. We found these novel designs using a genetic algorithm calling on a database of 43 promising materials with the freedom of aperiodic multilayer stacks.",
+                "THE inherent low-thrust capability of ion thrusters gen-erally dictates long operating times ranging from 4000 to10,000 h, 1\" 4 depending upon thruster size and mission requirements. This, in turn, imposes a concomitant requirement on the lifetime of thruster components. It is generally regarded that the primary lifetime-limiting wear mechanism in xenon ion thrusters is charge-exchange ion erosion of the molybdenum accelerator electrode. 5\" 7 This wear process has been found to be far more significant than ion erosion of the cathode and the cathode-potential screen electrode, 6 as well as the anode potential surfaces of the discharge chamber. Due to the interest in near-term applications of high power (5 kW) xenon ion thrusters, such as space vehicle orbit raising, an accurate, real-time measurement of the wear rate of the accelerator electrode is critical to providing an assessment of thruster performance and \u2026",
+                "This paper describes the genetic algorithm applied to multilayer mirror optimization. An explanation of how genetic algorithms work is given and how this algorithm was applied to the design of bifunctional mirrors for the IMAGE Mission. This paper also discusses some findings that contradict previous design rules for multilayer mirrors. Some of these are: aperiodic mirrors performing better than periodic mirrors and an oxide producing a better design than a mirror with just elements as materials. Using the genetic algorithm, the best mirror design found for the IMAGE Mission was an aperiodic Y2O3\/Al 16 layer stack on SiO2. This design had a predicted reflectivity of 36% at 304 \u00c5 and. 2% at 584 \u00c5.",
+                "The fast multipole method (FMM) dramatically reduces the time and memory required to compute radar cross sections and antenna radiation patterns compared to dense matrix techniques. We have implemented the FMM in a method of moments (MoM) program to compute electromagnetic scattering from large bodies of arbitrary shape. We compare the memory and time required using the FMM to that for direct and iterative solutions using a dense impedance matrix.< >",
+                "A compact device, based on fast capillary discharge plasmas, is an intense EUV and soft x-ray source of radiation. Th plasma is created by a discharge of low-inductance capacitors through a gas-filled ceramic capillary. Parameters of the discharge are: maximum current of 25 kA at applied voltage 40 kV, a pulse duration of 20-30 ns at FWHM, and a rise time of 1.5 ns. The soft x-ray and EUV emission of multiply charged ions is investigated using a compact 1 meter grazing incidence spectrometer-monochromator with a constant angle of deviation. The use of various gases allows the observation of XUV spectra in a wide spectral range (4- 45 nm). A Xe-filled capillary discharge shows intense radiation near 13.5 nm - the region of interest for EUV lithography applications. A reflectometer is used for testing grazing incidence gratings."
+            ],
+            [
+                [
+                    "physics",
+                    "optics",
+                    "physics education",
+                    "extreme ultraviolet",
+                    "thin films"
+                ]
+            ]
+        ]
+    ]
+}

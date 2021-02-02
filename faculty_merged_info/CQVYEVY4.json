@@ -1,0 +1,36 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "CQVYEVY4",
+            "dwhsuPMAAAAJ",
+            [
+                "Low dimensional behavior of large systems of globally coupled oscillators",
+                "Principles of free-electron lasers",
+                "Self-focusing and Raman scattering of laser pulses in tenuous plasmas",
+                "Kinetic modeling of intense, short laser pulses propagating in tenuous plasmas"
+            ],
+            [
+                "It is shown that, in the infinite size limit, certain systems of globally coupled phase oscillators display low dimensional dynamics. In particular, we derive an explicit finite set of nonlinear ordinary differential equations for the macroscopic evolution of the systems considered. For example, an exact, closed form solution for the nonlinear time evolution of the Kuramoto problem with a Lorentzian oscillator frequency distribution function is obtained. Low dimensional behavior is also demonstrated for several prototypical extensions of the Kuramoto model, and time-delayed coupling is also considered.",
+                "It has been more than two decades since the publication of the second edition of Principles of Free-Electron Lasers, and it has become increasingly clear that both experimental and theoretical developments in the field have progressed far beyond the content of that prior edition. As a result, we judged it to be important to prepare a third edition to bring the material up to date. It is our intention in this regard to provide a comprehensive description of the present understanding of the principles, theory, and simulation techniques of the free-electron laser that can be used both as a reference work and a handbook. To that end, extensive derivations are given for the spontaneous emission, the single-particle orbits, and both the linear and nonlinear formulations of the interaction as a resource for the student or the experienced researcher in the field. However, we also provide useful formulae that can be used as a starting \u2026",
+                "The propagation of laser pulses of intensity which is large enough for relativistic self-focusing to occur is strongy affected by Raman instabilities. Both large and small angle scattering are important. The latter is the most severe since it couples with relativistic self-focusing leading the pulses to acquire significant axial and transverse structure in a time of the order of the self-focusing time. This prevents smooth self-focused pulses propagation for distances longer than the Rayleigh length except for pulse duration of the order of the plasma period.",
+                "Fast time averaged equations are derived for the motion of particles and the generation of electromagnetic wake fields under the action of the ponderomotive potential of an ultraintense laser pulse propagating through a tenuous plasma. Based on these averaged equations, a new particle code is designed which calculates the particle trajectories on the plasma period time scale. The regime of total cavitation of the plasma is investigated. It is found that stable propagation over a long distance is possible in this regime, and that energetic electrons are produced with a simple characteristic dependence of their angle of deflection on energy. This new code allows for computationally efficient modeling of pulse propagation over great distances."
+            ],
+            [
+                [
+                    "Plasma Physics",
+                    "Nonlinear Dynamics"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "IUEKDOOD",
+            "ELEsbCwAAAAJ",
+            [
+                "Imaging topological edge states in silicon photonics",
+                "Robust optical delay lines with topological protection",
+                "Topological photonics",
+                "Efficient all-optical switching using slow light within a hollow fiber",
+                "Slowing and stopping light using an optomechanical crystal array",
+                "A topological quantum optics interface",
+                "Fractional quantum Hall effect in optical lattices",
+                "Topologically robust transport of photons in a synthetic gauge field",
+                "Optomechanically induced non-reciprocity in microring resonators",
+                "Photonic quadrupole topological phases"
+            ],
+            [
+                "Topological features\u2014global properties not discernible locally\u2014emerge in systems ranging from liquid crystals to magnets to fractional quantum Hall systems. A deeper understanding of the role of topology in physics has led to a new class of matter\u2014topologically ordered systems. The best known examples are quantum Hall effects, where insensitivity to local properties manifests itself as conductance through edge states that is insensitive to defects and disorder. Current research into engineering topological order primarily focuses on analogies to quantum Hall systems, where the required magnetic field is synthesized in non-magnetic systems. Here, we realize synthetic magnetic fields for photons at room temperature, using linear silicon photonics. We observe, for the first time, topological edge states of light in a two-dimensional system and show their robustness against intrinsic and introduced disorder. Our \u2026",
+                "Phenomena associated with the topological properties of physical systems can be naturally robust against perturbations. This robustness is exemplified by quantized conductance and edge state transport in the quantum Hall and quantum spin Hall effects. Here we show how exploiting topological properties of optical systems can be used to improve photonic devices. We demonstrate how quantum spin Hall Hamiltonians can be created with linear optical elements using a network of coupled resonator optical waveguides (CROW) in two dimensions. We find that key features of quantum Hall systems, including the characteristic Hofstadter butterfly and robust edge state transport, can be obtained in such systems. As a specific application, we show that topological protection can be used to improve the performance of optical delay lines and to overcome some limitations related to disorder in photonic technologies.",
+                "Topological photonics is a rapidly emerging field of research in which geometrical and topological ideas are exploited to design and control the behavior of light. Drawing inspiration from the discovery of the quantum Hall effects and topological insulators in condensed matter, recent advances have shown how to engineer analogous effects also for photons, leading to remarkable phenomena such as the robust unidirectional propagation of light, which hold great promise for applications. Thanks to the flexibility and diversity of photonics systems, this field is also opening up new opportunities to realize exotic topological models and to probe and exploit topological effects in new ways. This article reviews experimental and theoretical developments in topological photonics across a wide range of experimental platforms, including photonic crystals, waveguides, metamaterials, cavities, optomechanics, silicon photonics \u2026",
+                "We demonstrate a fiber-optical switch that is activated at tiny energies corresponding to a few hundred optical photons per pulse. This is achieved by simultaneously confining both photons and a small laser-cooled ensemble of atoms inside the microscopic hollow core of a single-mode photonic-crystal fiber and using quantum optical techniques for generating slow light propagation and large nonlinear interaction between light beams.",
+                "One of the major advances needed to realize all-optical information processing of light is the ability to delay or coherently store and retrieve optical information in a rapidly tunable manner. In the classical domain, this optical buffering is expected to be a key ingredient of managing the flow of information over complex optical networks. Such a system also has profound implications for quantum information processing, serving as a long-term memory that can store the full quantum information contained in an optical pulse. Here, we suggest a novel approach to light storage involving an optical waveguide coupled to an optomechanical crystal array, where light in the waveguide can be dynamically and coherently transferred into long-lived mechanical vibrations of the array. Under realistic conditions, this system is capable of achieving large bandwidths and storage\/delay times in a compact, on-chip platform.",
+                "The application of topology in optics has led to a new paradigm in developing photonic devices with robust properties against disorder. Although considerable progress on topological phenomena has been achieved in the classical domain, the realization of strong light-matter coupling in the quantum domain remains unexplored. We demonstrate a strong interface between single quantum emitters and topological photonic states. Our approach creates robust counterpropagating edge states at the boundary of two distinct topological photonic crystals. We demonstrate the chiral emission of a quantum emitter into these modes and establish their robustness against sharp bends. This approach may enable the development of quantum optics devices with built-in protection, with potential applications in quantum simulation and sensing.",
+                "We analyze a recently proposed method to create fractional quantum Hall (FQH) states of atoms confined in optical lattices [A. S\u00f8rensen et al., Phys. Rev. Lett. 94, 086803 (2005)]. Extending the previous work, we investigate conditions under which the FQH effect can be achieved for bosons on a lattice with an effective magnetic field and finite on-site interaction. Furthermore, we characterize the ground state in such systems by calculating Chern numbers which can provide direct signatures of topological order and explore regimes where the characterization in terms of wave-function overlap fails. We also discuss various issues which are relevant for the practical realization of such FQH states with ultracold atoms in an optical lattice, including the presence of a long-range dipole interaction which can improve the energy gap and stabilize the ground state. We also investigate a detection technique based on Bragg \u2026",
+                "Electronic transport is localized in low-dimensional disordered media. The addition of gauge fields to disordered media leads to fundamental changes in the transport properties. We implement a synthetic gauge field for photons using silicon-on-insulator technology. By determining the distribution of transport properties, we confirm that waves are localized in the bulk and localization is suppressed in edge states. Our system provides a new platform for investigating the transport properties of photons in the presence of synthetic gauge fields.",
+                "We describe a new approach for on-chip optical non-reciprocity which makes use of strong optomechanical interaction in microring resonators. By optically pumping the ring resonator in one direction, the optomechanical coupling is only enhanced in that direction, and consequently, the system exhibits a non-reciprocal response. For different configurations, this system can function either as an optical isolator or a coherent non-reciprocal phase shifter. We show that the operation of such a device on the level of single-photon could be achieved with existing technology.",
+                "The topological phases of matter are characterized using the Berry phase, a geometrical phase associated with the energy-momentum band structure. The quantization of the Berry phase and the associated wavefunction polarization manifest as remarkably robust physical observables, such as quantized Hall conductivity and disorder-insensitive photonic transport 1, 2, 3, 4, 5. Recently, a novel class of topological phases, called higher-order topological phases, were proposed by generalizing the fundamental relationship between the Berry phase and quantized polarization, from dipole to multipole moments 6, 7, 8. Here, we demonstrate photonic realization of the quantized quadrupole topological phase, using silicon photonics. In our two-dimensional second-order topological phase, we show that the quantization of the bulk quadrupole moment manifests as topologically robust zero-dimensional corner states. We \u2026"
+            ],
+            [
+                [
+                    "Quantum optics"
+                ]
+            ]
+        ]
+    ]
+}

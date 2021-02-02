@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "80JU8IXF",
+            "I5kHhRwAAAAJ",
+            [
+                "International business cycles: World, region, and country-specific factors",
+                "Integration versus trend stationary in time series",
+                "Understanding the evolution of world business cycles",
+                "The power problems of unit root test in time series with autoregressive errors",
+                "The engine of growth or its handmaiden?",
+                "The observable implications of self-fulfilling expectations",
+                "A Bayesian approach to dynamic macroeconomics",
+                "Reconsidering \u2018Trends and random walks in macroeconomic time series\u2019",
+                "Bayesian leading indicators: measuring and predicting economic conditions in Iowa",
+                "Supplanting the \u2018Minnesota\u2019prior: Forecasting macroeconomic time series using real business cycle model priors"
+            ],
+            [
+                "The paper investigates the common dynamic properties of business-cycle fluctuations across countries, regions, and the world. We employ a Bayesian dynamic latent factor model to estimate common components in macroeconomic aggregates (output, consumption, and investment) in a 60-country sample covering seven regions of the world. The results indicate that a common world factor is an important source of volatility for aggregates in most countries, providing evidence for a world business cycle. We find that region-specific factors play only a minor role in explaining fluctuations in economic activity. We also document similarities and differences across regions, countries, and aggregates.",
+                "A WELL-KNOWN APPROACH to modeling macroeconomic time series is to assume that the natural logarithm of the series can be represented by the sum of a deterministic time trend and a stochastic term. The trend need not literally be part of the data generation process, but may be viewed as a substitute for a complicated and unknown function of population, capital accumulation, technical progress, etc. Within this approach there are two competing models; in the trend-stationary specification the stochastic term follows a stationary process, while in the integrated specification the stochastic term follows a random walk. The essential difference between the models is the nature of the process driving the stochastic component, not whether the series is trended. The conclusion of this study is that it is difficult to discriminate between the two models using classical testing methods. This is the consequence of low power \u2026",
+                "This paper studies the changes in world business cycles during the period 1960\u20132003. We employ a Bayesian dynamic latent factor model to estimate common and country-specific components in the main macroeconomic aggregates (output, consumption, and investment) of the G-7 countries. We then quantify the relative importance of the common and country components in explaining comovement in each observable aggregate over three distinct time periods: the Bretton Woods (BW) period (1960:1\u20131972:2), the period of common shocks (1972:3\u20131986:2), and the globalization period (1986:3\u20132003:4). The results indicate that the common (G-7) factor explains, on average, a larger fraction of output, consumption and investment volatility in the globalization period than it does in the BW period.",
+                "Monte Carlo methods are used to study the size and power of serial-correlation-corrected versions of the Dickey-Fuller (1979,1981) unit root tests appropriate when the time series has unknown mean. The modifications do not cause serious size distortions or power deterioration in the white noise case. While studies in the literature have investigated the operating characteristics of these tests in the presence of moving average errors, of particular concern in this paper is the performance of these procedures in the presence of autoregressive errors. The Philips and Perron (1988) and Choi and Philips (1991) procedures are found to suffer from serious size distortions and have very low power when errors are autoregressively correlated. We conclude that even in the most favorable cases, these tests perform poorly against trend-stationary alternatives which are plausible for annual, quarterly, and monthly \u2026",
+                "This paper presents an analysis of time-series data for the countries in the Summers-Heston (1991) data set, in an attempt to ascertain the evidence for or against the export-led growth hypothesis. We find that standard methods of detecting export-led growth using Granger-causality tests may give misleading results if imports are not included in the system being analyzed. For this reason, our main statistical tool is the measure of conditional linear feedback developed by Geweke (1984), which allows us to examine the relationship between export growth and income growth while controlling for the growth of imports. These measures have two additional features which make them attractive for our work. First, they go beyond mere detection of evidence for export-led growth, to provide a measurement of its strength. Second, they enable us to determine the temporal pattern of the response of income to exports \u2026",
+                "Under a modest generalization of the dynamics permitted for variables which are seen by agents but not the econometrician, many of the existing tests for the presence of speculative bubbles are not statistically valid. Less restrictive tests lead us to concur with Flood and Garber that speculative bubbles were not part of the German hyperinflation, but dispute Shiller's conclusion that stock prices are excessively volatile. Moreover, all such tests are subject to the admonition that what appears to be a speculative bubble could instead have arisen from rational agents responding solely to economic fundamentals not observed by the econometrician.",
+                "We propose and implement a coherent statistical framework for combining theoretical and empirical models of macroeconomic activity. The framework is Bayesian, and enables the formal yet probabilistic incorporation of uncertainty regarding the parameterization of theoretical models. The approach is illustrated using a neoclassical business-cycle model that builds on the Greenwood et al. (1988, American Economic Review 78, 402\u2013417) variable-utilization framework to study out-of-sample forecasting of output and investment. The forecasts so produced are comparable with those from a Bayesian vector autoregression.",
+                "We employ a Bayesian perspective to identify the type of prior needed to support the inference that most macroeconomic time series follow random walks. For many of the series considered by Nelson and Plosser (1982) the required prior involves assigning very low probability to trendstationary alternatives. When this prior is relaxed trend-stationarity is generally supported, thus the unit root inference seems inappropriate for these series: despite Nelson and Plosser's results indicating that macroeconomic time series are not inconsistent with the random walk hypothesis, our results indicate that for most series the trend-stationarity hypothesis is much more likely.",
+                "This paper designs and implements a Bayesian dynamic latent factor model for a vector of data describing the Iowa economy. Posterior distributions of parameters and the latent factor are analyzed by Markov Chain Monte Carlo methods, and coincident and leading indicators are computed by using posterior mean values of current and predictive distributions for the latent factor.",
+                "Although general equilibrium models are in wide use in the theoretical macroeconomic literature, their empirical relevance is uncertain. We develop procedures for using dynamic general equilibrium models to aid in analyzing the observed time series relationships among macroeconomic variables. Our strategy is based on that developed by Doan, Litterman, and Sims (1984), who constructed a procedure for improving time series forecasts by shrinking vector autoregression coefficient estimates toward a prior view that vector time series are well-described as collections of independent random walks. In our case, the prior is derived from a fully-specified general equilibrium model. We demonstrate that, like the atheoretical random-walk priors, real business cycle model priors can aid in forecasting."
+            ],
+            [
+                [
+                    "Dynamic Macroeconomics",
+                    "Bayesian Econometrics",
+                    "Economic Forecasting"
+                ]
+            ]
+        ]
+    ]
+}

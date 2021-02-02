@@ -1,0 +1,127 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "K3SZuHIAAAAJ",
+            "Fan Zhang",
+            "MIT, IBM Watson",
+            "@mit.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=K3SZuHIAAAAJ",
+            152474,
+            [
+                "Cloud Computing",
+                "Big-Data Processing",
+                "Scientific Computing",
+                "Gravitational-wave Data Analysis"
+            ],
+            126021,
+            184,
+            164,
+            907,
+            894,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"IBF9kPwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Junwei Cao",
+                    "affiliation":"Tsinghua University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"5UzSbgIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Samee U. Khan",
+                    "affiliation":"Mississippi State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ak35bjgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Albert Y. Zomaya",
+                    "affiliation":"Professor of High Performance Computing and Networking, Sydney University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"R9sorZwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Majd Sakr",
+                    "affiliation":"Professor of Computer Science, Carnegie Mellon University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"uxzUkuUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Qutaibah Malluhi",
+                    "affiliation":"Qatar University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ekS-yPIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tamer Elsayed",
+                    "affiliation":"Associate Professor, Qatar University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"c2XTHWgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Shihong Huang",
+                    "affiliation":"Professor of Computer & Electrical Engineering and Computer Science, Florida Atlantic"
+                }
+            ]
+        ]
+    ]
+}

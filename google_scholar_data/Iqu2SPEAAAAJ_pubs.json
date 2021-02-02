@@ -1,0 +1,213 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Assessing the life cycle of a specific sanitary pad, MakaPads, in Uganda defines unique and vital measurements of social equity, especially for women laborers. A combined approach of social life cycle assessment, SLCA, and environmental life cycle assessment, ELCA, has been utilized to determine sanitary pads' social equity and environmental impacts. The development of the MakaPads product is an example of a design by Africans for Africans; whereas Libresse is an example of a European-designed product used by Africans. The ELCA and SLCA of both Libresse pads and MakaPads include the stages of raw material extraction, energy production, assembly, transport to or within Uganda, and incineration; and the contextualized economic costs of sanitary pads and income generation from the MakaPads factories. Two SLCA quantifiable characteristics that distinguish MakaPads from imported pads \u2026",
+            "Quantification of social equity in life cycle assessment for increased sustainable production of sanitary products in Uganda",
+            "Moses Kizza Musaazi and Abigail R Mechtenberg and Juliet Nakibuule and Rachel Sensenig and Emmanuel Miyingo and John Vianney Makanda and Ali Hakimian and Matthew J Eckelman",
+            "2015",
+            "Iqu2SPEAAAAJ:YsMSGLbcyi4C",
+            53,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0959652613007063",
+            "13130644161367923054",
+            "\/scholar?cites=13130644161367923054",
+            {
+                "2014":3,
+                "2015":6,
+                "2016":5,
+                "2017":4,
+                "2018":17,
+                "2019":8,
+                "2020":10
+            }
+        ],
+        [
+            "Optimal design of an electrical microgrid and sizing of its components seeks to balance capital investment with expected operational cost while meeting performance requirements. Calculating operational cost requires scheduling each microgrid component over some time period (dispatching) for each design evaluated. Heuristic or rule-based dispatch strategies typically consider only single time instances and are computationally efficient but do not include scheduling energy storage for future time periods. In this paper, we propose to optimize microgrid designs using forward-looking optimal dispatch for future energy storage planning. We present a case study of an \u2018islanded\u2019 military base microgrid with renewable and non-renewable electricity generation, battery storage, and plug-in vehicles with electrical export power capability. The optimal design and forward-looking dispatch strategy are compared to results \u2026",
+            "Optimal component sizing and forward-looking dispatch of an electrical microgrid for energy storage planning",
+            "John W Whitefoot and Abigail R Mechtenberg and Diane L Peters and Panos Y Papalambros",
+            "2011",
+            "Iqu2SPEAAAAJ:u-x6o8ySG0sC",
+            42,
+            "https:\/\/asmedigitalcollection.asme.org\/IDETC-CIE\/proceedings-abstract\/IDETC-CIE2011\/341\/353880",
+            "2973693533606391649",
+            "\/scholar?cites=2973693533606391649",
+            {
+                "2011":3,
+                "2012":4,
+                "2013":2,
+                "2014":8,
+                "2015":10,
+                "2016":5,
+                "2017":4,
+                "2018":3,
+                "2019":2,
+                "2020":1
+            }
+        ],
+        [
+            "Increasing energy security and reliability concerns are intensifying the interest in microgrids. In this setting, design optimization is vital to achieve a reliable infrastructure without overbuilding. This paper considers the impact of frequency and voltage regulation on the optimal design of a conceptual, autonomous military microgrid. This microgrid comprises a solar panel and vehicles as power sources, with each vehicle incorporating a battery and generator. The power output and terminal voltage of these inverter-based sources must be regulated. The paper investigates the effects of battery DC voltage variations on a decentralized regulation scheme, and the resulting influence on optimal component sizing. To this end, controllers are first designed based on the typical assumption that the voltage on the DC side of each inverter is constant. The battery internal resistance is then considered and its impact on regulation \u2026",
+            "Coupling between component sizing and regulation capability in microgrids",
+            "Tulga Ersal and Changsun Ahn and Diane L Peters and John W Whitefoot and Abigail R Mechtenberg and Ian A Hiskens and Huei Peng and Anna G Stefanopoulou and Panos Y Papalambros and Jeffrey L Stein",
+            "2013",
+            "Iqu2SPEAAAAJ:d1gkVwhDpl0C",
+            24,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6558834\/",
+            "4237751590622731860",
+            "\/scholar?cites=4237751590622731860",
+            {
+                "2014":1,
+                "2015":8,
+                "2016":4,
+                "2017":2,
+                "2018":2,
+                "2019":4,
+                "2020":3
+            }
+        ],
+        [
+            "We demonstrate the use of model predictive control (MPC) for a microgrid with plug-in vehicles. A predictive model is developed based on a hub model of the microgrid, and the control is optimized for minimum generator fuel usage. A variety of horizons and levels of prediction error are used in the optimization. A new method to model expected load and error is presented based on radial basis functions. Results show that for a given prediction horizon, as the level of prediction error increases, the amount of fuel used increases. Results also show that in some cases there is little benefit in extending the prediction horizon. While an extended prediction horizon does result in increased use of battery storage, this does not necessarily produce significant decreases in fuel usage. This result is analyzed and explained in terms of battery charging and discharging limitations.",
+            "Model predictive control of a microgrid with plug-in vehicles: Error modeling and the role of prediction horizon",
+            "Diane L Peters and Abigail R Mechtenberg and John Whitefoot and Panos Y Papalambros",
+            "2011",
+            "Iqu2SPEAAAAJ:Tyk-4Ss8FVUC",
+            23,
+            "https:\/\/asmedigitalcollection.asme.org\/DSCC\/proceedings-abstract\/DSCC2011\/787\/352416",
+            "10461880930930168564",
+            "\/scholar?cites=10461880930930168564",
+            {
+                "2012":2,
+                "2013":3,
+                "2014":5,
+                "2015":7,
+                "2016":2,
+                "2017":2,
+                "2018":2
+            }
+        ],
+        [
+            "Human development and electrical energy co-exist seamlessly in high Human Development Index (HDI) countries1 where reliability and availability of electricity is greater than 95%. In numerous low HDI countries,2 there is 5\u201350% electric grid availability. These electric grids can have reliability below 50% due to faults and extreme load shedding. Unavailable and unreliable electric grid events are situations disconnected from a centralized grid (if the grid fails then it is off-line). In Africa, renewable energy portfolios include solar, wind, biomass, biogas, small hydroelectric power and recently nuclear energy (MEMD, 2005, 2006, 2008, 2009) and are cited to meet the disconnected grid situations. However, Human Power (HP) is a missing portfolio option and, if implemented in countries with average electrical power consumed below 20 W\/Capita, would impact human development directly. The technologies include \u2026",
+            "Human power (HP) as a viable electricity portfolio option below 20 W\/Capita",
+            "Abigail R Mechtenberg and Kendra Borchers and Emanuel Wokulira Miyingo and Farhan Hormasji and Amirtha Hariharan and John Vianney Makanda and Moses Kizza Musaazi",
+            "2012",
+            "Iqu2SPEAAAAJ:qjMakFHDy7sC",
+            22,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0973082611001116",
+            "7076104572495756700",
+            "\/scholar?cites=7076104572495756700",
+            {
+                "2012":3,
+                "2013":4,
+                "2014":2,
+                "2015":1,
+                "2016":2,
+                "2017":3,
+                "2018":2,
+                "2019":3,
+                "2020":2
+            }
+        ],
+        [
+            "Fuel delivery to forward operating bases (FOBs) in Afghanistan and Iraq is problematic. Fuel in transit requires personnel and equipment for storage, handling, transport, and protection. More importantly, attacks to fuel convoys accounted for more than 50% and 30% of casualties in Afghanistan and Iraq respectively during 2009. Therefore, reducing fuel consumption at FOBs will translate directly into reduced casualties. Photovoltaic (PV) energy technologies could reduce fuel consumed at FOBs for electricity generation, thus reducing supply chain burdens. Current approaches to microgrid optimization are solely concerned with fuel consumed at the FOB itself during operation (i.e. running diesel generators). This point-of-use energy analysis fails to consider the supply chain implications. By contrast, this study performs a systems energy analysis by modifying existing microgrid optimization tools and extending the \u2026",
+            "A systemic thermodynamic analysis of fuel consumption at forward operating bases",
+            "Valentina Prado and Thomas P Seager and Abigail R Mechtenberg and Erin Bennett",
+            "2011",
+            "Iqu2SPEAAAAJ:9yKSN-GCB0IC",
+            10,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/5936866\/",
+            "5937574279793940832",
+            "\/scholar?cites=5937574279793940832",
+            {
+                "2011":1,
+                "2012":2,
+                "2013":3,
+                "2014":1,
+                "2015":2,
+                "2016":1
+            }
+        ],
+        [
+            "There is currently a high level of uncertainty surrounding the evolution of personal transportation. A variety of new types of vehicle powertrains have been proposed or implemented, including alternative fuels, hybrid electric vehicles, and fully electric vehicles. It is also possible, as shown by Mechtenberg [1], to combine multiple fuels and batteries to design this 36 mode hybrid vehicle. The hybrid vehicle presented here features multiple modes of operation with a wide range of possible combinations of fuel and battery usage. While the many degrees of freedom offered by this hybrid vehicle design present an opportunity to operate under a variety of different conditions, it also presents a control challenge, as the vehicle\u2019s control system must decide how best to use the various modes available, given the driver\u2019s optional selection and the current status of the vehicle. In this paper, we discuss the various modes of \u2026",
+            "Control of a 36 Mode Hybrid Vehicle With Driver Option Selection: Incorporating Urban, Suburban, and Highway Driving",
+            "Abigail R Mechtenberg and Diane L Peters",
+            "2012",
+            "Iqu2SPEAAAAJ:Y0pCki6q_DkC",
+            3,
+            "https:\/\/asmedigitalcollection.asme.org\/DSCC\/proceedings-abstract\/DSCC2012-MOVIC2012\/137\/229248",
+            "10622938243736248309",
+            "\/scholar?cites=10622938243736248309",
+            {
+                "2018":1,
+                "2019":2
+            }
+        ],
+        [
+            "John Holdren states there are three responses to climate change: mitigation, adaptation, and suffering. Research abounds in framing mitigation and adaptation policies. Furthermore, many suffering criteria exist in the health care literature as a physiological and psychological component to patients' care, but not in the technological aspects to hospitals. In this paper, the socio-technological challenges of renewable electricity in Uganda are explored to frame the reality of unreliable electricity within a suffering criteria. For this paper, we define suffering criteria as avoidable damage (unmet power load) which is highly dependent on balancing variability and uncertainty. For example, there is a measurable variable solar radiance profile. On any specific day, dispatch microgrid control algorithms consider the measured variability as an uncertainty, but here we define uncertainty as adding random noise to the measured \u2026",
+            "Socio-technical implication of renewable energy sources: African health care case study with Monte-Carlo simulations",
+            "Abigail R Mechtenberg and Moses Musaazi and Nancy Senabulya and John Vianney Makanda",
+            "2012",
+            "Iqu2SPEAAAAJ:IjCSPb-OGe4C",
+            3,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6227998\/",
+            "8795405176371323550",
+            "\/scholar?cites=8795405176371323550",
+            {
+                "2014":1,
+                "2015":1,
+                "2016":1
+            }
+        ],
+        [
+            "Human development and energy, in general, and electrical energy, specifically, co-exist seamlessly in high HDI countries where reliability and availability is greater than 99%. In numerous low HDI countries, there is 2-50% electric grid availability with reliability at or below 50% due to load shedding and faults. In Africa, solar, wind, biomass and hydroelectric energy production are cited to meet growing demand and increase reliability and availability; however, the capital costs are greater than the ability-to-pay for wide scale implementation. Since the 1970s, the United States has continued to argue over the new sustainable energy infrastructure solution(s); thus resulting in no new infrastructure being built for wide scale implementation. Together the world is facing the daunting task of averting an energy crisis in developed countries and facing energy crises in developing countries. This thesis explores the importance of energy crises: from the past, current, and future. The first part entails arguing that the United States is not on a pathway to prevent an energy crisis based on an analysis of 1986 and 2004 niche and status-quo manufacturing of light-duty vehicles. The second part answers the question of what an energy crisis looks like by exploring and investigating current electrical energy crises in Fort Portal, Uganda. This part used both anthropological and physics education empowerment research to co-design and build for various energy crisis situations in hospitals, schools, and businesses all from locally available materials and expertise. Finally, looking into the US light-duty vehicle\u2019s future, I design a new hybrid vehicle powertrain (called \u2026",
+            "Understanding the Importance of an Energy Crisis.",
+            "Abigail Reid Mechtenberg",
+            "2009",
+            "Iqu2SPEAAAAJ:UeHWp8X0CEIC",
+            3,
+            "https:\/\/deepblue.lib.umich.edu\/handle\/2027.42\/63801",
+            "8339880270042562904",
+            "\/scholar?cites=8339880270042562904",
+            {
+                "2012":2,
+                "2013":1
+            }
+        ],
+        [
+            "Whether society chooses energy security or climate change as its motivation, the level of United States motor gasoline consumption and its current growth rate must change drastically. Models for calculating light duty vehicle\u2019s fuel economy incorporate many vehicle-based parameters: 20 to 200 with some being proprietary and challenging for policy makers to acquire or use. This paper describes a MatLab-based simulation model, MINPAR, which uses the three critical vehicle-based parameters: mass, engine size, and transmission characteristic. It is used to model over one thousand 1986 and 2004 United States offered vehicles from the EPA Test Car list (cars and light trucks) and four hundred 2004 Japanese offered vehicles\u2019 fuel economy (FE). Offered vehicles consist of vehicle models and their different configurations. Status-quo vehicles are defined as offered vehicles modeled well with MINPAR by \u2026",
+            "Fuel economy: from niche to status-quo manufacturing",
+            "Abigail Reid Mechtenberg",
+            "2009",
+            "Iqu2SPEAAAAJ:2osOgNQ5qMEC",
+            2,
+            "https:\/\/www.jstor.org\/stable\/26273370",
+            "6505116809479766348",
+            "\/scholar?cites=6505116809479766348",
+            {
+                "2009":1,
+                "2010":1
+            }
+        ]
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "0RVGObQAAAAJ",
+            "Yi-long Wu",
+            "Professor of Oncology, Guangdong Lung Cancer Institute, Guangdong Provincial People's Hospital",
+            "",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=0RVGObQAAAAJ",
+            56438,
+            [
+                "Lung Cancer"
+            ],
+            37356,
+            85,
+            78,
+            306,
+            262,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"1lcLGeMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"An Shejuan",
+                    "affiliation":"Northwestern University"
+                }
+            ]
+        ]
+    ]
+}

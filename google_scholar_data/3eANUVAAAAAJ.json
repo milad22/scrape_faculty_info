@@ -1,0 +1,52 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "3eANUVAAAAAJ",
+            "Sandeep Joy",
+            "Graduate Student, The Ohio State University",
+            "@osu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=3eANUVAAAAAJ",
+            1,
+            [
+                "Condensed Matter Theory"
+            ],
+            1,
+            1,
+            1,
+            0,
+            0,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"yh56TtAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Brian Skinner",
+                    "affiliation":"Ohio State University"
+                }
+            ]
+        ]
+    ]
+}

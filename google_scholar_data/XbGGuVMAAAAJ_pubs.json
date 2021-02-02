@@ -1,0 +1,45 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Grid computing helps us overcome heterogeneity in terms of computing elements, operating systems, policy decisions, and environments. However, security issues impede us from adopting the grid as a widespread IT virtualization solution, so we must develop solutions to address these issues.",
+            "Grid computing security: A taxonomy",
+            "Anirban Chakrabarti and Anish Damodaran and Shubhashis Sengupta",
+            "2008",
+            "XbGGuVMAAAAJ:u5HHmVD_uO8C",
+            72,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/4446697\/",
+            "8971814670021624798",
+            "\/scholar?cites=8971814670021624798",
+            {
+                "2008":6,
+                "2009":9,
+                "2010":14,
+                "2011":5,
+                "2012":6,
+                "2013":4,
+                "2014":8,
+                "2015":6,
+                "2016":6,
+                "2017":3,
+                "2018":2,
+                "2019":2,
+                "2020":1
+            }
+        ]
+    ]
+}

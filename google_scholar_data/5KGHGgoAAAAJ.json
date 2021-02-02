@@ -1,0 +1,67 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "5KGHGgoAAAAJ",
+            "Alan Coleman",
+            "Postdoc, University of Delaware",
+            "@udel.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=5KGHGgoAAAAJ",
+            6791,
+            [
+                "Cosmic Rays",
+                "Air showers",
+                "IceCube Collaboration",
+                "Pierre Auger Collaboration"
+            ],
+            6437,
+            30,
+            29,
+            42,
+            42,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"qyy8Sy0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Frank G. Schr\u00f6der",
+                    "affiliation":"University of Delaware"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"xPvJw_0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David Seckel",
+                    "affiliation":"University of Delaware"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "HvsAYhwAAAAJ",
+            "Jesse Balgley",
+            "Washington University in St. Louis, Department of Physics",
+            "@wustl.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=HvsAYhwAAAAJ",
+            49,
+            [
+                "Condensed matter physics"
+            ],
+            48,
+            3,
+            3,
+            2,
+            2,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"z3z-PV8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Cory R. Dean",
+                    "affiliation":"Columbia Unviersity"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"n9JgHAkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"J.-Q. Yan",
+                    "affiliation":"Oak Ridge National Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"pv8DhDMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Paula \"Paige\" Lampen-Kelley",
+                    "affiliation":"University of Tennessee\/ORNL"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"xStDF4wAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Erik A Henriksen",
+                    "affiliation":"Washington University in St. Louis"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"sHaqURYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Johannes Jobst",
+                    "affiliation":"Leiden University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"SG_1ZVoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Rudolf Tromp",
+                    "affiliation":"IBM T.J. Watson Research Center \/ Leiden University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"PBGQw7MAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Eugene Krasovskii",
+                    "affiliation":"University of the Basque Country"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"rDKD_jUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Scott Dietrich",
+                    "affiliation":"Villanova University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"wv_82ToAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yuanda Gao",
+                    "affiliation":"Intel Corporation, Columbia University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"0KSoOgkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Carlos Forsythe",
+                    "affiliation":"Postdoc @ Molecular Foundry, LBNL"
+                }
+            ]
+        ]
+    ]
+}

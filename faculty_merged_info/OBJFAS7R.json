@@ -1,0 +1,35 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "OBJFAS7R",
+            "lE0LGvkAAAAJ",
+            [
+                "SPARQL Semantics and execution analysis in Semantic Web using various tools",
+                "Roles and Usages of RDF, SPARQL and Ontology tools in Semantic Web"
+            ],
+            [
+                "The Semantic Web is used to get the machine readable descriptions of the information already on the web, in order to improve search and data usage in the huge decentralized environment. It is an efficient proposed way of representing data on the World Wide Web, or as a globally linked database which is distributed in the form of RDF (Resource Description Framework), a standard for metadata encoding and knowledge exchange on Web. A RDF query language known as SPARQL (Simple Protocol and RDF Query Language), defines standard query language and data access protocol which is used with RDF data model and it works for every data source which can be mapped to RDF which uses SPARQL to retrieve data. SPARQL significance has been realized and incorporated in the new architecture of Semantic Web proposed by Sir Tim Berner's Lee. First, this paper focuses on role and usage of SPARQL \u2026",
+                "Semantic web has emerged as a new upcoming version of machine-understandable web with intelligent search results in order to improving search and data usage on the global scale. Semantic web vision is to allow intelligent description and interchange of integrated data from various distributed and heterogeneous web resources. A structure for this data on web is known as Resource Description Framework (RDF) where data is resist in the form of XML (Extended Markup Language). For effective and efficient Retrieval of the data from such large RDF, a query language SPARQL (Standard Protocol and RDF Query Language) is used."
+            ],
+            [
+                [
+                    "Semantic Web",
+                    "SPARQL",
+                    "Database",
+                    "GIS",
+                    "Software Usage"
+                ]
+            ]
+        ]
+    ]
+}

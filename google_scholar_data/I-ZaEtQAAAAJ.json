@@ -1,0 +1,104 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "I-ZaEtQAAAAJ",
+            "Chuan-Ming Liu",
+            "Department of Computer Science and Information Engineering, National Taipei University of Technology",
+            "@csie.ntut.edu.tw",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=I-ZaEtQAAAAJ",
+            12791,
+            [
+                "Big Data",
+                "Data Streams",
+                "Spatial and Temporal Data",
+                "Mobile Computing",
+                "Ad hoc and sensor networks"
+            ],
+            4965,
+            51,
+            32,
+            97,
+            60,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"dtD-PIAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Li-Chun Wang",
+                    "affiliation":"Professor of Electrical Engineering, National Chiao Tun University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"hQazr50AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sunil Prabhakar",
+                    "affiliation":"Professor of Computer Science, Purdue University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"GLZO1ZcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Chung-Wei Wang",
+                    "affiliation":""
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"vX45evgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Walid G. Aref",
+                    "affiliation":"Professor of Computer Science, Purdue University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"5WouS2EAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jenq-Haur Wang",
+                    "affiliation":"National Taipei University of Technology"
+                }
+            ]
+        ]
+    ]
+}

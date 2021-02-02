@@ -1,0 +1,33 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "77EUP2XA",
+            "wyhU8JkAAAAJ",
+            [
+                "An adaptive filtered\u2010x algorithm for energy\u2010based active control"
+            ],
+            [
+                "A control algorithm based on the filtered\u2010x LMS algorithm is developed that has the property of being able to control the energy in the acoustic field. The algorithm is useful for providing greater global control of the field than is obtained by controlling the pressure. This is due to the fact that the energy\u2010based approach effectively overcomes the observability problems that often limit the performance possible when controlling the pressure field. The control approach is developed for the cases of a predominantly standing wave field, and a predominantly propagating wave field. The approach is applicable for both broadband and narrow\u2010band excitations. A simple example demonstrating the increased performance possible with the energy\u2010based control approach is presented for the case of single frequency excitation."
+            ],
+            [
+                [
+                    "acoustics",
+                    "active noise control",
+                    "vibrations",
+                    "structural acoustics",
+                    "energy-based acoustics"
+                ]
+            ]
+        ]
+    ]
+}

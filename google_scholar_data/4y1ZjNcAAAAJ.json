@@ -1,0 +1,100 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "4y1ZjNcAAAAJ",
+            "Paolo Glorioso",
+            "Stanford University",
+            "@stanford.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=4y1ZjNcAAAAJ",
+            406,
+            [
+                "Theoretical physics"
+            ],
+            400,
+            10,
+            10,
+            10,
+            10,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Bs3TDRwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hong Liu",
+                    "affiliation":"Department of Physics, MIT"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"KqzKZI0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yifan Wang",
+                    "affiliation":"Department of Physics,Princeton University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"1E8Z9iYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Luca V Delacretaz",
+                    "affiliation":"University of Chicago"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"jGTQByMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ping Gao",
+                    "affiliation":"Massachusetts Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"D056qfMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Andrey Gromov",
+                    "affiliation":"Assistant Professor, Brown University"
+                }
+            ]
+        ]
+    ]
+}

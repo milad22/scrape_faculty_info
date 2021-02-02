@@ -1,0 +1,92 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "k4pLnMYAAAAJ",
+            "Francisco Javier Gonzalez Vila",
+            "Instituto de Recursos Naturales y Agrobiolog\u00eda de Sevilla (IRNAS-CSIC)",
+            "@irnase.csic.es",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=k4pLnMYAAAAJ",
+            11543,
+            [
+                "organic geochemistry",
+                "soil organic matter",
+                "humic substances",
+                "lignin",
+                "wood"
+            ],
+            3532,
+            54,
+            28,
+            180,
+            84,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"kaHhJJ4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jos\u00e9 A. Gonz\u00e1lez-P\u00e9rez",
+                    "affiliation":"IRNAS-CSIC, Sevilla, Spain (Espa\u00f1a)"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"SMsGoNYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jos\u00e9 C. del R\u00edo",
+                    "affiliation":"Instituto de Recursos Naturales y Agrobiolog\u00eda de Sevilla, IRNAS-CSIC, Seville, Spain"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"TebL1_cAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"JOSE MARIA DE LA ROSA",
+                    "affiliation":"Instituto de Recursos Naturales y Agrobiolog\u00eda de Sevilla (IRNAS-CSIC)"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"JcSDlnAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Antonio Jord\u00e1n",
+                    "affiliation":"University of Seville, Spain"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "kF9eWnMAAAAJ",
+            "Lauren Barth-Cohen",
+            "University of Utah",
+            "@Utah.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=kF9eWnMAAAAJ",
+            274,
+            [
+
+            ],
+            270,
+            5,
+            5,
+            4,
+            4,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3xKQeDMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"ji shen",
+                    "affiliation":"Associate Professor of STEM Education, Department of Teaching and Learning, University of Miami"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"uAwAgmcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Shiyan Jiang",
+                    "affiliation":"North Carolina State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"x3Dvc4MAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Moataz Eltoukhy",
+                    "affiliation":"University of Miami"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"zLTUWXMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jonathan Shemwell",
+                    "affiliation":"Associate Professor, University of Alabama"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"gUwPf_kAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Daniel K. Capps",
+                    "affiliation":"University of Georgia"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"oc76jCIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michael Wittmann",
+                    "affiliation":"University of Maine"
+                }
+            ]
+        ]
+    ]
+}

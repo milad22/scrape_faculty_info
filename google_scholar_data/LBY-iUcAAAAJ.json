@@ -1,0 +1,66 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "LBY-iUcAAAAJ",
+            "Antonio Delgado Peris",
+            "CIEMAT",
+            "@ciemat.es",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=LBY-iUcAAAAJ",
+            133407,
+            [
+                "Distributed computing",
+                "grid",
+                "cloud"
+            ],
+            93074,
+            158,
+            137,
+            733,
+            682,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9cO6kCsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Eduardo Huedo",
+                    "affiliation":"Associate Professor, Universidad Complutense de Madrid"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"tiw_vlkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jos\u00e9 M. Hern\u00e1ndez",
+                    "affiliation":"Centro de Investigaciones Energ\u00e9ticas Medioambientales y Tecnol\u00f3gicas (CIEMAT)"
+                }
+            ]
+        ]
+    ]
+}

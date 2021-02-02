@@ -1,0 +1,214 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Nonlinear compression of laser pulses with tens of millijoule energy in a gas-filled multipass cell is a promising approach to realize a new generation of high average power femtosecond sources. For the first time, to the best of our knowledge, we demonstrate nonlinear broadening of pulses with about 18 mJ of energy at a 5 kHz repetition rate in an argon-filled Herriott cell and show compressibility from 1.3 ps to 41 fs. In addition to the large compression factor, the output beam has an outstanding quality and excellent spectral homogeneity. Furthermore, we discuss prospects to scale the energy to the 100 mJ level in the near future.",
+            "Multipass spectral broadening of 18 mJ pulses compressible from 1.3 ps to 41 fs",
+            "Martin Kaumanns and Vladimir Pervak and Dmitrii Kormin and Vyacheslav Leshchenko and Alexander Kessel and Moritz Ueffing and Yu Chen and Thomas Nubbemeyer",
+            "2018",
+            "SF_FiFQAAAAJ:Zph67rFs4hoC",
+            38,
+            "https:\/\/www.osapublishing.org\/abstract.cfm?uri=ol-43-23-5877",
+            "7920066392470730972",
+            "\/scholar?cites=7920066392470730972",
+            {
+                "2018":1,
+                "2019":18,
+                "2020":17,
+                "2021":2
+            }
+        ],
+        [
+            "We report on the first experimental realization of the coherent combining of multimillijoule parametric-amplified femtosecond pulses. An original two-channel laser system based on parametric amplification in \u03b2-BaB 2 O 4 and LiB 3 O 5 crystals was created. High-contrast laser pulses, with up to 100 mJ of energy and with a pulse duration of 23 fs, were generated in both channels. An original setup for active timing-jitter stabilization was developed. It allowed reduction of the relative timing jitter of the amplified pulses to 40 as, which enabled coherent combining with an efficiency as high as 95%. At the present time, this work demonstrates coherent combining of femtosecond pulses with both the highest energy and the shortest pulse duration.",
+            "Coherent combining of multimillijoule parametric-amplified femtosecond pulses",
+            "VE Leshchenko and VI Trunov and SA Frolov and EV Pestryakov and VA Vasiliev and NL Kvashnin and SN Bagayev",
+            "2014",
+            "SF_FiFQAAAAJ:W7OEmFMy1HYC",
+            32,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/1612-2011\/11\/9\/095301\/meta",
+            "11863472522446175192",
+            "\/scholar?cites=11863472522446175192",
+            {
+                "2014":1,
+                "2015":8,
+                "2016":3,
+                "2017":7,
+                "2018":6,
+                "2019":3,
+                "2020":3,
+                "2021":1
+            }
+        ],
+        [
+            "We report on the first experimental realization of coherent combining of parametrically amplified femtosecond pulses. The proposed and implemented two-loop active stabilization system allows us to achieve 110 as relative timing jitter between combined pulses, which is necessary for efficient coherent beam combining. In each channel of the two-channel laser setup, pulses were parametrically amplified in \u03b2-BaB_2O_4 (BBO) crystals to 50 \u03bcJ energy, compressed to 49 fs duration, and then coherently combined with efficiency as high as 97%. Currently, it is the shortest duration of amplified pulses for which coherent combining is demonstrated.",
+            "Coherent combining of femtosecond pulses parametrically amplified in BBO crystals",
+            "SN Bagayev and VE Leshchenko and VI Trunov and EV Pestryakov and SA Frolov",
+            "2014",
+            "SF_FiFQAAAAJ:d1gkVwhDpl0C",
+            31,
+            "https:\/\/www.osapublishing.org\/abstract.cfm?uri=ol-39-6-1517",
+            "4031028786577783438",
+            "\/scholar?cites=4031028786577783438",
+            {
+                "2014":5,
+                "2015":6,
+                "2016":2,
+                "2017":3,
+                "2018":3,
+                "2019":4,
+                "2020":6,
+                "2021":2
+            }
+        ],
+        [
+            "For experiments in plasma, nuclear, and high-energy physics, there is a strong demand for laser pulses exhibiting relativistic intensity, few-cycle pulse duration, and a very high contrast. Here we present a picosecond-pumped optical parametric chirped pulse amplification (OPCPA) system delivering pulses at 10 Hz repetition rate with the following key parameters: a compressed pulse duration of less than 7 fs (close to the Fourier limit), a contrast of better than 10^11 starting from 1 ps before the main pulse, and a peak intensity of 6.9\u00d710^19\u2009\u2009W\/cm^2 achieved with an off-axis parabolic mirror (f\/1.6). In a proof-of-principle experiment, these pulses were used to generate high harmonics from solid surfaces with photon energies exceeding 55 eV. These results underline the promising perspectives of the reported system for relativistic light\u2013matter interaction experiments and attosecond science.",
+            "Relativistic few-cycle pulses with high contrast from picosecond-pumped OPCPA",
+            "Alexander Kessel and Vyacheslav E Leshchenko and Olga Jahn and Mathias Kr\u00fcger and Andreas M\u00fcnzer and Alexander Schwarz and Vladimir Pervak and Michael Trubetskov and Sergei A Trushin and Ferenc Krausz and Zsuzsanna Major and Stefan Karsch",
+            "2018",
+            "SF_FiFQAAAAJ:u-x6o8ySG0sC",
+            30,
+            "https:\/\/www.osapublishing.org\/abstract.cfm?uri=optica-5-4-434",
+            "2399941279024072950",
+            "\/scholar?cites=2399941279024072950",
+            {
+                "2017":1,
+                "2018":2,
+                "2019":10,
+                "2020":16,
+                "2021":1
+            }
+        ],
+        [
+            "Different approaches to qualify coherent beam combining performance in tiled and filled aperture combining experiments are discussed. The dependence of the combining efficiency on different misalignments and the number of combining pulses has been investigated and analytical equations for its evaluation have been obtained. The results provide design guidelines for laser systems based on coherent beam combining and allow comparison of experiments performed in different combining approaches. The analysis shows that there are good prospects to scale achieved peak intensity.",
+            "Coherent combining efficiency in tiled and filled aperture approaches",
+            "VE Leshchenko",
+            "2015",
+            "SF_FiFQAAAAJ:YsMSGLbcyi4C",
+            25,
+            "https:\/\/www.osapublishing.org\/abstract.cfm?uri=oe-23-12-15944",
+            "12119364397007529660",
+            "\/scholar?cites=12119364397007529660",
+            {
+                "2015":1,
+                "2016":2,
+                "2017":5,
+                "2018":3,
+                "2019":6,
+                "2020":8
+            }
+        ],
+        [
+            "The conceptual design of ultra-high intensity multichannel laser system with coherent beam combining is presented. Design of 1 PW and 10 PW laser channels with pulse repetition rate of 10 Hz based on optical parametric amplification in LBO crystals is considered. Requirements of the most critical pulse parameters for high efficiency coherent beam combining and their dependence on the number of channels is analyzed. Experimentally coherent beam combining of parametrically amplified compressed femtosecond pulses is demonstrated for the first time. Original two-loop relative timing jitter active stabilization scheme is proposed and experimentally investigated. 97% coherent beam combining efficiency is achieved with 110 as relative timing jitter.",
+            "Super-intense femtosecond multichannel laser system with coherent beam combining",
+            "SN Bagayev and VI Trunov and EV Pestryakov and SA Frolov and VE Leshchenko and AE Kokh and VA Vasiliev",
+            "2014",
+            "SF_FiFQAAAAJ:ufrVoPGSRksC",
+            25,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/1054-660X\/24\/7\/074016\/meta",
+            "13100939109394663892",
+            "\/scholar?cites=13100939109394663892",
+            {
+                "2014":3,
+                "2015":4,
+                "2016":3,
+                "2017":5,
+                "2018":5,
+                "2019":1,
+                "2020":3
+            }
+        ],
+        [
+            "Relativistic surface high harmonics have been considered a unique source for the generation of intense isolated attosecond pulses in the extreme ultra-violet and x-ray spectral ranges. Their practical realization, however, is still a challenging task and requires identification of optimum experimental conditions and parameters. Here, we present measurements and particle-in-cell simulations to determine the optimum values for the most important parameters. In particular, we investigate the dependence of harmonics efficiency, divergence, and beam quality on the pre-plasma scale length as well as identify the optimum conditions for generation of isolated attosecond pulses by measuring the dependence of the harmonics spectrum on the carrier\u2013envelope phase of the driving infrared field.",
+            "Towards intense isolated attosecond pulses from relativistic surface high harmonics",
+            "Olga Jahn and Vyacheslav E Leshchenko and Paraskevas Tzallas and Alexander Kessel and Mathias Kr\u00fcger and Andreas M\u00fcnzer and Sergei A Trushin and George D Tsakiris and Subhendu Kahaly and Dmitrii Kormin and Laszlo Veisz and Vladimir Pervak and Ferenc Krausz and Zsuzsanna Major and Stefan Karsch",
+            "2019",
+            "SF_FiFQAAAAJ:9yKSN-GCB0IC",
+            24,
+            "https:\/\/www.osapublishing.org\/abstract.cfm?uri=optica-6-3-280",
+            "2832731492493884831",
+            "\/scholar?cites=2832731492493884831",
+            {
+                "2019":5,
+                "2020":18,
+                "2021":1
+            }
+        ],
+        [
+            " We report on the experimental realization of the peak intensity scaling technique. Coherent combining of relativistic-intensity femtosecond laser pulses is demonstrated for the first time. The original stabilization setup developed by us provides 100 Hz stabilization bandwidth and a 85 mrad root mean square relative phase instability of amplified pulses which enables as high as 93 % efficiency of coherent beam combining under tight focusing. The peak intensity scaling from 3 \u00d7 1019 W\/cm2 for the two individual beams to 1.15 \u00d7 1020 W\/cm2 for the combined beam is achieved using a f\/1.2 parabolic mirror. A Strehl ratio of about 0.5 is experimentally obtained without any wavefront correction setup. Currently, it is this work that demonstrates coherent combining of femtosecond pulses with the record pulse parameters, namely with simultaneously the highest peak intensity, highest peak power, highest energy \u2026",
+            "Coherent combining of relativistic-intensity femtosecond laser pulses",
+            "VE Leshchenko and VA Vasiliev and NL Kvashnin and EV Pestryakov",
+            "2015",
+            "SF_FiFQAAAAJ:LkGwnXOMwfcC",
+            14,
+            "https:\/\/link.springer.com\/article\/10.1007\/s00340-015-6047-7",
+            "16759284316585120633",
+            "\/scholar?cites=16759284316585120633",
+            {
+                "2015":3,
+                "2016":1,
+                "2017":3,
+                "2018":3,
+                "2019":3,
+                "2020":1
+            }
+        ],
+        [
+            "The basic design principles of high-intensity laser systems based on coherent combining of radiation of multichannel laser facilities are considered. The influence of the instability of parameters of individual beams on coherent combining efficiency is analyzed, and requirements on their values for realization of high-efficiency coherent combining are determined. The fundamental possibility of coherent combining of parametrically amplified femtosecond pulses is experimentally demonstrated for the first time. Combining pulses with an energy of \u223c1 mJ (pulse duration of 25\u201330 fs) with an efficiency exceeding 83% is realized by using a spherical mirror and a specially developed high-precision electro-optical relative time jitter stabilization scheme, which ensures its stability at \u223c170 as level. The analysis conducted and the experimental data confirm that there are no fundamental limitations on intensity scaling \u2026",
+            "High-intensity femtosecond laser systems based on coherent combining of optical fields",
+            "SN Bagayev and VI Trunov and EV Pestryakov and VE Leschenko and SA Frolov and VA Vasiliev",
+            "2013",
+            "SF_FiFQAAAAJ:KlAtU1dfN6UC",
+            14,
+            "https:\/\/link.springer.com\/article\/10.1134\/S0030400X13090051",
+            "10281675877182395503",
+            "\/scholar?cites=10281675877182395503",
+            {
+                "2014":4,
+                "2015":1,
+                "2016":3,
+                "2017":2,
+                "2018":2,
+                "2019":2
+            }
+        ],
+        [
+            "Supercontinuum generation from the near to far IR during radiation filamentation in solid-state media in an anomalous dispersion region is theoretically investigated. The initial search for appropriate media with the use of an interference model showed that the widest IR spectrum is generated in media with high values of zero group velocity dispersion wavelength with the pump wavelength located not far from it. Halides belong to one of such media groups. The possibility of generation of a very wide supercontinuum in calcium fluoride (0.52\u20133.35 \u03bcm, which corresponds to 2.7 octaves), sodium chloride (0.7\u20137.6 \u03bcm, 3.5 octaves), and potassium iodide (0.66\u201322 \u03bcm, 5.1 octaves) is demonstrated by numerical simulation. Also, pulse self-compression down to 13 fs at the 5-\u03bcm central wavelength (about single period) has been observed in potassium iodide. The mechanisms of multi-octave supercontinuum \u2026",
+            "Multi-octave supercontinuum generation with IR radiation filamentation in transparent solid-state media",
+            "SA Frolov and VI Trunov and VE Leshchenko and EV Pestryakov",
+            "2016",
+            "SF_FiFQAAAAJ:Y0pCki6q_DkC",
+            11,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/s00340-016-6398-8.pdf",
+            "11341180133689888952",
+            "\/scholar?cites=11341180133689888952",
+            {
+                "2017":4,
+                "2018":2,
+                "2019":5
+            }
+        ]
+    ]
+}

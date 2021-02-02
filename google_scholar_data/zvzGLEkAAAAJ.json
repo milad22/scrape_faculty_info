@@ -1,0 +1,100 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "zvzGLEkAAAAJ",
+            "Karthik Ramanathan",
+            "Applied Materials",
+            "@alumni.iitm.ac.in",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=zvzGLEkAAAAJ",
+            558,
+            [
+
+            ],
+            226,
+            11,
+            7,
+            14,
+            7,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Z1nUuTQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Vemuri Balakotaiah",
+                    "affiliation":"University of Houston"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"plQFBS0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Chander Shekhar Sharma",
+                    "affiliation":"Indian Institute of Technology Ropar"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"EoJfD6sAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Pushpavanam Subramaniam",
+                    "affiliation":"Indian Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"5jW1HFEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gaurav Agrawal",
+                    "affiliation":"Senior Researcher at ExxonMobil Research and Engineering"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"YrxSQH0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Rayees Ahamed Imam",
+                    "affiliation":"SABIC"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "N2SGTYTY",
+            "LO6PFnMAAAAJ",
+            [
+                "Towards a perturbative theory of nuclear forces",
+                "Evidence for a Bound  Dibaryon from Lattice QCD",
+                "Two nucleons on a lattice",
+                "Nucleon-nucleon scattering from fully dynamical lattice QCD",
+                "Light nuclei and hypernuclei from quantum chromodynamics in the limit of SU (3) flavor symmetry",
+                "Nuclear physics from lattice QCD",
+                "  scattering from fully-dynamical mixed-action lattice QCD",
+                "Deuteron and exotic two-body bound states from lattice QCD",
+                "Singular potentials and limit cycles",
+                "Rearranging pionless effective field theory"
+            ],
+            [
+                "We show that an expansion of nuclear forces about the chiral limit is formally consistent and is equivalent to KSW power counting in the 1 S 0 channel and Weinberg power counting in the 3 S 1\u20133 D 1 coupled channels. Numerical evidence suggests that this expansion converges. The feasibility of making contact between nuclear physics and lattice-QCD simulations is discussed.",
+                "We present evidence for the existence of a bound H dibaryon, an I= 0, J= 0, s=\u2212 2 state with valence quark structure u u d d s s, at a pion mass of m \u03c0\u223c 389 MeV. Using the results of lattice QCD calculations performed on four ensembles of anisotropic clover gauge-field configurations, with spatial extents of L\u223c 2.0, 2.5, 3.0, and 3.9 fm at a spatial lattice spacing of b s\u223c 0.123 fm, we find an H dibaryon bound by B\u221e H= 16.6\u00b12.1\u00b14.6 MeV at a pion mass of m \u03c0\u223c 389 MeV.",
+                "The two-nucleon sector is near an infrared fixed point of QCD and as a result the S-wave scattering lengths are unnaturally large compared to the effective ranges and shape parameters. It is usually assumed that a lattice QCD simulation of the two-nucleon sector will require a lattice that is much larger than the scattering lengths in order to extract quantitative information. In this Letter we point out that this does not have to be the case: lattice QCD simulations on much smaller lattices will produce rigorous results for nuclear physics.",
+                "We present results of the first fully dynamical lattice QCD determination of nucleon-nucleon scattering lengths in the S 0 1 channel and S 1 3\u2212 D 1 3 coupled channels. The calculations are performed with domain-wall valence quarks on the MILC staggered configurations with a lattice spacing of b= 0.125 fm in the isospin-symmetric limit, and in the absence of electromagnetic interactions.",
+                "The binding energies of a range of nuclei and hypernuclei with atomic number A\u2264 4 and strangeness| s|\u2264 2, including the deuteron, dineutron, H-dibaryon, He 3, He \u039b 3, He 4, He \u039b 4, and He \u039b \u039b 4, are calculated in the limit of flavor-SU (3) symmetry at the physical strange-quark mass with quantum chromodynamics (without electromagnetic interactions). The nuclear states are extracted from lattice QCD calculations performed with n f= 3 dynamical light quarks using an isotropic clover discretization of the quark action in three lattice volumes of spatial extent L\u223c 3.4 fm, 4.5 fm, and 6.7 fm, and with a single lattice spacing b\u223c 0.145 fm.",
+                "We review recent progress toward establishing lattice Quantum Chromodynamics as a predictive calculational framework for nuclear physics. A survey of the current techniques that are used to extract low-energy hadronic scattering amplitudes and interactions is followed by a review of recent two-body and few-body calculations by the NPLQCD collaboration and others. An outline of the nuclear physics that is expected to be accomplished with Lattice QCD in the next decade, along with estimates of the required computational resources, is presented.",
+                "We compute the I= 2 \u03c0 \u03c0 scattering length at pion masses of m \u03c0\u223c 294, 348, and 484 MeV in fully-dynamical lattice QCD using L\u00fcscher\u2019s finite-volume method. The calculation is performed with domain-wall valence-quark propagators on asqtad-improved MILC configurations with staggered sea quarks at a single lattice spacing, b\u223c 0.125 fm. Chiral perturbation theory is used to perform the extrapolation of the scattering length from lattice quark masses down to the physical value, and we find m \u03c0 a 2=\u2212 0.0426\u00b10.0006\u00b10.0003\u00b10.0018, in good agreement with experiment. The I= 2 \u03c0 \u03c0 scattering phase shift is calculated to be \u03b4=\u2212 43\u00b110\u00b15 at| p|\u223c 544 MeV for m \u03c0\u223c 484 MeV.",
+                "Results of a high-statistics, multivolume lattice QCD exploration of the deuteron, the dineutron, the H-dibaryon, and the \u039e\u2212 \u039e\u2212 system at a pion mass of m \u03c0\u223c 390 MeV are presented. Calculations were performed with an anisotropic n f= 2+ 1 clover discretization in four lattice volumes of spatial extent L\u223c 2.0, 2.5, 2.9, and 3.9 fm, with a lattice spacing of b s\u223c 0.123 fm in the spatial direction and b t\u223c b s\/3.5 in the time direction. Using the results obtained in the largest two volumes, the \u039e\u2212 \u039e\u2212 is found to be bound by B \u039e\u2212 \u039e\u2212 0= 14.0 (1.4)(6.7) MeV, consistent with expectations based upon phenomenological models and low-energy effective field theories constrained by nucleon-nucleon and hyperon-nucleon scattering data at the physical light-quark masses. Further, we find that the deuteron and the dineutron have binding energies of B d= 11 (05)(12) MeV and B n n= 7.1 (5.2)(7.3) MeV, respectively. With an \u2026",
+                "We show that a central 1\/r n singular potential (with n>~ 2) is renormalized by a one-parameter square-well counterterm; low-energy observables are made independent of the square-well width by adjusting the square-well strength. We find a closed form expression for the renormalization-group evolution of the square-well counterterm.",
+                "We point out a redundancy in the operator structure of the pionless effective field theory, EFT(\u03c0\u0335), which dramatically simplifies computations. This redundancy is best exploited by using dibaryon fields as fundamental degrees of freedom. In turn, this suggests a new power counting scheme which sums range corrections to all orders. We explore this method with a few simple observables: the deuteron charge form factor, np\u2192d\u03b3, and Compton scattering from the deuteron. Unlike EFT(\u03c0\u0335), the higher-dimension operators involving electroweak gauge fields are not renormalized by the s-wave strong interactions, and therefore do not scale with inverse powers of the renormalization scale. Thus, naive dimensional analysis of these operators is sufficient to estimate their contribution to a given process."
+            ],
+            [
+                [
+                    "Nuclear physics",
+                    "Nuclear theory",
+                    "Lattice QCD",
+                    "Particle physics"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "Time-dependent density-functional theory (TDDFT) describes the quantum dynamics of interacting electronic many-body systems formally exactly and in a practical and efficient manner. TDDFT has become the leading method for calculating excitation energies and optical properties of large molecules, with accuracies that rival traditional wave-function based methods, but at a fraction of the computational cost. This book is the first graduate-level text on the concepts and applications of TDDFT, including many examples and exercises, and extensive coverage of the literature. The book begins with a self-contained review of ground-state DFT, followed by a detailed and pedagogical treatment of the formal framework of TDDFT. It is explained how excitation energies can be calculated from linear-response TDDFT. Among the more advanced topics are time-dependent current-density-functional theory, orbital functionals, and many-body theory. Many applications are discussed, including molecular excitations, ultrafast and strong-field phenomena, excitons in solids, van der Waals interactions, nanoscale transport, and molecular dynamics.",
+            "Time-Dependent Density-Functional Theory: Concepts and Applications",
+            "Carsten A Ullrich",
+            "2012",
+            "CHm4c7YAAAAJ:7PzlFSSx8tAC",
+            876,
+            "http:\/\/books.google.com\/books?hl=en&lr=&id=pLycQCW-2BwC&oi=fnd&pg=PR9&dq=info:771PySosL-oJ:scholar.google.com&ots=V_v3NU_puK&sig=hxS8bFv9kkdtCjqdtYomA0Unx2E",
+            "16874754891058232815",
+            "\/scholar?cites=16874754891058232815",
+            {
+                "2011":5,
+                "2012":24,
+                "2013":57,
+                "2014":89,
+                "2015":81,
+                "2016":112,
+                "2017":101,
+                "2018":144,
+                "2019":105,
+                "2020":139,
+                "2021":10
+            }
+        ],
+        [
+            "The year 2004 was a remarkable one for the growing? eld of time-dependent density functional theory (TDDFT). Not only did we celebrate the 40th-niversary of the Hohenberg-Kohn paper, which had laid the foundation for ground-state density functional theory (DFT), but it was also the 20th-niversary of the work by Runge and Gross, establishing a? rm footing for the time-dependent theory. Because the? eld has grown to such prominence, and has spread to so many areas of science (from materials to biochemistry), we feel that a volume dedicated to TDDFT is most timely. TDDFT is based on a set of ideas and theorems quite distinct from those governingground-stateDFT, butemployingsimilar techniques. Itisfarmore than just applying ground-state DFT to time-dependent problems, as it-volves its own exact theorems and new and di? erent density functionals. Presently, themostpopularapplicationistheextractionofelectronicexcit-state properties, especially transition frequencies. By applying TDDFT after thegroundstateofamoleculehasbeenfound, wecanexploreandunderstand the complexity of its spectrum, thus providing much more information about the species. TDDFT has a especially strong impact in the photochemistry of biological molecules, where the molecules are too large to be handled by t-ditional quantum chemical methods, and are too complex to be understood with simple empirical frontier orbital theory.",
+            "Time-dependent density functional theory",
+            "Miguel Marques and Angel Rubio and Eberhard KU Gross and Kieron Burke and Fernando Nogueira and Carsten A Ullrich",
+            "2006",
+            "CHm4c7YAAAAJ:_xSYboBqXhAC",
+            736,
+            "http:\/\/books.google.com\/books?hl=en&lr=&id=l_l-o-qliqkC&oi=fnd&pg=PR5&dq=info:jJ3CUJFcLYsJ:scholar.google.com&ots=kSayzGNkpC&sig=x9_t8ZHa4SPfOxlEXDbA1M0cXbU",
+            "10028773724418907532",
+            "\/scholar?cites=10028773724418907532",
+            {
+                "2006":4,
+                "2007":30,
+                "2008":37,
+                "2009":49,
+                "2010":59,
+                "2011":73,
+                "2012":66,
+                "2013":63,
+                "2014":64,
+                "2015":51,
+                "2016":45,
+                "2017":45,
+                "2018":56,
+                "2019":47,
+                "2020":40,
+                "2021":5
+            }
+        ]
+    ]
+}

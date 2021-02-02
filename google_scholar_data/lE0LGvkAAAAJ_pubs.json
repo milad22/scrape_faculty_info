@@ -1,0 +1,55 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "The Semantic Web is used to get the machine readable descriptions of the information already on the web, in order to improve search and data usage in the huge decentralized environment. It is an efficient proposed way of representing data on the World Wide Web, or as a globally linked database which is distributed in the form of RDF (Resource Description Framework), a standard for metadata encoding and knowledge exchange on Web. A RDF query language known as SPARQL (Simple Protocol and RDF Query Language), defines standard query language and data access protocol which is used with RDF data model and it works for every data source which can be mapped to RDF which uses SPARQL to retrieve data. SPARQL significance has been realized and incorporated in the new architecture of Semantic Web proposed by Sir Tim Berner's Lee. First, this paper focuses on role and usage of SPARQL \u2026",
+            "SPARQL Semantics and execution analysis in Semantic Web using various tools",
+            "Rupal Gupta and Sanjay Kumar Malik",
+            "2011",
+            "lE0LGvkAAAAJ:L8Ckcad2t8MC",
+            18,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/5966453\/",
+            "8606187625791092012",
+            "\/scholar?cites=8606187625791092012",
+            {
+                "2011":1,
+                "2012":4,
+                "2013":3,
+                "2014":1,
+                "2015":2,
+                "2016":3,
+                "2017":1,
+                "2018":2
+            }
+        ],
+        [
+            "Semantic web has emerged as a new upcoming version of machine-understandable web with intelligent search results in order to improving search and data usage on the global scale. Semantic web vision is to allow intelligent description and interchange of integrated data from various distributed and heterogeneous web resources. A structure for this data on web is known as Resource Description Framework (RDF) where data is resist in the form of XML (Extended Markup Language). For effective and efficient Retrieval of the data from such large RDF, a query language SPARQL (Standard Protocol and RDF Query Language) is used.",
+            "Roles and Usages of RDF, SPARQL and Ontology tools in Semantic Web",
+            "Rupal Gupta and Ruchika Gupta and Ashish Bishnoi",
+            "2014",
+            "lE0LGvkAAAAJ:pyW8ca7W8N0C",
+            1,
+            "https:\/\/pdfs.semanticscholar.org\/209e\/55b47153ac7c3c9cb015b6aa9a6fe1d9adad.pdf",
+            "13199441164118202162",
+            "\/scholar?cites=13199441164118202162",
+            {
+                "2020":1
+            }
+        ]
+    ]
+}

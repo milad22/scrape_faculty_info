@@ -1,0 +1,88 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "YXG3zVgAAAAJ",
+            "Tracy .E Roberts",
+            "Professor of Health Economics, University of Birmingham",
+            "@bham.ac.uk",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=YXG3zVgAAAAJ",
+            6744,
+            [
+                "Health Economics"
+            ],
+            3845,
+            43,
+            33,
+            97,
+            81,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9W1U4lYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Professor Khalid Khan",
+                    "affiliation":"Distinguished Investigator, University of Granada, Spain"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"sUk0OFYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jon Deeks",
+                    "affiliation":"Professor of Biostatistics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"jisNe5AAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hareth Al-Janabi",
+                    "affiliation":"Professor of Health Economics, University of Birmingham"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Z_I3eOoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Louise J Jackson",
+                    "affiliation":"Health Economics Research Fellow, University of Birmingham"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "54FXI7OJ",
+            "-WSKa84AAAAJ",
+            [
+                "Parameter-free calculations of X-ray spectra with FEFF9",
+                "Ab initio theory and calculations of X-ray spectra"
+            ],
+            [
+                "We briefly review our implementation of the real-space Green's function (RSGF) approach for calculations of X-ray spectra, focusing on recently developed parameter free models for dominant many-body effects. Although the RSGF approach has been widely used both for near edge (XANES) and extended (EXAFS) ranges, previous implementations relied on semi-phenomenological methods, e.g., the plasmon-pole model for the self-energy, the final-state rule for screened core hole effects, and the correlated Debye model for vibrational damping. Here we describe how these approximations can be replaced by efficient ab initio models including a many-pole model of the self-energy, inelastic losses and multiple-electron excitations; a linear response approach for the core hole; and a Lanczos approach for Debye\u2013Waller effects. We also discuss the implementation of these models and software improvements within \u2026",
+                "There has been dramatic progress in recent years both in the calculation and interpretation of various x-ray spectroscopies. However, current theoretical calculations often use a number of simplified models to account for many-body effects, in lieu of first principles calculations. In an effort to overcome these limitations we describe in this article a number of recent advances in theory and in theoretical codes which offer the prospect of parameter free calculations that include the dominant many-body effects. These advances are based on ab initio calculations of the dielectric and vibrational response of a system. Calculations of the dielectric function over a broad spectrum yield system dependent self-energies and mean-free paths, as well as intrinsic losses due to multi-electron excitations. Calculations of the dynamical matrix yield vibrational damping in terms of multiple-scattering Debye\u2013Waller factors. Our ab initio \u2026"
+            ],
+            [
+                [
+
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "OJ0C7CGJ",
+            "J2R5OfQAAAAJ",
+            [
+                "ISODISPLACE: a web\u2010based tool for exploring structural distortions",
+                "Microscopic annealing process and its impact on superconductivity in T\u2032-structure electron-doped copper oxides",
+                "Generation of (3+ d)-dimensional superspace groups for describing the symmetry of modulated crystalline structures",
+                "Charge ordering and phase competition in the layered perovskite LaSr2Mn2O7",
+                "Glass transition in the polaron dynamics of colossal magnetoresistive manganites"
+            ],
+            [
+                "ISODISPLACE is a new internet-server tool for exploring structural phase transitions. Given parent-phase structural information, it generates atomic displacement patterns induced by irreducible representations of the parent space-group symmetry and allows a user to visualize and manipulate the amplitude of each distortion mode interactively. ISODISPLACE is freely accessible at http:\/\/stokes.byu.edu\/isodisplace.html via common internet browsers.",
+                "High-transition-temperature superconductivity arises in copper oxides when holes or electrons are doped into the CuO 2 planes of their insulating parent compounds. Whereas hole doping quickly induces metallic behaviour and superconductivity in many cuprates, electron doping alone is insufficient in materials such as R 2 CuO 4 (R is Nd, Pr, La, Ce and so on), where it is necessary to anneal an as-grown sample in a low-oxygen environment to remove a tiny amount of oxygen in order to induce superconductivity. Here we show that the microscopic process of oxygen reduction repairs Cu deficiencies in the as-grown materials and creates oxygen vacancies in the stoichiometric CuO 2 planes, effectively reducing disorder and providing itinerant carriers for superconductivity. The resolution of this long-standing materials issue suggests that the fundamental mechanism for superconductivity is the same for electron \u2026",
+                "A complete table of (3 + 1)D, (3 + 2)D and (3 + 3)D superspace groups (SSGs) has been enumerated that corrects omissions and duplicate entries in previous tables of superspace groups and Bravais classes. The theoretical methods employed are not new, though the implementation is both novel and robust. The paper also describes conventions for assigning a unique one-line symbol for each group in the table. Finally, a new online data repository is introduced that delivers more complete information about each SSG than has been presented previously.",
+                "Charge-lattice fluctuations are observed in the layered perovskite manganite LaSr 2 Mn 2 O 7 by Raman spectroscopy at temperatures as high as 340 K, and with decreasing temperature they become static, forming a charge-ordered (CO) phase below T CO= 210 K. In the static regime, superlattice reflections are observed by neutron and x-ray diffraction with a propagation vector (1\/4,-1\/4, 0). Crystallographic analysis of the CO state demonstrates that the degree of charge and orbital ordering in this manganite is weaker than that in the three-dimensional perovskite manganites. Below T N= 170 K, type-A antiferromagnetism (AF) develops and competes with the charge ordering, causing it to eventually melt below T*= 100 K. High-resolution diffraction measurements suggest that the CO and AF states do not coincide within the same region of material, but rather coexist as separate phases. The transition to type-A \u2026",
+                "Neutron scattering measurements on a bilayer manganite near optimal doping show that the short-range polaron correlations are completely dynamic at high T, but then freeze upon cooling to a temperature T*\u2248 310 K. This glass transition suggests that the paramagnetic\/insulating state arises from an inherent orbital frustration that inhibits the formation of a long-range orbital-and charge-ordered state. Upon further cooling into the ferromagnetic-metallic state (T C= 114 K), where the polarons melt, the diffuse scattering quickly develops into a propagating, transverse optic phonon."
+            ],
+            [
+                [
+                    "materials physics",
+                    "group representation theory",
+                    "structure-property relations",
+                    "atomo-structural science"
+                ]
+            ]
+        ]
+    ]
+}

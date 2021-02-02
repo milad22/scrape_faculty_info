@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "6V32R6R7",
+            "BWUGu60AAAAJ",
+            [
+                "Encyclopedia of surface and colloid science",
+                "Conducting nanowires built by controlled self-assembly of amyloid fibers and selective metal deposition",
+                "Rapid, accurate particle tracking by calculation of radial symmetry centers",
+                "Electronic transport in metal nanocrystal arrays: The effect of structural disorder on scaling behavior",
+                "Curvature-modulated phase separation in lipid bilayer membranes",
+                "Percolating through networks of random thresholds: Finite temperature electron tunneling in metal nanocrystal arrays",
+                "A Bright Fluorescent Probe for H2S Enables Analyte-Responsive, 3D Imaging in Live Zebrafish Using Light Sheet Fluorescence Microscopy",
+                "Quantum phase transition of a magnet in a spin bath"
+            ],
+            [
+                "This comprehensive reference collects fundamental theories and recent research from a wide range of fields including biology, biochemistry, physics, applied mathematics, and computer, materials, surface, and colloid science-providing key references, tools, and analytical techniques for practical applications in industrial, agricultural, and forensic processes, as well as in the production of natural and synthetic compounds such as foods, minerals, paints, proteins, pharmaceuticals, polymers, and soaps.",
+                "Recent research in the field of nanometer-scale electronics has focused on the operating principles of small-scale devices and schemes to realize useful circuits. In contrast to established \u201ctop-down\u201d fabrication techniques, molecular self-assembly is emerging as a \u201cbottom-up\u201d approach for fabricating nanostructured materials. Biological macromolecules, especially proteins, provide many valuable properties, but poor physical stability and poor electrical characteristics have prevented their direct use in electrical circuits. Here we describe the use of self-assembling amyloid protein fibers to construct nanowire elements. Self-assembly of a prion determinant from Saccharomyces cerevisiae, the N-terminal and middle region (NM) of Sup35p, produced 10-nm-wide protein fibers that were stable under a wide variety of harsh physical conditions. Their lengths could be roughly controlled by assembly conditions in the \u2026",
+                "I introduce an algorithm for subpixel localization of imaged objects based on an analytic, non-iterative calculation of the best-fit radial symmetry center. This approach yields tracking accuracies that are near theoretical limits, similarly to Gaussian fitting, but with orders-of-magnitude faster execution time, lower sensitivity to nearby particles and applicability to any radially symmetric intensity distribution. I demonstrate the method with several types of data, including super-resolution microscopy images.",
+                "We investigate the impact of structural disorder on electronic transport in gold nanocrystal monolayers. Arrays ranging from void-filled networks to well-ordered superlattices show clear voltage thresholds (V T) due to Coulomb blockade, and temperature-independent conduction indicative of quantum tunneling. Current-voltage characteristics of arrays with and without long-range structural order were found to collapse onto distinct scaling curves. The former follow a single power law: I\u223c(V\u2212 V T) \u03b6, \u03b6= 2.25\u00b10.1. The latter show additional structure, reflecting the underlying disordered topology.",
+                "Cellular membranes exhibit a variety of controlled curvatures, with filopodia, microvilli, and mitotic cleavage furrows being only a few of many examples. Coupling between local curvature and chemical composition in membranes could provide a means of mechanically controlling the spatial organization of membrane components. Although this concept has surfaced repeatedly over the years, controlled experimental investigations have proven elusive. Here, we introduce an experimental platform, in which microfabricated surfaces impose specific curvature patterns onto lipid bilayers, that allows quantification of mechanochemical couplings in membranes. We find that, beyond a critical curvature value, membrane geometry governs the spatial ordering of phase-separated domain structures in membranes composed of cholesterol and phospholipids. The curvature-controlled ordering, a consequence of the distinct \u2026",
+                "We investigate how temperature affects transport through large networks of nonlinear conductances with distributed thresholds. In monolayers of weakly coupled gold nanocrystals, quenched charge disorder produces a range of local thresholds for the onset of electron tunneling. Our measurements delineate two regimes separated by a crossover temperature T*. Up to T* the nonlinear zero-temperature shape of the current-voltage curves survives, but with a threshold voltage for conduction that decreases linearly with temperature. Above T* the threshold vanishes and the low-bias conductance increases rapidly with temperature. We develop a model that accounts for these findings and predicts T*.",
+                "Hydrogen sulfide (H2S) is a critical gaseous signaling molecule emerging at the center of a rich field of chemical and biological research. As our understanding of the complexity of physiological H2S in signaling pathways evolves, advanced chemical and technological investigative tools are required to make sense of this interconnectivity. Toward this goal, we have developed an azide-functionalized O-methylrhodol fluorophore, MeRho-Az, which exhibits a rapid >1000-fold fluorescence response when treated with H2S, is selective for H2S over other biological analytes, and has a detection limit of 86 nM. Additionally, the MeRho-Az scaffold is less susceptible to photoactivation than other commonly used azide-based systems, increasing its potential application in imaging experiments. To demonstrate the efficacy of this probe for H2S detection, we demonstrate the ability of MeRho-Az to detect differences in H2S \u2026",
+                "The excitation spectrum of a model magnetic system, LiHoF4, was studied with the use of neutron spectroscopy as the system was tuned to its quantum critical point by an applied magnetic field. The electronic mode softening expected for a quantum phase transition was forestalled by hyperfine coupling to the nuclear spins. We found that interactions with the nuclear spin bath controlled the length scale over which the excitations could be entangled. This generic result places a limit on our ability to observe intrinsic electronic quantum criticality."
+            ],
+            [
+                [
+                    "Biophysics",
+                    "Microscopy",
+                    "Microbiology",
+                    "Membranes",
+                    "Gut microbiota"
+                ]
+            ]
+        ]
+    ]
+}

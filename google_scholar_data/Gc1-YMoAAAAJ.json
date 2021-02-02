@@ -1,0 +1,54 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Gc1-YMoAAAAJ",
+            "Vipul Kumar Pandey",
+            "Guest Lecturer, University of Delhi",
+            "",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=Gc1-YMoAAAAJ",
+            21,
+            [
+                "Field Theory",
+                "String theory",
+                "Mathematical Physics"
+            ],
+            21,
+            2,
+            2,
+            1,
+            1,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"nGtW3GAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Bhabani Prasad Mandal",
+                    "affiliation":"Professor of Physics, BHU"
+                }
+            ]
+        ]
+    ]
+}

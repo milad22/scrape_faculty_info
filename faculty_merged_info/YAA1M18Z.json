@@ -1,0 +1,33 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "YAA1M18Z",
+            "BJDC0QkAAAAJ",
+            [
+                "A self-consistent theory for graphene transport",
+                "Floquet topological insulator in semiconductor quantum wells",
+                "Topological kondo insulators"
+            ],
+            [
+                "We demonstrate theoretically that most of the observed transport properties of graphene sheets at zero magnetic field can be explained by scattering from charged impurities. We find that, contrary to common perception, these properties are not universal but depend on the concentration of charged impurities nimp. For dirty samples (250 \u00d7 1010 cm\u22122 < nimp < 400 \u00d7 1010 cm\u22122), the value of the minimum conductivity at low carrier density is indeed 4e2\/h in agreement with early experiments, with weak dependence on impurity concentration. For cleaner samples, we predict that the minimum conductivity depends strongly on nimp, increasing to 8e2\/h for nimp \u2248 20 \u00d7 1010 cm\u22122. A clear strategy to improve graphene mobility is to eliminate charged impurities or use a substrate with a larger dielectric constant.",
+                "Topological phases of matter have captured our imagination over the past few years, with tantalizing properties such as robust edge modes and exotic non-Abelian excitations, and potential applications ranging from semiconductor spintronics to topological quantum computation. Despite recent advancements in the field, our ability to control topological transitions remains limited, and usually requires changing material or structural properties. We show, using Floquet theory, that a topological state can be induced in a semiconductor quantum well, initially in the trivial phase. This can be achieved by irradiation with microwave frequencies, without changing the well structure, closing the gap and crossing the phase transition. We show that the quasi-energy spectrum exhibits a single pair of helical edge states. We discuss the necessary experimental parameters for our proposal. This proposal provides an example and \u2026",
+                "Kondo insulators are a particularly simple type of heavy electron material, where a filled band of heavy quasiparticles gives rise to a narrow band insulator. Starting with the Anderson lattice Hamiltonian, we develop a topological classification of emergent band structures for Kondo insulators and show that these materials may host three-dimensional topological insulating phases. We propose a general and practical prescription of calculating the Z 2 topological indices for various lattice structures. Experimental implications of the topological Kondo insulating behavior are discussed."
+            ],
+            [
+                [
+                    "Theoretical condensed matter and AMO physics"
+                ]
+            ]
+        ]
+    ]
+}

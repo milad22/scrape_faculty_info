@@ -1,0 +1,40 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "In this paper, we develop an agent-based model of social influence on body weight. The model's assumptions are grounded in theory and evidence from physiology, social psychology, and behavioral science, and its outcomes are tested against longitudinal data from American youth. We discuss the implementation of the model, the insights it generates, and its implications for public health policy. By explicating a well-grounded dynamic mechanism, our analysis helps clarify important dependencies for both efforts to leverage social influence for obesity intervention and efforts to interpret clustering of BMI in networks.",
+            "A model of social influence on body mass index",
+            "Ross A Hammond and Joseph T Ornstein",
+            "2014",
+            "HXC86u8AAAAJ:u-x6o8ySG0sC",
+            58,
+            "https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC4133329\/",
+            "11147698457227894280",
+            "\/scholar?cites=11147698457227894280",
+            {
+                "2014":5,
+                "2015":9,
+                "2016":7,
+                "2017":6,
+                "2018":11,
+                "2019":8,
+                "2020":9,
+                "2021":2
+            }
+        ]
+    ]
+}

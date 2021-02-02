@@ -1,0 +1,76 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "1zP6aQYAAAAJ",
+            "Khusboo Rana",
+            "Ames National Laboratory",
+            "@iastate.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=1zP6aQYAAAAJ",
+            23,
+            [
+                "Experimental Condensed Matter Physics"
+            ],
+            23,
+            3,
+            3,
+            1,
+            1,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"55kDCekAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Paul Wiecki",
+                    "affiliation":"Karlsruhe Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"VqR_wWoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Anna E. B\u00f6hmer",
+                    "affiliation":"Professor of Experimental Physics, Ruhr-University Bochum"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Z8o-B5IAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Qing-Ping Ding",
+                    "affiliation":"Ames Laboratory, Iowa State University"
+                }
+            ]
+        ]
+    ]
+}

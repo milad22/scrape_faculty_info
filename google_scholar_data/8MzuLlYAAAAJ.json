@@ -1,0 +1,103 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "8MzuLlYAAAAJ",
+            "Joseph Avenoso",
+            "University of Delaware",
+            "@udel.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=8MzuLlYAAAAJ",
+            12,
+            [
+                "ultrafast spectroscopy",
+                "solid-state physics",
+                "nanomaterials",
+                "quantum chemistry"
+            ],
+            12,
+            3,
+            3,
+            0,
+            0,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"nglwRaYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Lars Gundlach",
+                    "affiliation":"Professor of Chemistry and Physics, University of Delaware"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"GMLEp6MAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Zhengxin Li",
+                    "affiliation":"Micron Technology, University of Delaware"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"-q1eSOoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Meng Jia",
+                    "affiliation":"University of Delaware"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"HRvEkcYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Luis G. C. Rego",
+                    "affiliation":"Departamento de F\u00edsica, Universidade Federal de Santa Catarina"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"65n7cegAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Baxter Abraham",
+                    "affiliation":"SLAC National Accelerator Laboratory"
+                }
+            ]
+        ]
+    ]
+}

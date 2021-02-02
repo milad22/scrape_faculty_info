@@ -1,0 +1,225 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "We introduce a general and systematic theoretical framework for operational dynamic modeling (ODM) by combining a kinematic description of a model with the evolution of the dynamical average values. The kinematics includes the algebra of the observables and their defined averages. The evolution of the average values is drawn in the form of Ehrenfest-like theorems. We show that ODM is capable of encompassing wide-ranging dynamics from classical non-relativistic mechanics to quantum field theory. The generality of ODM should provide a basis for formulating novel theories.",
+            "Operational dynamic modeling transcending quantum and classical mechanics",
+            "Denys I Bondar and Renan Cabrera and Robert R Lompay and Misha Yu Ivanov and Herschel A Rabitz",
+            "2012",
+            "QSZ7takAAAAJ:UeHWp8X0CEIC",
+            64,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.109.190403",
+            "13638589793021413966",
+            "\/scholar?cites=13638589793021413966",
+            {
+                "2013":6,
+                "2014":6,
+                "2015":8,
+                "2016":7,
+                "2017":4,
+                "2018":5,
+                "2019":14,
+                "2020":14
+            }
+        ],
+        [
+            "The Yudin-Ivanov formula [Phys. Rev. A 64, 013409 (2001)] is generalized such that the most general analytical expression for single-electron spectra, which includes the dependence on the instantaneous laser phase, is obtained within the strong field approximation. No assumptions on the momentum of the electron are made. Previously known formulas for single-electron spectra can be obtained as approximations to the general formula.",
+            "Instantaneous multiphoton ionization rate and initial distribution of electron momentum",
+            "Denys I Bondar",
+            "2008",
+            "QSZ7takAAAAJ:u-x6o8ySG0sC",
+            54,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.78.015405",
+            "12277444321580132091",
+            "\/scholar?cites=12277444321580132091",
+            {
+                "2009":6,
+                "2010":3,
+                "2011":4,
+                "2012":1,
+                "2013":6,
+                "2014":5,
+                "2015":2,
+                "2016":10,
+                "2017":5,
+                "2018":4,
+                "2019":8
+            }
+        ],
+        [
+            "The Wigner function is a useful tool for exploring the transition between quantum and classical dynamics, as well as the behavior of quantum chaotic systems. Evolving the Wigner function for open systems has proved challenging, however; a variety of methods have been devised but suffer from being cumbersome and resource intensive. Here we present an efficient fast-Fourier method for evolving the Wigner function that has a complexity of O (N log N) where N is the size of the array storing the Wigner function. The efficiency, stability, and simplicity of this method allows us to simulate open-system dynamics previously thought to be prohibitively expensive. As a demonstration we simulate the dynamics of both one-particle and two-particle systems under various environmental interactions. For a single particle we also compare the resulting evolution with that of the classical Fokker\u2013Planck and Koopman\u2013von \u2026",
+            "Efficient method to generate time evolution of the Wigner function for open quantum systems",
+            "Renan Cabrera and Denys I Bondar and Kurt Jacobs and Herschel A Rabitz",
+            "2015",
+            "QSZ7takAAAAJ:7PzlFSSx8tAC",
+            37,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.92.042122",
+            "17176788789554839092",
+            "\/scholar?cites=17176788789554839092",
+            {
+                "2016":10,
+                "2017":7,
+                "2018":11,
+                "2019":6,
+                "2020":1
+            }
+        ],
+        [
+            "We demonstrate that the Wigner function of a pure quantum state is a wave function in a specially tuned Dirac bra-ket formalism and argue that the Wigner function is in fact a probability amplitude for the quantum particle to be at a certain point of the classical phase space. Additionally, we establish that in the classical limit, the Wigner function transforms into a classical Koopman\u2013von Neumann wave function rather than into a classical probability distribution. Since probability amplitude need not be positive, our findings provide an alternative outlook on the Wigner function's negativity.",
+            "Wigner phase-space distribution as a wave function",
+            "Denys I Bondar and Renan Cabrera and Dmitry V Zhdanov and Herschel A Rabitz",
+            "2013",
+            "QSZ7takAAAAJ:maZDTaKrznsC",
+            37,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.88.052108",
+            "15995447001102325594",
+            "\/scholar?cites=15995447001102325594",
+            {
+                "2014":6,
+                "2015":7,
+                "2016":7,
+                "2017":2,
+                "2018":4,
+                "2019":10,
+                "2020":1
+            }
+        ],
+        [
+            "We develop an analytical model of correlated two-electron ionization in strong infrared laser fields. The model includes all relevant interactions between the electrons, the laser field, and the ionic core nonperturbatively. We focus on the deeply quantum regime, where the energy of the active electron driven by the laser field is insufficient to collisionally ionize the parent ion, and the assistance of the laser field is required to create a doubly charged ion. In this regime, the electron-electron and the electron-ion interactions leave distinct footprints in the correlated two-electron spectra, recording the mutual dynamics of the escaping electrons.",
+            "Two-electron ionization in strong laser fields below intensity threshold: Signatures of attosecond timing in correlated spectra",
+            "Denys I Bondar and Wing-Ki Liu and Misha Yu Ivanov",
+            "2009",
+            "QSZ7takAAAAJ:u5HHmVD_uO8C",
+            29,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.79.023417",
+            "4257623711601068104",
+            "\/scholar?cites=4257623711601068104",
+            {
+                "2009":2,
+                "2010":6,
+                "2011":8,
+                "2012":5,
+                "2013":1,
+                "2014":2,
+                "2015":1,
+                "2016":2,
+                "2017":1,
+                "2018":1
+            }
+        ],
+        [
+            "The Hamiltonian encoding observable decoding (HE-OD) technique is experimentally demonstrated for process tomography of laser-induced dynamics in atomic Rb vapor. With the assistance of a laser pulse truncation method, a time dependent reconstruction of the quantum evolution is achieved. HE-OD can perform full as well as partial process tomography with appropriate measurements to characterize the system. The latter feature makes HE-OD tomography suitable for analyzing quantum processes in complex systems.",
+            "Time-resolved quantum process tomography using hamiltonian-encoding and observable-decoding",
+            "Roberto Rey-de-Castro and Renan Cabrera and Denys I Bondar and Herschel Rabitz",
+            "2013",
+            "QSZ7takAAAAJ:L8Ckcad2t8MC",
+            20,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/1367-2630\/15\/2\/025032\/meta",
+            "13915105649400612501",
+            "\/scholar?cites=13915105649400612501",
+            {
+                "2013":2,
+                "2014":4,
+                "2015":3,
+                "2016":3,
+                "2017":3,
+                "2018":1,
+                "2019":4
+            }
+        ],
+        [
+            "Dissipative forces are ubiquitous and thus constitute an essential part of realistic physical theories. However, quantization of dissipation has remained an open challenge for nearly a century. We construct a quantum counterpart of classical friction, a velocity-dependent force acting against the direction of motion. In particular, a translationary invariant Lindblad equation is derived satisfying the appropriate dynamical relations for the coordinate and momentum (i.e., the Ehrenfest equations). Numerical simulations establish that the model approximately equilibrates. These findings significantly advance a long search for a universally valid Lindblad model of quantum friction and open opportunities for exploring novel dissipation phenomena.",
+            "Wigner\u2013lindblad equations for quantum friction",
+            "Denys I Bondar and Renan Cabrera and Andre Campos and Shaul Mukamel and Herschel A Rabitz",
+            "2016",
+            "QSZ7takAAAAJ:nroGzMJTTpEC",
+            17,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acs.jpclett.6b00498",
+            "12951233915666509671",
+            "\/scholar?cites=12951233915666509671",
+            {
+                "2016":4,
+                "2017":2,
+                "2018":6,
+                "2019":2,
+                "2020":1
+            }
+        ],
+        [
+            "We use analytic methods to analyze the discrete spectrum for the problem (Z1eZ2)2 in the united-atom limit (R \u226a 1) and obtain asymptotic expansions for the quantum defect and energy terms of the system (Z1eZ2)2 at small intercenter distances R up to terms of the order O(R6). We investigate the effect of the dimensionality factor on the energy spectrum of the hydrogen molecular ion H                   2 +                 .",
+            "Two-dimensional problem of two Coulomb centers at small intercenter distances",
+            "Denis Ivanovich Bondar and M Hnatich and V Yu Lazur",
+            "2006",
+            "QSZ7takAAAAJ:ULOm3_A8WrAC",
+            16,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/s11232-006-0104-7.pdf",
+            "621943972777264165",
+            "\/scholar?cites=621943972777264165",
+            {
+                "2007":2,
+                "2008":1,
+                "2009":4,
+                "2010":2,
+                "2011":2,
+                "2012":3,
+                "2013":2
+            }
+        ],
+        [
+            "We present an open-system interaction formalism for the Dirac equation. Overcoming a complexity bottleneck of alternative formulations, our framework enables efficient numerical simulations (utilizing a typical desktop) of relativistic dynamics within the von Neumann density matrix and Wigner phase-space descriptions. Employing these instruments, we gain important insights into the effect of quantum dephasing for relativistic systems in many branches of physics. In particular, the conditions for robustness of Majorana spinors against dephasing are established. Using the Klein paradox and tunneling as examples, we show that quantum dephasing does not suppress negative energy particle generation. Hence, the Klein dynamics is also robust to dephasing.",
+            "Dirac open-quantum-system dynamics: Formulations and simulations",
+            "Renan Cabrera and Andre G Campos and Denys I Bondar and Herschel A Rabitz",
+            "2016",
+            "QSZ7takAAAAJ:blknAaTinKkC",
+            15,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.94.052111",
+            "16399510761711898846",
+            "\/scholar?cites=16399510761711898846",
+            {
+                "2017":4,
+                "2018":3,
+                "2019":2,
+                "2020":4
+            }
+        ],
+        [
+            "Upon revisiting the Hamiltonian structure of classical wavefunctions in Koopman\u2013von Neumann theory, this paper addresses the long-standing problem of formulating a dynamical theory of classical\u2013quantum coupling. The proposed model not only describes the influence of a classical system onto a quantum one, but also the reverse effect\u2014the quantum backreaction. These interactions are described by a new Hamiltonian wave equation overcoming shortcomings of currently employed models. For example, the density matrix of the quantum subsystem is always positive definite. While the Liouville density of the classical subsystem is generally allowed to be unsigned, its sign is shown to be preserved in time for a specific infinite family of hybrid classical\u2013quantum systems. The proposed description is illustrated and compared with previous theories using the exactly solvable model of a degenerate two-level \u2026",
+            "Koopman wavefunctions and classical\u2013quantum correlation dynamics",
+            "Denys I Bondar and Fran\u00e7ois Gay-Balmaz and Cesare Tronci",
+            "2019",
+            "QSZ7takAAAAJ:Yw6v6SrDvuUC",
+            14,
+            "https:\/\/royalsocietypublishing.org\/doi\/abs\/10.1098\/rspa.2018.0879",
+            "3927710912050845477",
+            "\/scholar?cites=3927710912050845477",
+            {
+                "2018":1,
+                "2019":2,
+                "2020":11
+            }
+        ]
+    ]
+}

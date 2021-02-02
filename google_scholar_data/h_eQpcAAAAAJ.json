@@ -1,0 +1,52 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "h_eQpcAAAAAJ",
+            "Francisca M\u00e1rquez Belloni",
+            "Universidad Alberto Hurtado",
+            "@uahurtado.cl",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=h_eQpcAAAAAJ",
+            127,
+            [
+                "Antropologia"
+            ],
+            84,
+            6,
+            4,
+            3,
+            3,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"agqX9ugAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Walter Alejandro Imilan",
+                    "affiliation":"Universidad Central de Chile"
+                }
+            ]
+        ]
+    ]
+}

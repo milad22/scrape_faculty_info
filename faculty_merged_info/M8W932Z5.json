@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "M8W932Z5",
+            "qnuz4yIAAAAJ",
+            [
+                "Single-spin addressing in an atomic Mott insulator",
+                "Light-cone-like spreading of correlations in a quantum many-body system",
+                "Exploring the many-body localization transition in two dimensions",
+                "Observation of spatially ordered structures in a two-dimensional Rydberg gas",
+                "Quantum dynamics of a mobile spin impurity",
+                "Microscopic observation of magnon bound states and their dynamics",
+                "The 'Higgs' amplitude mode at the two-dimensional superfluid\/Mott insulator transition",
+                "Observation of correlated particle-hole pairs and string order in low-dimensional Mott insulators",
+                "Crystallization in Ising quantum magnets"
+            ],
+            [
+                "Ultracold atoms in optical lattices provide a versatile tool with which to investigate fundamental properties of quantum many-body systems. In particular, the high degree of control of experimental parameters has allowed the study of many interesting phenomena, such as quantum phase transitions and quantum spin dynamics. Here we demonstrate how such control can be implemented at the most fundamental level of a single spin at a specific site of an optical lattice. Using a tightly focused laser beam together with a microwave field, we were able to flip the spin of individual atoms in a Mott insulator with sub-diffraction-limited resolution, well below the lattice spacing. The Mott insulator provided us with a large two-dimensional array of perfectly arranged atoms, in which we created arbitrary spin patterns by sequentially addressing selected lattice sites after freezing out the atom distribution. We directly monitored the \u2026",
+                "In relativistic quantum field theory, information propagation is bounded by the speed of light. No such limit exists in the non-relativistic case, although in real physical systems, short-range interactions may be expected to restrict the propagation of information to finite velocities. The question of how fast correlations can spread in quantum many-body systems has been long studied 1. The existence of a maximal velocity, known as the Lieb\u2013Robinson bound, has been shown theoretically to exist in several interacting many-body systems (for example, spins on a lattice 2, 3, 4, 5)\u2014such systems can be regarded as exhibiting an effective light cone that bounds the propagation speed of correlations. The existence of such a \u2018speed of light\u2019has profound implications for condensed matter physics and quantum information, but has not been observed experimentally. Here we report the time-resolved detection of propagating \u2026",
+                "A fundamental assumption in statistical physics is that generic closed quantum many-body systems thermalize under their own dynamics. Recently, the emergence of many-body localized systems has questioned this concept and challenged our understanding of the connection between statistical physics and quantum mechanics. Here we report on the observation of a many-body localization transition between thermal and localized phases for bosons in a two-dimensional disordered optical lattice. With our single-site\u2013resolved measurements, we track the relaxation dynamics of an initially prepared out-of-equilibrium density pattern and find strong evidence for a diverging length scale when approaching the localization transition. Our experiments represent a demonstration and in-depth characterization of many-body localization in a regime not accessible with state-of-the-art simulations on classical computers.",
+                "The ability to control and tune interactions in ultracold atomic gases has paved the way for the realization of new phases of matter. So far, experiments have achieved a high degree of control over short-range interactions, but the realization of long-range interactions has become a central focus of research because it would open up a new realm of many-body physics. Rydberg atoms are highly suited to this goal because the van der Waals forces between them are many orders of magnitude larger than those between ground-state atoms 1. Consequently, mere laser excitation of ultracold gases can cause strongly correlated many-body states to emerge directly when atoms are transferred to Rydberg states. A key example is a quantum crystal composed of coherent superpositions of different, spatially ordered configurations of collective excitations 2, 3, 4, 5. Here we use high-resolution, in situ Rydberg atom imaging \u2026",
+                "One of the elementary processes in quantum magnetism is the propagation of spin excitations. Here we study the quantum dynamics of a deterministically created spin-impurity atom, as it propagates in a one-dimensional lattice system. We probe the spatial probability distribution of the impurity at different times using single-site-resolved imaging of bosonic atoms in an optical lattice. In the Mott-insulating regime, the quantum-coherent propagation of a magnetic excitation in the Heisenberg model can be observed using a post-selection technique. Extending the study to the superfluid regime of the bath, we quantitatively determine how the bath affects the motion of the impurity, showing evidence of polaronic behaviour. The experimental data agree with theoretical predictions, allowing us to determine the effect of temperature on the impurity motion. Our results provide a new approach to studying quantum magnetism \u2026",
+                "The existence of bound states of elementary spin waves (magnons) in one-dimensional quantum magnets was predicted almost 80 years ago 1. Identifying signatures of magnon bound states has so far remained the subject of intense theoretical research 2, 3, 4, 5, and their detection has proved challenging for experiments. Ultracold atoms offer an ideal setting in which to find such bound states by tracking the spin dynamics with single-spin and single-site resolution 6, 7 following a local excitation 8. Here we use in situ correlation measurements to observe two-magnon bound states directly in a one-dimensional Heisenberg spin chain comprising ultracold bosonic atoms in an optical lattice. We observe the quantum dynamics of free and bound magnon states through time-resolved measurements of two spin impurities. The increased effective mass of the compound magnon state results in slower spin dynamics as \u2026",
+                "Spontaneous symmetry breaking plays a key role in our understanding of nature. In relativistic quantum field theory, a broken continuous symmetry leads to the emergence of two types of fundamental excitation: massless Nambu\u2013Goldstone modes and a massive \u2018Higgs\u2019 amplitude mode. An excitation of Higgs type is of crucial importance in the standard model of elementary particle physics 1, and also appears as a fundamental collective mode in quantum many-body systems 2. Whether such a mode exists in low-dimensional systems as a resonance-like feature, or whether it becomes overdamped through coupling to Nambu\u2013Goldstone modes, has been a subject of debate 2, 3, 4, 5, 6, 7, 8, 9. Here we experimentally find and study a Higgs mode in a two-dimensional neutral superfluid close to a quantum phase transition to a Mott insulating phase. We unambiguously identify the mode by observing the expected \u2026",
+                "Quantum phases of matter are characterized by the underlying correlations of the many-body system. Although this is typically captured by a local order parameter, it has been shown that a broad class of many-body systems possesses a hidden nonlocal order. In the case of bosonic Mott insulators, the ground state properties are governed by quantum fluctuations in the form of correlated particle-hole pairs that lead to the emergence of a nonlocal string order in one dimension. By using high-resolution imaging of low-dimensional quantum gases in an optical lattice, we directly detect these pairs with single-site and single-particle sensitivity and observe string order in the one-dimensional case.",
+                "Dominating finite-range interactions in many-body systems can lead to intriguing self-ordered phases of matter. For quantum magnets, Ising models with power-law interactions are among the most elementary systems that support such phases. These models can be implemented by laser coupling ensembles of ultracold atoms to Rydberg states. Here, we report on the experimental preparation of crystalline ground states of such spin systems. We observe a magnetization staircase as a function of the system size and show directly the emergence of crystalline states with vanishing susceptibility. Our results demonstrate the precise control of Rydberg many-body systems and may enable future studies of phase transitions and quantum correlations in interacting quantum magnets."
+            ],
+            [
+                [
+                    "Physics",
+                    "Quantum Optics",
+                    "Ultracold Quantum Gases",
+                    "Quantum Many-Body Quantum Systems",
+                    "Rydberg Atoms"
+                ]
+            ]
+        ]
+    ]
+}

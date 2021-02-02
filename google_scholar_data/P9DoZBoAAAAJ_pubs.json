@@ -1,0 +1,250 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "We squeeze unconditionally the collective spin of a dilute ensemble of laser-cooled Rb 87 atoms using their interaction with a driven optical resonator. The shape and size of the resulting spin uncertainty region are well described by a simple analytical model [MH Schleier-Smith, ID Leroux, and V. Vuleti\u0107, arXiv: 0911.3936 [Phys. Rev. A (to be published)]] through 2 orders of magnitude in the effective interaction strength, without free parameters. We deterministically generate states with up to 5.6 (6) dB of metrologically relevant spin squeezing on the canonical Rb 87 hyperfine clock transition.",
+            "Implementation of cavity squeezing of a collective atomic spin",
+            "Ian D Leroux and Monika H Schleier-Smith and Vladan Vuleti\u0107",
+            "2010",
+            "P9DoZBoAAAAJ:u-x6o8ySG0sC",
+            409,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.104.073602",
+            "13075240855333212689",
+            "\/scholar?cites=13075240855333212689",
+            {
+                "2010":24,
+                "2011":30,
+                "2012":28,
+                "2013":28,
+                "2014":40,
+                "2015":39,
+                "2016":39,
+                "2017":37,
+                "2018":41,
+                "2019":54,
+                "2020":48,
+                "2021":1
+            }
+        ],
+        [
+            "We generate entangled states of an ensemble of 5\u00d7 10 4 Rb 87 atoms by optical quantum nondemolition measurement. The resonator-enhanced measurement leaves the atomic ensemble, prepared in a superposition of hyperfine clock levels, in a squeezed spin state. By comparing the resulting reduction of quantum projection noise [up to 8.8 (8) dB] with the concomitant reduction of coherence, we demonstrate a clock input state with spectroscopic sensitivity 3.0 (8) dB beyond the standard quantum limit.",
+            "States of an ensemble of two-level atoms with reduced quantum uncertainty",
+            "Monika H Schleier-Smith and Ian D Leroux and Vladan Vuleti\u0107",
+            "2010",
+            "P9DoZBoAAAAJ:u5HHmVD_uO8C",
+            314,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.104.073604",
+            "7122417078434944805",
+            "\/scholar?cites=7122417078434944805",
+            {
+                "2010":35,
+                "2011":33,
+                "2012":23,
+                "2013":26,
+                "2014":28,
+                "2015":30,
+                "2016":28,
+                "2017":29,
+                "2018":26,
+                "2019":24,
+                "2020":31,
+                "2021":1
+            }
+        ],
+        [
+            "We provide a general protocol to measure out-of-time-order correlation functions. These correlation functions are of broad theoretical interest for diagnosing the scrambling of quantum information in interacting quantum systems and have recently received particular attention in the study of chaos and black holes within holographic duality. Measuring them requires an echo-type sequence in which the sign of a many-body Hamiltonian is reversed. We illustrate our protocol by detailing an implementation employing cold atoms and cavity quantum electrodynamics to probe spin models with nonlocal interactions. To verify the feasibility of the scheme with current technology, we analyze the effects of dissipation in a chaotic kicked-top model. Finally, we propose a number of other experimental platforms where similar out-of-time-order correlation functions can be measured.",
+            "Measuring the scrambling of quantum information",
+            "Brian Swingle and Gregory Bentsen and Monika Schleier-Smith and Patrick Hayden",
+            "2016",
+            "P9DoZBoAAAAJ:LGlY6t8CeOMC",
+            262,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.94.040302",
+            "11810290244613794114",
+            "\/scholar?cites=11810290244613794114",
+            {
+                "2016":7,
+                "2017":43,
+                "2018":64,
+                "2019":77,
+                "2020":67,
+                "2021":4
+            }
+        ],
+        [
+            "The geometric structure of a single-particle energy band in a solid is fundamental for a wide range of many-body phenomena and is uniquely characterized by the distribution of Berry curvature over the Brillouin zone. We realize an atomic interferometer to measure Berry flux in momentum space, in analogy to an Aharonov-Bohm interferometer that measures magnetic flux in real space. We demonstrate the interferometer for a graphene-type hexagonal optical lattice loaded with bosonic atoms. By detecting the singular \u03c0 Berry flux localized at each Dirac point, we establish the high momentum resolution of this interferometric technique. Our work forms the basis for a general framework to fully characterize topological band structures.",
+            "An Aharonov-Bohm interferometer for determining Bloch band topology",
+            "Lucia Duca and Tracy Li and Martin Reitter and Immanuel Bloch and Monika Schleier-Smith and Ulrich Schneider",
+            "2015",
+            "P9DoZBoAAAAJ:CNPyR2KL9-0C",
+            215,
+            "https:\/\/science.sciencemag.org\/content\/347\/6219\/288.abstract",
+            "3645326907920252295",
+            "\/scholar?cites=3645326907920252295",
+            {
+                "2015":29,
+                "2016":44,
+                "2017":41,
+                "2018":39,
+                "2019":30,
+                "2020":28,
+                "2021":4
+            }
+        ],
+        [
+            "We study experimentally the application of a class of entangled states, squeezed spin states, to the improvement of atomic-clock precision. In the presence of anisotropic noise, the entanglement lifetime is strongly dependent on squeezing orientation. We measure the Allan deviation spectrum of a clock operated with a phase-squeezed input state. For averaging times up to 50 s the squeezed clock achieves a given precision 2.8 (3) times faster than a clock operating at the standard quantum limit.",
+            "Orientation-dependent entanglement lifetime in a squeezed atomic clock",
+            "Ian D Leroux and Monika H Schleier-Smith and Vladan Vuleti\u0107",
+            "2010",
+            "P9DoZBoAAAAJ:9yKSN-GCB0IC",
+            180,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.104.250801",
+            "13409667285870516342",
+            "\/scholar?cites=13409667285870516342",
+            {
+                "2010":4,
+                "2011":13,
+                "2012":10,
+                "2013":14,
+                "2014":23,
+                "2015":16,
+                "2016":25,
+                "2017":20,
+                "2018":16,
+                "2019":16,
+                "2020":21
+            }
+        ],
+        [
+            "We propose and analyze a simple method to squeeze dynamically and unconditionally the collective spin of a dilute atomic ensemble by interaction with a driven mode of an optical resonator, as recently demonstrated [ID Leroux, MH Schleier-Smith, and V. Vuleti\u0107, Phys. Rev. Lett. 104, 073602 (2010)]. We show that substantial squeezing can be achieved in the regime of strong collective ensemble-resonator coupling. The squeezing is ultimately limited either by photon emission into free space or by the curvature of the Bloch sphere. We derive both limits and show where each prevails.",
+            "Squeezing the collective spin of a dilute atomic ensemble by cavity feedback",
+            "Monika H Schleier-Smith and Ian D Leroux and Vladan Vuleti\u0107",
+            "2010",
+            "P9DoZBoAAAAJ:2osOgNQ5qMEC",
+            128,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.81.021804",
+            "1226084481716343162",
+            "\/scholar?cites=1226084481716343162",
+            {
+                "2010":9,
+                "2011":10,
+                "2012":3,
+                "2013":6,
+                "2014":11,
+                "2015":9,
+                "2016":13,
+                "2017":17,
+                "2018":16,
+                "2019":19,
+                "2020":15
+            }
+        ],
+        [
+            "Topology and geometry are essential to our understanding of modern physics, underlying many foundational concepts from high-energy theories, quantum information, and condensed-matter physics. In condensed-matter systems, a wide range of phenomena stem from the geometry of the band eigenstates, which is encoded in the matrix-valued Wilson line for general multiband systems. Using an ultracold gas of rubidium atoms loaded in a honeycomb optical lattice, we realize strong-force dynamics in Bloch bands that are described by Wilson lines and observe an evolution in the band populations that directly reveals the band geometry. Our technique enables a full determination of band eigenstates, Berry curvature, and topological invariants, including single- and multiband Chern and  numbers.",
+            "Bloch state tomography using Wilson lines",
+            "Tracy Li and Lucia Duca and Martin Reitter and Fabian Grusdt and Eugene Demler and Manuel Endres and Monika Schleier-Smith and Immanuel Bloch and Ulrich Schneider",
+            "2016",
+            "P9DoZBoAAAAJ:TaaCk18tZOkC",
+            119,
+            "https:\/\/science.sciencemag.org\/content\/352\/6289\/1094.abstract",
+            "1558490813466232312",
+            "\/scholar?cites=1558490813466232312",
+            {
+                "2015":1,
+                "2016":9,
+                "2017":21,
+                "2018":30,
+                "2019":27,
+                "2020":29,
+                "2021":2
+            }
+        ],
+        [
+            "Many effects in the interaction between atoms and a cavity that are usually described in quantum mechanical terms (cavity quantum electrodynamics, cavity QED) can be understood and quantitatively analyzed within a classical framework. We adopt such a classical picture of a radiating dipole oscillator to derive explicit expressions for the coupling of single atoms and atomic ensembles to Gaussian modes in free space and in an optical resonator. The cooperativity parameter of cavity QED is shown to play a central role and is given a geometrical interpretation. The classical analysis yields transparent, intuitive results that are useful for analyzing applications of cavity QED such as atom detection and counting, cavity cooling, cavity spin squeezing, cavity spin optomechanics, or phase transitions associated with the self-organization of the ensemble-light system.",
+            "Interaction between atomic ensembles and optical resonators: Classical description",
+            "Haruka Tanji-Suzuki and Ian D Leroux and Monika H Schleier-Smith and Marko Cetina and Andrew T Grier and Jonathan Simon and Vladan Vuleti\u0107",
+            "2011",
+            "P9DoZBoAAAAJ:YsMSGLbcyi4C",
+            118,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/B9780123855084000048",
+            "14230210714049983797",
+            "\/scholar?cites=14230210714049983797",
+            {
+                "2011":4,
+                "2012":8,
+                "2013":7,
+                "2014":11,
+                "2015":12,
+                "2016":16,
+                "2017":17,
+                "2018":18,
+                "2019":15,
+                "2020":10
+            }
+        ],
+        [
+            "We demonstrate cavity sideband cooling of a single collective motional mode of an atomic ensemble down to a mean phonon occupation number\u27e8 n\u27e9 min\ufeff= 2.0\u2212 0.3+ 0.9. Both\u27e8 n\u27e9 min\ufeff and the observed cooling rate are in good agreement with an optomechanical model. The cooling rate constant is proportional to the total photon scattering rate by the ensemble, demonstrating the cooperative character of the light-emission-induced cooling process. We deduce fundamental limits to cavity cooling either the collective mode or, sympathetically, the single-atom degrees of freedom.",
+            "Optomechanical cavity cooling of an atomic ensemble",
+            "Monika H Schleier-Smith and Ian D Leroux and Hao Zhang and Mackenzie A Van Camp and Vladan Vuleti\u0107",
+            "2011",
+            "P9DoZBoAAAAJ:UeHWp8X0CEIC",
+            100,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.107.143005",
+            "12850086116950715273",
+            "\/scholar?cites=12850086116950715273",
+            {
+                "2011":1,
+                "2012":15,
+                "2013":24,
+                "2014":16,
+                "2015":10,
+                "2016":6,
+                "2017":5,
+                "2018":7,
+                "2019":7,
+                "2020":9
+            }
+        ],
+        [
+            "We propose an approach to quantum phase estimation that can attain precision near the Heisenberg limit without requiring single-particle-resolved state detection. We show that the \u201cone-axis twisting\u201d interaction, well known for generating spin squeezing in atomic ensembles, can also amplify the output signal of an entanglement-enhanced interferometer to facilitate readout. Applying this interaction-based readout to oversqueezed, non-Gaussian states yields a Heisenberg scaling in phase sensitivity, which persists in the presence of detection noise as large as the quantum projection noise of an unentangled ensemble. Even in dissipative implementations\u2014eg, employing light-mediated interactions in an optical cavity or Rydberg dressing\u2014the method significantly relaxes the detection resolution required for spectroscopy beyond the standard quantum limit.",
+            "Approaching the Heisenberg limit without single-particle detection",
+            "Emily Davis and Gregory Bentsen and Monika Schleier-Smith",
+            "2016",
+            "P9DoZBoAAAAJ:hGdtkIFZdKAC",
+            98,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.116.053601",
+            "8833880776950817626",
+            "\/scholar?cites=8833880776950817626",
+            {
+                "2016":8,
+                "2017":21,
+                "2018":22,
+                "2019":22,
+                "2020":23,
+                "2021":1
+            }
+        ]
+    ]
+}

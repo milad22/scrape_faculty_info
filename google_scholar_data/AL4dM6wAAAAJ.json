@@ -1,0 +1,164 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "AL4dM6wAAAAJ",
+            "Andrei Galiautdinov",
+            "University of Georgia",
+            "@physast.uga.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=AL4dM6wAAAAJ",
+            611,
+            [
+                "quantum computing",
+                "quantum control",
+                "superconducting circuits",
+                "quantum measurement",
+                "general relativity"
+            ],
+            244,
+            14,
+            7,
+            16,
+            7,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"JpTaS90AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michael Geller",
+                    "affiliation":"Professor of Physics, University of Georgia"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"LX3srqQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alexander N Korotkov",
+                    "affiliation":"Professor of Electrical Engineering, University of California, Riverside"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"URHYGMcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Emily Pritchett",
+                    "affiliation":"IBM"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Sw63VzwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Andrew Sornborger",
+                    "affiliation":"Research Scientist, Information Sciences CCS-3, Los Alamos National Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"uK7KyboAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Joydip Ghosh",
+                    "affiliation":"Research Associate, Department of Physics, University of Wisconsin-Madison"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"co5v3q0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"COLIN BENJAMIN",
+                    "affiliation":"National Institute of Science education and research"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ZYyrs94AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Eyob A. Sete",
+                    "affiliation":"Rigetti Computing"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"do7nnaIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hao You",
+                    "affiliation":"Physics and Astronomy, University of Georgia"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ATqskhQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sergei M. Kopeikin",
+                    "affiliation":"Department of Physics and Astronomy, University of Missouri"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"E-Dp4WcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sergey Kuplevakhsky",
+                    "affiliation":"B.Verkin Institute for Low Temperature Physics and Engineering, NAS of Ukraine"
+                }
+            ]
+        ]
+    ]
+}

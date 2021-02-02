@@ -1,0 +1,34 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "We develop a point-spread function (PSF) engineering approach to imaging the spatial and spectral information of molecular emissions using a spatial light modulator (SLM). We show that a dispersive grating pattern imposed upon the emission reveals spectral information. We also propose a deconvolution model that allows the decoupling of the spectral and 3D spatial information in engineered PSFs. The work is readily applicable to single-molecule measurements and fluorescent microscopy.",
+            "Spatial and spectral imaging of point-spread functions using a spatial light modulator",
+            "Sravan Munagavalasa and Bryce Schroeder and Xuanwen Hua and Shu Jia",
+            "2017",
+            "X4ZsTYwAAAAJ:u5HHmVD_uO8C",
+            5,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0030401817306053",
+            "2635528890293951178",
+            "\/scholar?cites=2635528890293951178",
+            {
+                "2017":1,
+                "2018":4
+            }
+        ]
+    ]
+}

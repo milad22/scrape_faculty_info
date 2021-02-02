@@ -1,0 +1,204 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "data":[
+        [
+            "We report results from the BICEP2 experiment, a cosmic microwave background (CMB) polarimeter specifically designed to search for the signal of inflationary gravitational waves in the B-mode power spectrum around \u2113\u223c 80. The telescope comprised a 26 cm aperture all-cold refracting optical system equipped with a focal plane of 512 antenna coupled transition edge sensor 150 GHz bolometers each with temperature sensitivity of\u2248 300 \u03bc K CMB s. BICEP2 observed from the South Pole for three seasons from 2010 to 2012. A low-foreground region of sky with an effective area of 380 square deg was observed to a depth of 87 nK deg in Stokes Q and U. In this paper we describe the observations, data reduction, maps, simulations, and results. We find an excess of B-mode power over the base lensed-\u039b CDM expectation in the range 30< \u2113< 150, inconsistent with the null hypothesis at a significance of> 5 \u03c3. Through \u2026",
+            "Detection of -Mode Polarization at Degree Angular Scales by BICEP2",
+            "Peter AR Ade and RW Aikin and D Barkats and SJ Benton and CA Bischoff and JJ Bock and JA Brevik and I Buder and E Bullock and CD Dowell and L Duband and JP Filippini and S Fliescher and SR Golwala and M Halpern and M Hasselfield and SR Hildebrandt and GC Hilton and VV Hristov and KD Irwin and KS Karkare and JP Kaufman and BG Keating and SA Kernasovskiy and JM Kovac and CL Kuo and EM Leitch and M Lueker and P Mason and CB Netterfield and HT Nguyen and R O\u2019Brient and RW Ogburn IV and A Orlando and C Pryke and CD Reintsema and S Richter and R Schwarz and CD Sheehy and ZK Staniszewski and Rashmikant V Sudiwala and GP Teply and JE Tolan and AD Turner and AG Vieregg and CL Wong and KW Yoon and Bicep2 Collaboration",
+            "2014",
+            "u5TVR30AAAAJ:4TOpqqG69KYC",
+            1432,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.112.241101",
+            "18376363004892869186",
+            "\/scholar?cites=18376363004892869186",
+            {
+                "2014":514,
+                "2015":446,
+                "2016":185,
+                "2017":92,
+                "2018":84,
+                "2019":51,
+                "2020":48,
+                "2021":1
+            }
+        ],
+        [
+            "We report the results of a joint analysis of data from BICEP2\/Keck Array and Planck. BICEP2 and Keck Array have observed the same approximately 400 deg 2 patch of sky centered on RA 0 h, Dec.\u2212 57.5. The combined maps reach a depth of 57 nK deg in Stokes Q and U in a band centered at 150 GHz. Planck has observed the full sky in polarization at seven frequencies from 30 to 353 GHz, but much less deeply in any given region (1.2 \u03bc K deg in Q and U at 143 GHz). We detect 150\u00d7 353 cross-correlation in B modes at high significance. We fit the single-and cross-frequency power spectra at frequencies\u2265 150 GHz to a lensed-\u039b CDM model that includes dust and a possible contribution from inflationary gravitational waves (as parametrized by the tensor-to-scalar ratio r), using a prior on the frequency spectral behavior of polarized dust emission from previous Planck analysis of other regions of the sky. We find \u2026",
+            "Joint Analysis of BICEP2\/Keck Array and Planck Data",
+            "Peter AR Ade and N Aghanim and Z Ahmed and RW Aikin and Kate Denham Alexander and M Arnaud and J Aumont and C Baccigalupi and Anthony J Banday and D Barkats and RB Barreiro and JG Bartlett and N Bartolo and E Battaner and K Benabed and A Beno\u00eet and A Benoit-L\u00e9vy and SJ Benton and J-P Bernard and M Bersanelli and P Bielewicz and Colin A Bischoff and JJ Bock and A Bonaldi and L Bonavera and JR Bond and J Borrill and FR Bouchet and F Boulanger and JA Brevik and M Bucher and I Buder and E Bullock and CARLO Burigana and RC Butler and Victor Buza and Erminia Calabrese and J-F Cardoso and A Catalano and A Challinor and R-R Chary and HC Chiang and PR Christensen and LPL Colombo and C Combet and J Connors and F Couchot and A Coulais and BP Crill and A Curto and FRANCESCO Cuttaia and L Danese and RD Davies and RJ Davis and P De Bernardis and A De Rosa and G De Zotti and J Delabrouille and J-M Delouis and F-X Desert and C Dickinson and JM Diego and H Dole and Simona Donzelli and O Dor\u00e9 and M Douspis and CD Dowell and L Duband and A Ducout and J Dunkley and X Dupac and Cora Dvorkin and G Efstathiou and F Elsner and TA En\u00dflin and HK Eriksen and E Falgarone and JP Filippini and FABIO Finelli and S Fliescher and O Forni and Marco Frailis and AA Fraisse and ENRICO Franceschi and A Frejsel and Samuele Galeotta and S Galli and K Ganga and T Ghosh and M Giard and Eirik Gjerl\u00f8w and SR Golwala and J Gonz\u00e1lez-Nuevo and Krzysztof M G\u00f3rski and S Gratton and Anna Gregorio and ALESSANDRO Gruppuso and JE Gudmundsson and M Halpern and Frode Kristian Hansen and D Hanson and DL Harrison and M Hasselfield and G Helou and S Henrot-Versill\u00e9 and D Herranz and SR Hildebrandt and GC Hilton and E Hivon and M Hobson and WA Holmes and W Hovest and VV Hristov and KM Huffenberger and H Hui and G Hurier and KD Irwin and AH Jaffe and Tess R Jaffe and Jeff Jewell and WC Jones and M Juvela and A Karakci and Kirit Sukrit Karkare and JP Kaufman and BG Keating and S Kefeli and Elina Keih\u00e4nen and SA Kernasovskiy and R Keskitalo and TS Kisner and R Kneissl and J Knoche and L Knox and John M Kovac and N Krachmalnicoff and M Kunz and CL Kuo and Hannu Kurki-Suonio and G Lagache and A L\u00e4hteenm\u00e4ki and J-M Lamarre and A Lasenby and Massimiliano Lattanzi and Charles R Lawrence and EM Leitch and R Leonardi and F Levrier and A Lewis and Michele Liguori",
+            "2015",
+            "u5TVR30AAAAJ:roLk4NBRz8UC",
+            727,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.114.101301",
+            "10191722233146110185",
+            "\/scholar?cites=10191722233146110185",
+            {
+                "2014":2,
+                "2015":170,
+                "2016":180,
+                "2017":119,
+                "2018":115,
+                "2019":84,
+                "2020":54,
+                "2021":3
+            }
+        ],
+        [
+            "We present results from an analysis of all data taken by the BICEP2 and Keck Array cosmic microwave background (CMB) polarization experiments up to and including the 2014 observing season. This includes the first Keck Array observations at 95 GHz. The maps reach a depth of 50 nK deg in Stokes Q and U in the 150 GHz band and 127 nK deg in the 95 GHz band. We take auto- and cross-spectra between these maps and publicly available maps from WMAP and Planck at frequencies from 23 to 353 GHz. An excess over lensed \u039bCDM is detected at modest significance in the 95 \u00d7 150 BB spectrum, and is consistent with the dust contribution expected from our previous work. No significant evidence for synchrotron emission is found in spectra such as 23 \u00d7 95, or for correlation between the dust and synchrotron sky patterns in spectra such as 23 \u00d7 353. We take the likelihood of all the spectra for a multicomponent model including lensed \u039bCDM, dust, synchrotron, and a possible contribution from inflationary gravitational waves (as parametrized by the tensor-to-scalar ratio r) using priors on the frequency spectral behaviors of dust and synchrotron emission from previous analyses of WMAP and Planck data in other regions of the sky. This analysis yields an upper limit r0.05 < 0.09 at 95% confidence, which is robust to variations explored in analysis and priors. Combining these B-mode results with the (more model-dependent) constraints from Planck analysis of CMB temperature plus baryon acoustic oscillations and other data yields a combined limit r0.05 < 0.07 at 95% confidence. These are the strongest constraints to date on inflationary \u2026",
+            "Improved constraints on cosmology and foregrounds from BICEP2 and Keck Array cosmic microwave background data with inclusion of 95 GHz band",
+            "Peter AR Ade and Z Ahmed and RW Aikin and KD Alexander and D Barkats and SJ Benton and Colin A Bischoff and JJ Bock and Rachel Bowens-Rubin and JA Brevik and I Buder and E Bullock and Victor Buza and Jake Anthony Connors and BP Crill and L Duband and Cora Dvorkin and JP Filippini and S Fliescher and J Grayson and M Halpern and Sarah Harrison and GC Hilton and H Hui and KD Irwin and Kirit Sukrit Karkare and E Karpel and JP Kaufman and BG Keating and S Kefeli and SA Kernasovskiy and John M Kovac and CL Kuo and EM Leitch and M Lueker and KG Megerian and CB Netterfield and HT Nguyen and R O\u2019Brient and RW Ogburn and A Orlando and Clement L Pryke and Sonja Valeska Richter and R Schwarz and CD Sheehy and ZK Staniszewski and B Steinbach and RV Sudiwala and GP Teply and KL Thompson and JE Tolan and Carole Tucker and AD Turner and AG Vieregg and AC Weber and DV Wiebe and J Willmert and C Wong and WLK Wu and KW Yoon",
+            "2016",
+            "u5TVR30AAAAJ:2osOgNQ5qMEC",
+            623,
+            "https:\/\/dash.harvard.edu\/handle\/1\/30403683",
+            "3578144049947206273",
+            "\/scholar?cites=3578144049947206273",
+            {
+                "2015":12,
+                "2016":118,
+                "2017":119,
+                "2018":174,
+                "2019":116,
+                "2020":72,
+                "2021":2
+            }
+        ],
+        [
+            "We report on the design and performance of the BICEP 2 instrument and on its three-year data set. BICEP 2 was designed to measure the polarization of the cosmic microwave background (CMB) on angular scales of 1-5 (\u2113= 40-200), near the expected peak of the B-mode polarization signature of primordial gravitational waves from cosmic inflation. Measuring B-modes requires dramatic improvements in sensitivity combined with exquisite control of systematics. The BICEP 2 telescope observed from the South Pole with a 26 cm aperture and cold, on-axis, refractive optics. BICEP 2 also adopted a new detector design in which beam-defining slot antenna arrays couple to transition-edge sensor (TES) bolometers, all fabricated on a common substrate. The antenna-coupled TES detectors supported scalable fabrication and multiplexed readout that allowed BICEP 2 to achieve a high detector count of 500 bolometers at \u2026",
+            "BICEP2. II. Experiment and three-year Data Set",
+            "Peter AR Ade and RW Aikin and M Amiri and D Barkats and SJ Benton and Colin A Bischoff and JJ Bock and JA Brevik and I Buder and E Bullock and G Davis and PK Day and CD Dowell and L Duband and JP Filippini and S Fliescher and SR Golwala and M Halpern and M Hasselfield and SR Hildebrandt and GC Hilton and KD Irwin and Kirit Sukrit Karkare and JP Kaufman and BG Keating and SA Kernasovskiy and John M Kovac and CL Kuo and EM Leitch and N Llombart and M Lueker and CB Netterfield and HT Nguyen and R O'Brient and RW Ogburn IV and A Orlando and C Pryke and CD Reintsema and S Richter and R Schwarz and CD Sheehy and ZK Staniszewski and KT Story and RV Sudiwala and GP Teply and JE Tolan and AD Turner and AG Vieregg and P Wilson and CL Wong and KW Yoon and Bicep2 Collaboration",
+            "2014",
+            "u5TVR30AAAAJ:UebtZRa9Y70C",
+            222,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0004-637X\/792\/1\/62\/meta",
+            "11952120266329916727",
+            "\/scholar?cites=11952120266329916727",
+            {
+                "2013":3,
+                "2014":61,
+                "2015":59,
+                "2016":36,
+                "2017":9,
+                "2018":28,
+                "2019":9,
+                "2020":13,
+                "2021":1
+            }
+        ],
+        [
+            "We present results from an analysis of all data taken by the bicep 2\/Keck CMB polarization experiments up to and including the 2015 observing season. This includes the first Keck Array observations at 220 GHz and additional observations at 95 and 150 GHz. The Q and U maps reach depths of 5.2, 2.9, and 26 \u03bc K CMB arcmin at 95, 150, and 220 GHz, respectively, over an effective area of\u2248 400 square degrees. The 220 GHz maps achieve a signal to noise on polarized dust emission approximately equal to that of Planck at 353 GHz. We take auto and cross spectra between these maps and publicly available WMAP and Planck maps at frequencies from 23 to 353 GHz. We evaluate the joint likelihood of the spectra versus a multicomponent model of lensed-\u039b CDM+ r+ dust+ synchrotron+ noise. The foreground model has seven parameters, and we impose priors on some of these using external information from \u2026",
+            "Constraints on Primordial Gravitational Waves Using , WMAP, and New BICEP2\/ Observations through the 2015 Season",
+            "PAR Ade and Z Ahmed and RW Aikin and KD Alexander and D Barkats and SJ Benton and CA Bischoff and JJ Bock and R Bowens-Rubin and JA Brevik and I Buder and E Bullock and V Buza and J Connors and J Cornelison and BP Crill and M Crumrine and M Dierickx and L Duband and C Dvorkin and JP Filippini and S Fliescher and J Grayson and G Hall and M Halpern and S Harrison and SR Hildebrandt and GC Hilton and H Hui and KD Irwin and J Kang and KS Karkare and E Karpel and JP Kaufman and BG Keating and S Kefeli and SA Kernasovskiy and JM Kovac and CL Kuo and NA Larsen and K Lau and EM Leitch and M Lueker and KG Megerian and L Moncelsi and T Namikawa and CB Netterfield and HT Nguyen and R O\u2019Brient and RW Ogburn IV and S Palladino and C Pryke and B Racine and S Richter and A Schillaci and R Schwarz and CD Sheehy and A Soliman and T St Germaine and ZK Staniszewski and B Steinbach and RV Sudiwala and GP Teply and KL Thompson and JE Tolan and C Tucker and AD Turner and C Umilt\u00e0 and AG Vieregg and A Wandui and AC Weber and DV Wiebe and J Willmert and CL Wong and WLK Wu and H Yang and KW Yoon and C Zhang",
+            "2018",
+            "u5TVR30AAAAJ:mVmsd5A6BfQC",
+            185,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.121.221301",
+            "405199630677475340",
+            "\/scholar?cites=405199630677475340",
+            {
+                "2018":2,
+                "2019":63,
+                "2020":111,
+                "2021":6
+            }
+        ],
+        [
+            "Bicep3 is a 550 mm-aperture refracting telescope for polarimetry of radiation in the cosmic microwave background at 95 GHz. It adopts the methodology of Bicep1, Bicep2 and the Keck Array experiments | it possesses sufficient resolution to search for signatures of the inflation-induced cosmic gravitational-wave background while utilizing a compact design for ease of construction and to facilitate the characterization and mitigation of systematics. However, Bicep3 represents a significant breakthrough in per-receiver sensitivity, with a focal plane area 5x larger than a Bicep2\/Keck Array receiver and faster optics (f=1:6 vs. f=2:4). Large-aperture infrared-reflective metal-mesh filters and infrared-absorptive cold alumina filters and lenses were developed and implemented for its optics. The camera consists of 1280 dual-polarization pixels; each is a pair of orthogonal antenna arrays coupled to transition-edge sensor \u2026",
+            "BICEP3: a 95GHz refracting telescope for degree-scale CMB polarization",
+            "Z Ahmed and M Amiri and SJ Benton and JJ Bock and R Bowens-Rubin and I Buder and E Bullock and J Connors and JP Filippini and JA Grayson and M Halpern and GC Hilton and VV Hristov and H Hui and KD Irwin and J Kang and Kirit Sukrit Karkare and E Karpel and John M Kovac and CL Kuo and CB Netterfield and HT Nguyen and R O'Brient and RW Ogburn IV and C Pryke and CD Reintsema and S Richter and KL Thompson and AD Turner and AG Vieregg and WLK Wu and KW Yoon",
+            "2014",
+            "u5TVR30AAAAJ:KlAtU1dfN6UC",
+            88,
+            "https:\/\/www.spiedigitallibrary.org\/conference-proceedings-of-spie\/9153\/91531N\/BICEP3--a-95GHz-refracting-telescope-for-degree-scale-CMB\/10.1117\/12.2057224.short",
+            "15834664396895063089",
+            "\/scholar?cites=15834664396895063089",
+            {
+                "2014":1,
+                "2015":18,
+                "2016":15,
+                "2017":16,
+                "2018":21,
+                "2019":6,
+                "2020":8,
+                "2021":1
+            }
+        ],
+        [
+            "We present measurements of polarization lensing using the 150 GHz maps, which include all data taken by the BICEP2 and Keck Array Cosmic Microwave Background polarization experiments up to and including the 2014 observing season (BK14). Despite their modest angular resolution (), the excellent sensitivity (~ 3\u03bcK-arcmin) of these maps makes it possible to directly reconstruct the lensing potential using only information at larger angular scales (). From the auto-spectrum of the reconstructed potential, we measure an amplitude of the spectrum to be (Planck \u039bCDM prediction corresponds to ) and reject the no-lensing hypothesis at , which is the highest significance achieved to date using an EB lensing estimator. Taking the cross-spectrum of the reconstructed potential with the Planck 2015 lensing map yields . These direct measurements of  are consistent with \u2026",
+            "BICEP2\/Keck Array VIII: Measurement of gravitational lensing from large-scale B-mode polarization",
+            "PAR Ade and Z Ahmed and RW Aikin and Kate Denham Alexander and D Barkats and SJ Benton and Colin A Bischoff and JJ Bock and R Bowens-Rubin and JA Brevik and I Buder and E Bullock and Victor Buza and J Connors and BP Crill and L Duband and Cora Dvorkin and JP Filippini and S Fliescher and J Grayson and M Halpern and Sarah Harrison and SR Hildebrandt and GC Hilton and H Hui and KD Irwin and J Kang and Kirit Sukrit Karkare and E Karpel and JP Kaufman and BG Keating and S Kefeli and SA Kernasovskiy and John M Kovac and CL Kuo and EM Leitch and M Lueker and KG Megerian and T Namikawa and CB Netterfield and HT Nguyen and R O\u2019Brient and RW Ogburn IV and A Orlando and C Pryke and S Richter and R Schwarz and CD Sheehy and ZK Staniszewski and B Steinbach and RV Sudiwala and GP Teply and KL Thompson and JE Tolan and C Tucker and AD Turner and AG Vieregg and AC Weber and DV Wiebe and J Willmert and CL Wong and WLK Wu and KW Yoon and Bicep Collaborations",
+            "2016",
+            "u5TVR30AAAAJ:u-x6o8ySG0sC",
+            67,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/1538-4357\/833\/2\/228\/meta",
+            "1989266219007307605",
+            "\/scholar?cites=1989266219007307605",
+            {
+                "2016":2,
+                "2017":19,
+                "2018":19,
+                "2019":17,
+                "2020":10
+            }
+        ],
+        [
+            "Bicep3 is a 520mm aperture, compact two-lens refractor designed to observe the polarization of the cosmic microwave background (CMB) at 95 GHz. Its focal plane consists of modularized tiles of antenna-coupled transition edge sensors (TESs), similar to those used in Bicep2 and the Keck Array. The increased per-receiver optical throughput compared to Bicep2\/Keck Array, due to both its faster f=1:7 optics and the larger aperture, more than doubles the combined mapping speed of the Bicep\/Keck program. The Bicep3 receiver was recently upgraded to a full complement of 20 tiles of detectors (2560 TESs) and is now beginning its second year of observation (and first science season) at the South Pole. We report on its current performance and observing plans. Given its high per-receiver throughput while maintaining the advantages of a compact design, Bicep3- class receivers are ideally suited as building blocks \u2026",
+            "BICEP3 performance overview and planned Keck Array upgrade",
+            "JA Grayson and PAR Ade and Z Ahmed and Kate Denham Alexander and M Amiri and D Barkats and SJ Benton and Colin A Bischoff and JJ Bock and H Boenish and R Bowens-Rubin and I Buder and E Bullock and Victor Buza and J Connors and JP Filippini and S Fliescher and M Halpern and Sarah Harrison and GC Hilton and VV Hristov and H Hui and KD Irwin and J Kang and Kirit Sukrit Karkare and E Karpel and S Kefeli and SA Kernasovskiy and John M Kovac and CL Kuo and EM Leitch and M Lueker and KG Megerian and V Monticue and T Namikawa and CB Netterfield and HT Nguyen and R O'Brient and RW Ogburn IV and C Pryke and CD Reintsema and S Richter and R Schwarz and C Sorenson and CD Sheehy and ZK Staniszewski and B Steinbach and GP Teply and KL Thompson and JE Tolan and C Tucker and AD Turner and AG Vieregg and A Wandui and AC Weber and DV Wiebe and J Willmert and WLK Wu and KW Yoon",
+            "2016",
+            "u5TVR30AAAAJ:5nxA0vEk-isC",
+            55,
+            "https:\/\/www.spiedigitallibrary.org\/conference-proceedings-of-spie\/9914\/99140S\/BICEP3-performance-overview-and-planned-Keck-Array-upgrade\/10.1117\/12.2233894.short",
+            "13278779347298096989",
+            "\/scholar?cites=13278779347298096989",
+            {
+                "2016":3,
+                "2017":7,
+                "2018":21,
+                "2019":5,
+                "2020":19
+            }
+        ],
+        [
+            "The Keck Array is a system of cosmic microwave background polarimeters, each similar to the Bicep2 experiment. In this paper we report results from the 2012 to 2013 observing seasons, during which the Keck Array consisted of five receivers all operating in the same (150 GHz) frequency band and observing field as Bicep2. We again find an excess of B-mode power over the lensed-\u039bCDM expectation of> 5\u03c3 in the range 30< \u2113< 150 and confirm that this is not due to systematics using jackknife tests and simulations based on detailed calibration measurements. In map difference and spectral difference tests these new data are shown to be consistent with Bicep2. Finally, we combine the maps from the two experiments to produce final Q and U maps which have a depth of 57 nK deg (3.4 \u03bcK arcmin) over an effective area of 400 deg 2 for an equivalent survey weight of 250,000 \u03bcK\u2212 2. The final BB band powers have \u2026",
+            "BICEP2\/Keck Array V: measurements of B-mode polarization at degree angular scales and 150 GHz by the keck array",
+            "Peter AR Ade and Z Ahmed and RW Aikin and Kate Denham Alexander and D Barkats and SJ Benton and Colin A Bischoff and JJ Bock and JA Brevik and I Buder and E Bullock and Victor Buza and J Connors and BP Crill and CD Dowell and Cora Dvorkin and L Duband and JP Filippini and S Fliescher and SR Golwala and M Halpern and S Harrison and M Hasselfield and SR Hildebrandt and GC Hilton and VV Hristov and H Hui and KD Irwin and Kirit Sukrit Karkare and JP Kaufman and BG Keating and S Kefeli and SA Kernasovskiy and John M Kovac and CL Kuo and EM Leitch and M Lueker and P Mason and KG Megerian and CB Netterfield and HT Nguyen and R O\u2019Brient and RW Ogburn IV and A Orlando and C Pryke and CD Reintsema and S Richter and R Schwarz and CD Sheehy and ZK Staniszewski and RV Sudiwala and GP Teply and KL Thompson and JE Tolan and AD Turner and AG Vieregg and AC Weber and J Willmert and CL Wong and KW Yoon and Bicep Collaborations",
+            "2015",
+            "u5TVR30AAAAJ:9yKSN-GCB0IC",
+            55,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0004-637X\/811\/2\/126\/meta",
+            "3249324075511735758",
+            "\/scholar?cites=3249324075511735758",
+            {
+                "2015":4,
+                "2016":20,
+                "2017":11,
+                "2018":8,
+                "2019":5,
+                "2020":6
+            }
+        ]
+    ]
+}

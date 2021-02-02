@@ -1,0 +1,167 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "data":[
+        [
+            "We propose a language-independent symbolic execution framework. The approach is parameterised by a language definition, which consists of a signature for the syntax and execution infrastructure of the language, a model interpreting the signature, and rewrite rules for the language's operational semantics. Then, symbolic execution amounts to computing symbolic paths using a derivative operation. We prove that the symbolic execution thus defined has the properties naturally expected from it, meaning that the feasible symbolic executions of a program and the concrete executions of the same program mutually simulate each other. We also show how a coinduction-based extension of symbolic execution can be used for the deductive verification of programs. We show how the proposed symbolic-execution approach, and the coinductive verification technique based on it, can be seamlessly implemented in \u2026",
+            "A generic framework for symbolic execution: A coinductive approach",
+            "Dorel Lucanu and Vlad Rusu and Andrei Arusoaie",
+            "2017",
+            "KUJDQ58AAAAJ:W7OEmFMy1HYC",
+            20,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0747717116300499",
+            "10279492192012105629",
+            "\/scholar?cites=10279492192012105629",
+            {
+                "2017":3,
+                "2018":2,
+                "2019":6,
+                "2020":8
+            }
+        ],
+        [
+            "Dynamic reconfiguration using FPGAs has been demonstrated to be highly efficient in different application domains. However little has been explored in the avionic communication domain, where halting the system during runtime for changing the hardware is non-trivial. In this paper we present a runtime reconfigurable architecture using I\/O Intellectual Property (IP) cores, used in avionic applications. The system provides a modular I\/O interface for communication, using an FPGA Mezzanine Card (FMC). User application can dynamically install and execute the necessary hardware for communication with external avionic sub-systems using FMC. The system thus provides a highly modular and cost effective autonomous solution for an embedded avionic communication system using Dynamic Partial Reconfiguration (DPR). The above described solution has been tested using a Xilinx ML605 prototyping board \u2026",
+            "Dynamic reconfiguration of modular I\/O IP cores for avionic applications",
+            "Venkatasubramanian Viswanathan and Benjamin Nakache and Rabie Ben Atitallah and Maurice Nakache and Jean-Luc Dekeyser",
+            "2012",
+            "KUJDQ58AAAAJ:9yKSN-GCB0IC",
+            15,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6416741\/",
+            "3900175452343623354",
+            "\/scholar?cites=3900175452343623354",
+            {
+                "2013":1,
+                "2014":5,
+                "2015":3,
+                "2016":3,
+                "2017":2
+            }
+        ],
+        [
+            "Real-time computing systems are increasingly used in aerospace and avionic industries. In the face of power challenge, performance requirements and demands for higher flexibility, hardware designers are directed toward reconfigurable computing using field programmable gate arrays (FPGAs) that offer high computation rates per watt and adaptability to the application constraints. However, considering reconfigurable computing in the avionic design process leads to several challenges for system developers. Indeed, such technology should be validated along the verification & validation cycle starting with simulation tools, passing through the test benches and finishing with the integration phase. For each step, the FPGA can play an essential role to achieve better performances, more adaptive systems, and cost-effective solutions. In this paper, we present a seamless FPGA-centric design process for avionic \u2026",
+            "FPGA-Centric design process for avionic simulation and test",
+            "Rabie Ben Atitallah and Venkatasubramanian Viswanathan and Nicolas Belanger and Jean-Luc Dekeyser",
+            "2017",
+            "KUJDQ58AAAAJ:0EnyYjriUFMC",
+            5,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7997774\/",
+            "765931083581116838",
+            "\/scholar?cites=765931083581116838",
+            {
+                "2019":3,
+                "2020":2
+            }
+        ],
+        [
+            "This paper presents a communication-centric reconfigurable design for FPGA Mezzanine Card (FMC) based I\/O system dedicated to several industrial application domains. The introduction of FMC I\/O standard has given a new purpose for FPGAs to be used as a communication platform. In fact, FPGAs can be used for more than just computational purpose in order to improve the system performance. Taking into account the features offered by FPGAs and FMCs, such as runtime reconfiguration and modularity, we have redefined the role of these devices to be used as a generic communication-centric platform. A new modular, runtime reconfigurable, Intellectual Property (IP)-based communication system for industrial applications has been designed. The efficiency and the performances of our platform are illustrated through a real industrial use-cases designed using a computationally intensive application and \u2026",
+            "Communication-centric design for FMC based I\/O system",
+            "Mokhtar Bouain and Venkatasubramanian Viswanathan and Rabie Ben Atitallah and Jean-Luc Dekeyser",
+            "2014",
+            "KUJDQ58AAAAJ:IjCSPb-OGe4C",
+            4,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6861354\/",
+            "884810728126959004",
+            "\/scholar?cites=884810728126959004",
+            {
+                "2014":1,
+                "2015":1,
+                "2016":1
+            }
+        ],
+        [
+            "In this paper, we describe a generic approach for integrating a dynamically reconfigurable device into a general purpose system interconnected with a high-speed link. The system can dynamically install and execute hardware instances of functions to accelerate parts of a given software code. The hardware descriptions of the functions (bitstreams) are inserted into the executable binary running on the system. Our compiler further inserts system-calls to the software code to control the reconfigurable device. Thereby, the general purpose host-processor of the system manages the hardware reconfiguration and execution through a Linux device driver. The device has direct access to the main memory (DMA) operating in the virtual address space; it further supports memory mapped IO for data and control, and is able to raise and handle interrupts for synchronization. The above system is implemented on a general \u2026",
+            "Reconfigurable acceleration and dynamic partial self-reconfiguration in general purpose computing",
+            "Ioannis Sourdis and Abhijit Nandy and Venkatasubramanian Viswanathan and Anthony Brandon and Dimitris Theodoropoulos and Georgi N Gaydadjiev",
+            "2011",
+            "KUJDQ58AAAAJ:u-x6o8ySG0sC",
+            4,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6132666\/",
+            "2869834695774187756",
+            "\/scholar?cites=2869834695774187756",
+            {
+                "2013":1,
+                "2014":1,
+                "2015":1
+            }
+        ],
+        [
+            "Scalability poses a severe threat to the existing DRAM technology. The capacitors that are used for storing and sensing charge in DRAM are generally not scaled beyond 42nm. This is because; the capacitors must be sufficiently large for reliable sensing and charge storage mechanism. This leaves DRAM memory scaling in jeopardy, as charge sensing and storage mechanisms become extremely difficult. In this paper we provide an overview of the potential and the possibilities of using Phase Change Memory (PCM) as an alternative for the existing DRAM technology. The main challenges that we encounter in using PCM are, the limited endurance, high access latencies, and higher dynamic energy consumption than that of the conventional DRAM. We then provide an overview of various methods, which can be employed to overcome these drawbacks. Hybrid memories involving both PCM and DRAM can be used \u2026",
+            "Exploring the potential of phase change memories as an alternative to DRAM technology",
+            "Venkataraman Krishnaswami and Venkatasubramanian Viswanathan",
+            "2010",
+            "KUJDQ58AAAAJ:u5HHmVD_uO8C",
+            3,
+            "http:\/\/publications.waset.org\/10056\/exploring-the-potential-of-phase-change-memories-as-an-alternative-to-dram-technology",
+            "17212709257415135819",
+            "\/scholar?cites=17212709257415135819",
+            {
+                "2011":2,
+                "2012":1
+            }
+        ],
+        [
+            "Several industrial applications are becoming highly sophisticated and distributed as they capture and process real-time data from several sources at the same time. Furthermore, availability of acquisition channels such as I\/O interfaces per FPGA, also dictates how applications are partitioned over several devices. Thus computationally intensive, resource consuming functions are implemented on multiple hardware accelerators, making low-latency communication to be a crucial factor. In such applications, communication between multiple devices means using high-speed point-to-point protocols with little flexibility in terms of communication scalability. The problem with the current systems is that, they are usually built to meet the needs of a specific application, ie, lacks flexibility to change the communication topology or upgrade hardware resources. This leads to obsolescence, hardware redesign cost, and also \u2026",
+            "A parallel and scalable multi-fpga based architecture for high performance applications",
+            "Venkatasubramanian Viswanathan and Rabie Ben Atitallah and Jean-Luc Dekeyser and Benjamin Nakache and Maurice Nakache",
+            "2015",
+            "KUJDQ58AAAAJ:zYLM7Y9cAGgC",
+            2,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/2684746.2689115",
+            "1110540430601574896",
+            "\/scholar?cites=1110540430601574896",
+            {
+                "2015":1,
+                "2016":1
+            }
+        ],
+        [
+            "Embedded reconfigurable computing is becoming a new paradigm for system designers in avionic applications. In fact, FPGAs can be used for more than just computational purpose in order to improve the system performance. The introduction of FPGA Mezzanine Card (FMC) I\/O standard has given a new purpose for FPGAs to be used as a communication platform. Taking into account the features offered by FPGAs and FMCs, such as runtime reconfiguration and modularity, we have redefined the role of these devices to be used as a generic communication and computation-centric platform. A new modular, runtime reconfigurable, Intellectual Property (IP)-based communication-centric platform for avionic applications has been designed. This means that, when the communication requirement of an avionic system changes, the necessary communication protocol is installed and executed on demand, without \u2026",
+            "Redefining the role of FPGAs in the next generation avionic systems",
+            "Venkatasubramanian Viswanathan and Rabie Ben Atitallah and Jean-Luc Dekeyser and Benjamin Nakache and Maurice Nakache",
+            "2014",
+            "KUJDQ58AAAAJ:qjMakFHDy7sC",
+            1,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/2554688.2554744",
+            "11868287832233035524",
+            "\/scholar?cites=11868287832233035524",
+            {
+                "2017":1
+            }
+        ],
+        [
+            "Dynamically reconfigurable architectures have demonstrated superior performance in com-parison to the general-purpose processors. This thesis describes a generic approach forDynamic Partial Reconfiguration (DPR) of a reconfigurable platform, connected to a general purpose system through a high-speed interconnect. Thus, the system can dynamically install and execute hardware instances of software functions (bitstreams) on-demand. Furthermore, the thesis also serves as a starting point for accelerating multiple software functions concurrently on the hardware. To achieve DPR, system calls are inserted into the original program. The host processor of the system, thus manages the hardware reconfiguration and execution through a Linux device driver. Accelerating multiple software functions is achieved by implementing multiple accelerators on the hardware, managing their interfaces for communication, and providing memory consistency for read and write requests. To do so, the driver provides support for non-blocking execution of multiple software functions. The above system is implemented on a general purpose machine providing a Hyper Transport bus to connect a Xilinx Virtex4-100 FPGA, an AMD Opteron-244, and 1 GB of DDR main memory. The efficiency of the system is evaluated using audio processing and encryption workloads. The proposed system achieves a 12x speedup over software with audio processing workload and 13x speedup when the workloads were accelerated concurrently.",
+            "Hardware Support for Dynamic Partial Reconfiguration",
+            "Venkatasubramanian Viswanathan",
+            "2011",
+            "KUJDQ58AAAAJ:d1gkVwhDpl0C",
+            1,
+            "http:\/\/ce-publications.et.tudelft.nl\/publications\/11_hardware_support_for_dynamic_partial_reconfiguration.pdf",
+            "15605677373995853260",
+            "\/scholar?cites=15605677373995853260",
+            {
+                "2013":1
+            }
+        ]
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2
+    ],
+    "data":[
+        [
+            "Magnetic sensors capable of detecting nanoscale volumes of spins allow for non-invasive, element-specific probing 1, 2, 3. The error in such measurements is usually reduced by increasing the measurement time, and noise averaging the signal 4, 5. However, achieving the best precision requires restricting the maximum possible field strength to much less than the spectral linewidth of the sensor. Quantum entanglement and squeezing can then be used to improve precision (although they are difficult to implement in solid-state environments). When the field strength is comparable to or greater than the spectral linewidth, an undesirable trade-off between field strength and signal precision occurs 1. Here, we implement novel phase estimation algorithms 6, 7, 8 on a single electronic spin associated with the nitrogen-vacancy defect centre in diamond to achieve an\u223c 8.5-fold improvement in the ratio of the maximum \u2026",
+            "High-dynamic-range magnetometry with a single electronic spin in diamond",
+            "NM Nusran and M Ummal Momeen and MV Gurudev Dutt",
+            "2012",
+            "BBOvxUwAAAAJ:u5HHmVD_uO8C",
+            67,
+            "https:\/\/www.nature.com\/nnano\/journal\/v7\/n2\/abs\/nnano.2011.225.html",
+            "7790318660599799673",
+            "\/scholar?cites=7790318660599799673",
+            {
+                "2011":1,
+                "2012":6,
+                "2013":12,
+                "2014":13,
+                "2015":6,
+                "2016":6,
+                "2017":6,
+                "2018":7,
+                "2019":4,
+                "2020":4,
+                "2021":2
+            }
+        ],
+        [
+            "Measurements of the London penetration depth \u0394 \u03bb (T) and tunneling conductance in single crystals of the recently discovered stoichiometric iron-based superconductor CaKFe 4 As 4 (CaK1144) show nodeless, two-effective-gap superconductivity with a larger gap of about 6\u201310 meV and a smaller gap of about 1\u20134 meV. Having a critical temperature T c, onset\u2248 35.8 K, this material behaves similar to slightly overdoped (Ba 1\u2212 x K x) Fe 2 As 2 (eg, x= 0.54, T c\u2248 34 K), a known multigap s\u00b1superconductor. We conclude that the superconducting behavior of stoichiometric CaK1144 demonstrates that two-gap s\u00b1superconductivity is an essential property of high-temperature superconductivity in iron-based superconductors, independent of the degree of substitutional disorder.",
+            "Nodeless multiband superconductivity in stoichiometric single-crystalline ",
+            "Kyuil Cho and A Fente and S Teknowijoyo and Makariy A Tanatar and Kamal R Joshi and Naufer M Nusran and Tai Kong and William R Meier and U Kaluarachchi and I Guillam\u00f3n and H Suderow and Sergey L Bud'ko and Paul C Canfield and Ruslan Prozorov",
+            "2017",
+            "BBOvxUwAAAAJ:YsMSGLbcyi4C",
+            44,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.95.100502",
+            "13917130319155071927",
+            "\/scholar?cites=13917130319155071927",
+            {
+                "2016":1,
+                "2017":8,
+                "2018":20,
+                "2019":12,
+                "2020":3
+            }
+        ],
+        [
+            "Non-invasive magnetic field sensing using optically-detected magnetic resonance of nitrogen-vacancy centers in diamond was used to study spatial distribution of the magnetic induction upon penetration and expulsion of weak magnetic fields in several representative superconductors. Vector magnetic fields were measured on the surface of conventional, elemental Pb and Nb, and compound LuNi 2 B 2 C and unconventional iron-based superconductors Ba 1\u2212 x K x Fe 2 As 2 (x= 0.34 optimal hole doping), Ba (Fe 1\u2212 x Co x) 2 As 2 (x= 0.07 optimal electron doping), and stoichiometric CaKFe 4 As 4, using variable-temperature confocal system with diffraction-limited spatial resolution. Magnetic induction profiles across the crystal edges were measured in zero-field-cooled and field-cooled conditions. While all superconductors show nearly perfect screening of magnetic fields applied after cooling to temperatures well \u2026",
+            "Spatially-resolved study of the Meissner effect in superconductors using NV-centers-in-diamond optical magnetometry",
+            "NM Nusran and Kamal R Joshi and Kyuil Cho and Makariy A Tanatar and William R Meier and SL Bud\u2019ko and Paul C Canfield and Yong Liu and Thomas A Lograsso and Ruslan Prozorov",
+            "2018",
+            "BBOvxUwAAAAJ:ufrVoPGSRksC",
+            18,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/1367-2630\/aab47c\/meta",
+            "3817088869512497958",
+            "\/scholar?cites=3817088869512497958",
+            {
+                "2018":4,
+                "2019":6,
+                "2020":7,
+                "2021":1
+            }
+        ]
+    ]
+}

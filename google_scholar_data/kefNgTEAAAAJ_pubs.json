@@ -1,0 +1,203 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "This paper presents the boundary conditions needed for drift-diffusion models to treat interfaces with spin-orbit coupling. Using these boundary conditions for heavy-metal\/ferromagnet bilayers, solutions of the drift-diffusion equations agree with solutions of the spin-dependent Boltzmann equation and allow for a much simpler interpretation of the results. A key feature of these boundary conditions is their ability to capture the role that in-plane electric fields have in the generation of spin currents that flow perpendicularly to the interface. The generation of these spin currents is a direct consequence of the effect of interfacial spin-orbit coupling on interfacial scattering. In heavy-metal\/ferromagnet bilayers, these spin currents provide an important mechanism for the creation of dampinglike and fieldlike torques; they also lead to possible reinterpretations of experiments in which interfacial contributions to spin torques are \u2026",
+            "Spin transport at interfaces with spin-orbit coupling: Phenomenology",
+            "VP Amin and MD Stiles",
+            "2016",
+            "kefNgTEAAAAJ:YsMSGLbcyi4C",
+            165,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.94.104420",
+            "10196325076124739329",
+            "\/scholar?cites=10196325076124739329",
+            {
+                "2015":2,
+                "2016":3,
+                "2017":26,
+                "2018":32,
+                "2019":35,
+                "2020":62,
+                "2021":4
+            }
+        ],
+        [
+            "Magnetic torques generated through spin\u2013orbit coupling 1, 2, 3, 4, 5, 6, 7, 8 promise energy-efficient spintronic devices. For applications, it is important that these torques switch films with perpendicular magnetizations without an external magnetic field 9, 10, 11, 12, 13, 14. One suggested approach 15 to enable such switching uses magnetic trilayers in which the torque on the top magnetic layer can be manipulated by changing the magnetization of the bottom layer. Spin currents generated in the bottom magnetic layer or its interfaces transit the spacer layer and exert a torque on the top magnetization. Here we demonstrate field-free switching in such structures and show that its dependence on the bottom-layer magnetization is not consistent with the anticipated bulk effects 15. We describe a mechanism for spin-current generation 16, 17 at the interface between the bottom layer and the spacer layer, which gives \u2026",
+            "Spin currents and spin\u2013orbit torques in ferromagnetic trilayers",
+            "C Baek Seung-heon and Vivek P Amin and Young-Wan Oh and Gyungchoon Go and Seung-Jae Lee and Geun-Hee Lee and Kab-Jin Kim and Mark D Stiles and Byong-Guk Park and Kyung-Jin Lee",
+            "2018",
+            "kefNgTEAAAAJ:MXK_kJrjxJIC",
+            157,
+            "https:\/\/www.nature.com\/articles\/s41563-018-0041-5",
+            "6063975685061478294",
+            "\/scholar?cites=6063975685061478294",
+            {
+                "2018":18,
+                "2019":50,
+                "2020":83,
+                "2021":5
+            }
+        ],
+        [
+            "We generalize magnetoelectronic circuit theory to account for spin transfer to and from the atomic lattice via interfacial spin-orbit coupling. This enables a proper treatment of spin transport at interfaces between a ferromagnet and a heavy-metal nonmagnet. This generalized approach describes spin transport in terms of drops in spin and charge accumulations across the interface (as in the standard approach), but additionally includes the responses from in-plane electric fields and offsets in spin accumulations. A key finding is that in-plane electric fields give rise to spin accumulations and spin currents that can be polarized in any direction, generalizing the Rashba-Edelstein and spin Hall effects. The spin accumulations exert torques on the magnetization at the interface when they are misaligned from the magnetization. The additional out-of-plane spin currents exert torques via the spin-transfer mechanism on the \u2026",
+            "Spin transport at interfaces with spin-orbit coupling: Formalism",
+            "Vivek P Amin and Mark D Stiles",
+            "2016",
+            "kefNgTEAAAAJ:ufrVoPGSRksC",
+            146,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.94.104419",
+            "10614680327386234205",
+            "\/scholar?cites=10614680327386234205",
+            {
+                "2015":2,
+                "2016":2,
+                "2017":19,
+                "2018":32,
+                "2019":31,
+                "2020":57,
+                "2021":3
+            }
+        ],
+        [
+            "Transport calculations based on ab initio band structures reveal large interface-generated spin currents at Co\/Pt, Co\/Cu, and Pt\/Cu interfaces. These spin currents are driven by in-plane electric fields but flow out of plane and can have similar strengths to spin currents generated by the spin Hall effect in bulk Pt. Each interface generates spin currents with polarization along z^\u00d7 E, where z^ is the interface normal and E denotes the electric field. The Co\/Cu and Co\/Pt interfaces additionally generate spin currents with polarization along m^\u00d7(z^\u00d7 E), where m^ gives the magnetization direction of Co. The latter spin polarization is controlled by\u2014but not aligned with\u2014the magnetization, providing a novel mechanism for generating spin torques in magnetic trilayers.",
+            "Interface-generated spin currents",
+            "Vivek P Amin and Jan Zemen and Mark D Stiles",
+            "2018",
+            "kefNgTEAAAAJ:8k81kl-MbHgC",
+            95,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.121.136805",
+            "10567382017987740737",
+            "\/scholar?cites=10567382017987740737",
+            {
+                "2019":35,
+                "2020":56,
+                "2021":3
+            }
+        ],
+        [
+            "We investigate yttrium iron garnet (YIG)\/cobalt (Co) heterostructures using broadband ferromagnetic resonance (FMR). We observe an efficient excitation of perpendicular standing spin waves (PSSWs) in the YIG layer when the resonance frequencies of the YIG PSSWs and the Co FMR line coincide. Avoided crossings of YIG PSSWs and the Co FMR line are found and modeled using mutual spin pumping and exchange torques. The excitation of PSSWs is suppressed by a thin aluminum oxide interlayer but persists with a copper interlayer, in agreement with the proposed model.",
+            "Spin-Torque Excitation of Perpendicular Standing Spin Waves in Coupled  Heterostructures",
+            "Stefan Klingler and Vivek Amin and Stephan Gepr\u00e4gs and Kathrin Ganzhorn and Hannes Maier-Flaig and Matthias Althammer and Hans Huebl and Rudolf Gross and Robert D McMichael and Mark D Stiles and Sebastian TB Goennenwein and Mathias Weiler",
+            "2018",
+            "kefNgTEAAAAJ:hqOjcs7Dif8C",
+            54,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.120.127201",
+            "7385323697248187059",
+            "\/scholar?cites=7385323697248187059",
+            {
+                "2018":6,
+                "2019":17,
+                "2020":27,
+                "2021":4
+            }
+        ],
+        [
+            "First-principles calculations show that electric fields applied to ferromagnets generate spin currents flowing perpendicularly to the electric field. Reduced symmetry in these ferromagnets enables a wide variety of such spin currents. However, the total spin current is approximately the sum of a magnetization-independent spin Hall current and an anisotropic spin anomalous Hall current. Intrinsic spin currents are not subject to dephasing, enabling their spin polarizations to be misaligned with the magnetization and allowing for the magnetization-independent spin Hall effect. The spin Hall conductivity and spin anomalous Hall conductivities of transition-metal ferromagnets are comparable to those found in heavy metals, opening different avenues for efficient spin current generation in spintronic devices.",
+            "Intrinsic spin currents in ferromagnets",
+            "Vivek P Amin and Junwen Li and Mark D Stiles and Paul M Haney",
+            "2019",
+            "kefNgTEAAAAJ:3fE2CSJIrl8C",
+            40,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.99.220405",
+            "8763853535842095772",
+            "\/scholar?cites=8763853535842095772",
+            {
+                "2019":6,
+                "2020":27,
+                "2021":6
+            }
+        ],
+        [
+            "We report the detection of the inverse spin Hall effect (ISHE) in n-gallium arsenide (n-GaAs) combined with electrical injection and modulation of the spin current. We use epitaxial ultrathin-Fe\/GaAs injection contacts with strong in-plane magnetic anisotropy. This allows us to simultaneously perform Hanle spin-precession measurements on an Fe detection electrode and ISHE measurements in an applied in-plane hard-axis magnetic field. In this geometry, we can experimentally separate the ordinary from the spin-Hall signals. Electrical spin injection and detection are combined in our microdevice with an applied electrical drift current to modulate the spin distribution and spin current in the channel. The magnitudes and external field dependencies of the signals are quantitatively modeled by solving drift-diffusion and Hall-cross response equations.",
+            "Detection of Electrically Modulated Inverse Spin Hall Effect in an  Microdevice",
+            "K Olejn\u00edk and J Wunderlich and AC Irvine and RP Campion and VP Amin and Jairo Sinova and T Jungwirth",
+            "2012",
+            "kefNgTEAAAAJ:u5HHmVD_uO8C",
+            31,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.109.076601",
+            "9823026104245883885",
+            "\/scholar?cites=9823026104245883885",
+            {
+                "2013":1,
+                "2014":7,
+                "2015":5,
+                "2016":4,
+                "2017":7,
+                "2018":1,
+                "2019":3,
+                "2020":2,
+                "2021":1
+            }
+        ],
+        [
+            "The spin Hall effect couples charge and spin transport 1, 2, 3, enabling electrical control of magnetization 4, 5. A quintessential example of spin-Hall-related transport is the anomalous Hall effect (AHE) 6, first observed in 1880, in which an electric current perpendicular to the magnetization in a magnetic film generates charge accumulation on the surfaces. Here, we report the observation of a counterpart of the AHE that we term the anomalous spin\u2013orbit torque (ASOT), wherein an electric current parallel to the magnetization generates opposite spin\u2013orbit torques on the surfaces of the magnetic film. We interpret the ASOT as being due to a spin-Hall-like current generated with an efficiency of 0.053\u00b10.003 in Ni 80 Fe 20, comparable to the spin Hall angle of Pt 7. Similar effects are also observed in other common ferromagnetic metals, including Co, Ni and Fe. First-principles calculations corroborate the order of \u2026",
+            "Anomalous spin\u2013orbit torques in magnetic single-layer films",
+            "Wenrui Wang and Tao Wang and Vivek P Amin and Yang Wang and Anil Radhakrishnan and Angie Davidson and Shane R Allen and Thomas J Silva and Hendrik Ohldag and Davor Balzar and Barry L Zink and Paul M Haney and John Q Xiao and David G Cahill and Virginia O Lorenz and Xin Fan",
+            "2019",
+            "kefNgTEAAAAJ:kNdYIx-mwKoC",
+            26,
+            "https:\/\/www.nature.com\/articles\/s41565-019-0504-0",
+            "7645830138895445035",
+            "\/scholar?cites=7645830138895445035",
+            {
+                "2019":5,
+                "2020":18,
+                "2021":2
+            }
+        ],
+        [
+            "We experimentally identify coherent spin pumping in the magnon-magnon hybrid modes of yttrium iron garnet\/permalloy (YIG\/Py) bilayers. By reducing the YIG and Py thicknesses, the strong interfacial exchange coupling leads to large avoided crossings between the uniform mode of Py and the spin wave modes of YIG enabling accurate determination of modification of the linewidths due to the dampinglike torque. We identify additional linewidth suppression and enhancement for the in-phase and out-of-phase hybrid modes, respectively, which can be interpreted as concerted dampinglike torque from spin pumping. Furthermore, varying the Py thickness shows that both the fieldlike and dampinglike couplings vary like 1\/t Py, verifying the prediction by the coupled Landau-Lifshitz equations.",
+            "Coherent spin pumping in a strongly coupled magnon-magnon hybrid system",
+            "Yi Li and Wei Cao and Vivek P Amin and Zhizhi Zhang and Jonathan Gibbons and Joseph Sklenar and John Pearson and Paul M Haney and Mark D Stiles and William E Bailey and Valentine Novosad and Axel Hoffmann and Wei Zhang",
+            "2020",
+            "kefNgTEAAAAJ:4TOpqqG69KYC",
+            21,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.124.117202",
+            "3678886549015508901",
+            "\/scholar?cites=3678886549015508901",
+            {
+                "2020":19,
+                "2021":2
+            }
+        ],
+        [
+            "Spin-orbit coupling enables charge currents to give rise to spin currents and vice versa, which has applications in non-volatile magnetic memories, miniature microwave oscillators, thermoelectric converters and Terahertz devices. In the past two decades, a considerable amount of research has focused on electrical spin current generation in different types of nonmagnetic materials. However, electrical spin current generation in ferromagnetic materials has only recently been actively investigated. Due to the additional symmetry breaking by the magnetization, ferromagnetic materials generate spin currents with different orientations of spin direction from those observed in nonmagnetic materials. Studies centered on ferromagnets where spin-orbit coupling plays an important role in transport open new possibilities to generate and detect spin currents. We summarize recent developments on this subject and discuss \u2026",
+            "Perspectives of electrically generated spin currents in ferromagnetic materials",
+            "Angie Davidson and Vivek P Amin and Wafa S Aljuaid and Paul M Haney and Xin Fan",
+            "2020",
+            "kefNgTEAAAAJ:KlAtU1dfN6UC",
+            14,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0375960119311703",
+            "9006071120527681119",
+            "\/scholar?cites=9006071120527681119",
+            {
+                "2019":1,
+                "2020":11,
+                "2021":1
+            }
+        ]
+    ]
+}

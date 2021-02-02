@@ -1,0 +1,31 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "TQ8V2HH5",
+            "oe-nu3QAAAAJ",
+            [
+                "A method to evaluate genome-wide methylation in archival formalin-fixed, paraffin-embedded ovarian epithelial cells",
+                "Accurate inference of local phased ancestry of modern admixed populations"
+            ],
+            [
+                "Background The use of DNA from archival formalin and paraffin embedded (FFPE) tissue for genetic and epigenetic analyses may be problematic, since the DNA is often degraded and only limited amounts may be available. Thus, it is currently not known whether genome-wide methylation can be reliably assessed in DNA from archival FFPE tissue.  Methodology\/Principal Findings Ovarian tissues, which were obtained and formalin-fixed and paraffin-embedded in either 1999 or 2011, were sectioned and stained with hematoxylin-eosin (H&E).Epithelial cells were captured by laser micro dissection, and their DNA subjected to whole genomic bisulfite conversion, whole genomic polymerase chain reaction (PCR) amplification, and purification. Sequencing and software analyses were performed to identify the extent of genomic methylation. We observed that 31.7% of sequence reads from the DNA in the 1999 archival FFPE tissue, and 70.6% of the reads from the 2011 sample, could be matched with the genome. Methylation rates of CpG on the Watson and Crick strands were 32.2% and 45.5%, respectively, in the 1999 sample, and 65.1% and 42.7% in the 2011 sample.  Conclusions\/Significance We have developed an efficient method that allows DNA methylation to be assessed in archival FFPE tissue samples.",
+                "Population stratification is a growing concern in genetic-association studies. Averaged ancestry at the genome level (global ancestry) is insufficient for detecting the population substructures and correcting population stratifications in association studies. Local and phase stratification are needed for human genetic studies, but current technologies cannot be applied on the entire genome data due to various technical caveats. Here we developed a novel approach (aMAP, ancestry of Modern Admixed Populations) for inferring local phased ancestry. It took about 3 seconds on a desktop computer to finish a local ancestry analysis for each human genome with 1.4-million SNPs. This method also exhibits the scalability to larger datasets with respect to the number of SNPs, the number of samples and the size of reference panels. It can detect the lack of the proxy of reference panels. The accuracy was 99.4%. The aMAP \u2026"
+            ],
+            [
+                [
+
+                ]
+            ]
+        ]
+    ]
+}

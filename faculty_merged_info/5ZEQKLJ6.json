@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "5ZEQKLJ6",
+            "d5jVVBoAAAAJ",
+            [
+                "Quantum information with Rydberg atoms",
+                "Observation of Rydberg blockade between two atoms",
+                "Demonstration of a neutral atom controlled-NOT quantum gate",
+                "Quantum computing with atomic qubits and Rydberg interactions: progress and challenges",
+                "Analysis of a quantum logic device based on dipole-dipole interactions of optically trapped Rydberg atoms",
+                "Consequences of Zeeman degeneracy for the van der Waals blockade between Rydberg atoms",
+                "Creating single-atom and single-photon sources from entangled atomic ensembles",
+                "Rabi oscillations between ground and Rydberg states with dipole-dipole atomic interactions",
+                "Fast ground state manipulation of neutral atoms in microscopic optical traps",
+                "Propagation of light beams in anisotropic nonlinear media: from symmetry breaking to spatial turbulence"
+            ],
+            [
+                "Rydberg atoms with principal quantum number n\u2aa2 1 have exaggerated atomic properties including dipole-dipole interactions that scale as n 4 and radiative lifetimes that scale as n 3. It was proposed a decade ago to take advantage of these properties to implement quantum gates between neutral atom qubits. The availability of a strong long-range interaction that can be coherently turned on and off is an enabling resource for a wide range of quantum information tasks stretching far beyond the original gate proposal. Rydberg enabled capabilities include long-range two-qubit gates, collective encoding of multiqubit registers, implementation of robust light-atom quantum interfaces, and the potential for simulating quantum many-body physics. The advances of the last decade are reviewed, covering both theoretical and experimental aspects of Rydberg-mediated quantum information processing.",
+                "Blockade interactions whereby a single particle prevents the flow or excitation of other particles provide a mechanism for control of quantum states, including entanglement of two or more particles. Blockade has been observed for electrons 1, 2, 3, photons 4 and cold atoms 5. Furthermore, dipolar interactions between highly excited atoms have been proposed as a mechanism for \u2018Rydberg blockade\u20196, 7, which might provide a novel approach to a number of quantum protocols 8, 9, 10, 11. Dipolar interactions between Rydberg atoms were observed several decades ago 12 and have been studied recently in a many-body regime using cold atoms 13, 14, 15, 16, 17, 18. However, to harness Rydberg blockade for controlled quantum dynamics, it is necessary to achieve strong interactions between single pairs of atoms. Here, we demonstrate that a single Rydberg-excited rubidium atom blocks excitation of a second \u2026",
+                "We present the first demonstration of a CNOT gate between two individually addressed neutral atoms. Our implementation of the CNOT uses Rydberg blockade interactions between neutral atoms held in optical traps separated by> 8 \u03bc m. Using two different gate protocols we measure CNOT fidelities of F= 0.73 and 0.72 based on truth table probabilities. The gate was used to generate Bell states with fidelity F= 0.48\u00b10.06. After correcting for atom loss we obtain an a posteriori entanglement fidelity of F= 0.58.",
+                "We present a review of quantum computation with neutral atom qubits. After an overview of architectural options and approaches to preparing large qubit arrays we examine Rydberg mediated gate protocols and fidelity for two-and multi-qubit interactions. Quantum simulation and Rydberg dressing are alternatives to circuit based quantum computing for exploring many body quantum dynamics. We review the properties of the dressing interaction and provide a quantitative figure of merit for the complexity of the coherent dynamics that can be accessed with dressing. We conclude with a summary of the current status and an outlook for future progress.",
+                "We present a detailed analysis and design of a neutral atom quantum logic device based on atoms in optical traps interacting via dipole-dipole coupling of Rydberg states. The dominant physical mechanisms leading to decoherence and loss of fidelity are enumerated. Our results support the feasibility of performing single-and two-qubit gates at MHz rates with decoherence probability and fidelity errors at the level of 10\u2212 3 for each operation. Current limitations and possible approaches to further improvement of the device are discussed.",
+                "We analyze the effects of Zeeman degeneracies on the long-range interactions between like Rydberg atoms, with particular emphasis on applications to quantum-information processing using the van der Waals blockade. We present a general analysis of how degeneracies affect the primary error sources in blockade experiments, emphasizing that blockade errors are sensitive primarily to the weakest possible atom-atom interactions between the degenerate states, not the mean interaction strength. We present explicit calculations of the van der Waals potentials in the limit where the fine-structure interaction is large compared to the atom-atom interactions. The results are presented for all potential angular momentum channels involving s, p, and d states. For most channels there are one or more combinations of Zeeman levels that have extremely small dipole-dipole interactions and are therefore poor candidates for \u2026",
+                "We discuss the application of dipole blockade techniques for the preparation of single-atom and single-photon sources. A deterministic protocol is given for loading a single atom in an optical trap, as well as ejecting a controlled number of atoms in a desired direction. A single-photon source with an optically controlled beamlike emission pattern is described.",
+                "We demonstrate Rabi oscillations of small numbers of Rb 87 atoms between ground and Rydberg states with n\u2264 43. Coherent population oscillations are observed for single atoms, while the presence of two or more atoms decoheres the oscillations. We show that these observations are consistent with van der Waals interactions of Rydberg atoms.",
+                "We demonstrate Rabi flopping at MHz rates between ground hyperfine states of neutral Rb 87 atoms that are trapped in two micron sized optical traps. Using tightly focused laser beams we demonstrate high fidelity, site specific Rabi rotations with cross talk on neighboring sites separated by 8 \u03bc m at the level of 10\u2212 3. Ramsey spectroscopy is used to measure a dephasing time of 870 \u03bc s, which is\u2248 5000 times longer than the time for a \u03c0\/2 pulse.",
+                "We investigate theoretically and experimentally breakup and subsequent spatial dynamics of (1+ 1)-and (2+ 1)-dimensional beams in bulk media with an anisotropic photorefractive nonlinear response.\u00a9 1996 The American Physical Society."
+            ],
+            [
+                [
+                    "atomic physics",
+                    "Quantum information",
+                    "nonlinear optics",
+                    "rydberg atoms",
+                    "pattern formation"
+                ]
+            ]
+        ]
+    ]
+}

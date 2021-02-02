@@ -1,0 +1,35 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "UWPUDT4C",
+            "NWdPabcAAAAJ",
+            [
+                "Very high resolution interpolated climate surfaces for global land areas",
+                "Novel methods improve prediction of species\u2019 distributions from occurrence data"
+            ],
+            [
+                "We developed interpolated climate surfaces for global land areas (excluding Antarctica) at a spatial resolution of 30 arc s (often referred to as 1\u2010km spatial resolution). The climate elements considered were monthly precipitation and mean, minimum, and maximum temperature. Input data were gathered from a variety of sources and, where possible, were restricted to records from the 1950\u20132000 period. We used the thin\u2010plate smoothing spline algorithm implemented in the ANUSPLIN package for interpolation, using latitude, longitude, and elevation as independent variables. We quantified uncertainty arising from the input data and the interpolation by mapping weather station density, elevation bias in the weather stations, and elevation variation within grid cells and through data partitioning and cross validation. Elevation bias tended to be negative (stations lower than expected) at high latitudes but positive in the \u2026",
+                "Prediction of species\u2019 distributions is central to diverse applications in ecology, evolution and conservation science. There is increasing electronic access to vast sets of occurrence records in museums and herbaria, yet little effective guidance on how best to use this information in the context of numerous approaches for modelling distributions. To meet this need, we compared 16 modelling methods over 226 species from 6 regions of the world, creating the most comprehensive set of model comparisons to date. We used presence\u2010only data to fit models, and independent presence\u2010absence data to evaluate the predictions. Along with well\u2010established modelling methods such as generalised additive models and GARP and BIOCLIM, we explored methods that either have been developed recently or have rarely been applied to modelling species\u2019 distributions. These include machine\u2010learning methods and \u2026"
+            ],
+            [
+                [
+                    "Agriculture",
+                    "Biogeography",
+                    "Ecological modeling",
+                    "Health",
+                    "Spatial data science"
+                ]
+            ]
+        ]
+    ]
+}

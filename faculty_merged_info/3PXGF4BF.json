@@ -1,0 +1,33 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "3PXGF4BF",
+            "cNbGSxgAAAAJ",
+            [
+                "Biophysical clocks face a trade-off between internal and external noise resistance",
+                "Kalman-like self-tuned sensitivity in biophysical sensing"
+            ],
+            [
+                "Many organisms use free running circadian clocks to anticipate the day night cycle. However, others organisms use simple stimulus-response strategies (\u2018hourglass clocks\u2019) and it is not clear when such strategies are sufficient or even preferable to free running clocks. Here, we find that free running clocks, such as those found in the cyanobacterium Synechococcus elongatus and humans, can efficiently project out light intensity fluctuations due to weather patterns (\u2018external noise\u2019) by exploiting their limit cycle attractor. However, such limit cycles are necessarily vulnerable to \u2018internal noise\u2019. Hence, at sufficiently high internal noise, point attractor-based \u2018hourglass\u2019 clocks, such as those found in a smaller cyanobacterium with low protein copy number, Prochlorococcus marinus, can outperform free running clocks. By interpolating between these two regimes in a diverse range of oscillators drawn from across biology, we demonstrate biochemical clock architectures that are best suited to different relative strengths of external and internal noise.",
+                "Living organisms need to be sensitive to a changing environment while also ignoring uninformative environmental fluctuations. Here, we argue that living cells can navigate these conflicting demands by dynamically tuning their environmental sensitivity. We analyze the circadian clock in Synechococcus elongatus, showing that clock-metabolism coupling can detect mismatch between clock predictions and the day-night light cycle, temporarily raise the clock\u2019s sensitivity to light changes, and thus re-entraining faster. We find analogous behavior in recent experiments on switching between slow and fast osmotic-stress-response pathways in yeast. In both cases, cells can raise their sensitivity to new external information in epochs of frequent challenging stress, much like a Kalman filter with adaptive gain in signal processing. Our work suggests a new class of experiments that probe the history dependence of \u2026"
+            ],
+            [
+                [
+                    "Biophysics",
+                    "Nonlinear dynamics",
+                    "Information theory"
+                ]
+            ]
+        ]
+    ]
+}

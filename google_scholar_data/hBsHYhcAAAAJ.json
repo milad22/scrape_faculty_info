@@ -1,0 +1,66 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "hBsHYhcAAAAJ",
+            "Wang Yan-Jiang",
+            "Department of Neurology and Centre for Clinical Neuroscience, Daping Hospital, Third Military Medical University, Chongqing, Chi",
+            "@tmmu.edu.cn",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=hBsHYhcAAAAJ",
+            64048,
+            [
+                "Alzheimer's disease",
+                "neurodegeneration",
+                "stroke"
+            ],
+            28058,
+            97,
+            69,
+            1212,
+            636,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"kKREU6QAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Xin-Fu Zhou",
+                    "affiliation":"Professor, Research Chair in Neuroscience, University of South Australia"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9-QkfagAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Brian Nelson Giunta, M.D., Ph.D.",
+                    "affiliation":"University of South Florida College of Medicine, Department of Psychiatry"
+                }
+            ]
+        ]
+    ]
+}

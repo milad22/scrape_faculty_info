@@ -1,0 +1,79 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "P5gFO6kAAAAJ",
+            "Juri Smirnov",
+            "Research Fellow, CCAPP, Ohio State University, Columbus, Ohio, United States",
+            "@osu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=P5gFO6kAAAAJ",
+            1458,
+            [
+                "High Energy Physcis",
+                "Cosmology",
+                "Plasma Physics",
+                "Microbiology"
+            ],
+            1282,
+            18,
+            18,
+            26,
+            26,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"IR2I0ZsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Pavel Fileviez Perez",
+                    "affiliation":"Associate Professor of Physics, Case Western Reserve University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"CINl2I0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alessandro Strumia",
+                    "affiliation":"Pisa University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"1jke1uYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Joachim Kopp",
+                    "affiliation":"Professor of Thoretical Elementary Particle Physics, Johannes Gutenberg University Mainz"
+                }
+            ]
+        ]
+    ]
+}

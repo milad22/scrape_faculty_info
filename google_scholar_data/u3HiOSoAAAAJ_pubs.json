@@ -1,0 +1,159 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ],
+    "data":[
+        [
+            "Metabolic pathways are often engineered in single microbial populations. However, the introduction of heterologous circuits into the host can create a substantial metabolic burden that limits the overall productivity of the system. This limitation could be overcome by metabolic division of labor (DOL), whereby distinct populations perform different steps in a metabolic pathway, reducing the burden each population will experience. While conceptually appealing, the conditions when DOL is advantageous have not been rigorously established. Here, we have analyzed 24 common architectures of metabolic pathways in which DOL can be implemented. Our analysis reveals general criteria defining the conditions that favor DOL, accounting for the burden or benefit of the pathway activity on the host populations as well as the transport and turnover of enzymes and intermediate metabolites. These criteria can help guide \u2026",
+            "Metabolic division of labor in microbial systems",
+            "Ryan Tsoi and Feilun Wu and Carolyn Zhang and Sharon Bewick and David Karig and Lingchong You",
+            "2018",
+            "u3HiOSoAAAAJ:u5HHmVD_uO8C",
+            63,
+            "https:\/\/www.pnas.org\/content\/115\/10\/2526?_ga=2.197038316.1358084492.1526515200-1419862529.1526515200",
+            "4698974104751222522",
+            "\/scholar?cites=4698974104751222522",
+            {
+                "2018":7,
+                "2019":22,
+                "2020":32,
+                "2021":2
+            }
+        ],
+        [
+            "Synthetic biology has grown tremendously over the past fifteen years. It represents a new strategy to develop biological understanding and holds great promise for diverse practical applications. Engineering of a gene circuit typically involves computational design of the circuit, selection of circuit components, and test and optimization of circuit functions. A fundamental challenge in this process is the predictable control of circuit function due to multiple layers of biological uncertainties. These uncertainties can arise from different sources. We categorize these uncertainties into incomplete quantification of parts, interactions between heterologous components and the host, or stochastic dynamics of chemical reactions and outline potential design strategies to minimize or exploit them.",
+            "Addressing biological uncertainties in engineering gene circuits",
+            "Carolyn Zhang and Ryan Tsoi and Lingchong You",
+            "2016",
+            "u3HiOSoAAAAJ:9yKSN-GCB0IC",
+            29,
+            "https:\/\/academic.oup.com\/ib\/article-abstract\/8\/4\/456\/5163720",
+            "11471848172806297001",
+            "\/scholar?cites=11471848172806297001",
+            {
+                "2016":4,
+                "2017":6,
+                "2018":7,
+                "2019":4,
+                "2020":8
+            }
+        ],
+        [
+            "The length of the G1 phase in the cell cycle shows significant variability in different cell types and tissue types. To gain insights into the control of G1 length, we generated an E2F activity reporter that captures free E2F activity after dissociation from Rb sequestration and followed its kinetics of activation at the single-cell level, in real time. Our results demonstrate that its activity is precisely coordinated with S phase progression. Quantitative analysis indicates that there is a pre-S phase delay between E2F transcriptional dynamic and activity dynamics. This delay is variable among different cell types and is strongly modulated by the cyclin D\/CDK4\/6 complex activity through Rb phosphorylation. Our findings suggest that the main function of this complex is to regulate the appropriate timing of G1 length.",
+            "Cyclin D\/CDK4\/6 activity controls G1 length in mammalian cells",
+            "Peng Dong and Carolyn Zhang and Bao-Tran Parker and Lingchong You and Bernard Mathey-Prevot",
+            "2018",
+            "u3HiOSoAAAAJ:u-x6o8ySG0sC",
+            23,
+            "https:\/\/journals.plos.org\/plosone\/article?id=10.1371\/journal.pone.0185637",
+            "6614665196836431441",
+            "\/scholar?cites=6614665196836431441",
+            {
+                "2018":7,
+                "2019":5,
+                "2020":11
+            }
+        ],
+        [
+            "The Rb\/E2F network has a critical role in regulating cell cycle progression and cell fate decisions. It is dysfunctional in virtually all human cancers, because of genetic lesions that cause overexpression of activators, inactivation of repressors, or both. Paradoxically, the downstream target of this network, E2F1, is rarely strongly overexpressed in cancer. E2F1 can induce both proliferation and apoptosis but the factors governing these critical cell fate decisions remain unclear. Previous studies have focused on qualitative mechanisms such as differential cofactors, posttranslational modification or state of other signaling pathways as modifiers of the cell fate decisions downstream of E2F1 activation. In contrast, the importance of the expression levels of E2F1 itself in dictating the downstream phenotypes has not been rigorously studied, partly due to the limited resolution of traditional population-level measurements. Here \u2026",
+            "Expression level is a key determinant of E2F1-mediated cell fate",
+            "Igor Shats and Michael Deng and Adam Davidovich and Carolyn Zhang and Jungeun S Kwon and Dinesh Manandhar and Raluca Gord\u00e2n and Guang Yao and Lingchong You",
+            "2017",
+            "u3HiOSoAAAAJ:d1gkVwhDpl0C",
+            22,
+            "https:\/\/www.nature.com\/articles\/cdd201712",
+            "9261590299939458948",
+            "\/scholar?cites=9261590299939458948",
+            {
+                "2017":3,
+                "2018":2,
+                "2019":10,
+                "2020":6,
+                "2021":1
+            }
+        ],
+        [
+            "Identifying active prophages is critical for studying coevolution of phage and bacteria, investigating phage physiology and biochemistry, and engineering designer phages for diverse applications. We present Prophage Hunter, a tool aimed at hunting for active prophages from whole genome assembly of bacteria. Combining sequence similarity-based matching and genetic features-based machine learning classification, we developed a novel scoring system that exhibits higher accuracy than current tools in predicting active prophages on the validation datasets. The option of skipping similarity matching is also available so that there's higher chance for novel phages to be discovered. Prophage Hunter provides a one-stop web service to extract prophage genomes from bacterial genomes, evaluate the activity of the prophages, identify phylogenetically related phages, and annotate the function of phage proteins \u2026",
+            "Prophage Hunter: an integrative hunting tool for active prophages",
+            "Wenchen Song and Hai-Xi Sun and Carolyn Zhang and Li Cheng and Ye Peng and Ziqing Deng and Dan Wang and Yun Wang and Ming Hu and Wenen Liu and Huanming Yang and Yue Shen and Junhua Li and Lingchong You and Minfeng Xiao",
+            "2019",
+            "u3HiOSoAAAAJ:qjMakFHDy7sC",
+            18,
+            "https:\/\/academic.oup.com\/nar\/article-abstract\/47\/W1\/W74\/5494712",
+            "18387608186273315908",
+            "\/scholar?cites=18387608186273315908",
+            {
+                "2019":2,
+                "2020":13,
+                "2021":3
+            }
+        ],
+        [
+            "For many biological applications, exploration of the massive parametric space of a mechanism-based model can impose a prohibitive computational demand. To overcome this limitation, we present a framework to improve computational efficiency by orders of magnitude. The key concept is to train a neural network using a limited number of simulations generated by a mechanistic model. This number is small enough such that the simulations can be completed in a short time frame but large enough to enable reliable training. The trained neural network can then be used to explore a much larger parametric space. We demonstrate this notion by training neural networks to predict pattern formation and stochastic gene expression. We further demonstrate that using an ensemble of neural networks enables the self-contained evaluation of the quality of each prediction. Our work can be a platform for fast parametric \u2026",
+            "Massive computational acceleration by using neural networks to emulate mechanism-based biological models",
+            "Shangying Wang and Kai Fan and Nan Luo and Yangxiaolu Cao and Feilun Wu and Carolyn Zhang and Katherine A Heller and Lingchong You",
+            "2019",
+            "u3HiOSoAAAAJ:UeHWp8X0CEIC",
+            16,
+            "https:\/\/www.nature.com\/articles\/s41467-019-12342-y",
+            "14858822072338791323",
+            "\/scholar?cites=14858822072338791323",
+            {
+                "2019":3,
+                "2020":12,
+                "2021":1
+            }
+        ],
+        [
+            "From the timing of amoeba development to the maintenance of stem cell pluripotency, many biological signaling pathways exhibit the ability to differentiate between pulsatile and sustained signals in the regulation of downstream gene expression. While the networks underlying this signal decoding are diverse, many are built around a common motif, the incoherent feedforward loop (IFFL), where an input simultaneously activates an output and an inhibitor of the output. With appropriate parameters, this motif can exhibit temporal adaptation, where the system is desensitized to a sustained input. This property serves as the foundation for distinguishing input signals with varying temporal profiles. Here, we use quantitative modeling to examine another property of IFFLs\u2014the ability to process oscillatory signals. Our results indicate that the system\u2019s ability to translate pulsatile dynamics is limited by two constraints. The kinetics of the IFFL components dictate the input range for which the network is able to decode pulsatile dynamics. In addition, a match between the network parameters and input signal characteristics is required for optimal \u201ccounting\u201d. We elucidate one potential mechanism by which information processing occurs in natural networks, and our work has implications in the design of synthetic gene circuits for this purpose.",
+            "Processing oscillatory signals by incoherent feedforward loops",
+            "Carolyn Zhang and Ryan Tsoi and Feilun Wu and Lingchong You",
+            "2016",
+            "u3HiOSoAAAAJ:2osOgNQ5qMEC",
+            14,
+            "https:\/\/journals.plos.org\/ploscompbiol\/article?id=10.1371\/journal.pcbi.1005101",
+            "12287803601203115636",
+            "\/scholar?cites=12287803601203115636",
+            {
+                "2016":1,
+                "2017":2,
+                "2018":4,
+                "2019":5,
+                "2020":2
+            }
+        ],
+        [
+            "In biology, it is often critical to determine the identity of an organism and phenotypic traits of interest. Whole-genome sequencing can be useful for this but has limited power for trait prediction. However, we can take advantage of the inherent information content of phenotypes to bypass these limitations. We demonstrate, in clinical and environmental bacterial isolates, that growth dynamics in standardized conditions can differentiate between genotypes, even among strains from the same species. We find that for pairs of isolates, there is little correlation between genetic distance, according to phylogenetic analysis, and phenotypic distance, as determined by growth dynamics. This absence of correlation underscores the challenge in using genomics to infer phenotypes and vice versa. Bypassing this complexity, we show that growth dynamics alone can robustly predict antibiotic responses. These findings are a \u2026",
+            "Temporal encoding of bacterial identity and traits in growth dynamics",
+            "Carolyn Zhang and Wenchen Song and Helena R Ma and Xiao Peng and Deverick J Anderson and Vance G Fowler and Joshua T Thaden and Minfeng Xiao and Lingchong You",
+            "2020",
+            "u3HiOSoAAAAJ:zYLM7Y9cAGgC",
+            1,
+            "https:\/\/www.pnas.org\/content\/117\/33\/20202.short",
+            "1377203384919435126",
+            "\/scholar?cites=1377203384919435126",
+            {
+                "2020":1
+            }
+        ]
+    ]
+}

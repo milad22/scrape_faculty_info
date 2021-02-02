@@ -1,0 +1,48 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "VX6Q278W",
+            "sPHqUPgAAAAJ",
+            [
+                "Learning about internal capital markets from corporate spin\u2010offs",
+                "Interpreting logit regressions with interaction terms: an application to the management turnover literature",
+                "Deciphering the motives for equity carve\u2010outs",
+                "Management turnover in subsidiaries of conglomerates versus stand-alone firms",
+                "Indexing a bond's call price: an analysis of make-whole call provisions",
+                "Spinoffs, selloffs and equity carveouts: An analysis of divestiture method choice",
+                "What is the cost of financial flexibility? Theory and evidence for make\u2010whole call provisions",
+                "Determinants of bond tender premiums and the percentage tendered",
+                "Setting the optimal make-whole call premium",
+                "Mispricing of Chinese warrants"
+            ],
+            [
+                "We examine the investment behavior of firms before and after being spun off from their parent companies. Their investment after the spin\u2010off is significantly more sensitive to measures of investment opportunities (e.g., industry Tobin's Q or industry investment) than it is before the spin\u2010off. Spin\u2010offs tend to cut investment in low Q industries and increase investment in high Q industries. These changes are observed primarily in spin\u2010offs of firms in industries unrelated to the parents' industries and in spin\u2010offs where the stock market reacts favorably to the spin\u2010off announcement. Our findings suggest that spin\u2010offs may improve the allocation of capital.",
+                "Logit and probit models of turnover=f(performance, firm type, firm type*performance, controls) are often used when testing whether turnover is \u201cmore sensitive to performance\u201d for different types of firms. Researchers using this specification typically focus on the significance of the interaction term coefficient. If the intent is to show that the likelihood (rather than the odds) of turnover changes by more for one type of firm as performance varies, then this is an inappropriate test. Simulations are used to demonstrate how focusing on this particular coefficient can generate incorrect inferences. I then show how analyzing marginal effects eliminates this inference problem.",
+                "I analyze 181 equity carve\u2010outs to determine whether the transactions are motivated by potential efficiency improvements or by an opportunity to sell overvalued equity. Carve\u2010out operating performance peaks at issue, declining significantly thereafter. Parents sell a greater percentage of shares when subsequent performance is poor. A negative relation also exists between long\u2010term excess returns and the percentage of shares sold. If subsequent performance is correlated with the degree to which parent managers believe carve\u2010out subsidiaries are over\u2010 or undervalued, results imply that many carve\u2010outs are conducted, not to improve efficiency, but to sell potentially overvalued equity.",
+                "We compare turnover of subsidiary managers inside conglomerate firms to turnover of CEOs of comparable stand-alone firms. We find that, compared to turnover of CEOs, subsidiary manager turnover is significantly more sensitive to changes in performance and significantly more likely following poor performance. For subsidiary managers, the relation between turnover and performance is significantly stronger when the subsidiary operates in an industry that is related to the parent's primary industry. Results suggest that boards of directors are relatively ineffective disciplinarians of CEOs and despite their other apparent failings, conglomerate firms have relatively strict disciplining mechanisms for subsidiary managers.",
+                "We analyze a new form of call provision known as a \u201cmake-whole\u201d call, which utilizes a floating call price based on the level of current interest rates. As rates drop (rise), the call price increases (decreases.) Usually, a floor at par sets a minimum call price. This provision effectively eliminates the reinvestment rate risk associated with bonds with fixed-price call provisions. Survey results indicate a majority of Chief Financial Officers (CFOs) believe make-whole call provisions are \u201ccostless.\u201d Analysis of 318 recent, make-whole call bonds indicates that this provision is indeed priced. On average, the at-issue yield-to-maturity of a make-whole call bond is 11.2 basis points higher than the yield of a comparable straight bond.",
+                "I analyze a sample of 187 spinoffs, 204 selloffs and 181 carveouts that occurred between 1981 and 1998. Using pre-divestiture operating data for the divested division and parent, I quantify the determinants of the chosen divestiture method. Univariate and multivariate logistic regression results show that the parent's need for external capital, coupled with the quality of the division being divested, are the primary factors determining whether a spinoff, selloff or carveout is chosen. Weaker evidence is found indicating that the parent's pre-divestiture level of focus and the degree of alignment of parent managerial incentives with shareholder interests influence the divestiture method choice.",
+                " Firms commonly incorporate make\u2010whole call provisions in their newly issued debt, presumably to improve their ability to retire debt early if circumstances require. In return for increased financial flexibility, firms must compensate bondholders with additional (incremental) yield. To estimate theoretical incremental yields, we use and calibrate a structural model for a large sample of callable and noncallable US corporate bonds issued between 1995 and 2004. In a frictionless model where calls occur only when they are in\u2010the\u2010money, theoretical incremental yields average approximately 2 basis points (bp). In an extended model that incorporates taxes, transactions costs, and randomly occurring exogenous events requiring early bond retirement, incremental yields average approximately 5 bp. Empirical analysis, however, indicates that observed incremental yields are significantly greater than model\u2010generated \u2026",
+                "We analyze a large sample of US corporate bond tender offers to understand what affects tender premiums as well as the percentage of bonds tendered. For the average (median) tender offer, the tender price is 5.55% (3.24%) greater than the pre-tender market price while the percentage of bonds tendered is 82.3% (94.6%). Premiums offered by firms are greater when the firm is simultaneously soliciting consents to amend restrictive covenants and when the bond has a greater number of restrictive covenants. Premiums are also greater when long-term risk-free yields are low and the yield curve is flatter \u2013 conditions where a firm might want to lock in favorable long-term rates by issuing new debt and retiring old debt. Bondholders respond to higher tender premiums by tendering a greater percentage of their bonds \u2013 a 1% increase in tender premium increases the tendering rate by approximately 9%. Bondholders \u2026",
+                "With a make-whole call, the call price is calculated as the maximum of the par value and the present value of the bond's remaining payments discounted at the prevailing risk-free rate plus a pre-specified spread known as the make-whole premium. The commonly accepted thumb rule in the investment banking community is to set the make-whole premium at 15% of the at-issue credit spread. Using a standard structural model, we calculate the optimal make-whole call premium, i.e. the make-whole premium that maximizes the ex-ante firm value subject to managers following a second-best call policy that maximizes the ex-post equity value. For reasonable parameterizations, optimal make-whole premiums are relatively close to 15% of the model-generated credit spread. Thus, the 15% thumb rule provides surprisingly good guidance for setting make-whole call premiums.",
+                "From August 2005 to December 2008, a total of 54 warrants were issued in China. Trading in China's warrant market was extremely active \u2014 on a daily basis, turnover often exceeded one. Using three standard pricing models, we document that put warrant market prices averaged 1.2 yuan more than model-generated prices, while call warrant prices averaged 1.9 yuan less. Financial institutions that were authorized to create new warrants exploited these pricing anomalies and generated 20 billion yuan (over $3 billion) in creating overpriced put warrants. We identify two important factors that explain the mispricing. First, we show that the P\/E ratios of underlying stocks are related to the overpricing of put warrants and the underpricing of call warrants. This suggests that investors took the potential burst of a stock market bubble into account and thus imposed an implicit discount on the value of stocks when pricing \u2026"
+            ],
+            [
+                [
+                    "fixed-income",
+                    "corporate finance"
+                ]
+            ]
+        ]
+    ]
+}

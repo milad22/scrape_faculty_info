@@ -1,0 +1,128 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Pvhz8AIAAAAJ",
+            "Maria Womack",
+            "University of Central Florida",
+            "@ucf.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=Pvhz8AIAAAAJ",
+            1119,
+            [
+                "comets",
+                "astrochemistry",
+                "molecular clouds",
+                "spectroscopy",
+                "planetary science"
+            ],
+            354,
+            19,
+            11,
+            28,
+            12,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"u-ISRlcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Douglas Friedel",
+                    "affiliation":"Research Programmer, Department of Astronomy, University of Illinois"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"mVYS1scAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Stefanie Milam",
+                    "affiliation":"NASA Goddard Space Flight Center"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"pRG2rVwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jeff Mangum",
+                    "affiliation":"National Radio Astronomy Observatory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Bss5lGwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Chintan Modi",
+                    "affiliation":"Postdoctoral Research Associate, Brown University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"_vlSpDEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Bruce A. Peterson",
+                    "affiliation":"Visitor, Research School of Astronomy and Astrophysics, The Australian National University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"0YxwNWcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Joseph McMullin",
+                    "affiliation":"Square Kilometre Array Organisation"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"A6KHSA4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Belton, M.J.S.",
+                    "affiliation":"Belton Space Exploration Initiatives, LLC"
+                }
+            ]
+        ]
+    ]
+}

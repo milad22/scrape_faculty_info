@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "VEOJKEHS",
+            "u3HiOSoAAAAJ",
+            [
+                "Metabolic division of labor in microbial systems",
+                "Addressing biological uncertainties in engineering gene circuits",
+                "Cyclin D\/CDK4\/6 activity controls G1 length in mammalian cells",
+                "Expression level is a key determinant of E2F1-mediated cell fate",
+                "Prophage Hunter: an integrative hunting tool for active prophages",
+                "Massive computational acceleration by using neural networks to emulate mechanism-based biological models",
+                "Processing oscillatory signals by incoherent feedforward loops",
+                "Temporal encoding of bacterial identity and traits in growth dynamics"
+            ],
+            [
+                "Metabolic pathways are often engineered in single microbial populations. However, the introduction of heterologous circuits into the host can create a substantial metabolic burden that limits the overall productivity of the system. This limitation could be overcome by metabolic division of labor (DOL), whereby distinct populations perform different steps in a metabolic pathway, reducing the burden each population will experience. While conceptually appealing, the conditions when DOL is advantageous have not been rigorously established. Here, we have analyzed 24 common architectures of metabolic pathways in which DOL can be implemented. Our analysis reveals general criteria defining the conditions that favor DOL, accounting for the burden or benefit of the pathway activity on the host populations as well as the transport and turnover of enzymes and intermediate metabolites. These criteria can help guide \u2026",
+                "Synthetic biology has grown tremendously over the past fifteen years. It represents a new strategy to develop biological understanding and holds great promise for diverse practical applications. Engineering of a gene circuit typically involves computational design of the circuit, selection of circuit components, and test and optimization of circuit functions. A fundamental challenge in this process is the predictable control of circuit function due to multiple layers of biological uncertainties. These uncertainties can arise from different sources. We categorize these uncertainties into incomplete quantification of parts, interactions between heterologous components and the host, or stochastic dynamics of chemical reactions and outline potential design strategies to minimize or exploit them.",
+                "The length of the G1 phase in the cell cycle shows significant variability in different cell types and tissue types. To gain insights into the control of G1 length, we generated an E2F activity reporter that captures free E2F activity after dissociation from Rb sequestration and followed its kinetics of activation at the single-cell level, in real time. Our results demonstrate that its activity is precisely coordinated with S phase progression. Quantitative analysis indicates that there is a pre-S phase delay between E2F transcriptional dynamic and activity dynamics. This delay is variable among different cell types and is strongly modulated by the cyclin D\/CDK4\/6 complex activity through Rb phosphorylation. Our findings suggest that the main function of this complex is to regulate the appropriate timing of G1 length.",
+                "The Rb\/E2F network has a critical role in regulating cell cycle progression and cell fate decisions. It is dysfunctional in virtually all human cancers, because of genetic lesions that cause overexpression of activators, inactivation of repressors, or both. Paradoxically, the downstream target of this network, E2F1, is rarely strongly overexpressed in cancer. E2F1 can induce both proliferation and apoptosis but the factors governing these critical cell fate decisions remain unclear. Previous studies have focused on qualitative mechanisms such as differential cofactors, posttranslational modification or state of other signaling pathways as modifiers of the cell fate decisions downstream of E2F1 activation. In contrast, the importance of the expression levels of E2F1 itself in dictating the downstream phenotypes has not been rigorously studied, partly due to the limited resolution of traditional population-level measurements. Here \u2026",
+                "Identifying active prophages is critical for studying coevolution of phage and bacteria, investigating phage physiology and biochemistry, and engineering designer phages for diverse applications. We present Prophage Hunter, a tool aimed at hunting for active prophages from whole genome assembly of bacteria. Combining sequence similarity-based matching and genetic features-based machine learning classification, we developed a novel scoring system that exhibits higher accuracy than current tools in predicting active prophages on the validation datasets. The option of skipping similarity matching is also available so that there's higher chance for novel phages to be discovered. Prophage Hunter provides a one-stop web service to extract prophage genomes from bacterial genomes, evaluate the activity of the prophages, identify phylogenetically related phages, and annotate the function of phage proteins \u2026",
+                "For many biological applications, exploration of the massive parametric space of a mechanism-based model can impose a prohibitive computational demand. To overcome this limitation, we present a framework to improve computational efficiency by orders of magnitude. The key concept is to train a neural network using a limited number of simulations generated by a mechanistic model. This number is small enough such that the simulations can be completed in a short time frame but large enough to enable reliable training. The trained neural network can then be used to explore a much larger parametric space. We demonstrate this notion by training neural networks to predict pattern formation and stochastic gene expression. We further demonstrate that using an ensemble of neural networks enables the self-contained evaluation of the quality of each prediction. Our work can be a platform for fast parametric \u2026",
+                "From the timing of amoeba development to the maintenance of stem cell pluripotency, many biological signaling pathways exhibit the ability to differentiate between pulsatile and sustained signals in the regulation of downstream gene expression. While the networks underlying this signal decoding are diverse, many are built around a common motif, the incoherent feedforward loop (IFFL), where an input simultaneously activates an output and an inhibitor of the output. With appropriate parameters, this motif can exhibit temporal adaptation, where the system is desensitized to a sustained input. This property serves as the foundation for distinguishing input signals with varying temporal profiles. Here, we use quantitative modeling to examine another property of IFFLs\u2014the ability to process oscillatory signals. Our results indicate that the system\u2019s ability to translate pulsatile dynamics is limited by two constraints. The kinetics of the IFFL components dictate the input range for which the network is able to decode pulsatile dynamics. In addition, a match between the network parameters and input signal characteristics is required for optimal \u201ccounting\u201d. We elucidate one potential mechanism by which information processing occurs in natural networks, and our work has implications in the design of synthetic gene circuits for this purpose.",
+                "In biology, it is often critical to determine the identity of an organism and phenotypic traits of interest. Whole-genome sequencing can be useful for this but has limited power for trait prediction. However, we can take advantage of the inherent information content of phenotypes to bypass these limitations. We demonstrate, in clinical and environmental bacterial isolates, that growth dynamics in standardized conditions can differentiate between genotypes, even among strains from the same species. We find that for pairs of isolates, there is little correlation between genetic distance, according to phylogenetic analysis, and phenotypic distance, as determined by growth dynamics. This absence of correlation underscores the challenge in using genomics to infer phenotypes and vice versa. Bypassing this complexity, we show that growth dynamics alone can robustly predict antibiotic responses. These findings are a \u2026"
+            ],
+            [
+                [
+                    "Infectious Diseases",
+                    "Machine Learning",
+                    "Computational Biology",
+                    "Antibiotic Resistance",
+                    "Diagnostics"
+                ]
+            ]
+        ]
+    ]
+}

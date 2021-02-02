@@ -1,0 +1,65 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "TXuiHAUAAAAJ",
+            "Bruce White",
+            "Lecturer mathematics and Science Education, University of South Australia",
+            "@unisa.edu.au",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=TXuiHAUAAAAJ",
+            288,
+            [
+                "Science Education",
+                "Mathematics Education"
+            ],
+            156,
+            9,
+            5,
+            8,
+            3,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"mPV3lFQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ruth Geer",
+                    "affiliation":"University of South Australia"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"42K6p88AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Lisa O'Keeffe",
+                    "affiliation":"University of South Australia"
+                }
+            ]
+        ]
+    ]
+}

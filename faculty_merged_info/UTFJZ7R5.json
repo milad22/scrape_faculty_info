@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "UTFJZ7R5",
+            "09nv75wAAAAJ",
+            [
+                "Generalized gradient approximation made simple",
+                "Accurate and simple analytic representation of the electron-gas correlation energy",
+                "Self-interaction correction to density-functional approximations for many-electron systems",
+                "Atoms, molecules, solids, and surfaces: Applications of the generalized gradient approximation for exchange and correlation",
+                "Density-functional approximation for the correlation energy of the inhomogeneous electron gas",
+                "Restoring the density-gradient expansion for exchange in solids and surfaces",
+                "Climbing the density functional ladder: Nonempirical meta\u2013generalized gradient approximation designed for molecules and solids",
+                "Generalized gradient approximation for the exchange-correlation hole of a many-electron system",
+                "Accurate and simple density functional for the electronic exchange energy: Generalized gradient approximation",
+                "Rationale for mixing exact exchange with density functional approximations"
+            ],
+            [
+                "Generalized gradient approximations (GGA's) for the exchange-correlation energy improve upon the local spin density (LSD) description of atoms, molecules, and solids. We present a simple derivation of a simple GGA, in which all parameters (other than those in LSD) are fundamental constants. Only general features of the detailed construction underlying the Perdew-Wang 1991 (PW91) GGA are invoked. Improvements over PW91 include an accurate description of the linear response of the uniform electron gas, correct behavior under uniform scaling, and a smoother potential.",
+                "We propose a simple analytic representation of the correlation energy \u025b c for a uniform electron gas, as a function of density parameter r s and relative spin polarization \u03b6. Within the random-phase approximation (RPA), this representation allows for the r s\u2212 3\/4 behavior as r s\u2192\u221e. Close agreement with numerical RPA values for \u025b c (r s, 0), \u025b c (r s, 1), and the spin stiffness \u03b1 c (r s)=\u2202 2 \u025b c (r s, \u03b6= 0)\/\u03b4 \u03b6 2, and recovery of the correct r s ln r s term for r s\u2192 0, indicate the appropriateness of the chosen analytic form. Beyond RPA, different parameters for the same analytic form are found by fitting to the Green\u2019s-function Monte Carlo data of Ceperley and Alder [Phys. Rev. Lett. 45, 566 (1980)], taking into account data uncertainties that have been ignored in earlier fits by Vosko, Wilk, and Nusair (VWN)[Can. J. Phys. 58, 1200 (1980)] or by Perdew and Zunger (PZ)[Phys. Rev. B 23, 5048 (1981)]. While we confirm the practical \u2026",
+                "The exact density functional for the ground-state energy is strictly self-interaction-free (ie, orbitals demonstrably do not self-interact), but many approximations to it, including the local-spin-density (LSD) approximation for exchange and correlation, are not. We present two related methods for the self-interaction correction (SIC) of any density functional for the energy; correction of the self-consistent one-electron potenial follows naturally from the variational principle. Both methods are sanctioned by the Hohenberg-Kohn theorem. Although the first method introduces an orbital-dependent single-particle potential, the second involves a local potential as in the Kohn-Sham scheme. We apply the first method to LSD and show that it properly conserves the number content of the exchange-correlation hole, while substantially improving the description of its shape. We apply this method to a number of physical problems \u2026",
+                "Generalized gradient approximations (GGA\u2019s) seek to improve upon the accuracy of the local-spin-density (LSD) approximation in electronic-structure calculations. Perdew and Wang have developed a GGA based on real-space cutoff of the spurious long-range components of the second-order gradient expansion for the exchange-correlation hole. We have found that this density functional performs well in numerical tests for a variety of systems:(1) Total energies of 30 atoms are highly accurate.(2) Ionization energies and electron affinities are improved in a statistical sense, although significant interconfigurational and interterm errors remain.(3) Accurate atomization energies are found for seven hydrocarbon molecules, with a rms error per bond of 0.1 eV, compared with 0.7 eV for the LSD approximation and 2.4 eV for the Hartree-Fock approximation.(4) For atoms and molecules, there is a cancellation of error \u2026",
+                "Langreth and Mehl (LM) and co-workers have developed a useful spin-density functional for the correlation energy of an electronic system. Here the LM functional is improved in two ways:(1) The natural separation between exchange and correlation is made, so that the density-gradient expansion of each is recovered in the slowly varying limit.(2) Uniform-gas and inhomogeneity effects beyond the randomphase approximation are built in. Numerical results for atoms, positive ions, and surfaces are close to the exact correlation energies, with major improvements over the original LM approximation for the ions and surfaces.",
+                "Popular modern generalized gradient approximations are biased toward the description of free-atom energies. Restoration of the first-principles gradient expansion for exchange over a wide range of density gradients eliminates this bias. We introduce a revised Perdew-Burke-Ernzerhof generalized gradient approximation that improves equilibrium properties of densely packed solids and their surfaces.",
+                "The electron density, its gradient, and the Kohn-Sham orbital kinetic energy density are the local ingredients of a meta\u2013generalized gradient approximation (meta-GGA). We construct a meta-GGA density functional for the exchange-correlation energy that satisfies exact constraints without empirical parameters. The exchange and correlation terms respect two paradigms: one-or two-electron densities and slowly varying densities, and so describe both molecules and solids with high accuracy, as shown by extensive numerical tests. This functional completes the third rung of \u201cJacob\u2019s ladder\u201d of approximations, above the local spin density and GGA rungs.",
+                "We construct a generalized gradient approximation (GGA) for the density n xc (r, r+u) at position r+u of the exchange-correlation hole surrounding an electron at r, or more precisely for its system and spherical average< n xc (u)>=(4\u03c0)\u2212 1\u222b d \u03a9 u N\u2212 1\u222b d 3 r n (r) n xc (r, r+u). Starting from the second-order density gradient expansion, which involves the local spin densities n\u2191(r), n\u2193(r) and their gradients\u2207 n\u2191(r),\u2207 n\u2193(r), we cut off the spurious large-u contributions to restore those exact conditions on the hole that the local spin density (LSD) approximation respects. Our GGA hole recovers the Perdew-Wang 1991 and Perdew-Burke-Ernzerhof GGA\u2019s for the exchange-correlation energy, which therefore respect the same powerful hole constraints as LSD. When applied to real systems, our hole model provides a more detailed test of these energy functionals, and also predicts the observable electron-electron \u2026",
+                "The electronic exchange energy as a functional of the density may be approximated as E x [n]= A x\u222b d 3 r n 4 3 F (s), where s=|\u2207 n| 2 k F n, k F=(3 \u03c0 2 n) 1 3, and F (s)=(1+ 1.296 s 2+ 14 s 4+ 0.2 s 6) 1 15. The basis for this approximation is the gradient expansion of the exchange hole, with real-space cutoffs chosen to guarantee that the hole is negative everywhere and represents a deficit of one electron. Unlike the previously publsihed version of it, this functional is simple enough to be applied routinely in self-consistent calculations for atoms, molecules, and solids. Calculated exchange energies for atoms fall within 1% of Hartree-Fock values. Significant improvements over other simple functionals are also found in the exchange contributions to the valence-shell removal energy of an atom and to the surface energy of jellium within the infinite barrier model.",
+                "Density functional approximations for the exchange\u2010correlation energy EDFAxc of an electronic system are often improved by admixing some exact exchange Ex: Exc\u224aEDFAxc+(1\/n)(Ex\u2212EDFAx). This procedure is justified when the error in EDFAxc arises from the \u03bb=0 or exchange end of the coupling\u2010constant integral \u222b10 d\u03bb\u2009EDFAxc,\u03bb. We argue that the optimum integer n is approximately the lowest order of G\u00f6rling\u2013Levy perturbation theory which provides a realistic description of the coupling\u2010constant dependence Exc,\u03bb in the range 0\u2264\u03bb\u22641, whence n\u224a4 for atomization energies of typical molecules. We also propose a continuous generalization of n as an index of correlation strength, and a possible mixing of second\u2010order perturbation theory with the generalized gradient approximation."
+            ],
+            [
+                [
+                    "density functional theory",
+                    "materials theory",
+                    "quantum chemistry"
+                ]
+            ]
+        ]
+    ]
+}

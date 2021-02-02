@@ -1,0 +1,100 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Z-YkfkUAAAAJ",
+            "Victor Quito",
+            "Iowa State University",
+            "@iastate.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=Z-YkfkUAAAAJ",
+            61,
+            [
+
+            ],
+            60,
+            4,
+            4,
+            2,
+            2,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Yf9ov0QAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Eduardo Miranda",
+                    "affiliation":"Full Professor of Physics, University of Campinas"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Vts1L1sAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Paraj Titum",
+                    "affiliation":"Johns Hopkins University Applied Physics Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"MGm_LUwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Pedro Lopes",
+                    "affiliation":"Project Manager, UBC"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"rKWw5CgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gil Refael",
+                    "affiliation":"California Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"UAQ3g74AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David Pekker",
+                    "affiliation":"University of Pittsburgh"
+                }
+            ]
+        ]
+    ]
+}

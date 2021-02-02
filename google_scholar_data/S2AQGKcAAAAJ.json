@@ -1,0 +1,100 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "S2AQGKcAAAAJ",
+            "Walter Pettus",
+            "Department of Physics, Indiana University, Bloomington",
+            "@indiana.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=S2AQGKcAAAAJ",
+            1222,
+            [
+                "Nuclear and Astroparticle Physics"
+            ],
+            1050,
+            14,
+            14,
+            19,
+            19,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"1xC8kXYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Karsten M. Heeger",
+                    "affiliation":"Yale University; Professor of Physics; Director, Wright Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"SJNjUEsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Reina H. Maruyama",
+                    "affiliation":"Associate Professor of Physics, Yale University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"tTNPXRsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Francis Halzen",
+                    "affiliation":"Professor of Physics, University of Wisconsin"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"GwAjzcMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Darren Grant",
+                    "affiliation":"Michigan State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"yVyVBKoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Liang Yang",
+                    "affiliation":"University of California San Diego"
+                }
+            ]
+        ]
+    ]
+}

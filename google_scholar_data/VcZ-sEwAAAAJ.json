@@ -1,0 +1,103 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "VcZ-sEwAAAAJ",
+            "Gregory Fleishman",
+            "New Jersey Institute of Technology",
+            "@njit.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=VcZ-sEwAAAAJ",
+            2799,
+            [
+                "Solar physics",
+                "Space Science",
+                "Astrophysics",
+                "Theoretical Physics"
+            ],
+            1294,
+            30,
+            19,
+            70,
+            42,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"QS-iV8AAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dale Gary",
+                    "affiliation":"New Jersey Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"npXE02YAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gelu M. Nita",
+                    "affiliation":"NJIT"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"cNzKnlwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Eduard Kontar",
+                    "affiliation":"School of Physics and Astronomy, University of Glasgow, UK"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"M0u6rdIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sven Wedemeyer-B\u00f6hm",
+                    "affiliation":"Researcher, University of Oslo"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"HRX49rUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sergey Yastrebov",
+                    "affiliation":"Leading researcher, Abraham Ioffe Institute, St. Petersburg, Russia"
+                }
+            ]
+        ]
+    ]
+}

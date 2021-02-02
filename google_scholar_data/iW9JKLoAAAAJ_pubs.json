@@ -1,0 +1,42 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "The presence of long-range quantum spin correlations underlies a variety of physical phenomena in condensed-matter systems, potentially including high-temperature superconductivity 1, 2. However, many properties of exotic, strongly correlated spin systems, such as spin liquids, have proved difficult to study, in part because calculations involving N-body entanglement become intractable for as few as N\u2248 30 particles 3. Feynman predicted that a quantum simulator\u2014a special-purpose \u2018analogue\u2019processor built using quantum bits (qubits)\u2014would be inherently suited to solving such problems 4, 5. In the context of quantum magnetism, a number of experiments have demonstrated the feasibility of this approach 6, 7, 8, 9, 10, 11, 12, 13, 14, but simulations allowing controlled, tunable interactions between spins localized on two-or three-dimensional lattices of more than a few tens of qubits have yet to be \u2026",
+            "Engineered two-dimensional Ising interactions in a trapped-ion quantum simulator with hundreds of spins",
+            "Joseph W Britton and Brian C Sawyer and Adam C Keith and C-C Joseph Wang and James K Freericks and Hermann Uys and Michael J Biercuk and John J Bollinger",
+            "2012",
+            "iW9JKLoAAAAJ:RYcK_YlVTxYC",
+            800,
+            "https:\/\/www.nature.com\/articles\/nature10981",
+            "16241945813583336609",
+            "\/scholar?cites=16241945813583336609",
+            {
+                "2012":29,
+                "2013":88,
+                "2014":84,
+                "2015":88,
+                "2016":108,
+                "2017":70,
+                "2018":100,
+                "2019":100,
+                "2020":122,
+                "2021":8
+            }
+        ]
+    ]
+}

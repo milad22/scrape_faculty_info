@@ -1,0 +1,137 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "8bmIJtAAAAAJ",
+            "Owen Howell",
+            "Boston University",
+            "@bu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=8bmIJtAAAAAJ",
+            26,
+            [
+                "Statistical Physics",
+                "Machine Learning"
+            ],
+            26,
+            1,
+            1,
+            1,
+            1,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"HAZRRQwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Phillip Weinberg",
+                    "affiliation":"Northeastern University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"aqR52DMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Anatoli Polkovnikov",
+                    "affiliation":"Boston University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"7MNzuJ8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dries Sels",
+                    "affiliation":"New York University -- Flatiron Institute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"xRJLNpAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Marin Bukov",
+                    "affiliation":"Sofia University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"z8AY3zkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Robert Marsland III",
+                    "affiliation":"Pontifical University of the Holy Cross"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"LQq-pwEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Pankaj Mehta",
+                    "affiliation":"Associate Professor, Physics, Boston University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"k6I_USQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Wenping Cui",
+                    "affiliation":"Graduate Student, Boston College"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"BKGAixAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Andreas Mayer",
+                    "affiliation":"Lewis-Sigler Theory Fellow, Princeton University"
+                }
+            ]
+        ]
+    ]
+}

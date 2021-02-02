@@ -1,0 +1,45 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "KVSBOHUA",
+            "k4egErYAAAAJ",
+            [
+                "Electron-vibrational dynamics of photoexcited polyfluorenes",
+                "Mechanically activated molecular switch through single-molecule pulling",
+                "Robust ultrafast currents in molecular wires through stark shifts",
+                "DNA-Based Optomechanical Molecular Motor",
+                "Electron-vibrational relaxation of photoexcited polyfluorenes in the presence of chemical defects: A theoretical study",
+                "Correlated electron-nuclear dynamics with conditional wave functions",
+                "Tunneling currents that increase with molecular elongation"
+            ],
+            [
+                "The highly polarizable \u03c0-electron system of conjugated molecules forms the basis for their unique electronic and photophysical properties, which play an important role in numerous biological phenomena and make them important materials for technological applications. We present a theoretical investigation of the dynamics and relaxation of photoexcited states in conjugated polyfluorenes, which are promising materials for display applications. Our analysis shows that both fast (\u223c20 fs) and slow (\u223c1 ps) nuclear motions couple to the electronic degrees of freedom during the excited-state dynamics. Delocalized excitations dominate the absorption, whereas emission comes from localized (self-trapped) excitons. This localization is attributed to an inherent nonlinear coupling among vibronic degrees of freedom which leads to lattice and torsional distortions and results in specific signatures in spectroscopic \u2026",
+                "We investigate a prototypical single-molecule switch marrying force spectroscopy and molecular electronics far from the thermodynamic limit. We use molecular dynamics to simulate a conducting atomic force microscope mechanically manipulating a molecule bound to a surface between a folded state and an unfolded state while monitoring the conductance. Both the complexity and the unique phenomenology of single-molecule experiments are evident in this system. As the molecule unfolds\/refolds, the average conductance reversibly changes over 3 orders of magnitude; however, throughout the simulation the transmission fluctuates considerably, illustrating the need for statistical sampling in these systems. We predict that emergent single-molecule signatures will still be evident with conductance blinking, correlated with force blinking, being observable in a region of dynamic bistability. Finally, we illustrate some \u2026",
+                "A novel way to induce ultrafast currents in molecular wires using two incident laser frequencies, \u03c9 and 2 \u03c9, is demonstrated. The mechanism relies on Stark shifts, instead of near-resonance photon absorption, to transfer population to the excited states and exploits the temporal profile of the field to generate phase-controllable transport. Calculations in a trans-polyacetylene oligomer coupled to metallic leads indicate that the mechanism is highly efficient and robust to ultrafast electronic dephasing processes induced by vibronic couplings.",
+                "An azobenzene-capped DNA hairpin coupled to an AFM is presented as an optically triggered single-molecule motor. The photoinduced trans to cis isomerization of azobenzene affects both the overall length of the molecule and the ability of the DNA bases to hybridize. Using a combination of molecular dynamics simulations and free energy calculations the unfolding of both isomers along the O5\u2032\u2212O3\u2032 extension coordinate is monitored. The potentials of mean force (PMFs) along this coordinate indicate that there are two major differences induced by photoisomerization. The first is that the interbase hydrogen bond and stacking interactions are stable for a greater range of extensions in the trans system than in the cis system. The second difference is due to a decreased chain length of the cis isomer with respect to the trans isomer. These differences are exploited to extract work in optomechanical cycles. The \u2026",
+                "A quantum chemical semiempirical investigation of electron-vibrational dynamics of photoexcited conjugated polyfluorenes shows that delocalized electronic excitations dominate the absorption, whereas chemical defects (if present) dramatically impact the emission by trapping the photogenerated exciton into a localized state and acting as guest emitters at recombination. These results offer theoretical insight into the effect of non-quenching defect sites in conjugated polymers and explain the origin of a controversial low energy emission band frequently observed in bulk polyfluorene samples.",
+                "The molecular Schr\u00f6dinger equation is rewritten in terms of nonunitary equations of motion for the nuclei (or electrons) that depend parametrically on the configuration of an ensemble of generally defined electronic (or nuclear) trajectories. This scheme is exact and does not rely on the tracing out of degrees of freedom. Hence, the use of trajectory-based statistical techniques can be exploited to circumvent the calculation of the computationally demanding Born-Oppenheimer potential-energy surfaces and nonadiabatic coupling elements. The concept of the potential-energy surface is restored by establishing a formal connection with the exact factorization of the full wave function. This connection is used to gain insight from a simplified form of the exact propagation scheme.",
+                "We present a model molecular system with an unintuitive transport\u2013extension behavior in which the tunneling current increases with forced molecular elongation. The molecule consists of two complementary aromatic units (1,4-anthracenedione and 1,4-anthracenediol) hinged via two ether chains and attached to gold electrodes through thiol-terminated alkenes. The transport properties of the molecule as it is mechanically elongated in a single-molecule pulling setting are computationally investigated using a combination of equilibrium molecular dynamics simulations of the pulling with gDFTB computations of the transport properties in the Landauer limit. Contrary to the usual exponential decay of tunneling currents with increasing molecular length, the simulations indicate that upon elongation electronic transport along the molecule increases 10-fold. The structural origin of this inverted trend in the transport is \u2026"
+            ],
+            [
+                [
+                    "Control",
+                    "Laser-induced dynamics",
+                    "Quantum decoherence",
+                    "Molecular electronics",
+                    "Force spectroscopy"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "7NI26YYC",
+            "nI2nOsMAAAAJ",
+            [
+                "Electron-collision cross sections for iodine",
+                "BosonSampling is robust against small errors in the network matrix",
+                "Low-energy electron scattering by tetrahydrofuran",
+                " study of two-center interference effects in the ionization of ",
+                "Fully differential cross-section measurements for electron-impact ionization of neon and xenon",
+                "Absolute Electron Scattering Cross Sections for the CF 2 Radical",
+                "Excitation of the six lowest electronic transitions in water by 9\u201320 eV electrons",
+                "An apparatus for measuring absolute electron scattering cross sections for molecular radicals",
+                "A new normalization method for electron collision cross sections measured using skimmed supersonic jet beams",
+                "Loss of wave-packet coherence in stationary scattering experiments"
+            ],
+            [
+                "We present results from a joint experimental and theoretical study of elastic electron scattering from atomic iodine. The experimental results were obtained by subtracting known cross sections from the measured data obtained with a pyrolyzed mixed beam containing a variety of atomic and molecular species. The calculations were performed using both a fully relativistic Dirac B-spline R-matrix (close-coupling) method and an optical model potential approach. Given the difficulty of the problem, the agreement between the two sets of theoretical predictions and the experimental data for the angle-differential and the angle-integrated elastic cross sections at 40 eV and 50 eV is satisfactory.",
+                "We demonstrate the robustness of BosonSampling against imperfections in the linear optical network that cause a small deviation in the matrix it implements. We show that applying a noisy matrix U \u0303 that is within \u03b5 of the desired matrix U in operator norm leads to an output distribution that is within \u03b5 n of the desired distribution in variation distance, where n is the number of photons. This lets us derive a sufficient tolerance for beam splitters and phase shifters in the network. This result only concerns errors that result from the network encoding a different unitary than desired and not from other sources of noise such as photon loss and partial distinguishability.",
+                "Cross sections for elastic scattering of low-energy electrons by tetrahydrofuran, a prototype for the furanose ring found in the backbone of DNA, have been measured and calculated over a wide energy range, with an emphasis on energies below 6 eV, where previous data are scarce. The measurements employ a thin-aperture version of the relative-flow method, while the calculations employ the Schwinger multichannel method with an extensive treatment of polarization effects. Comparisons with earlier results, both experimental and theoretical, are presented and discussed. A proper accounting for the strong permanent electric dipole of tetrahydrofuran is found to be essential to obtaining reliable cross sections, especially at energies below 5 eV.",
+                "A number of previous studies have suggested the possibility of two-center interference effects in the single ionization of diatomic molecules such as H 2 and N 2. While interference effects have been successfully observed in the ionization of H 2, to date evidence for interference in N 2 ionization has yet to be conclusively demonstrated. This study presents triply differential cross sections for electron impact ionization of N 2, measured using the (e, 2 e) technique. The data are probed for signatures of two-center interference effects. Evidence for interference manifesting in the cross sections is observed.",
+                "We present a combined experimental and theoretical investigation of the fully differential cross section for electron-impact ionization of neon and xenon. The experiments were performed under coplanar asymmetric kinematics, at intermediate incident electron energies, and for a range of scattered electron detection angles. The experimental results are compared with three calculations: a convergent close-coupling calculation, a distorted-wave Born approximation (DWBA) calculation with inclusion of the Gamow factor, and a hybrid DWBA+ R-matrix calculation. The comparison between the experimental and theoretical results highlights the importance of the description of postcollision interaction, and the results exhibit interesting orbital-dependent differences.",
+                "Using a crossed electron-molecular beam experiment, featuring a skimmed nozzle beam with pyrolytic radical production, absolute elastic cross sections for electron scattering from the CF 2 molecule have been measured. A new technique for placing measured cross sections on an absolute scale is used for molecular beams produced as skimmed supersonic jets. Absolute differential cross sections for CF 2 are reported for incident electron energies of 30\u201350 eV and over an angular range of 20\u2013135 deg. Integral cross sections are subsequently derived from those data. The present data are compared to new theoretical predictions for the differential and integral scattering cross sections, as calculated with the Schwinger multichannel variational method using the static-exchange and static-exchange plus polarization approximations.",
+                "We report differential and integral cross sections for excitation of the 3 B 1, 1 B 1, 3 A 2, 1 A 2, 3 A 1 and 1 A 1 states of H 2 O by 9\u201320 eV electrons. The measurements are taken by conventional differential electron energy loss spectroscopy techniques, while the calculations employ the Schwinger multichannel method within a ten-channel approximation. The new data are compared with previous experimental and theoretical results. The present measurements and calculations agree reasonably well both with each other and with prior theoretical efforts but show discrepancies with prior measurements. Reasons for those discrepancies are considered and discussed.",
+                "Electron collision cross sections for highly reactive CF x (x= 1\u20133) radicals are required to model technological plasmas. In spite of their importance to industry, experimental studies of electron interactions with CF x radicals are rarely reported in the literature. A new apparatus for measuring absolute elastic differential cross sections for molecular radicals is reported and a sample absolute cross section for the CF 2 radical is presented to demonstrate the application of this experiment.",
+                "Crossed electron-molecular beam experiments featuring skimmed nozzle beams may be used to study electron interactions with species such as radicals, excited molecules and biomolecules. A new technique for placing measured cross sections on an absolute scale is reported, as the traditional relative flow method used for effusive molecular beams does not apply to skimmed supersonic jet beams. Absolute cross sections for Ar and CF 4, using this new procedure, are measured and compared to previous effusive beam results as a proof of concept.",
+                "We consider the cross section for a scattering reaction averaged over a statistical ensemble of incident beam wave packets. We generalize a result known from neutron diffraction that static experiments involving stationary scattering via conservative interactions and steady beam currents cannot distinguish the wave-packet nature of the incident beam. Thus we interpret the results of recent experiments on the loss of interference effects in proton scattering from molecular hydrogen as due to the weak collimation of the incident beam rather than alterations to beam wave packets."
+            ],
+            [
+                [
+                    "Atomic and Molecular Physics"
+                ]
+            ]
+        ]
+    ]
+}

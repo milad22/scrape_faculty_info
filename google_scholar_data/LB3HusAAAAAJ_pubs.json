@@ -1,0 +1,112 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4
+    ],
+    "data":[
+        [
+            "Optical cavity QED provides a platform with which to explore quantum many-body physics in driven-dissipative systems. Single-mode cavities provide strong, infinite-range photon-mediated interactions among intracavity atoms. However, these global all-to-all couplings are limiting from the perspective of exploring quantum many-body physics beyond the mean-field approximation. The present work demonstrates that local couplings can be created using multimode cavity QED. This is established through measurements of the threshold of a superradiant, self-organization phase transition versus atomic position. Specifically, we experimentally show that the interference of near-degenerate cavity modes leads to both a strong and tunable-range interaction between Bose-Einstein condensates (BECs) trapped within the cavity. We exploit the symmetry of a confocal cavity to measure the interaction between real BECs \u2026",
+            "Tunable-range, photon-mediated atomic interactions in multimode cavity QED",
+            "Varun D Vaidya and Yudan Guo and Ronen M Kroeze and Kyle E Ballantine and Alicia J Koll\u00e1r and Jonathan Keeling and Benjamin L Lev",
+            "2018",
+            "LB3HusAAAAAJ:MXK_kJrjxJIC",
+            107,
+            "https:\/\/journals.aps.org\/prx\/abstract\/10.1103\/PhysRevX.8.011002",
+            "16809079463880099315",
+            "\/scholar?cites=16809079463880099315",
+            {
+                "2017":1,
+                "2018":25,
+                "2019":42,
+                "2020":34,
+                "2021":3
+            }
+        ],
+        [
+            "Phase transitions, where observable properties of a many-body system change discontinuously, can occur in both open and closed systems. By placing cold atoms in optical cavities and inducing strong coupling between light and excitations of the atoms, one can experimentally study phase transitions of open quantum systems. Here we observe and study a non-equilibrium phase transition, the condensation of supermode-density-wave polaritons. These polaritons are formed from a superposition of cavity photon eigenmodes (a supermode), coupled to atomic density waves of a quantum gas. As the cavity supports multiple photon spatial modes and because the light\u2013matter coupling can be comparable to the energy splitting of these modes, the composition of the supermode polariton is changed by the light\u2013matter coupling on condensation. By demonstrating the ability to observe and understand density-wave \u2026",
+            "Supermode-density-wave-polariton condensation with a Bose\u2013Einstein condensate in a multimode cavity",
+            "Alicia J Koll\u00e1r and Alexander T Papageorge and Varun D Vaidya and Yudan Guo and Jonathan Keeling and Benjamin L Lev",
+            "2017",
+            "LB3HusAAAAAJ:3fE2CSJIrl8C",
+            73,
+            "https:\/\/www.nature.com\/articles\/ncomms14386",
+            "17076665246262725270",
+            "\/scholar?cites=17076665246262725270",
+            {
+                "2016":1,
+                "2017":11,
+                "2018":18,
+                "2019":25,
+                "2020":17,
+                "2021":1
+            }
+        ],
+        [
+            "After two decades of development, cavity quantum electrodynamics with superconducting circuits has emerged as a rich platform for quantum computation and simulation. Lattices of coplanar waveguide resonators constitute artificial materials for microwave photons, in which interactions between photons can be incorporateded either through the use of nonlinear resonator materials or through coupling between qubits and resonators. Here we make use of the previously overlooked property that these lattice sites are deformable and permit tight-binding lattices that are unattainable even in solid-state systems. We show that networks of coplanar waveguide resonators can create a class of materials that constitute lattices in an effective hyperbolic space with constant negative curvature. We present numerical simulations of hyperbolic analogues of the kagome lattice that show unusual densities of states in which a \u2026",
+            "Hyperbolic lattices in circuit quantum electrodynamics",
+            "Alicia J Koll\u00e1r and Mattias Fitzpatrick and Andrew A Houck",
+            "2019",
+            "LB3HusAAAAAJ:Y0pCki6q_DkC",
+            70,
+            "https:\/\/www.nature.com\/articles\/s41586-019-1348-3",
+            "4343408480609477631",
+            "\/scholar?cites=4343408480609477631",
+            {
+                "2018":6,
+                "2019":12,
+                "2020":47,
+                "2021":2
+            }
+        ],
+        [
+            "We present a novel cavity QED system in which a Bose\u2013Einstein condensate (BEC) is trapped within a high-finesse optical cavity whose length may be adjusted to access both single-mode and multimode configurations. We demonstrate the coupling of an atomic ensemble to the cavity in both configurations and measure that the single-atom, -mode cooperativity exceeds unity. The atoms are confined either within an intracavity far-off-resonance optical dipole trap or a crossed optical dipole trap via transversely oriented lasers. Multimode cavity QED provides fully emergent and dynamical optical lattices for intracavity BECs, in that the process of atomic self-organization may be described as a continuous symmetry breaking phase transition resulting in the emergence of a compliant lattice with phonon-like excitations. Such systems will enable explorations of quantum soft matter, including superfluid smectics \u2026",
+            "An adjustable-length cavity and Bose\u2013Einstein condensate apparatus for multimode cavity QED",
+            "Alicia J Koll\u00e1r and Alexander T Papageorge and Kristian Baumann and Michael A Armen and Benjamin L Lev",
+            "2015",
+            "LB3HusAAAAAJ:Se3iqnhoufwC",
+            49,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/1367-2630\/17\/4\/043012\/meta",
+            "11613249422017720041",
+            "\/scholar?cites=11613249422017720041",
+            {
+                "2014":1,
+                "2015":7,
+                "2016":14,
+                "2017":10,
+                "2018":6,
+                "2019":7,
+                "2020":4
+            }
+        ],
+        [
+            "Photonic synthetic materials provide an opportunity to explore the role of microscopic quantum phenomena in determining macroscopic material properties. There are, however, fundamental obstacles to overcome\u2014in vacuum, photons not only lack mass, but also do not naturally interact with one another. Here, we review how the superconducting quantum circuit platform has been harnessed in the last decade to make some of the first materials from light. We describe the structures that are used to imbue individual microwave photons with matter-like properties such as mass, the nonlinear elements that mediate interactions between these photons, and quantum dynamic\/thermodynamic approaches that can be used to assemble and stabilize strongly correlated states of many photons. We then describe state-of-the-art techniques to generate synthetic magnetic fields, engineer topological and non-topological flat \u2026",
+            "Photonic materials in circuit quantum electrodynamics",
+            "Iacopo Carusotto and Andrew A Houck and Alicia J Koll\u00e1r and Pedram Roushan and David I Schuster and Jonathan Simon",
+            "2020",
+            "LB3HusAAAAAJ:u5HHmVD_uO8C",
+            40,
+            "https:\/\/www.nature.com\/articles\/s41567-020-0815-y",
+            "1083380759552730876",
+            "\/scholar?cites=1083380759552730876",
+            {
+                "2020":36,
+                "2021":4
+            }
+        ]
+    ]
+}

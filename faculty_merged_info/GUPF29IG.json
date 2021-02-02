@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "GUPF29IG",
+            "7HkylvgAAAAJ",
+            [
+                "Phase and polarization control as a route to plasmonic nanodevices",
+                "Strong Coupling between Molecular Excited States and Surface Plasmon Modes of a Slit Array in a Thin Metal Film",
+                "Numerical analysis of a slit-groove diffraction problem",
+                "Numerical studies of the interaction of an atomic sample with the electromagnetic field in two dimensions",
+                "Laser field alignment of organic molecules on semiconductor surfaces: Toward ultrafast molecular switches",
+                "Optics of exciton-plasmon nanomaterials",
+                "Transport and optical response of molecular junctions driven by surface plasmon polaritons",
+                "Coherent control of light propagation via nanoparticle arrays",
+                "Light-induced current in molecular junctions: Local field and non-Markov effects",
+                "Ultrafast energy transfer between molecular assemblies and surface plasmons in the strong coupling regime"
+            ],
+            [
+                "We extend the concepts of phase, polarization, and feedback control of matter to develop a general approach for guiding light in the nanoscale via nanoparticle arrays. The phase and polarization of the excitation source are first introduced as tools for control over the pathway of light at array intersections. Genetic algorithms are next applied as a systematic design tool, wherein both the excitation field parameters and the structural parameters of the nanoparticle array are optimized to make devices with desired functionality. Implications to research fields such as single molecule spectroscopy, spatially confined chemistry, optical logic, and nanoscale sensing are envisioned. ",
+                "We demonstrate strong coupling between molecular excited states and surface plasmon modes of a slit array in a thin metal film. The coupling manifests itself as an anticrossing behavior of the two newly formed polaritons. As the coupling strength grows, a new mode emerges, which is attributed to long-range molecular interactions mediated by the plasmonic field. The new, molecular-like mode repels the polariton states, and leads to an opening of energy gaps both below and above the asymptotic free molecule energy.",
+                "We present a comparison among several fully-vectorial methods applied to a basic scattering problem governed by the physics of the electromagnetic interaction between subwavelength apertures in a metal film. The modelled structure represents a slit-groove scattering problem in a silver film deposited on a glass substrate. The benchmarked methods, all of which use in-house developed software, include a broad range of fully-vectorial approaches from finite-element methods, volume-integral methods, and finite-difference time domain methods, to various types of modal methods based on different expansion techniques.",
+                "We consider the interaction of electromagnetic radiation of arbitrary polarization with multilevel atoms in a self-consistent manner, taking into account both spatial and temporal dependencies of local fields. This is done by numerically solving the corresponding system of coupled Maxwell-Liouville equations for various geometries. In particular, we scrutinize linear optical properties of nanoscale atomic clusters, demonstrating the significant role played by collective effects and dephasing. It is shown that subwavelength atomic clusters exhibit two resonant modes, one of which is localized slightly below the atomic transition frequency of an individual atom, while the other is positioned considerably above it. As an initial exploration of future applications of this approach, the optical response of core-shell nanostructures, with a core consisting of silver and a shell composed of resonant atoms, is examined.",
+                "An ultrafast, nanoscale molecular switch is proposed, based on extension of the concept of nonadiabatic alignment to surface-adsorbed molecules. The switch consists of a conjugated organic molecule adsorbed onto a semiconducting surface and placed near a scanning tunneling microscope tip. A low-frequency, polarized laser field is used to switch the system by orienting the molecule with the field polarization axis, enabling conductance through the junction. Enhancement and spatial localization of the incident field by the metallic tip allow operation at low intensities. The principles of nonadiabatic alignment lead to switch on and off time scales far below rotational time scales.",
+                "This review provides a brief introduction to the physics of coupled exciton-plasmon systems, the theoretical description and experimental manifestation of such phenomena, followed by an account of the state-of-the-art methodology for the numerical simulations of such phenomena and supplemented by a number of FORTRAN codes, by which the interested reader can introduce himself\/herself to the practice of such simulations. Applications to CW light scattering as well as transient response and relaxation are described. Particular attention is given to so-called strong coupling limit, where the hybrid exciton-plasmon nature of the system response is strongly expressed. While traditional descriptions of such phenomena usually rely on analysis of the electromagnetic response of inhomogeneous dielectric environments that individually support plasmon and exciton excitations, here we explore also the consequences \u2026",
+                "We consider a biased molecular junction subjected to external time-dependent electromagnetic field. The field for two typical junction geometries (bowtie antennas and metal nanospheres) is calculated within finite-difference time-domain technique. Time-dependent transport and optical response of the junctions is calculated within nonequilibrium Green\u2019s-function approach expressed in a form convenient for description of multilevel systems. We present numerical results for a two-level (highest occupied molecular orbital-lowest unoccupied molecular orbital) model and discuss influence of localized surface plasmon-polariton modes on transport.",
+                "We illustrate the possibility of manipulating light in the nanoscale using the combination of plasmonics physics with concepts and tools developed for coherent control of molecular dynamics. Phase and polarization control are applied to guide electromagnetic energy through metal nanoparticle junctions and control its branching ratios at array intersections. Optimal control theory is applied as a design tool, to develop constructs with desired functionality. We suggest also that nanoplasmonics could be used to make spatially localized light sources with predesigned coherence and polarization properties, which could serve to coherently control individual nano-systems.",
+                "We consider a two-level system coupled to contacts as a model for a charge pump under external laser pulse. The model represents a charge-transfer molecule in a junction and is a generalization of previously published results [BD Fainberg, M. Jouravlev, and A. Nitzan, Phys. Rev. B 76, 245329 (2007)]. Effects of local field for realistic junction geometries and non-Markov response of the molecule are taken into account within finite-difference time-domain and on-the-contour equation-of-motion formulations, respectively. We find that contrary to the symmetric behavior of the pump relative to the chirp sign, the duration of the corresponding local-field pulse does depend on the chirp sign, which results in an asymmetric charge pumping. The most effective charge-pump regime is found at positive bias, contrary to Markov consideration of the previous study.",
+                "The nonlinear optical dynamics of nanomaterials comprised of plasmons interacting with quantum emitters is investigated by a self-consistent model based on the coupled Maxwell\u2013Liouville\u2013von Neumann equations. It is shown that ultrashort resonant laser pulses significantly modify the optical properties of such hybrid systems. It is further demonstrated that the energy transfer between interacting molecules and plasmons occurs on a femtosecond time scale and can be controlled with both material and laser parameters."
+            ],
+            [
+                [
+                    "optics",
+                    "nanophotonics",
+                    "quantum optics",
+                    "plasmonics",
+                    "FDTD"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "yiRa__wAAAAJ",
+            "Ethan D. Minot",
+            "Associate Professor of Physics, Oregon State University",
+            "@science.oregonstate.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=yiRa__wAAAAJ",
+            3102,
+            [
+                "carbon nanotubes",
+                "graphene",
+                "device physics",
+                "nanoelectronics",
+                "optoelectronics"
+            ],
+            1009,
+            21,
+            16,
+            30,
+            26,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ma8Y_ZcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Paul McEuen",
+                    "affiliation":"Professor of Physics, Cornell University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"nBy1dtUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yun-Shik Lee",
+                    "affiliation":"Professor of Physics, Oregon State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"n5czoVwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tal Sharf",
+                    "affiliation":"University of California Santa Barbara"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Oqrb358AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ji-Yong Park",
+                    "affiliation":"Department of Physics and Department of Energy Systems Research, Ajou University, Korea"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"PkEB9j4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Cees Dekker",
+                    "affiliation":"Kavli Institute of Nanoscience, Delft University of Technology, The Netherlands"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"GNLZUggAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Val Zwiller",
+                    "affiliation":"KTH"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"JSQ_EHAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kerstin G. Blank",
+                    "affiliation":"Max Planck Institute of Colloids and Interfaces"
+                }
+            ]
+        ]
+    ]
+}

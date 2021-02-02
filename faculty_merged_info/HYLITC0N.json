@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "HYLITC0N",
+            "2GgTeNkAAAAJ",
+            [
+                "Stereotactic body radiation therapy: the report of AAPM Task Group 101",
+                "Patient dose from kilovoltage cone beam computed tomography imaging in radiation therapy",
+                "Cone-beam computed tomography for on-line image guidance of lung stereotactic radiotherapy: localization, verification, and intrafraction tumor position",
+                "Functional CT imaging of angiogenesis in rabbit VX2 soft-tissue tumour",
+                "CT imaging of angiogenesis",
+                "A new metric for assessing IMRT modulation complexity and plan deliverability",
+                "The Canadian Association of Radiation Oncology scope of practice guidelines for lung, liver and spine stereotactic body radiotherapy",
+                "Stereotactic body radiotherapy for medically inoperable lung cancer: prospective, single-center study of 108 consecutive patients",
+                "Cone-beam computed tomographic image guidance for lung cancer radiation therapy",
+                "The stability of mechanical calibration for a kV cone beam computed tomography system integrated with linear accelerator a"
+            ],
+            [
+                "Task Group 101 of the AAPM has prepared this report for medical physicists, clinicians, and therapists in order to outline the best practice guidelines for the external\u2010beam radiation therapy technique referred to as stereotactic body radiation therapy (SBRT). The task group report includes a review of the literature to identify reported clinical findings and expected outcomes for this treatment modality. Information is provided for establishing a SBRT program, including protocols, equipment, resources, and QA procedures. Additionally, suggestions for developing consistent documentation for prescribing, reporting, and recording SBRT treatment delivery is provided.",
+                "Kilovoltage cone\u2010beam computerized tomography (kV\u2010CBCT) systems integrated into the gantry of linear accelerators can be used to acquire high\u2010resolution volumetric images of the patient in the treatment position. Using on\u2010line software and hardware, patient position can be determined accurately with a high degree of precision and, subsequently, set\u2010up parameters can be adjusted to deliver the intended treatment. While the patient dose due to a single volumetric imaging acquisition is small compared to the therapy dose, repeated and daily image guidance procedures can lead to substantial dose to normal tissue. The dosimetric properties of a clinical CBCT system have been studied on an Elekta linear accelerator ( RP, XVI system) and additional measurements performed on a laboratory system with identical geometry. Dose measurements were performed with an ion chamber and MOSFET detectors at the \u2026",
+                "Purpose: Cone-beam computed tomography (CBCT) in-room imaging allows accurate inter- and intrafraction target localization in stereotactic body radiotherapy of lung tumors.Methods and Materials: Image-guided stereotactic body radiotherapy was performed in 28 patients (89 fractions) with medically inoperable Stage T1-T2 non\u2013small-cell lung carcinoma. The targets from the CBCT and planning data set (helical or four-dimensional CT) were matched on-line to determine the couch shift required for target localization. Matching based on the bony anatomy was also performed retrospectively. Verification of target localization was done using either megavoltage portal imaging or CBCT imaging; repeat CBCT imaging was used to assess the intrafraction tumor position.Results: The mean three-dimensional tumor motion for patients with upper lesions (n = 21) and mid-lobe or lower lobe lesions (n = 7) was 4.2 and 6 \u2026",
+                "Functional parameters such as blood flow (BF), microvessel permeability surface area product (PS), blood volume (BV) and mean transit time (MTT) are physiological markers related to the changes associated with angiogenesis. In the current study we present a functional CT technique for the simultaneous measurement of these four functional parameters and the display of each parameter as a functional image over an entire tissue slice. New Zealand White rabbits with implanted VX2 thigh tumours were scanned using CT with contrast media injection. The ex vivo method of radioactive microspheres was used to evaluate the accuracy of BF measurements with the functional CT technique. There was a significant linear correlation (R= 0.96) between regional CT and microsphere-measured BF values, with a slope not significantly different from unity (0.98\u00b10.02, P< 0.0001). The precision of our CT technique was \u2026",
+                "Tumor angiogenesis has significant implications in the diagnosis and treatment of various solid tumors. With the advent of fast, multi-slice CT scanners, CT imaging techniques capable of qualitative and quantitative analysis of tumor angiogenesis have been the subject of extensive investigation in the past 2 decades. The fundamental bases for CT imaging of angiogenesis are both the transport by blood flow of intravenously administered iodinated contrast material to tissue and the exchange by diffusion of these contrast molecules between the intravascular space and the extravascular interstitial space. With current fast CT scanners both tissue and vascular enhancement can be measured and traced over time at small time intervals to allow detailed modeling of the distribution of contrast agent in tissue. Both compartmental and distributed parameter models for contrast transport and exchange have been developed \u2026",
+                "",
+                "The Canadian Association of Radiation Oncology-Stereotactic Body Radiotherapy (CARO-SBRT) Task Force was established in 2010. The aim was to define the scope of practice guidelines for the profession to ensure safe practice specific for the most common sites of lung, liver and spine SBRT.A group of Canadian SBRT experts were charged by our national radiation oncology organisation (CARO) to define the basic principles and technologies for SBRT practice, to propose the minimum technological requirements for safe practice with a focus on simulation and image guidance and to outline procedural considerations for radiation oncology departments to consider when establishing an SBRT programme.We recognised that SBRT should be considered as a specific programme within a radiation department, and we provide a definition of SBRT according to a Canadian \u2026",
+                "To present the results of stereotactic body radiotherapy (SBRT) for medically inoperable patients with Stage I non\u2013small-cell lung cancer (NSCLC) and contrast outcomes in patients with and without a pathologic diagnosis.Between December 2004 and October 2008, 108 patients (114 tumors) underwent treatment according to the prospective research ethics board-approved SBRT protocols at our cancer center. Of the 108 patients, 88 (81.5%) had undergone pretreatment whole-body [18F]-fluorodeoxyglucose positron emission tomography\/computed tomography. A pathologic diagnosis was unavailable for 33 (28.9%) of the 114 lesions. The SBRT schedules included 48 Gy in 4 fractions or 54\u201360 Gy in 3 fractions for peripheral lesions and 50\u201360 Gy in 8\u201310 fractions for central lesions. Toxicity and radiologic response were assessed at the 3\u20136-month follow-up visits using \u2026",
+                "To determine the geometric accuracy of lung cancer radiotherapy using daily volumetric, cone-beam CT (CBCT) image guidance and online couch position adjustment.Initial setup accuracy using localization CBCT was analyzed in three lung cancer patient cohorts. The first (n = 19) involved patients with early-stage non\u2013small-cell lung cancer (NSCLC) treated using stereotactic body radiotherapy (SBRT). The second (n = 48) and third groups (n = 20) involved patients with locally advanced NSCLC adjusted with manual and remote-controlled couch adjustment, respectively. For each group, the couch position was adjusted when positional discrepancies exceeded \u00b13 mm in any direction, with the remote-controlled couch correcting all three directions simultaneously. Adjustment accuracy was verified with a second CBCT. Population-based setup margins were derived from systematic \u2026",
+                "The geometric accuracy and precision of an image\u2010guided treatment system were assessed. Image guidance is performed using an x\u2010ray volume imaging (XVI) system integrated with a linear accelerator and treatment planning system. Using an amorphous silicon detector and x\u2010ray tube, volumetric computed tomography images are reconstructed from kilovoltage radiographs by filtered backprojection. Image fusion and assessment of geometric targeting are supported by the treatment planning system. To assess the limiting accuracy and precision of image\u2010guided treatment delivery, a rigid spherical target embedded in an opaque phantom was subjected to 21 treatment sessions over a three\u2010month period. For each session, a volumetric data set was acquired and loaded directly into an active treatment planning session. Image fusion was used to ascertain the couch correction required to position the target at the \u2026"
+            ],
+            [
+                [
+                    "Medical physics",
+                    "Machine learning",
+                    "radiation oncology",
+                    "quality assurance"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,251 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Quorum sensing is a chemical communication process that bacteria use to regulate collective behaviors. Disabling quorum-sensing circuits with small molecules has been proposed as a potential strategy to prevent bacterial pathogenicity. The human pathogen Pseudomonas aeruginosa uses quorum sensing to control virulence and biofilm formation. Here, we analyze synthetic molecules for inhibition of the two P. aeruginosa quorum-sensing receptors, LasR and RhlR. Our most effective compound, meta-bromo-thiolactone (mBTL), inhibits both the production of the virulence factor pyocyanin and biofilm formation. mBTL also protects Caenorhabditis elegans and human lung epithelial cells from killing by P. aeruginosa. Both LasR and RhlR are partially inhibited by mBTL in vivo and in vitro; however, RhlR, not LasR, is the relevant in vivo target. More potent antagonists do not exhibit superior function in impeding \u2026",
+            "A quorum-sensing inhibitor blocks Pseudomonas aeruginosa virulence and biofilm formation",
+            "Colleen T O\u2019Loughlin and Laura C Miller and Albert Siryaporn and Knut Drescher and Martin F Semmelhack and Bonnie L Bassler",
+            "2013",
+            "aFONRs0AAAAJ:d1gkVwhDpl0C",
+            505,
+            "https:\/\/www.pnas.org\/content\/110\/44\/17981.short",
+            "11765967861316123107",
+            "\/scholar?cites=11765967861316123107",
+            {
+                "2013":4,
+                "2014":47,
+                "2015":57,
+                "2016":77,
+                "2017":71,
+                "2018":83,
+                "2019":80,
+                "2020":77,
+                "2021":8
+            }
+        ],
+        [
+            "Two-component signal transduction systems are the predominant means by which bacteria sense and respond to environmental stimuli. Bacteria often employ tens or hundreds of these paralogous signaling systems, comprised of histidine kinases (HKs) and their cognate response regulators (RRs). Faithful transmission of information through these signaling pathways and avoidance of detrimental crosstalk demand exquisite specificity of HK-RR interactions. To identify the determinants of two-component signaling specificity, we examined patterns of amino acid coevolution in large, multiple sequence alignments of cognate kinase-regulator pairs. Guided by these results, we demonstrate that a subset of the coevolving residues is sufficient, when mutated, to completely switch the substrate specificity of the kinase EnvZ. Our results shed light on the basis of molecular discrimination in two-component signaling \u2026",
+            "Rewiring the specificity of two-component signal transduction systems",
+            "Jeffrey M Skerker and Barrett S Perchuk and Albert Siryaporn and Emma A Lubin and Orr Ashenberg and Mark Goulian and Michael T Laub",
+            "2008",
+            "aFONRs0AAAAJ:u5HHmVD_uO8C",
+            495,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0092867408006144",
+            "17052749698507612236",
+            "\/scholar?cites=17052749698507612236",
+            {
+                "2008":10,
+                "2009":38,
+                "2010":52,
+                "2011":36,
+                "2012":57,
+                "2013":49,
+                "2014":48,
+                "2015":45,
+                "2016":41,
+                "2017":31,
+                "2018":38,
+                "2019":21,
+                "2020":24
+            }
+        ],
+        [
+            "Quantitative spatial distributions of ribosomes (S2\u2010YFP) and RNA polymerase (RNAP; \u03b2\u2032\u2010yGFP) in live Escherichia coli are measured by superresolution fluorescence microscopy. In moderate growth conditions, nucleoid\u2013ribosome segregation is strong, and RNAP localizes to the nucleoid lobes. The mean copy numbers per cell are 4600 RNAPs and 55\u2003000 ribosomes. Only 10\u201315% of the ribosomes lie within the densest part of the nucleoid lobes, and at most 4% of the RNAPs lie in the two ribosome\u2010rich endcaps. The predominant observed diffusion coefficient of ribosomes is Dribo\u2003=\u20030.04\u2003\u00b5m2\u2003s\u22121, attributed to free mRNA being translated by one or more 70S ribosomes. We find no clear evidence of subdiffusion, as would arise from tethering of ribosomes to the DNA. The degree of DNA\u2013ribosome segregation strongly suggests that in E.\u2003coli most translation occurs on free mRNA transcripts that have \u2026",
+            "Superresolution imaging of ribosomes and RNA polymerase in live Escherichia coli cells",
+            "Somenath Bakshi and Albert Siryaporn and Mark Goulian and James C Weisshaar",
+            "2012",
+            "aFONRs0AAAAJ:u-x6o8ySG0sC",
+            345,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1111\/j.1365-2958.2012.08081.x",
+            "2300386098341039572",
+            "\/scholar?cites=2300386098341039572",
+            {
+                "2012":8,
+                "2013":28,
+                "2014":42,
+                "2015":32,
+                "2016":35,
+                "2017":47,
+                "2018":46,
+                "2019":54,
+                "2020":48,
+                "2021":3
+            }
+        ],
+        [
+            "In the wild, bacteria are predominantly associated with surfaces as opposed to existing as free-swimming, isolated organisms. They are thus subject to surface-specific mechanics, including hydrodynamic forces, adhesive forces, the rheology of their surroundings, and transport rules that define their encounters with nutrients and signaling molecules. Here, we highlight the effects of mechanics on bacterial behaviors on surfaces at multiple length scales, from single bacteria to the development of multicellular bacterial communities such as biofilms.",
+            "The mechanical world of bacteria",
+            "Alexandre Persat and Carey D Nadell and Minyoung Kevin Kim and Francois Ingremeau and Albert Siryaporn and Knut Drescher and Ned S Wingreen and Bonnie L Bassler and Zemer Gitai and Howard A Stone",
+            "2015",
+            "aFONRs0AAAAJ:_FxGoFyzp5QC",
+            326,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0092867415005528",
+            "54733665138390418",
+            "\/scholar?cites=54733665138390418",
+            {
+                "2015":10,
+                "2016":42,
+                "2017":62,
+                "2018":71,
+                "2019":72,
+                "2020":59,
+                "2021":9
+            }
+        ],
+        [
+            "Many bacteria possess large numbers of two\u2010component signalling systems, which are composed of histidine kinase\u2010response regulator pairs. The high level of sequence similarity between some systems raises the possibility of undesired cross\u2010talk between a histidine kinase and a non\u2010cognate response regulator. Although molecular specificity ensures that phospho\u2010transfer occurs primarily between correct partners, even a low level of inappropriate cross\u2010talk could lead to unacceptable levels of noise or interference in signal transduction. To explore mechanisms that provide insulation against such interference, we have examined cross\u2010talk between the histidine kinase CpxA and non\u2010cognate response regulator OmpR in Escherichia coli. Our results show that there are two mechanisms that suppress cross\u2010talk between these two proteins, which depend on the corresponding cognate partners CpxR and EnvZ \u2026",
+            "Cross\u2010talk suppression between the CpxA\u2013CpxR and EnvZ\u2013OmpR two\u2010component systems in E.\u2003coli",
+            "Albert Siryaporn and Mark Goulian",
+            "2008",
+            "aFONRs0AAAAJ:9yKSN-GCB0IC",
+            145,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1111\/j.1365-2958.2008.06426.x",
+            "8498058506313559130",
+            "\/scholar?cites=8498058506313559130",
+            {
+                "2008":1,
+                "2009":6,
+                "2010":15,
+                "2011":9,
+                "2012":13,
+                "2013":12,
+                "2014":13,
+                "2015":11,
+                "2016":18,
+                "2017":10,
+                "2018":6,
+                "2019":13,
+                "2020":17
+            }
+        ],
+        [
+            "Pseudomonas aeruginosa infects every type of host that has been examined by deploying multiple virulence factors. Previous studies of virulence regulation have largely focused on chemical cues, but P. aeruginosa may also respond to mechanical cues. Using a rapid imaging-based virulence assay, we demonstrate that P. aeruginosa activates virulence in response to attachment to a range of chemically distinct surfaces, suggesting that this bacterial species responds to mechanical properties of its substrates. Surface-activated virulence requires quorum sensing, but activating quorum sensing does not induce virulence without surface attachment. The activation of virulence by surfaces also requires the surface-exposed protein PilY1, which has a domain homologous to a eukaryotic mechanosensor. Specific mutation of the putative PilY1 mechanosensory domain is sufficient to induce virulence in non\u2013surface \u2026",
+            "Surface attachment induces Pseudomonas aeruginosa virulence",
+            "Albert Siryaporn and Sherry L Kuchma and George A O\u2019Toole and Zemer Gitai",
+            "2014",
+            "aFONRs0AAAAJ:UeHWp8X0CEIC",
+            137,
+            "https:\/\/www.pnas.org\/content\/111\/47\/16860.short",
+            "17943324220969933680",
+            "\/scholar?cites=17943324220969933680",
+            {
+                "2015":16,
+                "2016":20,
+                "2017":27,
+                "2018":21,
+                "2019":23,
+                "2020":27,
+                "2021":3
+            }
+        ],
+        [
+            "Bacteria inhabit a wide variety of environments in which fluid flow is present, including healthcare and food processing settings and the vasculature of animals and plants. The motility of bacteria on surfaces in the presence of flow has not been well characterized. Here we focus on Pseudomonas aeruginosa, an opportunistic human pathogen that thrives in flow conditions such as in catheters and respiratory tracts. We investigate the effects of flow on P. aeruginosa cells and describe a mechanism in which surface shear stress orients surface-attached P. aeruginosa cells along the flow direction, causing cells to migrate against the flow direction while pivoting in a zig-zag motion. This upstream movement is due to the retraction of type IV pili by the ATPase motors PilT and PilU and results from the effects of flow on the polar localization of type IV pili. This directed upstream motility could be beneficial in environments \u2026",
+            "Flow directs surface-attached bacteria to twitch upstream",
+            "Yi Shen and Albert Siryaporn and Sigolene Lecuyer and Zemer Gitai and Howard A Stone",
+            "2012",
+            "aFONRs0AAAAJ:qjMakFHDy7sC",
+            58,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S000634951200625X",
+            "16232449519327628262",
+            "\/scholar?cites=16232449519327628262",
+            {
+                "2012":1,
+                "2013":3,
+                "2014":2,
+                "2015":9,
+                "2016":3,
+                "2017":10,
+                "2018":11,
+                "2019":14,
+                "2020":5
+            }
+        ],
+        [
+            "We have evolved a robust two\u2010component signal transduction pathway from a sensor kinase (SK) and non\u2010partner response regulator (RR) that show weak cross\u2010talk in vitro and no detectable cross\u2010talk in vivo in wild\u2010type strains. The SK, CpxA, is bifunctional, with both kinase and phosphatase activities for its partner RR. We show that by combining a small number of mutations in CpxA that individually increase phosphorylation of the non\u2010partner RR OmpR, phosphatase activity against phospho\u2010OmpR emerges. The resulting circuit also becomes responsive to input signal to CpxA. The effects of combining these mutations in CpxA appear to reflect complex intragenic interactions between multiple sites in the protein. However, by analyzing a simple model of two\u2010component signaling, we show that the behavior can be explained by a monotonic change in a single parameter controlling protein\u2013protein interaction \u2026",
+            "Evolving a robust signal transduction pathway from weak cross\u2010talk",
+            "Albert Siryaporn and Barrett S Perchuk and Michael T Laub and Mark Goulian",
+            "2010",
+            "aFONRs0AAAAJ:2osOgNQ5qMEC",
+            49,
+            "https:\/\/www.embopress.org\/doi\/abs\/10.1038\/msb.2010.105",
+            "3589852380167243658",
+            "\/scholar?cites=3589852380167243658",
+            {
+                "2011":2,
+                "2012":10,
+                "2013":8,
+                "2014":8,
+                "2015":4,
+                "2016":5,
+                "2017":4,
+                "2018":3,
+                "2019":2,
+                "2020":3
+            }
+        ],
+        [
+            "The development of new approaches for the treatment of antimicrobial-resistant infections is an urgent public health priority. The Pseudomonas aeruginosa pathogen, in particular, is a leading source of infection in hospital settings, with few available treatment options. In the context of an effort to develop antivirulence strategies to combat bacterial infection, we identified a series of highly effective small molecules that inhibit the production of pyocyanin, a redox-active virulence factor produced by P. aeruginosa. Interestingly, these new antagonists appear to suppress P. aeruginosa virulence factor production through a pathway that is independent of LasR and RhlR.",
+            "Development of Potent Inhibitors of Pyocyanin Production in Pseudomonas aeruginosa",
+            "Laura C Miller and Colleen T O\u2019Loughlin and Zinan Zhang and Albert Siryaporn and Justin E Silpe and Bonnie L Bassler and Martin F Semmelhack",
+            "2015",
+            "aFONRs0AAAAJ:ufrVoPGSRksC",
+            42,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/jm5015082",
+            "17494209576623925753",
+            "\/scholar?cites=17494209576623925753",
+            {
+                "2015":4,
+                "2016":13,
+                "2017":8,
+                "2018":7,
+                "2019":4,
+                "2020":5,
+                "2021":1
+            }
+        ],
+        [
+            "Each Pseudomonas aeruginosa cell localizes two types of motility structures, a single flagellum and one or two clusters of type IV pili, to the cell poles. Previous studies suggested that these motility structures arrive at the pole through distinct mechanisms. Here we performed a swimming motility screen to identify polar flagellum localization factors and discovered three genes homologous to the TonB\/ExbB\/ExbD complex that have defects in both flagella\u2010mediated swimming and pilus\u2010mediated twitching motility. We found that deletion of tonB3, PA2983 or PA2982 led to non\u2010polar localization of the flagellum and FlhF, which was thought to sit at the top of the flagellar localization hierarchy. Surprisingly, these mutants also exhibited pronounced changes in pilus formation or localization, indicating that these proteins may co\u2010ordinate both the pilus and flagellum motility systems. Thus, we have renamed PA2983 and \u2026",
+            "The putative Poc complex controls two distinct Pseudomonas aeruginosa polar motility mechanisms",
+            "Kimberly N Cowles and Theresa S Moser and Albert Siryaporn and Natsai Nyakudarika and William Dixon and Jonathan J Turner and Zemer Gitai",
+            "2013",
+            "aFONRs0AAAAJ:zYLM7Y9cAGgC",
+            36,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1111\/mmi.12403",
+            "5141786145264699764",
+            "\/scholar?cites=5141786145264699764",
+            {
+                "2013":1,
+                "2014":4,
+                "2015":3,
+                "2016":8,
+                "2017":7,
+                "2018":4,
+                "2019":6,
+                "2020":3
+            }
+        ]
+    ]
+}

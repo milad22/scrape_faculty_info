@@ -1,0 +1,72 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "Aad, G; Bentvelsen, S; Bobbink, GJ; Bos, K; Boterenbrood, H; Brouwer, G; Buis, EJ; Buskop, JJF;\nColijn, AP; Dankers, R; Daum, C; de Boer, R; de Jong, P; Ennes, P; Gosselink, M; Groenstege,\nH; Hart, RGG; Hartjes, F; Hendriks, PJ; Hessey, NP; Jansweijer, PPM; Kieft, G; Klous, S; Kluit, P;\nKoffeman, E; Koutsman, A; Liebig, W; Limper, M; Linde, F; Luijckx, G; Massaro, G; Muijs, A; Peeters,\nSJM; Reichold, A; Rewiersma, P; Rijpstra, M; Scholte, RC; Schuijlenburg, HW; Snuverink, J; van\nder Graaf, H; van der Kraaij, E; Van Eijk, B; van Kesteren, Z; van Vulpen, I; Verkerke, W; Vermeulen,\nJC; Vreeswijk, M; Werneke, P; Cakir, O; Ciftci, AK; Duran Yildiz, H; Sultanov, S; Turk Cakir, I; Yilmaz,\nM; Aubert, B; Bazan, A; Beaugiraud, B; Bellachia, F; Berger, N; Blaising, JJ; Colas, J; Consonni,\nM; Delebecque, P; Delsart, PA; Di Ciaccio, L; Dayot, N Dumont>; Elles, S; Ghez, Philippe>; Girard,\nCG; Gouanere, M; Goy, C; Guillemin, T; Ionescu, G \u2026 \n",
+            "The ATLAS experiment at the CERN large hadron collider",
+            "Georges Aad and JM Butterworth and J Thion and U Bratzler and PN Ratoff and RB Nickerson and JM Seixas and I Grabowska-Bold and F Meisel and S Lokwitz and A Neganov and D Hindson and B Anderson and P Jovanovic and P Homola and AF Saavedra and LG Kudin and M Perantoni and P Hansson and MD Gibson and K Bos and A Melamed-Katz and B Green and Jen-La Plante and F Marzano and RS Orr and G Dedes and W Verkerke and S Fichet and R Seuster and H Secker and J Terron and K Jakobs and R Walker and RW Gardner and M Chalifour and JL Steffens and KM Black and S Tarem and K Kleinknecht and M Gosselink and Y Kataoka and H Lim and AA Abdelalim and Y Pylypchenko and M Olcese and A Ouraou and V Kukhtin and JN Jackson and M Corradi and D Rebuzzi and EB Klinkby and S Nemecek and N Wermes and SP Konovalov and H Nilsen and M Maassen and S Tapprogge and U Werthenbach and P Delebecque and S Bethke and C McCormick and S Basiladze and EG Tskhadadze and R Wall and L Feld and M Kataoka and C Bohm and F Ragusa and JG Drohan and B Di Girolamo and A Di Girolamo and JJ Rabbers and T Lenz and C Boaretto and P Zarzhitsky and M Ackers and D Asner and JA Valls Ferrer and GS Huang and KM Danielsen and R Strohmer and S Dean and Y Zhou and DS Smith and VJO Perera and H Ahmed and P Fassnacht and P Nechaeva and R Middleton and P Grafstrom and J Santander and J Cranshaw and O Salto Bauza and E Richter-Was and M Imhauser and SS Junnarkar and O Blanch and S Prasad and E Bergeaas and M Dris and B Szeless and P Imbert and S Zhou and A Gorisek and AA Komar and P Speckmayer and SB Vorozhtsov and M Iodice and J Rey and RJ Staley and GW Brandenburg and S Asai and KJ Grahn and G Schlager and A Paoloni and JL Schlereth and J Bohm and C Collins-Tooth and A Misiejuk and M Bosman and A Gongadze and P Cavalleri and B Asman and A Cerri and AJ Fowler and S Moed and AK Ciftci and B Zilka and A Gibson and NR Nation and JE Pilcher and M Nowak and R Mackeprang and F Tegenfeldt and T Buanes and S Saboumazrag and J Ferland and J Martins and Z Sun and A Gordeev and G De Zorzi and B Zhou and M Lehto and P Stavina and B Esposito and P Coe and T Takeshita and M Morii and A Chilingarov",
+            "2008",
+            "Kpc0H3sAAAAJ:u5HHmVD_uO8C",
+            23629,
+            "https:\/\/cds.cern.ch\/record\/1129811",
+            "4583933401305623738",
+            "\/scholar?cites=4583933401305623738",
+            {
+                "2008":169,
+                "2009":360,
+                "2010":543,
+                "2011":882,
+                "2012":1679,
+                "2013":2806,
+                "2014":2692,
+                "2015":2873,
+                "2016":2819,
+                "2017":2571,
+                "2018":2420,
+                "2019":2032,
+                "2020":1613,
+                "2021":82
+            }
+        ],
+        [
+            "The simulation software for the ATLAS Experiment at the Large Hadron Collider is being used for large-scale production of events on the LHC Computing Grid. This simulation requires many components, from the generators that simulate particle collisions, through packages simulating the response of the various detectors and triggers. All of these components come together under the ATLAS simulation infrastructure. In this paper, that infrastructure is discussed, including that supporting the detector description, interfacing the event generation, and combining the GEANT4 simulation of the response of the individual detectors. Also described are the tools allowing the software validation, performance testing, and the validation of the simulated output against known physics processes.",
+            "The ATLAS simulation infrastructure",
+            "Georges Aad and B Abbott and J Abdallah and AA Abdelalim and Abdelmalek Abdesselam and B Abi and M Abolins and H Abramowicz and H Abreu and BS Acharya and DL Adams and TN Addy and J Adelman and C Adorisio and P Adragna and T Adye and S Aefsky and JA Aguilar-Saavedra and M Aharrouche and SP Ahlen and F Ahles and A Ahmad and H Ahmed and M Ahsan and G Aielli and T Akdogan and TPA \u00c5kesson and G Akimoto and AV Akimov and A Aktas and MS Alam and MA Alam and S Albrand and M Aleksa and IN Aleksandrov and C Alexa and G Alexander and G Alexandre and T Alexopoulos and M Alhroob and M Aliev and G Alimonti and J Alison and M Aliyev and PP Allport and SE Allwood-Spiers and J Almond and A Aloisio and R Alon and A Alonso and MG Alviggi and K Amako and C Amelung and A Amorim and G Amoros and N Amram and C Anastopoulos and T Andeen and CF Anders and KJ Anderson and A Andreazza and V Andrei and XS Anduaga and A Angerami and F Anghinolfi and N Anjos and A Annovi and A Antonaki and M Antonelli and S Antonelli and J Antos and B Antunovic and F Anulli and S Aoun and G Arabidze and I Aracena and Y Arai and ATH Arce and JP Archambault and S Arfaoui and J-F Arguin and T Argyropoulos and M Arik and AJ Armbruster and O Arnaez and C Arnault and A Artamonov and D Arutinov and M Asai and S Asai and R Asfandiyarov and S Ask and B \u00c5sman and D Asner and L Asquith and K Assamagan and A Astbury and A Astvatsatourov and G Atoian and B Auerbach and K Augsten and M Aurousseau and N Austin and G Avolio and R Avramidou and D Axen and C Ay and G Azuelos and Y Azuma and MA Baak and AM Bach and H Bachacou and K Bachas and M Backes and E Badescu and P Bagnaia and Y Bai and T Bain and JT Baines and OK Baker and MD Baker and S Baker and F Baltasar Dos Santos Pedrosa and E Banas and P Banerjee and S Banerjee and D Banfi and A Bangert and V Bansal and SP Baranov and S Baranov and A Barashkou and T Barber and EL Barberio and D Barberis and M Barbero and DY Bardin and T Barillari and M Barisonzi and T Barklow and N Barlow and BM Barnett and RM Barnett and A Baroncelli and AJ Barr and F Barreiro and J Barreiro Guimaraes da Costa and P Barrillon and R Bartoldus and D Bartsch",
+            "2010",
+            "Kpc0H3sAAAAJ:u-x6o8ySG0sC",
+            6067,
+            "https:\/\/link.springer.com\/article\/10.1140\/epjc\/s10052-010-1429-9",
+            "10614936945083796742",
+            "\/scholar?cites=10614936945083796742",
+            {
+                "2010":21,
+                "2011":324,
+                "2012":621,
+                "2013":549,
+                "2014":543,
+                "2015":708,
+                "2016":769,
+                "2017":760,
+                "2018":843,
+                "2019":582,
+                "2020":322,
+                "2021":11
+            }
+        ]
+    ]
+}

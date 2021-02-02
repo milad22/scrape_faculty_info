@@ -1,0 +1,48 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "NKGJ1P3W",
+            "Y31Px_YAAAAJ",
+            [
+                "Improved dispersion relations for GaAs and applications to nonlinear optics",
+                "Optical parametric oscillation in quasi-phase-matched GaAs",
+                "Integrated Tunable Fiber Gratings for Dispersion Management in High-Bit Rate Systems",
+                "Multiphoton absorption and nonlinear refraction of GaAs in the mid-infrared",
+                "Second-harmonic generation using-quasi-phasematching in a GaAs whispering-gallery-mode microcavity",
+                "Optical parametric generation of a mid-infrared continuum in orientation-patterned GaAs",
+                "Efficient continuous wave second harmonic generation pumped at 1.55 \u03bcm in quasi-phase-matched AlGaAs waveguides",
+                "Cylinder pressure in a spark-ignition engine: a computational model",
+                "Reducing noise in single-photon-level frequency conversion",
+                "Terahertz sources based on intracavity parametric down-conversion in quasi-phase-matched gallium arsenide"
+            ],
+            [
+                "The refractive index of GaAs has been measured in the wavelength range from 0.97 to 17 \u03bcm, which covers nearly the entire transmission range of the material. Linear and quadratic temperature coefficients of the refractive index have been fitted to data measured between room temperature and 95\u200a\u00b0C. In the midinfrared, the refractive index and temperature dependence are obtained from analysis of etalon fringes measured by Fourier-transform spectroscopy in undoped GaAs wafers. In the near infrared, the refractive index is deduced from the quasiphasematching (QPM) wavelengths of second-harmonic generation in orientation-patterned GaAs crystals. Two alternative empirical expressions are fitted to the data to give the refractive index as a function of wavelength and temperature. These dispersion relations agree with observed QPM conditions for midinfrared difference-frequency generation and second \u2026",
+                "We demonstrate an optical parametric oscillator (OPO) based on GaAs. The OPO utilizes an all-epitaxially-grown orientation-patterned GaAs crystal that is 0.5 mm thick, 5 mm wide, and 11 mm long, with a domain reversal period of 61.2 \u00b5m. Tuning either the near-IR pump wavelength between 1.8 and 2 \u00b5m or the temperature of the GaAs crystal allows the mid-IR output to be tuned between 2.28 and 9.14 \u00b5m, which is limited only by the spectral range of the OPO mirrors. The pump threshold of the singly resonant OPO is 16 \u00b5J for the 6-ns pump pulses, and the photon conversion slope efficiency reaches 54%. We also show experimentally the possibility of pump-polarization-independent frequency conversion in GaAs.",
+                "Dispersion management is becoming paramount in high-speed wavelength-division-multiplexed lightwave systems, that operate at per-channel rates of 40 Gb\/s and higher. The dispersion tolerances, in these systems, are small enough that sources of dispersion variation, that are negligible in slower systems, become critically important to network performance. At these high-bit rates, active dispersion compensation modules may be required to respond dynamically to changes occurring in the network, such as variations in the per-channel power, reconfigurations of the channel's path that are caused by add-drop operations, and environmental changes, such as changes in ambient temperature. We present a comprehensive discussion of an emerging tunable dispersion compensating device, based on thermally actuated fiber gratings. These per-channel devices rely on a distributed on-fiber thin film heater \u2026",
+                "We report the wavelength dependencies of the two- and three-photon absorption coefficients of undoped GaAs in the spectral range 1.3-3.5 \u03bcm, as well as nonlinear refractive index n_2 in the range 1.7-3.25 \u03bcm. The data were obtained by using the single-beam Z-scan method with 100-fs-long optical pulses. Anisotropy of the three-photon absorption coefficient was observed and found to be consistent with the crystal symmetry of GaAs.",
+                "The crystal symmetry in materials such as GaAs can enable quasi-phasematching for efficient optical frequency conversion without poling, twinning or other engineered domain inversions. symmetry means that a 90 rotation is equivalent to a crystallographic inversion. Therefore, when light circulates about the axis, as in GaAs whispering-gallery-mode microdisks, it encounters effective domain inversions that can produce quasi-phasematching. Microdisk resonators also offer resonant field enhancement, resulting in highly efficient frequency conversion in micrometre-scale volumes. These devices can be integrated in photonic circuits as compact frequency convertors, sources of radiation or entangled photons. Here we present the first experimental observation of second-harmonic generation in a whispering-gallery-mode microcavity utilizing-quasi-phasematching. We use a tapered fibre to couple into the 5-\u03bcm \u2026",
+                "We have generated an ultrabroad mid-infrared continuum by using single-pass optical parametric generation (OPG) in orientation-patterned GaAs (OP-GaAs). The spectrum spans more than an octave, from 4.5 to 10.7 \u00b5m, measured 20 dB down from the peak. The 17.5 mm long, 0.5 mm thick, all-epitaxially-grown OP-GaAs sample with a 166.6-\u00b5m quasi-phase-matching period was pumped with 3.1-3.3 \u00b5m wavelength, 1 ps pulses up to 2 \u00b5J in energy. The OPG threshold was observed at 55 nJ pump energy with the pump polarized along the [111] crystal direction. The slope efficiency near threshold was 51%, and the external conversion efficiency was as high as 15%.",
+                "We have fabricated quasi-phase-matched AlGaAs waveguides for continuous-wave second-harmonic generation (SHG) pumped around 1.55 \u00b5m. We find that the losses, which limit the conversion efficiency of this type of waveguide, are resulted from two corrugations--the initial template corrugation and the regrowth-induced domain-boundary corrugations. We are able to reduce the waveguide loss by improving the growth conditions. The waveguide loss is 6-7 dB\/cm at 1.55 \u00b5m, measured using the Fabry-Perot method. A record internal SHG conversion efficiency of 23 %W-1 for AlGaAs waveguides is achieved using a 5-mm-long waveguide with a pump wavelength of 1.568 \u00b5m.",
+                "The project described in this article attempts to accurately predict the gas pressure changes within the cylinder of a spark-ignition engine using thermodynamic principles. The model takes into account the intake, compression, combustion, expansion and exhaust processes that occur in the cylinder. Comparisons with actual pressure data show the model to have a high degree of accuracy. The model is further evaluated on its ability to predict the angle of spark firing and burn duration.",
+                "We demonstrate low-noise and efficient frequency conversion by sum-frequency mixing in a periodically poled LiNbO_3 (PPLN) waveguide. Using a 1556 nm pump, 1302 nm photons are efficiently converted to 709 nm photons. We obtain 70% conversion efficiency in the PPLN waveguide and >50% external conversion efficiency with 600 noise counts per second at peak conversion with continuous-wave pumping. We simultaneously achieve low noise and high conversion efficiency by careful spectral filtering. We discuss the impact of low-noise frequency translation on single-photon upconversion detection and quantum information applications.",
+                "We have efficiently generated tunable terahertz (THz) radiation using intracavity parametric down-conversion in gallium arsenide (GaAs). We used three types of microstructured GaAs to quasi-phase-match the interaction: optically contacted, orientation-patterned, and diffusion-bonded GaAs. The GaAs was placed in an optical parametric oscillator (OPO) cavity, and the THz wave was generated by difference-frequency mixing between the OPO signal and idler waves. The OPO used type-II phase-matched periodically poled lithium niobate as a gain medium and was synchronously pumped by a mode-locked laser at 1064 nm (7 ps and 200 nJ at 50 MHz). With center frequencies spanning 0.4-3.5 THz, 250-GHz bandwidth radiation was generated. We measured two orders of optical cascading generated by the mixing of optical and THz waves. In a doubly resonant oscillator (DRO) configuration, the efficiency \u2026"
+            ],
+            [
+                [
+                    "nonlinear optics",
+                    "quantum communication"
+                ]
+            ]
+        ]
+    ]
+}

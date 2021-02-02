@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "1HLKRYVY",
+            "QbXr4AgAAAAJ",
+            [
+                "Stability criteria for switched and hybrid systems",
+                "Minimal entropy of states emerging from noisy quantum channels",
+                "Performance of IEEE 802.11 under jamming",
+                "Constructing optimal IP routing tables",
+                "The capacity of the quantum depolarizing channel",
+                "Additivity for unital qubit channels",
+                "The Chern-Simons theory and knot polynomials",
+                "Properties of conjugate channels with applications to additivity and multiplicativity",
+                "Multiplicativity of completely bounded p-norms implies a new additivity result",
+                "Two dimensional Yang-Mills theory via stochastic differential equations"
+            ],
+            [
+                "The study of the stability properties of switched and hybrid systems gives rise to a number of interesting and challenging mathematical problems. The objective of this paper is to outline some of these problems, to review progress made in solving them in a number of diverse communities, and to review some problems that remain open. An important contribution of our work is to bring together material from several areas of research and to present results in a unified manner. We begin our review by relating the stability problem for switched linear systems and a class of linear differential inclusions. Closely related to the concept of stability are the notions of exponential growth rates and converse Lyapunov theorems, both of which are discussed in detail. In particular, results on common quadratic Lyapunov functions and piecewise linear Lyapunov functions are presented, as they represent constructive methods for \u2026",
+                "We consider the minimal entropy of qubit states transmitted through two uses of a noisy quantum channel, which is modeled by the action of a completely positive trace-preserving (or stochastic) map. We provide strong support for the conjecture that this minimal entropy is additive, namely, that the minimum entropy can be achieved when product states are transmitted. Explicitly, we prove that for a tensor product of two unital stochastic maps on qubit states, using an entanglement that involves only states which emerge with minimal entropy cannot decrease the entropy below the minimum achievable using product states. We give a separate argument, based on the geometry of the image of the set of density matrices under stochastic maps, which suggests that the minimal entropy conjecture holds for nonunital as well as for unital maps. We also show that the maximal norm of the output states is multiplicative for most \u2026",
+                "We study the performance of the IEEE 802.11 MAC protocol under a range of jammers that covers both channel-oblivious and channel-aware jamming. We consider two channel-oblivious jammers: a periodic jammer that jams deterministically at a specified rate, and a memoryless jammer whose interfering signals arrive according to a Poisson process. We also develop new models for channel-aware jamming, including a reactive jammer that only jams non-colliding transmissions and an omniscient jammer that optimally adjusts its strategy according to current states of the participating nodes. Our study comprises of a theoretical analysis of the saturation throughput of 802.11 under jamming, an extensive simulation study, and a testbed to conduct real world experimentation of jamming IEEE 802.11 using a software defined radio (GNU Radio combined with USRP boards). In our theoretical analysis, we use \u2026",
+                "The Border Gateway Protocol (BGP) populates Internet backbone routers with routes or prefixes. We present an algorithm to locally compute (without any modification to BGP) equivalent forwarding tables that provably contain the minimal number of prefixes. For large backbone routers, the Optimal Routing Table Constructor (ORTC) algorithm that we present produces routing tables with roughly 60% of the original number of prefixes. The publicly available MaeEast database with 41315 prefixes reduces to 23007 prefixes when ORTC is applied. We present performance measurements on four publicly available databases and a formal proof that ORTC does produce the optimal set of routes.",
+                "The information-carrying capacity of the d-dimensional depolarizing channel is computed. It is shown that this capacity can be achieved by encoding messages as products of pure states belonging to an orthonormal basis of the state space, and using measurements which are products of projections onto this same orthonormal basis. In other words, neither entangled signal states nor entangled measurements give any advantage for information capacity. The result follows from an additivity theorem for the product channel \/spl Delta\/\/spl ominus\/\/spl Psi\/, where \/spl Delta\/ is the depolarizing channel and \/spl Psi\/ is a completely arbitrary channel. We establish the Amosov-Holevo-Werner(see Probl. Inform. Transm., vol.36, p.305-313, 2000) p-norm conjecture for this product channel for all p\/spl ges\/1, and deduce from this the additivity of the minimal entropy and of the Holevo quantity \/spl chi\/\/sup *\/.",
+                "Additivity of the Holevo capacity is proved for product channels, under the condition that one of the channels is a unital qubit channel, with the other completely arbitrary. As a byproduct this proves that the Holevo bound is the classical information capacity of such qubit channels, and provides an explicit formula for this classical capacity. Additivity of minimal entropy and multiplicativity of p-norms are also proved under the same assumptions. The proof relies on a new bound for the p-norm of an output state from the half-noisy phase-damping channel.",
+                "The Chern-Simons gauge theory is studied using a functional integral quantization. This leads to a differential equation for expectations of Wilson lines. The solution of this differential equation is shown to be simply related to the two-variable Jones polynomial of the corresponding link, in the case where the gauge group isSU(N). A similar equation has been used before to get the Jones polynomial from a braid representation of the link. The main novelty of our approach is that we get the Jones polynomial from a plat representation of the link.",
+                "Quantum channels can be described via a unitary coupling of system and environment, followed by a trace over the environment state space. Taking the trace instead over the system state space produces a different mapping which we call the conjugate channel. We explore the properties of conjugate channels and describe several different methods of construction. In general, conjugate channels map M_d to M_d'with d< d', and different constructions may differ by conjugation with a partial isometry.We show that a channel and its conjugate have the same minimal output entropy and maximal output p-norm. It then follows that the additivity and multiplicativity conjectures for these measures of optimal output purity hold for a product of channels if and only if they also hold for the product of their conjugates. This allows us to reduce these conjectures to the special case of maps taking M_d to M_d'with a minimal representation of dimension at most d.",
+                "We prove additivity of the minimal conditional entropy associated with a quantum channel \u03a6, represented by a completely positive (CP), trace-preserving map, when the infimum of S(\u03b312) \u2212 S(\u03b31) is restricted to states of the form . We show that this follows from multiplicativity of the completely bounded norm of \u03a6 considered as a map from L 1 \u2192 L  p  for L  p  spaces defined by the Schatten p-norm on matrices, and give another proof based on entropy inequalities. Several related multiplicativity results are discussed and proved. In particular, we show that both the usual L 1 \u2192 L  p  norm of a CP map and the corresponding completely bounded norm are achieved for positive semi-definite matrices. Physical interpretations are considered, and a new proof of strong subadditivity \u2026",
+                "The equation of parallel transport is given meaning in the quantized two dimensional Euclidean Yang-Mills theory by interpreting it as a stochastic differential equation in the complete axial gauge. The expectation of products of Wilson loops is evaluated using the stochastic differential calculus and a method of Bralic. Euclidean invariance of the theory is proven."
+            ],
+            [
+                [
+                    "Quantum information",
+                    "control theory",
+                    "matrix analysis"
+                ]
+            ]
+        ]
+    ]
+}

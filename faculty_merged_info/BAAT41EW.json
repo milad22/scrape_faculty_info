@@ -1,0 +1,33 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "BAAT41EW",
+            "izg65G0AAAAJ",
+            [
+                "The ATLAS experiment at the CERN large hadron collider",
+                "Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC",
+                "The ATLAS simulation infrastructure"
+            ],
+            [
+                "Aad, G; Bentvelsen, S; Bobbink, GJ; Bos, K; Boterenbrood, H; Brouwer, G; Buis, EJ; Buskop, JJF;\nColijn, AP; Dankers, R; Daum, C; de Boer, R; de Jong, P; Ennes, P; Gosselink, M; Groenstege,\nH; Hart, RGG; Hartjes, F; Hendriks, PJ; Hessey, NP; Jansweijer, PPM; Kieft, G; Klous, S; Kluit, P;\nKoffeman, E; Koutsman, A; Liebig, W; Limper, M; Linde, F; Luijckx, G; Massaro, G; Muijs, A; Peeters,\nSJM; Reichold, A; Rewiersma, P; Rijpstra, M; Scholte, RC; Schuijlenburg, HW; Snuverink, J; van\nder Graaf, H; van der Kraaij, E; Van Eijk, B; van Kesteren, Z; van Vulpen, I; Verkerke, W; Vermeulen,\nJC; Vreeswijk, M; Werneke, P; Cakir, O; Ciftci, AK; Duran Yildiz, H; Sultanov, S; Turk Cakir, I; Yilmaz,\nM; Aubert, B; Bazan, A; Beaugiraud, B; Bellachia, F; Berger, N; Blaising, JJ; Colas, J; Consonni,\nM; Delebecque, P; Delsart, PA; Di Ciaccio, L; Dayot, N Dumont>; Elles, S; Ghez, Philippe>; Girard,\nCG; Gouanere, M; Goy, C; Guillemin, T; Ionescu, G \u2026 \n",
+                "A search for the Standard Model Higgs boson in proton\u2013proton collisions with the ATLAS detector at the LHC is presented. The datasets used correspond to integrated luminosities of approximately 4.8 fb\u2212 1 collected at s= 7 TeV in 2011 and 5.8 fb\u2212 1 at s= 8 TeV in 2012. Individual searches in the channels H\u2192 Z Z (\u204e)\u2192 4 \u2113, H\u2192 \u03b3 \u03b3 and H\u2192 W W (\u204e)\u2192 e \u03bd \u03bc \u03bd in the 8 TeV data are combined with previously published results of searches for H\u2192 Z Z (\u204e), W W (\u204e), b b\u00af and \u03c4+ \u03c4\u2212 in the 7 TeV data and results from improved analyses of the H\u2192 Z Z (\u204e)\u2192 4 \u2113 and H\u2192 \u03b3 \u03b3 channels in the 7 TeV data. Clear evidence for the production of a neutral boson with a measured mass of 126.0\u00b10.4 (stat)\u00b10.4 (sys) GeV is presented. This observation, which has a significance of 5.9 standard deviations, corresponding to a background fluctuation probability of 1.7\u00d7 10\u2212 9, is compatible with the production and decay of the Standard Model \u2026",
+                "The simulation software for the ATLAS Experiment at the Large Hadron Collider is being used for large-scale production of events on the LHC Computing Grid. This simulation requires many components, from the generators that simulate particle collisions, through packages simulating the response of the various detectors and triggers. All of these components come together under the ATLAS simulation infrastructure. In this paper, that infrastructure is discussed, including that supporting the detector description, interfacing the event generation, and combining the GEANT4 simulation of the response of the individual detectors. Also described are the tools allowing the software validation, performance testing, and the validation of the simulated output against known physics processes."
+            ],
+            [
+                [
+                    "Experimental Partical Physics"
+                ]
+            ]
+        ]
+    ]
+}

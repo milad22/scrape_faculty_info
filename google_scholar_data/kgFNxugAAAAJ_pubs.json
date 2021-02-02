@@ -1,0 +1,172 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "data":[
+        [
+            "We observed and controlled the Brownian motion of solitons. We launched solitonic excitations in highly elongated  Bose\u2013Einstein condensates (BECs) and showed that a dilute background of impurity atoms in a different internal state dramatically affects the soliton. With no impurities and in one dimension (1D), these solitons would have an infinite lifetime, a consequence of integrability. In our experiment, the added impurities scatter off the much larger soliton, contributing to its Brownian motion and decreasing its lifetime. We describe the soliton\u2019s diffusive behavior using a quasi-1D scattering theory of impurity atoms interacting with a soliton, giving diffusion coefficients consistent with experiment.",
+            "Brownian motion of solitons in a Bose\u2013Einstein condensate",
+            "Lauren M Aycock and Hilary M Hurst and Dmitry K Efimkin and Dina Genkina and Hsin-I Lu and Victor M Galitski and IB Spielman",
+            "2017",
+            "kgFNxugAAAAJ:qjMakFHDy7sC",
+            36,
+            "https:\/\/www.pnas.org\/content\/114\/10\/2503.short",
+            "12593819679083241173",
+            "\/scholar?cites=12593819679083241173",
+            {
+                "2017":7,
+                "2018":5,
+                "2019":11,
+                "2020":12,
+                "2021":1
+            }
+        ],
+        [
+            "We consider the interplay between magnetic skyrmions in an insulating thin film and the Dirac surface states of a three-dimensional topological insulator (TI), coupled by the proximity effect. The magnetic texture of skyrmions can lead to confinement of Dirac states at the skyrmion radius, where out-of-plane magnetization vanishes. This confinement can result in charging of the skyrmion texture. The presence of bound states is robust in an external magnetic field, which is needed to stabilize skyrmions. It is expected that, for relevant experimental parameters, skyrmions will have a few bound states that can be tuned using an external magnetic field. We argue that these charged skyrmions can be manipulated directly by an electric field, with skyrmion mobility proportional to the number of bound states at the skyrmion radius. Coupling skyrmionic thin films to a TI surface can provide a more direct and efficient way of \u2026",
+            "Charged skyrmions on the surface of a topological insulator",
+            "Hilary M Hurst and Dmitry K Efimkin and Jiadong Zang and Victor Galitski",
+            "2015",
+            "kgFNxugAAAAJ:u5HHmVD_uO8C",
+            30,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.91.060401",
+            "10818664138923396193",
+            "\/scholar?cites=10818664138923396193",
+            {
+                "2015":1,
+                "2016":6,
+                "2017":6,
+                "2018":4,
+                "2019":8,
+                "2020":4,
+                "2021":1
+            }
+        ],
+        [
+            "The internal degrees of freedom provided by ultracold atoms provide a route for realizing higher dimensional physics in systems with limited spatial dimensions. Nonspatial degrees of freedom in these systems are dubbed \u201csynthetic dimensions.\u201d This connection is useful from an experimental standpoint but complicated by the fact that interactions alter the condensate ground state. Here we use the Gross-Pitaevskii equation to study the ground-state properties of a spin-1 Bose gas under the combined influence of an optical lattice, spatially varying spin-orbit coupling, and interactions at the mean-field level. The associated phases depend on the sign of the spin-dependent interaction parameter and the strength of the spin-orbit field. We find \u201ccharge\u201d-and spin-density-wave phases which are directly related to helical spin order in real space and affect the behavior of edge currents in the synthetic dimension. We \u2026",
+            "Real-space mean-field theory of a spin-1 Bose gas in synthetic dimensions",
+            "Hilary M Hurst and Justin H Wilson and JH Pixley and IB Spielman and Stefan S Natu",
+            "2016",
+            "kgFNxugAAAAJ:d1gkVwhDpl0C",
+            13,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.94.063613",
+            "8397838546103587302",
+            "\/scholar?cites=8397838546103587302",
+            {
+                "2017":5,
+                "2018":4,
+                "2019":2,
+                "2020":2
+            }
+        ],
+        [
+            "We study controllable friction in a system consisting of a dark soliton in a one-dimensional Bose-Einstein condensate coupled to a noninteracting Fermi gas. The fermions act as impurity atoms, not part of the original condensate, that scatter off of the soliton. We study semiclassical dynamics of the dark soliton, a particlelike object with negative mass, and calculate its friction coefficient. Surprisingly, it depends periodically on the ratio of interspecies (impurity-condensate) to intraspecies (condensate-condensate) interaction strengths. By tuning this ratio, one can access a regime where the friction coefficient vanishes. We develop a general theory of stochastic dynamics for negative-mass objects and find that their dynamics are drastically different from their positive-mass counterparts: they do not undergo Brownian motion. From the exact phase-space probability distribution function (ie, in position and velocity), we find \u2026",
+            "Kinetic theory of dark solitons with tunable friction",
+            "Hilary M Hurst and Dmitry K Efimkin and IB Spielman and Victor Galitski",
+            "2017",
+            "kgFNxugAAAAJ:IjCSPb-OGe4C",
+            10,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.95.053604",
+            "2033460098312619593",
+            "\/scholar?cites=2033460098312619593",
+            {
+                "2017":1,
+                "2018":2,
+                "2019":3,
+                "2020":4
+            }
+        ],
+        [
+            "Weakly measuring many-body systems and allowing for feedback in real time can simultaneously create and measure new phenomena in quantum systems. We theoretically study the dynamics of a continuously measured two-component Bose-Einstein condensate (BEC) potentially containing a domain wall and focus on the tradeoff between usable information obtained from measurement and quantum backaction. Each weakly measured system yields a measurement record from which we extract real-time dynamics of the domain wall. We show that quantum backaction due to measurement causes two primary effects: domain-wall diffusion and overall heating. The system dynamics and signal-to-noise ratio depend on the choice of measurement observable. We propose a feedback protocol to dynamically create a stable domain wall in the regime where domain walls are unstable, giving a prototype example of \u2026",
+            "Measurement induced dynamics and stabilization of spinor condensate domain walls",
+            "Hilary M Hurst and IB Spielman",
+            "2019",
+            "kgFNxugAAAAJ:roLk4NBRz8UC",
+            4,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.99.053612",
+            "2163304057250267322",
+            "\/scholar?cites=2163304057250267322",
+            {
+                "2019":1,
+                "2020":3
+            }
+        ],
+        [
+            "We consider the proximity effect between Dirac states at the surface of a topological insulator and a ferromagnet with easy plane anisotropy, which is described by the XY model and undergoes a Berezinskii-Kosterlitz-Thouless (BKT) phase transition. The surface states of the topological insulator interacting with classical magnetic fluctuations of the ferromagnet can be mapped onto the problem of Dirac fermions in a random magnetic field. However, this analogy is only partial in the presence of electron-hole asymmetry or warping of the Dirac dispersion, which results in screening of magnetic fluctuations. Scattering at magnetic fluctuations influences the behavior of the surface resistivity as a function of temperature. Near the BKT phase transition temperature we find that the resistivity of surface states scales linearly with temperature and has a clear maximum which becomes more pronounced as the Fermi energy \u2026",
+            "Transport of Dirac electrons in a random magnetic field in topological heterostructures",
+            "Hilary M Hurst and Dmitry K Efimkin and Victor Galitski",
+            "2016",
+            "kgFNxugAAAAJ:u-x6o8ySG0sC",
+            4,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.93.245111",
+            "14090024696038624259",
+            "\/scholar?cites=14090024696038624259",
+            {
+                "2016":1,
+                "2017":1,
+                "2018":2
+            }
+        ],
+        [
+            "We study the dynamics of domain walls (DWs) in a metallic, ferromagnetic nanowire, focusing on inertial effects on the DW due to interaction with a conduction electron bath. We develop a Keldysh collective coordinate technique to describe the effect of conduction electrons on rigid magnetic structures. The effective Lagrangian and Langevin equations of motion for a DW are derived microscopically, including the full response kernel which is nonlocal in time. The DW dynamics is described by two collective degrees of freedom: position and tilt angle. The coupled Langevin equations therefore involve two correlated noise sources, leading to a generalized fluctuation-dissipation theorem (FDT). The DW response kernel due to electrons contains two parts: one related to dissipation via FDT and another reactive part. We prove that the latter term leads to a mass for both degrees of freedom, even though the intrinsic bare \u2026",
+            "Electron Induced Massive Dynamics of Magnetic Domain Walls",
+            "Hilary M Hurst and Victor Galitski and Tero T Heikkil\u00e4",
+            "2020",
+            "kgFNxugAAAAJ:0EnyYjriUFMC",
+            3,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.101.054407",
+            "1123137608503593152",
+            "\/scholar?cites=1123137608503593152",
+            {
+                "2020":3
+            }
+        ],
+        [
+            "We propose a non-destructive means of characterizing a semiconductor wafer via measuring the parameters of an induced quantum dot on the material system of interest with a separate probe chip that can also house the measurement circuitry. We show that a single wire can create the dot, determine if an electron is present, and be used to measure critical device parameters. Adding more wires enables more complicated (potentially multi-dot) systems and measurements. As one application for this concept, we consider a silicon metal-oxide-semiconductor and silicon\/silicon-germanium quantum dot qubits relevant to quantum computing and show how to measure low-lying excited states (so-called \u201cvalley\u201d states). This approach provides an alternative method for the characterization of parameters that are critical for various semiconductor-based quantum dot devices without fabricating such devices.",
+            "Induced quantum dot probe for material characterization",
+            "Yun-Pil Shim and Rusko Ruskov and Hilary M Hurst and Charles Tahan",
+            "2019",
+            "kgFNxugAAAAJ:LkGwnXOMwfcC",
+            3,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.5053756",
+            "14248340685311718526",
+            "\/scholar?cites=14248340685311718526",
+            {
+                "2020":3
+            }
+        ],
+        [
+            "Magnetic systems have been extensively studied from both a fundamental physics perspective and as technological building blocks. The topological properties of magnonic excitations in these systems remain relatively unexplored, due to their inherently dissipative nature. The recent extension of the theory of topological classification to non-Hermitian Hamiltonians provides a pathway to engineer topological phases in dissipative systems. Here, we propose a magnonic realization of a topological, non-Hermitian system. A crucial ingredient of our proposal is the injection of spin current into the magnetic system, which alters and can even change the sign of terms describing dissipation. We show that the magnetic dynamics of an array of spin-torque oscillators can be mapped onto a non-Hermitian Su-Schrieffer-Heeger model exhibiting topologically protected edge states. The nontrivial topological phase is accessed \u2026",
+            "Non-Hermitian topology of one-dimensional spin-torque oscillator arrays",
+            "Benedetta Flebus and Rembert A Duine and Hilary M Hurst",
+            "2020",
+            "kgFNxugAAAAJ:5nxA0vEk-isC",
+            2,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.102.180408",
+            "12339556648063058567",
+            "\/scholar?cites=12339556648063058567",
+            {
+                "2020":2
+            }
+        ]
+    ]
+}

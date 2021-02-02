@@ -1,0 +1,52 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "jBmwMEgAAAAJ",
+            "Abdulaziz Alqasim",
+            "Assistant Professor, King Saud University",
+            "@ksu.edu.sa",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=jBmwMEgAAAAJ",
+            141,
+            [
+                "Medical Microbiology"
+            ],
+            112,
+            5,
+            5,
+            4,
+            4,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"BEwl_PkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ahmed Abu Jaffal",
+                    "affiliation":"Lecturer, Biotechnology, KSAU-HS Universiry"
+                }
+            ]
+        ]
+    ]
+}

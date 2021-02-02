@@ -1,0 +1,109 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2
+    ],
+    "data":[
+        [
+            "This letter evaluates the peak-to-average power ratio (PAR) performance in a space-time block coded (STBC) multi-input multi-output orthogonal frequency-division multiplexing (MIMO-OFDM) system using the selective mapping (SLM) approach. The investigated SLM-based MIMO-OFDM system selects the transmitted sequence with the lowest average PAR over all transmit antennas and retrieves the side information very accurately at the expense of only 0.5-dB degradation of the PAR, which can improve the overall detection performance of the MIMO-OFDM system with erroneous side information, compared to the individual SLM approach.",
+            "Peak-to-average power ratio in MIMO-OFDM systems using selective mapping",
+            "Yung-Lyul Lee and Young-Hwan You and Won-Gi Jeon and Jong-Ho Paik and Hyoung-Kyu Song",
+            "2003",
+            "0SVkCOMAAAAJ:u5HHmVD_uO8C",
+            191,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/1254058\/",
+            "2344065084371339801",
+            "\/scholar?cites=2344065084371339801",
+            {
+                "2004":3,
+                "2005":10,
+                "2006":11,
+                "2007":19,
+                "2008":18,
+                "2009":16,
+                "2010":17,
+                "2011":17,
+                "2012":15,
+                "2013":8,
+                "2014":14,
+                "2015":10,
+                "2016":11,
+                "2017":7,
+                "2018":6,
+                "2019":5,
+                "2020":1
+            }
+        ],
+        [
+            "An adaptive mode decision algorithm is presented, with rate-distortion optimisation that reduces complexity of the H.264 encoder without loss of image quality and compression ratio. The proposed algorithm uses the property of an all-zero coefficients block that is produced by quantisation and coefficient thresholding to effectively skip unnecessary modes. Experimental results show that the speed of the adaptive mode decision algorithm is two times faster than the full-mode decision algorithm of the JM72 reference encoder, without any coding loss.",
+            "Adaptive mode decision for H. 264 encoder",
+            "Y-H Kim and J-W Yoo and S-W Lee and J Shin and J Paik and H-K Jung",
+            "2004",
+            "0SVkCOMAAAAJ:9vf0nzSNQJEC",
+            149,
+            "https:\/\/digital-library.theiet.org\/content\/journals\/10.1049\/el_20046155",
+            "3399122448435291188",
+            "\/scholar?cites=3399122448435291188",
+            {
+                "2005":2,
+                "2006":21,
+                "2007":18,
+                "2008":12,
+                "2009":14,
+                "2010":14,
+                "2011":9,
+                "2012":5,
+                "2013":18,
+                "2014":17,
+                "2015":10,
+                "2016":6,
+                "2017":1,
+                "2018":1
+            }
+        ],
+        [
+            "This letter is concerned with a frequency offset estimation technique for OFDM based transmission systems. The frequency estimation technique utilizes a repetitive signal structure inside of a OFDM symbol which is used to enlarge the range and increase the accuracy of offset estimation. Also, an averaged decision-directed channel estimation (ADDCE) technique suitable for burst data is proposed.",
+            "Frequency-offset synchronization and channel estimation for OFDM-based transmission",
+            "Hyoung-Kyu Song and Young-Hwan You and Jong-Ho Paik and Yong-Soo Cho",
+            "2000",
+            "0SVkCOMAAAAJ:u-x6o8ySG0sC",
+            140,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/831036\/",
+            "12203630127689355456",
+            "\/scholar?cites=12203630127689355456",
+            {
+                "2001":5,
+                "2002":3,
+                "2003":7,
+                "2004":7,
+                "2005":14,
+                "2006":18,
+                "2007":11,
+                "2008":13,
+                "2009":14,
+                "2010":10,
+                "2011":6,
+                "2012":4,
+                "2013":8,
+                "2014":5,
+                "2015":8,
+                "2016":2,
+                "2017":3,
+                "2018":2
+            }
+        ]
+    ]
+}

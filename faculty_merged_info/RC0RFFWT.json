@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "RC0RFFWT",
+            "qvBq8-UAAAAJ",
+            [
+                "Patterns in 3D vertically oscillated granular layers: simulation and experiment",
+                "Shocks in supersonic sand",
+                "Crystallization of a quasi-two-dimensional granular fluid",
+                "Caging dynamics in a granular fluid",
+                "In vivo He-3 MR images of guinea pig lungs.",
+                "Transport coefficients for granular media from molecular dynamics simulations",
+                "Velocity distributions and correlations in homogeneously heated granular media",
+                "Repulsive contact interactions make jammed particulate systems inherently nonharmonic",
+                "Pattern formation during mixing and segregation of flowing granular materials",
+                "Dynamics of magnetization in hyperpolarized gas MRI of the lung"
+            ],
+            [
+                "Numerical simulations and laboratory experiments are conducted for thin layers of particles in a vertically oscillated container as a function of the frequency f, amplitude A, and depth H. The same standing wave patterns (stripes, squares, or hexagons oscillating at f\/2 or f\/4) and wavelengths are obtained in the simulations and experiments for a wide range of (f, A) and two layer depths. Two model parameters are determined by fits at just two points (f, A, H). Simulation results lead to heuristic arguments for the onset of patterns and the crossover from squares to stripes.",
+                "We measure time-averaged velocity, density, and temperature fields for steady granular flow past a wedge. We find the flow to be supersonic with a speed of granular pressure disturbances (sound speed) equal to about 10% of the flow speed, and we observe shocks nearly identical to those in a supersonic gas. Molecular dynamics simulations of Newton\u2019s laws yield fields in quantitative agreement with experiment. A numerical solution of Navier-Stokes\u2013like equations agrees with a molecular dynamics simulation for experimental conditions excluding wall friction.",
+                "We experimentally investigate the crystallization of a uniformly heated quasi-2D granular fluid as a function of the filling fraction. Our experimental results for the Lindemann melting criterion, the radial distribution function, the bond order parameter, and the statistics of topological changes at the particle level are the same as those found in simulations of equilibrium hard disks. This direct mapping suggests that the study of equilibrium systems can be effectively applied to study nonequilibrium steady states such as those found in our driven and dissipative granular system.",
+                "We report an experimental investigation of the caging motion in a uniformly heated granular fluid for a wide range of filling fractions, \u03d5. At low \u03d5 the classic diffusive behavior of a fluid is observed. However, as \u03d5 is increased, temporary cages develop and particles become increasingly trapped by their neighbors. We statistically analyze particle trajectories and observe a number of robust features typically associated with dense molecular liquids and colloids. Even though our monodisperse and quasi-2D system is known to not exhibit a glass transition, we still observe many of the precursors usually associated with glassy dynamics. We speculate that this is due to a process of structural arrest provided, in our case, by the presence of crystallization.",
+                "The authors imaged the lungs of live guinea pigs with hyperpolarized (HP) helium-3 as a magnetic resonance (MR) signal source. HP He-3 gas produced through spin exchange with rubidium metal vapor was delivered through an MR-compatible, small-animal ventilator. Two- and three-dimensional lung images acquired with ventilation-gated, radial k-space sampling showed complete ventilation of both lungs. All images were of high quality, demonstrating that HP He-3 allows high-signal-intensity MR imaging in living systems.",
+                "Under many conditions, macroscopic grains flow like a fluid; kinetic theory predicts continuum equations of motion for this granular fluid. In order to test the theory, we perform event-driven molecular simulations of a two-dimensional gas of inelastic hard disks, driven by contact with a heat bath. Even for strong dissipation, high densities, and small numbers of particles, we find that continuum theory describes the system well. With a bath that heats the gas homogeneously, strong velocity correlations produce a slightly smaller energy loss due to inelastic collisions than that predicted by kinetic theory. With an inhomogeneous heat bath, thermal or velocity gradients are induced. Determination of the resulting fluxes allows calculation of the thermal conductivity and shear viscosity, which are compared to the predictions of granular kinetic theory, and which can be used in continuum modeling of granular flows. The shear \u2026",
+                "We compare the steady state velocity distributions from our three-dimensional inelastic hard sphere molecular dynamics simulation for homogeneously heated granular media, with the predictions of a mean field-type Enskog-Boltzmann equation for inelastic hard spheres [TPC van Noije and MH Ernst, Granular Matter 1, 57 (1998)]. Although we find qualitative agreement for all values of density and inelasticity, the quantitative disagreement approaches\u223c 4 0% at high inelasticity or density. By contrast the predictions of the pseudo-Maxwell molecule model [JA Carrillo, C. Cercignani, and IM Gamba, Phys. Rev. E, 62, 7700 (2000)] are both qualitatively and quantitatively different from those of our simulation. We also measure short-range and long-range velocity correlations exhibiting nonzero correlations at contact before the collision, and being consistent with a slow algebraic decay over a decade in the unit of the \u2026",
+                "Many jammed particulate systems, such as granular and colloidal materials, interact via repulsive contact forces. We find that these systems possess no harmonic regime in the large system limit (N\u2192\u221e) for all compressions \u0394 \u03d5 studied, and at jamming onset \u0394 \u03d5\u2192 0 for all N. We perform fixed energy simulations following perturbations with amplitude \u03b4 along eigendirections of the dynamical matrix. The fluctuations abruptly spread to all modes for \u03b4\u2248 \u03b4 c (where a single contact breaks) in contrast to linear and weakly nonlinear behavior. For \u03b4> \u03b4 c, all discrete modes disappear into a continuous frequency band.\u27e8 \u03b4 c\u27e9 scales with 1\/N and \u0394 \u03d5, which limits harmonic behavior to only overcompressed systems. The density of vibrational modes deviates strongly from that predicted from the dynamical matrix when the system enters the nonharmonic regime, which significantly affects its mechanical and transport properties.",
+                "Powder mixing plays an important role in a number of industries ranging from pharmaceuticals and food to ceramics and mining. Avalanches provide a mechanism for the stretching and folding needed to mix granular solids. However, unlike fluids, when particles dissimilar in size, density, or shape flow, they can spontaneously demix or segregate. Using magnetic resonance imaging, we track the transport of granular solids in a slowly rotating tube both with and without segregation effects. Compared with experiments in a 2-dimensional rotating disk partially filled with colored particles, the mixing kinematics and the granular pattern formation in a tube are changed by an axial flow instability. From simple physical principles we argue how size and density segregation mechanisms can be made to cancel, allowing good mixing of dissimilar particles, and we show experiments verifying this. Further experiments isolate \u2026",
+                "The magnetization in hyperpolarized gas (HP) MRI is generated by laser polarization that is independent of the magnet and imaging process. As a consequence, there is no equilibrium magnetization during the image acquisition. The competing processes of gas inflow and depolarization of the spins lead to large changes in signal as one samples k\u2010space. A model is developed of dynamic changes in polarization of hyperpolarized 3He during infusion and in vivo imaging of the lung and verified experimentally in a live guinea pig. Projection encoding is used to measure the view\u2010to\u2010view variation with temporal resolution <4 ms. Large excitation angles effectively sample the magnetization in the early stages of inflow, highlighting larger airways, while smaller excitation angles produce images of the more distal spaces. The work provides a basis for pulse sequences designed to effectively exploit HP MRI in the lung."
+            ],
+            [
+                [
+                    "Soft Matter",
+                    "Granular Materials",
+                    "Glasses"
+                ]
+            ]
+        ]
+    ]
+}

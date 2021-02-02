@@ -1,0 +1,284 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "fMfq07IAAAAJ",
+            "John J. Foxe",
+            "Kilian & Caroline Schmitt Chair, Dept. of Neuroscience, University of Rochester School of Medicine",
+            "@urmc.rochester.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=fMfq07IAAAAJ",
+            28542,
+            [
+                "Cognitive Neuroscience",
+                "Attention",
+                "Multisensory Integration",
+                "Oscillations",
+                "Cognition"
+            ],
+            11894,
+            92,
+            65,
+            237,
+            199,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"tNPqC2MAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sophie Molholm",
+                    "affiliation":"Albert einstein College of Medicine"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"4HVG8JkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Daniel Javitt",
+                    "affiliation":"Departments of Psychiatry and Neuroscience, Nathan Kline Institute & Columbia University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Q_6UNRcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Charles E. Schroeder",
+                    "affiliation":"Nathan Kline Institute, Professor of Psychiatry, Columbia University College of Physicians and Surgeons"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"EwNVxgEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hugh Garavan",
+                    "affiliation":"University of Vermont"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"35UipB8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Micah M. Murray",
+                    "affiliation":"Professor of Radiology and Clinical Neurosciences, University Hospital Center and University of"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"lqQIzDcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Simon Kelly",
+                    "affiliation":"University College Dublin"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"5A6USF0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Glenn Wylie",
+                    "affiliation":"Kessler Foundation"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"XxHqFtcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"John S Butler",
+                    "affiliation":"Technological University Dublin (formerly, Dublin Institute of Technology)"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"b9rR_o0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Edmund C Lalor",
+                    "affiliation":"Associate Professor of Biomedical Engineering & Neuroscience, University of Rochester"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Ux_AHtkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Pierfilippo De Sanctis",
+                    "affiliation":"Assistant Professor, Departments of Pediatrics & Neurology, AECOM"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6ftKkZMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Richard B. Reilly",
+                    "affiliation":"Trinity College Dublin"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"pUJpqXEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Adam C. Snyder",
+                    "affiliation":"University of Rochester"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"-fP1-rDrs3wC",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ian H Robertson",
+                    "affiliation":"Trinity College Dublin"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"vvKnd50AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Manuel Gomez-Ramirez",
+                    "affiliation":"University of Rochester"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9vKOqX4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dave Saint-Amour (full professor)",
+                    "affiliation":"Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"P_QS1H0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Theodore H. Schwartz, MD, FACS",
+                    "affiliation":"Professor of Neurosurgery, Otolaryngology, Neurology and Neuroscience, Weill Cornell Medical College"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"vma8HZ0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Robert Hester",
+                    "affiliation":"School of Psychological Sciences, University of Melbourne"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"-9xkZW4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Manuel R. Mercier",
+                    "affiliation":"Inserm"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"B0bUxrwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hans-Peter Frey",
+                    "affiliation":"Starmind"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"a7IjexsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Antigona Martinez",
+                    "affiliation":"University of California, San Diego"
+                }
+            ]
+        ]
+    ]
+}

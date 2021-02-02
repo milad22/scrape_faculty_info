@@ -1,0 +1,284 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "gCJRAw0AAAAJ",
+            "Marilena Bandieramonte",
+            "CERN & University of Pittsburgh",
+            "@cern.ch",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=gCJRAw0AAAAJ",
+            818,
+            [
+                "MonteCarlo Simulation",
+                "Vectorization",
+                "Distributed Systems",
+                "Cosmic Rays Physics",
+                "Ray Tracing"
+            ],
+            688,
+            16,
+            14,
+            24,
+            17,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"jbMa4lUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Eva Sciacca",
+                    "affiliation":"Technology Researcher, INAF Catania"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fp5U5MEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Fabio Vitello",
+                    "affiliation":"INAF - Osservatorio Astrofisico di Catania"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ILKqX_QAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Simone Riggi",
+                    "affiliation":"Post Doc, INAF Catania"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9sVdVtsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"John Apostolakis",
+                    "affiliation":"CERN"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"XEyIVikAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Johannes de Fine Licht",
+                    "affiliation":"ETH Zurich"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Qw8R-28AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Oksana Shadura",
+                    "affiliation":"University of Nebraska-Lincoln & CERN"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"SkypocUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Federico Carminati",
+                    "affiliation":"CERN"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"zxEfnV4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Vincenzo Antonuccio-Delogu",
+                    "affiliation":"Researcher, Istituto Nazionale di Astrofisica, Catania Astrophysical Observatory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"OXtV92oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Guilherme Amadio",
+                    "affiliation":"CERN"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"cKQ1Y0kAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Massimo Brescia",
+                    "affiliation":"Astronomer Researcher, INAF Astronomical Observatory of Capodimonte, Naples Italy"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"wd9Sx9wAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Davide Elia",
+                    "affiliation":"INAF - IAPS"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"RXywJpMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Calebe de Paula Bianchini",
+                    "affiliation":"Professor & Researcher, Mackenzie University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"CfS6oIIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Giovanni Bonanno",
+                    "affiliation":"Astronomo Ordinario, INAF Catania"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"J1eC7zMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Giuseppe Romeo",
+                    "affiliation":"INAF Osservatorio Astrofisico di Catania"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"eyUg1zIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Domenico Lo Presti",
+                    "affiliation":"Universit\u00e0 di Catania - Dipartimento di Fisica ed Astronomia \"Ettore Majorana\" - Istituto Nazionale"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"SBXakFIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Fabio Longhitano",
+                    "affiliation":"Istituto Nazionale di Fisica Nucleare - INFN -"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"W-Z56VcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kacsuk P\u00e9ter",
+                    "affiliation":"Professor of Distributed Computing, MTA SZTAKI and Univ.of Westminster"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"d7zhiC8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Scige Liu",
+                    "affiliation":"INAF"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"BjPol_AAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Salvatore Garozzo",
+                    "affiliation":"INAF - Osservatorio Astrofisico Catania"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"DDgNKZkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Davide Marano",
+                    "affiliation":"INAF - Osservatorio Astrofisico di Catania"
+                }
+            ]
+        ]
+    ]
+}

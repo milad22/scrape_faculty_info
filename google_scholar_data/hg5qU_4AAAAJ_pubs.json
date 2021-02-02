@@ -1,0 +1,214 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "data":[
+        [
+            "Instruction in the area of computer networking (specifically systems administration) can be cumbersome and ineffective; and is almost always is an expensive prospect when it comes to instructional and lab facilities. Problems arise both in the classroom and the lab when trying to recreate a true computing environment. Two solutions spelled out in this paper, virtual machines and remoting technology, have been implemented to help solve these problems encountered in the delivery of instruction.",
+            "Creating remotely accessible\" virtual networks\" on a single PC to teach computer networking and operating systems",
+            "Mark Stockman",
+            "2003",
+            "hg5qU_4AAAAJ:u5HHmVD_uO8C",
+            52,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/947121.947137",
+            "18294977920021187736",
+            "\/scholar?cites=18294977920021187736",
+            {
+                "2004":3,
+                "2005":6,
+                "2006":8,
+                "2007":4,
+                "2008":2,
+                "2009":5,
+                "2010":5,
+                "2011":5,
+                "2012":3,
+                "2013":4,
+                "2014":1,
+                "2015":1,
+                "2016":1,
+                "2017":1,
+                "2018":1,
+                "2019":1
+            }
+        ],
+        [
+            "Virtual machine technology has presented an opportunity for the networking\/system administration lab to serve multiple classes. The storage and delivery of virtual machine images has however presented a new problem for faculty and technical support staff. The authors have performed initial testing involving centralized verses distributed virtual machine image delivery in the networking\/system administration and will provide details as to their results in this paper. The overriding goal is to provide mobility for students within the lab and virtual machine manageability for faculty and technical staff.",
+            "Centrally-stored and delivered virtual machines in the networking\/system administration lab",
+            "Mark Stockman and John Nyland and William Weed",
+            "2005",
+            "hg5qU_4AAAAJ:u-x6o8ySG0sC",
+            33,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/1072968.1072969",
+            "9964884403907379691",
+            "\/scholar?cites=9964884403907379691",
+            {
+                "2007":5,
+                "2008":5,
+                "2009":2,
+                "2010":1,
+                "2011":2,
+                "2012":2,
+                "2013":3,
+                "2014":4,
+                "2015":2,
+                "2016":4,
+                "2017":1,
+                "2018":1,
+                "2019":1
+            }
+        ],
+        [
+            "This paper will layout the University of Cincinnati's efforts in creating the core curriculum for an information technology degree program to be started in the autumn quarter of 2004. By core, we are referring to coursework required by all information technology majors no matter their chosen area of specialization: networking, software development or web technologies. The work done creating this information technology groundwork for students is based on ACM SIGITE's initial implementation of IT curriculum guidelines. Input for the IT core was also obtained from faculty, students, and industry partners. Processes by which specific course offerings were chosen will be detailed: objectives of the core and courses, desired outcomes for students, content, and associated hands-on activities. In all, the paper will present a means by which the core curriculum can be successfully implemented in information technology \u2026",
+            "An implementation of a core curriculum in an information technology degree program",
+            "Hazem Said and Louise Chaytor and Daniel Humpert and John Nyland and Robert Schlemmer and Mark Stockman and Chris Christopherson and Patrick Kumpf and Annu Prabhakar and Vali Tadayon and Soleda Leung and Sam Geonetta and Russ McMahon and Tamisra Sanyal and Tom Wulf",
+            "2004",
+            "hg5qU_4AAAAJ:d1gkVwhDpl0C",
+            18,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/1029533.1029557",
+            "17435654711638883185",
+            "\/scholar?cites=17435654711638883185",
+            {
+                "2004":4,
+                "2005":3,
+                "2006":2,
+                "2007":4,
+                "2008":1,
+                "2009":1,
+                "2010":1,
+                "2011":1,
+                "2012":1
+            }
+        ],
+        [
+            "A honeynet system deploys a series of honeypots to answer vital questions about the activities of hackers on a network and can be used as a platform for direct experimentation to test criminological theory in an online environment. Often however, such systems can be hard to set up, generate large amounts of unfiltered data, and must be carefully monitored to prevent their being used as a platform for further attacks. This paper discusses the development of a honeynet system that computing professionals and researchers can set up, scale, and use with relative ease. The system monitors intruders' activities on individual honeypots then aggregates their movements into a single database, making the data easily accessible and searchable for study through a graphical front-end. To test this open-source solution, the authors replicate a portion of a seminal criminological study by Maimon et al.[4] finding corroborating \u2026",
+            "An open-source honeynet system to study system banner message effects on hackers",
+            "Mark Stockman and Robert Heile and Anthony Rein",
+            "2015",
+            "hg5qU_4AAAAJ:Zph67rFs4hoC",
+            14,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/2808062.2808069",
+            "10229095361522230316",
+            "\/scholar?cites=10229095361522230316",
+            {
+                "2016":4,
+                "2017":4,
+                "2018":3,
+                "2019":3
+            }
+        ],
+        [
+            "This paper will layout the University of Cincinnati's efforts in creating a networking track specialization for an information technology (IT) degree program to be started in the autumn quarter of 2004. The work done creating such an academic specialization for students is based on ACM SIGITE's initial implementation of IT curriculum guidelines. Input for the IT networking specialty was also obtained from faculty, students, and industry partners. Processes by which specific course offerings were chosen will be detailed; objectives of the track and courses, desired outcomes for students, content, and associated hands-on activities. In all, the paper will present a means by which a networking track can be successfully implemented in information technology programs at other universities that are interested in such an endeavor.",
+            "An implementation of a networking track in an information technology degree program",
+            "Mark Stockman and Chris Christopherson and Hazem Said and John Nyland",
+            "2004",
+            "hg5qU_4AAAAJ:9yKSN-GCB0IC",
+            11,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/1029533.1029568",
+            "8967084318570835507",
+            "\/scholar?cites=8967084318570835507",
+            {
+                "2004":4,
+                "2005":1,
+                "2006":1,
+                "2007":1,
+                "2008":2,
+                "2009":1,
+                "2010":1
+            }
+        ],
+        [
+            "Several major factors have contributed to the birth of the new IT baccalaureate degree program at the University of Cincinnati. Of course the timing of IT emerging as an academic discipline has been a major one. Since CITC II several faculty members from the University of CINCINNATI have participated actively in SITE, later, SIGITE. With the arrival of new and exciting integrated technology, the stipulation to design an IT program meeting the needs of our society has become most important. Although originated by the entire group of Computer Science\/Information Engineering Technology faculty, the project to step-by-step develop the IT program based on SIGITE's most current guidelines fell onto three such faculty members. The project also coincides with the University of CINCINNATI Collegiate Restructuring Initiative, mandated by the Provost. During the past 12 months, a comprehensive plan containing specific \u2026",
+            "Enroute to making an IT baccalaureate program",
+            "Soleda Leung and Hazem Said and Mark Stockman",
+            "2004",
+            "hg5qU_4AAAAJ:2osOgNQ5qMEC",
+            10,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/1029533.1029597",
+            "13541751093935900342",
+            "\/scholar?cites=13541751093935900342",
+            {
+                "2004":4,
+                "2005":1,
+                "2006":1,
+                "2007":1,
+                "2008":1,
+                "2009":1,
+                "2010":1
+            }
+        ],
+        [
+            "Cybersecurity, while definitively categorized as a sub-discipline of computing, is widely considered multidisciplinary in nature. This paper documents two attempts to adopt non-computing ideas and approaches in undergraduate cybersecurity courses for information technology majors. Specifically, the author uses the social sciences (criminal justice and political science) to elicit a deeper understanding of cybersecurity problems and to present interdisciplinary methodological approaches to students who, in their careers, will be tasked with defending against cyberthreats.",
+            "Infusing social science into cybersecurity education",
+            "Mark Stockman",
+            "2013",
+            "hg5qU_4AAAAJ:WF5omc3nYNoC",
+            9,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/2512276.2512302",
+            "17744409425301275736",
+            "\/scholar?cites=17744409425301275736",
+            {
+                "2014":2,
+                "2015":2,
+                "2016":3,
+                "2017":2
+            }
+        ],
+        [
+            "Desktop as a Service is an idea that has taken root in enterprises today, but has not reached consumers. In order to show this, a proof of concept lab was constructed. The proof of concept lab that the authors devised shows that this idea is viable. The lab uses a virtual desktop infrastructure environment. The environment uses VMWare's View solution on top of their hypervisor and virtualization management server. These solutions provide the backbone of the environment that is used to access desktops from mobile devices anywhere and anytime. The desktops provided are persistent which allows users to keep their settings and data in a single location.",
+            "Desktop as a service proof of concept",
+            "Andrew Eaves and Mark Stockman",
+            "2012",
+            "hg5qU_4AAAAJ:MXK_kJrjxJIC",
+            8,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/2380552.2380577",
+            "17599460584853895338",
+            "\/scholar?cites=17599460584853895338",
+            {
+                "2014":2,
+                "2015":1,
+                "2016":1,
+                "2017":3,
+                "2018":1
+            }
+        ],
+        [
+            "The system administration lab at the University of Cincinnati consists of 24 high-end desktop PCs, each loaded with client virtualization software. The lab is limited to 24 students per class and does not offer remote access to the virtual machines. The students must either wait for open lab hours or purchase their own high-end systems to work on their schoolwork. To expand the number of classes taught and enable remote access to the lab, the authors created a Microsoft-based private cloud accessible from any computer on the university's network. VPN entry to the network allows students to login to the system using a web browser to access their VM's from anywhere in the world.",
+            "Building a cloud based systems lab",
+            "Joey Alexander and Aaron Dick and Jonathan Hacker and Damen Hicks and Mark Stockman",
+            "2012",
+            "hg5qU_4AAAAJ:0EnyYjriUFMC",
+            8,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/2380552.2380598",
+            "14753172189080541056",
+            "\/scholar?cites=14753172189080541056",
+            {
+                "2014":2,
+                "2015":1,
+                "2016":1,
+                "2017":2,
+                "2018":2
+            }
+        ]
+    ]
+}

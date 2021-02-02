@@ -1,0 +1,222 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "The Aubry-Andr\u00e9 or Harper (AAH) model has been the subject of extensive theoretical research in the context of quantum localization. Recently, it was shown that one-dimensional quasicrystals described by the incommensurate AAH model has a nontrivial topology. In this Letter, we show that the commensurate off-diagonal AAH model is topologically nontrivial in the gapless regime and supports zero-energy edge modes. Unlike the incommensurate case, the nontrivial topology in the off-diagonal AAH model is attributed to the topological properties of the one-dimensional Majorana chain. We discuss the feasibility of experimental observability of our predicted topological phase in the commensurate AAH model.",
+            "Topological zero-energy modes in gapless commensurate Aubry-Andr\u00e9-Harper models",
+            "Sriram Ganeshan and Kai Sun and S Das Sarma",
+            "2013",
+            "-mSdGgwAAAAJ:6_hjMsCP8ZoC",
+            185,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.110.180403",
+            "16828781358535422886",
+            "\/scholar?cites=16828781358535422886",
+            {
+                "2013":5,
+                "2014":12,
+                "2015":23,
+                "2016":30,
+                "2017":27,
+                "2018":22,
+                "2019":30,
+                "2020":31,
+                "2021":5
+            }
+        ],
+        [
+            "It was proposed recently that the out-of-time-ordered four-point correlator (OTOC) may serve as a useful characteristic of quantum-chaotic behavior, because, in the semiclassical limit \u210f\u2192 0, its rate of exponential growth resembles the classical Lyapunov exponent. Here, we calculate the four-point correlator C (t) for the classical and quantum kicked rotor\u2014a textbook driven chaotic system\u2014and compare its growth rate at initial times with the standard definition of the classical Lyapunov exponent. Using both quantum and classical arguments, we show that the OTOC\u2019s growth rate and the Lyapunov exponent are, in general, distinct quantities, corresponding to the logarithm of the phase-space averaged divergence rate of classical trajectories and to the phase-space average of the logarithm, respectively. The difference appears to be more pronounced in the regime of low kicking strength K, where no classical chaos \u2026",
+            "Lyapunov exponent and out-of-time-ordered correlator\u2019s growth rate in a chaotic system",
+            "Efim B Rozenbaum and Sriram Ganeshan and Victor Galitski",
+            "2017",
+            "-mSdGgwAAAAJ:FiytvqdAVhgC",
+            163,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.118.086801",
+            "11609791949679000382",
+            "\/scholar?cites=11609791949679000382",
+            {
+                "2017":7,
+                "2018":35,
+                "2019":60,
+                "2020":56,
+                "2021":5
+            }
+        ],
+        [
+            "We investigate many-body localization in the presence of a single-particle mobility edge. By considering an interacting deterministic model with an incommensurate potential in one dimension we find that the single-particle mobility edge in the noninteracting system leads to a many-body mobility edge in the corresponding interacting system for certain parameter regimes. Using exact diagonalization, we probe the mobility edge via energy resolved entanglement entropy (EE) and study the energy resolved applicability (or failure) of the eigenstate thermalization hypothesis (ETH). Our numerical results indicate that the transition separating area and volume law scaling of the EE does not coincide with the nonthermal to thermal transition. Consequently, there exists an extended nonergodic phase for an intermediate energy window where the many-body eigenstates violate the ETH while manifesting volume law EE \u2026",
+            "Many-body localization and quantum nonergodicity in a model with a single-particle mobility edge",
+            "Xiaopeng Li and Sriram Ganeshan and JH Pixley and S Das Sarma",
+            "2015",
+            "-mSdGgwAAAAJ:7Hz3ACDFbsoC",
+            118,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.115.186601",
+            "8191118759454989304",
+            "\/scholar?cites=8191118759454989304",
+            {
+                "2015":3,
+                "2016":13,
+                "2017":32,
+                "2018":19,
+                "2019":19,
+                "2020":28,
+                "2021":3
+            }
+        ],
+        [
+            "A hallmark feature of topological physics is the presence of one-way propagating chiral modes at the system boundary 1, 2. The chirality of edge modes is a consequence of the topological character of the bulk. For example, in a non-interacting quantum Hall model, edge modes manifest as mid-gap states between two topologically distinct bulk bands. The bulk\u2013boundary correspondence dictates that the number of chiral edge modes, a topological invariant called the winding number, is completely determined by the bulk topological invariant, the Chern number 3. Here, for the first time, we measure the winding number in a 2D photonic system. By inserting a unit flux quantum at the edge, we show that the edge spectrum resonances shift by the winding number. This experiment provides a new approach for unambiguous measurement of topological invariants, independent of the microscopic details, and could \u2026",
+            "Measurement of topological invariants in a 2D photonic system",
+            "Sunil Mittal and Sriram Ganeshan and Jingyun Fan and Abolhassan Vaezi and Mohammad Hafezi",
+            "2016",
+            "-mSdGgwAAAAJ:kVjdVfd2voEC",
+            114,
+            "https:\/\/www.nature.com\/nphoton\/journal\/v10\/n3\/abs\/nphoton.2016.10.html",
+            "4059839057123229950",
+            "\/scholar?cites=4059839057123229950",
+            {
+                "2016":18,
+                "2017":19,
+                "2018":24,
+                "2019":25,
+                "2020":27
+            }
+        ],
+        [
+            "We investigate localization properties in a family of deterministic (ie, no disorder) nearest neighbor tight binding models with quasiperiodic on site modulation. We prove that this family is self-dual under a generalized duality transformation. The self-dual condition for this general model turns out to be a simple closed form function of the model parameters and energy. We introduce the typical density of states as an order parameter for localization in quasiperiodic systems. By direct calculations of the inverse participation ratio and the typical density of states we numerically verify that this self-dual line indeed defines a mobility edge in energy separating localized and extended states. Our model is a first example of a nearest neighbor tight binding model manifesting a mobility edge protected by a duality symmetry. We propose a realistic experimental scheme to realize our results in atomic optical lattices and photonic \u2026",
+            "Nearest neighbor tight binding models with an exact mobility edge in one dimension",
+            "Sriram Ganeshan and JH Pixley and S Das Sarma",
+            "2015",
+            "-mSdGgwAAAAJ:CaZNVDsoPx4C",
+            113,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.114.146601",
+            "3185132685303019248",
+            "\/scholar?cites=3185132685303019248",
+            {
+                "2015":5,
+                "2016":7,
+                "2017":20,
+                "2018":15,
+                "2019":23,
+                "2020":38,
+                "2021":5
+            }
+        ],
+        [
+            "Topological semimetals in three-dimensions (eg, a Weyl semimetal) can be built by stacking two-dimensional topological phases. The interesting aspect of such a construction is that even though the topological building blocks in the low dimension may be gapped, the higher dimensional semimetallic phase emerges as a gapless critical point of a topological phase transition between two distinct insulating phases. In this work, we extend this idea by constructing three-dimensional topological semimetallic phases akin to Weyl systems by stacking one-dimensional Aubry-Andre-Harper (AAH) lattice tight-binding models with nontrivial topology. The generalized AAH model is a family of one-dimensional tight-binding models with cosine modulations in both hopping and on-site energy terms. In this paper, we present a two-parameter generalization of the AAH model that can access topological phases in three \u2026",
+            "Constructing a Weyl semimetal by stacking one-dimensional topological phases",
+            "Sriram Ganeshan and S Das Sarma",
+            "2015",
+            "-mSdGgwAAAAJ:wMgC3FpKEyYC",
+            57,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.91.125438",
+            "16997446477024483181",
+            "\/scholar?cites=16997446477024483181",
+            {
+                "2015":8,
+                "2016":20,
+                "2017":6,
+                "2018":8,
+                "2019":8,
+                "2020":6
+            }
+        ],
+        [
+            "We study the many-body localization aspects of single-particle mobility edges in fermionic systems. We investigate incommensurate lattices and random disorder Anderson models. Many-body localization and quantum nonergodic properties are studied by comparing entanglement and thermal entropy, and by calculating the scaling of subsystem particle-number fluctuations, respectively. We establish a nonergodic extended phase as a generic intermediate phase (between purely ergodic extended and nonergodic localized phases) for the many-body localization transition of noninteracting fermions where the entanglement entropy manifests a volume law (hence,\u201cextended\u201d), but there are large fluctuations in the subsystem particle numbers (hence,\u201cnonergodic\u201d). Based on the numerical results, we expect such an intermediate phase scenario may continue to hold even for the many-body localization in the \u2026",
+            "Quantum nonergodicity and fermion localization in a system with a single-particle mobility edge",
+            "Xiaopeng Li and JH Pixley and Dong-Ling Deng and Sriram Ganeshan and S Das Sarma",
+            "2016",
+            "-mSdGgwAAAAJ:U4n9YNQMCAIC",
+            54,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.93.184204",
+            "9551270235183887679",
+            "\/scholar?cites=9551270235183887679",
+            {
+                "2016":5,
+                "2017":13,
+                "2018":12,
+                "2019":10,
+                "2020":11,
+                "2021":3
+            }
+        ],
+        [
+            "The out-of-time-ordered correlator has been proposed as an indicator of chaos in quantum systems due to its simple interpretation in the semiclassical limit. In particular, its rate of possible exponential growth at \u210f\u2192 0 is closely related to the classical Lyapunov exponent. Here we explore how this approach to quantum chaos relates to the random-matrix theoretical description. To do so, we introduce and study the level statistics of the logarithm of the out-of-time-ordered operator, \u039b \u0302 (t)= ln\u2212 x \u0302 (t), p \u0302 x (0) 2\/(2 t), that we dub the \u201cLyapunovian\u201d or \u201cLyapunov operator\u201d for brevity. The Lyapunovian's level statistics is calculated explicitly for the quantum stadium billiard. It is shown that in the bulk of the filtered spectrum, this statistics perfectly aligns with the Wigner-Dyson distribution. One of the advantages of looking at the spectral statistics of this operator is that it has a well-defined semiclassical limit where it reduces to \u2026",
+            "Universal level statistics of the out-of-time-ordered operator",
+            "Efim B Rozenbaum and Sriram Ganeshan and Victor Galitski",
+            "2019",
+            "-mSdGgwAAAAJ:1yWc8FF-_SYC",
+            52,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.100.035112",
+            "10991277363037280373",
+            "\/scholar?cites=10991277363037280373",
+            {
+                "2018":3,
+                "2019":19,
+                "2020":28,
+                "2021":2
+            }
+        ],
+        [
+            "The hydrogen bond interaction between water molecules adsorbed on a Pd <111> surface, a nucleator of two dimensional ordered water arrays at low temperatures, is studied using density functional theory calculations. The role of the exchange and correlation density functional in the characterization of both the hydrogen bond and the water\u2013metal interaction is analyzed in detail. The effect of non local correlations using the van der Waals density functional proposed by Dion et al. [M. Dion, H. Rydberg, E. Schr\u00f6der, D. C. Langreth and B. I. Lundqvist, Phys. Rev. Lett., 2004, 92, 246401] is also studied. We conclude that the choice of this potential is critical in determining the cohesive energy of water\u2013metal complexes. We show that the interaction between water molecules and the metal surface is as sensitive to the density functional choice as hydrogen bonds between water molecules are. The reason for this is that \u2026",
+            "The role of hydrogen bonding in water\u2013metal interactions",
+            "Adrien Poissier and Sriram Ganeshan and MV Fernandez-Serra",
+            "2011",
+            "-mSdGgwAAAAJ:u-x6o8ySG0sC",
+            33,
+            "https:\/\/pubs.rsc.org\/en\/content\/articlehtml\/2011\/cp\/c0cp00994f",
+            "2224086309715667397",
+            "\/scholar?cites=2224086309715667397",
+            {
+                "2011":5,
+                "2012":8,
+                "2013":3,
+                "2014":4,
+                "2015":3,
+                "2016":4,
+                "2017":2,
+                "2018":2,
+                "2019":1,
+                "2020":1
+            }
+        ],
+        [
+            "In this work, we present observable consequences of a parity-violating odd-viscosity term in incompressible 2+ 1D hydrodynamics. For boundary conditions depending on the velocity field (flow) alone we show that (i) the fluid flow quantified by the velocity field is independent of odd viscosity,(ii) the force acting on a closed contour is independent of odd viscosity, and (iii) the odd-viscosity part of torque on a closed contour is proportional to the rate of change of area enclosed by the contour with the proportionality constant being twice the odd viscosity. The last statement allows us to define a measurement protocol of odd viscostance in analogy to Hall resistance measurements. We also consider no-stress boundary conditions that explicitly depend on odd viscosity. A classic hydrodynamics problem with no-stress boundary conditions is that of a bubble in a planar Stokes flow. We solve this problem exactly for shear \u2026",
+            "Odd viscosity in two-dimensional incompressible fluids",
+            "Sriram Ganeshan and Alexander G Abanov",
+            "2017",
+            "-mSdGgwAAAAJ:1taIhTC69MYC",
+            31,
+            "https:\/\/journals.aps.org\/prfluids\/abstract\/10.1103\/PhysRevFluids.2.094101",
+            "91727706451206988",
+            "\/scholar?cites=91727706451206988",
+            {
+                "2017":2,
+                "2018":2,
+                "2019":8,
+                "2020":18,
+                "2021":1
+            }
+        ]
+    ]
+}

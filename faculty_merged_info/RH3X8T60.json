@@ -1,0 +1,45 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "RH3X8T60",
+            "YRmBp_QAAAAJ",
+            [
+                "Tunneling electroresistance effect in ferroelectric tunnel junctions at the nanoscale",
+                "Ferroelastic switching for nanoscale non-volatile magnetoelectric devices",
+                "Giant piezoelectricity on Si for hyperactive MEMS",
+                "Synthesis and ferroelectric properties of epitaxial  thin films grown by sputtering",
+                "Tailoring a two-dimensional electron gas at the LaAlO3\/SrTiO3 (001) interface by epitaxial strain",
+                "Strain-Induced Polarization Rotation in Epitaxial (001)  Thin Films",
+                "Metallic and insulating oxide interfaces controlled by electronic correlations",
+                "Fractional giant Shapiro steps and spatially correlated phase motion in 2D Josephson arrays",
+                "Polar metals by geometric design"
+            ],
+            [
+                "Using a set of scanning probe microscopy techniques, we demonstrate the reproducible tunneling electroresistance effect on nanometer-thick epitaxial BaTiO3 single-crystalline thin films on SrRuO3 bottom electrodes. Correlation between ferroelectric and electronic transport properties is established by direct nanoscale visualization and control of polarization and tunneling current. The obtained results show a change in resistance by about 2 orders of magnitude upon polarization reversal on a lateral scale of 20 nm at room temperature. These results are promising for employing ferroelectric tunnel junctions in nonvolatile memory and logic devices.",
+                "Multiferroics, where (anti-) ferromagnetic, ferroelectric and ferroelastic order parameters coexist 1, 2, 3, 4, 5, enable manipulation of magnetic ordering by an electric field through switching of the electric polarization 6, 7, 8, 9. It has been shown that realization of magnetoelectric coupling in a single-phase multiferroic such as BiFeO 3 requires ferroelastic (71\u2218, 109\u2218) rather than ferroelectric (180\u2218) domain switching 6. However, the control of such ferroelastic switching in a single-phase system has been a significant challenge as elastic interactions tend to destabilize small switched volumes, resulting in subsequent ferroelastic back-switching at zero electric field, and thus the disappearance of non-volatile information storage 10, 11. Guided by our phase-field simulations, here we report an approach to stabilize ferroelastic switching by eliminating the stress-induced instability responsible for back-switching using \u2026",
+                "Microelectromechanical systems (MEMS) incorporating active piezoelectric layers offer integrated actuation, sensing, and transduction. The broad implementation of such active MEMS has long been constrained by the inability to integrate materials with giant piezoelectric response, such as Pb(Mg1\/3Nb2\/3)O3-PbTiO3 (PMN-PT). We synthesized high-quality PMN-PT epitaxial thin films on vicinal (001) Si wafers with the use of an epitaxial (001) SrTiO3 template layer with superior piezoelectric coefficients (e31,f = \u201327 \u00b1 3 coulombs per square meter) and figures of merit for piezoelectric energy-harvesting systems. We have incorporated these heterostructures into microcantilevers that are actuated with extremely low drive voltage due to thin-film piezoelectric properties that rival bulk PMN-PT single crystals. These epitaxial heterostructures exhibit very large electromechanical coupling for ultrasound medical imaging \u2026",
+                "We have grown epitaxial BiFeO3 thin films with smooth surfaces on (001), (101), and (111) SrTiO3 substrates using sputtering. Four-circle x-ray diffraction and cross-sectional transmission electron microscopy show that the BiFeO3 thin films have rhombohedral symmetry although small monoclinic distortions have not been ruled out. Stripe ferroelectric domains oriented perpendicular to the substrate miscut direction and free of impurity phase are observed in BiFeO3 on high miscut (4\u00b0) (001) SrTiO3, which attributes to a relatively high value of remanent polarization (\u223c71\u03bcC\u2215cm2). Films grown on low miscut (0.8\u00b0) SrTiO3 have a small amount of impure phase \u03b1-Fe2O3 which contributes to lower the polarization values (\u223c63\u03bcC\u2215cm2). The BiFeO3 films grown on (101) and (111) SrTiO3 exhibited remanent polarizations of 86 and 98\u03bcC\u2215cm2, respectively.",
+                "Recently a metallic state was discovered at the interface between insulating oxides, most notably LaAlO3 and SrTiO3. Properties of this two-dimensional electron gas (2DEG) have attracted significant interest due to its potential applications in nanoelectronics. Control over this carrier density and mobility of the 2DEG is essential for applications of these unique systems, and may be achieved by epitaxial strain. However, despite the rich nature of strain effects on oxide materials properties, such as ferroelectricity, magnetism, and superconductivity, the relationship between the strain and electrical properties of the 2DEG at the LaAlO3\/SrTiO3 heterointerface remains largely unexplored. Here, we use different lattice constant single-crystal substrates to produce LaAlO3\/SrTiO3 interfaces with controlled levels of biaxial epitaxial strain. We have found that tensile-strained SrTiO3 destroys the conducting 2DEG, while \u2026",
+                "Direct measurement of the remanent polarization of high quality (001)-oriented epitaxial BiFeO 3 thin films shows a strong strain dependence, even larger than conventional (001)-oriented PbTiO 3 films. Thermodynamic analysis reveals that a strain-induced polarization rotation mechanism is responsible for the large change in the out-of-plane polarization of (001) BiFeO 3 with biaxial strain while the spontaneous polarization itself remains almost constant.",
+                "The formation of two-dimensional electron gases (2DEGs) at complex oxide interfaces is directly influenced by the oxide electronic properties. We investigated how local electron correlations control the 2DEG by inserting a single atomic layer of a rare-earth oxide (RO) [(R is lanthanum (La), praseodymium (Pr), neodymium (Nd), samarium (Sm), or yttrium (Y)] into an epitaxial strontium titanate oxide (SrTiO3) matrix using pulsed-laser deposition with atomic layer control. We find that structures with La, Pr, and Nd ions result in conducting 2DEGs at the inserted layer, whereas the structures with Sm or Y ions are insulating. Our local spectroscopic and theoretical results indicate that the interfacial conductivity is dependent on electronic correlations that decay spatially into the SrTiO3 matrix. Such correlation effects can lead to new functionalities in designed heterostructures.",
+                "We have applied radio-frequency signals to 1000 by 1000 arrays of Josephson junctions and observed giant Shapiro steps at voltages 1000 times that expected for a single junction. When a perpendicular magnetic field is applied, fractional giant steps appear at voltages directly related to the number of flux quanta per unit cell. A phenomenological model is proposed that utilizes the spatial arrangement of the vortices in a superlattice relative to the underlying array to explain these novel steps.",
+                "Gauss\u2019s law dictates that the net electric field inside a conductor in electrostatic equilibrium is zero by effective charge screening; free carriers within a metal eliminate internal dipoles that may arise owing to asymmetric charge distributions 1. Quantum physics supports this view 2, demonstrating that delocalized electrons make a static macroscopic polarization, an ill-defined quantity in metals 3\u2014it is exceedingly unusual to find a polar metal that exhibits long-range ordered dipoles owing to cooperative atomic displacements aligned from dipolar interactions as in insulating phases 4. Here we describe the quantum mechanical design and experimental realization of room-temperature polar metals in thin-film ANiO 3 perovskite nickelates using a strategy based on atomic-scale control of inversion-preserving (centric) displacements 5. We predict with ab initio calculations that cooperative polar A cation displacements \u2026"
+            ],
+            [
+                [
+                    "Condensed matter physics"
+                ]
+            ]
+        ]
+    ]
+}

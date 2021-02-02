@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "G8I6ZNRB",
+            "SirKcyMAAAAJ",
+            [
+                "Introductory quantum optics",
+                "Quantifying entanglement",
+                "Squeezed light",
+                "The jaynes-cummings model",
+                "The quantum-jump approach to dissipative dynamics in quantum optics",
+                "Atomic physics with super-high intensity lasers",
+                "Multiparticle generalization of entanglement swapping",
+                "Fluctuations and entropy in models of quantum optical resonance",
+                "Cavity-loss-induced generation of entangled atoms",
+                "Entanglement by a beam splitter: Nonclassicality as a prerequisite for entanglement"
+            ],
+            [
+                "This book provides an elementary introduction to the subject of quantum optics, the study of the quantum mechanical nature of light and its interaction with matter. The presentation is almost entirely concerned with the quantized electromagnetic field. Topics covered include single-mode field quantization in a cavity, quantization of multimode fields, quantum phase, coherent states, quasi-probability distribution in phase space, atom-field interactions, the Jaynes-Cummings model, quantum coherence theory, beam splitters and interferometers, dissipative interactions, nonclassical field states with squeezing etc.,'Schr\u00f6dinger cat'states, tests of local realism with entangled photons from down-conversion, experimental realizations of cavity quantum electrodynamics, trapped ions, decoherence, and some applications to quantum information processing, particularly quantum cryptography. The book contains many homework problems and an extensive bibliography. This text is designed for upper-level undergraduates taking courses in quantum optics who have already taken a course in quantum mechanics, and for first and second year graduate students.",
+                "We present conditions every measure of entanglement has to satisfy, and construct a whole class of \u201cgood\u201d entanglement measures. The generalization of our class of entanglement measures to more than two particles is straightforward. We present a measure which has a statistical operational basis that might enable experimental determination of the quantitative degree of entanglement.",
+                "In this paper we review the current state of progress in research on squeezed light. We discuss the basic theory of squeezing and the nature of quantum noise in optical fields. We examine various atomic sources of squeezed light and discuss phase-sensitive detectors of quantum noise including homodyne and heterodyne detectors. Various successful nonlinear optical methods for generating squeezed light are reviewed. We conclude with a discussion of the possible applications of squeezed light.",
+                "The Jaynes-Cummings model (JCM), a soluble fully quantum mechanical model of an atom in a field, was first used (in 1963) to examine the classical aspects of spontaneous emission and to reveal the existence of Rabi oscillations in atomic excitation probabilities for fields with sharply defined energy (or photon number). For fields having a statistical distributions of photon numbers the oscillations collapse to an expected steady value. In 1980 it was discovered that with appropriate initial conditions (e.g. a near-classical field), the Rabi oscillations would eventually revive, only to collapse and revive repeatedly in a complicated pattern. The existence of these revivals, present in the analytic solutions of the JCM, provided direct evidence for discreteness of field excitation (photons) and hence for the truly quantum nature of radiation. Subsequent study revealed further non-classical properties of the JCM field, such as a \u2026",
+                "Dissipation, the irreversible loss of energy and coherence, from a microsystem is the result of coupling to a much larger macrosystem (or reservoir) that is so large that one has no chance of keeping track of all of its degrees of freedom. The microsystem evolution is then described by tracing over the reservoir states, which results in an irreversible decay as excitation leaks out of the initially excited microsystems into the outer reservoir environment. Earlier treatments of this dissipation used density matrices to describe an ensemble of microsystems, either in the Schr\u00f6dinger picture with master equations, or in the Heisenberg picture with Langevin equations. The development of experimental techniques to study single quantum systems (for example, single trapped ions, or cavity-radiation-field modes) has stimulated the construction of theoretical methods to describe individual realizations conditioned on a particular \u2026",
+                "We review the phenonomena which occur in multiphoton physics when the electric field of the applied laser radiation becomes comparable with the Coulomb field strength seen by an electron in the ground state of atomic hydrogen. This field is reached at an irradiance of approximately. The normal perturbative photon-by-photon based picture of the interaction of individual electrons with the field is replaced by a tunnelling picture in which, in a time of the order of, or less than one optical cycle, atomic wavepackets are generated which escape the confining Coulomb potential. These wavepackets are strongly influenced by the laser,quiver'and may be accelerated back to the parent ion in a recollision process. Phase-coherent effects locked to the laser field become important: high harmonics are generated from these recollisions. We discuss the theory of such effects, and review progress in understanding how this \u2026",
+                "We generalize the procedure of entanglement swapping to obtain a scheme for manipulating entanglement in multiparticle systems. We describe how this scheme allows one to establish multiparticle entanglement between particles belonging to distant users in a communication network through a prior distribution of singlets followed by only local measurements. We show that this scheme can be regarded as a method of generating entangled states of many particles and compare it with existing schemes using simple quantum computational networks. We highlight the practical advantages of using a series of entanglement swappings during the distribution of entangled particles between two parties. Applications of multiparticle entangled states in cryptographic conferencing and in reading messages from more than one source through a single measurement are also described.",
+                "We use variances, entropy, and the Shannon entropy to analyse the fluctuations and quantum evolution of various simple models of quantum optical resonance. We discuss at length the properties of the single-mode radiation field coupled to a single two-level atom, and then extend our analysis to describe the micromaser in which a cavity mode is repeatedly pumped by a succession of atoms passing through the cavity. We also discuss the fluctuations in the single-mode laser theory of Scully and Lamb.",
+                "We discuss the generation of entangled states of two two-level atoms inside an optical resonator. When the cavity decay is continuously monitored, the absence of photon counts is associated with the presence of an atomic entangled state. In addition to being conceptually simple, this scheme can be demonstrated with presently available technology. We describe how such a state is generated through conditional dynamics, using quantum jump methods, including both cavity damping and spontaneous emission decay, and evaluate the fidelity and relative entropy of entanglement of the generated state compared with the target entangled state.",
+                "A beam splitter is a simple, readily available device which can act to entangle output optical fields. We show that a necessary condition for the fields at the output of the beam splitter to be entangled is that the pure input states exhibit nonclassical behavior. We generalize this proof for arbitrary (pure or impure) Gaussian input states. Specifically, nonclassicality of the input Gaussian fields is a necessary condition for entanglement of the field modes with the help of a beam splitter. We conjecture that this is a general property of beam splitters: Nonclassicality of the inputs is a necessary condition for entangling fields in a beam splitter."
+            ],
+            [
+                [
+                    "Physics"
+                ]
+            ]
+        ]
+    ]
+}

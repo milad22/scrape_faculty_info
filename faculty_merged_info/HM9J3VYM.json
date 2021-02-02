@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "HM9J3VYM",
+            "R1cfTCoAAAAJ",
+            [
+                "Highly parallel genome-wide expression profiling of individual cells using nanoliter droplets",
+                "Colloidosomes: selectively permeable capsules composed of colloidal particles",
+                "Monodisperse double emulsions generated from a microcapillary device",
+                "Three-dimensional direct imaging of structural relaxation near the colloidal glass transition",
+                "Droplet barcoding for single-cell transcriptomics applied to embryonic stem cells",
+                "Optical measurements of frequency-dependent linear viscoelastic moduli of complex fluids",
+                "Geometrically mediated breakup of drops in microfluidic devices",
+                "Novel colloidal interactions in anisotropic fluids",
+                "Elastic behavior of cross-linked and bundled actin networks",
+                "Diffusing wave spectroscopy"
+            ],
+            [
+                "Cells, the basic units of biological structure and function, vary broadly in type and state. Single-cell genomics can characterize cell identity and function, but limitations of ease and scale have prevented its broad application. Here we describe Drop-seq, a strategy for quickly profiling thousands of individual cells by separating them into nanoliter-sized aqueous droplets, associating a different barcode with each cell\u2019s RNAs, and sequencing them all together. Drop-seq analyzes mRNA transcripts from thousands of individual cells simultaneously while remembering transcripts\u2019 cell of origin. We analyzed transcriptomes from 44,808 mouse retinal cells and identified 39 transcriptionally distinct cell populations, creating a molecular atlas of gene expression for known retinal cell classes and novel candidate cell subtypes. Drop-seq will accelerate biological discovery by enabling routine transcriptional profiling at single-cell \u2026",
+                "We present an approach to fabricate solid capsules with precise control of size, permeability, mechanical strength, and compatibility. The capsules are fabricated by the self-assembly of colloidal particles onto the interface of emulsion droplets. After the particles are locked together to form elastic shells, the emulsion droplets are transferred to a fresh continuous-phase fluid that is the same as that inside the droplets. The resultant structures, which we call \u201ccolloidosomes,\u201d are hollow, elastic shells whose permeability and elasticity can be precisely controlled. The generality and robustness of these structures and their potential for cellular immunoisolation are demonstrated by the use of a variety of solvents, particles, and contents.",
+                "Double emulsions are highly structured fluids consisting of emulsion drops that contain smaller droplets inside. Although double emulsions are potentially of commercial value, traditional fabrication by means of two emulsification steps leads to very ill-controlled structuring. Using a microcapillary device, we fabricated double emulsions that contained a single internal droplet in a core-shell geometry. We show that the droplet size can be quantitatively predicted from the flow profiles of the fluids. The double emulsions were used to generate encapsulation structures by manipulating the properties of the fluid that makes up the shell. The high degree of control afforded by this method and the completely separate fluid streams make this a flexible and promising technique.",
+                "Confocal microscopy was used to directly observe three-dimensional dynamics of particles in colloidal supercooled fluids and colloidal glasses. The fastest particles moved cooperatively; connected clusters of these mobile particles could be identified; and the cluster size distribution, structure, and dynamics were investigated. The characteristic cluster size grew markedly in the supercooled fluid as the glass transition was approached, in agreement with computer simulations; at the glass transition, however, there was a sudden drop in their size. The clusters of fast-moving particles were largest near the \u03b1-relaxation time scale for supercooled colloidal fluids, but were also present, albeit with a markedly different nature, at shorter \u03b2-relaxation time scales, in both supercooled fluid and glass colloidal phases.",
+                "It has long been the dream of biologists to map gene expression at the single-cell level. With such data one might track heterogeneous cell sub-populations, and infer regulatory relationships between genes and pathways. Recently, RNA sequencing has achieved single-cell resolution. What is limiting is an effective way to routinely isolate and process large numbers of individual cells for quantitative in-depth sequencing. We have developed a high-throughput droplet-microfluidic approach for barcoding the RNA from thousands of individual cells for subsequent analysis by next-generation sequencing. The method shows a surprisingly low noise profile and is readily adaptable to other sequencing-based assays. We analyzed mouse embryonic stem cells, revealing in detail the population structure and the heterogeneous onset of differentiation after leukemia inhibitory factor (LIF) withdrawal. The reproducibility of \u2026",
+                "We present a novel experimental method to measure linear viscoelastic moduli of complex fluids using dynamic light scattering. A generalized Langevin equation is used to relate the mean square displacement of a probe particle to the storage and loss moduli of the bulk complex fluid. We confirm the experimental validity of this technique by comparing the light scattering results with mechanical measurements for several complex fluids. This method probes the moduli over a greatly extended frequency range and provides significant new insight into the elastic susceptibility of complex fluids.",
+                "Microfluidic technology offers capabilities for the precise handling of small fluid volumes dispersed as droplets. To fully exploit this potential requires simultaneous generation of multiple size droplets. We demonstrate two methods for passively breaking larger drops into precisely controlled daughter drops using pressure-driven flow in simple microfluidic configurations:(i) a T junction and (ii) flow past isolated obstacles. We quantify conditions for breakup at a T junction and illustrate sequential breakup at T junctions for making small drops at high dispersed phase volume fractions.",
+                "Small water droplets dispersed in a nematic liquid crystal exhibit a novel class of colloidal interactions, arising from the orientational elastic energy of the anisotropic host fluid. These interactions include a short-range repulsion and a long-range dipolar attraction, and they lead to the formation of anisotropic chainlike structures by the colloidal particles. The repulsive interaction can lead to novel mechanisms for colloid stabilization.",
+                "Networks of cross-linked and bundled actin filaments are ubiquitous in the cellular cytoskeleton, but their elasticity remains poorly understood. We show that these networks exhibit exceptional elastic behavior that reflects the mechanical properties of individual filaments. There are two distinct regimes of elasticity, one reflectingbendingof single filaments and a second reflectingstretchingof entropic fluctuations of filament length. The mechanical stiffness can vary by several decades with small changes in cross-link concentration, and can increase markedly upon application of external stress. We parameterize the full range of behavior in a state diagram and elucidate its origin with a robust model.",
+                "We obtain useful information from the intensity autocorrelations of light scattered from systems which exhibit strong multiple scattering. A phenomenological model, which exploits the diffusive nature of the transport of light, is shown to be in excellent agreement with experimental data for several different scattering geometries. The dependence on geometry provides an important experimental control over the time scale probed. We call this technique diffusing wave spectroscopy, and illustrate its utility by studying diffusion in a strongly interacting colloidal glass."
+            ],
+            [
+                [
+
+                ]
+            ]
+        ]
+    ]
+}

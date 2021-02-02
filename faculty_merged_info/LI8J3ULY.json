@@ -1,0 +1,42 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "LI8J3ULY",
+            "SwkdXvMAAAAJ",
+            [
+                "Experimental observation of chimeras in coupled-map lattices",
+                "Sensitive room-temperature terahertz detection via the photothermoelectric effect in graphene",
+                "Vector finite difference modesolver for anisotropic dielectric waveguides",
+                "Cluster synchronization and isolated desynchronization in complex networks with symmetries",
+                "Fabrication and characterization of narrow-band Bragg-reflection filters in silicon-on-insulator ridge waveguides",
+                "Porous silicon biosensor for detection of viruses"
+            ],
+            [
+                "Networks of nonlocally coupled phase oscillators 1 can support chimera states in which identical oscillators evolve into distinct groups that exhibit coexisting synchronous and incoherent behaviours despite homogeneous coupling 2, 3, 4, 5, 6. Similar nonlocal coupling topologies implemented in networks of chaotic iterated maps also yield dynamical states exhibiting coexisting spatial domains of coherence and incoherence 7, 8. In these discrete-time systems, the phase is not a continuous variable, so these states are generalized chimeras with respect to a broader notion of incoherence. Chimeras continue to be the subject of intense theoretical investigation, but have yet to be realized experimentally 6, 9, 10, 11, 12, 13, 14, 15, 16. Here we show that these chimeras can be realized in experiments using a liquid-crystal spatial light modulator to achieve optical nonlinearity in a spatially extended iterated map system \u2026",
+                "Terahertz radiation has uses in applications ranging from security to medicine 1. However, sensitive room-temperature detection of terahertz radiation is notoriously difficult 2. The hot-electron photothermoelectric effect in graphene is a promising detection mechanism; photoexcited carriers rapidly thermalize due to strong electron\u2013electron interactions 3, 4, but lose energy to the lattice more slowly 3, 5. The electron temperature gradient drives electron diffusion, and asymmetry due to local gating 6, 7 or dissimilar contact metals 8 produces a net current via the thermoelectric effect. Here, we demonstrate a graphene thermoelectric terahertz photodetector with sensitivity exceeding 10 V W\u20131 (700 V W\u20131) at room temperature and noise-equivalent power less than 1,100 pW Hz\u20131\/2 (20 pW Hz\u20131\/2), referenced to the incident (absorbed) power. This implies a performance that is competitive with the best room \u2026",
+                "We describe a new full-vector finite difference discretization, based upon the transverse magnetic field components, for calculating the electromagnetic modes of optical waveguides with transverse, nondiagonal anisotropy. Unlike earlier finite difference approaches, our method allows for the material axes to be arbitrarily oriented, as long as one of the principal axes coincides with the direction of propagation. We demonstrate the capabilities of the method by computing the circularly-polarized modes of a magnetooptical waveguide and the modes of an off-axis poled anisotropic polymer waveguide.",
+                "Synchronization is of central importance in power distribution, telecommunication, neuronal and biological networks. Many networks are observed to produce patterns of synchronized clusters, but it has been difficult to predict these clusters or understand the conditions under which they form. Here we present a new framework and develop techniques for the analysis of network dynamics that shows the connection between network symmetries and cluster formation. The connection between symmetries and cluster synchronization is experimentally confirmed in the context of real networks with heterogeneities and noise using an electro-optic network. We experimentally observe and theoretically predict a surprising phenomenon in which some clusters lose synchrony without disturbing the others. Our analysis shows that such behaviour will occur in a wide variety of networks and node dynamics. The results could \u2026",
+                "We describe the design, fabrication and measurement of an integrated-optical Bragg grating filter, operating at a free-space wavelength of 1543 nm, based upon a silicon-on-insulator (SOI) ridge waveguide. The measured spectral response for a 4-mm long grating has a bandwidth of 15 GHz (0.12 nm), and shows good agreement with theoretical predictions.",
+                "There is a growing need for virus sensors with improved sensitivity and dynamic range, for applications including disease diagnosis, pharmaceutical research, agriculture and homeland security. We report here a new method for improving the sensitivity for detection of the bacteriophage virus MS2 using thin films of nanoporous silicon. Porous silicon is an easily fabricated material that has extremely high surface area to volume ratio, making it an ideal platform for surface based sensors. We have developed and evaluated two different methods for covalent bioconjugation of antibodies inside of porous silicon films, and we show that the pore penetration and binding efficiency depend on the wettability of the porous surface. The resulting films were used to selectively capture dye-labeled MS2 viruses from solution, and a viral concentration as low as 2\u00d7 1 0 7 plaque-forming units per mL (pfu\/mL) was detectable by \u2026"
+            ],
+            [
+                [
+                    "Nonlinear Optics",
+                    "Terahertz Photonics",
+                    "Nonlinear Dynamics",
+                    "Plasmonics"
+                ]
+            ]
+        ]
+    ]
+}

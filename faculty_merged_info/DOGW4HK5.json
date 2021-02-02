@@ -1,0 +1,31 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "DOGW4HK5",
+            "R8kUoEIAAAAJ",
+            [
+                "Improving small cell capacity with common-carrier full duplex radios"
+            ],
+            [
+                "Recent progress in establishing the capability of radios to operate in full duplex mode on a single channel has been attracting growing attention from many researchers. We extend this work by considering the application to small cells, in particular resource-managed cellular systems similar to the TDD variant of LTE. We derive conditions where full duplex operation provides improved throughput compared to half duplex for a single cell scenario. We present a hybrid scheduler that defaults to half duplex operation but can assign full duplex timeslots when it is advantageous to do so. We compare the performance of such a scheduler with a traditional half duplex scheduler in terms of throughput and energy efficiency. Our simulation results show that we achieve as much as 81% of the capacity doubling promised by full duplex, with limitations deriving from interference effects specific to full duplex operation."
+            ],
+            [
+                [
+                    "MIMO",
+                    "Multicarrier Modulation",
+                    "WiFi PHY layer technologies"
+                ]
+            ]
+        ]
+    ]
+}

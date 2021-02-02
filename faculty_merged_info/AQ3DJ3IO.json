@@ -1,0 +1,40 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "AQ3DJ3IO",
+            "j0o2-MMAAAAJ",
+            [
+                "Size invariant circle detection",
+                "Circle detection using Hough transform filters",
+                "Using phase to represent radius in the coherent circle Hough transform",
+                "4D volume rendering with the Shear Warp factorisation",
+                "Vertical and horizontal disparities from phase"
+            ],
+            [
+                "The Circle Hough Transform (CHT) has become a common method for circle detection in numerous image processing applications. Various modifications to the basic CHT operation have been suggested which include: the inclusion of edge orientation, simultaneous consideration of a range of circle radii, use of a complex accumulator array with the phase proportional to the log of radius, and the implementation of the CHT as filter operations. However, there has also been much work recently on the definition and use of invariance filters for object detection including circles. The contribution of the work presented here is to show that a specific combination of modifications to the CHT is formally equivalent to applying a scale invariant kernel operator. This work brings together these two themes in image processing which have herewith been quite separate. Performance results for applying various forms of CHT filters \u2026",
+                "A novel formulation of the circle Hough transform (CHT) is introduced which enables the detection of circles of different radii to be made using a single parameter space. We formulate the CHT as one or more convolution operations. Comparisons are made between conventional CHT techniques, formulated as filters, and a novel complex vector CHT. This technique exploits both edge orientation and distance from an edge point coded as complex phase. We present results that show that the novel phase and orientation CHT has a positional accuracy of ~\u00b12 pixels at good signal to noise ratios (SNR) down to ~-16 dB. Using orientation alone, the positional accuracy is poorer falling to ~\u00b110 pixels but at SNR levels of ~-25 dB.",
+                "Edge orientation is used to reduce the parameter space from three to two dimensions, and lines pointing away from edge points are plotted rather than circles. Intersections of these 'spokes' accumulate edge magnitude, or 'energy', near the centres of circles in the conventional energy CHT. The authors use a complex accumulator space and allow each spoke to vary in phase along its length. They present results for a circle with added noise for both the conventional energy CHT and the new coherent CHT. The results demonstrate that the technique reduces the mean and variance of the background level in the accumulator array, and the peak width.< >",
+                "A novel approach for rendering time-varying data based on the Shear-Warp factorisation is presented. Reduction in storage space is achieved by detecting the changed areas within each volume and compressing them. Time-coherence is exploited by detecting and rendering the changes in every volume while spatial-coherence is exploited by utilising a data structure that allows easy volume update and stores information about the empty space within each volume.",
+                "We apply the notion that phase differences can be used to interpret disparity between a pair of stereoscopic images. Indeed, phase relationships can also be used to obtain probabilistic measures both edges and corners, as well as the directional instantaneous frequency of an image field. The method of phase differences is shown to be equivalent to a Newton-Raphson root finding iteration through the resolutions of band-pass filtering. The method does, however, suffer from stability problems, and in particular stationary phase and aliasing. The stability problems associated with this technique are implicitly derived from the mechanism used to interpet disparity, which in general requires an assumption of linear phase and the local instantaneous frequency. We present two techniques. Firstly, we use the centre frequency of the applied band-pass filter to interpret disparity. This interpretation, however, suffers \u2026"
+            ],
+            [
+                [
+                    "AI",
+                    "Vision",
+                    "Imaging",
+                    "HPC"
+                ]
+            ]
+        ]
+    ]
+}

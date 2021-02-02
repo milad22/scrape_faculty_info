@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Z47QS5IP",
+            "vkcZho8AAAAJ",
+            [
+                "A finite element model of heat transport in the human eye",
+                "A numerical evaluation of sparse direct solvers for the solution of large sparse symmetric linear systems of equations",
+                "The factorization of sparse symmetric indefinite matrices",
+                "Sparse approximate-inverse preconditioners using norm-minimization techniques",
+                "The computation of temperature rises in the human eye induced by infrared radiation",
+                "Weakly singular discrete Gronwall inequalities",
+                "The design of a new frontal code for solving sparse, unsymmetric systems",
+                "HSL_MI20: an efficient AMG preconditioner for finite element problems in 3D",
+                "An evaluation of software for computing eigenvalues of sparse nonsymmetric matrices",
+                "Design of a multicore sparse Cholesky factorization using DAGs"
+            ],
+            [
+                "A mathematical model of the human eye based on the bioheat transfer equation is developed. The intraocular temperature distribution is calculated using the Galerkin finite element method. A difficulty associated with the development of an accurate model of the human eye is the lack of reliable biological data available on the constants and parameters that are used in the model. These parameters include the thermal conductivities of the ocular tissues, the heat loss from the anterior corneal surface to the surroundings by convection and evaporation, and the convective heat loss from the sclera to the body core. The different values for the parameters reported in the ophthalmic literature are employed in the model, and the sensitivity of the temperature distribution to uncertainties in the parameters is investigated. A set of control parameter values is suggested for the normal human eye. The effect of the ambient \u2026",
+                "In recent years a number of solvers for the direct solution of large sparse symmetric linear systems of equations have been developed. These include solvers that are designed for the solution of positive definite systems as well as those that are principally intended for solving indefinite problems. In this study, we use performance profiles as a tool for evaluating and comparing the performance of serial sparse direct solvers on an extensive set of symmetric test problems taken from a range of practical applications.",
+                "The Harwell multifrontal code MA27 is able to solve symmetric indefinite systems of linear equations such as those that arise from least-squares and constrained optimization algorithms, but may sometimes lead to many more arithmetic operations being needed to factorize the matrix than is required by other strategies. In this paper, we report on the results of our investigation of this problem. We have concentrated on seeking new strategies that preserve the multifrontal principle but follow the sparsity structure more closely in the case when some of the diagonal entries are zero.",
+                "We investigate the use of sparse approximate-inverse preconditioners for the iterative solution of unsymmetric linear systems of equations. We consider the approximations proposed by Cosgrove, Diaz, and Griewank [Internat. J. Comput. Math., 44 (1992), pp. 91--110] and Huckle and Grote [A New Approach to Parallel Preconditioning with Sparse Approximate Inverses, Tech. report SCCM-94-03, Stanford University, 1994] which are based on norm-minimization techniques. Such methods are of particular interest because of the considerable scope for parallelization. We propose a number of enhancements which may improve their performance. When run in a sequential environment, these methods can perform unfavorably when compared with other techniques. However, they can be successful when other methods fail and simulations indicate that they can be competitive when considered in a parallel environment.",
+                "Long-term industrial exposure to low levels of infrared radiation has for many years been associated with the development of cataracts; the injury mechanism is widely held to be thermal. A finite element model of the human eye is employed to calculate the temperature rises experienced by the intraocular media when exposed to infrared radiation. The model is used to calculate transient and steady-state temperature distributions for various exposure times and a range of incident irradiances. The effect of the eye's natural cooling mechanisms on the heating is investigated. Specific absorption rates in the infrared irradiated eye are presented. For a radiation source of 1500 degrees C, absorption of radiant energy by the iris and the lens combined with conduction of heat from the anterior regions is found to be responsible for increases in the lens temperature of 1-2 degrees C, but under extreme exposure conditions \u2026",
+                "Generalizations of the classical Gronwall inequality when the kernel of the associated integral equation is weakly singular are presented. The continuous and discrete versions are both given; the former is included since it suggests the latter by analogy. This work is motivated by convergence studies of discretization methods for Volterra integral and integro\u2010differential equations. The results are all given in a form designed to be of most use to numerical analysts.",
+                "We describe the design, implementation, and performance of a frontal code for the solution of large, sparse, unsymmetric systems of linear equations. The resulting software package, MA42, is included in Release 11 of the Harwell Subroutine Library and is intended to supersede the earlier MA32 package. We discuss in detail the extensive use of higher-level BLAS kernels within MA42 and illustrate the performance on a range of practical problems on a CRAY Y-MP, an IBM 3090, and an IBM RISC System\/6000. We examine extending the frontal solution scheme to use multiple fronts to allow MA42 to be run in parallel. We indicate some directions for future development.",
+                "Algebraic multigrid (AMG) is one of the most effective iterative methods for the solution of large, sparse linear systems obtained from the discretization of second-order scalar elliptic self-adjoint partial differential equations. It can also be used as a preconditioner for Krylov subspace methods. In this communication, we report on the design and development of a robust, effective and portable Fortran 95 implementation of the classical Ruge\u2013St\u00fcben AMG, which is available as package HSL _ MI20 within the HSL mathematical software library. The routine can be used as a \u2018black-box\u2019preconditioner, but it also offers the user a range of options and parameters. Proper tuning of these parameters for a particular application can significantly enhance the performance of an AMG-preconditioned Krylov solver. This is illustrated using a number of examples arising in the unstructured finite element discretization of the diffusion \u2026",
+                "The past few years have seen a signi cant increase in research into numerical methods for computing selected eigenvalues of large sparse nonsymmetric matrices. This research has begun to lead to the development of high-quality mathematical software. The software includes codes that implement subspace iteration methods, Arnoldi-based algorithms, and nonsymmetric Lanczos methods. The aim of the current study is to evaluate this state-of-the-art software. In this study we consider subspace iteration and Arnoldi codes. We look at the key features of the codes and their ease of use. Then, using a wide range of test problems, we compare the performance of the codes in terms of storage requirements, execution times, accuracy, and reliability. We also consider their suitability for solving large-scale industrial problems. Based on our ndings, we suggest how improved software should be designed.",
+                "The rapid emergence of multicore machines has led to the need to design new algorithms that are efficient on these architectures. Here, we consider the solution of sparse symmetric positive-definite linear systems by Cholesky factorization. We were motivated by the successful division of the computation in the dense case into tasks on blocks and use of a task manager to exploit all the parallelism that is available between these tasks, whose dependencies may be represented by a directed acyclic graph (DAG). Our sparse algorithm is built on the assembly tree and subdivides the work at each node into tasks on blocks of the Cholesky factor. The dependencies between these tasks may again be represented by a DAG. To limit memory requirements, blocks are updated directly rather than through generated-element matrices. Our algorithm is implemented within a new efficient and portable solver HSL_MA87. It is \u2026"
+            ],
+            [
+                [
+                    "Numerical analysis",
+                    "numerical linear algebra",
+                    "sparse matrices"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "W1P42KHD",
+            "LYVwHOcAAAAJ",
+            [
+                "Nested stochastic simulation algorithm for chemical kinetic systems with disparate rates",
+                "Analysis of multiscale methods for stochastic differential equations",
+                "Nested stochastic simulation algorithms for chemical kinetic systems with multiple time scales",
+                "An h-adaptive finite element solver for the calculations of the electronic structures",
+                "Strong convergence of principle of averaging for multiscale stochastic dynamical systems",
+                "Convergence of the spectral method for stochastic Ginzburg-Landau equation driven by space-time white noise",
+                "Numerical solution of the Kohn-Sham equation by finite element methods with an adaptive mesh redistribution technique",
+                "Analysis of multiscale methods for stochastic dynamical systems with multiple time scales",
+                "Gibbsian dynamics and invariant measures for stochastic dissipative PDEs",
+                "Systematic modeling for the insulin signaling network mediated by IRS1 and IRS2"
+            ],
+            [
+                "This paper addresses two important issues on stochastic models of chemical kinetic systems with disparate rates, namely, effective models over the slow time scale and efficient simulation algorithms. These issues have received a great deal of attention in recent years, and much progress has been made. 1\u20135 One main idea, pursued by many authors, 2, 4, 5 is to make a quasiequilibrium approximation for the fast processes and solve the empirically averaged slow processes. Even though this has been a common theme in much of the recent works on this subject, it seems that the key issue of identifying the effective process and effective variables over different time scales has not been fully understood. As a result, the validity and generality of these approaches have not been satisfactorily demonstrated. The present paper has two purposes. The first is to provide effective models and effective variables for stochastic chemical kinetic systems with disparate rates. Compared with previous works, such as Refs. 4 and 5 which rely on the identification of slow and fast species, our work gives a general prescription for identifying effective slow variables. As we will see later, in general the slow variables are not associated with specific species, but are rather combinations of the molecular numbers of several species. The second purpose of this paper is to suggest an efficient stochastic simulation algorithm for systems with disparate rates in the style of the well-known Gillespie algorithm. 6, 7 What should be noted is the simplicity of this algorithm, it is completely seamless. Even though understanding the effective dynamics on the slow time scale requires \u2026",
+                "We analyze a class of numerical schemes proposed [26] for stochastic differential equations with multiple time scales. Both advective and diffusive time scales are considered. Weak as well as strong convergence theorems are proven. Most of our results are optimal. They in turn allow us to provide a thorough discussion on the efficiency as well as optimal strategy for the method. \u00a9 2005 Wiley Periodicals, Inc.",
+                "We present an efficient numerical algorithm for simulating chemical kinetic systems with multiple time scales. This algorithm is an improvement of the traditional stochastic simulation algorithm (SSA), also known as Gillespie\u2019s algorithm. It is in the form of a nested SSA and uses an outer SSA to simulate the slow reactions with rates computed from realizations of inner SSAs that simulate the fast reactions. The algorithm itself is quite general and seamless, and it amounts to a small modification of the original SSA. Our analysis of such multi-scale chemical kinetic systems allows us to identify the slow variables in the system, derive effective dynamics on the slow time scale, and provide error estimates for the nested SSA. Efficiency of the nested SSA is discussed using these error estimates, and illustrated through several numerical examples.",
+                "In this paper, a framework of using h-adaptive finite element method for the Kohn\u2013Sham equation on the tetrahedron mesh is presented. The Kohn\u2013Sham equation is discretized by the finite element method, and the h-adaptive technique is adopted to optimize the accuracy and the efficiency of the algorithm. The locally optimal block preconditioned conjugate gradient method is employed for solving the generalized eigenvalue problem, and an algebraic multigrid preconditioner is used to accelerate the solver. A variety of numerical experiments demonstrate the effectiveness of our algorithm for both the all-electron and the pseudo-potential calculations.",
+                "In this paper, we study stochastic differential equations with two well-separated time scales. We prove that the rate of strong convergence to the averaged effective dynamics is of order O (\u03b51\/2), where \u03b5\u226a 1 is the parameter measuring the disparity of the time scales in the system. The convergence rate is shown to be optimal through examples.",
+                "In this paper, a spectral method is formulated as a numerical solution for the stochastic Ginzburg-Landau equation driven by space-time white noise. The rates of pathwise convergence and convergence in expectation in Sobolev spaces are given based on the convergence rates of the spectral approximation for the stochastic convolution. The analysis can be generalized to other spectral methods for stochastic PDEs driven by additive noises, provided the regularity condition for the noises.",
+                "A mesh redistribution method is introduced to solve the Kohn-Sham equation. The standard linear finite element space is employed for the spatial discretization, and the self-consistent field iteration scheme is adopted for the derived nonlinear generalized eigenvalue problem. A mesh redistribution technique is used to optimize the distribution of the mesh grids according to wavefunctions obtained from the self-consistent iterations. After the mesh redistribution, important regions in the domain such as the vicinity of the nucleus, as well as the bonding between the atoms, may be resolved more effectively. Consequently, more accurate numerical results are obtained without increasing the number of mesh grids. Numerical experiments confirm the effectiveness and reliability of our method for a wide range of problems. The accuracy and efficiency of the method are also illustrated through examples.",
+                "We prove the convergence of a class of numerical schemes for stochastic dynamical systems with well-separated time scales. A sharp error estimate for the schemes is provided. The optimality of the convergence rate is illustrated through examples.",
+                "We present a general strategy for proving ergodicity for stochastically forced nonlinear dissipative PDEs. It consists of two main steps. The first step is the reduction to a finite dimensional Gibbsian dynamics of the low modes. The second step is to prove the equivalence between measures induced by different past histories using Girsanov theorem. As applications, we prove ergodicity for Ginzburg\u2013Landau, Kuramoto\u2013Sivashinsky and Cahn\u2013Hilliard equations with stochastic forcing.",
+                "The hepatic insulin signaling mediated by insulin receptor substrates IRS1 and IRS2 plays a central role in maintaining glucose homeostasis under different physiological conditions. Although functions of individual components in the signaling network have been extensively studied, our knowledge is still limited with regard to how the signals are integrated and coordinated in the complex network to render their functional roles. In this study, we construct systematic models for the insulin signaling network mediated by IRS1 and IRS2, through the integration of current knowledge in the literature into mathematical models of insulin signaling pathways. We hypothesize that the specificity of the IRS signaling mechanisms emerges from the wiring and kinetics of the entire network. A discrete dynamic model is first constructed to account for the numerous dynamic features in the system, i.e., complex feedback circuits \u2026"
+            ],
+            [
+                [
+                    "Multi-Physical Modeling",
+                    "Multi-Scale Computation",
+                    "Stochastic Simulation",
+                    "Bio-Chemical Reacting Networks",
+                    "Nano-Optics"
+                ]
+            ]
+        ]
+    ]
+}

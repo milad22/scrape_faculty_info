@@ -1,0 +1,101 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "67r3LM4AAAAJ",
+            "Pierre-Simon MANGEARD",
+            "University of Delaware",
+            "@udel.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=67r3LM4AAAAJ",
+            51632,
+            [
+                "Particle Physics",
+                "Cosmic Rays"
+            ],
+            19301,
+            94,
+            49,
+            164,
+            119,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fyTLzkkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alejandro S\u00e1iz",
+                    "affiliation":"Foreign Expert, Mahidol University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"sAYTVmEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David Ruffolo",
+                    "affiliation":"Professor of Physics, Mahidol University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"JSSAFasAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Paul Evenson",
+                    "affiliation":"Professor of Physics, University of Delaware"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"5G7rQLQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"John Clem",
+                    "affiliation":"University of Delaware"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"jugv_60AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Waraporn Nuntiyakul",
+                    "affiliation":"Department of Physics and Materials, Faculty of Science, Chiang Mai University"
+                }
+            ]
+        ]
+    ]
+}

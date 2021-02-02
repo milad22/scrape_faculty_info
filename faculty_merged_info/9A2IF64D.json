@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "9A2IF64D",
+            "HC7XfBcAAAAJ",
+            [
+                "Sea spray spume droplet production in high wind speeds",
+                "Nonlinear formulation of the bulk surface stress over breaking waves: Feedback mechanisms from air-flow separation",
+                "Integration of SiON waveguides and photodiodes on silicon substrates",
+                "A sea state\u2013dependent spume generation function",
+                "Impact of sea spray on air\u2013sea fluxes. Part I: Results from stochastic simulations of sea spray drops over the ocean",
+                "Impact of sea spray on air\u2013sea fluxes. Part II: Feedback effects",
+                "The design of the tokamak physics experiment (TPX)",
+                "A Lagrangian stochastic model for heavy particle dispersion in the atmospheric marine boundary layer",
+                "Insulation and passivation of three-dimensional substrates by plasma-CVD thin films using silicon-organic compounds",
+                "A Lagrangian stochastic model for sea-spray evaporation in the atmospheric marine boundary layer"
+            ],
+            [
+                "Sea spray droplets are known to enhance the fluxes of momentum, heat, and mass at the air\u2010sea interface. Evaluating these fluxes depends in part on the so\u2010called \u201cspray generation function\u201d, the size distribution of droplets generated. At high wind speeds, spray is empirically observed to be plentiful near the ocean surface, however, the generation function has remained elusive both theoretically and experimentally. We report on a photographic laboratory experiment designed to directly quantify spume droplets observed at high wind speeds. The resulting sea spray concentration functions for spume droplets (diameter > 140\u03bcm) are reported for three high wind speed conditions (31.3, 41.2, and 47.1 ms\u22121). Our data suggest that large supra\u2010millimeter droplets are more prevalent than previously thought. We also observed a previously unreported spray generation mechanism whereby liquid sheets form at the \u2026",
+                "Historically, our understanding of the air-sea surface stress has been derived from engineering studies of turbulent flows over flat solid surfaces, and more recently, over rigid complex geometries. Over the ocean however, the presence of a free, deformable, moving surface gives rise to a more complicated drag formulation. In fact, within the constant-stress turbulent atmospheric boundary layer over the ocean, the total air-sea stress not only includes the traditional turbulent and viscous components but also incorporates surface-wave effects such as wave growth or decay, air-flow separation, and surface separation in the form of sea-spray droplets. Because each individual stress component depends on and alters the sea state, a simple linear addition of all stress components is too simplistic. In this paper we present a model of the air-sea surface stress that incorporates air-flow separation and its effects on \u2026",
+                "Two methods of coupling integrated optical waveguides to photodetectors are investigated. As waveguides, SiON layers were deposited by low-pressure chemical vapor deposition on a thick isolation layer of thermally grown SiO_2 on silicon substrates. Lateral p-i-n diode photodetectors were fabricated by standard processing in the silicon substrates. Structures for end-fire and leaky-wave coupling were fabricated. Coupling efficiencies of up to 84% for end-fire and 88% for leaky-wave coupling were obtained. The fabrication steps are described, and the resulting optoelectrical behavior is discussed.",
+                "The uncertainty of the sea spray generation function continues to obscure spray-mediated momentum and scalar fluxes, especially for intense wind conditions. Most previous studies assume a constant form (spectral shape) for the droplet distribution, even though a shift to smaller drops with increased wind forcing is expected. In this paper, a new generation function for spume drops is derived, but unlike previous studies, both its form and magnitude change with wind forcing. Fairly good agreement is found between this spume generation function and the limited data available. A potential explanation for the vast size differences among previous spume generation studies is also provided by distinguishing the drops formed at the surface from the drops transported vertically where measurements are routinely made.",
+                "The contributions of sea spray drops to the total air\u2013sea exchanges of momentum, heat, and mass remain an open question. A number of factors obscure any simple quantification of their contribution; the per drop contribution to the fluxes is a particularly important factor that cannot be calculated easily, as are the number of drops formed. To estimate the per droplet fluxes, the authors first calculate the low order statistics from a large number of drop trajectories, which are simulated with a recently developed Lagrangian stochastic model adapted for the heavy drop transport and evaporation within the marine boundary layer. This paper describes the results from simulations of sea spray drops over the ocean, and as one of two parts, summarizes new estimations for the spray-mediated fluxes on a per drop basis. The results suggest that common simplifications in previous sea spray models, such as the residence time \u2026",
+                "This paper presents estimations for the transfer of momentum, heat, and water mass between the air and the sea. The results from Lagrangian stochastic simulations of sea spray drops (see Part I), along with two sea spray generation functions, are used to calculate the spray-mediated flux components of the air\u2013sea fluxes. When the spray-mediated fluxes constitute a significant fraction of the total fluxes under certain conditions, their feedback effect on the atmosphere cannot be neglected. The authors derive a simplified feedback model to investigate such cases, finding that the spray-mediated fluxes may be especially sensitive to the size distribution of the drops. The total effective air\u2013sea fluxes lead to drag and enthalpy coefficients that increase modestly with wind speed. The rate of increase for the drag coefficient is greatest at moderate wind speeds, while the rate of increase for the enthalpy coefficient is greatest \u2026",
+                "The Tokamak Physics Experiment is designed to develop the scientific basis for a compact and continuously operating tokamak fusion reactor. It is based on an emerging class of tokamak operating modes, characterized by beta limits well in excess of the Troyon limit, confinement scaling well in excess of H-mode, and bootstrap current fractions approaching unity. Such modes are attainable through the use of advanced, steady state plasma controls including strong shaping, current profile control, and active particle recycling control. Key design features of the TPX are superconducting toroidal and poloidal field coils; actively-cooled plasma-facing components; a flexible heating and current drive system; and a spacious divertor for flexibility. Substantial deuterium plasma operation is made possible with an in-vessel remote maintenance system, a lowactivation titanium vacuum vessel, and shielding of ex \u2026",
+                "The dispersion of heavy particles and pollutants is often simulated with Lagrangian stochastic (LS) models. Although these models have been employed successfully over land, the free surface at the air-sea interface complicates the implementation of traditional LS models. We present an adaptation of traditional LS models to the atmospheric marine boundary layer (MBL), where the bottom boundary is represented by a realistic wavy surface that moves and deforms. In addition, the correlation function for the turbulent flow following a particle is extended to the anisotropic, unsteady case. Our new model reproduces behaviour for Lagrangian turbulence in a stratified air flow that departs only slightly from the expected behaviour in isotropic turbulence. When solving for the trajectory of a heavy particle in the air flow, the modelled turbulent forcing on the particle also behaves remarkably well. For example, the \u2026",
+                "A reactor design developed for coating three-dimensional substrates is presented. Cathodic deposition was investigated to obtain highly cross-linked insulating films. The properties of films deposited from hexamethyldisilazane and tetraethylorthosilicate sources are discussed and compared.",
+                "The dispersion of heavy particles subjected to a turbulent forcing is often simulated with Lagrangian stochastic models. Although these models have been employed successfully over land, the implementation of traditional LS models in the marine boundary layer is significantly more challenging. We present an adaptation of traditional Lagrangian stochastic models to the atmospheric marine boundary layer with a particular focus on the representation of the scalar turbulence for temperature and humidity. In this new model, the atmosphere can be stratified and the bottom boundary is represented by a realistic wavy surface that moves and deforms. Hence, the correlation function for the turbulent flow following a particle is extended to the inhomogenous, anisotropic case. The results reproduce behaviour for scalar Lagrangian turbulence in a stratified airflow that departs only slightly from the expected \u2026"
+            ],
+            [
+                [
+                    "Energy Policy",
+                    "Solar",
+                    "Climate Change",
+                    "Air-Sea Interaction",
+                    "Sea Spray"
+                ]
+            ]
+        ]
+    ]
+}

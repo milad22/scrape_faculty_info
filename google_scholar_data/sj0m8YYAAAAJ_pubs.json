@@ -1,0 +1,177 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "data":[
+        [
+            "The Deep Web, i.e., content hidden behind HTML forms, has long been acknowledged as a significant gap in search engine coverage. Since it represents a large portion of the structured data on the Web, accessing Deep-Web content has been a long-standing challenge for the database community. This paper describes a system for surfacing Deep-Web content, i.e., pre-computing submissions for each HTML form and adding the resulting HTML pages into a search engine index. The results of our surfacing have been incorporated into the Google search engine and today drive more than a thousand queries per second to Deep-Web content.Surfacing the Deep Web poses several challenges. First, our goal is to index the content behind many millions of HTML forms that span many languages and hundreds of domains. This necessitates an approach that is completely automatic, highly scalable, and very efficient \u2026",
+            "Google's deep web crawl",
+            "Jayant Madhavan and David Ko and \u0141ucja Kot and Vignesh Ganapathy and Alex Rasmussen and Alon Halevy",
+            "2008",
+            "sj0m8YYAAAAJ:WF5omc3nYNoC",
+            518,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.14778\/1454159.1454163",
+            "49298079542727222",
+            "\/scholar?cites=49298079542727222",
+            {
+                "2007":3,
+                "2008":5,
+                "2009":36,
+                "2010":59,
+                "2011":53,
+                "2012":64,
+                "2013":66,
+                "2014":47,
+                "2015":41,
+                "2016":53,
+                "2017":29,
+                "2018":20,
+                "2019":26,
+                "2020":8,
+                "2021":1
+            }
+        ],
+        [
+            "\" Big Data\" computing increasingly utilizes the MapReduce programming model for scalable processing of large data collections. Many MapReduce jobs are I\/O-bound, and so minimizing the number of I\/O operations is critical to improving their performance. In this work, we present Themis, a MapReduce implementation that reads and writes data records to disk exactly twice, which is the minimum amount possible for data sets that cannot fit in memory.",
+            "Themis: an i\/o-efficient mapreduce",
+            "Alexander Rasmussen and Vinh The Lam and Michael Conley and George Porter and Rishi Kapoor and Amin Vahdat",
+            "2012",
+            "sj0m8YYAAAAJ:zYLM7Y9cAGgC",
+            115,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/2391229.2391242",
+            "5412743867069878041",
+            "\/scholar?cites=5412743867069878041",
+            {
+                "2012":4,
+                "2013":18,
+                "2014":21,
+                "2015":25,
+                "2016":16,
+                "2017":7,
+                "2018":7,
+                "2019":9,
+                "2020":2,
+                "2021":1
+            }
+        ],
+        [
+            "We present TritonSort, a highly efficient, scalable sorting system. It is designed to process large datasets, and has been evaluated against as much as 100 TB of input data spread across 832 disks in 52 nodes at a rate of 0.916 TB\/min. When evaluated against the annual Indy GraySort sorting benchmark, TritonSort is 60% better in absolute performance and has over six times the per-node efficiency of the previous record holder. In this paper, we describe the hardware and software architecture necessary to operate TritonSort at this level of efficiency. Through careful management of system resources to ensure cross-resource balance, we are able to sort data at approximately 80% of the disks\u2019 aggregate sequential write speed. We believe the work holds a number of lessons for balanced system design and for scale-out architectures in general. While many interesting systems are able to scale linearly with additional servers, per-server performance can lag behind per-server capacity by more than an order of magnitude. Bridging the gap between high scalability and high performance would enable either significantly cheaper systems that are able to do the same work or provide the ability to address significantly larger problem sets with the same infrastructure.",
+            "TritonSort: A Balanced Large-Scale Sorting System.",
+            "Alexander Rasmussen and George Porter and Michael Conley and Harsha V Madhyastha and Radhika Niranjan Mysore and Alexander Pucher and Amin Vahdat",
+            "2011",
+            "sj0m8YYAAAAJ:u5HHmVD_uO8C",
+            95,
+            "https:\/\/www.usenix.org\/legacy\/event\/nsdi11\/tech\/full_papers\/Rasmussen.pdf",
+            "7117143976302418244",
+            "\/scholar?cites=7117143976302418244",
+            {
+                "2011":8,
+                "2012":16,
+                "2013":22,
+                "2014":9,
+                "2015":21,
+                "2016":4,
+                "2017":2,
+                "2018":5,
+                "2019":3,
+                "2020":4,
+                "2021":1
+            }
+        ],
+        [
+            "We present TritonSort, a highly efficient, scalable sorting system. It is designed to process large datasets, and has been evaluated against as much as 100TB of input data spread across 832 disks in 52 nodes at a rate of 0.938TB\/min. When evaluated against the annual Indy GraySort sorting benchmark, TritonSort is 66% better in absolute performance and has over six times the per-node throughput of the previous record holder. When evaluated against the 100TB Indy JouleSort benchmark, TritonSort sorted 9703 records\/Joule. In this article, we describe the hardware and software architecture necessary to operate TritonSort at this level of efficiency. Through careful management of system resources to ensure cross-resource balance, we are able to sort data at approximately 80% of the disks\u2019 aggregate sequential write speed.We believe the work holds a number of lessons for balanced system design and for scale \u2026",
+            "Tritonsort: A balanced and energy-efficient large-scale sorting system",
+            "Alexander Rasmussen and George Porter and Michael Conley and Harsha V Madhyastha and Radhika Niranjan Mysore and Alexander Pucher and Amin Vahdat",
+            "2013",
+            "sj0m8YYAAAAJ:W7OEmFMy1HYC",
+            23,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/2427631.2427634",
+            "1475196855789753888",
+            "\/scholar?cites=1475196855789753888",
+            {
+                "2013":1,
+                "2014":5,
+                "2015":6,
+                "2016":2,
+                "2017":3,
+                "2018":3,
+                "2019":2
+            }
+        ],
+        [
+            "Emerging cloud-based network services must deliver both good performance and high availability. Achieving both of these goals requires content replication across multiple sites. Many cloud-based services either require or would benefit from the semantics and simplicity of strong consistency. However, replication techniques for strong consistency can severely limit the availability of replicated services when recovering large data objects over wide-area links. To address this problem, we present the design and implementation of ZORFU, a hierarchical system architecture for replication across data centers. The primary contribution of ZORFU is a local recovery technique that significantly increases availability of replicated strongly consistent services. Local recovery achieves this by reducing the recovery time by an order of magnitude, while imposing only a negligible latency overhead. Experimental results show that \u2026",
+            "Local recovery for high availability in strongly consistent cloud services",
+            "James W Anderson and Hein Meling and Alexander Rasmussen and Amin Vahdat and Keith Marzullo",
+            "2015",
+            "sj0m8YYAAAAJ:eQOLeE2rZwMC",
+            13,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7120926\/",
+            "11942677266172804167",
+            "\/scholar?cites=11942677266172804167",
+            {
+                "2015":1,
+                "2016":1,
+                "2017":5,
+                "2018":3,
+                "2019":3
+            }
+        ],
+        [
+            "We have incorporated cluster computing fundamentals into the introductory computer science curriculum at UC Berkeley. For the first course, we have developed coursework and programming problems in Scheme centered around Google\u2019s MapReduce. To allow students only familiar with Scheme to write and run MapReduce programs, we designed a functional interface in Scheme and implemented software to allow tasks to be run in parallel on a cluster. The streamlined interface enables students to focus on programming to the essence of the MapReduce model and avoid the potentially cumbersome details in the MapReduce implementation, and so it delivers a clear pedagogical advantage.",
+            "Infusing parallelism into introductory computer science curriculum using MapReduce",
+            "Matthew Johnson and Robert H Liao and Alexander Rasmussen and Ramesh Sridharan and Daniel D Garcia and Brian Harvey",
+            "2008",
+            "sj0m8YYAAAAJ:d1gkVwhDpl0C",
+            11,
+            "https:\/\/www.alexras.info\/pdfs\/EECS-2008-34.pdf",
+            "16209031005665586867",
+            "\/scholar?cites=16209031005665586867",
+            {
+                "2009":1,
+                "2010":2,
+                "2011":2,
+                "2012":1,
+                "2013":2,
+                "2014":1,
+                "2015":1,
+                "2016":1
+            }
+        ],
+        [
+            "The backends of today's Internet services rely heavily on caching at various layers both to provide faster service to common requests and to reduce load on back-end components. Cache placement is especially challenging given the diversity of workloads handled by widely deployed Internet services. This paper presents TOOL, an analysis technique that automatically optimizes cache placement. Our experiments have shown that near-optimal cache placements vary significantly based on input distribution.",
+            "Improving the responsiveness of internet services with automatic cache placement",
+            "Alexander Rasmussen and Emre Kiciman and Benjamin Livshits and Madanlal Musuvathi",
+            "2009",
+            "sj0m8YYAAAAJ:u-x6o8ySG0sC",
+            9,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/1519065.1519069",
+            "5877009541451726463",
+            "\/scholar?cites=5877009541451726463",
+            {
+                "2009":2,
+                "2010":2,
+                "2011":2,
+                "2012":2,
+                "2013":1
+            }
+        ]
+    ]
+}

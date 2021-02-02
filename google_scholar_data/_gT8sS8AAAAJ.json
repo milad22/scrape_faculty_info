@@ -1,0 +1,102 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "_gT8sS8AAAAJ",
+            "Hans M Bozler",
+            "Department of Physics and Astronomy",
+            "@usc.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=_gT8sS8AAAAJ",
+            1271,
+            [
+                "Low Temperature Physics",
+                "Magnetism of 3He",
+                "Electron and Thermal Transport in Low Dimensional Systems"
+            ],
+            91,
+            19,
+            5,
+            31,
+            1,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"R3GBTRwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Per Delsing",
+                    "affiliation":"Professor, Physics, Chalmers University of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"E969J4sAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Justin F. Schneiderman",
+                    "affiliation":"Associate Professor \/ Universitetslektor, MedTech West and The University of Gothenburg"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"tvQY9iIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alan Heeger",
+                    "affiliation":"Professor of Physics, Professor of Materials, University of California Santa Barbara"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3MzLJwMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Igor Beloborodov",
+                    "affiliation":"California State University Northridge"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"wzcwUtwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yuliang Du",
+                    "affiliation":"UBTECH robotics, Thinkom solutions, St. Jude Medical, Advanced Bionics"
+                }
+            ]
+        ]
+    ]
+}

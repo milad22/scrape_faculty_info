@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "0Z5WXPN9",
+            "7xgWQEgAAAAJ",
+            [
+                "Myosin V walks hand-over-hand: single fluorophore imaging with 1.5-nm localization",
+                "Kinesin walks hand-over-hand",
+                "Single-molecule analysis of dynein processivity and stepping behavior",
+                "Enhanced proofreading governs CRISPR\u2013Cas9 targeting accuracy",
+                "Fluorescence imaging with one nanometer accuracy: application to molecular motors",
+                "Intramolecular strain coordinates kinesin stepping behavior along microtubules",
+                "Cytoplasmic dynein moves through uncoordinated stepping of the AAA+ ring domains",
+                "Myosin VI steps via a hand-over-hand mechanism with its lever arm undergoing fluctuations when attached to actin",
+                "Cryo-EM shows how dynactin recruits two dyneins for faster movement",
+                "A conformational checkpoint between DNA binding and cleavage by CRISPR-Cas9"
+            ],
+            [
+                "Myosin V is a dimeric molecular motor that moves processively on actin, with the center of mass moving \u223c37 nanometers for each adenosine triphosphate hydrolyzed. We have labeled myosin V with a single fluorophore at different positions in the light-chain domain and measured the step size with a standard deviation of <1.5 nanometers, with 0.5-second temporal resolution, and observation times of minutes. The step size alternates between 37 + 2x nm and 37 \u2013 2x, where x is the distance along the direction of motion between the dye and the midpoint between the two heads. These results strongly support a hand-over-hand model of motility, not an inchworm model.",
+                "Kinesin is a processive motor that takes 8.3-nm center-of-mass steps along microtubules for each adenosine triphosphate hydrolyzed. Whether kinesin moves by a \u201chand-over-hand\u201d or an \u201cinchworm\u201d model has been controversial. We have labeled a single head of the kinesin dimer with a Cy3 fluorophore and localized the position of the dye to within 2 nm before and after a step. We observed that single kinesin heads take steps of 17.3 \u00b1 3.3 nm. A kinetic analysis of the dwell times between steps shows that the 17-nm steps alternate with 0-nm steps. These results strongly support a hand-over-hand mechanism, and not an inchworm mechanism. In addition, our results suggest that kinesin is bound by both heads to the microtubule while it waits for adenosine triphosphate in between steps.",
+                "Cytoplasmic dynein, the 1.2 MDa motor driving minus-end-directed motility, has been reported to move processively along microtubules, but its mechanism of motility remains poorly understood. Here, using S. cerevisiae to produce recombinant dynein with a chemically controlled dimerization switch, we show by structural and single-molecule analysis that processivity requires two dynein motor domains but not dynein's tail domain or any associated subunits. Dynein advances most frequently in 8 nm steps, although longer as well as side and backward steps are observed. Individual motor domains show a different stepping pattern, which is best explained by the two motor domains shuffling in an alternating manner between rear and forward positions. Our results suggest that cytoplasmic dynein moves processively through the coordination of its two motor domains, but its variable step size and direction suggest a \u2026",
+                "The RNA-guided CRISPR\u2013Cas9 nuclease from Streptococcus pyogenes (SpCas9) has been widely repurposed for genome editing 1, 2, 3, 4. High-fidelity (SpCas9-HF1) and enhanced specificity (eSpCas9 (1.1)) variants exhibit substantially reduced off-target cleavage in human cells, but the mechanism of target discrimination and the potential to further improve fidelity are unknown 5, 6, 7, 8, 9. Here, using single-molecule F\u00f6rster resonance energy transfer experiments, we show that both SpCas9-HF1 and eSpCas9 (1.1) are trapped in an inactive state 10 when bound to mismatched targets. We find that a non-catalytic domain within Cas9, REC3, recognizes target complementarity and governs the HNH nuclease to regulate overall catalytic competence. Exploiting this observation, we design a new hyper-accurate Cas9 variant (HypaCas9) that demonstrates high genome-wide specificity without compromising on \u2026",
+                "We introduce the technique of FIONA, fluorescence imaging with one nanometer accuracy. This is a fluorescence technique that is able to localize the position of a single dye within \u223c1 nm in the x\u2212y plane. It is done simply by taking the point spread function of a single fluorophore excited with wide field illumination and locating the center of the fluorescent spot by a two-dimensional Gaussian fit. We motivate the development of FIONA by unraveling the walking mechanism of the molecular motors myosin V, myosin VI, and kinesin. We find that they all walk in a hand-over-hand fashion. ",
+                "Kinesin advances 8 nm along a microtubule per ATP hydrolyzed, but the mechanism responsible for coordinating the enzymatic cycles of kinesin's two identical motor domains remains unresolved. Here, we have tested whether such coordination is mediated by intramolecular tension generated by the \u201cneck linkers,\u201d mechanical elements that span between the motor domains. When tension is reduced by extending the neck linkers with artificial peptides, the coupling between ATP hydrolysis and forward stepping is impaired and motor's velocity decreases as a consequence. However, speed recovers to nearly normal levels when external tension is applied by an optical trap. Remarkably, external load also induces bidirectional stepping of an immotile kinesin that lacks its mechanical element (neck linker) and fuel (ATP). Our results indicate that the kinesin motor domain senses and responds to strain in a manner that \u2026",
+                "Cytoplasmic dynein is a homodimeric AAA+ motor that transports a multitude of cargos toward the microtubule minus end. How the two catalytic head domains interact and move relative to each other during processive movement is unclear. Here, we tracked the relative positions of both heads with nanometer precision and directly observed the heads moving independently along the microtubule. The heads remained widely separated, and their stepping behavior varied as a function of interhead separation. One active head was sufficient for processive movement, and an active head could drag an inactive partner head forward. Thus, dynein moves processively without interhead coordination, a mechanism fundamentally distinct from the hand-over-hand stepping of kinesin and myosin.",
+                "Myosin VI is a reverse direction myosin motor that, as a dimer, moves processively on actin with an average center-of-mass movement of \u223c30 nm for each step. We labeled myosin VI with a single fluorophore on either its motor domain or on the distal of two calmodulins (CaMs) located on its putative lever arm. Using a technique called FIONA (fluorescence imaging with one nanometer accuracy), step size was observed with a standard deviation of <1.5 nm, with 0.5-s temporal resolution, and observation times of minutes. Irrespective of probe position, the average step size of a labeled head was \u223c60 nm, strongly supporting a hand-over-hand model of motility and ruling out models in which the unique myosin VI insert comes apart. However, the CaM probe displayed large spatial fluctuations (presence of ATP but not ADP or no nucleotide) around the mean position, whereas the motor domain probe did not. This \u2026",
+                "Dynein and its cofactor dynactin form a highly processive microtubule motor in the presence of an activating adaptor, such as BICD2. Different adaptors link dynein and dynactin to distinct cargoes. Here we use electron microscopy and single-molecule studies to show that adaptors can recruit a second dynein to dynactin. Whereas BICD2 is biased towards recruiting a single dynein, the adaptors BICDR1 and HOOK3 predominantly recruit two dyneins. We find that the shift towards a double dynein complex increases both the force and speed of the microtubule motor. Our 3.5 \u00c5 resolution cryo-electron microscopy reconstruction of a dynein tail\u2013dynactin\u2013BICDR1 complex reveals how dynactin can act as a scaffold to coordinate two dyneins side-by-side. Our work provides a structural basis for understanding how diverse adaptors recruit different numbers of dyneins and regulate the motile properties of the dynein \u2026",
+                "The Cas9 endonuclease is widely used for genome engineering applications by programming its single-guide RNA, and ongoing work is aimed at improving the accuracy and efficiency of DNA targeting. DNA cleavage of Cas9 is controlled by the conformational state of the HNH nuclease domain, but the mechanism that governs HNH activation at on-target DNA while reducing cleavage activity at off-target sites remains poorly understood. Using single-molecule F\u00f6rster resonance energy transfer, we identified an intermediate state of Streptococcus pyogenes Cas9, representing a conformational checkpoint between DNA binding and cleavage. Upon DNA binding, the HNH domain transitions between multiple conformations before docking into its active state. HNH docking requires divalent cations, but not strand scission, and this docked conformation persists following DNA cleavage. Sequence mismatches \u2026"
+            ],
+            [
+                [
+                    "Single molecule biophysics",
+                    "dynein",
+                    "intraflagellar transport",
+                    "telomerase",
+                    "Cas9"
+                ]
+            ]
+        ]
+    ]
+}

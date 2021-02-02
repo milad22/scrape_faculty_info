@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "OWBH0OE9",
+            "DMIvQbwAAAAJ",
+            [
+                "Quantum phase transitions",
+                "Quantum phase transitions",
+                "Deconfined quantum critical points",
+                "Handbook of magnetism and advanced magnetic materials",
+                "Gapless spin-fluid ground state in a random quantum Heisenberg magnet",
+                "Large-N expansion for frustrated quantum antiferromagnets",
+                "Valence-bond and spin-Peierls ground states of low-dimensional quantum antiferromagnets",
+                "Kagom\u00e9-and triangular-lattice Heisenberg antiferromagnets: Ordering from quantum fluctuations and quantum-disordered ground states with unconfined bosonic spinons",
+                "Quantum criticality beyond the Landau-Ginzburg-Wilson paradigm",
+                "Theory of two-dimensional quantum Heisenberg antiferromagnets with a nearly critical ground state"
+            ],
+            [
+                "Thermal fluctuations induced by increasing temperature can change the state of matter, for example, when water boils to steam. It also is possible to change the state of matter at absolute zero temperature by quantum fluctuations demanded by Heisenberg's uncertainty principle. In this case, the quantumphase transition from one state to another is provided by adjusting a tuning parameter other than temperature. A few characteristic examples of quantumphase transitions are reviewed, and their consequences for finite temperature experiments are discussed.",
+                "Thermal fluctuations induced by increasing temperature can change the state of matter, for example, when water boils to steam. It also is possible to change the state of matter at absolute zero temperature by quantum fluctuations demanded by Heisenberg's uncertainty principle. In this case, the quantumphase transition from one state to another is provided by adjusting a tuning parameter other than temperature. A few characteristic examples of quantumphase transitions are reviewed, and their consequences for finite temperature experiments are discussed.",
+                "The theory of second-order phase transitions is one of the foundations of modern statistical mechanics and condensed-matter theory. A central concept is the observable order parameter, whose nonzero average value characterizes one or more phases. At large distances and long times, fluctuations of the order parameter(s) are described by a continuum field theory, and these dominate the physics near such phase transitions. We show that near second-order quantum phase transitions, subtle quantum interference effects can invalidate this paradigm, and we present a theory of quantum critical points in a variety of experimentally relevant two-dimensional antiferromagnets. The critical points separate phases characterized by conventional \u201cconfining\u201d order parameters. Nevertheless, the critical theory contains an emergent gauge field and \u201cdeconfined\u201d degrees of freedom associated with fractionalization of the \u2026",
+                "The study of quantum phase transitions has been a major focus of theoretical and experimental work in systems of correlated electrons and in correlated ul-tracold atoms in recent years. However, some of the best characterized and understood examples of quantum phase transitions are found in magnetic",
+                "We examine the spin-S quantum Heisenberg magnet with Gaussian-random, infinite-range exchange interactions. The quantum-disordered phase is accessed by generalizing to SU (M) symmetry and studying the large M limit. For large S the ground state is a spin glass, while quantum fluctuations produce a spin-fluid state for small S. The spin-fluid phase is found to be generically gapless\u2014the average, zero temperature, local dynamic spin susceptibility obeys \u03c7 (\u03c9)\u223c ln (1\/\u2016 \u03c9\u2016)+ i (\u03c0\/2) sgn (\u03c9) at low frequencies.",
+                "A large-N expansion technique based on symplectic [Sp (N)] symmetry for frustrated magnetic systems is proposed and applied to the square-lattice quantum antiferromagnet with first-, second-, and third-neighbor antiferromangetic coupling. In addition to disordered states similar to those in unfrustrated systems, phases with incommensurate coplanar spin correlations and unconfined bosonic spinons are found. The occurrence of \u2018\u2018order from disorder\u2019\u2019is discussed. Neither chirally ordered nor spin-nematic states are found.",
+                "The large-N limit of a nearest-neighbor SU (N) antiferromagnet on a bipartite lattice exhibits in dimensions d\u2265 2 a zero-temperature phase transition between a N\u00e9el ordered state and a resonating-valence-bond state. Here it is shown in d= 1, 2 that topological effects produce spin-Peierls or valence-bond-solid order in the non-N\u00e9el phase with a ground-state degeneracy which varies periodically with \u2018\u2018spin\u2019\u2019for fixed N with periodicity given by the coordination number of the lattice. Thus a non-N\u00e9el phase of the spin-(1\/2 Heisenberg model on a square lattice would be a spin-Peierls state with a fourfold degeneracy due to broken lattice rotational symmetry.",
+                "The kagome-lattice quantum Heisenberg antiferromagnet is studied by a large-N expansion based upon groups with symplectic Sp (N) symmetry. Two distinct types of ground states are found.(i) for large values of the \u2018\u2018spin\u2019\u2019the ground state has long-range magnetic order with the spins ordered in a\u221a 3\u00d7\u221a 3 structure with 9 sites per unit cell. Quantum fluctutions are explicitly shown to select this structure from the large number of classically degenerate states. The only zero-energy excitations about the magnetically ordered state are shown to be the physical, infinite-wavelength, Goldstone spin waves; in contrast the naive semiclassical theory has zero-energy spin waves at all wave vectors.(ii) For small values of the \u2018\u2018spin,\u2019\u2019the ordered moment disappears and we obtain a quantum-disordered ground state with no broken symmetries. As in previous work on frustrated square-lattice antiferromagnets, this state is argued \u2026",
+                "We present the critical theory of a number of zero-temperature phase transitions of quantum antiferromagnets and interacting boson systems in two dimensions. The most important example is the transition of the S= 1\u2215 2 square lattice antiferromagnet between the N\u00e9el state (which breaks spin rotation invariance) and the paramagnetic valence bond solid (which preserves spin rotation invariance but breaks lattice symmetries). We show that these two states are separated by a second-order quantum phase transition. This conflicts with Landau-Ginzburg-Wilson theory, which predicts that such states with distinct broken symmetries are generically separated either by a first-order transition, or by a phase with co-existing orders. The critical theory of the second-order transition is not expressed in terms of the order parameters characterizing either state, but involves fractionalized degrees of freedom and an emergent \u2026",
+                "We present the general theory of clean, two-dimensional, quantum Heisenberg antiferromagnets which are close to the zero-temperature quantum transition between ground states with and without long-range N\u00e9el order. While some of our discussion is more general, the bulk of our theory will be restricted to antiferromagnets in which the N\u00e9el order is described by a three-vector order parameter. For N\u00e9el-ordered states,\u2018\u2018nearly critical\u2019\u2019means that the ground-state spin stiffness, \u03c1 s, satisfies \u03c1 s\u226a J, where J is the nearest-neighbor exchange constant, while \u2018\u2018nearly critical\u2019\u2019quantum-disordered ground states have an energy gap, \u0394, towards excitations with spin 1, which satisfies \u0394\u226a J. The allowed temperatures, T, are also smaller than J, but no restrictions are placed on the values of k B T\/\u03c1 s or k B T\/\u0394. Under these circumstances, we show that the wave vector and\/or frequency-dependent uniform and staggered spin \u2026"
+            ],
+            [
+                [
+                    "Condensed Matter Physics",
+                    "Quantum Field Theory",
+                    "Statistical Mechanics",
+                    "Quantum Magnetism",
+                    "Strongly Correlated Electron Systems"
+                ]
+            ]
+        ]
+    ]
+}

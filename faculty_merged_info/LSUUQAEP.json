@@ -1,0 +1,46 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "LSUUQAEP",
+            "_nB45VAAAAAJ",
+            [
+                "Electrostatics of nanosystems: application to microtubules and the ribosome",
+                "Green's functions and boundary value problems",
+                "Improvements to the APBS biomolecular solvation software suite",
+                "Multigrid solution of the Poisson\u2014Boltzmann equation",
+                "Adaptive multilevel finite element solution of the Poisson\u2013Boltzmann equation I. Algorithms and examples",
+                "Recent progress in numerical methods for the Poisson-Boltzmann equation in biophysical applications",
+                "Numerical solution of the nonlinear Poisson\u2013Boltzmann equation: developing more robust and efficient methods",
+                "Three-dimensional electron microscopy reveals new details of membrane systems for Ca2+ signaling in the heart"
+            ],
+            [
+                "Evaluation of the electrostatic properties of biomolecules has become a standard practice in molecular biophysics. Foremost among the models used to elucidate the electrostatic potential is the Poisson-Boltzmann equation; however, existing methods for solving this equation have limited the scope of accurate electrostatic calculations to relatively small biomolecular systems. Here we present the application of numerical methods to enable the trivially parallel solution of the Poisson-Boltzmann equation for supramolecular structures that are orders of magnitude larger in size. As a demonstration of this methodology, electrostatic potentials have been calculated for large microtubule and ribosome structures. The results point to the likely role of electrostatics in a variety of activities of these structures.",
+                "Praise for the Second Edition\" This book is an excellent introduction to the wide field of boundary value problems.\"\u2014Journal of Engineering Mathematics\" No doubt this textbook will be useful for both students and research workers.\"\u2014Mathematical Reviews A new edition of the highly-acclaimed guide to boundary value problems, now featuring modern computational methods and approximation theory Green's Functions and Boundary Value Problems, Third Edition continues the tradition of the two prior editions by providing mathematical techniques for the use of differential and integral equations to tackle important problems in applied mathematics, the physical sciences, and engineering. This new edition presents mathematical concepts and quantitative tools that are essential for effective use of modern computational methods that play a key role in the practical solution of boundary value problems. With a careful blend of theory and applications, the authors successfully bridge the gap between real analysis, functional analysis, nonlinear analysis, nonlinear partial differential equations, integral equations, approximation theory, and numerical analysis to provide a comprehensive foundation for understanding and analyzing core mathematical and computational modeling problems. Thoroughly updated and revised to reflect recent developments, the book includes an extensive new chapter on the modern tools of computational mathematics for boundary value problems. The Third Edition features numerous new topics, including: Nonlinear analysis tools for Banach spaces Finite element and related discretizations Best and near-best approximation \u2026",
+                "The Adaptive Poisson\u2013Boltzmann Solver (APBS) software was developed to solve the equations of continuum electrostatics for large biomolecular assemblages that have provided impact in the study of a broad range of chemical, biological, and biomedical applications. APBS addresses the three key technology challenges for understanding solvation and electrostatics in biomedical applications: accurate and efficient models for biomolecular solvation and electrostatics, robust and scalable software for applying those theories to biomolecular systems, and mechanisms for sharing and analyzing biomolecular electrostatics data in the scientific community. To address new research applications and advancing computational capabilities, we have continually updated APBS and its suite of accompanying software since its release in 2001. In this article, we discuss the models and capabilities that have recently been \u2026",
+                "A multigrid method is presented for the numerical solution of the linearized Poisson\u2013Boltzmann equation arising in molecular biophysics. The equation is discretized with the finite volume method, and the numerical solution of the discrete equations is accomplished with multiple grid techniques originally developed for twodimensional interface problems occurring in reactor physics. A detailed analysis of the resulting method is presented for several computer architectures, including comparisons to diagonally scaled CG, ICCG, vectorized ICCG and MICCG, and to SOR provided with an optimal relaxation parameter. Our results indicate that the multigrid method is superior to the preconditioned CG methods and SOR and that the advantage of multigrid grows with the problem size. \u00a9 1993 John Wiley & Sons, Inc.",
+                "This article is the first of two articles on the adaptive multilevel finite element treatment of the nonlinear Poisson\u2013Boltzmann equation (PBE), a nonlinear eliptic equation arising in biomolecular modeling. Fast and accurate numerical solution of the PBE is usually difficult to accomplish, due to the presence of discontinuous coefficients, delta functions, three spatial dimensions, unbounded domain, and rapid (exponential) nonlinearity. In this first article, we explain how adaptive multilevel finite element methods can be used to obtain extremely accurate solutions to the PBE with very modest computational resources, and we present some illustrative examples using two well\u2010known test problems. The PBE is first discretized with piece\u2010wise linear finite elements over a very coarse simplex triangulation of the domain. The resulting nonlinear algebraic equations are solved with global inexact Newton methods, which we \u2026",
+                "Efficiency and accuracy are two major concerns in numerical solutions of the Poisson-Boltzmann equation for applications in chemistry and biophysics. Recent developments in boundary element methods, interface methods, adaptive methods, finite element methods, and other approaches for the Poisson-Boltzmann equation as well as related mesh generation techniques are reviewed. We also discussed the challenging problems and possible future work, in particular, for the aim of biophysical applications.",
+                "We present a robust and efficient numerical method for solution of the nonlinear Poisson\u2010Boltzmann equation arising in molecular biophysics. The equation is discretized with the box method, and solution of the discrete equations is accomplished with a global inexact\u2010Newton method, combined with linear multilevel techniques we have described in an article appearing previously in this journal. A detailed analysis of the resulting method is presented, with comparisons to other methods that have been proposed in the literature, including the classical nonlinear multigrid method, the nonlinear conjugate gradient method, and nonlinear relaxation methods such as successive overrelaxation. Both theoretical and numerical evidence suggests that this method will converge in the case of molecules for which many of the existing methods will not. In addition, for problems which the other methods are able to solve \u2026",
+                "In the current study, the three-dimensional (3D) topologies of dyadic clefts and associated membrane organelles were mapped in mouse ventricular myocardium using electron tomography. The morphological details and the distribution of membrane systems, including transverse tubules (T-tubules), junctional sarcoplasmic reticulum (SR) and vicinal mitochondria, were determined and presumed to be crucial for controlling cardiac Ca2+ dynamics. The geometric complexity of T-tubules that varied in diameter with frequent branching was clarified. Dyadic clefts were intricately shaped and remarkably small (average 4.39\u00d7105 nm3, median 2.81\u00d7105 nm3). Although a dyadic cleft of average size could hold maximum 43 ryanodine receptor (RyR) tetramers, more than one-third of clefts were smaller than the size that is able to package as many as 15 RyR tetramers. The dyadic clefts were also adjacent to one another \u2026"
+            ],
+            [
+                [
+                    "Numerical Analysis",
+                    "Applied Analysis",
+                    "PDE",
+                    "Mathematical Physics"
+                ]
+            ]
+        ]
+    ]
+}

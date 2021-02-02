@@ -1,0 +1,253 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "k nearest neighbor (kNN) method is a popular classification method in data mining and statistics because of its simple implementation and significant classification performance. However, it is impractical for traditional kNN methods to assign a fixed k value (even though set by experts) to all test samples. Previous solutions assign different k values to different test samples by the cross validation method but are usually time-consuming. This paper proposes a kTree method to learn different optimal k values for different test\/new samples, by involving a training stage in the kNN classification. Specifically, in the training stage, kTree method first learns optimal k values for all training samples by a new sparse reconstruction model, and then constructs a decision tree (namely, kTree) using training samples and the learned optimal k values. In the test stage, the kTree fast outputs the optimal k value for each test sample, and \u2026",
+            "Efficient kNN classification with different numbers of nearest neighbors",
+            "Shichao Zhang and Xuelong Li and Ming Zong and Xiaofeng Zhu and Ruili Wang",
+            "2017",
+            "KoQTBi4AAAAJ:E7VqQtBCVmcC",
+            351,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7898482\/",
+            "15584223188008394238",
+            "\/scholar?cites=15584223188008394238",
+            {
+                "2017":10,
+                "2018":59,
+                "2019":110,
+                "2020":157,
+                "2021":14
+            }
+        ],
+        [
+            "Machine-based emotional intelligence is a requirement for more natural interaction between humans and computer interfaces and a basic level of accurate emotion perception is needed for computer systems to respond adequately to human emotion. Humans convey emotional information both intentionally and unintentionally via speech patterns. These vocal patterns are perceived and understood by listeners during conversation. This research aims to improve the automatic perception of vocal emotion in two ways. First, we compare two emotional speech data sources: natural, spontaneous emotional speech and acted or portrayed emotional speech. This comparison demonstrates the advantages and disadvantages of both acquisition methods and how these methods affect the end application of vocal emotion recognition. Second, we look at two classification methods which have not been applied in this field \u2026",
+            "Ensemble methods for spoken emotion recognition in call-centres",
+            "Donn Morrison and Ruili Wang and Liyanage C De Silva",
+            "2007",
+            "KoQTBi4AAAAJ:u5HHmVD_uO8C",
+            343,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0167639306001713",
+            "11468486442011735466",
+            "\/scholar?cites=11468486442011735466",
+            {
+                "2007":2,
+                "2008":15,
+                "2009":24,
+                "2010":23,
+                "2011":29,
+                "2012":21,
+                "2013":36,
+                "2014":25,
+                "2015":35,
+                "2016":19,
+                "2017":26,
+                "2018":29,
+                "2019":30,
+                "2020":21,
+                "2021":1
+            }
+        ],
+        [
+            "In this paper, the ability to determine the wellness of an elderly living alone in a smart home using a low-cost, robust, flexible and data driven intelligent system is presented. A framework integrating temporal and spatial contextual information for determining the wellness of an elderly has been modeled. A novel behavior detection process based on the observed sensor data in performing essential daily activities has been designed and developed. The developed prototype is used to forecast the behavior and wellness of the elderly by monitoring the daily usages of appliances in a smart home. Wellness models are tested at various elderly houses, and the experimental results are encouraging. The wellness models are updated based on the time series analysis.",
+            "Forecasting the behavior of an elderly using wireless sensors data in a smart home",
+            "Nagender Kumar Suryadevara and Subhas C Mukhopadhyay and Ruili Wang and RK Rayudu",
+            "2013",
+            "KoQTBi4AAAAJ:tkaPQYYpVKoC",
+            235,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0952197613001553",
+            "16586090510623744610",
+            "\/scholar?cites=16586090510623744610",
+            {
+                "2014":20,
+                "2015":43,
+                "2016":30,
+                "2017":40,
+                "2018":38,
+                "2019":31,
+                "2020":23,
+                "2021":7
+            }
+        ],
+        [
+            "As a promising way to extract insightful information from massive data, service recommendation has gained ever-increasing attentions in both academic and industrial areas. Recently, the Locality-Sensitive Hashing (LSH) technique is introduced into service recommendation to pursue high recommendation efficiency and the capability of privacy-preservation, especially when the historical service quality (QoS) data used to make recommendation decisions are distributed across different platforms. However, existing LSH-based service recommendation approaches often face the following challenge: they often assume that the QoS data for service recommendation are static and unique, without considering the influence of dynamic context (e.g., time) on QoS. In view of this challenge, we extend the traditional LSH technique to incorporate the time factor and further propose a novel time-aware and privacy-preserving \u2026",
+            "Time-aware distributed service recommendation with privacy-preservation",
+            "Lianyong Qi and Ruili Wang and Chunhua Hu and Shancang Li and Qiang He and Xiaolong Xu",
+            "2019",
+            "KoQTBi4AAAAJ:X4-KO54GjGYC",
+            95,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0020025518309186",
+            "9097317800346698028",
+            "\/scholar?cites=9097317800346698028",
+            {
+                "2019":45,
+                "2020":48,
+                "2021":2
+            }
+        ],
+        [
+            "Road detection is one of the key challenges for autonomous vehicles. Two kinds of sensors are commonly used for road detection: cameras and LIDARs. However, each of them suffers from some inherent drawbacks. Thus, sensor fusion is commonly used to combine the merits of these two kinds of sensors. Nevertheless, current sensor fusion methods are dominated by either cameras or LIDARs rather than making the best of both. In this paper, we extend the conditional random field (CRF) model and propose a novel hybrid CRF model to fuse the information from camera and LIDAR. After aligning the LIDAR points and pixels, we take the labels (either road or background) of the pixels and LIDAR points as random variables and infer the labels via minimization of a hybrid energy function. Boosted decision tree classifiers are learned to predict the unary potentials of both the pixels and LIDAR points. The pairwise \u2026",
+            "Hybrid conditional random field based camera-LIDAR fusion for road detection",
+            "Liang Xiao and Ruili Wang and Bin Dai and Yuqiang Fang and Daxue Liu and Tao Wu",
+            "2018",
+            "KoQTBi4AAAAJ:JH5k92_tO-AC",
+            91,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0020025517307119",
+            "15067576746765269439",
+            "\/scholar?cites=15067576746765269439",
+            {
+                "2017":7,
+                "2018":18,
+                "2019":30,
+                "2020":34,
+                "2021":2
+            }
+        ],
+        [
+            "In this paper, we propose a new model to study traffic flow at a single-lane urban roundabout, using a multi-state cellular automata (CA) ring under the offside-priority rule (by which a vehicle entering gives way to one already on the roundabout). Each vehicle entering the roundabout is randomly characterized by a predetermined exit with specified probability. Driver behavior at the roundabout entrance is randomly grouped into four categories based on space required to enter the roundabout. Three aspects of roundabout performance in particular have been studied. The first looks at overall throughput (the number of vehicles that navigate the roundabout in a given time). This is considered for different geometries, turning and arrival rates (vehicles arrive at random with a Poisson distribution, with parameter \u03bb\u2a7d0.5 in general for free flow). The second investigates changes in queue length, delay time and vehicle \u2026",
+            "Modeling traffic flow at a single-lane urban roundabout",
+            "Ruili Wang and Heather J Ruskin",
+            "2002",
+            "KoQTBi4AAAAJ:u-x6o8ySG0sC",
+            86,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0010465502003624",
+            "11121138331934073796",
+            "\/scholar?cites=11121138331934073796",
+            {
+                "2002":1,
+                "2003":1,
+                "2004":5,
+                "2005":6,
+                "2006":3,
+                "2007":2,
+                "2008":8,
+                "2009":5,
+                "2010":5,
+                "2011":7,
+                "2012":6,
+                "2013":7,
+                "2014":5,
+                "2015":6,
+                "2016":8,
+                "2017":4,
+                "2018":2,
+                "2019":5
+            }
+        ],
+        [
+            "Speaker Identification (SI) is the process of identifying the speaker from a given utterance by comparing the voice biometrics of the utterance with those utterance models stored beforehand. SI technologies are taken a new direction due to the advances in artificial intelligence and have been used widely in various domains. Feature extraction is one of the most important aspects of SI, which significantly influences the SI process and performance. This systematic review is conducted to identify, compare, and analyze various feature extraction approaches, methods, and algorithms of SI to provide a reference on feature extraction approaches for SI applications and future studies. The review was conducted according to Kitchenham systematic review methodology and guidelines, and provides an in-depth analysis on proposals and implementations of SI feature extraction methods discussed in the literature between \u2026",
+            "Speaker identification features extraction methods: A systematic review",
+            "Sreenivas Sremath Tirumala and Seyed Reza Shahamiri and Abhimanyu Singh Garhwal and Ruili Wang",
+            "2017",
+            "KoQTBi4AAAAJ:8VtEwCQfWZkC",
+            82,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0957417417305535",
+            "2406071657456529043",
+            "\/scholar?cites=2406071657456529043",
+            {
+                "2016":1,
+                "2017":3,
+                "2018":8,
+                "2019":31,
+                "2020":33,
+                "2021":5
+            }
+        ],
+        [
+            "In this paper, we proposed a novel real-time abnormal event detection framework that requires a short training period and has a fast processing speed. Our approach is based on phase correlation and our newly developed spatial-temporal co-occurrence Gaussian mixture models (STCOG)with the following steps: (i) a frame is divided into non-overlapping local regions; (ii) phase correlation is used to estimate the motion vectors between successive two frames for all corresponding local regions, and (iii) STCOG is used to model normal events and detect abnormal events if any deviation from the trained STCOG is found. Our proposed approach is also able to update the parameters incrementally and can be applied in complicated scenes. The proposed approach outperforms previous ones in terms of shorter training periods and lower computational complexity.",
+            "Real-time abnormal event detection in complicated scenes",
+            "Yinghuan Shi and Yang Gao and Ruili Wang",
+            "2010",
+            "KoQTBi4AAAAJ:_FxGoFyzp5QC",
+            82,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/5597839\/",
+            "17400341200165571072",
+            "\/scholar?cites=17400341200165571072",
+            {
+                "2011":7,
+                "2012":8,
+                "2013":9,
+                "2014":12,
+                "2015":5,
+                "2016":9,
+                "2017":8,
+                "2018":10,
+                "2019":9,
+                "2020":4
+            }
+        ],
+        [
+            "Ground segmentation is a key component for Autonomous Land Vehicle (ALV) navigation in an outdoor environment. This paper presents a novel algorithm for real-time segmenting three-dimensional scans of various terrains. An individual terrain scan is represented as a circular polar grid map that is divided into a number of segments. A one-dimensional Gaussian Process (GP) regression with a non-stationary covariance function is used to distinguish the ground points or obstacles in each segment. The proposed approach splits a large-scale ground segmentation problem into many simple GP regression problems with lower complexity, and can then get a real-time performance while yielding acceptable ground segmentation results. In order to verify the effectiveness of our approach, experiments have been carried out both on a public dataset and the data collected by our own ALV in different outdoor \u2026",
+            "Gaussian-process-based real-time ground segmentation for autonomous land vehicles",
+            "Tongtong Chen and Bin Dai and Ruili Wang and Daxue Liu",
+            "2014",
+            "KoQTBi4AAAAJ:M05iB0D1s5AC",
+            77,
+            "https:\/\/link.springer.com\/article\/10.1007\/s10846-013-9889-4",
+            "14488166615211422663",
+            "\/scholar?cites=14488166615211422663",
+            {
+                "2014":7,
+                "2015":9,
+                "2016":8,
+                "2017":14,
+                "2018":11,
+                "2019":14,
+                "2020":13
+            }
+        ],
+        [
+            "This paper proposes a new way to study traffic flow at an urban unsignalised intersection, through detailed space considerations, using cellular automata (CA). Heterogeneity and inconsistency are simulated by incorporation of different categories of driver behaviour and reassignment of categories with given probabilities at each time step. The method is able to reproduce many features of urban traffic, for which gap-acceptance models are less appropriate. Capacities of the minor-stream in a TWSC intersection are found to depend on flow rates of major-streams, also changes with flow rate ratio (FRR= flow rate of near lane: flow rate of far lane). Hence flow rates corresponding to each stream must be distinguished. The relationship between the performance of intersections and other traffic flow parameters is also considered. Vehicle movements in this paper relate to left- side driving, such as found in UK \u2026",
+            "Modeling traffic flow at an urban unsignalized intersection",
+            "Heather J Ruskin and Ruili Wang",
+            "2002",
+            "KoQTBi4AAAAJ:2osOgNQ5qMEC",
+            71,
+            "https:\/\/link.springer.com\/chapter\/10.1007\/3-540-46043-8_38",
+            "2782613815725120681",
+            "\/scholar?cites=2782613815725120681",
+            {
+                "2003":1,
+                "2004":1,
+                "2005":3,
+                "2006":1,
+                "2007":1,
+                "2008":4,
+                "2009":2,
+                "2010":5,
+                "2011":8,
+                "2012":5,
+                "2013":7,
+                "2014":8,
+                "2015":4,
+                "2016":4,
+                "2017":5,
+                "2018":4,
+                "2019":5,
+                "2020":1
+            }
+        ]
+    ]
+}

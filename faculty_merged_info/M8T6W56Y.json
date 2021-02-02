@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "M8T6W56Y",
+            "doOncKcAAAAJ",
+            [
+                "Nanoscale magnetic sensing with an individual electronic spin in diamond",
+                "Quantum register based on individual electronic and nuclear spin qubits in diamond",
+                "Coherent dynamics of coupled electron and nuclear spin qubits in diamond",
+                "Quantum entanglement between an optical photon and a solid-state spin qubit",
+                "Strong magnetic coupling between an electronic spin qubit and a mechanical resonator",
+                "Stimulated and spontaneous optical generation of electron spin coherence in charged GaAs quantum dots",
+                "Raman coherence beats from entangled polarization eigenstates in InAs quantum dots",
+                "Coherence of an optically illuminated single nuclear spin qubit",
+                "High-dynamic-range magnetometry with a single electronic spin in diamond",
+                "Ultrafast optical control of electron spin coherence in charged GaAs quantum dots"
+            ],
+            [
+                "Detection of weak magnetic fields with nanoscale spatial resolution is an outstanding problem in the biological and physical sciences 1, 2, 3, 4, 5. For example, at a distance of 10 nm, the spin of a single electron produces a magnetic field of about 1 \u03bcT, and the corresponding field from a single proton is a few nanoteslas. A sensor able to detect such magnetic fields with nanometre spatial resolution would enable powerful applications, ranging from the detection of magnetic resonance signals from individual electron or nuclear spins in complex biological molecules 5, 6 to readout of classical or quantum bits of information encoded in an electron or nuclear spin memory 7. Here we experimentally demonstrate an approach to such nanoscale magnetic sensing, using coherent manipulation of an individual electronic spin qubit associated with a nitrogen-vacancy impurity in diamond at room temperature 8. Using an \u2026",
+                "The key challenge in experimental quantum information science is to identify isolated quantum mechanical systems with long coherence times that can be manipulated and coupled together in a scalable fashion. We describe the coherent manipulation of an individual electron spin and nearby individual nuclear spins to create a controllable quantum register. Using optical and microwave radiation to control an electron spin associated with the nitrogen vacancy (NV) color center in diamond, we demonstrated robust initialization of electron and nuclear spin quantum bits (qubits) and transfer of arbitrary quantum states between them at room temperature. Moreover, nuclear spin qubits could be well isolated from the electron spin, even during optical polarization and measurement of the electronic state. Finally, coherent interactions between individual nuclear spin qubits were observed and their excellent coherence \u2026",
+                "Understanding and controlling the complex environment of solid-state quantum bits is a central challenge in spintronics and quantum information science. Coherent manipulation of an individual electron spin associated with a nitrogen-vacancy center in diamond was used to gain insight into its local environment. We show that this environment is effectively separated into a set of individual proximal 13C nuclear spins, which are coupled coherently to the electron spin, and the remainder of the 13C nuclear spins, which cause the loss of coherence. The proximal nuclear spins can be addressed and coupled individually because of quantum back-action from the electron, which modifies their energy levels and magnetic moments, effectively distinguishing them from the rest of the nuclei. These results open the door to coherent manipulation of individual isolated nuclear spins in a solid-state environment even at room \u2026",
+                "Quantum entanglement is among the most fascinating aspects of quantum theory 1. Entangled optical photons are now widely used for fundamental tests of quantum mechanics 2 and applications such as quantum cryptography 1. Several recent experiments demonstrated entanglement of optical photons with trapped ions 3, atoms 4, 5 and atomic ensembles 6, 7, 8, which are then used to connect remote long-term memory nodes in distributed quantum networks 9, 10, 11. Here we realize quantum entanglement between the polarization of a single optical photon and a solid-state qubit associated with the single electronic spin of a nitrogen vacancy centre in diamond. Our experimental entanglement verification uses the quantum eraser technique 5, 12, and demonstrates that a high degree of control over interactions between a solid-state qubit and the quantum light field can be achieved. The reported entanglement \u2026",
+                "We describe a technique that enables a strong coherent coupling between a single electronic spin qubit associated with a nitrogen-vacancy impurity in diamond and the quantized motion of a magnetized nanomechanical resonator tip. This coupling is achieved via careful preparation of dressed spin states which are highly sensitive to the motion of the resonator but insensitive to perturbations from the nuclear-spin bath. In combination with optical pumping techniques, the coherent exchange between spin and motional excitations enables ground-state cooling and controlled generation of arbitrary quantum superpositions of resonator states. Optical spin readout techniques provide a general measurement toolbox for the resonator with quantum limited precision.",
+                "We report on the coherent optical excitation of electron spin polarization in the ground state of charged GaAs quantum dots via an intermediate charged exciton (trion) state. Coherent optical fields are used for the creation and detection of the Raman spin coherence between the spin ground states of the charged quantum dot. The measured spin decoherence time, which is likely limited by the nature of the spin ensemble, approaches 10 ns at zero field. We also show that the Raman spin coherence in the quantum beats is caused not only by the usual stimulated Raman interaction but also by simultaneous spontaneous radiative decay of either excited trion state to a coherent combination of the two spin states.",
+                "The homodyne-detected transient four-wave-mixing response of InAs\/GaAs self-assembled quantum dots shows temporal oscillations of the optically induced Raman coherence arising from two entangled polarization eigenstates of the exciton. The phase sensitive nature of the homodyne detection enables us to follow the time evolution of the nonradiative quantum coherence between the polarization states, providing a measurement of the fine-structure splitting in the dots, which is much less than the inhomogeneous broadening, and the corresponding decoherence rate of the entangled state.",
+                "We investigate the coherence properties of individual nuclear spin quantum bits in diamond [Dutt et al., Science 316, 1312 (2007)] when a proximal electronic spin associated with a nitrogen-vacancy (N\u2212 V) center is being interrogated by optical radiation. The resulting nuclear spin dynamics are governed by time-dependent hyperfine interaction associated with rapid electronic transitions, which can be described by a spin-fluctuator model. We show that due to a process analogous to motional averaging in nuclear magnetic resonance, the nuclear spin coherence can be preserved after a large number of optical excitation cycles. Our theoretical analysis is in good agreement with experimental results. It indicates a novel approach that could potentially isolate the nuclear spin system completely from the electronic environment.",
+                "Magnetic sensors capable of detecting nanoscale volumes of spins allow for non-invasive, element-specific probing 1, 2, 3. The error in such measurements is usually reduced by increasing the measurement time, and noise averaging the signal 4, 5. However, achieving the best precision requires restricting the maximum possible field strength to much less than the spectral linewidth of the sensor. Quantum entanglement and squeezing can then be used to improve precision (although they are difficult to implement in solid-state environments). When the field strength is comparable to or greater than the spectral linewidth, an undesirable trade-off between field strength and signal precision occurs 1. Here, we implement novel phase estimation algorithms 6, 7, 8 on a single electronic spin associated with the nitrogen-vacancy defect centre in diamond to achieve an\u223c 8.5-fold improvement in the ratio of the maximum \u2026",
+                "Impulsive stimulated Raman excitation with coherent optical fields is used for controlling the electron spin coherence in a charged GaAs quantum dot ensemble through an intermediate charged exciton (trion) state. The interference between two stimulated Raman two-photon quantum mechanical pathways leading to the spin coherence allows us to control the electron spin coherence on the time scale of the Larmor precession frequency. We also demonstrate, both theoretically and experimentally, that ultrafast manipulation of the spin coherence is possible on the time scale of the optical laser frequency, and analyze the limitations due to the trion and spin decoherence times."
+            ],
+            [
+                [
+                    "Quantum optics",
+                    "Quantum Information",
+                    "Nanoscience",
+                    "Color Centers in Diamond"
+                ]
+            ]
+        ]
+    ]
+}

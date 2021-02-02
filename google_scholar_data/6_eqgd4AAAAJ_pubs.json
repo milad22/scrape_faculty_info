@@ -1,0 +1,110 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4
+    ],
+    "data":[
+        [
+            "Quantum entanglement between spatially separated objects is one of the most intriguing phenomena in physics. The outcomes of independent measurements on entangled objects show correlations that cannot be explained by classical physics. As well as being of fundamental interest, entanglement is a unique resource for quantum information processing and communication. Entangled quantum bits (qubits) can be used to share private information or implement quantum logical gates 1, 2. Such capabilities are particularly useful when the entangled qubits are spatially separated 3, 4, 5, providing the opportunity to create highly connected quantum networks 6 or extend quantum cryptography to long distances 7, 8. Here we report entanglement of two electron spin qubits in diamond with a spatial separation of three metres. We establish this entanglement using a robust protocol based on creation of spin\u2013photon \u2026",
+            "Heralded entanglement between solid-state qubits separated by three metres",
+            "Hannes Bernien and Bas Hensen and Wolfgang Pfaff and Gerwin Koolstra and Machiel S Blok and Lucio Robledo and TH Taminiau and Matthew Markham and Daniel J Twitchen and Lilian Childress and Ronald Hanson",
+            "2013",
+            "6_eqgd4AAAAJ:u5HHmVD_uO8C",
+            876,
+            "https:\/\/www.nature.com\/articles\/nature12016",
+            "4203524030132052935",
+            "\/scholar?cites=4203524030132052935",
+            {
+                "2013":45,
+                "2014":133,
+                "2015":119,
+                "2016":131,
+                "2017":125,
+                "2018":100,
+                "2019":111,
+                "2020":104,
+                "2021":7
+            }
+        ],
+        [
+            "Hybrid spin\u2013mechanical systems provide a platform for integrating quantum registers and transducers. Efficient creation and control of such systems require a comprehensive understanding of the individual spin and mechanical components as well as their mutual interactions. Point defects in silicon carbide (SiC) offer long-lived, optically addressable spin registers in a wafer-scale material with low acoustic losses, making them natural candidates for integration with high-quality-factor mechanical resonators. Here, we show Gaussian focusing of a surface acoustic wave in SiC, characterized using a stroboscopic X-ray diffraction imaging technique, which delivers direct, strain amplitude information at nanoscale spatial resolution. Using ab initio calculations, we provide a more complete picture of spin\u2013strain coupling for various defects in SiC with C 3v symmetry. This reveals the importance of shear strain for future \u2026",
+            "Spin\u2013phonon interactions in silicon carbide addressed by Gaussian acoustics",
+            "Samuel J Whiteley and Gary Wolfowicz and Christopher P Anderson and Alexandre Bourassa and He Ma and Meng Ye and Gerwin Koolstra and Kevin J Satzinger and Martin V Holt and F Joseph Heremans and Andrew N Cleland and David I Schuster and Giulia Galli and David D Awschalom",
+            "2019",
+            "6_eqgd4AAAAJ:ufrVoPGSRksC",
+            94,
+            "https:\/\/www.nature.com\/articles\/s41567-019-0420-0",
+            "3802107250055130607",
+            "\/scholar?cites=3802107250055130607",
+            {
+                "2018":4,
+                "2019":26,
+                "2020":60,
+                "2021":4
+            }
+        ],
+        [
+            "Superconducting thin films with high intrinsic kinetic inductance are of great importance for photon detectors, achieving strong coupling in hybrid systems, and protected qubits. We report on the performance of titanium nitride resonators, patterned on thin films (9\u2013110\u2009nm) grown by atomic layer deposition, with sheet inductances of up to 234 pH\/\u25a1. For films thicker than 14\u2009nm, quality factors measured in the quantum regime range from 0.2 to 1.0 \u00d7 106 and are likely limited by dielectric two-level systems. Additionally, we show characteristic impedances up to 28\u2009k\u03a9, with no significant degradation of the internal quality factor as the impedance increases. These high impedances correspond to an increased single photon coupling strength of 24 times compared to a 50 \u03a9 resonator, transformative for hybrid quantum systems and quantum sensing.",
+            "Atomic layer deposition of titanium nitride for quantum circuits",
+            "Abigail Shearrow and Gerwin Koolstra and Samuel J Whiteley and Nathan Earnest and Peter S Barry and F Joseph Heremans and David D Awschalom and Erik Shirokoff and David I Schuster",
+            "2018",
+            "6_eqgd4AAAAJ:eQOLeE2rZwMC",
+            32,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.5053461",
+            "6808883931954328081",
+            "\/scholar?cites=6808883931954328081",
+            {
+                "2019":12,
+                "2020":18,
+                "2021":2
+            }
+        ],
+        [
+            "The quantized lateral motional states and the spin states of electrons trapped on the surface of superfluid helium have been proposed as basic building blocks of a scalable quantum computer. Circuit quantum electrodynamics allows strong dipole coupling between electrons and a high-Q superconducting microwave resonator, enabling such sensitive detection and manipulation of electron degrees of freedom. Here, we present the first realization of a hybrid circuit in which a large number of electrons are trapped on the surface of superfluid helium inside a coplanar waveguide resonator. The high finesse of the resonator allows us to observe large dispersive shifts that are many times the linewidth and make fast and sensitive measurements on the collective vibrational modes of the electron ensemble, as well as the superfluid helium film underneath. Furthermore, a large ensemble coupling is observed in the \u2026",
+            "Coupling an ensemble of electrons on superfluid helium to a superconducting circuit",
+            "Ge Yang and A Fragner and G Koolstra and L Ocola and DA Czaplewski and RJ Schoelkopf and DI Schuster",
+            "2016",
+            "6_eqgd4AAAAJ:qjMakFHDy7sC",
+            25,
+            "https:\/\/journals.aps.org\/prx\/abstract\/10.1103\/PhysRevX.6.011031",
+            "7546117985472445974",
+            "\/scholar?cites=7546117985472445974",
+            {
+                "2016":5,
+                "2017":4,
+                "2018":2,
+                "2019":5,
+                "2020":9
+            }
+        ],
+        [
+            "Electrons on helium form a unique two-dimensional system on the interface of liquid helium and vacuum. A small number of trapped electrons on helium exhibits strong interactions in the absence of disorder, and can be used as a qubit. Trapped electrons typically have orbital frequencies in the microwave regime and can therefore be integrated with circuit quantum electrodynamics (cQED), which studies light\u2013matter interactions using microwave photons. Here, we experimentally realize a cQED platform with the orbitals of single electrons on helium. We deterministically trap one to four electrons in a dot integrated with a microwave resonator, allowing us to study the electrons\u2019 response to microwaves. Furthermore, we find a single-electron-photon coupling strength of MHz, greatly exceeding the resonator linewidth MHz. These results pave the way towards microwave studies of Wigner \u2026",
+            "Coupling a single electron on superfluid helium to a superconducting resonator",
+            "Gerwin Koolstra and Ge Yang and David I Schuster",
+            "2019",
+            "6_eqgd4AAAAJ:LkGwnXOMwfcC",
+            9,
+            "https:\/\/www.nature.com\/articles\/s41467-019-13335-7",
+            "14093287791089538002",
+            "\/scholar?cites=14093287791089538002",
+            {
+                "2020":9
+            }
+        ]
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "7J1C4FNV",
+            "Kt1bjZoAAAAJ",
+            [
+                "Mining and summarizing customer reviews",
+                "Sentiment analysis and opinion mining",
+                "Top 10 algorithms in data mining",
+                "Integrating classification and association rule mining",
+                "Web data mining: exploring hyperlinks, contents, and usage data",
+                "Sentiment analysis and subjectivity."
+            ],
+            [
+                "Merchants selling products on the Web often ask their customers to review the products that they have purchased and the associated services. As e-commerce is becoming more and more popular, the number of customer reviews that a product receives grows rapidly. For a popular product, the number of reviews can be in hundreds or even thousands. This makes it difficult for a potential customer to read them to make an informed decision on whether to purchase the product. It also makes it difficult for the manufacturer of the product to keep track and to manage customer opinions. For the manufacturer, there are additional difficulties because many merchant sites may sell the same product and the manufacturer normally produces many kinds of products. In this research, we aim to mine and to summarize all the customer reviews of a product. This summarization task is different from traditional text summarization \u2026",
+                "Sentiment analysis and opinion mining is the field of study that analyzes people's opinions, sentiments, evaluations, attitudes, and emotions from written language. It is one of the most active research areas in natural language processing and is also widely studied in data mining, Web mining, and text mining. In fact, this research has spread outside of computer science to the management sciences and social sciences due to its importance to business and society as a whole. The growing importance of sentiment analysis coincides with the growth of social media such as reviews, forum discussions, blogs, micro-blogs, Twitter, and social networks. For the first time in human history, we now have a huge volume of opinionated data recorded in digital form for analysis.Sentiment analysis systems are being applied in almost every business and social domain because opinions are central to almost all human activities \u2026",
+                "This paper presents the top 10 data mining algorithms identified by the IEEE International Conference on Data Mining (ICDM) in December 2006: C4.5, k-Means, SVM, Apriori, EM, PageRank, AdaBoost, kNN, Naive Bayes, and CART. These top 10 algorithms are among the most influential data mining algorithms in the research community. With each algorithm, we provide a description of the algorithm, discuss the impact of the algorithm, and review current and further research on the algorithm. These 10 algorithms cover classification, clustering, statistical learning, association analysis, and link mining, which are all among the most important topics in data mining research and development.",
+                "\u2022 CBA-RG finds all ruleitems that have support above minsup\u2022 ruleitem is of the form:< condset, y>, where \ud835\udc50\ud835\udc50\ud835\udc50\ud835\udc50\ud835\udc50\ud835\udc50\ud835\udc50 \ud835\udc56\ud835\udc50 \ud835\udc4e \ud835\udc50\ud835\udc50\ud835\udc50 \ud835\udc50\ud835\udc5c \ud835\udc56\ud835\udc50\ud835\udc50\ud835\udc56\ud835\udc50, \ud835\udc66\u2208 \ud835\udc4c \ud835\udc56\ud835\udc50 \ud835\udc4e \ud835\udc50\ud835\udc50\ud835\udc4e\ud835\udc50\ud835\udc50 \ud835\udc50\ud835\udc4e\ud835\udc59\ud835\udc50\ud835\udc50\u2022 condsupCount is the number of cases in D that contain the condset\u2022 rulesupCount is the number of cases in D that contain the condset and are labeled with class y\u2022 \ud835\udc50\ud835\udc60\ud835\udc60\ud835\udc60\ud835\udc50\ud835\udc60\ud835\udc50 \ud835\udc56\ud835\udc50 \u201c\ud835\udc5f\ud835\udc5f\ud835\udc5f\ud835\udc5f\ud835\udc5f\ud835\udc5f\ud835\udc5f\ud835\udc5f\ud835\udc5f\ud835\udc5f\ud835\udc5f\ud835\udc5f",
+                "The rapid growth of the Web in the last decade makes it the largest p-licly accessible data source in the world. Web mining aims to discover u-ful information or knowledge from Web hyperlinks, page contents, and-age logs. Based on the primary kinds of data used in the mining process, Web mining tasks can be categorized into three main types: Web structure mining, Web content mining and Web usage mining. Web structure m-ing discovers knowledge from hyperlinks, which represent the structure of the Web. Web content mining extracts useful information\/knowledge from Web page contents. Web usage mining mines user access patterns from usage logs, which record clicks made by every user. The goal of this book is to present these tasks, and their core mining-gorithms. The book is intended to be a text with a comprehensive cov-age, and yet, for each topic, sufficient details are given so that readers can gain a reasonably complete knowledge of its algorithms or techniques without referring to any external materials. Four of the chapters, structured data extraction, information integration, opinion mining, and Web usage mining, make this book unique. These topics are not covered by existing books, but yet they are essential to Web data mining. Traditional Web mining topics such as search, crawling and resource discovery, and link analysis are also covered in detail in this book.",
+                "Textual information in the world can be broadly categorized into two main types: facts and opinions. Facts are objective expressions about entities, events, and their properties. Opinions are usually subjective expressions that describe people\u2019s sentiments, appraisals, or feelings toward entities, events, and their properties. The concept of opinion is very broad. In this chapter, we only focus on opinion expressions that convey people\u2019s positive or negative sentiments. Much of the existing research on textual information processing has been focused on the mining and retrieval of factual information, eg, information retrieval (IR), Web search, text classification, text clustering, and many other text mining and natural language processing tasks. Little work had been done on the processing of opinions until only recently. Yet, opinions are so important that whenever we need to make a decision we want to hear others\u2019 opinions. This is not only true for individuals but also true for organizations. One of the main reasons for the lack of study on opinions is the fact that there was little opinionated text available before the World Wide Web. Before the Web, when an individual needed to make a decision, he or she typically asked for opinions from friends and families. When an organization wanted to find the opinions or sentiments of the general public about its products and services, it conducted opinion polls, surveys, and focus groups. However, with the Web, especially with the explosive growth of the user-generated content on the Web in the past few years, the world has been transformed. The Web has dramatically changed the way that people express their \u2026"
+            ],
+            [
+                [
+                    "Sentiment Analysis",
+                    "Natural Language Processing",
+                    "Data Mining",
+                    "Machine Learning",
+                    "Web Mining"
+                ]
+            ]
+        ]
+    ]
+}

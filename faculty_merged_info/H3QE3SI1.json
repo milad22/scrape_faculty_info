@@ -1,0 +1,46 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "H3QE3SI1",
+            "GLLQXnkAAAAJ",
+            [
+                "Spiral plasmonic nanoantennas as circular polarization transmission filters",
+                "Hybrid plasmon\/dielectric waveguide for integrated silicon-on-insulator optical elements",
+                "Interference and resonant cavity effects explain enhanced transmission through subwavelength apertures in thin metal films",
+                "Ultra-high extinction ratio micropolarizers using plasmonic lenses",
+                "Integral equations applied to wave propagation in two dimensions: modeling the tip of a near-field scanning optical microscope",
+                "Plasmonic micropolarizers for full Stokes vector imaging",
+                "Theoretical study of enhanced transmission through subwavelength linear apertures flanked by periodic corrugations",
+                "Experimental study of enhanced transmission through subwavelength linear apertures flanked by periodic corrugations"
+            ],
+            [
+                "We present simulation and experimental results for easily fabricated spiral plasmonic antenna analogues providing circular polarization selectivity. One circular polarization state is concentrated and transmitted through a subwavelength aperture, while the opposite circular state is blocked. The spectral bandwidth, efficiency, and extinction ratios are tunable through geometric parameters. Integration of such structures onto a focal plane array in conjunction with linear micropolarizers enables complete Stokes vector imaging, that, until now, has been difficult to achieve. An array of these structures forms a plasmonic metamaterial that exhibits high circular dichroism.",
+                "VLSI compatible optical waveguides on silicon are currently of particular interest in order to integrate optical elements onto silicon chips, and for possible replacements of electrical cross-chip\/inter-core interconnects. Here we present simulation and experimental verification of a hybrid plasmon\/dielectric, single-mode, single-polarization waveguide for silicon-on-insulator wafers. Its fabrication is compatible with VLSI processing techniques, and it possesses desirable properties such as the absence of birefringence and low sensitivity to surface roughness and metallic losses. The waveguide structure naturally forms an MOS capacitor, possibly useful for active device integration. Simulations predict very long propagation lengths of millimeter scale with micron scale confinement, or sub-micron scale confinement with propagation lengths still in excess of 100 microns. The waveguide may be tuned continuously between \u2026",
+                "Transmission through an opaque Au film with a single subwavelength aperture centered in a smooth cavity between linear grating structures is studied experimentally and with a finite element model. The model is in good agreement with measured results and is used to investigate local field behavior. It shows that a surface plasmon polariton (SPP) is launched along the metal surface, while interference of the SPP with the incident light along with resonant cavity effects give rise to suppression and enhancement in transmission. Based on experimental and modeling results, peak location and structure of the enhancement\/suppression bands are explained analytically, confirming the primary role of SPPs in enhanced transmission through small apertures in opaque metal films.",
+                "The design of a new type of plasmonic ultra-high extinction ratio micropolarizing transmission filter is presented along with an experimental demonstration. A pair of dielectric coated metal gratings couple incident TM polarized light into surface plasmons, which are fed into a central metal-insulator-metal (MIM) waveguide, followed by transmission through a sub-wavelength aperture. Extinction ratios exceeding 10^11 are predicted by finite element simulation. Good absolute agreement for both the spectral and polarization response is obtained between measurement and simulations using measured geometric parameters. The filters can be easily fabricated and sized to match the pixel pitch of current focal plane arrays.",
+                "We present a Green\u2019s-function\/Green\u2019s-theorem integral equation approach to numerically modeling two-dimensional, s-polarized, wave propagation problems effectively for a variety of geometries. The model accurately calculates both near fields and far fields because of the minimal assumptions made on the behavior of the scattered radiation. The method was applied to modeling light emission from a near-field scanning optical microscope fiber tip. Several convergence and energy tests were used to give confidence in the results. The behavior of intensity and power near the tip was investigated. The effects of changing the dielectric constant of a sample material located below the tip were also examined.",
+                "Polarimetric imaging using micropolarizers integrated on focal plane arrays has previously been limited to the linear components of the Stokes vector because of the lack of an effective structure with selectivity to circular polarization. We discuss a plasmonic micropolarizing filter that can be tuned for linear or circular polarization as well as wavelength selectivity from blue to infrared (IR) through simple changes in its horizontal geometry. The filter consists of a patterned metal film with an aperture in a central cavity that is surrounded by gratings that couple to incoming light. The aperture and gratings are covered with a transparent dielectric layer to form a surface plasmon slab waveguide. A metal cap covers the aperture and forms a metal-insulator-metal (MIM) waveguide. Structures with linear apertures and gratings provide sensitivity to linear polarization, while structures with circular apertures and spiral gratings \u2026",
+                "Enhanced transmission through structures consisting of linear gratings surrounding a single subwavelength aperture in an opaque gold film is modeled using a commercial finite element model (FEM).  The stability of the FEM and boundary conditions are discussed, and different field visualizations are explored to gain insight into field behavior. The results from the FEM were compared with experimental results, yielding excellent agreement. This lends confidence that the FEM is giving an accurate representation of the field behavior around the structure. The FEM was then used to examine how transmission enhancement depends on geometric properties of the structure and to gain insight into the mechanisms of transmission enhancement.",
+                "We present a study of optical transmission in the visible and  near-infrared regimes through subwavelength apertures in gold  films. Samples consisting of single, ~100 nm wide, 50 micron long, linear apertures, centered between two finite grating structures, were prepared using electron-beam lithography with  subsequent broad-beam argon-ion milling. The period and number of  the corrugations that make up the grating structures was constant,  while the distance between the gratings on each side of the  aperture was varied. Spectrally resolved far-field transmission  measurements were obtained for normal incidence with a  spectrometer-coupled optical microscope configured for  transmission measurements. Transmission through these structures  was significantly enhanced relative to an isolated aperture at  resonant wavelengths for transverse magnetic polarized incident  light, in agreement with the literature \u2026"
+            ],
+            [
+                [
+                    "Electromagnetic Theory",
+                    "Photonics",
+                    "Plasmonics",
+                    "Relativity"
+                ]
+            ]
+        ]
+    ]
+}

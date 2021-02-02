@@ -1,0 +1,65 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Jss4VOYAAAAJ",
+            "Justin Stevens",
+            "Assistant Professor of Physics, College of William and Mary",
+            "@jlab.org",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=Jss4VOYAAAAJ",
+            7046,
+            [
+                "Nuclear Physics",
+                "Particle Physics"
+            ],
+            4375,
+            51,
+            37,
+            79,
+            74,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"cK_dVFAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Matthew R. Shepherd",
+                    "affiliation":"Professor of Physics, Indiana University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"jkKrk0sAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Curtis Meyer",
+                    "affiliation":"Professor of Physics, Carnegie Mellon University"
+                }
+            ]
+        ]
+    ]
+}

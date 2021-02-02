@@ -1,0 +1,241 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Real networks exhibit heterogeneous nature with nodes playing far different roles in structure and function. To identify vital nodes is thus very significant, allowing us to control the outbreak of epidemics, to conduct advertisements for e-commercial products, to predict popular scientific publications, and so on. The vital nodes identification attracts increasing attentions from both computer science and physical societies, with algorithms ranging from simply counting the immediate neighbors to complicated machine learning and message passing approaches. In this review, we clarify the concepts and metrics, classify the problems and methods, as well as review the important progresses and describe the state of the art. Furthermore, we provide extensive empirical analyses to compare well-known methods on disparate real networks, and highlight the future directions. In spite of the emphasis on physics-rooted \u2026",
+            "Vital nodes identification in complex networks",
+            "Linyuan L\u00fc and Duanbing Chen and Xiao-Long Ren and Qian-Ming Zhang and Yi-Cheng Zhang and Tao Zhou",
+            "2016",
+            "e6-gZJ8AAAAJ:hqOjcs7Dif8C",
+            625,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0370157316301570",
+            "2297623996522050844",
+            "\/scholar?cites=2297623996522050844",
+            {
+                "2016":4,
+                "2017":80,
+                "2018":133,
+                "2019":200,
+                "2020":189,
+                "2021":14
+            }
+        ],
+        [
+            "Identifying influential nodes in dynamical processes is crucial in understanding network structure and function. Degree, H-index and coreness are widely used metrics, but previously treated as unrelated. Here we show their relation by constructing an operator, in terms of which degree, H-index and coreness are the initial, intermediate and steady states of the sequences, respectively. We obtain a family of H-indices that can be used to measure a node\u2019s importance. We also prove that the convergence to coreness can be guaranteed even under an asynchronous updating process, allowing a decentralized local method of calculating a node\u2019s coreness in large-scale evolving networks. Numerical analyses of the susceptible-infected-removed spreading dynamics on disparate real networks suggest that the H-index is a good tradeoff that in many cases can better quantify node influence than either degree or coreness.",
+            "The H-index of a network node and its relation to degree and coreness",
+            "Linyuan L\u00fc and Tao Zhou and Qian-Ming Zhang and H. Eugene Stanley",
+            "2016",
+            "e6-gZJ8AAAAJ:Se3iqnhoufwC",
+            301,
+            "https:\/\/www.nature.com\/articles\/ncomms10168?origin=ppub",
+            "14487494832705669812",
+            "\/scholar?cites=14487494832705669812",
+            {
+                "2016":14,
+                "2017":57,
+                "2018":66,
+                "2019":80,
+                "2020":74,
+                "2021":7
+            }
+        ],
+        [
+            "The common-neighbor\u2013based method is simple yet effective to predict missing links, which assume that two nodes are more likely to be connected if they have more common neighbors. In the traditional method, each common neighbor of two nodes contributes equally to the connection likelihood. In this letter, we argue that different common neighbors may play different roles and thus contributes differently, and propose a local na\u00efve Bayes model. Extensive experiments were carried out on nine real networks. Compared with the traditional method, the present method can provide more accurate predictions.",
+            "Link prediction in complex networks: A local na\u00efve Bayes model",
+            "Zhen Liu and Qian-Ming Zhang and Linyuan L\u00fc and Tao Zhou",
+            "2011",
+            "e6-gZJ8AAAAJ:u-x6o8ySG0sC",
+            178,
+            "https:\/\/iopscience.iop.org\/article\/10.1209\/0295-5075\/96\/48007\/meta",
+            "3638332331583051628",
+            "\/scholar?cites=3638332331583051628",
+            {
+                "2012":5,
+                "2013":10,
+                "2014":11,
+                "2015":17,
+                "2016":23,
+                "2017":24,
+                "2018":23,
+                "2019":34,
+                "2020":25,
+                "2021":3
+            }
+        ],
+        [
+            "Uncovering factors underlying the network formation is a long-standing challenge for data mining and network analysis. In particular, the microscopic organizing principles of directed networks are less understood than those of undirected networks. This article proposes a hypothesis named potential theory, which assumes that every directed link corresponds to a decrease of a unit potential and subgraphs with definable potential values for all nodes are preferred. Combining the potential theory with the clustering and homophily mechanisms, it is deduced that the Bi-fan structure consisting of 4 nodes and 4 directed links is the most favored local structure in directed networks. Our hypothesis receives strongly positive supports from extensive experiments on 15 directed networks drawn from disparate fields, as indicated by the most accurate and robust performance of Bi-fan predictor within the link prediction framework. In summary, our main contribution is twofold: (i) We propose a new mechanism for the local organization of directed networks; (ii) We design the corresponding link prediction algorithm, which can not only testify our hypothesis, but also find out direct applications in missing link prediction and friendship recommendation.",
+            "Potential Theory for Directed Networks",
+            "Qian-Ming Zhang and Linyuan L\u00fc and Wen-Qiang Wang and Yu-Xiao Zhu and Tao Zhou",
+            "2013",
+            "e6-gZJ8AAAAJ:qjMakFHDy7sC",
+            127,
+            "https:\/\/journals.plos.org\/plosone\/article?id=10.1371\/journal.pone.0055437",
+            "567924699303339251",
+            "\/scholar?cites=567924699303339251",
+            {
+                "2012":2,
+                "2013":3,
+                "2014":15,
+                "2015":24,
+                "2016":17,
+                "2017":15,
+                "2018":12,
+                "2019":19,
+                "2020":17,
+                "2021":2
+            }
+        ],
+        [
+            "Link prediction aims to uncover missing links or predict the emergence of future relationships from the current network structure. Plenty of algorithms have been developed for link prediction in unweighted networks, but only a few have been extended to weighted networks. In this paper, we present what we call a \u201creliable-route method\u201d to extend unweighted local similarity indices to weighted ones. Using these indices, we can predict both the existence of links and their weights. Experiments on various real-world networks suggest that our reliable-route weighted resource-allocation index performs noticeably better than others with respect to weight prediction. For existence prediction it is either the highest or very close to the highest. Further analysis shows a strong positive correlation between the clustering coefficient and prediction accuracy. Finally, we apply our method to the prediction of missing protein-protein \u2026",
+            "Prediction of links and weights in networks by reliable routes",
+            "Jing Zhao and Lili Miao and Jian Yang and Haiyang Fang and Qian-Ming Zhang and Min Nie and Petter Holme and Tao Zhou",
+            "2015",
+            "e6-gZJ8AAAAJ:roLk4NBRz8UC",
+            98,
+            "https:\/\/www.nature.com\/articles\/srep12261",
+            "6700632258509371718",
+            "\/scholar?cites=6700632258509371718",
+            {
+                "2015":1,
+                "2016":23,
+                "2017":20,
+                "2018":18,
+                "2019":18,
+                "2020":14,
+                "2021":2
+            }
+        ],
+        [
+            "Many models are put forward to mimic the evolution of real networked systems. A well-accepted way to judge the validity is to compare the modeling results with real networks subject to several structural features. Even for a specific real network, we cannot fairly evaluate the goodness of different models since there are too many structural features while there is no criterion to select and assign weights on them. Motivated by the studies on link prediction algorithms, we propose a unified method to evaluate the network models via the comparison of the likelihoods of the currently observed network driven by different models, with an assumption that the higher the likelihood is, the more accurate the model is. We test our method on the real Internet at the Autonomous System (AS) level, and the results suggest that the Generalized Linear Preferential (GLP) model outperforms the Tel Aviv Network Generator (Tang), while \u2026",
+            "Evaluating network models: A likelihood analysis",
+            "Wen-Qiang Wang and Qian-Ming Zhang and Tao Zhou",
+            "2012",
+            "e6-gZJ8AAAAJ:UeHWp8X0CEIC",
+            80,
+            "https:\/\/iopscience.iop.org\/article\/10.1209\/0295-5075\/98\/28004\/meta",
+            "12721706704203896054",
+            "\/scholar?cites=12721706704203896054",
+            {
+                "2012":2,
+                "2013":4,
+                "2014":8,
+                "2015":9,
+                "2016":16,
+                "2017":12,
+                "2018":9,
+                "2019":11,
+                "2020":8,
+                "2021":1
+            }
+        ],
+        [
+            "Food occupies a central position in every culture and it is therefore of great interest to understand the evolution of food culture. The advent of the World Wide Web and online recipe repositories have begun to provide unprecedented opportunities for data-driven, quantitative study of food culture. Here we harness an online database documenting recipes from various Chinese regional cuisines and investigate the similarity of regional cuisines in terms of geography and climate. We find that geographical proximity, rather than climate proximity, is a crucial factor that determines the similarity of regional cuisines. We develop a model of regional cuisine evolution that provides helpful clues for understanding the evolution of cuisines and cultures.",
+            "Geography and similarity of regional cuisines in China",
+            "Yu-Xiao Zhu and Junming Huang and Zi-Ke Zhang and Qian-Ming Zhang and Tao Zhou and Yong-Yeol Ahn",
+            "2013",
+            "e6-gZJ8AAAAJ:zYLM7Y9cAGgC",
+            69,
+            "https:\/\/journals.plos.org\/plosone\/article?id=10.1371\/journal.pone.0079161",
+            "16593276940026088599",
+            "\/scholar?cites=16593276940026088599",
+            {
+                "2014":6,
+                "2015":9,
+                "2016":9,
+                "2017":10,
+                "2018":10,
+                "2019":12,
+                "2020":11,
+                "2021":2
+            }
+        ],
+        [
+            "Numerous concise models such as preferential attachment have been put forward to reveal the evolution mechanisms of real-world networks, which show that real-world networks are usually jointly driven by a hybrid mechanism of multiplex features instead of a single pure mechanism. To get an accurate simulation for real networks, some researchers proposed a few hybrid models by mixing multiple evolution mechanisms. Nevertheless, how a hybrid mechanism of multiplex features jointly influence the network evolution is not very clear. In this study, we introduce two methods (link prediction and likelihood analysis) to measure multiple evolution mechanisms of complex networks. Through tremendous experiments on artificial networks, which can be controlled to follow multiple mechanisms with different weights, we find the method based on likelihood analysis performs much better and gives very accurate \u2026",
+            "Measuring multiple evolution mechanisms of complex networks",
+            "Qian-Ming Zhang and Xiao-Ke Xu and Yu-Xiao Zhu and Tao Zhou",
+            "2015",
+            "e6-gZJ8AAAAJ:W7OEmFMy1HYC",
+            64,
+            "https:\/\/www.nature.com\/articles\/srep10350",
+            "976127863903924341",
+            "\/scholar?cites=976127863903924341",
+            {
+                "2015":1,
+                "2016":11,
+                "2017":15,
+                "2018":12,
+                "2019":11,
+                "2020":13,
+                "2021":1
+            }
+        ],
+        [
+            "Recommender systems are becoming a popular and important set of personalization techniques that assist individual users with navigating through the rapidly growing amount of information. A good recommender system should be able to not only find out the objects preferred by users, but also help users in discovering their personalized tastes. The former corresponds to high accuracy of the recommendation, while the latter to high diversity. A big challenge is to design an algorithm that provides both highly accurate and diverse recommendation. Traditional recommendation algorithms only take into account the contributions of similar users, thus, they tend to recommend popular items for users ignoring the diversity of recommendations. In this paper, we propose a recommendation algorithm by considering both the effects of similar and dissimilar users under the framework of collaborative filtering. Extensive \u2026",
+            "Can dissimilar users contribute to accuracy and diversity of personalized recommendation?",
+            "Wei Zeng and Ming-Sheng Shang and Qian-Ming Zhang and Linyuan L\u00fc and Tao Zhou",
+            "2010",
+            "e6-gZJ8AAAAJ:d1gkVwhDpl0C",
+            64,
+            "https:\/\/www.worldscientific.com\/doi\/abs\/10.1142\/S0129183110015786",
+            "4992129408960579204",
+            "\/scholar?cites=4992129408960579204",
+            {
+                "2011":3,
+                "2012":6,
+                "2013":6,
+                "2014":12,
+                "2015":6,
+                "2016":8,
+                "2017":4,
+                "2018":12,
+                "2019":3,
+                "2020":2,
+                "2021":1
+            }
+        ],
+        [
+            "Information overload is a serious problem in modern society and many solutions such as recommender system have been proposed to filter out irrelevant information. In the literature, researchers have been mainly dedicated to improving the recommendation performance (accuracy and diversity) of the algorithms while they have overlooked the influence of topology of the online user-object bipartite networks. In this paper, we find that some information provided by the bipartite networks is not only redundant but also misleading. With such \u201cless can be more\u201d feature, we design some algorithms to improve the recommendation performance by eliminating some links from the original networks. Moreover, we propose a hybrid method combining the time-aware and topology-aware link removal algorithms to extract the backbone which contains the essential information for the recommender systems. From the practical point of view, our method can improve the performance and reduce the computational time of the recommendation system, thus improving both of their effectiveness and efficiency.",
+            "Extracting the information backbone in online system",
+            "Qian-Ming Zhang and An Zeng and Ming-Sheng Shang",
+            "2013",
+            "e6-gZJ8AAAAJ:IjCSPb-OGe4C",
+            50,
+            "https:\/\/journals.plos.org\/plosone\/article?id=10.1371\/journal.pone.0062624",
+            "16406498170977067549",
+            "\/scholar?cites=16406498170977067549",
+            {
+                "2013":2,
+                "2014":8,
+                "2015":9,
+                "2016":8,
+                "2017":7,
+                "2018":9,
+                "2019":4,
+                "2020":3
+            }
+        ]
+    ]
+}

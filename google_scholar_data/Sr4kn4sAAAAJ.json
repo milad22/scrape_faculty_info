@@ -1,0 +1,52 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Sr4kn4sAAAAJ",
+            "Abraham Camacho Garibay",
+            "The Ohio State University",
+            "@osu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=Sr4kn4sAAAAJ",
+            7,
+            [
+
+            ],
+            3,
+            2,
+            1,
+            0,
+            0,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"rIIHdHIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jan Michael Rost",
+                    "affiliation":"Director of the division Finite Systems, Max Planck Institute for the Physics of Complex Systems"
+                }
+            ]
+        ]
+    ]
+}

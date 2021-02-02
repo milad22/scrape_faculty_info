@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "BRVKZNFV",
+            "rEE3N-4AAAAJ",
+            [
+                "Effective field theory for few-nucleon systems",
+                "Renormalization of the three-body system with short-range interactions",
+                "The three-boson system with short-range interactions",
+                "Quartet S wave neutron deuteron scattering in effective field theory",
+                "Phase separation in asymmetrical fermion superfluids",
+                "Towards a perturbative theory of nuclear forces",
+                "High-density quark matter under stress",
+                "Three-body recombination in Bose gases with large scattering length",
+                "Aharonov\u2013Bohm effect and nucleon\u2013nucleon phase shifts on the lattice",
+                "Two nucleons on a lattice"
+            ],
+            [
+                "We review the effective field theories (EFTs) developed for few-nucleon systems. These EFTs are controlled expansions in momenta, where certain (leading-order) interactions are summed to all orders. At low energies, an EFT with only contact interactions allows a detailed analysis of renormalization in a nonperturbative context and uncovers novel asymptotic behavior. Manifestly model-independent calculations can be carried out to high orders, leading to high precision. At higher energies, an EFT that includes pion fields justifies and extends the traditional framework of phenomenological potentials. The correct treatment of QCD symmetries ensures a connection with lattice QCD. Several tests and prospects of these EFTs are discussed.",
+                "We discuss renormalization of the nonrelativistic three-body problem with short-range forces. The problem becomes nonperturbative at momenta of the order of the inverse of the two-body scattering length, and an infinite number of graphs must be summed. This summation leads to a cutoff dependence that does not appear in any order in perturbation theory. We argue that this cutoff dependence can be absorbed in a single three-body counterterm and compute the running of the three-body force with the cutoff. We comment on the relevance of this result for the effective field theory program in nuclear and molecular physics.",
+                "We discuss renormalization of the non-relativistic three-body problem with short-range forces. The problem is non-perturbative at momenta of the order of the inverse of the two-body scattering length. An infinite number of graphs must be summed, which leads to a cutoff dependence that does not appear in any order in perturbation theory. We argue that this cutoff dependence can be absorbed in one local three-body force counterterm and compute the running of the three-body force with the cutoff. This allows a calculation of the scattering of a particle and the two-particle bound state if the corresponding scattering length is used as input. We also obtain a model-independent relation between binding energy of a shallow three-body bound state and this scattering length. We comment on the power counting that organizes higher-order corrections and on relevance of this result for the effective field theory program in \u2026",
+                "The real and imaginary part of the quartet S wave phase shift in nd scattering (4 S 3\/2) for centre-of-mass momenta of up to 300 MeV (E cm\u2248 70 MeV) is presented in effective field theory, using both perturbative pions and a theory in which pions are integrated out. As available, the calculation agrees with both experimental data and potential model calculations, but extends to a higher, so far untested momentum r\u00e9gime above the deuteron breakup point. A Lagrangean more feasible for numerical computations is derived.",
+                "Motivated by recent developments on cold atom traps and high density QCD we consider fermionic systems composed of two particle species with different densities. We argue that a mixed phase composed of normal and superfluid components is the energetically favored ground state. We suggest how this phase separation can be used as a probe of fermion superfluidity in atomic traps.",
+                "We show that an expansion of nuclear forces about the chiral limit is formally consistent and is equivalent to KSW power counting in the 1 S 0 channel and Weinberg power counting in the 3 S 1\u20133 D 1 coupled channels. Numerical evidence suggests that this expansion converges. The feasibility of making contact between nuclear physics and lattice-QCD simulations is discussed.",
+                "We study the effect of SU (3)-flavor breaking on high-density quark matter. We discuss, in particular, a nonzero electron chemical potential and a finite strange-quark mass. We argue that these perturbations trigger pion or kaon condensation. The critical chemical potential behaves as \u03bc e\u223c mm s \u0394\/p F and the critical strange-quark mass as m s\u223c m 1\/3 \u0394 2\/3, where m is the light-quark mass, \u0394 is the gap, and p F is the Fermi momentum. We note that parametrically, both the critical \u03bc e and m s 2\/(2p F) are much smaller than the gap.",
+                "An effective field theory for the three-body system with large scattering length is applied to three-body recombination to a weakly bound s-wave state in a Bose gas. Our model independent analysis demonstrates that the three-body recombination constant \u03b1 is not universal, but can take any value between zero and 67.9 \u0127 a 4\/m, where a is the scattering length. Other low-energy three-body observables can be predicted in terms of a and \u03b1. Near a Feshbach resonance, \u03b1 should oscillate between those limits as the magnetic field B approaches the point where a\u2192\u221e. In any interval of B over which a increases by a factor of 22.7, \u03b1 should have a zero.",
+                "We propose a method for the lattice QCD computation of nucleon\u2013nucleon low-energy interactions. It consists in simulating QCD in the background of a \u201celectromagnetic\u201d field whose potential is non-vanishing, but whose field strength is zero. By tuning the background field, phase-shifts at any (but small) momenta can be determined by measuring the shift of the ground state energy. Lattice sizes as small as 5 Fermi can be sufficient for the calculation of phase shifts up to momenta of order of m\u03c0\/2.",
+                "The two-nucleon sector is near an infrared fixed point of QCD and as a result the S-wave scattering lengths are unnaturally large compared to the effective ranges and shape parameters. It is usually assumed that a lattice QCD simulation of the two-nucleon sector will require a lattice that is much larger than the scattering lengths in order to extract quantitative information. In this Letter we point out that this does not have to be the case: lattice QCD simulations on much smaller lattices will produce rigorous results for nuclear physics."
+            ],
+            [
+                [
+                    "Physics"
+                ]
+            ]
+        ]
+    ]
+}

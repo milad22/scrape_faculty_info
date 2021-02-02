@@ -1,0 +1,244 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "We implement all single-qubit operations with fidelities significantly above the minimum threshold required for fault-tolerant quantum computing, using a trapped-ion qubit stored in hyperfine \u201catomic clock\u201d states of Ca+ 43. We measure a combined qubit state preparation and single-shot readout fidelity of 99.93%, a memory coherence time of T 2*= 50 sec, and an average single-qubit gate fidelity of 99.9999%. These results are achieved in a room-temperature microfabricated surface trap, without the use of magnetic field shielding or dynamic decoupling techniques to overcome technical noise.",
+            "High-Fidelity Preparation, Gates, Memory, and Readout of a Trapped-Ion Quantum Bit",
+            "TP Harty and DTC Allcock and CJ Ballance and L Guidoni and HA Janacek and NM Linke and DN Stacey and DM Lucas",
+            "2014",
+            "67cAqIIAAAAJ:IjCSPb-OGe4C",
+            449,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.113.220501",
+            "2029723885418564937",
+            "\/scholar?cites=2029723885418564937",
+            {
+                "2014":7,
+                "2015":48,
+                "2016":75,
+                "2017":60,
+                "2018":63,
+                "2019":82,
+                "2020":98,
+                "2021":13
+            }
+        ],
+        [
+            "We demonstrate single-shot qubit readout with a fidelity sufficient for fault-tolerant quantum computation. For an optical qubit stored in Ca+ 40 we achieve 99.991 (1)% average readout fidelity in 10 6 trials, using time-resolved photon counting. An adaptive measurement technique allows 99.99% fidelity to be reached in 145 \u03bc s average detection time. For Ca+ 43, we propose and implement an optical pumping scheme to transfer a long-lived hyperfine qubit to the optical qubit, capable of a theoretical fidelity of 99.95% in 10 \u03bc s. We achieve 99.87 (4)% transfer fidelity and 99.77 (3)% net readout fidelity.",
+            "High-fidelity readout of trapped-ion qubits",
+            "AH Myerson and DJ Szwer and SC Webster and DTC Allcock and MJ Curtis and G Imreh and JA Sherman and DN Stacey and AM Steane and DM Lucas",
+            "2008",
+            "67cAqIIAAAAJ:u5HHmVD_uO8C",
+            322,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.100.200502",
+            "13827717262936616406",
+            "\/scholar?cites=13827717262936616406",
+            {
+                "2008":5,
+                "2009":24,
+                "2010":34,
+                "2011":39,
+                "2012":22,
+                "2013":23,
+                "2014":28,
+                "2015":15,
+                "2016":24,
+                "2017":30,
+                "2018":17,
+                "2019":20,
+                "2020":34,
+                "2021":4
+            }
+        ],
+        [
+            "We describe a new electrode design for a surface-electrode Paul trap, which allows rotation of the normal modes out of the trap plane, and a technique for micromotion compensation in all directions using a two-photon process, which avoids the need for an ultraviolet laser directed to the trap plane. The fabrication and characterization of the trap are described, as well as its implementation for the trapping and cooling of single Ca+ ions. We also propose a repumping scheme that increases ion fluorescence and simplifies heating rate measurements obtained by time-resolved ion fluorescence during Doppler cooling.",
+            "Implementation of a symmetric surface-electrode ion trap with field compensation using a modulated Raman effect",
+            "DTC Allcock and JA Sherman and DN Stacey and AH Burrell and MJ Curtis and G Imreh and NM Linke and DJ Szwer and SC Webster and AM Steane and DM Lucas",
+            "2010",
+            "67cAqIIAAAAJ:u-x6o8ySG0sC",
+            118,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/1367-2630\/12\/5\/053026\/meta",
+            "10245167585128037185",
+            "\/scholar?cites=10245167585128037185",
+            {
+                "2010":5,
+                "2011":17,
+                "2012":18,
+                "2013":17,
+                "2014":9,
+                "2015":15,
+                "2016":10,
+                "2017":7,
+                "2018":5,
+                "2019":5,
+                "2020":7,
+                "2021":2
+            }
+        ],
+        [
+            "Entanglement is one of the most fundamental properties of quantum mechanics 1, 2, 3, and is the key resource for quantum information processing 4, 5 (QIP). Bipartite entangled states of identical particles have been generated and studied in several experiments, and post-selected or heralded entangled states involving pairs of photons, single photons and single atoms, or different nuclei in the solid state, have also been produced 6, 7, 8, 9, 10, 11, 12. Here we use a deterministic quantum logic gate to generate a \u2018hybrid\u2019entangled state of two trapped-ion qubits held in different isotopes of calcium, perform full tomography of the state produced, and make a test of Bell\u2019s inequality with non-identical atoms. We use a laser-driven two-qubit gate 13, whose mechanism is insensitive to the qubits\u2019 energy splittings, to produce a maximally entangled state of one 40 Ca+ qubit and one 43 Ca+ qubit, held 3.5 micrometres \u2026",
+            "Hybrid quantum logic and a test of Bell\u2019s inequality using two different atomic isotopes",
+            "CJ Ballance and VM Sch\u00e4fer and JP Home and DJ Szwer and SC Webster and DTC Allcock and NM Linke and TP Harty and DPL Aude Craik and DN Stacey and AM Steane and DM Lucas",
+            "2015",
+            "67cAqIIAAAAJ:0EnyYjriUFMC",
+            89,
+            "https:\/\/www.nature.com\/articles\/nature16184",
+            "1091307253596159287",
+            "\/scholar?cites=1091307253596159287",
+            {
+                "2015":4,
+                "2016":17,
+                "2017":18,
+                "2018":14,
+                "2019":15,
+                "2020":20,
+                "2021":1
+            }
+        ],
+        [
+            "We demonstrate a two-qubit logic gate driven by near-field microwaves in a room-temperature microfabricated surface ion trap. We introduce a dynamically decoupled gate method, which stabilizes the qubits against fluctuating energy shifts and avoids the need to null the microwave field. We use the gate to produce a Bell state with fidelity 99.7 (1)%, after accounting for state preparation and measurement errors. The gate is applied directly to Ca+ 43 hyperfine \u201catomic clock\u201d qubits (coherence time T 2*\u2248 50 s) using the oscillating magnetic field gradient produced by an integrated microwave electrode.",
+            "High-fidelity trapped-ion quantum logic using near-field microwaves",
+            "TP Harty and MA Sepiol and DTC Allcock and CJ Ballance and JE Tarlton and DM Lucas",
+            "2016",
+            "67cAqIIAAAAJ:kNdYIx-mwKoC",
+            88,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.117.140501",
+            "13991995074661843357",
+            "\/scholar?cites=13991995074661843357",
+            {
+                "2016":6,
+                "2017":12,
+                "2018":16,
+                "2019":24,
+                "2020":26,
+                "2021":4
+            }
+        ],
+        [
+            "Laser cleaning of the electrodes in a planar micro-fabricated ion trap has been attempted using ns pulses from a tripled Nd: YAG laser at 355 nm. The effect of the laser pulses at several energy density levels has been tested by measuring the heating rate of a single 40 Ca+ trapped ion as a function of its secular frequency \u03c9 z. A reduction of the electric-field noise spectral density by~ 50% has been observed and a change in the frequency dependence also noticed. This is the first reported experiment where the'anomalous heating'phenomenon has been reduced by removing the source as opposed to reducing its thermal driving by cryogenic cooling. This technique may open up the way to better control of the electrode surface quality in ion microtraps.",
+            "Reduction of heating rate in a microfabricated ion trap by pulsed-laser cleaning",
+            "DTC Allcock and L Guidoni and TP Harty and CJ Ballance and MG Blain and AM Steane and DM Lucas",
+            "2011",
+            "67cAqIIAAAAJ:2osOgNQ5qMEC",
+            84,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/1367-2630\/13\/12\/123023\/meta",
+            "15592395124652344906",
+            "\/scholar?cites=15592395124652344906",
+            {
+                "2012":4,
+                "2013":13,
+                "2014":7,
+                "2015":16,
+                "2016":15,
+                "2017":10,
+                "2018":4,
+                "2019":5,
+                "2020":10
+            }
+        ],
+        [
+            "Trapped ions are sensitive to electric-field noise from trap-electrode surfaces. This noise has been an obstacle to progress in trapped-ion quantum information processing (QIP) experiments for more than a decade. It causes motional heating of the ions, and thus quantum-state decoherence. This heating is anomalous because it is not easily explained by typical technical-noise sources. Experimental evidence of its dependence on ion-electrode distance, frequency, and electrode temperature points to the surface, rather than the bulk, of the trap electrodes as the origin. In this article, we review experimental efforts and models to help identify and reduce or eliminate the source of the anomalous heating. Recent progress to reduce the heating with in situ cleaning indicates that it may not be a fundamental limit to trapped-ion QIP. Moreover, the extreme sensitivity of trapped ions to electric-field noise may \u2026",
+            "Surface science for improved ion traps",
+            "DA Hite and Y Colombe and AC Wilson and DTC Allcock and D Leibfried and DJ Wineland and DP Pappas",
+            "2013",
+            "67cAqIIAAAAJ:UeHWp8X0CEIC",
+            68,
+            "https:\/\/link.springer.com\/article\/10.1557\/mrs.2013.207",
+            "10507160154047415268",
+            "\/scholar?cites=10507160154047415268",
+            {
+                "2014":6,
+                "2015":9,
+                "2016":12,
+                "2017":14,
+                "2018":7,
+                "2019":12,
+                "2020":7,
+                "2021":1
+            }
+        ],
+        [
+            "We describe the design, fabrication, and testing of a surface-electrode ion trap, which incorporates microwave waveguides, resonators, and coupling elements for the manipulation of trapped ion qubits using near-field microwaves. The trap is optimised to give a large microwave field gradient to allow state-dependent manipulation of the ions' motional degrees of freedom, the key to multi-qubit entanglement. The microwave field near the centre of the trap is characterised by driving hyperfine transitions in a single laser-cooled \u200943Ca+ ion.",
+            "A microfabricated ion trap with integrated microwave circuitry",
+            "DTC Allcock and TP Harty and CJ Ballance and BC Keitch and NM Linke and DN Stacey and DM Lucas",
+            "2013",
+            "67cAqIIAAAAJ:9yKSN-GCB0IC",
+            63,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.4774299",
+            "12649604404940839051",
+            "\/scholar?cites=12649604404940839051",
+            {
+                "2012":2,
+                "2013":8,
+                "2014":16,
+                "2015":9,
+                "2016":9,
+                "2017":3,
+                "2018":2,
+                "2019":6,
+                "2020":8
+            }
+        ],
+        [
+            "We characterise the performance of a surface-electrode ion \u201cchip\u201d trap fabricated using established semiconductor integrated circuit and micro-electro-mechanical-system (MEMS) microfabrication processes, which are in principle scalable to much larger ion trap arrays, as proposed for implementing ion trap quantum information processing. We measure rf ion micromotion parallel and perpendicular to the plane of the trap electrodes, and find that on-package capacitors reduce this to \u227210\u00e1nm in amplitude. We also measure ion trapping lifetime, charging effects due to laser light incident on the trap electrodes, and the heating rate for a single trapped ion. The performance of this trap is found to be comparable with others of the same size scale.",
+            "Heating rate and electrode charging measurements in a scalable, microfabricated, surface-electrode ion trap",
+            "DTC Allcock and TP Harty and HA Janacek and NM Linke and CJ Ballance and AM Steane and DM Lucas and RL Jarecki and SD Habermehl and MG Blain and D Stick and DL Moehring",
+            "2012",
+            "67cAqIIAAAAJ:d1gkVwhDpl0C",
+            55,
+            "https:\/\/link.springer.com\/article\/10.1007\/s00340-011-4788-5",
+            "16085424687567329835",
+            "\/scholar?cites=16085424687567329835",
+            {
+                "2011":3,
+                "2012":6,
+                "2013":8,
+                "2014":10,
+                "2015":9,
+                "2016":5,
+                "2017":7,
+                "2018":2,
+                "2019":3,
+                "2020":2
+            }
+        ],
+        [
+            "Detection of the weakest forces in nature is aided by increasingly sensitive measurements of the motion of mechanical oscillators. However, the attainable knowledge of an oscillator\u2019s motion is limited by quantum fluctuations that exist even if the oscillator is in its lowest possible energy state. We demonstrate a technique for amplifying coherent displacements of a mechanical oscillator with initial magnitudes well below these zero-point fluctuations. When applying two orthogonal squeezing interactions, one before and one after a small displacement, the displacement is amplified, ideally with no added quantum noise. We implemented this protocol with a trapped-ion mechanical oscillator and determined an increase by a factor of up to 7.3 (\u00b10.3) in sensitivity to small displacements.",
+            "Quantum amplification of mechanical oscillator motion",
+            "SC Burd and R Srinivas and JJ Bollinger and AC Wilson and DJ Wineland and D Leibfried and DH Slichter and DTC Allcock",
+            "2019",
+            "67cAqIIAAAAJ:_kc_bZDykSQC",
+            49,
+            "https:\/\/science.sciencemag.org\/content\/364\/6446\/1163.abstract",
+            "6509495329178606589",
+            "\/scholar?cites=6509495329178606589",
+            {
+                "2019":9,
+                "2020":39,
+                "2021":1
+            }
+        ]
+    ]
+}

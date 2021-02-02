@@ -1,0 +1,211 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Galaxy clusters exhibit remarkable self-similar behavior which allows us to establish simple scaling relationships between observable quantities and cluster masses, making galaxy clusters useful cosmological probes. Recent X-ray observations suggested that self-similarity may be broken in the outskirts of galaxy clusters. In this work, we analyze a mass-limited sample of massive galaxy clusters from the Omega500 cosmological hydrodynamic simulation to investigate the self-similarity of the diffuse X-ray emitting intracluster medium (ICM) in the outskirts of galaxy clusters. We find that the self-similarity of the outer ICM profiles is better preserved if they are normalized with respect to the mean density of the universe, while the inner profiles are more self-similar when normalized using the critical density. However, the outer ICM profiles as well as the location of accretion shock around clusters are sensitive to their \u2026",
+            "Mass Accretion and its Effects on the Self-similarity of Gas Profiles in the Outskirts of Galaxy Clusters",
+            "Erwin T Lau and Daisuke Nagai and Camille Avestruz and Kaylea Nelson and Alexey Vikhlinin",
+            "2015",
+            "SMSV9QkAAAAJ:d1gkVwhDpl0C",
+            67,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0004-637X\/806\/1\/68\/meta",
+            "3188453094432777319",
+            "\/scholar?cites=3188453094432777319",
+            {
+                "2015":3,
+                "2016":11,
+                "2017":13,
+                "2018":4,
+                "2019":15,
+                "2020":20,
+                "2021":1
+            }
+        ],
+        [
+            "Analyses of cosmological hydrodynamic simulations of galaxy clusters suggest that X-ray masses can be underestimated by 10%-30%. The largest bias originates from both violation of hydrostatic equilibrium (HE) and an additional temperature bias caused by inhomogeneities in the X-ray-emitting intracluster medium (ICM). To elucidate this large dispersion among theoretical predictions, we evaluate the degree of temperature structures in cluster sets simulated either with smoothed-particle hydrodynamics (SPH) or adaptive-mesh refinement (AMR) codes. We find that the SPH simulations produce larger temperature variations connected to the persistence of both substructures and their stripped cold gas. This difference is more evident in nonradiative simulations, whereas it is reduced in the presence of radiative cooling. We also find that the temperature variation in radiative cluster simulations is generally in \u2026",
+            "Temperature structure of the intracluster medium from smoothed-particle hydrodynamics and adaptive-mesh refinement simulations",
+            "Elena Rasia and Erwin T Lau and Stefano Borgani and Daisuke Nagai and Klaus Dolag and Camille Avestruz and Gian Luigi Granato and Pasquale Mazzotta and Giuseppe Murante and Kaylea Nelson and Cinthia Ragone-Figueroa",
+            "2014",
+            "SMSV9QkAAAAJ:u-x6o8ySG0sC",
+            54,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0004-637X\/791\/2\/96\/meta",
+            "10819930225925748717",
+            "\/scholar?cites=10819930225925748717",
+            {
+                "2013":1,
+                "2014":1,
+                "2015":8,
+                "2016":6,
+                "2017":10,
+                "2018":13,
+                "2019":15
+            }
+        ],
+        [
+            "In the hierarchical structure formation model, clusters of galaxies form through a sequence of mergers and continuous mass accretion, which generate significant random gas motions especially in their outskirts where material is actively accreting. Non-thermal pressure provided by the internal gas motions affects the thermodynamic structure of the X-ray emitting intracluster plasma and introduces biases in the physical interpretation of X-ray and Sunyaev-Zeldovich effect observations. However, we know very little about the nature of gas motions in galaxy clusters. The ASTRO-H X-ray mission, scheduled to launch in 2015, will have a calorimeter capable of measuring gas motions in galaxy clusters at the level of lesssim 100 km s\u20131. In this work, we predict the level of merger-induced gas motions expected in the \u039bCDM model using hydrodynamical simulations of galaxy cluster formation. We show that the gas velocity \u2026",
+            "Predicting merger-induced gas motions in \u039bCDM galaxy clusters",
+            "Daisuke Nagai and Erwin T Lau and Camille Avestruz and Kaylea Nelson and Douglas H Rudd",
+            "2013",
+            "SMSV9QkAAAAJ:UeHWp8X0CEIC",
+            43,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0004-637X\/777\/2\/137\/meta",
+            "6986808108649694623",
+            "\/scholar?cites=6986808108649694623",
+            {
+                "2013":1,
+                "2014":6,
+                "2015":9,
+                "2016":6,
+                "2017":5,
+                "2018":4,
+                "2019":8,
+                "2020":3
+            }
+        ],
+        [
+            "In the hierarchical structure formation model, clusters of galaxies form through a sequence of mergers and continuous mass accretion, which generate significant random gas motions especially in their outskirts where material is actively accreting. Non-thermal pressure provided by the internal gas motions affects the thermodynamic structure of the X-ray emitting intracluster plasma and introduces biases in the physical interpretation of X-ray and Sunyaev-Zeldovich effect observations. However, we know very little about the nature of gas motions in galaxy clusters. The ASTRO-H X-ray mission, scheduled to launch in 2015, will have a calorimeter capable of measuring gas motions in galaxy clusters at the level of lesssim 100 km s\u20131. In this work, we predict the level of merger-induced gas motions expected in the \u039bCDM model using hydrodynamical simulations of galaxy cluster formation. We show that the gas velocity \u2026",
+            "Predicting merger-induced gas motions in \u039bCDM galaxy clusters",
+            "Daisuke Nagai and Erwin T Lau and Camille Avestruz and Kaylea Nelson and Douglas H Rudd",
+            "2013",
+            "SMSV9QkAAAAJ:u5HHmVD_uO8C",
+            43,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0004-637X\/777\/2\/137\/meta",
+            "6986808108649694623",
+            "\/scholar?cites=6986808108649694623",
+            {
+                "2013":1,
+                "2014":6,
+                "2015":9,
+                "2016":6,
+                "2017":5,
+                "2018":4,
+                "2019":8,
+                "2020":3
+            }
+        ],
+        [
+            "Next-generation cosmic microwave background (CMB) experiments will have lower noise and therefore increased sensitivity, enabling improved constraints on fundamental physics parameters such as the sum of neutrino masses and the tensor-to-scalar ratio r. Achieving competitive constraints on these parameters requires high signal-to-noise extraction of the projected gravitational potential from the CMB maps. Standard methods for reconstructing the lensing potential employ the quadratic estimator (QE). However, the QE is known to perform suboptimally at the low noise levels expected in upcoming experiments. Other methods, like maximum likelihood estimators (MLE), are under active development. In this work, we demonstrate reconstruction of the CMB lensing potential with deep convolutional neural networks (CNN)\u2014ie, a ResUNet. The network is trained and tested on simulated data, and otherwise has no \u2026",
+            "DeepCMB: Lensing reconstruction of the cosmic microwave background with deep neural networks",
+            "Jo\u00e3o Caldeira and WLK Wu and Brian Nord and Camille Avestruz and Shubhendu Trivedi and Kyle T Story",
+            "2019",
+            "SMSV9QkAAAAJ:roLk4NBRz8UC",
+            34,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S221313371830132X",
+            "2735206806213687009",
+            "\/scholar?cites=2735206806213687009",
+            {
+                "2019":7,
+                "2020":24,
+                "2021":3
+            }
+        ],
+        [
+            "Large-scale imaging surveys will increase the number of galaxy-scale strong lensing candidates by maybe three orders of magnitudes beyond the number known today. Finding these rare objects will require picking them out of at least tens of millions of images, and deriving scientific results from them will require quantifying the efficiency and bias of any search method. To achieve these objectives automated methods must be developed. Because gravitational lenses are rare objects, reducing false positives will be particularly important. We present a description and results of an open gravitational lens finding challenge. Participants were asked to classify 100 000 candidate objects as to whether they were gravitational lenses or not with the goal of developing better automated methods for finding lenses in large data sets. A variety of methods were used including visual inspection, arc and ring finders, support vector \u2026",
+            "The strong gravitational lens finding challenge",
+            "R Benton Metcalf and M Meneghetti and Camille Avestruz and Fabio Bellagamba and Cl\u00e9cio R Bom and Emmanuel Bertin and R\u00e9mi Cabanac and F Courbin and Andrew Davies and Etienne Decenci\u00e8re and R\u00e9mi Flamary and Raphael Gavazzi and Mario Geiger and Philippa Hartley and Neal Jackson and C Jacobs and Eric Jullo and J-P Kneib and L\u00e9on VE Koopmans and Fran\u00e7ois Lanusse and C-L Li and Quanbin Ma and Martin Makler and Nan Li and Matthew Lightman and Carlo Enrico Petrillo and Stephen Serjeant and Christoph Sch\u00e4fer and Alessandro Sonnenfeld and Amit Tagore and Crescenzo Tortora and Diego Tuccillo and Manuel B Valent\u00edn and Santiago Velasco-Forero and GA Verdoes Kleijn and Georgios Vernardos",
+            "2019",
+            "SMSV9QkAAAAJ:_FxGoFyzp5QC",
+            27,
+            "https:\/\/www.aanda.org\/articles\/aa\/abs\/2019\/05\/aa32797-18\/aa32797-18.html",
+            "11401158810611218739",
+            "\/scholar?cites=11401158810611218739",
+            {
+                "2018":1,
+                "2019":5,
+                "2020":20
+            }
+        ],
+        [
+            "The analysis of X-ray and Sunyaev\u2013Zel'dovich measurements of the intracluster medium (ICM) assumes that electrons are in thermal equilibrium with ions in the plasma. However, in the outskirts of galaxy clusters, the electron\u2013ion equilibration timescale can become comparable to the Hubble time, leading to systematic biases in cluster mass estimates and mass-observable scaling relations. To quantify an upper limit of the impact of non-equilibrium electrons, we use a mass-limited sample of simulated galaxy clusters taken from a cosmological simulation with a two-temperature model that assumes the Spitzer equilibration time for the electrons and ions. We show that the temperature bias is more pronounced in more massive and rapidly accreting clusters. For the most extreme case, we find that the bias is of the order of 10% at half of the cluster virial radius and increases to 40% at the edge of the cluster. Gas in \u2026",
+            "Non-equilibrium electrons in the outskirts of galaxy clusters",
+            "Camille Avestruz and Daisuke Nagai and Erwin T Lau and Kaylea Nelson",
+            "2015",
+            "SMSV9QkAAAAJ:9yKSN-GCB0IC",
+            25,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0004-637X\/808\/2\/176\/meta",
+            "13771090801464275301",
+            "\/scholar?cites=13771090801464275301",
+            {
+                "2016":5,
+                "2017":7,
+                "2018":2,
+                "2019":7,
+                "2020":3,
+                "2021":1
+            }
+        ],
+        [
+            "In recent years, machine learning (ML) methods have remarkably improved how cosmologists can interpret data. The next decade will bring new opportunities for data-driven cosmological discovery, but will also present new challenges for adopting ML methodologies and understanding the results. ML could transform our field, but this transformation will require the astronomy community to both foster and promote interdisciplinary research endeavors.",
+            "The role of machine learning in the next decade of cosmology",
+            "Michelle Ntampaka and Camille Avestruz and Steven Boada and Joao Caldeira and Jessi Cisewski-Kehe and Rosanne Di Stefano and Cora Dvorkin and August E Evrard and Arya Farahi and Doug Finkbeiner and Shy Genel and Alyssa Goodman and Andy Goulding and Shirley Ho and Arthur Kosowsky and Paul La Plante and Francois Lanusse and Michelle Lochner and Rachel Mandelbaum and Daisuke Nagai and Jeffrey A Newman and Brian Nord and JEG Peek and Austin Peel and Barnabas Poczos and Markus Michael Rau and Aneta Siemiginowska and Dougal J Sutherland and Hy Trac and Benjamin Wandelt",
+            "2019",
+            "SMSV9QkAAAAJ:0EnyYjriUFMC",
+            18,
+            "https:\/\/arxiv.org\/abs\/1902.10159",
+            "12908060365392151722",
+            "\/scholar?cites=12908060365392151722",
+            {
+                "2019":4,
+                "2020":14
+            }
+        ],
+        [
+            "We perform a comparison of different approaches to star\u2013galaxy classification using the broad-band photometric data from Year 1 of the Dark Energy Survey. This is done by performing a wide range of tests with and without external \u2018truth\u2019 information, which can be ported to other similar data sets. We make a broad evaluation of the performance of the classifiers in two science cases with DES data that are most affected by this systematic effect: large-scale structure and Milky Way studies. In general, even though the default morphological classifiers used for DES Y1 cosmology studies are sufficient to maintain a low level of systematic contamination from stellar misclassification, contamination can be reduced to the O(1 per\u2009cent) level by using multi-epoch and infrared information from external data sets. For Milky Way studies, the stellar sample can be augmented by  for a given flux limit. Reference \u2026",
+            "Star\u2013galaxy classification in the Dark Energy Survey Y1 data set",
+            "Ignacio Sevilla-Noarbe and Ben Hoyle and MJ March\u00e3 and MT Soumagnac and K Bechtol and A Drlica-Wagner and F Abdalla and J Aleksi\u0107 and C Avestruz and E Balbinot and M Banerji and E Bertin and C Bonnett and R Brunner and M Carrasco-Kind and A Choi and T Giannantonio and E Kim and O Lahav and B Moraes and B Nord and AJ Ross and ES Rykoff and B Santiago and E Sheldon and K Wei and W Wester and B Yanny and T Abbott and S Allam and D Brooks and A Carnero-Rosell and J Carretero and C Cunha and L da Costa and C Davis and J de Vicente and S Desai and P Doel and E Fernandez and B Flaugher and J Frieman and J Garcia-Bellido and E Gaztanaga and D Gruen and R Gruendl and J Gschwend and G Gutierrez and DL Hollowood and K Honscheid and D James and T Jeltema and D Kirk and E Krause and K Kuehn and TS Li and M Lima and MAG Maia and M March and RG McMahon and F Menanteau and R Miquel and RLC Ogando and AA Plazas and E Sanchez and V Scarpine and R Schindler and M Schubnell and M Smith and RC Smith and M Soares-Santos and F Sobreira and E Suchyta and MEC Swanson and G Tarle and D Thomas and DL Tucker and AR Walker",
+            "2018",
+            "SMSV9QkAAAAJ:LkGwnXOMwfcC",
+            18,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/481\/4\/5451\/5104406",
+            "16667719951391665415",
+            "\/scholar?cites=16667719951391665415",
+            {
+                "2018":1,
+                "2019":5,
+                "2020":9,
+                "2021":3
+            }
+        ],
+        [
+            "The study of galaxy cluster outskirts has emerged as one of the new frontiers in extragalactic astrophysics and cosmology with the advent of new observations in X-ray and microwave. However, the thermodynamic properties and chemical enrichment of this diffuse and azimuthally asymmetric component of the intracluster medium (ICM) are still not well understood. This work, for the first time, systematically explores potential observational biases in these regions. To assess X-ray measurements of galaxy cluster properties at large radii (> R 500c), we use mock Chandra analyses of cosmological galaxy cluster simulations. The pipeline is identical to that used for Chandra observations, but the biases discussed in this paper are relevant for all X-ray observations outside of R 500c. We find the following from our analysis:(1) filament regions can contribute as much as 50% at R 200c to the emission measure;(2) X-ray \u2026",
+            "Testing X-ray measurements of galaxy cluster outskirts with cosmological simulations",
+            "Camille Avestruz and Erwin T Lau and Daisuke Nagai and Alexey Vikhlinin",
+            "2014",
+            "SMSV9QkAAAAJ:2osOgNQ5qMEC",
+            14,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0004-637X\/791\/2\/117\/meta",
+            "11338318975416117103",
+            "\/scholar?cites=11338318975416117103",
+            {
+                "2015":2,
+                "2016":4,
+                "2017":3,
+                "2018":1,
+                "2019":4
+            }
+        ]
+    ]
+}

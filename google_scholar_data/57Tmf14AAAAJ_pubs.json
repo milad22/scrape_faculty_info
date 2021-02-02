@@ -1,0 +1,212 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "We report on a search for weakly interacting massive particles (WIMPs) using 278.8 days of data collected with the XENON1T experiment at LNGS. XENON1T utilizes a liquid xenon time projection chamber with a fiducial mass of (1.30\u00b10.01) t o n, resulting in a 1.0 ton yr exposure. The energy region of interest,[1.4, 10.6] keV ee ([4.9, 40.9] keV nr), exhibits an ultralow electron recoil background rate of [82\u2212 3+ 5 (syst)\u00b13 (stat)] events\/(t o n yr keV ee). No significant excess over background is found, and a profile likelihood analysis parametrized in spatial and energy dimensions excludes new parameter space for the WIMP-nucleon spin-independent elastic scatter cross section for WIMP masses above 6 GeV\/c 2, with a minimum of 4.1\u00d7 10\u2212 47 cm 2 at 30 GeV\/c 2 and a 90% confidence level.",
+            "Dark matter search results from a one ton-year exposure of XENON1T",
+            "XENON Collaboration and E Aprile and J Aalbers and F Agostini and M Alfonsi and L Althueser and FD Amaro and M Anthony and F Arneodo and L Baudis and B Bauermeister and ML Benabderrahmane and T Berger and PA Breur and Adam Brown and E Brown and S Bruenner and G Bruno and R Budnik and C Capelli and JMR Cardoso and D Cichon and D Coderre and AP Colijn and J Conrad and JP Cussonneau and MP Decowski and P de Perio and P Di Gangi and A Di Giovanni and S Diglio and A Elykov and G Eurin and J Fei and AD Ferella and A Fieguth and W Fulgione and A Gallo Rosso and M Galloway and F Gao and M Garbini and C Geis and L Grandi and Z Greene and H Qiu and C Hasterok and E Hogenbirk and J Howlett and R Itay and F Joerg and B Kaminsky and S Kazama and A Kish and G Koltman and H Landsman and RF Lang and L Levinson and Q Lin and S Lindemann and M Lindner and F Lombardi and JAM Lopes and J Mahlstedt and A Manfredini and T Marrod\u00e1n Undagoitia and J Masbou and D Masson and M Messina and K Micheneau and K Miller and A Molinario and K Mor\u00e5 and M Murra and J Naganoma and K Ni and U Oberlack and B Pelssers and F Piastra and J Pienaar and V Pizzella and G Plante and R Podviianiuk and N Priel and D Ram\u00edrez Garc\u00eda and L Rauch and S Reichard and C Reuter and B Riedel and A Rizzo and A Rocchetti and N Rupp and JMF Dos Santos and G Sartorelli and M Scheibelhut and S Schindler and J Schreiner and D Schulte and M Schumann and L Scotto Lavina and M Selvi and P Shagin and E Shockley and M Silva and H Simgen and D Thers and F Toschi and G Trinchero and C Tunnell and N Upole and M Vargas and O Wack and H Wang and Z Wang and Y Wei and C Weinheimer and C Wittweg and J Wulf and J Ye and Y Zhang and T Zhu",
+            "2018",
+            "57Tmf14AAAAJ:zYLM7Y9cAGgC",
+            1072,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.121.111302",
+            "11572203065374359223",
+            "\/scholar?cites=11572203065374359223",
+            {
+                "2018":98,
+                "2019":415,
+                "2020":527,
+                "2021":25
+            }
+        ],
+        [
+            "We report the first dark matter search results from XENON1T, a\u223c 2000\u2212 kg-target-mass dual-phase (liquid-gas) xenon time projection chamber in operation at the Laboratori Nazionali del Gran Sasso in Italy and the first ton-scale detector of this kind. The blinded search used 34.2 live days of data acquired between November 2016 and January 2017. Inside the (1042\u00b112)\u2212 kg fiducial mass and in the [5, 40] keV nr energy range of interest for weakly interacting massive particle (WIMP) dark matter searches, the electronic recoil background was (1.93\u00b10.25)\u00d7 10\u2212 4 events\/(kg\u00d7 day\u00d7 keV ee), the lowest ever achieved in such a dark matter detector. A profile likelihood analysis shows that the data are consistent with the background-only hypothesis. We derive the most stringent exclusion limits on the spin-independent WIMP-nucleon interaction cross section for WIMP masses above 10 GeV\/c 2, with a minimum of 7.7\u00d7 \u2026",
+            "First dark matter search results from the XENON1T experiment",
+            "Elena Aprile and J Aalbers and F Agostini and M Alfonsi and FD Amaro and M Anthony and F Arneodo and P Barrow and L Baudis and Boris Bauermeister and ML Benabderrahmane and T Berger and PA Breur and A Brown and E Brown and S Bruenner and G Bruno and R Budnik and L B\u00fctikofer and Jakob Calv\u00e9n and JMR Cardoso and M Cervantes and Dominick Cichon and D Coderre and AP Colijn and Jan Conrad and JP Cussonneau and MP Decowski and P de Perio and P Di Gangi and A Di Giovanni and S Diglio and G Eurin and J Fei and Alfredo D Ferella and A Fieguth and W Fulgione and A Gallo Rosso and M Galloway and F Gao and M Garbini and R Gardner and C Geis and LW Goetzke and L Grandi and Z Greene and C Grignon and C Hasterok and E Hogenbirk and J Howlett and R Itay and B Kaminsky and S Kazama and G Kessler and A Kish and H Landsman and RF Lang and D Lellouch and L Levinson and Q Lin and S Lindemann and Manfred Lindner and F Lombardi and JAM Lopes and A Manfredini and I Mari\u015f and T Marrod\u00e1n Undagoitia and J Masbou and FV Massoli and D Masson and D Mayani and M Messina and K Micheneau and A Molinario and Knut Mor\u00e5 and M Murra and J Naganoma and K Ni and U Oberlack and P Pakarha and Bart Pelssers and R Persiani and F Piastra and J Pienaar and V Pizzella and M-C Piro and G Plante and N Priel and L Rauch and S Reichard and C Reuter and B Riedel and A Rizzo and S Rosendahl and N Rupp and R Saldanha and JMF dos Santos and G Sartorelli and M Scheibelhut and S Schindler and J Schreiner and M Schumann and L Scotto Lavina and M Selvi and P Shagin and E Shockley and M Silva and H Simgen and M v Sivers and A Stein and S Thapa and D Thers and A Tiseni and G Trinchero and C Tunnell and M Vargas and N Upole and H Wang and Z Wang and Y Wei and C Weinheimer and J Wulf and J Ye and Y Zhang and T Zhu and XENON Collaboration",
+            "2017",
+            "57Tmf14AAAAJ:kNdYIx-mwKoC",
+            999,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.119.181301",
+            "8990951777199113632",
+            "\/scholar?cites=8990951777199113632",
+            {
+                "2017":105,
+                "2018":422,
+                "2019":252,
+                "2020":210,
+                "2021":5
+            }
+        ],
+        [
+            "The XENON1T experiment is currently in the commissioning phase at the Laboratori Nazionali del Gran Sasso, Italy. In this article we study the experiment's expected sensitivity to the spin-independent WIMP-nucleon interaction cross section, based on Monte Carlo predictions of the electronic and nuclear recoil backgrounds.",
+            "Physics reach of the XENON1T dark matter experiment.",
+            "E Aprile and J Aalbers and F Agostini and M Alfonsi and FD Amaro and M Anthony and L Arazi and Francesco Arneodo and C Balan and P Barrow and L Baudis and Boris Bauermeister and T Berger and P Breur and A Breskin and A Brown and E Brown and S Bruenner and G Bruno and R Budnik and L B\u00fctikofer and JMR Cardoso and M Cervantes and Dominick Cichon and D Coderre and AP Colijn and Jan Conrad and H Contreras and JP Cussonneau and MP Decowski and P De Perio and P Di Gangi and A Di Giovanni and E Duchovni and S Fattori and Alfredo D Ferella and A Fieguth and D Franco and W Fulgione and M Galloway and M Garbini and C Geis and LW Goetzke and Z Greene and C Grignon and E Gross and W Hampel and C Hasterok and R Itay and F Kaether and B Kaminsky and G Kessler and A Kish and H Landsman and RF Lang and D Lellouch and L Levinson and M Le Calloch and C Levy and Sebastian Lindemann and M Lindner and JAM Lopes and A Lyashenko and S Macmullin and A Manfredini and T Marrod\u00e1n Undagoitia and J Masbou and FV Massoli and D Mayani and AJ Melgarejo Fernandez and Y Meng and M Messina and K Micheneau and B Miguez and A Molinario and M Murra and J Naganoma and U Oberlack and SEA Orrigo and P Pakarha and Bart Pelssers and R Persiani and F Piastra and J Pienaar and G Plante and N Priel and Ludwig Rauch and S Reichard and C Reuter and A Rizzo and S Rosendahl and N Rupp and JMF Dos Santos and G Sartorelli and M Scheibelhut and S Schindler and J Schreiner and M Schumann and L Scotto Lavina and M Selvi and P Shagin and H Simgen and A Stein and D Thers and A Tiseni and G Trinchero and C Tunnell and M Von Sivers and R Wall and He Wang and M Weber and Y Wei and C Weinheimer and J Wulf and Y Zhang",
+            "2016",
+            "57Tmf14AAAAJ:3fE2CSJIrl8C",
+            578,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/1475-7516\/2016\/04\/027\/meta",
+            "8963492599890641422",
+            "\/scholar?cites=8963492599890641422",
+            {
+                "2016":86,
+                "2017":172,
+                "2018":125,
+                "2019":79,
+                "2020":111,
+                "2021":4
+            }
+        ],
+        [
+            "We report on WIMP search results of the XENON100 experiment, combining three runs summing up to 477 live days from January 2010 to January 2014. Data from the first two runs were already published. A blind analysis was applied to the last run recorded between April 2013 and January 2014 prior to combining the results. The ultralow electromagnetic background of the experiment,\u223c 5\u00d7 10\u2212 3 events\/(keV ee\u00d7 kg\u00d7 day)) before electronic recoil rejection, together with the increased exposure of 48 kg\u00d7 yr, improves the sensitivity. A profile likelihood analysis using an energy range of (6.6\u201343.3) keV nr sets a limit on the elastic, spin-independent WIMP-nucleon scattering cross section for WIMP masses above 8 GeV\/c 2, with a minimum of 1.1\u00d7 10\u2212 45 cm 2 at 50 GeV\/c 2 and 90% confidence level. We also report updated constraints on the elastic, spin-dependent WIMP-nucleon cross sections obtained with the \u2026",
+            "XENON100 dark matter results from a combination of 477 live days",
+            "E Aprile and J Aalbers and F Agostini and M Alfonsi and FD Amaro and M Anthony and F Arneodo and P Barrow and L Baudis and Boris Bauermeister and ML Benabderrahmane and T Berger and PA Breur and A Brown and E Brown and S Bruenner and G Bruno and R Budnik and L B\u00fctikofer and Jakob Calv\u00e9n and JMR Cardoso and M Cervantes and Dominick Cichon and D Coderre and AP Colijn and J Conrad and Jean-Pierre Cussonneau and MP Decowski and P de Perio and P Di Gangi and A Di Giovanni and S Diglio and E Duchovni and J Fei and Alfredo D Ferella and A Fieguth and D Franco and W Fulgione and A Gallo Rosso and M Galloway and F Gao and M Garbini and C Geis and LW Goetzke and Z Greene and C Grignon and C Hasterok and E Hogenbirk and R Itay and B Kaminsky and G Kessler and A Kish and H Landsman and RF Lang and D Lellouch and L Levinson and M Le Calloch and C Levy and Q Lin and Sebastian Lindemann and Manfred Lindner and JAM Lopes and A Manfredini and T Marrod\u00e1n Undagoitia and J Masbou and FV Massoli and D Masson and D Mayani and Y Meng and M Messina and K Micheneau and B Miguez and A Molinario and M Murra and J Naganoma and K Ni and U Oberlack and SEA Orrigo and P Pakarha and Bart Pelssers and R Persiani and F Piastra and J Pienaar and M-C Piro and G Plante and N Priel and L Rauch and S Reichard and C Reuter and A Rizzo and S Rosendahl and N Rupp and JMF Dos Santos and G Sartorelli and M Scheibelhut and S Schindler and Jochen Schreiner and M Schumann and L Scotto Lavina and M Selvi and P Shagin and M Silva and Hardy Simgen and M v Sivers and A Stein and D Thers and A Tiseni and G Trinchero and CD Tunnell and R Wall and H Wang and M Weber and Y Wei and C Weinheimer and J Wulf and Y Zhang and Xenon Collaboration",
+            "2016",
+            "57Tmf14AAAAJ:W7OEmFMy1HYC",
+            181,
+            "https:\/\/journals.aps.org\/prd\/abstract\/10.1103\/PhysRevD.94.122001",
+            "64402782749598622",
+            "\/scholar?cites=64402782749598622",
+            {
+                "2016":3,
+                "2017":71,
+                "2018":48,
+                "2019":31,
+                "2020":27
+            }
+        ],
+        [
+            "The XENON1T experiment at the Laboratori Nazionali del Gran Sasso (LNGS) is the first WIMP dark matter detector operating with a liquid xenon target mass above the ton-scale. Out of its 3.2 t liquid xenon inventory, 2.0 t constitute the active target of the dual-phase time projection chamber. The scintillation and ionization signals from particle interactions are detected with low-background photomultipliers. This article describes the XENON1T instrument and its subsystems as well as strategies to achieve an unprecedented low background level. First results on the detector response and the performance of the subsystems are also presented.",
+            "The XENON1T dark matter experiment",
+            "Elena Aprile and J Aalbers and F Agostini and M Alfonsi and FD Amaro and M Anthony and B Antunes and F Arneodo and M Balata and P Barrow and L Baudis and Boris Bauermeister and ML Benabderrahmane and T Berger and A Breskin and PA Breur and A Brown and E Brown and S Bruenner and G Bruno and R Budnik and L B\u00fctikofer and Jakob Calv\u00e9n and JMR Cardoso and M Cervantes and A Chiarini and Dominick Cichon and D Coderre and AP Colijn and Jan Conrad and R Corrieri and JP Cussonneau and MP Decowski and P de Perio and P Di Gangi and A Di Giovanni and S Diglio and J-M Disdier and M Doets and E Duchovni and G Eurin and J Fei and Alfredo D Ferella and A Fieguth and D Franco and W Fulgione and A Gallo Rosso and M Galloway and F Gao and M Garbini and C Geis and K-L Giboni and LW Goetzke and L Grandi and Z Greene and C Grignon and C Hasterok and E Hogenbirk and C Huhmann and R Itay and A James and B Kaminsky and S Kazama and G Kessler and A Kish and H Landsman and RF Lang and D Lellouch and L Levinson and Q Lin and S Lindemann and M Lindner and F Lombardi and JAM Lopes and R Maier and A Manfredini and I Maris and T Marrod\u00e1n Undagoitia and J Masbou and FV Massoli and D Masson and D Mayani and M Messina and K Micheneau and A Molinario and Knut Mor\u00e5 and M Murra and J Naganoma and K Ni and U Oberlack and D Orlandi and R Othegraven and P Pakarha and S Parlati and Bart Pelssers and R Persiani and F Piastra and J Pienaar and V Pizzella and M-C Piro and G Plante and N Priel and D Ram\u00edrez Garc\u00eda and L Rauch and S Reichard and C Reuter and A Rizzo and S Rosendahl and N Rupp and JMF dos Santos and R Saldanha and G Sartorelli and M Scheibelhut and S Schindler and J Schreiner and M Schumann and L Scotto Lavina and M Selvi and P Shagin and E Shockley and M Silva and H Simgen and M v Sivers and M Stern and A Stein and D Tatananni and L Tatananni and D Thers and A Tiseni and G Trinchero and C Tunnell and N Upole and M Vargas and O Wack and R Walet and H Wang and Z Wang and Y Wei and C Weinheimer and C Wittweg and J Wulf and J Ye and Y Zhang",
+            "2017",
+            "57Tmf14AAAAJ:roLk4NBRz8UC",
+            168,
+            "https:\/\/link.springer.com\/article\/10.1140\/epjc\/s10052-017-5326-3",
+            "3184528381891400391",
+            "\/scholar?cites=3184528381891400391",
+            {
+                "2017":4,
+                "2018":39,
+                "2019":43,
+                "2020":76,
+                "2021":5
+            }
+        ],
+        [
+            "We present the first results of searches for axions and axionlike particles with the XENON100 experiment. The axion-electron coupling constant, g Ae, has been probed by exploiting the axioelectric effect in liquid xenon. A profile likelihood analysis of 224.6 live days\u00d7 34-kg exposure has shown no evidence for a signal. By rejecting g Ae larger than 7.7\u00d7 10\u2212 12 (90% CL) in the solar axion search, we set the best limit to date on this coupling. In the frame of the DFSZ and KSVZ models, we exclude QCD axions heavier than 0.3 and 80 eV\/c 2, respectively. For axionlike particles, under the assumption that they constitute the whole abundance of dark matter in our galaxy, we constrain g Ae to be lower than 1\u00d7 10\u2212 12 (90% CL) for masses between 5 and 10 keV\/c 2.",
+            "First axion results from the XENON100 experiment",
+            "E Aprile and F Agostini and M Alfonsi and K Arisaka and Francesco Arneodo and M Auger and C Balan and P Barrow and L Baudis and B Bauermeister and A Behrens and Philippe Beltrame and K Bokeloh and A Brown and E Brown and Stefan Bruenner and G Bruno and R Budnik and JMR Cardoso and AP Colijn and H Contreras and JP Cussonneau and MP Decowski and E Duchovni and S Fattori and AD Ferella and W Fulgione and F Gao and M Garbini and C Geis and LW Goetzke and C Grignon and E Gross and W Hampel and R Itay and F Kaether and G Kessler and A Kish and H Landsman and RF Lang and M Le Calloch and D Lellouch and C Levy and Stefan Lindemann and M Lindner and JAM Lopes and K Lung and A Lyashenko and S MacMullin and T Marrod\u00e1n Undagoitia and J Masbou and FV Massoli and D Mayani Paras and AJ Melgarejo Fernandez and Y Meng and M Messina and B Miguez and A Molinario and M Murra and J Naganoma and K Ni and U Oberlack and SEA Orrigo and E Pantic and R Persiani and F Piastra and J Pienaar and G Plante and N Priel and S Reichard and C Reuter and A Rizzo and S Rosendahl and JMF Dos Santos and G Sartorelli and S Schindler and J Schreiner and M Schumann and L Scotto Lavina and M Selvi and P Shagin and H Simgen and A Teymourian and D Thers and A Tiseni and G Trinchero and O Vitells and He Wang and M Weber and C Weinheimer and Xenon100 Collaboration",
+            "2014",
+            "57Tmf14AAAAJ:KlAtU1dfN6UC",
+            156,
+            "https:\/\/journals.aps.org\/prd\/abstract\/10.1103\/PhysRevD.90.062009",
+            "9574054196042984039",
+            "\/scholar?cites=9574054196042984039",
+            {
+                "2014":9,
+                "2015":22,
+                "2016":22,
+                "2017":39,
+                "2018":23,
+                "2019":18,
+                "2020":19,
+                "2021":2
+            }
+        ],
+        [
+            "We report constraints on light dark matter (DM) models using ionization signals in the XENON1T experiment. We mitigate backgrounds with strong event selections, rather than requiring a scintillation signal, leaving an effective exposure of (22\u00b13) tonne day. Above\u223c 0.4 keV e e, we observe< 1 event\/(tonne day keV e e), which is more than 1000 times lower than in similar searches with other detectors. Despite observing a higher rate at lower energies, no DM or CEvNS detection may be claimed because we cannot model all of our backgrounds. We thus exclude new regions in the parameter spaces for DM-nucleus scattering for DM masses m \u03c7 within 3\u20136 GeV\/c 2, DM-electron scattering for m \u03c7> 30 MeV\/c 2, and absorption of dark photons and axionlike particles for m \u03c7 within 0.186\u20131 keV\/c 2.",
+            "Light Dark Matter Search with Ionization Signals in XENON1T",
+            "E Aprile and Jelle Aalbers and F Agostini and M Alfonsi and L Althueser and FD Amaro and Vasile C Antochi and E Angelino and F Arneodo and Derek Barge and L Baudis and Boris Bauermeister and L Bellagamba and ML Benabderrahmane and T Berger and PA Breur and A Brown and E Brown and S Bruenner and G Bruno and R Budnik and C Capelli and JMR Cardoso and D Cichon and D Coderre and AP Colijn and J Conrad and JP Cussonneau and MP Decowski and P de Perio and A Depoian and P Di Gangi and A Di Giovanni and S Diglio and A Elykov and G Eurin and J Fei and Alfredo D Ferella and A Fieguth and W Fulgione and P Gaemers and A Gallo Rosso and M Galloway and F Gao and M Garbini and L Grandi and Z Greene and C Hasterok and C Hils and E Hogenbirk and J Howlett and M Iacovacci and R Itay and F Joerg and S Kazama and A Kish and M Kobayashi and G Koltman and A Kopec and H Landsman and RF Lang and L Levinson and Q Lin and S Lindemann and M Lindner and F Lombardi and JAM Lopes and E L\u00f3pez Fune and C Macolino and J\u00f6rn Mahlstedt and A Manfredini and F Marignetti and T Marrod\u00e1n Undagoitia and J Masbou and S Mastroianni and M Messina and K Micheneau and K Miller and A Molinario and Knut Mor\u00e5 and Y Mosbacher and M Murra and J Naganoma and K Ni and U Oberlack and K Odgers and J Palacio and Bart Pelssers and R Peres and J Pienaar and V Pizzella and G Plante and R Podviianiuk and J Qin and H Qiu and D Ram\u00edrez Garc\u00eda and S Reichard and B Riedel and A Rocchetti and N Rupp and JMF Dos Santos and G Sartorelli and N \u0160ar\u010devi\u0107 and M Scheibelhut and S Schindler and J Schreiner and D Schulte and M Schumann and L Scotto Lavina and M Selvi and P Shagin and E Shockley and M Silva and H Simgen and C Therreau and D Thers and F Toschi and G Trinchero and C Tunnell and N Upole and M Vargas and G Volta and O Wack and H Wang and Y Wei and C Weinheimer and D Wenz and C Wittweg and J Wulf and J Ye and Y Zhang and T Zhu and JP Zopounidis and Xenon Collaboration",
+            "2019",
+            "57Tmf14AAAAJ:WF5omc3nYNoC",
+            142,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.123.251801",
+            "2111804911218103298",
+            "\/scholar?cites=2111804911218103298",
+            {
+                "2019":2,
+                "2020":132,
+                "2021":8
+            }
+        ],
+        [
+            "We report the first experimental results on spin-dependent elastic weakly interacting massive particle (WIMP) nucleon scattering from the XENON1T dark matter search experiment. The analysis uses the full ton year exposure of XENON1T to constrain the spin-dependent proton-only and neutron-only cases. No significant signal excess is observed, and a profile likelihood ratio analysis is used to set exclusion limits on the WIMP-nucleon interactions. This includes the most stringent constraint to date on the WIMP-neutron cross section, with a minimum of 6.3\u00d7 10\u2212 42 cm 2 at 30 GeV\/c 2 and 90% confidence level. The results are compared with those from collider searches and used to exclude new parameter space in an isoscalar theory with an axial-vector mediator.",
+            "Constraining the spin-dependent WIMP-nucleon cross sections with XENON1T",
+            "XENON Collaboration and E Aprile and J Aalbers and F Agostini and M Alfonsi and L Althueser and FD Amaro and M Anthony and VC Antochi and F Arneodo and L Baudis and B Bauermeister and ML Benabderrahmane and T Berger and PA Breur and A Brown and E Brown and S Bruenner and G Bruno and R Budnik and C Capelli and JMR Cardoso and D Cichon and D Coderre and AP Colijn and J Conrad and JP Cussonneau and MP Decowski and P de Perio and P Di Gangi and A Di Giovanni and S Diglio and A Elykov and G Eurin and J Fei and AD Ferella and A Fieguth and W Fulgione and A Gallo Rosso and M Galloway and F Gao and M Garbini and L Grandi and Z Greene and C Hasterok and E Hogenbirk and J Howlett and M Iacovacci and R Itay and F Joerg and S Kazama and A Kish and G Koltman and A Kopec and H Landsman and RF Lang and L Levinson and Q Lin and S Lindemann and M Lindner and F Lombardi and JAM Lopes and E L\u00f3pez Fune and C Macolino and J Mahlstedt and A Manfredini and F Marignetti and T Marrodan Undagoitia and J Masbou and D Masson and S Mastroianni and M Messina and K Micheneau and K Miller and A Molinario and K Mor\u00e5 and Y Mosbacher and M Murra and J Naganoma and K Ni and U Oberlack and K Odgers and B Pelssers and F Piastra and J Pienaar and V Pizzella and G Plante and R Podviianiuk and N Priel and H Qiu and D Ramirez Garcia and S Reichard and B Riedel and A Rizzo and A Rocchetti and N Rupp and JMF Dos Santos and G Sartorelli and N \u0160ar\u010devi\u0107 and M Scheibelhut and S Schindler and J Schreiner and D Schulte and M Schumann and L Scotto Lavina and M Selvi and P Shagin and E Shockley and M Silva and H Simgen and C Therreau and D Thers and F Toschi and G Trinchero and C Tunnell and N Upole and M Vargas and O Wack and H Wang and Z Wang and Y Wei and C Weinheimer and D Wenz and C Wittweg and J Wulf and Z Xu and J Ye and Y Zhang and T Zhu and JP Zopounidis",
+            "2019",
+            "57Tmf14AAAAJ:qjMakFHDy7sC",
+            122,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.122.141301",
+            "5163028944558367067",
+            "\/scholar?cites=5163028944558367067",
+            {
+                "2019":39,
+                "2020":75,
+                "2021":7
+            }
+        ],
+        [
+            "We perform a low-mass dark matter search using an exposure of 30 kg\u00d7 yr with the XENON100 detector. By dropping the requirement of a scintillation signal and using only the ionization signal to determine the interaction energy, we lowered the energy threshold for detection to 0.7 keV for nuclear recoils. No dark matter detection can be claimed because a complete background model cannot be constructed without a primary scintillation signal. Instead, we compute an upper limit on the WIMP-nucleon scattering cross section under the assumption that every event passing our selection criteria could be a signal event. Using an energy interval from 0.7 keV to 9.1 keV, we derive a limit on the spin-independent WIMP-nucleon cross section that excludes WIMPs with a mass of 6 GeV\/c 2 above 1.4\u00d7 10\u2212 41 cm 2 at 90% confidence level.",
+            "Low-mass dark matter search using ionization signals in XENON100",
+            "E Aprile and J Aalbers and F Agostini and M Alfonsi and FD Amaro and M Anthony and F Arneodo and P Barrow and L Baudis and Boris Bauermeister and ML Benabderrahmane and T Berger and PA Breur and A Brown and E Brown and S Bruenner and G Bruno and R Budnik and A Buss and L B\u00fctikofer and JMR Cardoso and M Cervantes and Dominick Cichon and D Coderre and AP Colijn and Jan Conrad and JP Cussonneau and MP Decowski and P de Perio and P Di Gangi and A Di Giovanni and E Duchovni and Alfredo D Ferella and A Fieguth and D Franco and W Fulgione and M Galloway and M Garbini and C Geis and LW Goetzke and Z Greene and C Grignon and E Gross and Constanze Hasterok and E Hogenbirk and R Itay and B Kaminsky and G Kessler and A Kish and H Landsman and RF Lang and L Levinson and M Le Calloch and C Levy and F Linde and Sebastian Lindemann and M Lindner and JAM Lopes and A Lyashenko and A Manfredini and T Marrod\u00e1n Undagoitia and J Masbou and FV Massoli and D Masson and D Mayani and AJ Melgarejo Fernandez and Y Meng and M Messina and K Micheneau and B Miguez and A Molinario and M Murra and J Naganoma and U Oberlack and SEA Orrigo and P Pakarha and Bart Pelssers and R Persiani and F Piastra and J Pienaar and G Plante and N Priel and Ludwig Rauch and S Reichard and C Reuter and A Rizzo and S Rosendahl and N Rupp and JMF Dos Santos and G Sartorelli and M Scheibelhut and S Schindler and J Schreiner and M Schumann and L Scotto Lavina and M Selvi and P Shagin and H Simgen and A Stein and D Thers and A Tiseni and G Trinchero and CD Tunnell and M von Sivers and R Wall and H Wang and M Weber and Y Wei and C Weinheimer and J Wulf and Y Zhang and Xenon Collaboration",
+            "2016",
+            "57Tmf14AAAAJ:qxL8FJ1GzNcC",
+            102,
+            "https:\/\/journals.aps.org\/prd\/abstract\/10.1103\/PhysRevD.94.092001",
+            "14992007084865325887",
+            "\/scholar?cites=14992007084865325887",
+            {
+                "2016":3,
+                "2017":21,
+                "2018":22,
+                "2019":26,
+                "2020":28,
+                "2021":1
+            }
+        ],
+        [
+            "The XENON100 dark matter experiment uses liquid xenon in a time projection chamber (TPC) to measure xenon nuclear recoils resulting from the scattering of dark matter weakly interacting massive particles (WIMPs). In this paper, we report the observation of single-electron charge signals which are not related to WIMP interactions. These signals, which show the excellent sensitivity of the detector to small charge signals, are explained as being due to the photoionization of impurities in the liquid xenon and of the metal components inside the TPC. They are used as a unique calibration source to characterize the detector. We explain how we can infer crucial parameters for the XENON100 experiment: the secondary-scintillation gain, the extraction yield from the liquid to the gas phase and the electron drift velocity.",
+            "Observation and applications of single-electron charge signals in the XENON100 experiment",
+            "E Aprile and M Alfonsi and K Arisaka and Francesco Arneodo and C Balan and L Baudis and B Bauermeister and A Behrens and Philippe Beltrame and K Bokeloh and A Brown and E Brown and S Bruenner and G Bruno and R Budnik and JMR Cardoso and WT Chen and B Choi and AP Colijn and H Contreras and Jean-Pierre Cussonneau and MP Decowski and E Duchovni and S Fattori and AD Ferella and W Fulgione and F Gao and M Garbini and C Ghag and KL Giboni and LW Goetzke and C Grignon and E Gross and W Hampel and R Itay and F Kaether and G Kessler and A Kish and J Lamblin and H Landsman and RF Lang and M Le Calloch and C Levy and KE Lim and Q Lin and Sebastian Lindemann and M Lindner and JAM Lopes and K Lung and T Marrod\u00e1n Undagoitia and FV Massoli and AJ Melgarejo Fernandez and Y Meng and M Messina and A Molinario and J Naganoma and K Ni and U Oberlack and SEA Orrigo and E Pantic and R Persiani and F Piastra and G Plante and N Priel and A Rizzo and S Rosendahl and JMF Dos Santos and G Sartorelli and J Schreiner and M Schumann and L Scotto Lavina and M Selvi and P Shagin and H Simgen and A Teymourian and D Thers and O Vitells and He Wang and M Weber and C Weinheimer",
+            "2014",
+            "57Tmf14AAAAJ:4TOpqqG69KYC",
+            97,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0954-3899\/41\/3\/035201\/meta",
+            "12541154710843869759",
+            "\/scholar?cites=12541154710843869759",
+            {
+                "2013":1,
+                "2014":15,
+                "2015":13,
+                "2016":13,
+                "2017":15,
+                "2018":14,
+                "2019":9,
+                "2020":15,
+                "2021":2
+            }
+        ]
+    ]
+}

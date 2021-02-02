@@ -1,0 +1,87 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2
+    ],
+    "data":[
+        [
+            "Hybrid quantum devices, in which dissimilar quantum systems are combined in order to attain qualities not available with either system alone, may enable far-reaching control in quantum measurement, sensing, and information processing. A paradigmatic example is trapped ultracold atoms, which offer excellent quantum coherent properties, coupled to nanoscale solid-state systems, which allow for strong interactions. We demonstrate a deterministic interface between a single trapped rubidium atom and a nanoscale photonic crystal cavity. Precise control over the atom9s position allows us to probe the cavity near-field with a resolution below the diffraction limit and to observe large atom-photon coupling. This approach may enable the realization of integrated, strongly coupled quantum nano-optical circuits.",
+            "Coupling a single trapped atom to a nanoscale optical cavity",
+            "JD Thompson and TG Tiecke and NP de Leon and J Feist and AV Akimov and M Gullans and AS Zibrov and V Vuleti\u0107 and MD Lukin",
+            "2013",
+            "YP7rWbkAAAAJ:u5HHmVD_uO8C",
+            408,
+            "https:\/\/science.sciencemag.org\/content\/340\/6137\/1202.abstract",
+            "6376876083384172095",
+            "\/scholar?cites=6376876083384172095",
+            {
+                "2013":18,
+                "2014":51,
+                "2015":50,
+                "2016":57,
+                "2017":62,
+                "2018":60,
+                "2019":45,
+                "2020":62,
+                "2021":3
+            }
+        ],
+        [
+            "The realization of an all-optical transistor, in which one \u201cgate\u201d photon controls a \u201csource\u201d light beam, is a long-standing goal in optics. By stopping a light pulse in an atomic ensemble contained inside an optical resonator, we realized a device in which one stored gate photon controls the resonator transmission of subsequently applied source photons. A weak gate pulse induces bimodal transmission distribution, corresponding to zero and one gate photons. One stored gate photon produces fivefold source attenuation and can be retrieved from the atomic ensemble after switching more than one source photon. Without retrieval, one stored gate photon can switch several hundred source photons. With improved storage and retrieval efficiency, our work may enable various new applications, including photonic quantum gates and deterministic multiphoton entanglement.",
+            "All-optical switch and transistor gated by one stored photon",
+            "Wenlan Chen and Kristin M Beck and Robert B\u00fccker and Michael Gullans and Mikhail D Lukin and Haruka Tanji-Suzuki and Vladan Vuleti\u0107",
+            "2013",
+            "YP7rWbkAAAAJ:9yKSN-GCB0IC",
+            308,
+            "https:\/\/science.sciencemag.org\/content\/341\/6147\/768.abstract",
+            "583680915303321255",
+            "\/scholar?cites=583680915303321255",
+            {
+                "2013":6,
+                "2014":47,
+                "2015":34,
+                "2016":58,
+                "2017":46,
+                "2018":45,
+                "2019":33,
+                "2020":35,
+                "2021":1
+            }
+        ],
+        [
+            "We show that it is possible to realize significant nonlinear optical interactions at the few photon level in graphene nanostructures. Our approach takes advantage of the electric field enhancement associated with the strong confinement of graphene plasmons and the large intrinsic nonlinearity of graphene. Such a system could provide a powerful platform for quantum nonlinear optical control of light. As an example, we consider an integrated optical device that exploits this large nonlinearity to realize a single photon switch.",
+            "Single-photon nonlinear optics with graphene plasmons",
+            "M Gullans and DE Chang and FHL Koppens and FJ Garc\u00eda de Abajo and MD Lukin",
+            "2013",
+            "YP7rWbkAAAAJ:qjMakFHDy7sC",
+            198,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.111.247401",
+            "9306711865696190062",
+            "\/scholar?cites=9306711865696190062",
+            {
+                "2013":1,
+                "2014":28,
+                "2015":33,
+                "2016":32,
+                "2017":32,
+                "2018":25,
+                "2019":23,
+                "2020":21,
+                "2021":2
+            }
+        ]
+    ]
+}

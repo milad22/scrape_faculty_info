@@ -1,0 +1,90 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "V6GgZrwAAAAJ",
+            "Jose Maria Ezquiaga",
+            "NASA Einstein Fellow, University of Chicago",
+            "@uchicago.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=V6GgZrwAAAAJ",
+            1193,
+            [
+                "Gravitational Waves",
+                "Cosmology",
+                "Theoretical Physics"
+            ],
+            1189,
+            11,
+            11,
+            11,
+            11,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Zsvsq0MAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Miguel Zumalacarregui",
+                    "affiliation":"Marie Curie Global Fellow, Berkeley Center for Cosmological Physics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3B9dbVAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Juan Garcia-Bellido",
+                    "affiliation":"Professor of Physics. Instituto de Fisica Teorica UAM"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"892b6zkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dario Bettoni",
+                    "affiliation":"Departamento de Fisica Fundamental, Universidad de Salamanca"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"iLBmhP4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ester Ruiz Morales",
+                    "affiliation":"Universidad Polit\u00e9cnica de Madrid"
+                }
+            ]
+        ]
+    ]
+}

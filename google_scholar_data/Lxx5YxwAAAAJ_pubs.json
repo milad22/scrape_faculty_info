@@ -1,0 +1,64 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2
+    ],
+    "data":[
+        [
+            "Quantum teleportation is essential for many quantum information technologies, including long-distance quantum networks. Using fiber-coupled devices, including state-of-the-art low-noise superconducting nanowire single-photon detectors and off-the-shelf optics, we achieve conditional quantum teleportation of time-bin qubits at the telecommunication wavelength of 1536.5 nm. We measure teleportation fidelities of\u2265 90% that are consistent with an analytical model of our system, which includes realistic imperfections. To demonstrate the compatibility of our setup with deployed quantum networks, we teleport qubits over 22 km of single-mode fiber while transmitting qubits over an additional 22 km of fiber. Our systems, which are compatible with emerging solid-state quantum devices, provide a realistic foundation for a high-fidelity quantum Internet with practical devices.",
+            "Teleportation Systems Toward a Quantum Internet",
+            "Raju Valivarthi and Samantha I Davis and Cristi\u00e1n Pe\u00f1a and Si Xie and Nikolai Lauk and Lautaro Narv\u00e1ez and Jason P Allmaras and Andrew D Beyer and Yewon Gim and Meraj Hussein and George Iskander and Hyunseong Linus Kim and Boris Korzh and Andrew Mueller and Mandy Rominsky and Matthew Shaw and Dawn Tang and Emma E Wollman and Christoph Simon and Panagiotis Spentzouris and Daniel Oblak and Neil Sinclair and Maria Spiropulu",
+            "2020",
+            "Lxx5YxwAAAAJ:IjCSPb-OGe4C",
+            4,
+            "https:\/\/link.aps.org\/doi\/10.1103\/PRXQuantum.1.020317",
+            "9707344792841092619",
+            "\/scholar?cites=9707344792841092619",
+            {
+                "2020":3,
+                "2021":1
+            }
+        ],
+        [
+            "We show that quantum entanglement between causally separated regions of a nucleon in antineutrino-nucleon scattering manifests itself as a thermal component in the resulting pion momentum distribution. For antineutrino scattering coherently from the (carbon) nucleus as a whole, this thermal component is absent, as expected by our quantum entanglement thermalization proposition. These phenomena, which have been observed in proton-proton collisions at the Large Hadron Collider, and in electromagnetic deep inelastic scattering, are now for the first time shown to exist in electroweak interactions as well.",
+            "Quantum entanglement and thermal behavior in charged-current weak interactions",
+            "G Iskander and J Pan and M Tyler and C Weber and OK Baker",
+            "2020",
+            "Lxx5YxwAAAAJ:qjMakFHDy7sC",
+            1,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0370269320307516",
+            "11313960112828840624",
+            "\/scholar?cites=11313960112828840624",
+            {
+                "2020":1
+            }
+        ],
+        [
+            "An electro-optic modulator modifies an optical signal in response to an applied electrical signal. These modulators are essential components for many applications ranging from internet telecommunications to sensing to quantum information science. 1 A Mach Zehnder electro-optic modulator is used to vary the intensity of a continuous-wave laser beam in order to produce pulses. 2 The amplitude of the pulses is quantified by an extinction ratio (in units of dB),",
+            "Stabilization of an electro-optic modulator for quantum communication using a low-cost microcontroller",
+            "George Iskander and N Sinclair and C Pena and S Xie and M Spiropulu",
+            "2019",
+            "Lxx5YxwAAAAJ:u-x6o8ySG0sC",
+            1,
+            "https:\/\/curj.caltech.edu\/2019\/09\/03\/stabilization-of-an-electro-optic-modulator-for-quantum-communication-using-a-low-cost-microcontroller\/",
+            "10207459165044333035",
+            "\/scholar?cites=10207459165044333035",
+            {
+                "2020":1
+            }
+        ]
+    ]
+}

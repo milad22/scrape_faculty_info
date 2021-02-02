@@ -1,0 +1,46 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "6ZA1X467",
+            "spq1_qEAAAAJ",
+            [
+                "QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials",
+                "Unified Approach for Molecular Dynamics and Density Functional Theory",
+                "Raman spectra of graphite oxide and functionalized graphene sheets",
+                "Functionalized single graphene sheets derived from splitting graphite oxide",
+                "Single sheet functionalized graphene by oxidation and thermal expansion of graphite",
+                "Advanced capabilities for materials modelling with Quantum ESPRESSO",
+                "Car-Parrinello molecular dynamics with Vanderbilt ultrasoft pseudopotentials",
+                "Accurate and efficient method for many-body van der Waals interactions",
+                "\u2018\u2018Ab initio\u2019\u2019 liquid water"
+            ],
+            [
+                "QUANTUM ESPRESSO is an integrated suite of computer codes for electronic-structure calculations and materials modeling, based on density-functional theory, plane waves, and pseudopotentials (norm-conserving, ultrasoft, and projector-augmented wave). The acronym ESPRESSO stands for opEn Source Package for Research in Electronic Structure, Simulation, and Optimization. It is freely available to researchers around the world under the terms of the GNU General Public License. QUANTUM ESPRESSO builds upon newly-restructured electronic-structure codes that have been developed and tested by some of the original authors of novel electronic-structure algorithms and applied in the last twenty years by some of the leading materials modeling groups worldwide. Innovation and efficiency are still its main focus, with special attention paid to massively parallel architectures, and a great effort being devoted \u2026",
+                "We present a unified scheme that, by combining molecular dynamics and density-functional theory, profoundly extends the range of both concepts. Our approach extends molecular dynamics beyond the usual pair-potential approximation, thereby making possible the simulation of both covalently bonded and metallic systems. In addition it permits the application of density-functional theory to much larger systems than previously feasible. The new technique is demonstrated by the calculation of some static and dynamic properties of crystalline silicon within a self-consistent pseudopotential framework.",
+                "We investigate Raman spectra of graphite oxide and functionalized graphene sheets with epoxy and hydroxyl groups and Stone\u2212Wales and 5\u22128\u22125 defects by first-principles calculations to interpret our experimental results. Only the alternating pattern of single\u2212double carbon bonds within the sp2 carbon ribbons provides a satisfactory explanation for the experimentally observed blue shift of the G band of the Raman spectra relative to graphite. To obtain these single\u2212double bonds, it is necessary to have sp3 carbons on the edges of a zigzag carbon ribbon. ",
+                "A process is described to produce single sheets of functionalized graphene through thermal exfoliation of graphite oxide. The process yields a wrinkled sheet structure resulting from reaction sites involved in oxidation and reduction processes. The topological features of single sheets, as measured by atomic force microscopy, closely match predictions of first-principles atomistic modeling. Although graphite oxide is an insulator, functionalized graphene produced by this method is electrically conducting. ",
+                "A detailed analysis of the thermal expansion mechanism of graphite oxide to produce functionalized graphene sheets is provided. Exfoliation takes place when the decomposition rate of the epoxy and hydroxyl sites of graphite oxide exceeds the diffusion rate of the evolved gases, thus yielding pressures that exceed the van der Waals forces holding the graphene sheets together. A comparison of the Arrhenius dependence of the reaction rate against the calculated diffusion coefficient based on Knudsen diffusion suggests a critical temperature of 550 \u00b0C which must be exceeded for exfoliation to occur. As a result of their wrinkled nature, the functionalized and defective graphene sheets do not collapse back to graphite oxide but are highly agglomerated. After dispersion by ultrasonication in appropriate solvents, statistical analysis by atomic force microscopy shows that 80% of the observed flakes are single sheets. ",
+                "Quantum ESPRESSO is an integrated suite of open-source computer codes for quantum simulations of materials using state-of-the-art electronic-structure techniques, based on density-functional theory, density-functional perturbation theory, and many-body perturbation theory, within the plane-wave pseudopotential and projector-augmented-wave approaches. Quantum ESPRESSO owes its popularity to the wide variety of properties and processes it allows to simulate, to its performance on an increasingly broad array of hardware architectures, and to a community of researchers that rely on its capabilities as a core open-source development platform to implement their ideas. In this paper we describe recent extensions and improvements, covering new methodologies and property calculators, improved parallelization, code modularization, and extended interoperability both within the distribution and with external \u2026",
+                "We show how the ultrasoft pseudopotentials which have recently been proposed by Vanderbilt can be implemented efficiently in the context of Car-Parrinello molecular-dynamics simulations. We address the differences with respect to the conventional norm-conserving schemes, identify certain problems which arise, and indicate how these problems can be overcome. This new scheme extends the possibility of performing first-principles molecular dynamics to systems including first-row elements and transition metals.",
+                "An efficient method is developed for the microscopic description of the frequency-dependent polarizability of finite-gap molecules and solids. This is achieved by combining the Tkatchenko-Scheffler van der Waals (vdW) method [Phys. Rev. Lett. 102, 073005 (2009)] with the self-consistent screening equation of classical electrodynamics. This leads to a seamless description of polarization and depolarization for the polarizability tensor of molecules and solids. The screened long-range many-body vdW energy is obtained from the solution of the Schr\u00f6dinger equation for a system of coupled oscillators. We show that the screening and the many-body vdW energy play a significant role even for rather small molecules, becoming crucial for an accurate treatment of conformational energies for biomolecules and binding of molecular crystals. The computational cost of the developed theory is negligible compared to the \u2026",
+                "An ab initio molecular dynamics simulation of liquid water has been performed using density functional theory in the Kohn\u2013Sham formulation and a plane wave basis set to determine the electronic structure and the forces at each time step. For an accurate description of the hydrogen bonding in the liquid, it was necessary to extend the exchange functional with a term that depends on the gradient of the electron density. A further important technical detail is that supersoft pseudopotentials were used to treat the valence orbitals of the oxygen atoms in a plane wave expansion. The structural and dynamical properties of the liquid were found to be in good agreement with experiment. The ab initio molecular dynamics also yields information on the electronic structure. The electronic feature of special interest is the lowest unoccupied molecular orbital (LUMO) of the liquid which is the state occupied by a thermalized \u2026"
+            ],
+            [
+                [
+                    "Physics",
+                    "Chemistry"
+                ]
+            ]
+        ]
+    ]
+}

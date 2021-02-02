@@ -1,0 +1,116 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "1--s0d4AAAAJ",
+            "Anvar Zakhidov",
+            "University of Texas at Dallas, ITMO University",
+            "@metalab.ifmo.ru",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=1--s0d4AAAAJ",
+            33574,
+            [
+                "Carbon nanotubes",
+                "fullerenes",
+                "photonic crystals",
+                "OLED",
+                "OPV"
+            ],
+            9549,
+            66,
+            39,
+            224,
+            104,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"1fQlsRcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ray Baughman",
+                    "affiliation":""
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9sE8LrMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sergey Makarov",
+                    "affiliation":"ITMO University, Head of Laboratory of Hybrid Nanophotonics and Optoelectronics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9UmMM3sAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Walter (Wenchuang) Hu",
+                    "affiliation":"Professor of The University of Texas at Dallas"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"klW4cOMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Walt A de Heer",
+                    "affiliation":"Regents Professor of Physics, Georgia Institute of Technology and TICNN, Tianjin University, Tianjin"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"dtFU-gUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yuri S Kivshar",
+                    "affiliation":"Australian National University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"eOccqr0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Pavel Belov",
+                    "affiliation":"ITMO University"
+                }
+            ]
+        ]
+    ]
+}

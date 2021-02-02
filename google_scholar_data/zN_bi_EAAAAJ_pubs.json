@@ -1,0 +1,239 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Determinations of soil moisture and sediment availability in arid regions are important indicators of local climate variability and the potential for future dust storm events. Data from the Advanced Spaceborne Thermal Emission and Reflection (ASTER) radiometer were used to derive the relationships among potential soil erosion, soil moisture, and thermal inertia (TI) at the spatial scale of aeolian landforms for the White Sands Dune Field between May 2000 and March 2008. Land surface apparent thermal inertia (ATI) data were used to derive an approximation of actual TI in order to estimate the wind threshold velocity ratio (WTR). The WTR is a ratio of the wind velocity thresholds at which soil erosion occurs for wet soil versus dry soil. The ASTER\u2010derived soil moisture retrievals and the changes through time at White Sands were interpreted to be driven primarily by precipitation, but the presence of a perched \u2026",
+            "Determining soil moisture and sediment availability at White Sands Dune Field, New Mexico, from apparent thermal inertia data",
+            "Stephen Scheidt and Michael Ramsey and Nicholas Lancaster",
+            "2010",
+            "zN_bi_EAAAAJ:d1gkVwhDpl0C",
+            66,
+            "https:\/\/agupubs.onlinelibrary.wiley.com\/doi\/abs\/10.1029\/2009JF001378",
+            "17250711006475284565",
+            "\/scholar?cites=17250711006475284565",
+            {
+                "2009":1,
+                "2010":2,
+                "2011":6,
+                "2012":8,
+                "2013":7,
+                "2014":6,
+                "2015":8,
+                "2016":7,
+                "2017":6,
+                "2018":6,
+                "2019":8,
+                "2020":1
+            }
+        ],
+        [
+            "Data from the Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) have a significant advantage over previous datasets because of the combination of high spatial resolution (15\u201390 m) and enhanced multispectral capabilities, particularly in the thermal infrared (TIR) atmospheric window (8\u201312 \u03bcm) of the Earth where common silicate minerals are more easily identified. However, the 60 km swath width of ASTER can limit the effectiveness of accurately tracing large-scale features, such as eolian sediment transport pathways, over long distances. The primary goal of this paper is to describe a method for generating a seamless and radiometrically accurate ASTER TIR mosaic of atmospherically corrected radiance and from that, extract surface emissivity for arid lands, specifically, sand seas. The Gran Desierto in northern Sonora, Mexico was used as a test location for the radiometric \u2026",
+            "Radiometric normalization and image mosaic generation of ASTER thermal infrared data: An application to extensive sand sheets and dune fields",
+            "Stephen Scheidt and Michael Ramsey and Nicholas Lancaster",
+            "2008",
+            "zN_bi_EAAAAJ:u5HHmVD_uO8C",
+            59,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0034425707002969",
+            "12493556137309829724",
+            "\/scholar?cites=12493556137309829724",
+            {
+                "2008":2,
+                "2009":4,
+                "2010":6,
+                "2011":5,
+                "2012":3,
+                "2013":6,
+                "2014":3,
+                "2015":9,
+                "2016":2,
+                "2017":4,
+                "2018":8,
+                "2019":4,
+                "2020":1,
+                "2021":1
+            }
+        ],
+        [
+            "The large volume of high-resolution images acquired by the Mars Reconnaissance Orbiter has opened a new frontier for developing automated approaches to detecting landforms on the surface of Mars. However, most landform classifiers focus on crater detection, which represents only one of many geological landforms of scientific interest. In this work, we use Convolutional Neural Networks (ConvNets) to detect both volcanic rootless cones and transverse aeolian ridges. Our system, named MarsNet, consists of five networks, each of which is trained to detect landforms of different sizes. We compare our detection algorithm with a widely used method for image recognition, Support Vector Machines (SVMs) using Histogram of Oriented Gradients (HOG) features. We show that ConvNets can detect a wide range of landforms and has better accuracy and recall in testing data than traditional classifiers based on SVMs.",
+            "Automated detection of geological landforms on Mars using Convolutional Neural Networks",
+            "Leon F Palafox and Christopher W Hamilton and Stephen P Scheidt and Alexander M Alvarez",
+            "2017",
+            "zN_bi_EAAAAJ:BUYA1_V_uYcC",
+            48,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0098300416305532",
+            "14614225655261910871",
+            "\/scholar?cites=14614225655261910871",
+            {
+                "2017":2,
+                "2018":15,
+                "2019":15,
+                "2020":15,
+                "2021":1
+            }
+        ],
+        [
+            "The Medusae Fossae Formation (MFF) on Mars is an intensely eroded deposit north of the cratered highlands. It is widely thought that MFF materials were emplaced through ignimbrite eruptions. Recent geologic mapping of western MFF identified outliers of MFF materials well beyond the previously mapped western extent for the deposit, including outliers close to Gale crater. We report counts of impact craters on the MFF units that have implications for our understanding of the general history of MFF and the uppermost layered materials on the Gale crater mound.",
+            "Hesperian age for western medusae fossae formation, Mars",
+            "James R Zimbelman and Stephen P Scheidt",
+            "2012",
+            "zN_bi_EAAAAJ:UebtZRa9Y70C",
+            43,
+            "https:\/\/science.sciencemag.org\/content\/336\/6089\/1683.abstract",
+            "7502884038530561424",
+            "\/scholar?cites=7502884038530561424",
+            {
+                "2012":1,
+                "2013":9,
+                "2014":5,
+                "2015":5,
+                "2016":5,
+                "2017":7,
+                "2018":3,
+                "2019":6,
+                "2020":1
+            }
+        ],
+        [
+            "The Gran Desierto dune field is only partially composed of quartz-rich sands from the ancestral Colorado River. Local sources have been previously underestimated as a major source of sand because previous remote-sensing studies were limited in their capability to detect silicate minerals. Compositions of sands were evaluated in this study using a combination of laboratory thermal emission spectroscopy and thermal remote-sensing data acquired from the Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) instrument. The spatial interpolation of sample compositions allowed visualization of the sand transport pathways from feldspar-rich local sources by revealing gradients of composition between the dune field and surrounding local sources. The laboratory data were comparable to the remote-sensing retrievals of quartz and feldspar abundance. The mineralogical maturity of the \u2026",
+            "Eolian dynamics and sediment mixing in the Gran Desierto, Mexico, determined from thermal infrared spectroscopy and remote-sensing data",
+            "Stephen Scheidt and Nicholas Lancaster and Michael Ramsey",
+            "2011",
+            "zN_bi_EAAAAJ:qjMakFHDy7sC",
+            24,
+            "https:\/\/pubs.geoscienceworld.org\/msa\/gsabulletin\/article\/123\/7-8\/1628\/125725",
+            "17176664757207184559",
+            "\/scholar?cites=17176664757207184559",
+            {
+                "2012":4,
+                "2013":2,
+                "2014":3,
+                "2015":2,
+                "2016":2,
+                "2017":3,
+                "2018":2,
+                "2019":1,
+                "2020":5
+            }
+        ],
+        [
+            "Ten high precision topographic profiles across a reversing dune were created from a differential global position system (DGPS). The shapes of the profiles reveal a progression from immature to transitional to mature characteristics moving up the dune. When scaled by the basal width along each profile, shape characteristics can be compared for profiles whose horizontal scales differ by orders of magnitude. The comparison of width-scaled Bruneau Dunes profiles to similarly scaled profiles of Transverse Aeolian Ridges (TARs) on Mars indicates that many TARs are likely similar to transitional or mature reversing sand dunes.",
+            "Precision topography of a reversing sand dune at Bruneau Dunes, Idaho, as an analog for Transverse Aeolian Ridges on Mars",
+            "James R Zimbelman and Stephen P Scheidt",
+            "2014",
+            "zN_bi_EAAAAJ:QIV2ME_5wuYC",
+            22,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0019103513003424",
+            "193209997796111018",
+            "\/scholar?cites=193209997796111018",
+            {
+                "2014":2,
+                "2015":3,
+                "2016":5,
+                "2017":4,
+                "2018":4,
+                "2019":4
+            }
+        ],
+        [
+            "Hrad Vallis is an Amazonian\u2010age outflow channel located in the northwestern part of the Elysium Volcanic Province of Mars. The formation of Hrad Vallis may have been associated with catastrophic aqueous floods and volcanism, which makes determining its emplacement history important for constraining the planet's hydrological and thermal evolution during the Amazonian Period. Through geological mapping, geomorphologic analysis, and numerical simulations we assess whether Hrad Vallis formed in association with mudflows (i.e., lahars), effusive volcanism, or a combination of both processes. Among the three youngest flows in the region, the lower and upper flow units are inferred to be the products of catastrophic aqueous floods, whereas the middle unit is interpreted to be p\u0101hoehoe\u2010like lava flow formed through the process of inflation over the course of decades. The latter flow unit is similar to terrestrial \u2026",
+            "Episodes of aqueous flooding and effusive volcanism associated with Hrad Vallis, Mars",
+            "Christopher W Hamilton and Peter J Mouginis\u2010Mark and Michael M Sori and Stephen P Scheidt and Ali M Bramson",
+            "2018",
+            "zN_bi_EAAAAJ:kz9GbA2Ns4gC",
+            19,
+            "https:\/\/agupubs.onlinelibrary.wiley.com\/doi\/abs\/10.1029\/2018JE005543",
+            "3710647456858846839",
+            "\/scholar?cites=3710647456858846839",
+            {
+                "2018":2,
+                "2019":8,
+                "2020":8
+            }
+        ],
+        [
+            "Climate variability and rapid urbanization have influenced the sand environments in the northern Coachella Valley throughout the late 20th century. This paper addresses changes in the spatial relationships among different sand deposits at northern Coachella Valley between two recent time periods by using satellite data acquired from the Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER). The approach employed here, involving multispectral thermal infrared (TIR) data and spectral mixture analysis, has shown that the major sand deposits can be spatially modeled at northern Coachella Valley. The \u201ccoarse-grained (quartz-rich) sand\u201d deposit is associated with active eolian sand, and the \u201cmixed sandy soil\u201d and \u201cfine-grained (quartz-rich) sand\u201d deposits are associated with inactive eolian sand. The fractional abundance images showed a significant decrease between 2000 and 2006 in \u2026",
+            "Changes in active eolian sand at northern Coachella Valley, California",
+            "Itzhak Katra and Stephen Scheidt and Nicholas Lancaster",
+            "2009",
+            "zN_bi_EAAAAJ:u-x6o8ySG0sC",
+            18,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0169555X0800456X",
+            "7276531986115729123",
+            "\/scholar?cites=7276531986115729123",
+            {
+                "2008":1,
+                "2009":3,
+                "2010":2,
+                "2011":1,
+                "2012":2,
+                "2013":1,
+                "2014":3,
+                "2015":2,
+                "2016":1,
+                "2017":1,
+                "2018":1
+            }
+        ],
+        [
+            "Equipment for performing low-altitude aerial photography for geomorphological studies on 10\u20131000 m scales is described, with particular reference to study of sand dunes. An automatic digital camera is lofted by a parafoil kite: the arrangement costs around $400, collapses into a volume of \u223c2 l and can be deployed in a few minutes, making it convenient for field use when wind conditions (>4 m\/s) permit. Some operational considerations are discussed and we demonstrate two scientific applications \u2013 change detection to show a dune at White Sands has not advanced in an 11-month interval and the generation of a digital elevation model of Bruneau Dune.",
+            "Compact and inexpensive kite apparatus for geomorphological field aerial photography, with some remarks on operations",
+            "Ralph D Lorenz and Stephen P Scheidt",
+            "2014",
+            "zN_bi_EAAAAJ:ZeXyd9-uunAC",
+            14,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S2214242814000084",
+            "13542716526442850481",
+            "\/scholar?cites=13542716526442850481",
+            {
+                "2014":1,
+                "2015":4,
+                "2016":2,
+                "2017":3,
+                "2018":1,
+                "2019":2,
+                "2020":1
+            }
+        ],
+        [
+            "The Coregistration of Optically Sensed Images and Correlation (COSI\u2010Corr) algorithm was used to estimate dune migration and sand flux rates from a series of remotely\u2010sensed optical image pairs. Several areas of barchan and transverse dunes transport sand along definite pathways, feeding the southern part of the Namib Sand Sea from beaches and deflationary basins in the Sperrgebiet. We give a detailed description of the pre\u2010 and post\u2010processing routines used for our COSI\u2010Corr analysis, and we evaluate the sub\u2010pixel dune migration results at the dune and dune\u2010field scales. The best set of parameters for the application of the algorithm was systematically derived, resulting in methodological refinements of the cross\u2010correlation windows. The Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) sensor aboard the Terra satellite provided the remote sensing imagery. Few \u2026",
+            "The application of COSI\u2010Corr to determine dune system dynamics in the southern Namib Desert using ASTER data",
+            "Stephen P Scheidt and Nick Lancaster",
+            "2013",
+            "zN_bi_EAAAAJ:MXK_kJrjxJIC",
+            12,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1002\/esp.3383",
+            "11059710181527796159",
+            "\/scholar?cites=11059710181527796159",
+            {
+                "2014":1,
+                "2015":1,
+                "2016":2,
+                "2017":3,
+                "2018":5
+            }
+        ]
+    ]
+}

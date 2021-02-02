@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "BDSWBFN1",
+            "l7AGAOwAAAAJ",
+            [
+                "Decoherence in Josephson qubits from dielectric loss",
+                "Search for the Standard Model Higgs boson produced in association with top quarks and decaying into bb\u00af in pp collisions at s= 8TeV with the ATLAS detector",
+                "Simultaneous state measurement of coupled Josephson phase qubits",
+                "Thickness-independent transport channels in topological insulator Bi 2 Se 3 thin films",
+                "Signature of superfluid density in the single-particle excitation spectrum of Bi2Sr2CaCu2O8+ \u03b4",
+                "Thickness-dependent bulk properties and weak antilocalization effect in topological insulator Bi 2 Se 3",
+                "Observation of Dirac plasmons in a topological insulator",
+                "Observation of quantum oscillations between a Josephson phase qubit and a microscopic resonator using fast readout",
+                "Terahertz Response and Colossal Kerr Rotation from the Surface States of the Topological Insulator ",
+                "Topological surface states originated spin-orbit torques in Bi 2 Se 3"
+            ],
+            [
+                "Dielectric loss from two-level states is shown to be a dominant decoherence source in superconducting quantum bits. Depending on the qubit design, dielectric loss from insulating materials or the tunnel junction can lead to short coherence times. We show that a variety of microwave and qubit measurements are well modeled by loss from resonant absorption of two-level defects. Our results demonstrate that this loss can be significantly reduced by using better dielectrics and fabricating junctions of small area\u2272 10 \u03bc m 2. With a redesigned phase qubit employing low-loss dielectrics, the energy relaxation rate has been improved by a factor of 20, opening up the possibility of multiqubit gates and algorithms.",
+                "A search for the Standard Model Higgs boson produced in association with a top-quark pair, t tH, is presented. The analysis uses 20.3 fb\u2212 1 of pp collision data at\u221a s= 8 TeV, collected with the ATLAS detector at the Large Hadron Collider during 2012. The search is designed for the H\u2192 b b decay mode and uses events containing one or two electrons or muons. In order to improve the sensitivity of the search, events are categorised according to their jet and b-tagged jet multiplicities. A neural network is used to discriminate between signal and background events, the latter being dominated by t t+ jets production. In the single-lepton channel, variables calculated using a matrix element method are included as inputs to the neural network to improve discrimination of the irreducible t t+b b background. No significant excess of events above the background expectation is found and an observed (expected) limit of 3.4 (2.2) times the Standard Model cross section is obtained at 95% confidence level. The ratio of the measured t tH signal cross section to the Standard Model expectation is found to be \u03bc= 1. 5\u00b11. 1 assuming a Higgs boson mass of 125 GeV.",
+                "One of the many challenges of building a scalable quantum computer is single-shot measurement of all the quantum bits (qubits). We have used simultaneous single-shot measurement of coupled Josephson phase qubits to directly probe interaction of the qubits in the time domain. The concept of measurement crosstalk is introduced, and we show that its effects are minimized by careful adjustment of the timing of the measurements. We observe the antiphase oscillation of the two-qubit |01> and |10> states, consistent with quantum mechanical entanglement of these states, thereby opening the possibility for full characterization of multiqubit gates and elementary quantum algorithms.",
+                "With high quality topological insulator Bi 2 Se 3 thin films, we report thickness-independent transport properties over wide thickness ranges. Conductance remained nominally constant as the sample thickness changed from 256 to\u223c 8 QL (where QL refers to quintuple layer, 1 QL\u2248 1 nm). Two surface channels of very different behaviors were identified. The sheet carrier density of one channel remained constant at\u223c 3.0\u00d7 10 13 cm\u2212 2 down to 2 QL, while the other, which exhibited quantum oscillations, remained constant at\u223c 8\u00d7 10 12 cm\u2212 2 only down to\u223c 8 QL. The weak antilocalization parameters also exhibited similar thickness independence. These two channels are most consistent with the topological surface states and the surface accumulation layers, respectively.",
+                "We report that the doping and temperature dependence of photoemission spectra near the Brillouin zone boundary of Bi2Sr2CaCu2O8+\u03b4exhibit unexpected sensitivity to the superfluid density. In the superconducting state, the photoemission peak intensity as a function of doping scales with the superfluid density and the condensation energy. As a function of temperature, the peak intensity shows an abrupt behavior near the superconducting phase transition temperature where phase coherence sets in, rather than near the temperature where the gap opens. This anomalous manifestation of collective effects in single-particle spectroscopy raises important questions concerning the mechanism of high-temperature superconductivity.",
+                "We show that a number of transport properties in topological insulator (TI) Bi 2 Se 3 exhibit striking thickness dependences over a range of up to five orders of thickness (3 nm\u2013170 \u03bcm). Volume carrier density decreased with thickness, presumably due to diffusion-limited formation of selenium vacancies. Mobility increased linearly with thickness in the thin film regime and saturated in the thick limit. The weak antilocalization effect was dominated by a single two-dimensional channel over two decades of thickness. The sublinear thickness-dependence of the phase coherence length suggests the presence of strong coupling between the surface and bulk states.",
+                "Plasmons are quantized collective oscillations of electrons and have been observed in metals and doped semiconductors. The plasmons of ordinary, massive electrons have been the basic ingredients of research in plasmonics and in optical metamaterials for a long time 1. However, plasmons of massless Dirac electrons have only recently been observed in graphene, a purely two-dimensional electron system 2. Their properties are promising for novel tunable plasmonic metamaterials in the terahertz and mid-infrared frequency range 3. Dirac fermions also occur in the two-dimensional electron gas that forms at the surface of topological insulators as a result of the strong spin\u2013orbit interaction existing in the insulating bulk phase 4. One may therefore look for their collective excitations using infrared spectroscopy. Here we report the first experimental evidence of plasmonic excitations in a topological insulator (Bi 2 \u2026",
+                "We have detected coherent quantum oscillations between Josephson phase qubits and critical-current fluctuators by implementing a new state readout technique that is an order of magnitude faster than previous methods. These results reveal a new aspect of the quantum behavior of Josephson junctions, and they demonstrate the means to measure two-qubit interactions in the time domain. The junction-fluctuator interaction also points to a possible mechanism for decoherence and reduced fidelity in superconducting qubits.",
+                "We report the THz response of thin films of the topological insulator Bi 2 Se 3. At low frequencies, transport is essentially thickness independent showing the dominant contribution of the surface electrons. Despite their extended exposure to ambient conditions, these surfaces exhibit robust properties including narrow, almost thickness-independent Drude peaks, and an unprecedentedly large polarization rotation of linearly polarized light reflected in an applied magnetic field. This Kerr rotation can be as large as 65 and can be explained by a cyclotron resonance effect of the surface states.",
+                "The three dimensional topological insulator bismuth selenide (Bi 2 Se 3) is expected to possess strong spin-orbit coupling and spin-textured topological surface states and, thus, exhibit a high charge to spin current conversion efficiency. We evaluate spin-orbit torques in Bi 2 Se 3\/Co 40 Fe 40 B 20 devices at different temperatures by spin torque ferromagnetic resonance measurements. As the temperature decreases, the spin-orbit torque ratio increases from\u223c 0. 047 at 300 K to\u223c 0. 42 below 50 K. Moreover, we observe a significant out-of-plane torque at low temperatures. Detailed analysis indicates that the origin of the observed spin-orbit torques is topological surface states in Bi 2 Se 3. Our results suggest that topological insulators with strong spin-orbit coupling could be promising candidates as highly efficient spin current sources for exploring the next generation of spintronic applications."
+            ],
+            [
+                [
+                    "Experimental Condensed Matter Physics and Materials Physics"
+                ]
+            ]
+        ]
+    ]
+}

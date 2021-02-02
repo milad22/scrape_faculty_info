@@ -1,0 +1,112 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "er33C2AAAAAJ",
+            "Johannes Eser",
+            "PostDoc, Colorado School of Mines",
+            "@mines.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=er33C2AAAAAJ",
+            270,
+            [
+                "Cosmic Ray Physics    Astoparticle Physics"
+            ],
+            265,
+            9,
+            9,
+            7,
+            7,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"xPnMh7UAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Lawrence Wiencke",
+                    "affiliation":"Professor of physics, Colorado School of Mines"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ZYCo6sQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Angela V. Olinto",
+                    "affiliation":"Professor Astronomy and Astrophysics, University of Chicago"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"CY4JAeUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Lech Wiktor Piotrowski",
+                    "affiliation":"Postdoctoral Fellow, EUSO Team, RIKEN, Japan"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"yUV9mmcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Fred Sarazin",
+                    "affiliation":"Colorado School of Mines"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"jKM43oUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Francesca Capel",
+                    "affiliation":"ORIGINS Cluster (Technische Universit\u00e4t M\u00fcnchen)"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"MtI0-FEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"\u0160imon Mackovjak",
+                    "affiliation":"Researcher, Institute of Experimental Physics, Slovak Akademy of Sciences"
+                }
+            ]
+        ]
+    ]
+}

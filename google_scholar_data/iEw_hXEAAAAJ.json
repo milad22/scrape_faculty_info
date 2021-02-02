@@ -1,0 +1,137 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "iEw_hXEAAAAJ",
+            "Ruixiao Yao",
+            "Peking University",
+            "@pku.edu.cn",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=iEw_hXEAAAAJ",
+            17,
+            [
+                "Quantum Physics",
+                "Quantum Simulation"
+            ],
+            17,
+            3,
+            3,
+            0,
+            0,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"jq9vngcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jakub Zakrzewski",
+                    "affiliation":"professor of physics, Jagiellonian University in Krak\u00f3w"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"bLe2znoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Titas Chanda",
+                    "affiliation":"Jagiellonian University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Zt5MjB0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jiazhong Hu",
+                    "affiliation":"Tsinghua University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"OnoMAckAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Chao Tang",
+                    "affiliation":"Professor of Physics, Peking University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"adpdZ9wAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Huixia Ren",
+                    "affiliation":"Peking University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"2S5ULf4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Bo Liu",
+                    "affiliation":"Graduate student, Harvard University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"p7i5fNoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Xiaopeng Li",
+                    "affiliation":"Professor, Physics Department, Fudan University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"STxUGcMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Wenlan Chen",
+                    "affiliation":"Tsinghua University"
+                }
+            ]
+        ]
+    ]
+}

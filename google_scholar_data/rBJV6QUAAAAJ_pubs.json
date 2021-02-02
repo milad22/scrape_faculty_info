@@ -1,0 +1,227 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Several arboreal mammals have the ability to rapidly and repeatedly jump vertical distances of 2 m, starting from rest. We characterize this performance by a metric we call vertical jumping agility. Through basic kinetic relations, we show that this agility metric is fundamentally constrained by available actuator power. Although rapid high jumping is an important performance characteristic, the ability to control forces during stance also appears critical for sophisticated behaviors. The animal with the highest vertical jumping agility, the galago (Galago senegalensis), is known to use a powermodulating strategy to obtain higher peak power than that of muscle alone. Few previous robots have used serieselastic power modulation (achieved by combining series-elastic actuation with variable mechanical advantage), and because of motor power limits, the best current robot has a vertical jumping agility of only 55% of a galago. Through use of a specialized leg mechanism designed to enhance power modulation, we constructed a jumping robot that achieved 78% of the vertical jumping agility of a galago. Agile robots can explore venues of locomotion that were not previously attainable. We demonstrate this with a wall jump, where the robot leaps from the floor to a wall and then springs off the wall to reach a net height that is greater than that accessible by a single jump. Our results show that series-elastic power modulation is an actuation strategy that enables a clade of vertically agile robots.",
+            "Robotic vertical jumping agility via series-elastic power modulation",
+            "Duncan W Haldane and Mark M Plecnik and Justin K Yim and Ronald S Fearing",
+            "2016",
+            "rBJV6QUAAAAJ:yqoGN6RLRZoC",
+            170,
+            "https:\/\/par.nsf.gov\/servlets\/purl\/10025797",
+            "17208890133470482216",
+            "\/scholar?cites=17208890133470482216",
+            {
+                "2015":1,
+                "2016":1,
+                "2017":24,
+                "2018":43,
+                "2019":58,
+                "2020":40,
+                "2021":3
+            }
+        ],
+        [
+            "The VelociRoACH is a 10 cm long, 30 gram hexapedal millirobot capable of running at 2.7 m\/s, making it the fastest legged robot built to date, relative to scale. We present the design by dynamic similarity technique and the locomotion adaptations which have allowed for this highly dynamic performance. In addition, we demonstrate that rotational dynamics become critical for stability as the scale of a robotic system is reduced. We present a new method of experimental dynamic tuning for legged millirobots, aimed at finding stable limit cycles with minimal rotational energy. By implementing an aerodynamic rotational damper, we further reduced the rotational energy in the system, and demonstrated that stable limit cycles with lower rotational energy are more robust to disturbances. This method increased the stability of the system without detracting from forward speed.",
+            "Animal-inspired design and aerodynamic stabilization of a hexapedal millirobot",
+            "Duncan W Haldane and Kevin C Peterson and Fernando L Garcia Bermudez and Ronald S Fearing",
+            "2013",
+            "rBJV6QUAAAAJ:UeHWp8X0CEIC",
+            107,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6631034\/",
+            "15787095067660301755",
+            "\/scholar?cites=15787095067660301755",
+            {
+                "2013":9,
+                "2014":11,
+                "2015":18,
+                "2016":13,
+                "2017":21,
+                "2018":16,
+                "2019":11,
+                "2020":7
+            }
+        ],
+        [
+            "Minimally actuated millirobotic crawlers navigate unreliably over uneven terrain-even when designed with inherent stability-mostly because of manufacturing variabilities and a lack of good models for ground interaction. In this paper, we investigate the performance of a legged robot as it traverses three distinct rough terrains: tile, carpet, and gravel. Furthermore, we present an accurate, robust, low-lag, and efficient algorithm for terrain classification that uses vibration data from the on-board inertial measurement unit and motor control data from back-EMF sensing and magnetic encoders.",
+            "Performance analysis and terrain classification for a legged robot over rough terrain",
+            "Fernando L Garcia Bermudez and Ryan C Julian and Duncan W Haldane and Pieter Abbeel and Ronald S Fearing",
+            "2012",
+            "rBJV6QUAAAAJ:u5HHmVD_uO8C",
+            66,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6386243\/",
+            "10204141538332718903",
+            "\/scholar?cites=10204141538332718903",
+            {
+                "2013":12,
+                "2014":11,
+                "2015":9,
+                "2016":10,
+                "2017":4,
+                "2018":5,
+                "2019":6,
+                "2020":7,
+                "2021":1
+            }
+        ],
+        [
+            "Many animals, modern aircraft, and underwater vehicles use fusiform, streamlined body shapes that reduce fluid dynamic drag to achieve fast and effective locomotion in air and water. Similarly, numerous small terrestrial animals move through cluttered terrain where three-dimensional, multi-component obstacles like grass, shrubs, vines, and leaf litter also resist motion, but it is unknown whether their body shape plays a major role in traversal. Few ground vehicles or terrestrial robots have used body shape to more effectively traverse environments such as cluttered terrain. Here, we challenged forest-floor-dwelling discoid cockroaches (Blaberus discoidalis) possessing a thin, rounded body to traverse tall, narrowly spaced, vertical, grass-like compliant beams. Animals displayed high traversal performance (79\u00b112% probability and 3.4\u00b10.7 s time). Although we observed diverse obstacle traversal strategies \u2026",
+            "Terradynamically streamlined shapes in animals and robots enhance traversability through densely cluttered terrain",
+            "Chen Li and Andrew O Pullin and Duncan W Haldane and Han K Lam and Ronald S Fearing and Robert J Full",
+            "2015",
+            "rBJV6QUAAAAJ:5nxA0vEk-isC",
+            62,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/1748-3190\/10\/4\/046003\/meta",
+            "7190093660278185899",
+            "\/scholar?cites=7190093660278185899",
+            {
+                "2015":4,
+                "2016":7,
+                "2017":3,
+                "2018":15,
+                "2019":16,
+                "2020":15,
+                "2021":1
+            }
+        ],
+        [
+            "For maximum maneuverability, terrestrial robots need to be able to turn precisely, quickly, and with a small radius. Previous efforts at turning in legged robots primarily have used leg force or velocity modulation. We developed a palm-sized legged robot, called TAYLRoACH. The tailed robot was able to make rapid, precise turns using only the actuation of a tail appendage. By rapidly rotating the tail as the robot runs forward, the robot was able to make sudden 90\u00b0 turns at 360 \u00b0s -1 . Unlike other robots, this is done with almost no change in its running speed. We have also modeled the dynamics of this maneuver, to examine how features, such as tail length and mass, affect the robot's turning ability. This approach has produced turns with a radius of 0.4 body lengths at 3.2 body lengths per second running speed. Using gyro feedback and bang-bang control, we achieve an accuracy of \u00b1 5\u00b0 for a 60\u00b0 turn.",
+            "Precise dynamic turning of a 10 cm legged robot on a low friction surface using a tail",
+            "Nicholas J Kohut and Andrew O Pullin and Duncan W Haldane and David Zarrouk and Ronald S Fearing",
+            "2013",
+            "rBJV6QUAAAAJ:Y0pCki6q_DkC",
+            62,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6631037\/",
+            "10273405723943595763",
+            "\/scholar?cites=10273405723943595763",
+            {
+                "2013":7,
+                "2014":4,
+                "2015":12,
+                "2016":11,
+                "2017":10,
+                "2018":8,
+                "2019":3,
+                "2020":5,
+                "2021":1
+            }
+        ],
+        [
+            "Inspired by the exoskeletons of insects, we have developed a number of manufacturing methods for the fabrication of structures for attachment, protection, and sensing. This manufacturing paradigm is based on infrared laser machining of lamina and the bonding of layered structures. The structures have been integrated with an inexpensive palm-sized legged robot, the VelociRoACH [Haldane et al., 2013,\u201cAnimal-Inspired Design and Aerodynamic Stabilization of a Hexapedal Millirobot,\u201d IEEE\/RSJ International Conference on Robotics and Automation, Karlsruhe, Germany, May 6\u201310, pp. 3279\u20133286]. We also present a methodology to design and fabricate folded robotic mechanisms, and have released an open-source robot, the OpenRoACH, as an example implementation of these techniques. We present new composite materials which enable the fabrication of stronger, larger scale smart composite \u2026",
+            "Integrated manufacture of exoskeletons and sensing structures for folded millirobots",
+            "Duncan W Haldane and Carlos S Casarez and Jaakko T Karras and Jessica Lee and Chen Li and Andrew O Pullin and Ethan W Schaler and Dongwon Yun and Hiroki Ota and Ali Javey and Ronald S Fearing",
+            "2015",
+            "rBJV6QUAAAAJ:0EnyYjriUFMC",
+            47,
+            "https:\/\/asmedigitalcollection.asme.org\/mechanismsrobotics\/article-abstract\/7\/2\/021011\/377419",
+            "15460290237774030896",
+            "\/scholar?cites=15460290237774030896",
+            {
+                "2015":5,
+                "2016":5,
+                "2017":8,
+                "2018":11,
+                "2019":10,
+                "2020":7
+            }
+        ],
+        [
+            "In this work we present a new robotic system, Salto-1P, for exploring extreme jumping locomotion. Salto-1P weighs 0.098 kg, and has an active leg length of 14.4 cm. The robot is able to perform a standing vertical leap of 1.25 m, continuously hop to heights over 1 m, and jump over 2 m horizontally. Salto-1P uses aerodynamic thrusters and an inertial tail to control its attitude in the air. A linearized Raibert step controller was sufficient to enable unconstrained in-place hopping and forwards-backwards locomotion with external position feedback. We present studies of extreme jumping locomotion in which the robot spends just 7.7% of its time on the ground, experiencing accelerations of 14 times earth gravity in its stance phase. An experimentally collected dataset of 772 observed jumps was used to establish the range of achievable horizontal and vertical impulses for Salto-1P.",
+            "Repetitive extreme-acceleration (14-g) spatial jumping with Salto-1P",
+            "Duncan W Haldane and Justin K Yim and Ronald S Fearing",
+            "2017",
+            "rBJV6QUAAAAJ:Ehil0879vHcC",
+            45,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/8206172\/",
+            "2915611881356901999",
+            "\/scholar?cites=2915611881356901999",
+            {
+                "2017":2,
+                "2018":13,
+                "2019":13,
+                "2020":15,
+                "2021":2
+            }
+        ],
+        [
+            "The force transmission of a flexible instrument through an endoscope is considerably deteriorated due to friction between the contacting surfaces. Friction force along the axial direction can be reduced by combining the translational motion input with rotation. A ratio f is defined to measure the reduction in the friction force along the axial direction due to the combined motion input at the proximal end of the instrument. An analytical formula is derived that shows the reduction in the friction force for the combined motion input. A flexible multibody model was setup and various simulations were performed with different motion inputs. The simulation result showed a reduction of 80% in the value of f in accordance with the analytical result for the given velocity ratio. Several experiments were performed with constant translational motion input combined with constant and sinusoidal rotational motion input. A maximum \u2026",
+            "Design exploration and kinematic tuning of a power modulating jumping monopod",
+            "Mark M Plecnik and Duncan W Haldane and Justin K Yim and Ronald S Fearing",
+            "2017",
+            "rBJV6QUAAAAJ:LhH-TYMQEocC",
+            42,
+            "https:\/\/asmedigitalcollection.asme.org\/mechanismsrobotics\/article-abstract\/9\/1\/011009\/473087",
+            "10693306195625470178",
+            "\/scholar?cites=10693306195625470178",
+            {
+                "2016":1,
+                "2017":8,
+                "2018":8,
+                "2019":15,
+                "2020":10
+            }
+        ],
+        [
+            "The X2-VelociRoACH is a 54 gram experimental legged robot which was developed to test hypotheses about running with unnaturally high stride frequencies. It is capable of running at stride frequencies up to 45 Hz, and velocities up to 4.9 m\/s, making it the fastest legged robot relative to size. The top speed of the robot was limited by structural failure. We present new methods and materials to make more robust folded robotic structures. High-frequency running experiments with the robot shows that the power required to cycle its running appendages increase cubically with the stride rate. Our findings show that although it is possible to further increase the maximum velocity of a legged robot with the simple strategy of increasing stride frequency, considerations must be made for the energetic demands of high stride rates.",
+            "Running beyond the bio-inspired regime",
+            "Duncan W Haldane and Ronald S Fearing",
+            "2015",
+            "rBJV6QUAAAAJ:hqOjcs7Dif8C",
+            40,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7139828\/",
+            "2880479323227416368",
+            "\/scholar?cites=2880479323227416368",
+            {
+                "2016":4,
+                "2017":12,
+                "2018":9,
+                "2019":11,
+                "2020":4
+            }
+        ],
+        [
+            "Small legged robots have unique potential for widespread application in search and rescue, hazardous exploration, battlefield reconnaissance, and almost any remote, inaccessible or dangerous situation not reachable by humans. Dynamic running robots have used a variety of steering means, including differential velocity drive [l][2] and actively changing leg kinematics [3][4]. Previous robots have also used tails for various functions, such as turning in an aquatic environment [5], active pitch control [6][7], or stabilization during climbing [8]. The robot discussed here uses a tail to produce a turn on rough or \ufb02at ground. This paper examines the way in which this is done, through the use of angular momentum exchange and internal impacts that generate a turning impulse.",
+            "Effect of inertial tail on yaw rate of 45 gram legged robot",
+            "NJ Kohut and DW Haldane and D Zarrouk and RS Fearing",
+            "2012",
+            "rBJV6QUAAAAJ:IjCSPb-OGe4C",
+            28,
+            "http:\/\/books.google.com\/books?hl=en&lr=&id=0RRGzVpGjB4C&oi=fnd&pg=PA157&dq=info:bzd7EZGLvp4J:scholar.google.com&ots=moy6MJ_k0m&sig=zAvfxQhc2LWxoNq_H4kjcABAQEI",
+            "11438733558747445103",
+            "\/scholar?cites=11438733558747445103",
+            {
+                "2012":1,
+                "2013":4,
+                "2014":2,
+                "2015":7,
+                "2016":1,
+                "2017":2,
+                "2018":9,
+                "2019":2
+            }
+        ]
+    ]
+}

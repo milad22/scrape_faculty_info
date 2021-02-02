@@ -1,0 +1,240 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "In real testing, examinees may manifest different types of test\u2010taking behaviours. In this paper we focus on two types that appear to be among the more frequently occurring behaviours \u2013 solution behaviour and rapid guessing behaviour. Rapid guessing usually happens in high\u2010stakes tests when there is insufficient time, and in low\u2010stakes tests when there is lack of effort. These two qualitatively different test\u2010taking behaviours, if ignored, will lead to violation of the local independence assumption and, as a result, yield biased item\/person parameter estimation. We propose a mixture hierarchical model to account for differences among item responses and response time patterns arising from these two behaviours. The model is also able to identify the specific behaviour an examinee engages in when answering an item. A Monte Carlo expectation maximization algorithm is proposed for model calibration. A simulation \u2026",
+            "A mixture hierarchical model for response times and response accuracy",
+            "Chun Wang and Gongjun Xu",
+            "2015",
+            "6j3ABHUAAAAJ:O3NaXMp0MMsC",
+            93,
+            "https:\/\/bpspsychub.onlinelibrary.wiley.com\/doi\/abs\/10.1111\/bmsp.12054",
+            "3419835381177492730",
+            "\/scholar?cites=3419835381177492730",
+            {
+                "2016":6,
+                "2017":12,
+                "2018":17,
+                "2019":20,
+                "2020":35,
+                "2021":3
+            }
+        ],
+        [
+            "Likert types of rating scales in which a respondent chooses a response from an ordered set of response options are used to measure a wide variety of psychological, educational, and medical outcome variables. The most appropriate item response theory model for analyzing and scoring these instruments when they provide scores on multiple scales is the multidimensional graded response model (MGRM). A simulation study was conducted to investigate the variables that might affect item parameter recovery for the MGRM. Data were generated based on different sample sizes, test lengths, and scale intercorrelations. Parameter estimates were obtained through the flexiMIRT software. The quality of parameter recovery was assessed by the correlation between true and estimated parameters as well as bias and root- mean-square-error. Results indicated that for the vast majority of cases studied a sample size of N = 500 provided accurate parameter estimates, except for tests with 240 items when 1,000 examinees were necessary to obtain accurate parameter estimates. Increasing sample size beyond N = 1,000 did not increase the accuracy of MGRM parameter estimates.",
+            "Sample size requirements for estimation of item parameters in the multidimensional graded response model",
+            "Shengyu Jiang and Chun Wang and David J Weiss",
+            "2016",
+            "6j3ABHUAAAAJ:bnK-pcrLprsC",
+            91,
+            "https:\/\/www.frontiersin.org\/articles\/10.3389\/fpsyg.2016.00109\/full",
+            "3896363978825126985",
+            "\/scholar?cites=3896363978825126985",
+            {
+                "2016":1,
+                "2017":10,
+                "2018":28,
+                "2019":29,
+                "2020":23
+            }
+        ],
+        [
+            "This paper proposes two new item selection methods for cognitive diagnostic computerized adaptive testing: the restrictive progressive method and the restrictive threshold method. They are built upon the posterior weighted Kullback\u2010Leibler (KL) information index but include additional stochastic components either in the item selection index or in the item selection procedure. Simulation studies show that both methods are successful at simultaneously suppressing overexposed items and increasing the usage of underexposed items. Compared to item selection based upon (1) pure KL information and (2) the Sympson\u2010Hetter method, the two new methods strike a better balance between item exposure control and measurement accuracy. The two new methods are also compared with Barrada et al.'s (2008) progressive method and proportional method.",
+            "Restrictive stochastic item selection methods in cognitive diagnostic computerized adaptive testing",
+            "Chun Wang and Hua\u2010Hua Chang and Alan Huebner",
+            "2011",
+            "6j3ABHUAAAAJ:9yKSN-GCB0IC",
+            77,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1111\/j.1745-3984.2011.00145.x",
+            "8406561528911011825",
+            "\/scholar?cites=8406561528911011825",
+            {
+                "2011":1,
+                "2012":2,
+                "2013":8,
+                "2014":8,
+                "2015":13,
+                "2016":12,
+                "2017":7,
+                "2018":6,
+                "2019":9,
+                "2020":10
+            }
+        ],
+        [
+            "Over the past thirty years, obtaining diagnostic information from examinees\u2019 item responses has become an increasingly important feature of educational and psychological testing. The objective can be achieved by sequentially selecting multidimensional items to fit the class of latent traits being assessed, and therefore Multidimensional Computerized Adaptive Testing (MCAT) is one reasonable approach to such task. This study conducts a rigorous investigation on the relationships among four promising item selection methods: D-optimality, KL information index, continuous entropy, and mutual information. Some theoretical connections among the methods are demonstrated to show how information about the unknown vector \u03b8 can be gained from different perspectives. Two simulation studies were carried out to compare the performance of the four methods. The simulation results showed that mutual \u2026",
+            "Item selection in multidimensional computerized adaptive testing\u2014Gaining information from different angles",
+            "Chun Wang and Hua-Hua Chang",
+            "2011",
+            "6j3ABHUAAAAJ:u-x6o8ySG0sC",
+            72,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/s11336-011-9215-7.pdf",
+            "5629164273435082723",
+            "\/scholar?cites=5629164273435082723",
+            {
+                "2011":3,
+                "2012":4,
+                "2013":7,
+                "2014":11,
+                "2015":6,
+                "2016":11,
+                "2017":6,
+                "2018":8,
+                "2019":7,
+                "2020":8,
+                "2021":1
+            }
+        ],
+        [
+            "Texting while driving is risky but common. This study evaluated how texting using a Head-Mounted Display, Google Glass, impacts driving performance. Experienced drivers performed a classic car-following task while using three different interfaces to text: fully manual interaction with a head-down smartphone, vocal interaction with a smartphone, and vocal interaction with Google Glass. Fully manual interaction produced worse driving performance than either of the other interaction methods, leading to more lane excursions and variable vehicle control, and higher workload. Compared to texting vocally with a smartphone, texting using Google Glass produced fewer lane excursions, more braking responses, and lower workload. All forms of texting impaired driving performance compared to undistracted driving. These results imply that the use of Google Glass for texting impairs driving, but its Head-Mounted Display \u2026",
+            "Texting while driving using Google Glass\u2122: Promising but not distraction-free",
+            "Jibo He and William Choi and Jason S McCarley and Barbara S Chaparro and Chun Wang",
+            "2015",
+            "6j3ABHUAAAAJ:eAUscmXIlQ8C",
+            69,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0001457515001153",
+            "1701608048190155063",
+            "\/scholar?cites=1701608048190155063",
+            {
+                "2015":4,
+                "2016":15,
+                "2017":13,
+                "2018":16,
+                "2019":13,
+                "2020":6
+            }
+        ],
+        [
+            "Item replenishing is essential for item bank maintenance in cognitive diagnostic computerized adaptive testing (CD-CAT). In regular CAT, online calibration is commonly used to calibrate the new items continuously. However, until now no reference has publicly become available about online calibration for CD-CAT. Thus, this study investigates the possibility to extend some current strategies used in CAT to CD-CAT. Three representative online calibration methods were investigated: Method A (Stocking in Scale drift in on-line calibration. Research Rep. 88-28, 1988), marginal maximum likelihood estimate with one EM cycle (OEM) (Wainer & Mislevy In H. Wainer (ed.) Computerized adaptive testing: A primer, pp. 65\u2013102, 1990) and marginal maximum likelihood estimate with multiple EM cycles (MEM) (Ban, Hanson, Wang, Yi, & Harris in J. Educ. Meas. 38:191\u2013212, 2001). The objective of the current paper is \u2026",
+            "Online calibration methods for the DINA model with independent attributes in CD-CAT",
+            "Ping Chen and Tao Xin and Chun Wang and Hua-Hua Chang",
+            "2012",
+            "6j3ABHUAAAAJ:2osOgNQ5qMEC",
+            63,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/s11336-012-9255-7.pdf",
+            "6633595090323813794",
+            "\/scholar?cites=6633595090323813794",
+            {
+                "2012":1,
+                "2013":7,
+                "2014":5,
+                "2015":7,
+                "2016":14,
+                "2017":7,
+                "2018":6,
+                "2019":5,
+                "2020":11
+            }
+        ],
+        [
+            "Cognitive diagnosis models have received much attention in the recent psychometric literature because of their potential to provide examinees with information regarding multiple fine-grained discretely defined skills, or attributes. This article discusses the issue of methods of examinee classification for cognitive diagnosis models, which are special cases of restricted latent class models. Specifically, the maximum likelihood estimation and maximum a posteriori classification methods are compared with the expected a posteriori method. A simulation study using the Deterministic Input, Noisy-And model is used to assess the classification accuracy of the methods using various criteria.",
+            "A note on comparing examinee classification methods for cognitive diagnosis models",
+            "Alan Huebner and Chun Wang",
+            "2011",
+            "6j3ABHUAAAAJ:YsMSGLbcyi4C",
+            58,
+            "https:\/\/journals.sagepub.com\/doi\/abs\/10.1177\/0013164410388832",
+            "10240126151447964469",
+            "\/scholar?cites=10240126151447964469",
+            {
+                "2012":6,
+                "2013":6,
+                "2014":5,
+                "2015":6,
+                "2016":6,
+                "2017":7,
+                "2018":4,
+                "2019":9,
+                "2020":9
+            }
+        ],
+        [
+            "Cognitive diagnostic computerized adaptive testing (CD-CAT) purports to combine the strengths of both CAT and cognitive diagnosis. Cognitive diagnosis models aim at classifying examinees into the correct mastery profile group so as to pinpoint the strengths and weakness of each examinee whereas CAT algorithms choose items to determine those strengths and weakness as efficiently as possible. Most of the existing CD-CAT item selection algorithms are evaluated when test length is relatively long whereas several applications of CD-CAT, such as in interim assessment, require an item selection algorithm that is able to accurately recover examinees\u2019 mastery profile with short test length. In this article, we introduce the mutual information item selection method in the context of CD-CAT and then provide a computationally easier formula to make the method more amenable in real time. Mutual information is then \u2026",
+            "Mutual information item selection method in cognitive diagnostic computerized adaptive testing with short test length",
+            "Chun Wang",
+            "2013",
+            "6j3ABHUAAAAJ:8k81kl-MbHgC",
+            57,
+            "https:\/\/journals.sagepub.com\/doi\/abs\/10.1177\/0013164413498256",
+            "5617202888229505456",
+            "\/scholar?cites=5617202888229505456",
+            {
+                "2014":4,
+                "2015":12,
+                "2016":8,
+                "2017":7,
+                "2018":6,
+                "2019":7,
+                "2020":13
+            }
+        ],
+        [
+            "This paper first discusses the relationship between Kullback\u2013Leibler information (KL) and Fisher information in the context of multi-dimensional item response theory and is further interpreted for the two-dimensional case, from a geometric perspective. This explication should allow for a better understanding of the various item selection methods in multi-dimensional adaptive tests (MAT) which are based on these two information measures. The KL information index (KI) method is then discussed and two theorems are derived to quantify the relationship between KI and item parameters. Due to the fact that most of the existing item selection algorithms for MAT bear severe computational complexity, which substantially lowers the applicability of MAT, two versions of simplified KL index (SKI), built from the analytical results, are proposed to mimic the behavior of KI, while reducing the overall computational intensity.",
+            "Kullback\u2013Leibler information and its applications in multi-dimensional adaptive testing",
+            "Chun Wang and Hua-Hua Chang and Keith A Boughton",
+            "2011",
+            "6j3ABHUAAAAJ:d1gkVwhDpl0C",
+            56,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/s11336-010-9186-0.pdf",
+            "9610801148411501924",
+            "\/scholar?cites=9610801148411501924",
+            {
+                "2011":3,
+                "2012":6,
+                "2013":3,
+                "2014":6,
+                "2015":9,
+                "2016":10,
+                "2017":8,
+                "2018":4,
+                "2019":4,
+                "2020":2,
+                "2021":1
+            }
+        ],
+        [
+            "Traditional methods for item selection in computerized adaptive testing only focus on item information without taking into consideration the time required to answer an item. As a result, some examinees may receive a set of items that take a very long time to finish, and information is not accrued as efficiently as possible. The authors propose two item-selection criteria that utilize information from a lognormal model for response times. The first modifies the maximum information criterion to maximize information per time unit. The second is an inverse time-weighted version of a-stratification that takes advantage of the response time model, but achieves more balanced item exposure than the information-based techniques. Simulations are conducted to compare these procedures against their counterparts that ignore response times, and efficiency of estimation, time-required, and item exposure rates are assessed.",
+            "Utilizing response time distributions for item selection in CAT",
+            "Zhewen Fan and Chun Wang and Hua-Hua Chang and Jeffrey Douglas",
+            "2012",
+            "6j3ABHUAAAAJ:UeHWp8X0CEIC",
+            54,
+            "https:\/\/journals.sagepub.com\/doi\/abs\/10.3102\/1076998611422912",
+            "11049255865626078584",
+            "\/scholar?cites=11049255865626078584",
+            {
+                "2013":3,
+                "2014":5,
+                "2015":5,
+                "2016":5,
+                "2017":11,
+                "2018":7,
+                "2019":8,
+                "2020":10
+            }
+        ]
+    ]
+}

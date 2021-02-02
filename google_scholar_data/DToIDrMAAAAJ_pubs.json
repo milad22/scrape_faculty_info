@@ -1,0 +1,225 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "data":[
+        [
+            "Uncertainty theory is a branch of mathematics based on normality, monotonicity, self-duality, countable subadditivity, and product measure axioms. Different from randomness and fuzziness, uncertainty theory provides a new mathematical model for uncertain phenomena. A key concept to describe uncertain quantity is uncertain variable, and expected value operator provides an average value of uncertain variable in the sense of uncertain measure. This paper will prove that the expected value of monotone function of uncertain variable is just a Lebesgue-Stieltjes integral of the function with respect to its uncertainty distribution, and give some useful expressions of expected value of function of uncertain variables. c\u20dd2010 World Academic Press, UK. All rights reserved.",
+            "Expected value of function of uncertain variables",
+            "YH Liu and Minghu Ha",
+            "2010",
+            "DToIDrMAAAAJ:u5HHmVD_uO8C",
+            376,
+            "https:\/\/citeseerx.ist.psu.edu\/viewdoc\/download?doi=10.1.1.600.1975&rep=rep1&type=pdf",
+            "17592959531244644998",
+            "\/scholar?cites=17592959531244644998",
+            {
+                "2009":3,
+                "2010":7,
+                "2011":16,
+                "2012":23,
+                "2013":51,
+                "2014":47,
+                "2015":45,
+                "2016":35,
+                "2017":53,
+                "2018":32,
+                "2019":24,
+                "2020":33,
+                "2021":5
+            }
+        ],
+        [
+            "In many cases, human uncertainty and objective randomness simultaneously appear in a system. In order to describe this phenomena, this paper presents a new concept of uncertain random variable. To measure uncertain random events, this paper also combines probability measure and uncertain measure into a chance measure. Based on the tool of chance measure, the concepts of chance distribution, expected value and variance of uncertain random variable are proposed.",
+            "Uncertain random variables: A mixture of uncertainty and randomness",
+            "YH Liu",
+            "2013",
+            "DToIDrMAAAAJ:2osOgNQ5qMEC",
+            194,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/s00500-012-0935-0.pdf",
+            "14136618514032842462",
+            "\/scholar?cites=14136618514032842462",
+            {
+                "2012":2,
+                "2013":6,
+                "2014":20,
+                "2015":19,
+                "2016":21,
+                "2017":37,
+                "2018":27,
+                "2019":26,
+                "2020":32
+            }
+        ],
+        [
+            "Uncertain random variable is a tool to deal with a mixture of uncertainty and randomness. This paper presents an operational law of uncertain random variables, and shows an expected value formula by using probability and uncertainty distributions. This paper also provides a framework of uncertain random programming that is a type of mathematical programming involving uncertain random variables. Finally, some applications of uncertain random programming are discussed.",
+            "Uncertain random programming with applications",
+            "YH Liu",
+            "2013",
+            "DToIDrMAAAAJ:Y0pCki6q_DkC",
+            159,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/s10700-012-9149-2.pdf",
+            "13441234748527835962",
+            "\/scholar?cites=13441234748527835962",
+            {
+                "2012":1,
+                "2013":3,
+                "2014":16,
+                "2015":14,
+                "2016":20,
+                "2017":29,
+                "2018":23,
+                "2019":20,
+                "2020":29
+            }
+        ],
+        [
+            "The Liu process is a new tool to deal with the noise process based on uncertainty theory. In this paper, we view the foreign exchange rate as an uncertain processes, described by uncertain differential equations driven by the Liu process, and build an uncertain currency model. Then, the uncertain currency option problems are discussed. Moreover, European and American currency option pricing formulas are derived for the proposed uncertain currency model and some mathematical properties are studied. Finally, two numerical examples are documented.",
+            "Uncertain currency model and currency option pricing",
+            "YH Liu and XW Chen and Dan A. Ralescu",
+            "2015",
+            "DToIDrMAAAAJ:zYLM7Y9cAGgC",
+            113,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1002\/int.21680",
+            "6634418375732072487",
+            "\/scholar?cites=6634418375732072487",
+            {
+                "2011":2,
+                "2012":2,
+                "2013":9,
+                "2014":4,
+                "2015":17,
+                "2016":14,
+                "2017":21,
+                "2018":17,
+                "2019":15,
+                "2020":11
+            }
+        ],
+        [
+            "Uncertain differential equations are a type of differential equations driven by canonical process, and are quite different from stochastic differential equations that are driven by Brownian motion. A solution of an uncertain differential equation is an uncertain process. This paper presents an analytic method to solve a particular class of nonlinear uncertain differential equations and gives some examples to illustrate the proposed analytic method. c 2012 World Academic Press, UK. All rights reserved.",
+            "An analytic method for solving uncertain differential equations",
+            "YH Liu",
+            "2012",
+            "DToIDrMAAAAJ:d1gkVwhDpl0C",
+            93,
+            "http:\/\/citeseerx.ist.psu.edu\/viewdoc\/download?doi=10.1.1.1080.8597&rep=rep1&type=pdf",
+            "13078502541027509099",
+            "\/scholar?cites=13078502541027509099",
+            {
+                "2011":3,
+                "2012":3,
+                "2013":13,
+                "2014":6,
+                "2015":16,
+                "2016":8,
+                "2017":13,
+                "2018":13,
+                "2019":5,
+                "2020":8,
+                "2021":4
+            }
+        ],
+        [
+            "This paper presents an uncertain stock model with periodic dividends based on uncertainty theory. Some option pricing formulae related to the proposed model are investigated and several numerical examples are discussed to illustrate the related formula.",
+            "Uncertain stock model with periodic dividends",
+            "XW Chen and YH Liu and DA Ralescu",
+            "2013",
+            "DToIDrMAAAAJ:UebtZRa9Y70C",
+            81,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/s10700-012-9141-x.pdf",
+            "2244598510841164953",
+            "\/scholar?cites=2244598510841164953",
+            {
+                "2013":5,
+                "2014":6,
+                "2015":11,
+                "2016":8,
+                "2017":11,
+                "2018":14,
+                "2019":10,
+                "2020":10,
+                "2021":1
+            }
+        ],
+        [
+            "In many systems, randomness and uncertainty are present simultaneously. Uncertain random variables provide a tool to deal with these inexact phenomena. This paper proposes a concept of risk index to quantify the risk of an uncertain random system. In addition, a risk index theorem is proved in order to calculate the risk index, and is applied to series systems, parallel systems and standby systems. Finally, a concept of expected loss is suggested for an uncertain random system.",
+            "Risk index in uncertain random risk analysis",
+            "YH Liu and Dan A Ralescu",
+            "2014",
+            "DToIDrMAAAAJ:QIV2ME_5wuYC",
+            62,
+            "https:\/\/www.worldscientific.com\/doi\/abs\/10.1142\/S021848851450024X",
+            "12944402383873957023",
+            "\/scholar?cites=12944402383873957023",
+            {
+                "2014":8,
+                "2015":7,
+                "2016":6,
+                "2017":11,
+                "2018":9,
+                "2019":9,
+                "2020":9
+            }
+        ],
+        [
+            "This paper discusses the linear optimization problem constrained by a system of bipolar fuzzy relational equations with max- composition, where the involved triangular norm is the \u0141ukasiewicz t-norm. Although it is in general NP-hard, such an optimization problem can be reformulated in polynomial time into a 0-1 integer linear optimization problem and then solved taking advantage of well developed techniques in integer optimization.",
+            "Linear optimization with bipolar fuzzy relational equation constraints using the \u0141ukasiewicz triangular norm",
+            "Pingke Li and Yuhan Liu",
+            "2014",
+            "DToIDrMAAAAJ:R3hNpaxXUhUC",
+            45,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/s00500-013-1152-1.pdf",
+            "1762040964696988643",
+            "\/scholar?cites=1762040964696988643",
+            {
+                "2015":1,
+                "2016":5,
+                "2017":9,
+                "2018":15,
+                "2019":6,
+                "2020":8,
+                "2021":1
+            }
+        ],
+        [
+            "Uncertain random variables provide a tool to deal with phenomena in which uncertainty and randomness simultaneously exist. This paper proposes a concept of value-at-risk to quantify the risk of an uncertain random system. In addition, a value-at-risk theorem is proved in order to calculate the value-at-risk, and is applied to series systems, parallel system, k-out-of-n system, standby system, and structural system.",
+            "Value-at-risk in uncertain random risk analysis",
+            "Yuhan Liu and Dan A Ralescu",
+            "2017",
+            "DToIDrMAAAAJ:g5m5HwL7SMYC",
+            33,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0020025516310854",
+            "3385759484240787328",
+            "\/scholar?cites=3385759484240787328",
+            {
+                "2016":1,
+                "2017":1,
+                "2018":5,
+                "2019":13,
+                "2020":9,
+                "2021":1
+            }
+        ]
+    ]
+}

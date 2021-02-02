@@ -1,0 +1,48 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "20J53WU1",
+            "SeWXnkQAAAAJ",
+            [
+                "Braid topologies for quantum computation",
+                "Possibility of p-wave pairing of composite fermions at \u03bd= 1 2",
+                "Gauge fields and pairing in double-layer composite fermion metals",
+                "Anisotropic spin exchange in pulsed quantum gates",
+                "Numerical Analysis of Quasiholes of the Moore-Read Wavefunction",
+                "Topological quantum compiling",
+                "Spin-orbit coupling and spirals in doped La 2 CuO 4",
+                "Universal quantum computation through control of spin-orbit coupling",
+                "Spin-orbit coupling and time-reversal symmetry in quantum gates",
+                "Infinite-randomness fixed points for chains of non-Abelian quasiparticles"
+            ],
+            [
+                "In topological quantum computation, quantum information is stored in states which are intrinsically protected from decoherence, and quantum gates are carried out by dragging particlelike excitations (quasiparticles) around one another in two space dimensions. The resulting quasiparticle trajectories define world lines in three-dimensional space-time, and the corresponding quantum gates depend only on the topology of the braids formed by these world lines. We show how to find braids that yield a universal set of quantum gates for qubits encoded using a specific kind of quasiparticle which is particularly promising for experimental realization.",
+                "We find that the composite Fermi sea at \u03bd= 1\/2 is on the verge of an instability to triplet pairing of composite fermions. It is argued that a transition into the paired state, described by a Pfaffian wave function, may be induced if the short-range part of the interaction is softened by increasing the thickness of the two-dimensional electron system.",
+                "A symmetrically doped double-layer electron system with total filling fraction \u03bd= 1\/m decouples into two even-denominator composite fermion \u201cmetals\u201d when the layer spacing is large. Statistical gauge fluctuations in this system mediate an attractive pairing interaction between composite fermions in different layers. A strong-coupling analysis shows that for any layer spacing d this pairing interaction leads to the formation of a paired quantum Hall state.",
+                "We show how to eliminate the first-order effects of the spin-orbit interaction in the performance of a two-qubit quantum gate. Our procedure involves tailoring the time dependence of the coupling between neighboring spins. We derive an effective Hamiltonian which permits a systematic analysis of this tailoring. Time-symmetric pulsing of the coupling automatically eliminates several undesirable terms in this Hamiltonian. Well chosen pulse shapes can produce an effectively isotropic exchange gate, which can be used in universal quantum computation with appropriate coding.",
+                "We demonstrate numerically that non-Abelian quasihole (qh) excitations of the \u03bd= 5\/2 fractional quantum Hall state have some of the key properties necessary to support quantum computation. We find that as the qh spacing is increased, the unitary transformation which describes winding two qh\u2019s around each other converges exponentially to its asymptotic limit and that the two orthogonal wave functions describing a system with four qh\u2019s become exponentially degenerate. We calculate the length scales for these two decays to be \u03be U\u2248 2.7 \u2113 0 and \u03be E\u2248 2.3 \u2113 0, respectively. Additionally, we determine which fusion channel is lower in energy when two qh\u2019s are brought close together.",
+                "A method for compiling quantum algorithms into specific braiding patterns for non-Abelian quasiparticles described by the so-called Fibonacci anyon model is developed. The method is based on the observation that a universal set of quantum gates acting on qubits encoded using triplets of these quasiparticles can be built entirely out of three-stranded braids (three-braids). These three-braids can then be efficiently compiled and improved to any required accuracy using the Solovay-Kitaev algorithm.",
+                "Spin-orbit coupling in doped La 2 CuO 4 can result in (1) a novel electron-phonon coupling involving soft oxygen \u2018\u2018tilting\u2019\u2019phonons, and (2) stabilization of a commensurate antiferromagnetic state over a spiral state in the presence of a sufficiently large tilt distortion. This second effect may be responsible for the unusual electronic properties of La 1.88 Ba 0.12 CuO 4.",
+                "We propose a method for quantum computation which uses control of spin-orbit coupling in a linear array of single electron quantum dots. Quantum gates are carried out by pulsing the exchange interaction between neighboring electron spins, including the anisotropic corrections due to spin-orbit coupling. Control over these corrections, even if limited, is sufficient for universal quantum computation over qubits encoded into pairs of electron spins. The number of voltage pulses required to carry out either single-qubit rotations or controlled-Not gates scales as the inverse of a dimensionless measure of the degree of control of spin-orbit coupling.",
+                "We study the effect of spin-orbit coupling on quantum gates produced by pulsing the exchange interaction between two single-electron quantum dots. Spin-orbit coupling enters as a small spin precession when electrons tunnel between dots. For adiabatic pulses the resulting gate is described by a unitary operator acting on the four-dimensional Hilbert space of two qubits. If the precession axis is fixed, time-symmetric pulsing constrains the set of possible gates to those which, when combined with single qubit rotations, can be used in a simple controlled-NOT construction. Deviations from time-symmetric pulsing spoil this construction. The effect of time asymmetry is studied by numerically integrating the Schr\u00f6dinger equation using parameters appropriate for GaAs quantum dots. Deviations of the implemented gate from the desired form are shown to be proportional to dimensionless measures of both spin-orbit \u2026",
+                "One-dimensional chains of non-Abelian quasiparticles described by S U (2) k Chern-Simons-Witten theory can enter random singlet phases analogous to that of a random chain of ordinary spin-1\/2 particles (corresponding to k\u2192\u221e). For k= 2 this phase provides a random singlet description of the infinite-randomness fixed point of the critical transverse field Ising model. The entanglement entropy of a region of size L in these phases scales as S L\u2243 ln\ufeff d 3 log\ufeff 2 L for large L, where d is the quantum dimension of the particles."
+            ],
+            [
+                [
+                    "Condensed Matter Physics",
+                    "Quantum Computation"
+                ]
+            ]
+        ]
+    ]
+}

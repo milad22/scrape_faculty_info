@@ -1,0 +1,41 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "K5ZTESXX",
+            "N0tH-6AAAAAJ",
+            [
+                "THz imaging and sensing for security applications\u2014explosives, weapons and drugs",
+                "Review of terahertz and subterahertz wireless communications",
+                "Coherent terahertz radiation detection: Direct comparison between free-space electro-optic sampling and antenna detection",
+                "Terahertz study of 1, 3, 5-trinitro-s-triazine by time-domain and Fourier transform infrared spectroscopy",
+                "Design and performance of singular electric field terahertz photoconducting antennas"
+            ],
+            [
+                "Over the past 5 years, there has been a significant interest in employing terahertz (THz) technology, spectroscopy and imaging for security applications. There are three prime motivations for this interest:(a) THz radiation can detect concealed weapons since many non-metallic, non-polar materials are transparent to THz radiation;(b) target compounds such as explosives and illicit drugs have characteristic THz spectra that can be used to identify these compounds and (c) THz radiation poses no health risk for scanning of people. In this paper, stand-off interferometric imaging and sensing for the detection of explosives, weapons and drugs is emphasized. Future prospects of THz technology are discussed.",
+                "According to Edholm\u2019s law, the demand for point-to-point bandwidth in wireless short-range communications has doubled every 18 months over the last 25 years. It can be predicted that data rates of around 5\u201310 Gb\/s will be required in ten years. In order to achieve 10 Gb\/s data rates, the carrier frequencies need to be increased beyond 100 GHz. Over the past ten years, several groups have considered the prospects of using sub-terahertz (THz) and THz waves (100\u20132000 GHz) as a means to transmit data wirelessly. Some of the reported advantages of THz communications links are inherently higher bandwidth compared to millimeter wave links, less susceptibility to scintillation effects than infrared wireless links, and the ability to use THz links for secure communications. Our goal of this paper is to provide a comprehensive review of wireless sub-THz and THz communications.",
+                "We compare the use of free-space electro-optic sampling (FSEOS) with photoconducting antennas to detect terahertz (THz) radiation in the range of 0.1\u20133 THz. For the same average THz power and low-frequency modulation, signal-to-noise ratio and sensitivity are better with antenna detection at frequencies smaller than 3 THz. When the modulation frequency is increased to more than 1 MHz in FSEOS, both detection schemes have comparable performance. Using a singular-electric-field THz emitter, we demonstrate the feasibility of a THz imaging system using real-time delay scanning in FSEOS and only 20 mW of laser power.",
+                "This letter describes the use of THz time-domain spectroscopy (TDS) applied in transmission to the secondary explosive 1,3,5 trinitro-s-triazine. Samples were also subjected to Fourier transform infrared spectroscopy over the same range for comparison. A detailed spectroscopy study is presented. General agreement between results from both methods confirms the absorption features found. A comparison study with computer molecular simulations shows that THz-TDS is sensitive to collective modes or vibrational modes of material.",
+                "We present new designs of more efficient terahertz (THz) radiation emitters and detectors enhanced by electric field singularities using sharp and laterally offset electrodes. We compare the performances of the terahertz emission and different polarization properties resulting from these structures. An average THz radiation power of 3 \u03bcW is achieved under 20 mW excitation, calibrated by free space electro-optic sampling. We also study the gap size dependence of the THz radiation, and find an absence of a positive electrode effect in the small gap limit."
+            ],
+            [
+                [
+                    "photonics",
+                    "optics",
+                    "terahertz",
+                    "imaging",
+                    "metamaterials"
+                ]
+            ]
+        ]
+    ]
+}

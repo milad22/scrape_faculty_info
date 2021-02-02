@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "U5MLOVZ7",
+            "I_M9Ro0AAAAJ",
+            [
+                "Self-organization and a dynamical transition in traffic-flow models",
+                "Collective transport in arrays of small metallic dots",
+                "Asymptotic uniqueness of the sliding state for charge-density waves",
+                "Three-dimensional random-field Ising magnet: Interfaces, scaling, and the nature of states",
+                "Self-organized criticality in nonconserved systems",
+                "Vortex dynamics and defects in simulated flux flow",
+                "Critical behavior of charge-density waves below threshold: Numerical and scaling analysis",
+                "Avalanches and the renormalization group for pinned charge-density waves",
+                "Numerical results for the ground-state interface in a random medium"
+            ],
+            [
+                "A simple model that describes traffic flow in two dimensions is studied. A sharp jamming transition is found that separates between the low-density dynamical phase in which all cars move at maximal speed and the high-density jammed phase in which they are all stopped. Self-organization effects in both phases are studied and discussed.",
+                "Collective charge transport is studied in one-and two-dimensional arrays of small normal-metal dots separated by tunneling barriers. At temperatures well below the charging energy of a dot, disorder leads to a threshold for conduction which grows linearly with the size of the array. For short-ranged interactions, one of the correlation length exponents near threshold is found from a novel argument based on interface growth. The dynamical exponent for the current above threshold is also predicted analytically, and the requirements for its experimental observation are described.",
+                "Analytic results are presented for the dynamic behavior of sliding charge-density waves (CDW\u2019s) and related extended nonlinear systems with randomness. It is shown that, in the limit of long times, a sliding configuration approaches a unique solution. In CDW models, the velocity of this asymptotic solution is periodic in time. These results explain previous numerical observations, simplify further analysis and simulation, and have direct experimental implications.",
+                "The nature of the zero-temperature ordering transition in the three-dimensional Gaussian random-field Ising magnet is studied numerically, aided by scaling analyses. Various numerical calculations are used to consistently infer the location of the transition to a high precision. A variety of boundary conditions are imposed on large samples to study the order of the transition and the number of states in the large volume limit. In the ferromagnetic phase, where the domain walls have fractal dimension d s= 2, the scaling of the roughness of the domain walls, w\u223c L \u03b6, is consistent with the theoretical prediction \u03b6= 2\/3. As the randomness is increased through the transition, the probability distribution of the interfacial tension of domain walls scales in a manner that is clearly consistent with a single second-order transition. At the critical point, the fractal dimensions of domain walls and the fractal dimension of the outer surface \u2026",
+                "The origin of self-organized criticality in a model without conservation law [Z. Olami, H. Feder, and K. Christensen, Phys. Rev. Lett. 68, 1244 (1992)] is studied. The initially periodic and neutrally stable interior of the system is invaded by a\" self-organized\" region. This self-organization is due to the synchronization of the individual elements with each other. A simplified model of marginal oscillator locking on a directed lattice explains many of the features in the nonconserved model: in particular, the dependence of the avalanche-distribution exponent on the conservation parameter \u03b1 is examined.",
+                "We present the results of molecular dynamic simulations of a two-dimensional vortex array driven by a uniform current through random pinning centers at zero temperature. We identify two types of flow of the driven array near the depinning threshold. For weak disorder the flux array contains few dislocation and moves via correlated displacements of patches of vortices in a crinkle motion. As the disorder strength increases, we observe a crossover to a spatially inhomogeneous regime of plastic flow, with a very defective vortex array and a channel-like structure of the flowing regions. The two regimes are characterized by qualitatively different spatial distributions of vortex velocities. In the crinkle regime the distribution of vortex velocities near threshold has a single maximum that shifts to larger velocities as the driving force is increased. In the plastic regime the distribution of vortex velocities near threshold has a clear \u2026",
+                "The critical behavior of pinned charge-density waves (CDW\u2019s) is studied as the threshold for sliding is approached. Using the Fukuyama-Lee-Rice Hamiltonian with relaxational dynamics, the polarization and linear response are calculated numerically. Analytic bounds on the subthreshold motion are used to develop fast numerical algorithms for evolving the CDW configuration. Two approaches to threshold,\u2018\u2018reversible\u2019\u2019and \u2018\u2018irreversible,\u2019\u2019are studied, which differ in the details of the critical behavior. On the irreversible approach to threshold, the response due to avalanches triggered by local instabilities dominates the polarizability, which diverges in one and two dimensions. Such \u2018\u2018jumps\u2019\u2019are absent on the reversible approach. On both the reversible and irreversible approach in two dimensions, the linear response, which does not include the jumps, is singular, but does not diverge. Characteristic diverging length \u2026",
+                "The critical behavior of charge-density waves (CDWs) in the pinned phase is studied for applied fields increasing toward the threshold field, using recently developed renormalization-group techniques and simulations of automaton models. Despite the existence of many metastable states in the pinned state of the CDW, the renormalization-group treatment can be used successfully to find the divergences in the polarization and the correlation length, and, to first order in an \u03b5= 4-d expansion, the diverging time scale. The automaton models studied are a charge-density wave model and a \u2018\u2018sandpile\u2019\u2019model with periodic boundary conditions; these models are found to have the same critical behavior, associated with diverging avalanche sizes. The numerical results for the polarization and the diverging length and time scales in dimensions d= 2, 3 are in agreement with the analytical treatment. These results clarify the \u2026",
+                "The problem of determining the ground state of a d-dimensional interface embedded in a (d+ 1)-dimensional random medium is treated numerically. Using a minimum-cut algorithm, the exact ground states can be found for a number of problems for which other numerical methods are inexact and slow. In particular, results are presented for the roughness exponents and ground-state energy fluctuations in a random bond Ising model. It is found that the roughness exponent \u03b6= 0.41\u00b10.01, 0.22\u00b10.01, with the related energy exponent being \u03b8= 0.84\u00b10.03, 1.45\u00b10.04, in d= 2, 3, respectively. These results are compared with previous analytical and numerical estimates."
+            ],
+            [
+                [
+                    "Physics",
+                    "computational physics",
+                    "spin glasses"
+                ]
+            ]
+        ]
+    ]
+}

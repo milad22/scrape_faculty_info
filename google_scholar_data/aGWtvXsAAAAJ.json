@@ -1,0 +1,124 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "aGWtvXsAAAAJ",
+            "John D Belcher",
+            "University of Minnesota",
+            "@umn.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=aGWtvXsAAAAJ",
+            6053,
+            [
+                "sickle cell disease"
+            ],
+            2484,
+            36,
+            24,
+            74,
+            46,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"LgTlTJ4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gregory Vercellotti MD",
+                    "affiliation":"University of Minnesota"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"1-66X_gAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Fuad Abdulla",
+                    "affiliation":"Imam Abdulrahman Bin Faisal University (University of Dammam), College of Applied Medical Sciences"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"FbEDFOYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"John Bischof",
+                    "affiliation":"Professor of Mechanical and Biomedical Engineering"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"uK7pnqYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Abdu I Alayash",
+                    "affiliation":"senior Scientist, FDA"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"2-i5UyYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Leo E. Otterbein",
+                    "affiliation":"Professor, Harvard Medical School"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ePh3FuQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jozsef Balla",
+                    "affiliation":"Professor of Medicine, Div. of Nephrology, Faculty of Medicine, University of Debrecen"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"EBTYTqUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Balla Gy\u00f6rgy",
+                    "affiliation":"University of Debrecen"
+                }
+            ]
+        ]
+    ]
+}

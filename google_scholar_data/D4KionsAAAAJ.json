@@ -1,0 +1,124 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "D4KionsAAAAJ",
+            "Lei Guo",
+            "FDA\/NCTR",
+            "@fda.hhs.gov",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=D4KionsAAAAJ",
+            6878,
+            [
+
+            ],
+            2136,
+            38,
+            22,
+            66,
+            48,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"R7B21WEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"NAN MEI",
+                    "affiliation":"National Center for Toxicological Research"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"s-PsMaMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tao Chen, Ph.D., D.A.B.T.",
+                    "affiliation":"National Center for Toxicological Research, US Food and Drug Administration, Jefferson, AR 72079"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"CXtPbooAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Weida Tong",
+                    "affiliation":"NCTR"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"g7j6JhIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Marek Michalak",
+                    "affiliation":"university of alberta"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"z_0okvoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"hong Fang",
+                    "affiliation":"NCTR\/FDA"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"keESi78AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Peter Fu",
+                    "affiliation":"NCTR"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"zt2Dru0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Qiangen Wu, PhD DABT",
+                    "affiliation":"Division of Biochemical Toxicology, NCTR\/U.S. FDA"
+                }
+            ]
+        ]
+    ]
+}

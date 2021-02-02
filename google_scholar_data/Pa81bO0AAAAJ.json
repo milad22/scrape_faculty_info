@@ -1,0 +1,101 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Pa81bO0AAAAJ",
+            "Daniel W. Russell",
+            "Iowa State University",
+            "@iastate.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=Pa81bO0AAAAJ",
+            44540,
+            [
+                "Social support and loneliness",
+                "quantitative research methods"
+            ],
+            15143,
+            83,
+            52,
+            144,
+            112,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Sh-mCKQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Carolyn E. Cutrona",
+                    "affiliation":"Professor of Psychology, Iowa State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"s5MgBUgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Meifen Wei",
+                    "affiliation":"Professor of Psychology, Iowa State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Q9AKcnsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"W. Todd Abraham",
+                    "affiliation":"Assistant Scientist III, Iowa State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9PMoQ-YAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Susan Lutgendorf",
+                    "affiliation":"Professor of Psychological and Brain Sciences University of Iowa"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"hbwK99YAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Bernard Weiner",
+                    "affiliation":"UCLA Department of Psychology"
+                }
+            ]
+        ]
+    ]
+}

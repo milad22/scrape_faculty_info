@@ -1,0 +1,54 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "7XVpR4kAAAAJ",
+            "Michel Pleimling",
+            "Professor of Physics, Virginia Tech",
+            "@vt.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=7XVpR4kAAAAJ",
+            3742,
+            [
+                "VT Physics",
+                "Statistical Physics",
+                "Condensed Matter Physics"
+            ],
+            1408,
+            34,
+            18,
+            88,
+            34,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"XbNqQIoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Daniel ben-Avraham",
+                    "affiliation":"Department of Physics and Department of Mathematics, Clarkson University"
+                }
+            ]
+        ]
+    ]
+}

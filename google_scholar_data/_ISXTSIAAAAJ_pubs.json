@@ -1,0 +1,146 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "data":[
+        [
+            "ConclusionsBecause of a clear trend toward more engagement and transparency with research participants, we should expect more research participants to exercise their HIPAA access right in coming years. The committee\u2019s recommendations ensure that researchers are able to return information meeting high quality standards without fear of violating CLIA. Our additional recommendations help researchers satisfy their HIPAA obligations more efficiently and consistently.\u2750",
+            "Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2",
+            "Evan Bolyen and Jai Ram Rideout and Matthew R Dillon and Nicholas A Bokulich and Christian C Abnet and Gabriel A Al-Ghalith and Harriet Alexander and Eric J Alm and Manimozhiyan Arumugam and Francesco Asnicar and Yang Bai and Jordan E Bisanz and Kyle Bittinger and Asker Brejnrod and Colin J Brislawn and C Titus Brown and Benjamin J Callahan and Andr\u00e9s Mauricio Caraballo-Rodr\u00edguez and John Chase and Emily K Cope and Ricardo Da Silva and Christian Diener and Pieter C Dorrestein and Gavin M Douglas and Daniel M Durall and Claire Duvallet and Christian F Edwardson and Madeleine Ernst and Mehrbod Estaki and Jennifer Fouquier and Julia M Gauglitz and Sean M Gibbons and Deanna L Gibson and Antonio Gonzalez and Kestrel Gorlick and Jiarong Guo and Benjamin Hillmann and Susan Holmes and Hannes Holste and Curtis Huttenhower and Gavin A Huttley and Stefan Janssen and Alan K Jarmusch and Lingjing Jiang and Benjamin D Kaehler and Kyo Bin Kang and Christopher R Keefe and Paul Keim and Scott T Kelley and Dan Knights and Irina Koester and Tomasz Kosciolek and Jorden Kreps and Morgan GI Langille and Joslynn Lee and Ruth Ley and Yong-Xin Liu and Erikka Loftfield and Catherine Lozupone and Massoud Maher and Clarisse Marotz and Bryan D Martin and Daniel McDonald and Lauren J McIver and Alexey V Melnik and Jessica L Metcalf and Sydney C Morgan and Jamie T Morton and Ahmad Turan Naimey and Jose A Navas-Molina and Louis Felix Nothias and Stephanie B Orchanian and Talima Pearson and Samuel L Peoples and Daniel Petras and Mary Lai Preuss and Elmar Pruesse and Lasse Buur Rasmussen and Adam Rivers and Michael S Robeson and Patrick Rosenthal and Nicola Segata and Michael Shaffer and Arron Shiffer and Rashmi Sinha and Se Jin Song and John R Spear and Austin D Swafford and Luke R Thompson and Pedro J Torres and Pauline Trinh and Anupriya Tripathi and Peter J Turnbaugh and Sabah Ul-Hasan and Justin JJ van der Hooft and Fernando Vargas and Yoshiki V\u00e1zquez-Baeza and Emily Vogtmann and Max von Hippel and William Walters and Yunhu Wan and Mingxun Wang and Jonathan Warren and Kyle C Weber and Charles HD Williamson and Amy D Willis and Zhenjiang Zech Xu and Jesse R Zaneveld and Yilong Zhang and Qiyun Zhu and Rob Knight and J Gregory Caporaso",
+            "2019",
+            "_ISXTSIAAAAJ:roLk4NBRz8UC",
+            1594,
+            "https:\/\/www.nature.com\/articles\/s41587-019-0209-9",
+            "6935821321202015575",
+            "\/scholar?cites=6935821321202015575",
+            {
+                "2019":87,
+                "2020":1272,
+                "2021":231
+            }
+        ],
+        [
+            "We present QIIME 2, an opensource microbiome data science platform accessible to users spanning the microbiome research ecosystem, from scientists and engineers to clinicians and policy makers. QIIME 2 provides new features that will drive the next generation of microbiome research. These include interactive spatial and temporal analysis and visualization tools, support for metabolomics and shotgun metagenomics analysis, and automated data provenance tracking to ensure reproducible, transparent microbiome data science.",
+            "QIIME 2: Reproducible, interactive, scalable, and extensible microbiome data science",
+            "Evan Bolyen and Jai Ram Rideout and Matthew R Dillon and Nicholas A Bokulich and Christian Abnet and Gabriel A Al-Ghalith and Harriet Alexander and Eric J Alm and Manimozhiyan Arumugam and Francesco Asnicar and Yang Bai and Jordan E Bisanz and Kyle Bittinger and Asker Brejnrod and Colin J Brislawn and C Titus Brown and Benjamin J Callahan and Andr\u00e9s Mauricio Caraballo-Rodr\u00edguez and John Chase and Emily Cope and Ricardo Da Silva and Pieter C Dorrestein and Gavin M Douglas and Daniel M Durall and Claire Duvallet and Christian F Edwardson and Madeleine Ernst and Mehrbod Estaki and Jennifer Fouquier and Julia M Gauglitz and Deanna L Gibson and Antonio Gonzalez and Kestrel Gorlick and Jiarong Guo and Benjamin Hillmann and Susan Holmes and Hannes Holste and Curtis Huttenhower and Gavin Huttley and Stefan Janssen and Alan K Jarmusch and Lingjing Jiang and Benjamin Kaehler and Kyo Bin Kang and Christopher R Keefe and Paul Keim and Scott T Kelley and Dan Knights and Irina Koester and Tomasz Kosciolek and Jorden Kreps and Morgan GI Langille and Joslynn Lee and Ruth Ley and Yong-Xin Liu and Erikka Loftfield and Catherine Lozupone and Massoud Maher and Clarisse Marotz and Bryan D Martin and Daniel McDonald and Lauren J McIver and Alexey V Melnik and Jessica L Metcalf and Sydney C Morgan and Jamie Morton and Ahmad Turan Naimey and Jose A Navas-Molina and Louis Felix Nothias and Stephanie B Orchanian and Talima Pearson and Samuel L Peoples and Daniel Petras and Mary Lai Preuss and Elmar Pruesse and Lasse Buur Rasmussen and Adam Rivers and Michael S Robeson and Patrick Rosenthal and Nicola Segata and Michael Shaffer and Arron Shiffer and Rashmi Sinha and Se Jin Song and John R Spear and Austin D Swafford and Luke R Thompson and Pedro J Torres and Pauline Trinh and Anupriya Tripathi and Peter J Turnbaugh and Sabah Ul-Hasan and Justin JJ van der Hooft and Fernando Vargas and Yoshiki V\u00e1zquez-Baeza and Emily Vogtmann and Max von Hippel and William Walters and Yunhu Wan and Mingxun Wang and Jonathan Warren and Kyle C Weber and Chase HD Williamson and Amy D Willis and Zhenjiang Zech Xu and Jesse R Zaneveld and Yilong Zhang and Rob Knight and J Gregory Caporaso",
+            "2018",
+            "_ISXTSIAAAAJ:YsMSGLbcyi4C",
+            497,
+            "https:\/\/peerj.com\/preprints\/27295.pdf",
+            "17795719731389093288",
+            "\/scholar?cites=17795719731389093288",
+            {
+                "2018":7,
+                "2019":180,
+                "2020":287,
+                "2021":23
+            }
+        ],
+        [
+            "The primate gastrointestinal tract is home to trillions of bacteria, whose composition is associated with numerous metabolic, autoimmune, and infectious human diseases. Although there is increasing evidence that modern and Westernized societies are associated with dramatic loss of natural human gut microbiome diversity, the causes and consequences of such loss are challenging to study. Here we use nonhuman primates (NHPs) as a model system for studying the effects of emigration and lifestyle disruption on the human gut microbiome. Using 16S rRNA gene sequencing in two model NHP species, we show that although different primate species have distinctive signature microbiota in the wild, in captivity they lose their native microbes and become colonized with Prevotella and Bacteroides, the dominant genera in the modern human gut microbiome. We confirm that captive individuals from eight other NHP \u2026",
+            "Captivity humanizes the primate microbiome",
+            "Jonathan B Clayton and Pajau Vangay and HU Huang and Tonya Ward and Benjamin M Hillmann and Gabriel A Al-Ghalith and Dominic A Travis and Ha Thang Long and Bui Van Tuan and Vo Van Minh and Francis Cabana and Tilo Nadler and Barbara Toddes and Tami Murphy and Kenneth E Glander and Timothy J Johnson and Dan Knights",
+            "2016",
+            "_ISXTSIAAAAJ:u-x6o8ySG0sC",
+            224,
+            "https:\/\/www.pnas.org\/content\/113\/37\/10376.short",
+            "11406925585122053229",
+            "\/scholar?cites=11406925585122053229",
+            {
+                "2016":4,
+                "2017":23,
+                "2018":58,
+                "2019":65,
+                "2020":68,
+                "2021":6
+            }
+        ],
+        [
+            "Many US immigrant populations develop metabolic diseases post immigration, but the causes are not well understood. Although the microbiome plays a role in metabolic disease, there have been no studies measuring the effects of US immigration on the gut microbiome. We collected stool, dietary recalls, and anthropometrics from 514 Hmong and Karen individuals living in Thailand and the United States, including first- and second-generation immigrants and 19 Karen individuals sampled before and after immigration, as well as from 36 US-born European American individuals. Using 16S and deep shotgun metagenomic DNA sequencing, we found that migration from a non-Western country to the United States is associated with immediate loss of gut microbiome diversity and function in which US-associated strains and functions displace native strains and functions. These effects increase with duration of US \u2026",
+            "US immigration westernizes the human gut microbiome",
+            "Pajau Vangay and Abigail J Johnson and Tonya L Ward and Gabriel A Al-Ghalith and Robin R Shields-Cutler and Benjamin M Hillmann and Sarah K Lucas and Lalit K Beura and Emily A Thompson and Lisa M Till and Rodolfo Batres and Bwei Paw and Shannon L Pergament and Pimpanitta Saenyakul and Mary Xiong and Austin D Kim and Grant Kim and David Masopust and Eric C Martens and Chaisiri Angkurawaranon and Rose McGready and Purna C Kashyap and Kathleen A Culhane-Pera and Dan Knights",
+            "2018",
+            "_ISXTSIAAAAJ:eQOLeE2rZwMC",
+            200,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0092867418313825",
+            "6584048816002489352",
+            "\/scholar?cites=6584048816002489352",
+            {
+                "2018":5,
+                "2019":67,
+                "2020":118,
+                "2021":8
+            }
+        ],
+        [
+            "Live bacteria (such as probiotics) have long been used to modulate gut microbiota and human physiology, but their colonization is mostly transient. Conceptual understanding of the ecological principles as they apply to exogenously introduced microbes in gut ecosystems is lacking. We find that, when orally administered to humans, Bifidobacterium longum AH1206 stably persists in the gut of 30% of individuals for at least 6 months without causing gastrointestinal symptoms or impacting the composition of the resident gut microbiota. AH1206 engraftment was associated with low abundance of resident B. longum and underrepresentation of specific carbohydrate utilization genes in the pre-treatment microbiome. Thus, phylogenetic limiting and resource availability are two factors that control the niche opportunity for AH1206 colonization. These findings suggest that bacterial species and functional genes absent in the \u2026",
+            "Stable Engraftment of Bifidobacterium longum AH1206 in the Human Gut Depends on Individualized Features of the Resident Microbiome",
+            "Mar\u00eda X Maldonado-G\u00f3mez and In\u00e9s Mart\u00ednez and Francesca Bottacini and Amy O\u2019Callaghan and Marco Ventura and Douwe van Sinderen and Benjamin Hillmann and Pajau Vangay and Dan Knights and Robert W Hutkins and Jens Walter",
+            "2016",
+            "_ISXTSIAAAAJ:u5HHmVD_uO8C",
+            182,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S193131281630378X",
+            "13933698913156160702",
+            "\/scholar?cites=13933698913156160702",
+            {
+                "2016":2,
+                "2017":29,
+                "2018":43,
+                "2019":51,
+                "2020":53,
+                "2021":3
+            }
+        ],
+        [
+            "Diet is a key determinant of human gut microbiome variation. However, the fine-scale relationships between daily food choices and human gut microbiome composition remain unexplored. Here, we used multivariate methods to integrate 24-h food records and fecal shotgun metagenomes from 34 healthy human subjects collected daily over 17 days. Microbiome composition depended on multiple days of dietary history and was more strongly associated with food choices than with conventional nutrient profiles, and daily microbial responses to diet were highly personalized. Data from two subjects consuming only meal replacement beverages suggest that a monotonous diet does not induce microbiome stability in humans, and instead, overall dietary diversity associates with microbiome stability. Our work provides key methodological insights for future diet-microbiome studies and suggests that food-based \u2026",
+            "Daily sampling reveals personalized diet-microbiome associations in humans",
+            "Abigail J Johnson and Pajau Vangay and Gabriel A Al-Ghalith and Benjamin M Hillmann and Tonya L Ward and Robin R Shields-Cutler and Austin D Kim and Anna Konstantinovna Shmagel and Arzang N Syed and Personalized Microbiome Class Students and Jens Walter and Ravi Menon and Katie Koecher and Dan Knights",
+            "2019",
+            "_ISXTSIAAAAJ:_FxGoFyzp5QC",
+            118,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S1931312819302501",
+            "6396029168037755492",
+            "\/scholar?cites=6396029168037755492",
+            {
+                "2019":17,
+                "2020":89,
+                "2021":11
+            }
+        ],
+        [
+            "Although microbial communities are associated with human, environmental, plant, and animal health, there exists no cost-effective method for precisely characterizing species and genes in such communities. While deep whole-metagenome shotgun (WMS) sequencing provides high taxonomic and functional resolution, it is often prohibitively expensive for large-scale studies. The prevailing alternative, 16S rRNA gene amplicon (16S) sequencing, often does not resolve taxonomy past the genus level and provides only moderately accurate predictions of the functional profile; thus, there is currently no widely accepted approach to affordable, high-resolution, taxonomic, and functional microbiome analysis. To address this technology gap, we evaluated the information content of shallow shotgun sequencing with as low as 0.5 million sequences per sample as an alternative to 16S sequencing for large human \u2026",
+            "Evaluating the information content of shallow shotgun metagenomics",
+            "Benjamin Hillmann and Gabriel A Al-Ghalith and Robin R Shields-Cutler and Qiyun Zhu and Daryl M Gohl and Kenneth B Beckman and Rob Knight and Dan Knights",
+            "2018",
+            "_ISXTSIAAAAJ:IjCSPb-OGe4C",
+            76,
+            "https:\/\/msystems.asm.org\/content\/3\/6\/e00069-18.abstract",
+            "8627882412536504568",
+            "\/scholar?cites=8627882412536504568",
+            {
+                "2018":1,
+                "2019":16,
+                "2020":56,
+                "2021":3
+            }
+        ]
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "8FOikAcAAAAJ",
+            "Y. Eric Guo",
+            "CRI Postdoctoral Fellow at Whitehead Institute MIT",
+            "@wi.mit.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=8FOikAcAAAAJ",
+            2167,
+            [
+                "RNA biology",
+                "Transcription regulation",
+                "Nuclear organization",
+                "Cancer"
+            ],
+            2127,
+            12,
+            12,
+            12,
+            12,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"lRTRxSIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Richard Young",
+                    "affiliation":"Professor of Biology, MIT"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"nuxhGhoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alessandra Dall'Agnese",
+                    "affiliation":"Whitehead Institute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9tEy2eQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Benjamin R. Sabari",
+                    "affiliation":"Assistant Professor, UT Southwestern Medical Center"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"a8j_gfQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Denes Hnisz",
+                    "affiliation":"Max Planck Institute for Molecular Genetics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"HTPSLBMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jurian Schuijers",
+                    "affiliation":"Assistant Professor at Center for Molecular Medicine, UMC Utrecht"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"l14yKR0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alla Sigova",
+                    "affiliation":"Whitehead Institute"
+                }
+            ]
+        ]
+    ]
+}

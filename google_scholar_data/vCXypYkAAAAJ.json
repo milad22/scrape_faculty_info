@@ -1,0 +1,92 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "vCXypYkAAAAJ",
+            "Mike Metz",
+            "University of Missouri",
+            "@missouri.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=vCXypYkAAAAJ",
+            75,
+            [
+                "Critical Language Awareness",
+                "language ideologies",
+                "English Education",
+                "Teacher Education",
+                "Culturaly Sustaining Pedagogies"
+            ],
+            75,
+            5,
+            5,
+            4,
+            4,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"VQPmkQEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sarah Schneider Kavanagh",
+                    "affiliation":"University of Pennsylvania"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"c8t9egEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Megan W. Taylor",
+                    "affiliation":"Assistant Professor of Curriculum Studies and Secondary Education"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"rAERYlIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Brad Fogo",
+                    "affiliation":"San Francisco State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"cnDP1LoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Janet Carlson",
+                    "affiliation":"Associate Professor (research) & Director of the Center to Support Excellence in Teaching, Stanford University"
+                }
+            ]
+        ]
+    ]
+}

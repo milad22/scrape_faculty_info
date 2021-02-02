@@ -1,0 +1,52 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "zhUj2-oAAAAJ",
+            "Howard M. Weiss",
+            "Professor of Psychology Georgia Institute of Technology",
+            "@gatech.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=zhUj2-oAAAAJ",
+            21102,
+            [
+                "Work Psychology"
+            ],
+            8336,
+            43,
+            29,
+            66,
+            51,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"RXXhYO0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"James M. LeBreton",
+                    "affiliation":"Professor of Psychology, Pennsylvania State University"
+                }
+            ]
+        ]
+    ]
+}

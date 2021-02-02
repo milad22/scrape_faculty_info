@@ -1,0 +1,91 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "naArOacAAAAJ",
+            "Adam Marrs",
+            "Computer Scientist, NVIDIA",
+            "@nvidia.com",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=naArOacAAAAJ",
+            37,
+            [
+                "Computer Graphics",
+                "Ray Tracing",
+                "Global Illumination",
+                "GPU"
+            ],
+            37,
+            3,
+            3,
+            2,
+            2,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"WzhSQzkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Josef Spjut",
+                    "affiliation":"Research Scientist, NVIDIA"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"I23YUh8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Morgan McGuire",
+                    "affiliation":"NVIDIA Research, University of Waterloo, and McGill University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"dd1qLRcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Christopher G. Healey",
+                    "affiliation":"North Carolina State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"yfYYAMQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Benjamin Watson",
+                    "affiliation":"Associate Professor of Computer Science, North Carolina State University"
+                }
+            ]
+        ]
+    ]
+}

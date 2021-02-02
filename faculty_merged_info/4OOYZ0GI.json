@@ -1,0 +1,35 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "4OOYZ0GI",
+            "HCJFj5sAAAAJ",
+            [
+                "Fuzzy state\/disturbance observer design for T\u2013S fuzzy systems with application to sensor fault estimation",
+                "Observer-based controller design for stochastic descriptor systems with Brownian motions",
+                "Observer design for TS fuzzy systems with measurement output noises",
+                "Filtering for a class of stochastic descriptor systems"
+            ],
+            [
+                "A novel fuzzy-observer-design approach is presented for Takagi-Sugeno fuzzy models with unknown output disturbances. In order to decouple the unknown output disturbance, an augmented fuzzy descriptor model is constructed by supposing the disturbance to be an auxiliary state vector. A fuzzy state-space observer is next designed for the augmented fuzzy descriptor system, and the simultaneous estimates of the original state and disturbance are thus obtained. The proposed observer technique is further applied to estimate sensor faults. Finally, a numerical example is given to illustrate the design procedure, and the simulation results show the desired tracking performance. The pre knowledge of the disturbance and fault is not necessary for our design. Moreover, the considered disturbance and sensor fault can be in any form.",
+                "In the paper, a complete proof of the properness and mean-square exponential stability for stochastic Brownian systems is firstly addressed, which lays a solid foundation for system analysis and control synthesis for this kind of stochastic systems. Observer-based controller for the descriptor system with Brownian motions is then investigated. It is noticed that the system dynamics and observer dynamics are both subjected to state Brownian fluctuation, which makes it challenging either to design observer gain and controller gain simultaneously or design the observer and control gains by using a complete separation design technique. A sequential design technique is proposed to calculate the control and observer gains by solving linear matrix inequalities. The proposed design methods are readily extended to the case for stochastic descriptor systems with multiple Brownian motions. A numerical example is finally \u2026",
+                "In this paper, new observer design approaches are presented for Takagi-Sugeno (T-S) fuzzy models with measurement output noises. In order to decouple the measurement noise, an augmented fuzzy descriptor model is first constructed. Then a fuzzy descriptor proportional and derivative (PD) observer is developed. When the fuzzy subsystems have the same output matrices, another fuzzy descriptor observer is designed, which can be transformed into a normal fuzzy observer. Via the proposed two kinds of fuzzy observer design, the state and the output noise can be estimated at the same time. The simulation result shows the satisfactory tracking performance.",
+                "This paper deals with stability and filtering problem for a class of stochastic descriptor system. lto formula is applied to descriptor system and a sufficient condition of stochastic descriptor system stability is given. A filter is designed to guarantee that the dynamics of the estimation error is stochastically asymptotically stable."
+            ],
+            [
+                [
+
+                ]
+            ]
+        ]
+    ]
+}

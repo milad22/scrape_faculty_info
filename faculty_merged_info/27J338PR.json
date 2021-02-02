@@ -1,0 +1,41 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "27J338PR",
+            "nLmrwfgAAAAJ",
+            [
+                "A self-organising network that grows when required",
+                "Analysis of genetic algorithms using statistical mechanics",
+                "Fast, on-line learning of globally consistent maps",
+                "Learning globally consistent maps by relaxation",
+                "The dynamics of a genetic algorithm for simple random Ising systems",
+                "On-line novelty detection for autonomous mobile robots"
+            ],
+            [
+                "The ability to grow extra nodes is a potentially useful facility for a self-organising neural network. A network that can add nodes into its map space can approximate the input space more accurately, and often more parsimoniously, than a network with predefined structure and size, such as the Self-Organising Map. In addition, a growing network can deal with dynamic input distributions. Most of the growing networks that have been proposed in the literature add new nodes to support the node that has accumulated the highest error during previous iterations or to support topological structures. This usually means that new nodes are added only when the number of iterations is an integer multiple of some pre-defined constant, \u03bb.This paper suggests a way in which the learning algorithm can add nodes whenever the network in its current state does not sufficiently match the input. In this way the network grows very quickly \u2026",
+                "A formalism is developed for studying genetic algorithms by considering the evolution of the distribution of fitness in the population. The effects of selection on the population are problem independent. The formalism predicts the optimal amount of selection. Crossover is solved for a model problem-finding low energy states of the one dimensional Ising spin glass. The theory is found to be in good agreement with simulations.",
+                "To navigate in unknown environments, mobile robots require the ability to build their own maps. A major problem for robot map building is that odometry-based dead reckoning cannot be used to assign accurate global position information to a map because of cumulative drift errors. This paper introduces a fast, on-line algorithm for learning geometrically consistent maps using only local metric information. The algorithm works by using a relaxation technique to minimize an energy function over many small steps. The approach differs from previous work in that it is computationally cheap, easy to implement and is proven to converge to a globally optimal solution. Experiments are presented in which large, complex environments were successfully mapped by a real robot.",
+                "Mobile robots require the ability to build their own maps to operate in unknown environments. A fundamental problem is that odometry-based dead reckoning cannot be used to assign accurate global position information to a map because of drift errors caused by wheel slippage. The paper introduces a fast, online method of learning globally consistent maps, using only local metric information. The approach differs from previous work in that it is computationally cheap, easy to implement and is guaranteed to find a globally optimal solution. Experiments are presented in which large, complex environments were successfully mapped by a real robot, and quantitative performance measures are used to assess the quality of the maps obtained.",
+                "A formalism is presented for analysing Genetic Algorithms. It is used to study a simple Genetic Algorithm consisting of selection, mutation and crossover which is searching for the ground states of simple random Ising-spin systems: a random-field ideal paramagnet and a spin-glass chain. The formalism can also be applied to other population based search techniques and to biological models of micro-evolution. To make the problem tractable, it is assumed that the population dynamics can be described by a few macroscopic order parameters and that the remaining microscopic degrees of freedom can be averaged out. The macroscopic quantities that are used are the cumulants of the distribution of fitnesses (or energies) in the population. A statistical mechanics model is presented which describes the population configuration in terms of the cumulants, this is used to derive equations of motion for the cumulants \u2026",
+                "The use of mobile robots for inspection tasks is an attractive idea. A robot can travel through environments that humans cannot, and can be trained to identify sensor perceptions that signify potential or actual problems without requiring human intervention. However, in many cases, the appearance of a problem can vary widely, and ensuring that the robot does not miss any possible appearance of the problem (false negatives) is virtually impossible using conventional methods.This paper presents an alternative methodology using novelty detection. A neural network is trained to ignore normal perceptions that do not suggest any problems, so that anything that the robot has not sensed before is highlighted as a possible fault. This makes the incidence of false negatives less likely.We propose a novelty filter that can operate on-line, so that each new input is evaluated for novelty with respect to the data seen so far. The \u2026"
+            ],
+            [
+                [
+                    "Artificial Intelligence",
+                    "Machine Learning",
+                    "Optimization"
+                ]
+            ]
+        ]
+    ]
+}

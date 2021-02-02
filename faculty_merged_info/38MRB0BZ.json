@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "38MRB0BZ",
+            "UAQ3g74AAAAJ",
+            [
+                "Majorana fermions in equilibrium and in driven cold-atom quantum wires",
+                "The \u2018Higgs\u2019 amplitude mode at the two-dimensional superfluid\/Mott insulator transition",
+                "Amplitude\/Higgs modes in condensed matter physics",
+                "Hilbert-glass transition: New universality of temperature-tuned many-body dynamical quantum criticality",
+                "Observation of elastic doublon decay in the Fermi-Hubbard model",
+                "Quantum interference device made by DNA templating of superconducting nanowires",
+                "Unconventional Josephson signatures of Majorana bound states",
+                "Competition between pairing and ferromagnetic instabilities in ultracold Fermi gases near Feshbach resonances",
+                "Individual topological tunnelling events of a quantum field probed through their macroscopic consequences",
+                "Lifetime of double occupancies in the Fermi-Hubbard model"
+            ],
+            [
+                "We introduce a new approach to create and detect Majorana fermions using optically trapped 1D fermionic atoms. In our proposed setup, two internal states of the atoms couple via an optical Raman transition\u2014simultaneously inducing an effective spin-orbit interaction and magnetic field\u2014while a background molecular BEC cloud generates s-wave pairing for the atoms. The resulting cold-atom quantum wire supports Majorana fermions at phase boundaries between topologically trivial and nontrivial regions, as well as \u201cFloquet Majorana fermions\u201d when the system is periodically driven. We analyze experimental parameters, detection schemes, and various imperfections.",
+                "Spontaneous symmetry breaking plays a key role in our understanding of nature. In relativistic quantum field theory, a broken continuous symmetry leads to the emergence of two types of fundamental excitation: massless Nambu\u2013Goldstone modes and a massive \u2018Higgs\u2019 amplitude mode. An excitation of Higgs type is of crucial importance in the standard model of elementary particle physics 1, and also appears as a fundamental collective mode in quantum many-body systems 2. Whether such a mode exists in low-dimensional systems as a resonance-like feature, or whether it becomes overdamped through coupling to Nambu\u2013Goldstone modes, has been a subject of debate 2, 3, 4, 5, 6, 7, 8, 9. Here we experimentally find and study a Higgs mode in a two-dimensional neutral superfluid close to a quantum phase transition to a Mott insulating phase. We unambiguously identify the mode by observing the expected \u2026",
+                "The order parameter and its variations in space and time in many different states in condensed matter physics at low temperatures are described by the complex function \u03a8(r, t). These states include superfluids, superconductors, and a subclass of antiferromagnets and charge density waves. The collective fluctuations in the ordered state may then be categorized as oscillations of phase and amplitude of \u03a8(r, t). The phase oscillations are the Goldstone modes of the broken continuous symmetry. The amplitude modes, even at long wavelengths, are well defined and are decoupled from the phase oscillations only near particle-hole symmetry, where the equations of motion have an effective Lorentz symmetry, as in particle physics and if there are no significant avenues for decay into other excitations. They bear close correspondence with the so-called Higgs modes in particle physics, whose prediction and discovery \u2026",
+                "We study a new class of unconventional critical phenomena that is characterized by singularities only in dynamical quantities and has no thermodynamic signatures. One example of such a transition is the recently proposed many-body localization-delocalization transition, in which transport coefficients vanish at a critical temperature with no singularities in thermodynamic observables. Describing this purely dynamical quantum criticality is technically challenging as understanding the finite-temperature dynamics necessarily requires averaging over a large number of matrix elements between many-body eigenstates. Here, we develop a real-space renormalization group method for excited states that allows us to overcome this challenge in a large class of models. We characterize a specific example: the 1 D disordered transverse-field Ising model with generic interactions. While thermodynamic phase transitions are \u2026",
+                "We investigate the decay of highly excited states of ultracold fermions in a three-dimensional optical lattice. Starting from a repulsive Fermi-Hubbard system near half filling, we generate additional doubly occupied sites (doublons) by lattice modulation. The subsequent relaxation back to thermal equilibrium is monitored over time. The measured absolute doublon lifetime covers 2 orders of magnitude. In units of the tunneling time h\/J it is found to depend exponentially on the ratio of on-site interaction energy U to kinetic energy J. We argue that the dominant mechanism for the relaxation is a simultaneous many-body process involving several single fermions as scattering partners. A many-body calculation is carried out using diagrammatic methods, yielding fair agreement with the data.",
+                "The application of single molecules as templates for nanodevices is a promising direction for nanotechnology. We used a pair of suspended DNA molecules as templates for superconducting two-nanowire devices. Because the resulting wires are very thin, comparable to the DNA molecules themselves, they are susceptible to thermal fluctuations typical for one-dimensional superconductors and exhibit a nonzero resistance over a broad temperature range. We observed resistance oscillations in these two-nanowire structures that are different from the usual Little-Parks oscillations. Here, we provide a quantitative explanation for the observed quantum interference phenomenon, which takes into account strong phase gradients created in the leads by the applied magnetic field.",
+                "A junction between two topological superconductors containing a pair of Majorana fermions exhibits a \u201cfractional\u201d Josephson effect, 4 \u03c0 periodic in the superconductors\u2019 phase difference. An additional fractional Josephson effect, however, arises when the Majorana fermions are spatially separated by a superconducting barrier. This new term gives rise to a set of Shapiro steps which are essentially absent without Majorana modes and therefore provides a unique signature for these exotic states.",
+                "We study the quench dynamics of a two-component ultracold Fermi gas from the weak into the strong interaction regime, where the short time dynamics are governed by the exponential growth rate of unstable collective modes. We obtain an effective interaction that takes into account both Pauli blocking and the energy dependence of the scattering amplitude near a Feshbach resonance. Using this interaction we analyze the competing instabilities towards Stoner ferromagnetism and pairing.",
+                "Phase slips are topological fluctuations that carry the superconducting order-parameter field between distinct current-carrying states. Owing to these phase slips, superconducting nanowires acquire electrical resistance. In such wires, it is well known that at higher temperatures phase slips occur through the process of thermal barrier-crossing by the order-parameter field. At low temperatures, the general expectation is that phase slips should proceed through quantum tunnelling events, which are known as quantum phase slips. However, resistive measurements have produced evidence both for and against the occurrence of quantum phase slips. Here, we report evidence for the observation of individual quantum phase-slip events in homogeneous ultranarrow wires at high bias currents. We accomplish this through measurements of the distribution of switching currents for which the width exhibits a rather counter \u2026",
+                "We investigate the decay of artificially created double occupancies in a repulsive Fermi-Hubbard system in the strongly interacting limit using diagrammatic many-body theory and experiments with ultracold fermions in optical lattices. The lifetime of the doublons is found to scale exponentially with the ratio of the on-site repulsion to the bandwidth. We show that the dominant decay process in presence of background holes is the excitation of a large number of particle-hole pairs to absorb the energy of the doublon. We also show that the strongly interacting nature of the background state is crucial in obtaining the correct estimate of the doublon lifetime in these systems. The theoretical estimates and the experimental data are in agreement."
+            ],
+            [
+                [
+                    "physics",
+                    "condensed matter",
+                    "theoretical physics"
+                ]
+            ]
+        ]
+    ]
+}

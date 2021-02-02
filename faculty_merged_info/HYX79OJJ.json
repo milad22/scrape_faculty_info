@@ -1,0 +1,38 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "HYX79OJJ",
+            "3Dw2ZpYAAAAJ",
+            [
+                "Nano-optical conveyor belt, part II: demonstration of handoff between near-field optical traps",
+                "Nano-optical conveyor belt, part I: theory",
+                "Nanophotonic device optimization with adjoint fdtd",
+                "Hybrid three-arm coupler consisted of long range surface plasmon polariton and dielectric waveguides",
+                "Adjoint fdtd for nanophotonic device optimization"
+            ],
+            [
+                "Optical tweezers have been widely used to manipulate biological and colloidal material, but the diffraction limit of far-field optics makes focused beams unsuitable for manipulating nanoscale objects with dimensions much smaller than the wavelength of light. While plasmonic structures have recently been successful in trapping nanoscale objects with high positioning accuracy, using such structures for manipulation over longer range has remained a significant challenge. In this work, we introduce a conveyor belt design based on a novel plasmonic structure, the resonant C-shaped engraving (CSE). We show how long-range manipulation is made possible by means of handoff between neighboring CSEs, and we present a simple technique for controlling handoff by rotating the polarization of laser illumination. We experimentally demonstrate handoff between a pair of CSEs for polystyrene spheres 200, 390, and \u2026",
+                "We propose a method for peristaltic transport of nanoparticles using the optical force field over a nanostructured surface. Nanostructures may be designed to produce strong near-field hot spots when illuminated. The hot spots function as optical traps, separately addressable by their resonant wavelengths and polarizations. By activating closely packed traps sequentially, nanoparticles may be handed off between adjacent traps in a peristaltic fashion. A linear repeating structure of three separately addressable traps forms a \u201cnano-optical conveyor belt\u201d; a unit cell with four separately addressable traps permits controlled peristaltic transport in the plane. Using specifically designed activation sequences allows particle sorting.",
+                "The sensitivity of a nanophotonic device's performance with respect to changes in its shape and size can be efficiently obtained by adjoint FDTD. By optimizing the structure's boundary we constrain resulting designs to be fabricatable.",
+                "The hybrid three-arm coupler, which consists of the middle long range surface plasmon polariton (LRSPP) waveguide and two outside conventional dielectric waveguides, is proposed and analyzed numerically with finite element method. The characteristics, including coupling length, coupling loss, extinction ratio and frequency dependence, are discussed in detail with different structure parameters. Compared with the two-arm hybrid coupler, the coupling loss of the three-arm hybrid coupler based devices can be reduced, especially with wider middle LRSPP waveguide. Extra transmission loss on the metal strip can be avoided because of the lossless input and output arms. Furthermore, different from conventional three-arm dielectric coupler, we find that the three-arm hybrid coupler with asymmetric structure can reach a much higher extinction ratio by introducing a middle arm offset. Since the middle arm can only \u2026",
+                "We present a numerical technique for design and optimization of nanometallic structures for near-field optical applications such as heat-assisted magnetic recording (HAMR). The sensitivity of the optical behavior of a nanostructure with respect to its size and shape may be efficiently obtained with a pair of \u201cforward\u201d and \u201cbackward\u201d FDTD simulations. Devices may be optimized by iteratively adjusting their dimensions along direction of highest sensitivity for improvement."
+            ],
+            [
+                [
+                    "Optics",
+                    "nanotechnology"
+                ]
+            ]
+        ]
+    ]
+}

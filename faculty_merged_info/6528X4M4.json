@@ -1,0 +1,39 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "6528X4M4",
+            "Ol2vJ-gAAAAJ",
+            [
+                "Quench dynamics near a quantum critical point",
+                "Universal nonequilibrium quantum dynamics in imaginary time",
+                "Quench dynamics near a quantum critical point: Application to the sine-Gordon model",
+                "Adiabatic nonlinear probes of one-dimensional Bose gases",
+                "Cooling and autonomous feedback in a bose-hubbard chain with attractive interactions"
+            ],
+            [
+                "We study the dynamical response of a system to a sudden change of the tuning parameter \u03bb starting (or ending) at the quantum critical point. In particular, we analyze the scaling of the excitation probability, number of excited quasiparticles, heat and entropy with the quench amplitude, and the system size. We extend the analysis to quenches with arbitrary power law dependence on time of the tuning parameter, showing a close connection between the scaling behavior of these quantities with the singularities of the adiabatic susceptibilities of order m at the quantum critical point, where m is related to the power of the quench. Precisely for sudden quenches, the relevant susceptibility of the second order coincides with the fidelity susceptibility. We discuss the generalization of the scaling laws to the finite-temperature quenches and show that the statistics of the low-energy excitations becomes important. We illustrate \u2026",
+                "We propose a method to study dynamical response of a quantum system by evolving it with an imaginary-time-dependent Hamiltonian. The leading nonadiabatic response of the system driven to a quantum-critical point is universal and characterized by the same exponents in real and imaginary time. For a linear quench protocol, the fidelity susceptibility and the geometric tensor naturally emerge in the response functions. Beyond linear response, we extend the finite-size scaling theory of quantum phase transitions to nonequilibrium setups. This allows, eg, for studies of quantum phase transitions in systems of fixed finite size by monitoring expectation values as a function of the quench velocity. Nonequilibrium imaginary-time dynamics is also amenable to quantum Monte Carlo (QMC) simulations, with a scheme that we introduce here and apply to quenches of the transverse-field Ising model to quantum-critical \u2026",
+                "We discuss the quench dynamics near a quantum critical point focusing on the sine-Gordon model as a primary example. We suggest a unified approach to sudden and slow quenches, where the tuning parameter \u03bb (t) changes in time as \u03bb (t)\u223c \u03c5 t r, based on the adiabatic expansion of the excitation probability in powers of \u03c5. We show that the universal scaling of the excitation probability can be understood through the singularity of the generalized adiabatic susceptibility \u03c7 2 r+ 2 (\u03bb), which for sudden quenches (r= 0) reduces to the fidelity susceptibility. In turn this class of susceptibilities is expressed through the moments of the connected correlation function of the quench operator. We analyze the excitations created after a sudden quench of the cosine potential using a combined approach of form-factors expansion and conformal perturbation theory for the low-energy and high-energy sector, respectively. We find \u2026",
+                "We discuss two complimentary problems: adiabatic loading of one-dimensional bosons into an optical lattice and merging two one-dimensional Bose systems. Both problems can be mapped to the sine-Gordon model. This mapping allows us to find power-law scalings for the number of excitations with the ramping rate in the regime where the conventional linear response approach fails. We show that the exponent of this power law is sensitive to the interaction strength. In particular, the response is larger, or less adiabatic, for strongly (weakly) interacting bosons for the loading (merging) problem. Our results illustrate that in general the nonlinear response to slow relevant perturbations can be a powerful tool for characterizing properties of interacting systems.",
+                "We engineer a quantum bath that enables entropy and energy exchange with a one-dimensional Bose-Hubbard lattice with attractive on-site interactions. We implement this in an array of three superconducting transmon qubits coupled to a single cavity mode; the transmons represent lattice sites and their excitation quanta embody bosonic particles. Our cooling protocol preserves the particle number\u2014realizing a canonical ensemble\u2014and also affords the efficient preparation of dark states which, due to symmetry, cannot be prepared via coherent drives on the cavity. Furthermore, by applying continuous microwave radiation, we also realize autonomous feedback to indefinitely stabilize particular eigenstates of the array."
+            ],
+            [
+                [
+                    "physics education research",
+                    "undergraduate STEM teaching",
+                    "dynamics of quantum many-body systems"
+                ]
+            ]
+        ]
+    ]
+}

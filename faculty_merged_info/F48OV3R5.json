@@ -1,0 +1,33 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "F48OV3R5",
+            "Q2RWcgkAAAAJ",
+            [
+                "Aggregation-fragmentation-diffusion model for trail dynamics",
+                "Microscopic definitions of anyon data",
+                "A minimal model for household effects in epidemics"
+            ],
+            [
+                "We investigate statistical properties of trails formed by a random process incorporating aggregation, fragmentation, and diffusion. In this stochastic process, which takes place in one spatial dimension, two neighboring trails may combine to form a larger one, and also one trail may split into two. In addition, trails move diffusively. The model is defined by two parameters which quantify the fragmentation rate and the fragment size. In the long-time limit, the system reaches a steady state, and our focus is the limiting distribution of trail weights. We find that the density of trail weight has power-law tail P (w)\u223c w\u2212 \u03b3 for small weight w. We obtain the exponent \u03b3 analytically and find that it varies continuously with the two model parameters. The exponent \u03b3 can be positive or negative, so that in one range of parameters small-weight trails are abundant and in the complementary range they are rare.",
+                "We present microscopic definitions of both the F symbol and R symbol\u2014two pieces of algebraic data that characterize anyon excitations in (2+ 1)-dimensional systems. An important feature of our definitions is that they are operational; that is, they provide concrete procedures for computing these quantities from microscopic models. In fact, our definitions, together with known results, provide a way to extract a complete set of anyon data from a microscopic model, at least in principle. We illustrate our definitions by computing the F symbol and R symbol in several exactly solvable lattice models and edge theories. We also show that our definitions of the F symbol and R symbol satisfy the pentagon and hexagon equations, thereby providing a microscopic derivation of these fundamental constraints.",
+                "Shelter-in-place and other confinement strategies implemented in the current COVID-19 pandemic have created stratified patterns of contacts between people: close contacts within households and more distant contacts between the households. The epidemic transmission dynamics is significantly modified as a consequence. We introduce a minimal model that incorporates these household effects in the framework of mean-field theory and numerical simulations. We show that the reproduction number R 0 depends on the household size in a surprising way: linearly for relatively small households, and as a square root of size for larger households. We discuss the implications of the findings for the lockdown, test, tracing, and isolation policies."
+            ],
+            [
+                [
+                    "Condensed Matter Theory"
+                ]
+            ]
+        ]
+    ]
+}

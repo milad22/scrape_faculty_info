@@ -1,0 +1,48 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "PZFPYCS2",
+            "_fpLvw4AAAAJ",
+            [
+                "High-dimensional quantum cryptography with twisted light",
+                "Rapid generation of light beams carrying orbital angular momentum",
+                "Amplification of angular rotations using weak measurements",
+                "Simulating thick atmospheric turbulence in the lab with application to orbital angular momentum communication",
+                "Challenging local realism with human choices",
+                "Compressive direct measurement of the quantum wave function",
+                "Compressive object tracking using entangled photons",
+                "State transfer based on classical nonseparability",
+                "Quantum-secured imaging",
+                "Enhanced spectral sensitivity of a chip-scale photonic-crystal slow-light interferometer"
+            ],
+            [
+                "Quantum key distribution (QKD) systems often rely on polarization of light for encoding, thus limiting the amount of information that can be sent per photon and placing tight bounds on the error rates that such a system can tolerate. Here we describe a proof-of-principle experiment that indicates the feasibility of high-dimensional QKD based on the transverse structure of the light field allowing for the transfer of more than 1 bit per photon. Our implementation uses the orbital angular momentum (OAM) of photons and the corresponding mutually unbiased basis of angular position (ANG). Our experiment uses a digital micro-mirror device for the rapid generation of OAM and ANG modes at 4 kHz, and a mode sorter capable of sorting single photons based on their OAM and ANG content with a separation efficiency of 93%. Through the use of a seven-dimensional alphabet encoded in the OAM and ANG bases, we achieve \u2026",
+                "We report a technique for encoding both amplitude and phase variations onto a laser beam using a single digital micro-mirror device (DMD). Using this technique, we generate Laguerre-Gaussian and vortex orbital-angular-momentum (OAM) modes, along with modes in a set that is mutually unbiased with respect to the OAM basis. Additionally, we have demonstrated rapid switching among the generated modes at a speed of 4 kHz, which is much faster than the speed regularly achieved by phase-only spatial light modulators (SLMs). The dynamic control of both phase and amplitude of a laser beam is an enabling technology for classical communication and quantum key distribution (QKD) systems that employ spatial mode encoding.",
+                "We present a weak measurement protocol that permits a sensitive estimation of angular rotations based on the concept of weak-value amplification. The shift in the state of a pointer, in both angular position and the conjugate orbital angular momentum bases, is used to estimate angular rotations. This is done by an amplification of both the real and imaginary parts of the weak-value of a polarization operator that has been coupled to the pointer, which is a spatial mode, via a spin-orbit coupling. Our experiment demonstrates the first realization of weak-value amplification in the azimuthal degree of freedom. We have achieved effective amplification factors as large as 100, providing a sensitivity that is on par with more complicated methods that employ quantum states of light or extremely large values of orbital angular momentum.",
+                "We describe a procedure by which a long () optical path through atmospheric turbulence can be experimentally simulated in a controlled fashion and scaled down to distances easily accessible in a laboratory setting. This procedure is then used to simulate a 1 km long free-space communication link in which information is encoded in orbital angular momentum spatial modes. We also demonstrate that standard adaptive optics methods can be used to mitigate many of the effects of thick atmospheric turbulence.",
+                "A Bell test is a randomized trial that compares experimental observations against the philosophical worldview of local realism. A Bell test requires spatially distributed entanglement, fast and high-efficiency detection and unpredictable measurement settings. Although technology can satisfy the first two of these requirements, the use of physical devices to choose settings in a Bell test involves making assumptions about the physics that one aims to test. Bell himself noted this weakness in using physical setting choices and argued that humanfree will'could be used rigorously to ensure unpredictability in Bell tests. Here we report a set of local-realism tests using human choices, which avoids assumptions about predictability in physics. We recruited about 100,000 human participants to play an online video game that incentivizes fast, sustained input of unpredictable selections and illustrates Bell-test methodology. The participants generated 97,347,490 binary choices, which were directed via a scalable web platform to 12 laboratories on five continents, where 13 experiments tested local realism using photons, single atoms, atomic ensembles, and superconducting devices. Over a 12-hour period on 30 November 2016, participants worldwide provided a sustained data flow of over 1,000 bits per second to the experiments, which used different human-generated data to choose each measurement setting. The observed correlations strongly contradict local realism and other realistic positions in bipartite and tripartite scenarios. Project outcomes include closing thefreedom-of-choice loophole'(the possibility that the setting choices are influenced byhidden \u2026",
+                "The direct measurement of a complex wave function has been recently realized by using weak values. In this Letter, we introduce a method that exploits sparsity for the compressive measurement of the transverse spatial wave function of photons. The procedure involves weak measurements of random projection operators in the spatial domain followed by postselection in the momentum basis. Using this method, we experimentally measure a 192-dimensional state with a fidelity of 90% using only 25 percent of the total required measurements. Furthermore, we demonstrate the measurement of a 19 200-dimensional state, a task that would require an unfeasibly large acquiring time with the standard direct measurement technique.",
+                "We present a compressive sensing protocol that tracks a moving object by removing static components from a scene. The implementation is carried out on a ghost imaging scheme to minimize both the number of photons and the number of measurements required to form a quantum image of the tracked object. This procedure tracks an object at low light levels with fewer than 3% of the measurements required for a raster scan, permitting us to more effectively use the information content in each photon.",
+                "We present a state-transfer protocol that is mathematically equivalent to quantum teleportation but uses classical nonseparability instead of quantum entanglement. In our implementation we take advantage of nonseparability among three parties: orbital angular momentum (OAM), polarization, and the radial degrees of freedom of a beam of light. We demonstrate the transfer of arbitrary OAM states, in the subspace spanned by any two OAM states, to the polarization of the same beam.",
+                "We have built an imaging system that uses a photon's position or time-of-flight information to image an object, while using the photon's polarization for security. This ability allows us to obtain an image which is secure against an attack in which the object being imaged intercepts and resends the imaging photons with modified information. Popularly known as \u201cjamming,\u201d this type of attack is commonly directed at active imaging systems such as radar. In order to jam our imaging system, the object must disturb the delicate quantum state of the imaging photons, thus introducing statistical errors that reveal its activity.",
+                "We experimentally demonstrate that the spectral sensitivity of a Mach\u2013Zehnder (MZ) interferometer can be enhanced through structural slow light. We observe a 20-fold resolution enhancement by placing a dispersion-engineered, slow-light, photonic-crystal waveguide in one arm of a fiber-based MZ interferometer. The spectral sensitivity of the interferometer increases roughly linearly with the group index, and we have quantified the resolution in terms of the spectral density of interference fringes. These results show promise for the use of slow-light methods for developing novel tools for optical metrology and, specifically, for compact high-resolution spectrometers."
+            ],
+            [
+                [
+                    "Optical Physics",
+                    "Quantum Optics"
+                ]
+            ]
+        ]
+    ]
+}

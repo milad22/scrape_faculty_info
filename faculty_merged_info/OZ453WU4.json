@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "OZ453WU4",
+            "xmOSptwAAAAJ",
+            [
+                "Simple proof of security of the BB84 quantum key distribution protocol",
+                "Cosmology of the invisible axion",
+                "Topological entanglement entropy",
+                "Quantum Computing in the NISQ era and beyond",
+                "Topological quantum memory",
+                "Reliable quantum computers",
+                "Feynman lectures on gravitation",
+                "Security of quantum key distribution with imperfect devices",
+                "The nature of space and time",
+                "Cosmological production of superheavy magnetic monopoles"
+            ],
+            [
+                "We prove that the 1984 protocol of Bennett and Brassard (BB84) for quantum key distribution is secure. We first give a key distribution protocol based on entanglement purification, which can be proven secure using methods from Lo and Chau's proof of security for a similar protocol. We then show that the security of this protocol implies the security of BB84. The entanglement purification based protocol uses Calderbank-Shor-Steane codes, and properties of these codes are used to remove the use of quantum computation from the Lo-Chau protocol.",
+                "We identify a new cosmological problem for models which solve the strong CP puzzle with an invisible axion, unrelated to the domain wall problem. Because the axion is very weakly coupled, the energy density stored in the oscillations of the classical axion field does not dissipate rapidly; it exceeds the critical density needed to close the universe unless fa \u2a7d 1012GeV, wherefa is the axion decay constant. If this bound is saturated, axions may comprise the dark matter of the universe.",
+                "We formulate a universal characterization of the many-particle quantum entanglement in the ground state of a topologically ordered two-dimensional medium with a mass gap. We consider a disk in the plane, with a smooth boundary of length L, large compared to the correlation length. In the ground state, by tracing out all degrees of freedom in the exterior of the disk, we obtain a marginal density operator \u03c1 for the degrees of freedom in the interior. The von Neumann entropy of \u03c1, a measure of the entanglement of the interior and exterior variables, has the form S (\u03c1)= \u03b1 L\u2212 \u03b3+\u22ef, where the ellipsis represents terms that vanish in the limit L\u2192\u221e. We show that\u2212 \u03b3 is a universal constant characterizing a global feature of the entanglement in the ground state. Using topological quantum field theory methods, we derive a formula for \u03b3 in terms of properties of the superselection sectors of the medium.",
+                "Noisy Intermediate-Scale Quantum (NISQ) technology will be available in the near future. Quantum computers with 50-100 qubits may be able to perform tasks which surpass the capabilities of today's classical digital computers, but noise in quantum gates will limit the size of quantum circuits that can be executed reliably. NISQ devices will be useful tools for exploring many-body quantum physics, and may have other useful applications, but the 100-qubit quantum computer will not change the world right away-we should regard it as a significant step toward the more powerful quantum technologies of the future. Quantum technologists should continue to strive for more accurate quantum gates and, eventually, fully fault-tolerant quantum computing.",
+                "We analyze surface codes, the topological quantum error-correcting codes introduced by Kitaev. In these codes, qubits are arranged in a two-dimensional array on a surface of nontrivial topology, and encoded quantum operations are associated with nontrivial homology cycles of the surface. We formulate protocols for error recovery, and study the efficacy of these protocols. An order-disorder phase transition occurs in this system at a nonzero critical value of the error rate; if the error rate is below the critical value (the accuracy threshold), encoded information can be protected arbitrarily well in the limit of a large code block. This phase transition can be accurately modeled by a three-dimensional Z2 lattice gauge theory with quenched disorder. We estimate the accuracy threshold, assuming that all quantum gates are local, that qubits can be measured rapidly, and that polynomial-size classical computations can be \u2026",
+                "The new field of quantum error correction has developed spectacularly since its origin less than two years ago. Encoded quantum information can be protected from errors that arise due to uncontrolled interactions with the environment. Recovery from errors can work effectively even if occasional mistakes occur during the recovery procedure. Furthermore, encoded quantum information can be processed without serious propagation of errors. Hence, an arbitrarily long quantum computation can be performed reliably, provided that the average probability of error per quantum gate is less than a certain critical value, the accuracy threshold. A quantum computer storing about 106 qubits, with a probability of error per quantum gate of order 10\u20136, would be a formidable factoring engine. Even a smaller less\u2013accurate quantum computer would be able to perform many useful tasks. This paper is based on a talk presented at \u2026",
+                "The Feynman Lectures on Gravitation are based on notes prepared during a course on gravitational physics that Richard Feynman taught at Caltech during the 1962-63 academic year. For several years prior to these lectures, Feynman thought long and hard about the fundamental problems in gravitational physics, yet he published very little. These lectures represent a useful record of his viewpoints and some of his insights into gravity and its application to cosmology, superstars, wormholes, and gravitational waves at that particular time. The lectures also contain a number of fascinating digressions and asides on the foundations of physics and other issues. Characteristically, Feynman took an untraditional non-geometric approach to gravitation and general relativity based on the underlying quantum aspects of gravity. Hence, these lectures contain a unique pedagogical account of the development of Einstein's general theory of relativity as the inevitable result of the demand for a self-consistent theory of a massless spin-2 field (the graviton) coupled to the energy-momentum tensor of matter. This approach also demonstrates the intimate and fundamental connection between gauge invariance and the principle of equivalence.",
+                "This paper prove the security of the Bennett-Brassard (BB84) quantum key distribution protocol in the case where the source and detector are under the limited control of an adversary. This proof applies when both the source and the detector have small basis-dependent flaws, as is typical in practical implementations of the protocol. The estimation of the key generation rate in some special cases: sources that emit weak coherent states, detectors with basis-dependent efficiency, and misaligned sources and detectors.",
+                "From two of the world's great physicists\u2014Stephen Hawking and Nobel laureate Roger Penrose\u2014a lively debate about the nature of space and time Einstein said that the most incomprehensible thing about the universe is that it is comprehensible. But was he right? Can the quantum theory of fields and Einstein's general theory of relativity, the two most accurate and successful theories in all of physics, be united into a single quantum theory of gravity? Can quantum and cosmos ever be combined? In The Nature of Space and Time, two of the world\u2019s most famous physicists\u2014Stephen Hawking (A Brief History of Time) and Roger Penrose (The Road to Reality)\u2014debate these questions. The authors outline how their positions have further diverged on a number of key issues, including the spatial geometry of the universe, inflationary versus cyclic theories of the cosmos, and the black-hole information-loss paradox. Though much progress has been made, Hawking and Penrose stress that physicists still have further to go in their quest for a quantum theory of gravity.",
+                "Grand unified models of elementary particle interactions contain stable superheavy magnetic monopoles. The density of such monopoles in the early universe is estimated to be unacceptably large. Cosmological monopole production may be suppressed if the phase transition at the grand unification mass scale is strongly first order."
+            ],
+            [
+                [
+                    "quantum information",
+                    "quantum many-body physics",
+                    "particle physics",
+                    "gravitation",
+                    "cosmology"
+                ]
+            ]
+        ]
+    ]
+}

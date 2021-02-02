@@ -1,0 +1,48 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "2JIUHEO1",
+            "MvDjr3kAAAAJ",
+            [
+                "Low thermal conductivity oxides",
+                "Phonon lifetime investigation of anharmonicity and thermal conductivity of UO 2 by neutron scattering and theory",
+                "Uncertainty quantification in multiscale simulation of materials: A prospective",
+                "Evaluation of computational techniques for solving the Boltzmann transport equation for lattice thermal conductivity calculations",
+                "Kapitza resistance of Si\/SiO2 interface",
+                "Development of a multiscale thermal conductivity model for fission gas in UO2",
+                "Adsorption of oxygen molecules on individual single-wall carbon nanotubes",
+                "Thermal conductivity in nanocrystalline ceria thin films",
+                "Phonon transport simulator (PhonTS)",
+                "Phase equilibria in the U-Si system from first-principles calculations"
+            ],
+            [
+                "Oxides hold great promise as new and improved materials for thermal-barrier coating applications. The rich variety of structures and compositions of the materials in this class, and the ease with which they can be doped, allow the exploration of various mechanisms for lowering thermal conductivity. In this article, we review recent progress in identifying specific oxides with low thermal conductivity from both theoretical and experimental perspectives. We explore the mechanisms of lowering thermal conductivity, such as introducing structural\/ chemical disorder, increasing material density, increasing the number of atoms in the primitive cell, and exploiting the structural anisotropy. We conclude that further systematic exploration of oxide crystal structures and chemistries are likely to result in even further improved thermal-barrier coatings.",
+                "Inelastic neutron scattering measurements of individual phonon lifetimes and dispersion at 295 and 1200 K have been used to probe anharmonicity and thermal conductivity in U O 2. They show that longitudinal optic phonon modes carry the largest amount of heat, in contrast to past simulations and that the total conductivity demonstrates a quantitative correspondence between microscopic and macroscopic phonon physics. We have further performed first-principles simulations for U O 2 showing semiquantitative agreement with phonon lifetimes at 295 K, but larger anharmonicity than measured at 1200 K.",
+                "Simulation has long since joined experiment and theory as a valuable tool to address materials problems. Analysis of errors and uncertainties in experiment and theory is well developed; such analysis for simulations, particularly for simulations linked across length scales and timescales, is much less advanced. In this prospective, we discuss salient issues concerning uncertainty quantification (UQ) from a variety of fields and review the sparse literature on UQ in materials simulations. As specific examples, we examine the development of atomistic potentials and multiscale simulations of crystal plasticity. We identify needs for conceptual advances, needs for the development of best practices, and needs for specific implementations.",
+                "Three methods for computing thermal conductivity from lattice dynamics (the iterative method, the variational method, and the relaxation-time approximation) are compared for the prototypical case of solid argon. The iterative method is found to produce results in close agreement with Green-Kubo molecular-dynamics simulations, a formally correct method for computing thermal conductivity. The variational method and relaxation-time approximation are found to underestimate the thermal conductivity. The relationship among the methods is established; a combination of the iterative and variational methods is found to have a fastest convergence. Formal convergence of the iterative method is demonstrated and a simple mixing rule is shown to provide stability in practice. The ability to use these methods to provide detailed insight into the relationship between phonon properties and thermal conductivity is demonstrated.",
+                "A phonon wave packet dynamics method is used to characterize the Kapitza resistance of a Si\/SiO2 interface in a Si\/SiO2\/Si heterostructure. By varying the thickness of SiO2 layer sandwiched between two Si layers, we determine the Kapitza resistance for the Si\/SiO2 interface from both wave packet dynamics and a direct, non-equilibrium molecular dynamics approach. The good agreement between the two methods indicates that they have each captured the anharmonic phonon scatterings at the interface. Moreover, detailed analysis provides insights as to how individual phonon mode scatters at the interface and their contribution to the Kapitza resistance.",
+                "Accurately predicting changes in the thermal conductivity of light water reactor UO2 fuel throughout its lifetime in reactor is an essential part of fuel performance modeling. However, typical thermal conductivity models from the literature are empirical. In this work, we begin to develop a mechanistic thermal conductivity model by focusing on the impact of gaseous fission products, which is coupled to swelling and fission gas release. The impact of additional defects and fission products will be added in future work. The model is developed using a combination of atomistic and mesoscale simulation, as well as analytical models. The impact of dispersed fission gas atoms is quantified using molecular dynamics simulations corrected to account for phonon-spin scattering. The impact of intragranular bubbles is accounted for using an analytical model that considers phonon scattering. The impact of grain boundary bubbles is \u2026",
+                "Our study of the adsorption of oxygen molecules on individual semiconductiong single-walled carbon nanotubes at ambient conditions reveals that the adsorption is physisorption, the resistance without O2 increases by approximately two orders of magnitude as compared to that with O2, and the sensitive response is due to the pinning of the Fermi level near the top of the valence band of the tube, resulting from impurity states of O2 appearing above the valence band.",
+                "The thermal conductivity of nanocrystalline ceria films grown by unbalanced magnetron sputtering is determined as a function of temperature using laser\u2010based modulated thermoreflectance. The films exhibit significantly reduced conductivity compared with stoichiometric bulk CeO2. A variety of microstructure imaging techniques including X\u2010ray diffraction, scanning and transmission electron microscopy, X\u2010ray photoelectron analysis, and electron energy loss spectroscopy indicate that the thermal conductivity is influenced by grain boundaries, dislocations, and oxygen vacancies. The temperature dependence of the thermal conductivity is analyzed using an analytical solution of the Boltzmann transport equation. The conclusion of this study is that oxygen vacancies pose a smaller impediment to thermal transport when they segregate along grain boundaries.",
+                "Thermal conductivity prediction remains an important subject in many scientific and engineering areas. Only recently has such prediction become possible on the basis of the first principles calculations, thus ensuring high quality results. Implementation of the methodology, however, is technically challenging and requires a lengthy development process. We thus introduce the Phonon Transport Simulator (PhonTS), a Fortran90, fully parallel code to perform such calculations. PhonTS possesses a large array of options and returns the thermal conductivity tensor together with related quantities, such as spectral thermal conductivity, phonon lifetimes, mean free paths and Gr\u00fcneisen parameters. First principles calculations are implemented via convenient interfaces to widely-used third-party codes, while many classical potentials are included in PhonTS itself. The code is carefully validated against data published in the \u2026",
+                "Density functional theory calculations have been used with spin-orbit coupling and on-site Coulomb correction (GGA + U) methods to investigate the U-Si system. Structural prediction methods were employed to identify alternate stable structures. Convex hulls of the U-Si system were constructed for each of the methods to highlight the competing energetics of various phases. For GGA calculations, new structures are predicted to be dynamically stable, but these have not been experimentally observed. When the GGA + U (Ueff > 1.3 eV) method is considered, the experimentally observed structures are predicted to be energetically preferred. Phonon calculations were used to investigate the energy predictions and showed that the use of the GGA + U method removes the significant imaginary frequencies observed for U3Si2 when the correction is not considered. Total and partial electron density of states calculations \u2026"
+            ],
+            [
+                [
+                    "Thermal transport simulations",
+                    "atomistic simulations of materials properties"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "008VWUT5",
+            "jcuvwh0AAAAJ",
+            [
+                "Theoretical foundations of dynamical Monte Carlo simulations",
+                "Island nucleation in thin-film epitaxy: a first-principles investigation",
+                "Accelerated molecular dynamics with the bond-boost method",
+                "Adsorption of polyvinylpyrrolidone on Ag surfaces: insight into a structure-directing agent",
+                "Noise-induced bistability in a Monte Carlo surface-reaction model",
+                "Concerted diffusion of molecular clusters in a molecular sieve",
+                "Thermal desorption of large molecules from solid surfaces",
+                "Fractal clustering of reactants on a catalyst surface",
+                "Normal, single-file, and dual-mode diffusion of binary adsorbate mixtures in ",
+                "Mechanisms of Oriented Attachment of TiO2 Nanocrystals in Vacuum and Humid Environments: Reactive Molecular Dynamics"
+            ],
+            [
+                "Monte Carlo methods are utilized as computational tools in many areas of chemical physics. In this paper, we present the theoretical basis for a dynamical Monte Carlo method in terms of the theory of Poisson processes. We show that if: (1) a \u2018\u2018dynamical hierarchy\u2019\u2019 of transition probabilities is created which also satisfy the detailed\u2010balance criterion; (2) time increments upon successful events are calculated appropriately; and (3) the effective independence of various events comprising the system can be achieved, then Monte Carlo methods may be utilized to simulate the Poisson process and both static and dynamic properties of model Hamiltonian systems may be obtained and interpreted consistently.",
+                "We describe a theoretical study of the role of adsorbate interactions in island nucleation and growth, using Ag\/Pt (111) heteroepitaxy as an example. From density-functional theory, we obtain the substrate-mediated Ag adatom pair interaction and we find that, past the short range, a repulsive ring is formed about the adatoms. The magnitude of the repulsion is comparable to the diffusion barrier. In kinetic Monte Carlo simulations, we find that the repulsive interactions lead to island densities over an order of magnitude larger than those predicted by nucleation theory and thus identify a severe limitation of its applicability.",
+                "We present a new method for accelerating molecular-dynamics simulations of infrequent events. The method targets simulation of systems that spend most of the time in local energy minima, with slow transitions in between, as is the case with low-temperature surface diffusion. The potential-energy surface is modified by adding a boost potential in regions close to the local minima, such that all transition rates are increased while relative rates are preserved. The boost potential is an empirical function determined by the deviation of the bond lengths of a specified set of atoms from equilibrium. The method requires no previous knowledge of the processes involved and it can be applied to a wide variety of interaction potentials. Application to the diffusion of Cu atoms on the Cu(100) surface using an embedded-atom potential yields correct rates for adatom hopping, exchange, as well as vacancy and dimer diffusion with \u2026",
+                "We use density functional theory to resolve the role of polyvinylpyrrolidone (PVP) in the shape-selective synthesis of Ag nanostructures. At the segment level, PVP binds more strongly to Ag(100) than Ag(111) because of a surface-sensitive balance between direct binding and van der Waals attraction. At the chain level, correlated segment binding leads to a strong preference for PVP bind to Ag(100). Our study underscores differences between small-molecule and polymeric structure-directing agents.",
+                "We find a noise-induced transition to bistability in a Monte Carlo simulation of a model heterogeneous catalytic chemical reaction which is deterministically monostable. Analysis of the probability density function and the correlation integral of time series of this model indicates the existence and central role of noise in this transition. We find that the behavior of this system is a consequence of the interaction of noise with the spatial degrees of freedom on the model catalytic surface.",
+                "We show that attractive interactions between molecules adsorbed in molecular sieves play a vital role in the mechanisms and rates of intracrystalline diffusion. Over a wide temperature range, the single-file diffusion of CF 4, SF 6, and CCl 4 in AlPO 4-5 is dominated by the diffusion of molecular clusters. SF 6 and CCl 4 clusters diffuse by concerted mechanisms involving all of the cluster's molecules simultaneously. The activation energies, E a, for these mechanisms are strongly size dependent and are lower than E a for monomer diffusion.",
+                "We use molecular-dynamics simulations and importance sampling to obtain transition-state-theory rate constants for thermal desorption of an n-alkane series from Au (111). We find that the binding of a large molecule to a solid surface involves different types of local minima. The preexponential factors increase with increasing chain length and can be substantially larger than typical estimates for small molecules. Our results match recent experimental studies and indicate that a proper treatment of conformational isomerism and entropy, heretofore not found in coarse-grained models, is essential to quantitatively describe the thermal desorption of large molecules from solid surfaces.",
+                "The islands of adsorbed molecules in an A+ B\u2192 AB reaction model on a two-dimensional catalyst surface (with no surface diffusion) are found to be fractal with dimension D= 1.90\u00b10.03.",
+                "We have used molecular simulations to examine the diffusion of Ne, Ar, Kr, Xe, CH4, CF4, CCl4, SF6, SnCl4, and SnBr4 in the molecular sieve AlPO4-5, both as single species and as coadsorbed mixtures. Single adsorbed species exhibit a transition from normal to single-file diffusion as a function of increasing adsorbate size. In addition to normal and single-file diffusion, coadsorbed mixtures exhibit a qualitatively new diffusion mode in which one species performs normal diffusion while the other undergoes single-file diffusion. We discuss the prospects for experimental verification of this phenomenon, and present measurements of the loading dependence of diffusion rates during the dual-mode diffusion of Ne\/CF4 mixtures.",
+                "Oriented attachment (OA) of nanocrystals is now widely recognized as a key process in the solution-phase growth of hierarchical nanostructures. However, the microscopic origins of OA remain unclear. We perform molecular dynamics simulations using a recently developed ReaxFF reactive force field to study the aggregation of various titanium dioxide (anatase) nanocrystals in vacuum and humid environments. In vacuum, the nanocrystals merge along their direction of approach, resulting in a polycrystalline material. By contrast, in the presence of water vapor the nanocrystals reorient themselves and aggregate via the OA mechanism to form a single or twinned crystal. They accomplish this by creating a dynamic network of hydrogen bonds between surface hydroxyls and surface oxygens of aggregating nanocrystals. We determine that OA is dominant on surfaces that have the greatest propensity to dissociate \u2026"
+            ],
+            [
+                [
+                    "Multiscale Materials Theory and Simulation"
+                ]
+            ]
+        ]
+    ]
+}

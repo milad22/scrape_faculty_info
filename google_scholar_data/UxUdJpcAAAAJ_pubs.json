@@ -1,0 +1,137 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "data":[
+        [
+            "We explore interactions enabled by 2D spatial manipulation and self-actuation of a tabletop shape display. To explore these interactions, we developed shapeShift, a compact, high-resolution (7 mm pitch), mobile tabletop shape display. shapeShift can be mounted on passive rollers allowing for bimanual interaction where the user can freely manipulate the system while it renders spatially relevant content. shapeShift can also be mounted on an omnidirectional-robot to provide both vertical and lateral kinesthetic feedback, display moving objects, or act as an encountered-type haptic device for VR. We present a study on haptic search tasks comparing spatial manipulation of a shape display for egocentric exploration of a map versus exploration using a fixed display and a touch pad. Results show a 30% decrease in navigation path lengths, 24% decrease in task time, 15% decrease in mental demand and 29 \u2026",
+            "Shapeshift: 2D spatial manipulation and self-actuation of tabletop shape displays for tangible and haptic interaction",
+            "Alexa F Siu and Eric J Gonzalez and Shenli Yuan and Jason B Ginsberg and Sean Follmer",
+            "2018",
+            "UxUdJpcAAAAJ:u5HHmVD_uO8C",
+            41,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/3173574.3173865",
+            "921699313522315250",
+            "\/scholar?cites=921699313522315250",
+            {
+                "2018":4,
+                "2019":17,
+                "2020":18,
+                "2021":1
+            }
+        ],
+        [
+            "Temperature measurements were obtained along the nozzle centerline of CH4\/H2\/air partially premixed flames, in a counter-flow burner, using N2 vibrational coherent anti-Stokes Raman scattering (VCARS). Measurements were performed for flames with no H2 and varying percentages of CH4 in the fuel stream and for flames with nearly constant CH4 content and varying H2 content in the fuel stream. VCARS measurements were compared against 1-D numerical simulations using different chemical mechanisms within the frame work of COSILAB software. All the mechanisms compared well against experimental data except for flames at low equivalence ratio where the San Diego mechanism performed the best. Interestingly, the peak flame temperature remained nearly constant with increasing percentage of H2 in the fuel stream. The presence or absence of thermal diffusion made little difference in the \u2026",
+            "Vibrational CARS thermometry and one-dimensional numerical simulations in CH4\/H2\/air partially-premixed flames",
+            "Aman Satija and Shenli Yuan and Sameer V Naik and Robert P Lucht",
+            "2015",
+            "UxUdJpcAAAAJ:2osOgNQ5qMEC",
+            12,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0360319915007971",
+            "10547583832561905004",
+            "\/scholar?cites=10547583832561905004",
+            {
+                "2015":1,
+                "2016":2,
+                "2017":4,
+                "2018":1,
+                "2019":2,
+                "2020":2
+            }
+        ],
+        [
+            "shapeShift is a compact, high-resolution (7 mm pitch), mobile tabletop shape display. We explore potential interaction techniques in both passive and active mobile scenarios. In the passive case, the user is able to freely move and spin the display as it renders elements. We introduce use cases for rendering lateral I\/O elements, exploring volumetric datasets, and grasping and manipulating objects. On an active omnidirectional-robot platform, shapeShift can display moving objects and provide both vertical and lateral kinesthetic feedback. We use the active platform as an encounter-type haptic device combined with a head-mounted display to dynamically simulate the presence of virtual content.",
+            "ShapeShift: A mobile tabletop shape display for tangible and haptic interaction",
+            "Alexa F Siu and Eric J Gonzalez and Shenli Yuan and Jason Ginsberg and Allen Zhao and Sean Follmer",
+            "2017",
+            "UxUdJpcAAAAJ:9yKSN-GCB0IC",
+            10,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/3131785.3131792",
+            "9226979509482307616",
+            "\/scholar?cites=9226979509482307616",
+            {
+                "2018":5,
+                "2019":1,
+                "2020":4
+            }
+        ],
+        [
+            "This paper describes the development of a novel non-anthropomorphic robot hand with the ability to manipulate objects by means of articulated, actively driven rollers located at the fingertips. An analysis is conducted and systems of equations for two-finger and three-finger manipulation of a sphere are formulated to demonstrate full six degree of freedom nonholonomic spatial motion capability. A prototype version of the hand was constructed and used to grasp and manipulate a variety of objects. Tests conducted with the prototype confirmed the validity of the mathematical analysis. Unlike conventional approaches to within-hand manipulation using legacy robotic hands, the continuous rotation capability of our rolling fingertips allows for unbounded rotation of a grasped object without the need for finger gaiting.",
+            "Design of a roller-based dexterous hand for object grasping and within-hand manipulation",
+            "Shenli Yuan and Austin D Epps and Jerome B Nowak and J Kenneth Salisbury",
+            "2020",
+            "UxUdJpcAAAAJ:Y0pCki6q_DkC",
+            6,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/9197146\/",
+            "8644671712130775815",
+            "\/scholar?cites=8644671712130775815",
+            {
+                "2020":5
+            }
+        ],
+        [
+            "Aside from frequency response, loudspeaker distortion measurements are perhaps the most commonly used metrics to appraise loudspeaker performance. The stimuli utilized for many types of distortion measurements are not complex waveforms such as music or speech, thus the measured distortion characteristics of the Device Under Test may not reflect the performance of the device when reproducing typical program material. The topic of this paper is the exploration of a new multitone sequence stimulus to measure loudspeaker system distortion. This method gives a reliable estimation of the average nonlinear distortion produced with music on a loudspeaker system, and delivers a global objective assessment of the distortion for a DUT in a normal use case.",
+            "Use of Repetitive Multi-Tone Sequences to Estimate Nonlinear Response of a Loudspeaker to Music",
+            "Pascal Brunet and William Decanio and Ritesh Banka and Shenli Yuan",
+            "2017",
+            "UxUdJpcAAAAJ:UeHWp8X0CEIC",
+            5,
+            "http:\/\/www.aes.org\/e-lib\/browse.cfm?elib=19224",
+            "13659643462545760679",
+            "\/scholar?cites=13659643462545760679",
+            {
+                "2018":1,
+                "2019":2,
+                "2020":2
+            }
+        ],
+        [
+            "Loudspeaker transducer models with fractional derivatives can accurately approximate the inductive part of the voice coil impedance of a transducer over a wide frequency band, while maintaining the number of fitting parameters to a minimum. Analytical solutions to Maxwell equations in infinite lossy coils can also be interpreted as fractional derivative models. However, they suggest that the fractional order a cannot be a constant, but rather a function of frequency that takes on values between 1\/2 and 1. This paper uses Finite Element (FEM) simulations to bridge the gap between the theoretical first-principles approach and lumped parameter models using fractional derivatives. The study explores the dependence of a on frequency for idealized infinite and finite cores as well as in four real loudspeaker transducers. To better match the measured impedances and frequency-dependent a values we propose to \u2026",
+            "Variable Fractional Order Analysis of Loudspeaker Transducers: Theory, Simulations, Measurements, and Synthesis",
+            "Andri Bezzola and Pascal Brunet and Shenli Yuan",
+            "2017",
+            "UxUdJpcAAAAJ:qjMakFHDy7sC",
+            4,
+            "http:\/\/www.aes.org\/e-lib\/online\/browse.cfm?elib=19236",
+            "11710975053997554756",
+            "\/scholar?cites=11710975053997554756",
+            {
+                "2018":1,
+                "2019":3
+            }
+        ],
+        [
+            "While many systems have been designed to support collaboration around visual thinking tools, much less work has investigated how to share and collaboratively design physical prototypes\u2014an important part of the design process. We describe preliminary results from a formative study on how designers communicate and collaborate in design meetings around physical and digital artifacts. Addressing some limitations in current collaboration platforms and drawing guidelines from our study, we introduce a new prototype platform for remote collaboration. This platform leverages the use of augmented reality (AR) for rendering of the remote participant and a pair of linked actuated tabletop tangible interfaces that acts as the participant\u2019s shared physical workspace. We propose the use of actuated tabletop tangibles to synchronously render complex shapes and to act as physical input.",
+            "Investigating tangible collaboration for design towards augmented physical telepresence",
+            "Alexa F Siu and Shenli Yuan and Hieu Pham and Eric Gonzalez and Lawrence H Kim and Mathieu Le Goc and Sean Follmer",
+            "2018",
+            "UxUdJpcAAAAJ:u-x6o8ySG0sC",
+            2,
+            "https:\/\/link.springer.com\/chapter\/10.1007\/978-3-319-60967-6_7",
+            "7308709492895715516",
+            "\/scholar?cites=7308709492895715516",
+            {
+                "2019":1,
+                "2020":1
+            }
+        ]
+    ]
+}

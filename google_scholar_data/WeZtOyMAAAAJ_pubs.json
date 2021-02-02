@@ -1,0 +1,210 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Nucleosynthesis, light curves, explosion energies, and remnant masses are calculated for a grid of supernovae (SNe) resulting from massive stars with solar metallicity and masses from 9.0 to 120. The full evolution is followed using an adaptive reaction network of up to 2000 nuclei. A novel aspect of the survey is the use of a one-dimensional neutrino transport model for the explosion. This explosion model has been calibrated to give the observed energy for SN 1987A, using five standard progenitors, and for the Crab SN using a 9.6 progenitor. As a result of using a calibrated central engine, the final kinetic energy of the SN is variable and sensitive to the structure of each pre-SN star. Many progenitors with extended core structures do not explode, but become black holes (BHs), and the masses of exploding stars do not form a simply connected set. The resulting nucleosynthesis agrees reasonably well with the Sun provided \u2026",
+            "Core-collapse supernovae from 9 to 120 solar masses based on neutrino-powered explosions",
+            "Tuguldur Sukhbold and T Ertl and SE Woosley and Justin M Brown and H-T Janka",
+            "2016",
+            "WeZtOyMAAAAJ:UebtZRa9Y70C",
+            597,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/0004-637X\/821\/1\/38\/meta",
+            "18164150369654176061",
+            "\/scholar?cites=18164150369654176061",
+            {
+                "2016":44,
+                "2017":103,
+                "2018":127,
+                "2019":142,
+                "2020":157,
+                "2021":23
+            }
+        ],
+        [
+            "Thus far, judging the fate of a massive star (either a neutron star [NS] or a black hole) solely by its structure prior to core collapse has been ambiguous. Our work and previous attempts find a nonmonotonic variation of successful and failed supernovae with zero-age main-sequence mass, for which no single structural parameter can serve as a good predictive measure. However, we identify two parameters computed from the pre-collapse structure of the progenitor, which in combination allow for a clear separation of exploding and nonexploding cases with only a few exceptions (~ 1%\u20132.5%) in our set of 621 investigated stellar models. One parameter is M 4, defining the normalized enclosed mass for a dimensionless entropy per nucleon of s= 4, and the other is , being the normalized mass derivative at this location. The two parameters \u03bc 4 and M 4 \u03bc 4 can be directly linked to the mass-infall rate \u2026",
+            "A two-parameter criterion for classifying the explodability of massive stars by the neutrino-driven mechanism",
+            "T Ertl and H-Th Janka and SE Woosley and T Sukhbold and M Ugliano",
+            "2016",
+            "WeZtOyMAAAAJ:roLk4NBRz8UC",
+            248,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/0004-637X\/818\/2\/124\/meta",
+            "14520933003895459234",
+            "\/scholar?cites=14520933003895459234",
+            {
+                "2015":1,
+                "2016":26,
+                "2017":40,
+                "2018":56,
+                "2019":55,
+                "2020":62,
+                "2021":8
+            }
+        ],
+        [
+            "The success or failure of the neutrino-transport mechanism for producing a supernova in an evolved massive star is known to be sensitive not only to the mass of the iron core that collapses, but also to the density gradient in the silicon and oxygen shells surrounding that core. Here we study the systematics of a presupernova core's\" compactness\" as a function of the mass of the star and the physics used in its calculation. Fine-meshed surveys of presupernova evolution are calculated for stars from 15 to 65 M\u2609. The metallicity and the efficiency of semiconvection and overshoot mixing are both varied and bare carbon-oxygen cores are explored as well as full hydrogenic stars. Two different codes, KEPLER and MESA, are used for the study. A complex interplay of carbon and oxygen burning, especially in shells, can cause rapid variations in the compactness for stars of very nearly the same mass. On larger scales, the \u2026",
+            "The compactness of presupernova stellar cores",
+            "Tuguldur Sukhbold and SE Woosley",
+            "2014",
+            "WeZtOyMAAAAJ:WF5omc3nYNoC",
+            195,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0004-637X\/783\/1\/10\/meta",
+            "1095320637128771056",
+            "\/scholar?cites=1095320637128771056",
+            {
+                "2013":1,
+                "2014":8,
+                "2015":23,
+                "2016":28,
+                "2017":34,
+                "2018":37,
+                "2019":28,
+                "2020":30,
+                "2021":6
+            }
+        ],
+        [
+            "The density structure surrounding the iron core of a massive star when it dies is known to have a major effect on whether or not the star explodes. Here we repeat previous surveys of presupernova evolution with some important corrections to code physics and four to 10 times better mass resolution in each star. The number of presupernova masses considered is also much larger. Over 4000 models are calculated in the range from 12 to 60 M\u2299 with varying mass loss rates. The core structure is not greatly affected by the increased spatial resolution. The qualitative patterns of compactness measures and their extrema are the same, but with the increased number of models, the scatter seen in previous studies is replaced by several localized branches. More physics-based analyses by Ertl et al. and M\u00fcller et al. show these branches with less scatter than the single-parameter characterization of O'Connor & Ott. These \u2026",
+            "A high-resolution study of presupernova core structure",
+            "Tuguldur Sukhbold and SE Woosley and Alexander Heger",
+            "2018",
+            "WeZtOyMAAAAJ:L8Ckcad2t8MC",
+            93,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/1538-4357\/aac2da\/meta",
+            "3155271838927644188",
+            "\/scholar?cites=3155271838927644188",
+            {
+                "2018":14,
+                "2019":27,
+                "2020":46,
+                "2021":6
+            }
+        ],
+        [
+            "Previous studies have shown that the radiation emitted by a rapidly rotating magnetar embedded in a young supernova can greatly amplify its luminosity. These one-dimensional studies have also revealed the existence of an instability arising from the piling up of radiatively accelerated matter in a thin dense shell deep inside the supernova. Here, we examine the problem in two dimensions and find that, while instabilities cause mixing and fracture this shell into filamentary structures that reduce the density contrast, the concentration of matter in a hollow shell persists. The extent of the mixing depends upon the relative energy input by the magnetar and the kinetic energy of the inner ejecta. The light curve and spectrum of the resulting supernova will be appreciably altered, as will the appearance of the supernova remnant, which will be shellular and filamentary. A similar pile up and mixing might characterize other \u2026",
+            "Magnetar-Powered Supernovae in Two Dimensions. I. Superluminous Supernovae",
+            "Ke-Jung Chen and Stan Woosley and Tuguldur Sukhbold",
+            "2016",
+            "WeZtOyMAAAAJ:3fE2CSJIrl8C",
+            50,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/0004-637X\/832\/1\/73\/meta",
+            "1930019199184899731",
+            "\/scholar?cites=1930019199184899731",
+            {
+                "2016":1,
+                "2017":15,
+                "2018":15,
+                "2019":7,
+                "2020":11,
+                "2021":1
+            }
+        ],
+        [
+            "Light curves, explosion energies, and remnant masses are calculated for a grid of supernovae resulting from massive helium stars that have been evolved including mass loss. These presupernova stars should approximate the results of binary evolution for stars in interacting systems that lose their envelopes close to the time of helium core ignition. Initial helium star masses are in the range 2.5\u201340 M\u2299, which corresponds to main-sequence masses of about 13\u201390 M\u2299. Common SNe Ib and Ic result from stars whose final masses are approximately 2.5\u20135.6 M\u2299. For heavier stars, a large fraction of collapses lead to black holes, though there is an island of explodability for presupernova masses near 10 M\u2299. The median neutron star mass in binaries is 1.35\u20131.38 M\u2299, and the median black hole mass is between 9 and 11 M\u2299. Even though black holes less massive than 5 M\u2299 are rare, they are predicted down to the \u2026",
+            "The explosion of helium stars evolved with mass loss",
+            "Thomas Ertl and Stan E Woosley and Tuguldur Sukhbold and H-T Janka",
+            "2020",
+            "WeZtOyMAAAAJ:R3hNpaxXUhUC",
+            44,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/1538-4357\/ab6458\/meta",
+            "2272442991206205881",
+            "\/scholar?cites=2272442991206205881",
+            {
+                "2019":1,
+                "2020":36,
+                "2021":7
+            }
+        ],
+        [
+            "Multiple lines of evidence support a connection between hydrogen-poor superluminous supernovae (SLSNe) and long-duration gamma-ray bursts (GRBs). Both classes of events require a powerful central energy source, usually attributed to a millisecond magnetar or an accreting black hole. The GRB\u2013SLSN link raises several theoretical questions: What distinguishes the engines responsible for these different phenomena? Can a single engine power both a GRB and a luminous SN in the same event? We propose a unifying model for magnetar thermalization and jet formation: misalignment between the rotation (\u03a9) and magnetic dipole (\u03bc) axes dissipates a fraction of the spin-down power by reconnection in the striped equatorial wind, providing a guaranteed source of \u2018thermal\u2019 emission to power the supernova. The remaining unthermalized power energizes a relativistic jet. We show that even weak \u2026",
+            "The GRB\u2013SLSN connection: misaligned magnetars, weak jet emergence, and observational signatures",
+            "Ben Margalit and Brian D Metzger and Todd A Thompson and Matt Nicholl and Tuguldur Sukhbold",
+            "2018",
+            "WeZtOyMAAAAJ:4TOpqqG69KYC",
+            34,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/475\/2\/2659\/4795312",
+            "1839291054969600518",
+            "\/scholar?cites=1839291054969600518",
+            {
+                "2018":11,
+                "2019":11,
+                "2020":7,
+                "2021":4
+            }
+        ],
+        [
+            "We identify a pre-explosion counterpart to the nearby Type IIP supernova ASASSN-16fq (SN 2016cok) in archival Hubble Space Telescope data. The source appears to be a blend of several stars that prevents obtaining accurate photometry. However, with reasonable assumptions about the stellar temperature and extinction, the progenitor almost certainly had an initial mass M* \u2272 17\u2009M\u2299, and was most likely in the mass range of M* = 8\u201312\u2009M\u2299. Observations once ASASSN-16fq has faded will have no difficulty accurately determining the properties of the progenitor. In 8 yr of Large Binocular Telescope (LBT) data, no significant progenitor variability is detected to rms limits of roughly 0.03 mag. Of the six nearby supernova (SN) with constraints on the low-level variability, SN 1987A, SN 1993J, SN 2008cn, SN 2011dh, SN 2013ej and ASASSN-16fq, only the slowly fading progenitor of SN 2011dh showed clear \u2026",
+            "Supernova progenitors, their variability and the Type IIP Supernova ASASSN-16fq in M66",
+            "CS Kochanek and Morgan Fraser and SM Adams and T Sukhbold and JL Prieto and T M\u00fcller and G Bock and JS Brown and Subo Dong and TW-S Holoien and R Khan and BJ Shappee and KZ Stanek",
+            "2017",
+            "WeZtOyMAAAAJ:kNdYIx-mwKoC",
+            29,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/467\/3\/3347\/3052706",
+            "917985289525477035",
+            "\/scholar?cites=917985289525477035",
+            {
+                "2017":7,
+                "2018":3,
+                "2019":7,
+                "2020":11,
+                "2021":1
+            }
+        ],
+        [
+            "The mass distribution of compact objects provides a fossil record that can be studied to uncover information on the late stages of massive star evolution, the supernova explosion mechanism, and the dense matter equation of state. Observations of neutron star masses indicate a bimodal Gaussian distribution, while the observed black hole mass distribution decays exponentially for stellar-mass black holes. We use these observed distributions to directly confront the predictions of stellar evolution models and the neutrino-driven supernova simulations of Sukhbold et al. We find strong agreement between the black hole and low-mass neutron star distributions created by these simulations and the observations. We show that a large fraction of the stellar envelope must be ejected, either during the formation of stellar-mass black holes or prior to the implosion through tidal stripping due to a binary companion, in order to \u2026",
+            "Confronting models of massive star evolution and explosions with remnant mass measurements",
+            "Carolyn A Raithel and Tuguldur Sukhbold and Feryal \u00d6zel",
+            "2018",
+            "WeZtOyMAAAAJ:9ZlFYXVOiuMC",
+            28,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/1538-4357\/aab09b\/meta",
+            "6046130807853897777",
+            "\/scholar?cites=6046130807853897777",
+            {
+                "2018":5,
+                "2019":9,
+                "2020":13,
+                "2021":1
+            }
+        ],
+        [
+            "A large fraction of core-collapse supernovae (CCSNe), 30\u201350\u2009per\u2009cent, are expected to originate from the low-mass end of progenitors with MZAMS = 8\u201312\u2009M\u2299. However, degeneracy effects make stellar evolution modelling of such stars challenging, and few predictions for their supernova light curves and spectra have been presented. Here, we calculate synthetic nebular spectra of a 9\u2009M\u2299 Fe CCSN model exploded with the neutrino mechanism. The model predicts emission lines with FWHM \u223c 1000\u2009km s\u22121, including signatures from each deep layer in the metal core. We compare this model to the observations of the three subluminous IIP SNe with published nebular spectra; SN 1997D, SN 2005cs and SN 2008bk. The predictions of both line profiles and luminosities are in good agreement with SN 1997D and SN 2008bk. The close fit of a model with no tuning parameters provides strong evidence for \u2026",
+            "Emission line models for the lowest mass core-collapse supernovae \u2013 I. Case study of a 9 M\u2299 one-dimensional neutrino-driven explosion",
+            "A Jerkstrand and T Ertl and HT Janka and E M\u00fcller and T Sukhbold and SE Woosley",
+            "2018",
+            "WeZtOyMAAAAJ:mVmsd5A6BfQC",
+            23,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/475\/1\/277\/4622958",
+            "4479106244039744506",
+            "\/scholar?cites=4479106244039744506",
+            {
+                "2018":4,
+                "2019":5,
+                "2020":11,
+                "2021":3
+            }
+        ]
+    ]
+}

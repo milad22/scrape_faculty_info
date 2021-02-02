@@ -1,0 +1,34 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "3YX2OHK4",
+            "ORNi6TwAAAAJ",
+            [
+                "Scalable multiparticle entanglement of trapped ions",
+                "Realization of the Cirac\u2013Zoller controlled-NOT quantum gate"
+            ],
+            [
+                "The generation, manipulation and fundamental understanding of entanglement lies at the very heart of quantum mechanics. Entangled particles are non-interacting but are described by a common wavefunction; consequently, individual particles are not independent of each other and their quantum properties are inextricably interwoven 1, 2, 3. The intriguing features of entanglement become particularly evident if the particles can be individually controlled and physically separated. However, both the experimental realization and characterization of entanglement become exceedingly difficult for systems with many particles. The main difficulty is to manipulate and detect the quantum state of individual particles as well as to control the interaction between them. So far, entanglement of four ions 4 or five photons 5 has been demonstrated experimentally. The creation of scalable multiparticle entanglement demands a \u2026",
+                "Quantum computers have the potential to perform certain computational tasks more efficiently than their classical counterparts. The Cirac\u2013Zoller proposal 1 for a scalable quantum computer is based on a string of trapped ions whose electronic states represent the quantum bits of information (or qubits). In this scheme, quantum logical gates involving any subset of ions are realized by coupling the ions through their collective quantized motion. The main experimental step towards realizing the scheme is to implement the controlled-NOT (CNOT) gate operation between two individual ions. The CNOT quantum logical gate corresponds to the XOR gate operation of classical logic that flips the state of a target bit conditioned on the state of a control bit. Here we implement a CNOT quantum gate according to the Cirac\u2013Zoller proposal 1. In our experiment, two 40 Ca+ ions are held in a linear Paul trap and are individually \u2026"
+            ],
+            [
+                [
+                    "quantum Information",
+                    "quantum optics",
+                    "precision measurements",
+                    "trapped ions"
+                ]
+            ]
+        ]
+    ]
+}

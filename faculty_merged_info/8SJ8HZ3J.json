@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "8SJ8HZ3J",
+            "rpgbWGsAAAAJ",
+            [
+                "Entanglement of atomic qubits using an optical frequency comb",
+                "Ultrafast gates for single atomic qubits",
+                "Coherent optical link over hundreds of metres and hundreds of terahertz with subfemtosecond timing jitter",
+                "Coherent error suppression in multiqubit entangling gates",
+                "Generation of phase-locked and tunable continuous-wave radiation in the terahertz regime",
+                "Characterization of quantum interference control of injected currents in LT-GaAs for carrier-envelope phase measurements",
+                "Dynamics of nonlinear and dispersion managed solitons",
+                "Shocks in the early universe",
+                "Beat note stabilization of mode-locked lasers for quantum information processing",
+                "Beat note stabilization of mode-locked lasers for quantum information processing"
+            ],
+            [
+                "We demonstrate the use of an optical frequency comb to coherently control and entangle atomic qubits. A train of off-resonant ultrafast laser pulses is used to efficiently and coherently transfer population between electronic and vibrational states of trapped atomic ions and implement an entangling quantum logic gate with high fidelity. This technique can be extended to the high field regime where operations can be performed faster than the trap frequency. This general approach can be applied to more complex quantum systems, such as large collections of interacting atoms or molecules.",
+                "We demonstrate single-qubit operations on a trapped atom hyperfine qubit using a single ultrafast pulse from a mode-locked laser. We shape the pulse from the laser and perform a \u03c0 rotation of the qubit in less than 50 ps with a population transfer exceeding 99% and negligible effects from spontaneous emission or ac Stark shifts. The gate time is significantly shorter than the period of atomic motion in the trap (\u03a9 Rabi\/\u03bd trap> 10 4), demonstrating that this interaction takes place deep within the strong excitation regime.",
+                "Recent developments in stabilized lasers have resulted in ultrastable optical oscillators with spectral purities below 1 Hz refs 1\u20136. These oscillators are not transportable at present and operate at a single frequency. To realize their full potential, a highly coherent, frequency-diverse fibre-optic network is needed to faithfully transfer the optical signals to remote sites and to different optical frequencies. Here we demonstrate such a coherent network composed of erbium fibre and Ti: sapphire laser-based, optical-frequency combs 7, 8, 9, stabilized optical-fibre links 4, 10 and cavity-stabilized lasers 4, 5, 6. We coherently transmit an optical carrier over 750 m of optical fibre with conversions to wavelengths of 657, 767, 1,126 and 1,535 nm, an overall timing jitter of 590 attoseconds, and a frequency instability of 12 mHz for the 195 THz carrier in 1 s and 250 \u00b5Hz in 1,000 s. This first remote synchronization of two frequency \u2026",
+                "We demonstrate a simple pulse shaping technique designed to improve the fidelity of spin-dependent force operations commonly used to implement entangling gates in trapped ion systems. This extension of the M\u00f8lmer-S\u00f8rensen gate can theoretically suppress the effects of certain frequency and timing errors to any desired order and is demonstrated through Walsh modulation of a two qubit entangling gate on trapped atomic ions. The technique is applicable to any system of qubits coupled through collective harmonic oscillator modes.",
+                "Broadly tunable phase-stable single-frequency terahertz radiation is generated with an optical heterodyne photomixer. The photomixer is excited by two near-infrared CW diode lasers that are phase locked to the stabilized optical frequency comb of a femtosecond titanium:sapphire laser. The terahertz radiation emitted by the photomixer is downconverted into RF frequencies with a waveguide harmonic mixer and measurement-limited linewidths at the Hertz level are demonstrated.",
+                "We use two mutually coherent, harmonically related pulse trains to experimentally characterize quantum interference control (QIC) of injected currents in low-temperature-grown gallium arsenide. We observe real-time QIC interference fringes, optimize the QIC signal fidelity, uncover critical signal dependences regarding beam spatial position on the sample, measure signal dependences on the fundamental and second harmonic average optical powers, and demonstrate signal characteristics that depend on the focused beam spot sizes. Following directly from our motivation for this study, we propose an initial experiment to measure and ultimately control the carrier-envelope phase evolution of a single octave-spanning pulse train using the QIC phenomenon.",
+                "The relation between the fundamental parameters of energy and temporal duration of ultrashort pulses, under the condition of varying the average dispersion, are demonstrated both theoretically and experimentally in a solid-state femtosecond mode-locked laser. An asymptotic theory for nonlinear and dispersion managed solitons agrees well with the experimental data and demonstrates that the dominant factor in the pulse dynamics arises from the equilibrium established between the nonlinear Kerr effect and linear dispersion.",
+                "We point out a surprising consequence of the usually assumed initial conditions for cosmological perturbations. Namely, a spectrum of Gaussian, linear, adiabatic, scalar, growing mode perturbations not only creates acoustic oscillations of the kind observed on very large scales today, it also leads to the production of shocks in the radiation fluid of the very early Universe. Shocks cause departures from local thermal equilibrium as well as create vorticity and gravitational waves. For a scale-invariant spectrum and standard model physics, shocks form for temperatures 1 GeV< T< 1 0 7 GeV. For more general power spectra, such as have been invoked to form primordial black holes, shock formation and the consequent gravitational wave emission provide a signal detectable by current and planned gravitational wave experiments, allowing them to strongly constrain conditions present in the primordial Universe as early \u2026",
+                "We stabilize a chosen radio frequency beat note between two optical fields derived from the same mode-locked laser pulse train in order to coherently manipulate quantum information. This scheme does not require access or active stabilization of the laser repetition rate. We implement and characterize this external lock, in the context of two-photon stimulated Raman transitions between the hyperfine ground states of trapped Yb^+171 quantum bits.",
+                "We stabilize a chosen radio frequency beat note between two optical fields derived from the same mode-locked laser pulse train in order to coherently manipulate quantum information. This scheme does not require access or active stabilization of the laser repetition rate. We implement and characterize this external lock, in the context of two-photon stimulated Raman transitions between the hyperfine ground states of trapped Yb^+171 quantum bits."
+            ],
+            [
+                [
+                    "trapped ions and quantum information"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "NjrwD6YAAAAJ",
+            "BURCU OZDEN",
+            "Penn State Abington",
+            "@psu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=NjrwD6YAAAAJ",
+            75,
+            [
+                "Materials Research",
+                "Condensed Matter Physics",
+                "Optoelectronics"
+            ],
+            73,
+            6,
+            6,
+            0,
+            0,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"G2ikEDYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Vahid Mirkhani",
+                    "affiliation":"Auburn University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"hE9MHQ0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michael C. Hamilton",
+                    "affiliation":"Auburn University - Electrical and Computer Engineering"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"2rcwMucAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"SUNIL UPRETY",
+                    "affiliation":"Auburn University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"2vWEY4cAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Marcelo A. Kuroda",
+                    "affiliation":"Physics Department - Auburn University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fBDKyhUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Fei Tong",
+                    "affiliation":"Ph.D.,  Auburn University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"-Eo5IwQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mira Park",
+                    "affiliation":"The University of Tasmania"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"tkSzax8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Fei Tong",
+                    "affiliation":"Southeast University"
+                }
+            ]
+        ]
+    ]
+}

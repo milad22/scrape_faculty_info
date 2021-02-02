@@ -1,0 +1,253 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "A novel multichannel Doppler backscattering system has been designed and tested for application on the DIII-D [J. L. Luxon, Fusion Sci. Technol. 48, 828 (2005)] and National Spherical Torus Experiment (NSTX) [M. Ono et al., Nucl. Fusion 40, 557 (2000)] fusion plasma devices. Doppler backscattering measures localized intermediate wavenumber (k\u22a5\u03c1i\u223c1\u20134,k\u22a5\u223c2\u201315\u2002cm\u22121) density fluctuations and the propagation velocity of turbulent structures. Microwave radiation is launched at a frequency that approaches a cutoff layer in the plasma and at an angle that is oblique to the cutoff layer. Bragg backscattering occurs near the cutoff layer for fluctuations with k\u22a5\u2248\u22122ki, where ki is the incident probe wave vector at the scattering location. The turbulence propagation velocity can be determined from the Doppler shift in the return signal together with knowledge of the scattering wavenumber. Ray tracing simulations \u2026",
+            "A multichannel, frequency-modulated, tunable Doppler backscattering and reflectometry system",
+            "JC Hillesheim and WA Peebles and TL Rhodes and L Schmitz and TA Carter and P-A Gourdain and G Wang",
+            "2009",
+            "SD5IOiAAAAAJ:u5HHmVD_uO8C",
+            86,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.3205449",
+            "14853712627284853418",
+            "\/scholar?cites=14853712627284853418",
+            {
+                "2010":11,
+                "2011":10,
+                "2012":8,
+                "2013":8,
+                "2014":7,
+                "2015":8,
+                "2016":5,
+                "2017":7,
+                "2018":9,
+                "2019":8,
+                "2020":3
+            }
+        ],
+        [
+            "A correlation electron cyclotron emission (CECE) diagnostic has been used to measure local, turbulent fluctuations of the electron temperature in the core of DIII-D plasmas. This paper describes the hardware and testing of the CECE diagnostic and highlights the importance of measurements of multifield fluctuation profiles for the testing and validation of nonlinear gyrokinetic codes. The process of testing and validating such codes is critical for extrapolation to next-step fusion devices. For the first time, the radial profiles of electron temperature and density fluctuations are compared to nonlinear gyrokinetic simulations. The CECE diagnostic at DIII-D uses correlation radiometry to measure the rms amplitude and spectrum of the electron temperature fluctuations. Gaussian optics are used to produce a poloidal spot size with wo\u223c1.75\u2002cm in the plasma. The intermediate frequency filters and the natural linewidth of the \u2026",
+            "A correlation electron cyclotron emission diagnostic and the importance of multifield fluctuation measurements for testing nonlinear gyrokinetic turbulence simulations",
+            "AE White and L Schmitz and WA Peebles and TA Carter and TL Rhodes and EJ Doyle and PA Gourdain and JC Hillesheim and G Wang and C Holland and GR Tynan and ME Austin and GR McKee and MW Shafer and KH Burrell and J Candy and JC DeBoo and R Prater and GM Staebler and RE Waltz and MA Makowski",
+            "2008",
+            "SD5IOiAAAAAJ:u-x6o8ySG0sC",
+            54,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.2981186",
+            "11161939216801059277",
+            "\/scholar?cites=11161939216801059277",
+            {
+                "2008":1,
+                "2009":1,
+                "2010":5,
+                "2011":8,
+                "2012":4,
+                "2013":6,
+                "2014":5,
+                "2015":4,
+                "2016":6,
+                "2017":4,
+                "2018":4,
+                "2019":5,
+                "2020":1
+            }
+        ],
+        [
+            "A novel technique involving radial foil explosions can produce high energy density plasmas. A current flows radially inward in a 5\u2002\u03bcm thin aluminum foil from a circular anode, which contacts the foil on its outer rim, to the cathode, which connects to the foil at its geometrical center. When using small \u201cpin\u201d cathodes (\u223c1\u2002mm in diameter) on a medium size pulsed-current generator such as the Cornell Beam Research Accelerator, the central magnetic field approaches 400 T, yielding magnetic pressures larger than 0.5 Mbar. While the dynamics is similar to radial wire arrays, radial foil discharges have very distinct characteristics. First a plasma jet forms, with densities near 5\u00d71018\u2002cm\u22123. J\u00d7B forces lift the foil upward with velocities of \u223c200\u2002km\/s. A plasma bubble with electron densities superior to 5\u00d71019\u2002cm\u22123 then develops, surrounding a central plasma column, carrying most of the cathode current. X-ray bursts \u2026",
+            "Initial experiments using radial foils on the Cornell Beam Research Accelerator pulsed power generator",
+            "P-A Gourdain and IC Blesener and JB Greenly and DA Hammer and PF Knapp and BR Kusse and PC Schrafel",
+            "2010",
+            "SD5IOiAAAAAJ:qjMakFHDy7sC",
+            39,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.3292653",
+            "10861914131758413390",
+            "\/scholar?cites=10861914131758413390",
+            {
+                "2010":3,
+                "2011":7,
+                "2012":6,
+                "2013":7,
+                "2014":3,
+                "2015":3,
+                "2016":1,
+                "2017":2,
+                "2018":3,
+                "2019":4
+            }
+        ],
+        [
+            "Using a 1-MA, 100 ns-rise-time pulsed power generator, radial foil configurations can produce strongly collimated plasma jets. The resulting jets have electron densities on the order of 10 20 cm\u2212 3, temperatures above 50 eV and plasma velocities on the order of 100 km\/s, giving Reynolds numbers of the order of 10 3, magnetic Reynolds and P\u00e9clet numbers on the order of 1. While Hall physics does not dominate jet dynamics due to the large particle density and flow inside, it strongly impacts flows in the jet periphery where plasma density is low. As a result, Hall physics affects indirectly the geometrical shape of the jet and its density profile. The comparison between experiments and numerical simulations demonstrates that the Hall term enhances the jet density when the plasma current flows away from the jet compared to the case where the plasma current flows towards it.",
+            "Impact of the Hall effect on high-energy-density plasma jets",
+            "P-A Gourdain and CE Seyler",
+            "2013",
+            "SD5IOiAAAAAJ:IjCSPb-OGe4C",
+            29,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.110.015002",
+            "8923776496981320565",
+            "\/scholar?cites=8923776496981320565",
+            {
+                "2013":3,
+                "2014":8,
+                "2015":6,
+                "2016":2,
+                "2017":3,
+                "2018":2,
+                "2019":2,
+                "2020":3
+            }
+        ],
+        [
+            "The growth of the axial instability in low wire number wire array Z pinches using a 100 ns rise time, 1 MA pulsed power accelerator is examined. The axial instability manifests itself as a quasiperiodic variation of the radius of the coronal plasma along each wire and a consequent modulation of the rate of ablation of material from the dense wire core. The dominant wavelength of the modulation becomes constant late in time. In this work laser shadowgraphy is used to measure the growth of the wavelength and amplitude of the instability as well as the size of the coronal plasma in aluminum wire arrays from the time of plasma formation to the time the wavelength seen late in time is reached. Using magnetic probes, the distribution of current and magnetic topology are also investigated. It is found that a distinct change in magnetic field topology associated with the onset of advection of current to the array axis by the \u2026",
+            "Growth and saturation of the axial instability in low wire number wire array Z pinches",
+            "PF Knapp and JB Greenly and P-A Gourdain and CL Hoyt and MR Martin and SA Pikuz and CE Seyler and TA Shelkovenko and DA Hammer",
+            "2010",
+            "SD5IOiAAAAAJ:9yKSN-GCB0IC",
+            27,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.3286436",
+            "2744713553470359631",
+            "\/scholar?cites=2744713553470359631",
+            {
+                "2011":4,
+                "2012":10,
+                "2013":1,
+                "2014":5,
+                "2015":2,
+                "2016":1,
+                "2017":1,
+                "2018":1,
+                "2019":1
+            }
+        ],
+        [
+            "The Electric Tokamak, a low field ITER sized device with R= 5 m, has been operating with well equilibrated clean plasmas since January 2000. Short, 0.9 s, discharges with a central energy confinement time \u03c4 E (0)= 150 ms are now routinely obtained at a toroidal field B= 0.1 T with kT e, kT i sime 120 eV. The discharges are feedback controlled in up\/down position and in plasma current. Biased electrode driven H modes have been obtained that compare well with the results obtained on CCT by RJ Taylor and align with theneoclassical bifurcation'theory of KC Shaing. Very successful second harmonic ion heating has been demonstrated with the ICRF antenna outside the vacuum system and with 50% single pass absorption. ICRF heated discharges indicate that poloidal rotation sufficient for edge bifurcation (H mode) may soon be achieved by ICRF induced fast ion losses. The threshold electrode biasing current \u2026",
+            "Initial plasma results from the Electric Tokamak",
+            "RJ Taylor and J-L Gauvreau and M Gilmore and P-A Gourdain and DJ LaFonteese and LW Schmitz",
+            "2002",
+            "SD5IOiAAAAAJ:d1gkVwhDpl0C",
+            26,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0029-5515\/42\/1\/307\/meta",
+            "7297546842937227255",
+            "\/scholar?cites=7297546842937227255",
+            {
+                "2001":1,
+                "2002":1,
+                "2003":2,
+                "2004":5,
+                "2005":4,
+                "2006":2,
+                "2007":1,
+                "2008":1,
+                "2009":1,
+                "2010":1,
+                "2011":2,
+                "2012":1,
+                "2013":3,
+                "2014":1
+            }
+        ],
+        [
+            "The dynamics of a new type of pinches\u2014hybrid X-pinches (HXPs)\u2014has been studied experimentally and numerically. The initial configuration of an HXP consists of a high-current diode with conical tungsten electrodes separated by a 1- to 3-mm-long gap and shunted with a 20- to 100-\u03bcm diameter wire. It was shown earlier that a hot spot (HS) with high plasma parameters also formed in the HXP, although its initial configuration is simpler than that of a standard X-pinch. Although details of the HXP dynamics still remain insufficiently studied, the main factors governing the HXP formation were investigated both experimentally and using magnetohydrodynamic simulations. The formation of a specific pressure profile in the electrode plasma after the wire explosion was investigated both experimentally and theoretically. It is shown that the effect of the pressure profile on the expanding wire plasma is similar for \u2026",
+            "Dynamics of hybrid X-pinches",
+            "Tatiana A Shelkovenko and IN Tilikin and GV Ivanenkov and W Stepniewski and AR Mingaleev and VM Romanova and AV Agafonov and AD Cahill and CL Hoyt and PA Gourdain and DA Hammer and SA Pikuz",
+            "2015",
+            "SD5IOiAAAAAJ:ULOm3_A8WrAC",
+            20,
+            "https:\/\/link.springer.com\/article\/10.1134\/S1063780X15010031",
+            "15422861419798334610",
+            "\/scholar?cites=15422861419798334610",
+            {
+                "2015":3,
+                "2016":2,
+                "2017":2,
+                "2018":3,
+                "2019":1,
+                "2020":8,
+                "2021":1
+            }
+        ],
+        [
+            "The Electric Tokamak (ET), currently under construction at the University of California\u2013Los Angeles, is designed to rotate poloidally via a radial current induced by fast wave rf heating fast enough to bifurcate the plasma into a global \u201cH mode\u201d (\u201chigh confinement mode\u201d). A global gyrokinetic code is used to explore and illustrate some of the effects on ion temperature gradient turbulence. The realistic radial electric field required to completely suppress these modes for ET parameters is demonstrated to be <\u221230 V\/cm at its maximum near the half radius. The effects of both a poloidally supersonic bulk rotation threshold and the shear in this rotation near that supersonic threshold were shown to be important in reducing these modes.",
+            "Radial electric field required to suppress ion temperature gradient modes in the electric tokamak",
+            "MW Kissick and J-N Leboeuf and SC Cowley and JM Dawson and VK Decyk and P-A Gourdain and J-L Gauvreau and PA Pribyl and LW Schmitz and RD Sydora and GR Tynan",
+            "1999",
+            "SD5IOiAAAAAJ:2osOgNQ5qMEC",
+            20,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.873759",
+            "951154284909019518",
+            "\/scholar?cites=951154284909019518",
+            {
+                "2000":4,
+                "2001":6,
+                "2002":1,
+                "2003":2,
+                "2004":2,
+                "2005":3,
+                "2006":1,
+                "2007":1
+            }
+        ],
+        [
+            "Gas-puff Z-pinch experiments were conducted on the 1 MA, 200\u2009ns pulse duration Cornell Beam Research Accelerator (COBRA) pulsed power generator in order to achieve an understanding of the dynamics and instability development in the imploding and stagnating plasma. The triple-nozzle gas-puff valve, pre-ionizer, and load hardware are described. Specific diagnostics for the gas-puff experiments, including a Planar Laser Induced Fluorescence system for measuring the radial neutral density profiles along with a Laser Shearing Interferometer and Laser Wavefront Analyzer for electron density measurements, are also described. The results of a series of experiments using two annular argon (Ar) and\/or neon (Ne) gas shells (puff-on-puff) with or without an on- (or near-) axis wire are presented. For all of these experiments, plenum pressures were adjusted to hold the radial mass density profile as similar as \u2026",
+            "Study of gas-puff Z-pinches on COBRA",
+            "N Qi and EW Rosenberg and PA Gourdain and PWL de Grouchy and BR Kusse and DA Hammer and KS Bell and TA Shelkovenko and WM Potter and L Atoyan and AD Cahill and M Evans and JB Greenly and CL Hoyt and SA Pikuz and PC Schrafel and E Kroupp and A Fisher and Y Maron",
+            "2014",
+            "SD5IOiAAAAAJ:p2g8aNsByqUC",
+            19,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.4900748",
+            "16058716691592594010",
+            "\/scholar?cites=16058716691592594010",
+            {
+                "2015":2,
+                "2016":2,
+                "2017":4,
+                "2018":6,
+                "2019":1,
+                "2020":3,
+                "2021":1
+            }
+        ],
+        [
+            "This magnetic compression of cylindrical liners filled with DT gas has promise as an efficient way to achieve fusion burn using pulsed-power machines. However, to avoid rapid cooling of the fuel by transfer of heat to the liner an axial magnetic field is required. This field has to be compressed during the implosion since the thermal insulation is more demanding as the compressed DT plasma becomes hotter and its volume smaller. This compression of the magnetic field is driven both by the imploding liner and plasma. To highlight how this magnetic field compression by the plasma and liner evolves we have separately studied Z-pinch implosions generated by gas puff and liner loads. The masses of the gas puff and liner loads were adjusted to match COBRA's current rise times. Our results have shown that Ne gas-puff implosions are well described by a snowplow model where electrical currents are predominately \u2026",
+            "Initial magnetic field compression studies using gas-puff Z-pinches and thin liners on COBRA",
+            "P-A Gourdain and RJ Concepcion and MT Evans and JB Greenly and DA Hammer and CL Hoyt and E Kroupp and BR Kusse and Y Maron and AS Novick and SA Pikuz and N Qi and G Rondeau and E Rosenberg and PC Schrafel and CE Seyler and TC Shelkovenko",
+            "2013",
+            "SD5IOiAAAAAJ:roLk4NBRz8UC",
+            18,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0029-5515\/53\/8\/083006\/meta",
+            "17345671070725184070",
+            "\/scholar?cites=17345671070725184070",
+            {
+                "2013":1,
+                "2014":3,
+                "2015":3,
+                "2016":2,
+                "2017":2,
+                "2018":2,
+                "2019":3,
+                "2020":2
+            }
+        ]
+    ]
+}

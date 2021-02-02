@@ -1,0 +1,35 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Page 1. QUANTUM TELEPORTATION ON THE IBM QUANTUM COMPUTER ALIZA SIDDIQUI\nLOUISIANA STATE UNIVERSITY FINAL PRESENTATION MENTORS: SUMEET KHATRI, DR.\nMARK WILDE, DR. JONATHAN DOWLING Page 2. BASICS OF QUANTUM COMPUTING \u2022 THE\nQUBIT \u2022 QUANTUM ENTANGLEMENT \u2022 QUANTUM LOGIC GATES Page 3. THE QUBIT \u2022 Known\nas the \u201cquantum bit\u201d \u2022 Unlike a classical bit, it can simultaneously be 0 and 1 \u2013also known as\n\u201csuperposition\u201d of states \u2022 The qubit's state is represented by any arbitrary point on the Bloch\nsphere (either inside or on the surface) \u2022 A pure qubit state is a superposition of the basis states\nand can also be represented as: where and are probability amplitudes and can both be complex\nnumbers \u03b1 \u03b2 Page 4. WHAT IS QUANTUM ENTANGLEMENT? \u2022 Quantum Entanglement of two\nparticles causes them to share a bond such \u2026 \n",
+            "Qiskit: An open-source framework for quantum computing",
+            "Gadi Aleksandrowicz and Thomas Alexander and Panagiotis Barkoutsos and Luciano Bello and Yael Ben-Haim and D Bucher and FJ Cabrera-Hern\u00e1ndez and J Carballo-Franquis and A Chen and CF Chen and JM Chow and AD C\u00f3rcoles-Gonzales and AJ Cross and A Cross and J Cruz-Benito and C Culver and SDLP Gonz\u00e1lez and EDL Torre and D Ding and E Dumitrescu and I Duran and P Eendebak and M Everitt and IF Sertage and A Frisch and A Fuhrer and J Gambetta and BG Gago and J Gomez-Mosquera and D Greenberg and I Hamamura and V Havlicek and J Hellmers and \u0141ukasz Herok and H Horii and Shaohan Hu and T Imamichi and Toshinari Itoko and A Javadi\u2010Abhari and N Kanazawa and A Karazeev and K Krsulich and P Liu and Y Luh and Yunho Maeng and M Marques and FJ Mart\u00edn\u2010Fern\u00e1ndez and DT McClure and D McKay and Srujan Meesala and A Mezzacapo and N Moll and DM Rodr\u00edguez and G Nannicini and P Nation and P Ollitrault and LJ O'Riordan and Hanhee Paik and J P\u00e9rez and A Phan and M Pistoia and V Prutyanov and M Reuter and J Rice and Abd\u00f3n Rodr\u00edguez Davila and RHP Rudy and Mingi Ryu and Ninad Sathaye and C Schnabel and E Schoute and Kanav Setia and Yunong Shi and Adenilton Silva and Y Siraichi and Seyon Sivarajah and JA Smolin and M Soeken and H Takahashi and I Tavernelli and C Taylor and P Taylour and Kenso Trabing and M Treinish and W Turner and D Vogt\u2010Lee and C Vuillot and JA Wildstrom and J Wilson and E Winston and C Wood and S Wood and S W\u00f6rner and IY Akhalwaya and C Zoufal",
+            "2019",
+            "dnDj1EIAAAAJ:UeHWp8X0CEIC",
+            175,
+            "http:\/\/reu.cct.lsu.edu\/documents\/2019-presentations\/Siddiqui.pdf",
+            "8253388254707236679",
+            "\/scholar?cites=8253388254707236679",
+            {
+                "2019":42,
+                "2020":129,
+                "2021":3
+            }
+        ]
+    ]
+}

@@ -1,0 +1,246 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "The microscopically complicated real world exhibits behavior that often yields to simple yet quantitatively accurate descriptions. Predictions are possible despite large uncertainties in microscopic parameters, both in physics and in multiparameter models in other areas of science. We connect the two by analyzing parameter sensitivities in a prototypical continuum theory (diffusion) and at a self-similar critical point (the Ising model). We trace the emergence of an effective theory for long-scale observables to a compression of the parameter space quantified by the eigenvalues of the Fisher Information Matrix. A similar compression appears ubiquitously in models taken from diverse areas of science, suggesting that the parameter space structure underlying effective continuum and universal theories in physics also permits predictive modeling more generally.",
+            "Parameter space compression underlies emergent theories and predictive models",
+            "Benjamin B Machta and Ricky Chachra and Mark K Transtrum and James P Sethna",
+            "2013",
+            "YtfPZDAAAAAJ:9yKSN-GCB0IC",
+            221,
+            "https:\/\/science.sciencemag.org\/content\/342\/6158\/604.abstract",
+            "15265895130629771462",
+            "\/scholar?cites=15265895130629771462",
+            {
+                "2013":2,
+                "2014":21,
+                "2015":28,
+                "2016":29,
+                "2017":36,
+                "2018":34,
+                "2019":29,
+                "2020":38,
+                "2021":2
+            }
+        ],
+        [
+            "Large scale models of physical phenomena demand the development of new statistical and computational tools in order to be effective. Many such models are \u201csloppy,\u201d i.e., exhibit behavior controlled by a relatively small number of parameter combinations. We review an information theoretic framework for analyzing sloppy models. This formalism is based on the Fisher information matrix, which is interpreted as a Riemannian metric on a parameterized space of models. Distance in this space is a measure of how distinguishable two models are based on their predictions. Sloppy model manifolds are bounded with a hierarchy of widths and extrinsic curvatures. The manifold boundary approximation can extract the simple, hidden theory from complicated sloppy models. We attribute the success of simple effective models in physics as likewise emerging from complicated processes exhibiting a low effective \u2026",
+            "Perspective: Sloppiness and emergent theories in physics, biology, and beyond",
+            "Mark K Transtrum and Benjamin B Machta and Kevin S Brown and Bryan C Daniels and Christopher R Myers and James P Sethna",
+            "2015",
+            "YtfPZDAAAAAJ:hC7cP41nSMkC",
+            218,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.4923066",
+            "2898032270359204846",
+            "\/scholar?cites=2898032270359204846",
+            {
+                "2015":3,
+                "2016":30,
+                "2017":47,
+                "2018":44,
+                "2019":43,
+                "2020":45,
+                "2021":4
+            }
+        ],
+        [
+            "Fitting model parameters to experimental data is a common yet often challenging task, especially if the model contains many parameters. Typically, algorithms get lost in regions of parameter space in which the model is unresponsive to changes in parameters, and one is left to make adjustments by hand. We explain this difficulty by interpreting the fitting process as a generalized interpolation procedure. By considering the manifold of all model predictions in data space, we find that cross sections have a hierarchy of widths and are typically very narrow. Algorithms become stuck as they move near the boundaries. We observe that the model manifold, in addition to being tightly bounded, has low extrinsic curvature, leading to the use of geodesics in the fitting process. We improve the convergence of the Levenberg-Marquardt algorithm by adding geodesic acceleration to the usual step.",
+            "Why are nonlinear fits to data so challenging?",
+            "Mark K Transtrum and Benjamin B Machta and James P Sethna",
+            "2010",
+            "YtfPZDAAAAAJ:u5HHmVD_uO8C",
+            158,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.104.060201",
+            "3909923294379867464",
+            "\/scholar?cites=3909923294379867464",
+            {
+                "2010":1,
+                "2011":12,
+                "2012":7,
+                "2013":5,
+                "2014":12,
+                "2015":24,
+                "2016":19,
+                "2017":19,
+                "2018":19,
+                "2019":22,
+                "2020":16,
+                "2021":2
+            }
+        ],
+        [
+            "Parameter estimation by nonlinear least-squares minimization is a common problem that has an elegant geometric interpretation: the possible parameter values of a model induce a manifold within the space of data predictions. The minimization problem is then to find the point on the manifold closest to the experimental data. We show that the model manifolds of a large class of models, known as sloppy models, have many universal features; they are characterized by a geometric series of widths, extrinsic curvatures, and parameter-effect curvatures, which we describe as a hyper-ribbon. A number of common difficulties in optimizing least-squares problems are due to this common geometric structure. First, algorithms tend to run into the boundaries of the model manifold, causing parameters to diverge or become unphysical before they have been optimized. We introduce the model graph as an extension of the \u2026",
+            "Geometry of nonlinear least squares with applications to sloppy models and optimization",
+            "Mark K Transtrum and Benjamin B Machta and James P Sethna",
+            "2011",
+            "YtfPZDAAAAAJ:u-x6o8ySG0sC",
+            148,
+            "https:\/\/journals.aps.org\/pre\/abstract\/10.1103\/PhysRevE.83.036701",
+            "12134469638540532087",
+            "\/scholar?cites=12134469638540532087",
+            {
+                "2011":7,
+                "2012":9,
+                "2013":7,
+                "2014":9,
+                "2015":7,
+                "2016":17,
+                "2017":23,
+                "2018":26,
+                "2019":22,
+                "2020":18,
+                "2021":3
+            }
+        ],
+        [
+            "When minimizing a nonlinear least-squares function, the Levenberg-Marquardt algorithm can suffer from a slow convergence, particularly when it must navigate a narrow canyon en route to a best fit. On the other hand, when the least-squares function is very flat, the algorithm may easily become lost in parameter space. We introduce several improvements to the Levenberg-Marquardt algorithm in order to improve both its convergence speed and robustness to initial parameter guesses. We update the usual step to include a geodesic acceleration correction term, explore a systematic way of accepting uphill steps that may increase the residual sum of squares due to Umrigar and Nightingale, and employ the Broyden method to update the Jacobian matrix. We test these changes by comparing their performance on a number of test problems with standard implementations of the algorithm. We suggest that these two particular challenges, slow convergence and robustness to initial guesses, are complimentary problems. Schemes that improve convergence speed often make the algorithm less robust to the initial guess, and vice versa. We provide an open source implementation of our improvements that allow the user to adjust the algorithm parameters to suit particular needs.",
+            "Improvements to the Levenberg-Marquardt algorithm for nonlinear least-squares minimization",
+            "Mark K Transtrum and James P Sethna",
+            "2012",
+            "YtfPZDAAAAAJ:LkGwnXOMwfcC",
+            138,
+            "https:\/\/arxiv.org\/abs\/1201.5885",
+            "11484325907451858975",
+            "\/scholar?cites=11484325907451858975",
+            {
+                "2012":1,
+                "2013":2,
+                "2014":14,
+                "2015":14,
+                "2016":26,
+                "2017":23,
+                "2018":25,
+                "2019":14,
+                "2020":14,
+                "2021":2
+            }
+        ],
+        [
+            "Understanding the collective behavior of complex systems from their basic components is a difficult yet fundamental problem in science. Existing model reduction techniques are either applicable under limited circumstances or produce \u201cblack boxes\u201d disconnected from the microscopic physics. We propose a new approach by translating the model reduction problem for an arbitrary statistical model into a geometric problem of constructing a low-dimensional, submanifold approximation to a high-dimensional manifold. When models are overly complex, we use the observation that the model manifold is bounded with a hierarchy of widths and propose using the boundaries as submanifold approximations. We refer to this approach as the manifold boundary approximation method. We apply this method to several models, including a sum of exponentials, a dynamical systems model of protein signaling, and a \u2026",
+            "Model reduction by manifold boundaries",
+            "Mark K Transtrum and Peng Qiu",
+            "2014",
+            "YtfPZDAAAAAJ:ULOm3_A8WrAC",
+            85,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.113.098701",
+            "9090917662566383566",
+            "\/scholar?cites=9090917662566383566",
+            {
+                "2014":1,
+                "2015":4,
+                "2016":12,
+                "2017":18,
+                "2018":19,
+                "2019":20,
+                "2020":10,
+                "2021":1
+            }
+        ],
+        [
+            "We study the superheating field of a bulk superconductor within Ginzburg-Landau theory, which is valid near the critical temperature. We calculate, as functions of the Ginzburg-Landau parameter \u03ba, the superheating field H sh and the critical momentum k c characterizing the wavelength of the instability of the Meissner state to flux penetration. By mapping the two-dimensional linear stability theory into a one-dimensional eigenfunction problem for an ordinary differential equation, we solve the problem numerically. We demonstrate agreement between the numerics and analytics, and show convergence to the known results at both small and large \u03ba. We discuss the implications of the results for superconducting rf cavities used in particle accelerators.",
+            "Superheating field of superconductors within Ginzburg-Landau theory",
+            "Mark K Transtrum and Gianluigi Catelani and James P Sethna",
+            "2011",
+            "YtfPZDAAAAAJ:d1gkVwhDpl0C",
+            74,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.83.094505",
+            "8436552261161763919",
+            "\/scholar?cites=8436552261161763919",
+            {
+                "2011":4,
+                "2012":5,
+                "2013":8,
+                "2014":6,
+                "2015":6,
+                "2016":5,
+                "2017":11,
+                "2018":4,
+                "2019":9,
+                "2020":14,
+                "2021":2
+            }
+        ],
+        [
+            "The spin-transfer-torque effect is predicted and subsequently demonstrated in a giant magnetoresistive (GMR) structure with current-perpendicular-to-plane geometry. In this work, we report that an unconventional out-of-plane magnetic field is created and exerts torque on a free magnet while in-plane current flows through the GMR sample. This strong effective magnetic field completely dominates the dampinglike torque which is expected to arise due to the anomalous Hall effect of a ferromagnet (analogous to the spin Hall effect in heavy metal). This anomalous magnetic field shows a very unusual angular dependence, which indicates broken-mirror symmetry in the lateral dimension. This anomalous torque may open an additional functionality for memory application.",
+            "Observation of anomalous spin torque generated by a ferromagnet",
+            "Arnab Bose and Duc Duong Lam and Swapnil Bhuktare and Sutapa Dutta and Hanuman Singh and Y Jibiki and M Goto and S Miwa and AA Tulapurkar",
+            "2018",
+            "YtfPZDAAAAAJ:k_IJM867U9cC",
+            67,
+            "https:\/\/journals.aps.org\/prapplied\/abstract\/10.1103\/PhysRevApplied.9.064026",
+            "10521126217577527212",
+            "\/scholar?cites=10521126217577527212",
+            {
+                "2015":1,
+                "2016":2,
+                "2017":1,
+                "2018":11,
+                "2019":24,
+                "2020":25,
+                "2021":3
+            }
+        ],
+        [
+            "Control of protein homeostasis is fundamental to the health and longevity of all organisms. Because the rate of protein synthesis by ribosomes is a central control point in this process, regulation, and maintenance of ribosome function could have amplified importance in the overall regulatory circuit. Indeed, ribosomal defects are commonly associated with loss of protein homeostasis, aging, and disease (1, 2, 3, 4), whereas improved protein homeostasis, implying optimal ribosomal function, is associated with disease resistance and increased lifespan (5, 6, 7). To maintain a high-quality ribosome population within the cell, dysfunctional ribosomes are targeted for autophagic degradation. It is not known if complete degradation is the only mechanism for eukaryotic ribosome maintenance or if they might also be repaired by replacement of defective components. We used stable-isotope feeding and protein mass \u2026",
+            "Mechanisms of in vivo ribosome maintenance change in response to nutrient signals",
+            "Andrew D Mathis and Bradley C Naylor and Richard H Carson and Eric Evans and Justin Harwell and Jared Knecht and Eric Hexem and Fredrick F Peelor III and Benjamin F Miller and Karyn L Hamilton and Mark K Transtrum and Benjamin T Bikman and John C Price",
+            "2017",
+            "YtfPZDAAAAAJ:ldfaerwXgEUC",
+            47,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S1535947620324397",
+            "12722733353658440303",
+            "\/scholar?cites=12722733353658440303",
+            {
+                "2017":4,
+                "2018":15,
+                "2019":13,
+                "2020":13,
+                "2021":2
+            }
+        ],
+        [
+            "Superconducting radio frequency (srf) cavities, essential components of many large particle accelerators, rely on the metastable flux-free state of superconducting materials. In this Letter, we present results of experiments measuring the magnetic field limits of two srf materials, Nb and Nb 3 Sn. Resonators made using these materials were probed using both high power rf pulses and dc magnetic fields. Nb, which is the current standard material for srf cavities in applications, was found to be limited by the superheating field H sh when prepared using methods to avoid excessive rf dissipation at high fields. Nb 3 Sn, which is a promising alternative material that is still in the early stages of development for srf purposes, was found to be limited between the onset field of metastability H c 1 and H sh. Analysis of the results shows that the limitation is consistent with nucleation of flux penetration at defects in the rf layer.",
+            "Radio Frequency Magnetic Field Limits of Nb and ",
+            "S Posen and N Valles and M Liepe",
+            "2015",
+            "YtfPZDAAAAAJ:maZDTaKrznsC",
+            46,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.115.047001",
+            "14848851538198225364",
+            "\/scholar?cites=14848851538198225364",
+            {
+                "2014":1,
+                "2015":1,
+                "2016":4,
+                "2017":6,
+                "2018":9,
+                "2019":8,
+                "2020":16,
+                "2021":1
+            }
+        ]
+    ]
+}

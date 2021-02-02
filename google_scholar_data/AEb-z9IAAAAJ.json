@@ -1,0 +1,104 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "AEb-z9IAAAAJ",
+            "Evan Stewart",
+            "Assistant Professor, University of Massachusetts Boston",
+            "@umb.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=AEb-z9IAAAAJ",
+            272,
+            [
+                "political sociology",
+                "cultural sociology",
+                "public opinion",
+                "religion",
+                "secularism"
+            ],
+            272,
+            7,
+            7,
+            5,
+            5,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fxXRi0IAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Penny Edgell",
+                    "affiliation":"Professor of Sociology, University of Minnesota"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"z2nzbbwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Douglas Hartmann",
+                    "affiliation":"Professor and Chair of Sociology, University of Minnesota"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"rwOPJzQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Joseph Gerteis",
+                    "affiliation":"University of Minnesota"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3_qm3IgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jack Delehanty",
+                    "affiliation":"Clark University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"WWcAKu4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jacqui Frost",
+                    "affiliation":"Postdoctoral Fellow, Rice University"
+                }
+            ]
+        ]
+    ]
+}

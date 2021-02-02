@@ -1,0 +1,237 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Leaf venation is a pervasive example of a complex biological network, endowing leaves with a transport system and mechanical resilience. Transport networks optimized for efficiency have been shown to be trees, ie, loopless. However, dicotyledon leaf venation has a large number of closed loops, which are functional and able to transport fluid in the event of damage to any vein, including the primary veins. Inspired by leaf venation, we study two possible reasons for the existence of a high density of loops in transport networks: resilience to damage and fluctuations in load. In the first case, we seek the optimal transport network in the presence of random damage by averaging over damage to each link. In the second case, we seek the network that optimizes transport when the load is sparsely distributed: at any given time most sinks are closed. We find that both criteria lead to the presence of loops in the optimum state.",
+            "Damage and fluctuations induce loops in optimal transport networks",
+            "Eleni Katifori and Gergely J Sz\u00f6ll\u0151si and Marcelo O Magnasco",
+            "2010",
+            "2ETz5HcAAAAJ:u5HHmVD_uO8C",
+            255,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.104.048704",
+            "454775162039679693",
+            "\/scholar?cites=454775162039679693",
+            {
+                "2010":7,
+                "2011":14,
+                "2012":16,
+                "2013":16,
+                "2014":19,
+                "2015":16,
+                "2016":34,
+                "2017":40,
+                "2018":32,
+                "2019":22,
+                "2020":32,
+                "2021":5
+            }
+        ],
+        [
+            "Upon release from the anther, pollen grains of angiosperm flowers are exposed to a dry environment and dehydrate. To survive this process, pollen grains possess a variety of physiological and structural adaptations. Perhaps the most striking of these adaptations is the ability of the pollen wall to fold onto itself to prevent further desiccation. Roger P. Wodehouse coined the term harmomegathy for this folding process in recognition of the critical role it plays in the survival of the pollen grain. There is still, however, no quantitative theory that explains how the structure of the pollen wall contributes to harmomegathy. Here we demonstrate that simple geometrical and mechanical principles explain how wall structure guides pollen grains toward distinct folding pathways. We found that the presence of axially elongated apertures of high compliance is critical for achieving a predictable and reversible folding pattern \u2026",
+            "Foldable structures and the natural design of pollen grains",
+            "Eleni Katifori and Silas Alben and Enrique Cerda and David R Nelson and Jacques Dumais",
+            "2010",
+            "2ETz5HcAAAAJ:u-x6o8ySG0sC",
+            222,
+            "https:\/\/www.pnas.org\/content\/107\/17\/7635.short",
+            "11100501410487367618",
+            "\/scholar?cites=11100501410487367618",
+            {
+                "2010":2,
+                "2011":10,
+                "2012":18,
+                "2013":21,
+                "2014":16,
+                "2015":25,
+                "2016":30,
+                "2017":21,
+                "2018":23,
+                "2019":24,
+                "2020":25,
+                "2021":4
+            }
+        ],
+        [
+            "Highly optimized complex transport networks serve crucial functions in many man-made and natural systems such as power grids and plant or animal vasculature. Often, the relevant optimization functional is nonconvex and characterized by many local extrema. In general, finding the global, or nearly global optimum is difficult. In biological systems, it is believed that such an optimal state is slowly achieved through natural selection. However, general coarse grained models for flow networks with local positive feedback rules for the vessel conductivity typically get trapped in low efficiency, local minima. In this work we show how the growth of the underlying tissue, coupled to the dynamical equations for network development, can drive the system to a dramatically improved optimal state. This general model provides a surprisingly simple explanation for the appearance of highly optimized transport networks in biology \u2026",
+            "Global optimization, local adaptation, and the role of growth in distribution networks",
+            "Henrik Ronellenfitsch and Eleni Katifori",
+            "2016",
+            "2ETz5HcAAAAJ:mVmsd5A6BfQC",
+            72,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.117.138301",
+            "17037949650176710982",
+            "\/scholar?cites=17037949650176710982",
+            {
+                "2016":3,
+                "2017":14,
+                "2018":13,
+                "2019":15,
+                "2020":25,
+                "2021":2
+            }
+        ],
+        [
+            "Biology presents many examples of planar distribution and structural networks having dense sets of closed loops. An archetype of this form of network organization is the vasculature of dicotyledonous leaves, which showcases a hierarchically-nested architecture containing closed loops at many different levels. Although a number of approaches have been proposed to measure aspects of the structure of such networks, a robust metric to quantify their hierarchical organization is still lacking. We present an algorithmic framework, the hierarchical loop decomposition, that allows mapping loopy networks to binary trees, preserving in the connectivity of the trees the architecture of the original graph. We apply this framework to investigate computer generated graphs, such as artificial models and optimal distribution networks, as well as natural graphs extracted from digitized images of dicotyledonous leaves and vasculature of rat cerebral neocortex. We calculate various metrics based on the asymmetry, the cumulative size distribution and the Strahler bifurcation ratios of the corresponding trees and discuss the relationship of these quantities to the architectural organization of the original graphs. This algorithmic framework decouples the geometric information (exact location of edges and nodes) from the metric topology (connectivity and edge weight) and it ultimately allows us to perform a quantitative statistical comparison between predictions of theoretical models and naturally occurring loopy graphs.",
+            "Quantifying loopy network architectures",
+            "Eleni Katifori and Marcelo O Magnasco",
+            "2012",
+            "2ETz5HcAAAAJ:9yKSN-GCB0IC",
+            66,
+            "https:\/\/journals.plos.org\/plosone\/article?id=10.1371\/journal.pone.0037994",
+            "12639949106240633081",
+            "\/scholar?cites=12639949106240633081",
+            {
+                "2012":1,
+                "2013":6,
+                "2014":8,
+                "2015":3,
+                "2016":11,
+                "2017":3,
+                "2018":9,
+                "2019":9,
+                "2020":12,
+                "2021":3
+            }
+        ],
+        [
+            "Supply and transport networks support much of our technical infrastructure as well as many biological processes. Their reliable function is thus essential for all aspects of life. Transport processes involving quantities beyond the pure loads exhibit alternative collective dynamical options compared to processes exclusively characterized by loads. Here we analyze the stability and bifurcations in oscillator models describing electric power grids and demonstrate that these networks exhibit instabilities without overloads. This phenomenon may well emerge also in other sufficiently complex supply or transport networks, including biological transport processes.",
+            "Supply networks: Instabilities without overload",
+            "Debsankha Manik and Dirk Witthaut and Benjamin Sch\u00e4fer and Moritz Matthiae and Andreas Sorge and Martin Rohden and Eleni Katifori and Marc Timme",
+            "2014",
+            "2ETz5HcAAAAJ:8k81kl-MbHgC",
+            52,
+            "https:\/\/link.springer.com\/article\/10.1140\/epjst\/e2014-02274-y",
+            "7251995863216845766",
+            "\/scholar?cites=7251995863216845766",
+            {
+                "2015":8,
+                "2016":10,
+                "2017":9,
+                "2018":12,
+                "2019":9,
+                "2020":3
+            }
+        ],
+        [
+            "We study the behavior of thin elastic sheets that are bent and strained under a weak, smooth confinement. We show that the emerging shapes exhibit the coexistence of two types of domains. A focused-stress patch is subject to a geometric, piecewise-inextensibility constraint, whereas a diffuse-stress region is characterized by a mechanical constraint\u2014the dominance of a single component of the stress tensor. We discuss the implications of our findings for the analysis of elastic sheets under various types of forcing.",
+            "Elastic building blocks for confined sheets",
+            "Robert D Schroll and Eleni Katifori and Benny Davidovitch",
+            "2011",
+            "2ETz5HcAAAAJ:d1gkVwhDpl0C",
+            45,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.106.074301",
+            "1686248558648841874",
+            "\/scholar?cites=1686248558648841874",
+            {
+                "2011":5,
+                "2012":7,
+                "2013":7,
+                "2014":3,
+                "2015":8,
+                "2016":3,
+                "2017":6,
+                "2018":3,
+                "2019":2,
+                "2020":1
+            }
+        ],
+        [
+            "Systematic studies of phenotypic diversity\u2014required for understanding evolution\u2014lag behind investigations of genetic diversity. Here we develop a quantitative approach to studying behavioral diversity, which we apply to swimming of the ciliate Tetrahymena. We measure the full-lifetime behavior of hundreds of individual organisms at high temporal resolution, over several generations and in diverse nutrient conditions. To characterize population diversity and temporal variability we introduce a unique statistical framework grounded in the notion of a phenotypic space of behaviors. We show that this space is effectively low dimensional with dimensions that correlate with a two-state \u201croaming and dwelling\u201d model of swimming behavior. Temporal variability over the lifetime of an individual is correlated with the fraction of time spent roaming whereas diversity between individuals is correlated with the speed of roaming \u2026",
+            "Behavioral diversity in microbes and low-dimensional phenotypic spaces",
+            "David Jordan and Seppe Kuehn and Eleni Katifori and Stanislas Leibler",
+            "2013",
+            "2ETz5HcAAAAJ:Y0pCki6q_DkC",
+            33,
+            "https:\/\/www.pnas.org\/content\/110\/34\/14018.short",
+            "1942563554505872354",
+            "\/scholar?cites=1942563554505872354",
+            {
+                "2014":3,
+                "2015":6,
+                "2016":2,
+                "2017":4,
+                "2018":4,
+                "2019":7,
+                "2020":7
+            }
+        ],
+        [
+            "The leaves of angiosperms contain highly complex venation networks consisting of recursively nested, hierarchically organized loops. We describe a new phenotypic trait of reticulate vascular networks based on the topology of the nested loops. This phenotypic trait encodes information orthogonal to widely used geometric phenotypic traits, and thus constitutes a new dimension in the leaf venation phenotypic space. We apply our metric to a database of 186 leaves and leaflets representing 137 species, predominantly from the Burseraceae family, revealing diverse topological network traits even within this single family. We show that topological information significantly improves identification of leaves from fragments by calculating a \u201cleaf venation fingerprint\u201d from topology and geometry. Further, we present a phenomenological model suggesting that the topological traits can be explained by noise effects unique to specimen during development of each leaf which leave their imprint on the final network. This work opens the path to new quantitative identification techniques for leaves which go beyond simple geometric traits such as vein density and is directly applicable to other planar or sub-planar networks such as blood vessels in the brain.",
+            "Topological phenotypes constitute a new dimension in the phenotypic space of leaf venation networks",
+            "Henrik Ronellenfitsch and Jana Lasser and Douglas C Daly and Eleni Katifori",
+            "2015",
+            "2ETz5HcAAAAJ:ULOm3_A8WrAC",
+            32,
+            "https:\/\/journals.plos.org\/ploscompbiol\/article?id=10.1371\/journal.pcbi.1004680",
+            "18059396858029011045",
+            "\/scholar?cites=18059396858029011045",
+            {
+                "2016":3,
+                "2017":8,
+                "2018":6,
+                "2019":5,
+                "2020":9,
+                "2021":1
+            }
+        ],
+        [
+            "A thin elastic sheet lying on a soft substrate develops wrinkled patterns when subject to an external forcing or as a result of geometric incompatibility. Thin sheet elasticity and substrate response equip such wrinkles with a global preferred wrinkle spacing length and with resistance to wrinkle curvature. These features are responsible for the liquid crystalline smectic-like behaviour of such systems at intermediate length scales. This insight allows better understanding of the wrinkling patterns seen in such systems, with which we explain pattern breaking into domains, the properties of domain walls and wrinkle undulation. We compare our predictions with numerical simulations and with experimental observations.",
+            "The smectic order of wrinkles",
+            "Hillel Aharoni and Desislava V Todorova and Octavio Albarr\u00e1n and Lucas Goehring and Randall D Kamien and Eleni Katifori",
+            "2017",
+            "2ETz5HcAAAAJ:TQgYirikUcIC",
+            23,
+            "https:\/\/www.nature.com\/articles\/ncomms15809",
+            "2907388859218327804",
+            "\/scholar?cites=2907388859218327804",
+            {
+                "2017":2,
+                "2018":3,
+                "2019":8,
+                "2020":10
+            }
+        ],
+        [
+            "The phloem vascular system facilitates transport of energy-rich sugar and signalling molecules in plants, thus permitting long-range communication within the organism and growth of non-photosynthesizing organs such as roots and fruits. The flow is driven by osmotic pressure, generated by differences in sugar concentration between distal parts of the plant. The phloem is an intricate distribution system, and many questions about its regulation and structural diversity remain unanswered. Here, we investigate the phloem structure in the simplest possible geometry: a linear leaf, found, for example, in the needles of conifer trees. We measure the phloem structure in four tree species representing a diverse set of habitats and needle sizes, from 1 (Picea omorika) to 35 cm (Pinus palustris). We show that the phloem shares common traits across these four species and find that the size of its conductive elements obeys a \u2026",
+            "Scaling of phloem structure and optimality of photoassimilate transport in conifer needles",
+            "Henrik Ronellenfitsch and Johannes Liesche and Kaare H Jensen and N Michele Holbrook and Alexander Schulz and Eleni Katifori",
+            "2015",
+            "2ETz5HcAAAAJ:5nxA0vEk-isC",
+            23,
+            "https:\/\/royalsocietypublishing.org\/doi\/abs\/10.1098\/rspb.2014.1863",
+            "8318800505088490559",
+            "\/scholar?cites=8318800505088490559",
+            {
+                "2015":1,
+                "2016":4,
+                "2017":5,
+                "2018":6,
+                "2019":5,
+                "2020":2
+            }
+        ]
+    ]
+}

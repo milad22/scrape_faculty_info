@@ -1,0 +1,148 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "hMX2dd8AAAAJ",
+            "Peter Arnold",
+            "Professor of Physics, University of Virginia",
+            "@virginia.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=hMX2dd8AAAAJ",
+            12013,
+            [
+                "particle theory"
+            ],
+            3082,
+            49,
+            28,
+            84,
+            53,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"gcwcrdoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Laurence Yaffe",
+                    "affiliation":"Professor of Physics, University of Washington"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"msAjTUgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Diana Vaman",
+                    "affiliation":"U Virginia"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"F9j_eDYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"M. H. Reno",
+                    "affiliation":"Professor, Dept. of Physics and Astronomy, University of Iowa"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"roP6pOgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Chengxing Zhai",
+                    "affiliation":"Technologist, Jet Propulsion Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"OusG7GcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Joaqu\u00edn E. Drut",
+                    "affiliation":"Associate Professor and Melchor Fellow, University of North Carolina"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"k6HwoO8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Wilke van der Schee",
+                    "affiliation":"Postdoc, CERN"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ZM9wLcsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Paul Romatschke",
+                    "affiliation":"University of Colorado, Boulder"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"rEE3N-4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Bedaque, Paulo",
+                    "affiliation":"University of Maryland"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Nel_nzgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sean Cantrell",
+                    "affiliation":"NLS Analytics, JHU, Excella Consulting"
+                }
+            ]
+        ]
+    ]
+}

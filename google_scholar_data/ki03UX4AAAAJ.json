@@ -1,0 +1,52 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "ki03UX4AAAAJ",
+            "Stuart Pittel",
+            "Department of Physics and Astronomy, University of Delaware",
+            "@bartol.udel.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=ki03UX4AAAAJ",
+            5161,
+            [
+                "Nuclear Physics"
+            ],
+            908,
+            34,
+            16,
+            79,
+            22,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"TesZhakAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alejandro Frank",
+                    "affiliation":"Instituto de Ciencias Nucleares, UNAM"
+                }
+            ]
+        ]
+    ]
+}

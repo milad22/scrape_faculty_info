@@ -1,0 +1,231 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "There is a prevailing and widely adopted view that carbon nanotubes, which are finding considerable application in energy, healthcare, and electronics applications, are highly (electro)catalytically inert unless modified, doped, or defected. By visualizing the electrochemical reduction of oxygen (hydrogen peroxide generation) at high resolution along pristine (defect-free) regions of individual single-walled carbon nanotubes, we show that there is, in fact, significant activity comparable to that of standard gold electrocatalysts. Moreover, the activity is greatly enhanced at strained (kinked) sites and regions modified by oxidation. Single-walled carbon nanotubes are thus effective electrocatalysts in their own right and not just supports for other materials.",
+            "Nanoscale electrocatalysis: visualizing oxygen reduction at pristine, kinked, and oxidized sites on individual carbon nanotubes",
+            "Joshua C Byers and Aleix G Gu\u0308ell and Patrick R Unwin",
+            "2014",
+            "EjRsWnQAAAAJ:2osOgNQ5qMEC",
+            95,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/ja505708y",
+            "4056597905455811931",
+            "\/scholar?cites=4056597905455811931",
+            {
+                "2014":2,
+                "2015":16,
+                "2016":18,
+                "2017":11,
+                "2018":22,
+                "2019":12,
+                "2020":13,
+                "2021":1
+            }
+        ],
+        [
+            "The design, development, and application of high-speed scanning electrochemical probe microscopy is reported. The approach allows the acquisition of a series of high-resolution images (typically 1000 pixels \u03bcm\u20132) at rates approaching 4 seconds per frame, while collecting up to 8000 image pixels per second, about 1000 times faster than typical imaging speeds used up to now. The focus is on scanning electrochemical cell microscopy (SECCM), but the principles and practicalities are applicable to many electrochemical imaging methods. The versatility of the high-speed scan concept is demonstrated at a variety of substrates, including imaging the electroactivity of a patterned self-assembled monolayer on gold, visualization of chemical reactions occurring at single wall carbon nanotubes, and probing nanoscale electrocatalysts for water splitting. These studies provide movies of spatial variations of \u2026",
+            "High-speed electrochemical imaging",
+            "Dmitry Momotenko and Joshua C Byers and Kim McKelvey and Minkyung Kang and Patrick R Unwin",
+            "2015",
+            "EjRsWnQAAAAJ:eQOLeE2rZwMC",
+            69,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acsnano.5b02792",
+            "5243395279587950301",
+            "\/scholar?cites=5243395279587950301",
+            {
+                "2016":12,
+                "2017":15,
+                "2018":20,
+                "2019":12,
+                "2020":9,
+                "2021":1
+            }
+        ],
+        [
+            "Nanopipets are versatile tools for nanoscience, particularly when used in scanning ion conductance microscopy (SICM) to determine, in a noncontact manner, the topography of a sample. We present a new method, applying an oscillating bias between a quasi-reference counter electrode (QRCE) in the SICM nanopipet probe and a second QRCE in the bulk solution, to generate a feedback signal to control the distance between the end of a nanopipet and a surface. Both the amplitude and phase of the oscillating ion current, induced by the oscillating bias and extracted using a phase-sensitive detector, are shown to be sensitive to the probe\u2013surface distance and are used to provide stable feedback signals. The phase signal is particularly sensitive at high frequencies of the oscillating bias (up to 30 kHz herein). This development eliminates the need to physically oscillate the probe to generate an oscillating ion \u2026",
+            "Bias modulated scanning ion conductance microscopy",
+            "Kim McKelvey and David Perry and Joshua C Byers and Alex W Colburn and Patrick R Unwin",
+            "2014",
+            "EjRsWnQAAAAJ:9yKSN-GCB0IC",
+            55,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/ac5003118",
+            "3758396394430970229",
+            "\/scholar?cites=3758396394430970229",
+            {
+                "2013":1,
+                "2014":3,
+                "2015":10,
+                "2016":10,
+                "2017":7,
+                "2018":9,
+                "2019":6,
+                "2020":8
+            }
+        ],
+        [
+            "Intensity modulated photocurrent (IMPS) and photovoltage (IMVS) spectroscopies were used to study the mechanism of photoprocesses in P3HT:PCBM bulk heterojunction organic solar cells at various light intensities. The use of the frequency domain techniques allowed us to separate the bulk and interfacial processes and gain a valuable insight into the mechanism of losses in these devices. The results provide direct evidence that interfacial nongeminate recombination is one of the dominant loss and aging mechanisms in bulk heterojunction organic solar cells. The trapping of photoexcited holes in the P3HT phase was found to contribute to the increased recombination rate. The results suggest that promising ways of improving the efficiency of bulk heterojunction solar cells may be reducing the charge trapping both at and near the P3HT:PCBM interface, as well as improving the efficiency of charge extraction at \u2026",
+            "Mechanism of recombination losses in bulk heterojunction P3HT: PCBM solar cells studied using intensity modulated photocurrent spectroscopy",
+            "Joshua C Byers and Scott Ballantyne and Konstantin Rodionov and Alex Mann and OA Semenikhin",
+            "2011",
+            "EjRsWnQAAAAJ:u5HHmVD_uO8C",
+            53,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/am100998t",
+            "1352752531062802233",
+            "\/scholar?cites=1352752531062802233",
+            {
+                "2011":2,
+                "2012":4,
+                "2013":6,
+                "2014":6,
+                "2015":5,
+                "2016":9,
+                "2017":7,
+                "2018":2,
+                "2019":7,
+                "2020":4,
+                "2021":1
+            }
+        ],
+        [
+            "The fabrication and use of a multifunctional electrochemical probe incorporating two independent carbon working electrodes and two electrolyte-filled barrels, equipped with quasi-reference counter electrodes (QRCEs), in the end of a tapered micrometer-scale pipet is described. This \u201cquad-probe\u201d (4-channel probe) was fabricated by depositing carbon pyrolytically into two diagonally opposite barrels of a laser-pulled quartz quadruple-barrelled pipet. After filling the open channels with electrolyte solution, a meniscus forms at the end of the probe and covers the two working electrodes. The two carbon electrodes can be used to drive local electrochemical reactions within the meniscus while a bias between the QRCEs in the electrolyte channels provides an ion conductance signal that is used to control and position the meniscus on a surface of interest. When brought into contact with a surface, localized high \u2026",
+            "Quad-barrel multifunctional electrochemical and ion conductance probe for voltammetric analysis and imaging",
+            "Binoy Paulose Nadappuram and Kim McKelvey and Joshua C Byers and Aleix G Gu\u0308ell and Alex W Colburn and Robert A Lazenby and Patrick R Unwin",
+            "2015",
+            "EjRsWnQAAAAJ:W7OEmFMy1HYC",
+            45,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acs.analchem.5b00379",
+            "14596268179243370957",
+            "\/scholar?cites=14596268179243370957",
+            {
+                "2015":3,
+                "2016":14,
+                "2017":8,
+                "2018":10,
+                "2019":3,
+                "2020":7
+            }
+        ],
+        [
+            "Single molecule electrochemical detection (SMED) is an extremely challenging aspect of electroanalytical chemistry, requiring unconventional electrochemical cells and measurements. Here, SMED is reported using a \u201cquad-probe\u201d (four-channel probe) pipet cell, fabricated by depositing carbon pyrolytically into two diagonally opposite barrels of a laser-pulled quartz quadruple-barreled pipet and filling the open channels with electrolyte solution, and quasi-reference counter electrodes. A meniscus forms at the end of the probe covering the two working electrodes and is brought into contact with a substrate working electrode surface. In this way, a nanogap cell is produced whereby the two carbon electrodes in the pipet can be used to promote redox cycling of an individual molecule with the substrate. Anticorrelated currents generated at the substrate and tip electrodes, at particular distances (typically tens of \u2026",
+            "Single molecule electrochemical detection in aqueous solutions and ionic liquids",
+            "Joshua C Byers and Binoy Paulose Nadappuram and David Perry and Kim McKelvey and Alex W Colburn and Patrick R Unwin",
+            "2015",
+            "EjRsWnQAAAAJ:WF5omc3nYNoC",
+            41,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acs.analchem.5b02569",
+            "5493795907236458718",
+            "\/scholar?cites=5493795907236458718",
+            {
+                "2016":17,
+                "2017":3,
+                "2018":9,
+                "2019":6,
+                "2020":5
+            }
+        ],
+        [
+            "Differentiation of pluripotent and lineage restricted stem cells such as neural stem cells (NSCs) was studied on conducting substrates of various nature without perturbation of the genome with exogenous genetic material or chemical stimuli. Primary mouse adult neural stem cells (NSCs) and P19 pluripotent embryonal (P19 EC) carcinoma cells were used. Expression levels of neuronal markers \u03b2-III-tubulin and neurofilament were evaluated by immunochemistry and flow cytometry. It was shown that the ability of the substrate to induce differentiation directly correlated with its conductivity. Conducting substrates (conducting oxides or doped \u03c0-conjugated organic polymers) with different morphology, structure, and conductivity mechanisms all promoted differentiation of NSC and P19 cells into neuronal lineage to a similar degree without use of additional factors such as poly-l-ornithine coating or retinoic acid, as verified \u2026",
+            "Directed differentiation of embryonic P19 cells and neural stem cells into neural lineage on conducting PEDOT\u2013PEG and ITO glass substrates",
+            "EA Ostrakhovitch and JC Byers and KD O\u2019Neil and OA Semenikhin",
+            "2012",
+            "EjRsWnQAAAAJ:d1gkVwhDpl0C",
+            37,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0003986112003050",
+            "2810693177398052548",
+            "\/scholar?cites=2810693177398052548",
+            {
+                "2013":2,
+                "2014":3,
+                "2015":5,
+                "2016":8,
+                "2017":5,
+                "2018":4,
+                "2019":4,
+                "2020":5,
+                "2021":1
+            }
+        ],
+        [
+            "Semiconductor photocatalysis has emerged as an efficient and sustainable advanced oxidation process for wastewater treatment and other environmental remediation and forms the basis for water splitting and solar-to-fuel conversion. Nanocrystalline metal oxides are particularly promising photocatalysts because of their efficiency, stability, and low toxicity. However, the influence of the crystal structure and defects on the photocatalytic activity of these polymorphic materials is still poorly understood. In this work we investigated the structural dependence of the photocatalytic activity of nanocrystalline Ga2O3. We demonstrate that metastable cubic-phase \u03b3-Ga2O3 prepared from colloidal nanocrystals exhibits an anomalously high photocatalytic activity, which rapidly decreases upon thermally induced transformation to monoclinic \u03b2-Ga2O3. Using steady-state and time-resolved photoluminescence measurements we \u2026",
+            "Anomalous Photocatalytic Activity of Nanocrystalline \u03b3-Phase Ga2O3 Enabled by Long-Lived Defect Trap States",
+            "Vahid Ghodsi and Susi Jin and Joshua C Byers and Yi Pan and Pavle V Radovanovic",
+            "2017",
+            "EjRsWnQAAAAJ:roLk4NBRz8UC",
+            28,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acs.jpcc.7b02275",
+            "16812048095445105769",
+            "\/scholar?cites=16812048095445105769",
+            {
+                "2017":2,
+                "2018":11,
+                "2019":5,
+                "2020":8,
+                "2021":2
+            }
+        ],
+        [
+            "The development of techniques for nanoscale structure\u2013activity correlations is of major importance for the fundamental understanding and rational design of (photo)electrocatalysts. However, the low conversion efficiency of characteristic materials generates tiny photoelectrochemical currents at the submicrometer to nanoscale, in the fA range, which are challenging to detect and measure accurately. Here, we report the coupling of scanning electrochemical cell microscopy (SECCM) with photoillumination, to create a submicrometer spatial resolution cell that opens up high resolution structure\u2013(photo)activity measurements. We demonstrate the capabilities of the technique as a tool for: (i) high spatial resolution (photo)activity mapping using an ionic liquid electrolyte at a thin film of TiO2 aggregates, commonly used as a photoanode in dye sensitized solar cells (DSSCs) and (ii) in situ (photo)activity measurements of \u2026",
+            "Scanning electrochemical cell microscopy platform for ultrasensitive photoelectrochemical imaging",
+            "Barak DB Aaronson and Joshua C Byers and Alex W Colburn and Kim McKelvey and Patrick R Unwin",
+            "2015",
+            "EjRsWnQAAAAJ:Tyk-4Ss8FVUC",
+            26,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acs.analchem.5b00288",
+            "7812991549638834743",
+            "\/scholar?cites=7812991549638834743",
+            {
+                "2015":1,
+                "2016":4,
+                "2017":7,
+                "2018":2,
+                "2019":9,
+                "2020":3
+            }
+        ],
+        [
+            "Carbon nitride films were deposited onto indium tin oxide and undoped polybithiophene substrates using direct-current reactive magnetron sputtering. The local morphology and electronic properties of the deposited films were investigated using phase-imaging (PI-AFM) and current-sensing atomic force microscopy (CS-AFM). The deposited materials were found to be generally amorphous with many individual nanostructured bonding domains. The nature of the substrate was found to have a significant effect on the microscopic distribution of carbon nitride regions with the carbon nitride films showing some long-range order when deposited onto an undoped polybithiophene substrate.",
+            "Atomic force microscopy studies of carbon nitride (CNx) films deposited on a conducting polymer substrate",
+            "JC Byers and P Tamiasso-Martinhon and C Deslouis and A Pailleret and OA Semenikhin",
+            "2010",
+            "EjRsWnQAAAAJ:u-x6o8ySG0sC",
+            23,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/jp103795c",
+            "11825939462376374417",
+            "\/scholar?cites=11825939462376374417",
+            {
+                "2011":1,
+                "2012":4,
+                "2013":2,
+                "2014":2,
+                "2015":3,
+                "2016":3,
+                "2017":3,
+                "2018":2,
+                "2019":3
+            }
+        ]
+    ]
+}

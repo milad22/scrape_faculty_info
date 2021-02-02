@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "JA7SUM5D",
+            "QSZ7takAAAAJ",
+            [
+                "Operational dynamic modeling transcending quantum and classical mechanics",
+                "Instantaneous multiphoton ionization rate and initial distribution of electron momentum",
+                "Efficient method to generate time evolution of the Wigner function for open quantum systems",
+                "Wigner phase-space distribution as a wave function",
+                "Two-electron ionization in strong laser fields below intensity threshold: Signatures of attosecond timing in correlated spectra",
+                "Time-resolved quantum process tomography using hamiltonian-encoding and observable-decoding",
+                "Wigner\u2013lindblad equations for quantum friction",
+                "Two-dimensional problem of two Coulomb centers at small intercenter distances",
+                "Dirac open-quantum-system dynamics: Formulations and simulations",
+                "Koopman wavefunctions and classical\u2013quantum correlation dynamics"
+            ],
+            [
+                "We introduce a general and systematic theoretical framework for operational dynamic modeling (ODM) by combining a kinematic description of a model with the evolution of the dynamical average values. The kinematics includes the algebra of the observables and their defined averages. The evolution of the average values is drawn in the form of Ehrenfest-like theorems. We show that ODM is capable of encompassing wide-ranging dynamics from classical non-relativistic mechanics to quantum field theory. The generality of ODM should provide a basis for formulating novel theories.",
+                "The Yudin-Ivanov formula [Phys. Rev. A 64, 013409 (2001)] is generalized such that the most general analytical expression for single-electron spectra, which includes the dependence on the instantaneous laser phase, is obtained within the strong field approximation. No assumptions on the momentum of the electron are made. Previously known formulas for single-electron spectra can be obtained as approximations to the general formula.",
+                "The Wigner function is a useful tool for exploring the transition between quantum and classical dynamics, as well as the behavior of quantum chaotic systems. Evolving the Wigner function for open systems has proved challenging, however; a variety of methods have been devised but suffer from being cumbersome and resource intensive. Here we present an efficient fast-Fourier method for evolving the Wigner function that has a complexity of O (N log N) where N is the size of the array storing the Wigner function. The efficiency, stability, and simplicity of this method allows us to simulate open-system dynamics previously thought to be prohibitively expensive. As a demonstration we simulate the dynamics of both one-particle and two-particle systems under various environmental interactions. For a single particle we also compare the resulting evolution with that of the classical Fokker\u2013Planck and Koopman\u2013von \u2026",
+                "We demonstrate that the Wigner function of a pure quantum state is a wave function in a specially tuned Dirac bra-ket formalism and argue that the Wigner function is in fact a probability amplitude for the quantum particle to be at a certain point of the classical phase space. Additionally, we establish that in the classical limit, the Wigner function transforms into a classical Koopman\u2013von Neumann wave function rather than into a classical probability distribution. Since probability amplitude need not be positive, our findings provide an alternative outlook on the Wigner function's negativity.",
+                "We develop an analytical model of correlated two-electron ionization in strong infrared laser fields. The model includes all relevant interactions between the electrons, the laser field, and the ionic core nonperturbatively. We focus on the deeply quantum regime, where the energy of the active electron driven by the laser field is insufficient to collisionally ionize the parent ion, and the assistance of the laser field is required to create a doubly charged ion. In this regime, the electron-electron and the electron-ion interactions leave distinct footprints in the correlated two-electron spectra, recording the mutual dynamics of the escaping electrons.",
+                "The Hamiltonian encoding observable decoding (HE-OD) technique is experimentally demonstrated for process tomography of laser-induced dynamics in atomic Rb vapor. With the assistance of a laser pulse truncation method, a time dependent reconstruction of the quantum evolution is achieved. HE-OD can perform full as well as partial process tomography with appropriate measurements to characterize the system. The latter feature makes HE-OD tomography suitable for analyzing quantum processes in complex systems.",
+                "Dissipative forces are ubiquitous and thus constitute an essential part of realistic physical theories. However, quantization of dissipation has remained an open challenge for nearly a century. We construct a quantum counterpart of classical friction, a velocity-dependent force acting against the direction of motion. In particular, a translationary invariant Lindblad equation is derived satisfying the appropriate dynamical relations for the coordinate and momentum (i.e., the Ehrenfest equations). Numerical simulations establish that the model approximately equilibrates. These findings significantly advance a long search for a universally valid Lindblad model of quantum friction and open opportunities for exploring novel dissipation phenomena.",
+                "We use analytic methods to analyze the discrete spectrum for the problem (Z1eZ2)2 in the united-atom limit (R \u226a 1) and obtain asymptotic expansions for the quantum defect and energy terms of the system (Z1eZ2)2 at small intercenter distances R up to terms of the order O(R6). We investigate the effect of the dimensionality factor on the energy spectrum of the hydrogen molecular ion H                   2 +                 .",
+                "We present an open-system interaction formalism for the Dirac equation. Overcoming a complexity bottleneck of alternative formulations, our framework enables efficient numerical simulations (utilizing a typical desktop) of relativistic dynamics within the von Neumann density matrix and Wigner phase-space descriptions. Employing these instruments, we gain important insights into the effect of quantum dephasing for relativistic systems in many branches of physics. In particular, the conditions for robustness of Majorana spinors against dephasing are established. Using the Klein paradox and tunneling as examples, we show that quantum dephasing does not suppress negative energy particle generation. Hence, the Klein dynamics is also robust to dephasing.",
+                "Upon revisiting the Hamiltonian structure of classical wavefunctions in Koopman\u2013von Neumann theory, this paper addresses the long-standing problem of formulating a dynamical theory of classical\u2013quantum coupling. The proposed model not only describes the influence of a classical system onto a quantum one, but also the reverse effect\u2014the quantum backreaction. These interactions are described by a new Hamiltonian wave equation overcoming shortcomings of currently employed models. For example, the density matrix of the quantum subsystem is always positive definite. While the Liouville density of the classical subsystem is generally allowed to be unsigned, its sign is shown to be preserved in time for a specific infinite family of hybrid classical\u2013quantum systems. The proposed description is illustrated and compared with previous theories using the exactly solvable model of a degenerate two-level \u2026"
+            ],
+            [
+                [
+                    "quantum physics"
+                ]
+            ]
+        ]
+    ]
+}

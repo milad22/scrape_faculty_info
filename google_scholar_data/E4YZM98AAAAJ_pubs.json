@@ -1,0 +1,236 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "BerkeleyGW is a massively parallel computational package for electron excited-state properties that is based on the many-body perturbation theory employing the ab initio GW and GW plus Bethe\u2013Salpeter equation methodology. It can be used in conjunction with many density-functional theory codes for ground-state properties, including PARATEC, PARSEC, Quantum ESPRESSO, SIESTA, and Octopus. The package can be used to compute the electronic and optical properties of a wide variety of material systems from bulk semiconductors and metals to nanostructured materials and molecules. The package scales to 10\u2009000s of CPUs and can be used to study systems containing up to 100s of atoms.Program title: BerkeleyGWCatalogue identifier: AELG_v1_0Program summary URL: http:\/\/cpc.cs.qub.ac.uk\/summaries\/AELG_v1_0.htmlProgram obtainable from: CPC Program Library, Queen\u02bcs \u2026",
+            "BerkeleyGW: A massively parallel computer package for the calculation of the quasiparticle and optical properties of materials and nanostructures",
+            "Jack Deslippe and Georgy Samsonidze and David A Strubbe and Manish Jain and Marvin L Cohen and Steven G Louie",
+            "2012",
+            "E4YZM98AAAAJ:eQOLeE2rZwMC",
+            581,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0010465511003912",
+            "1544179711519174035",
+            "\/scholar?cites=1544179711519174035",
+            {
+                "2012":13,
+                "2013":25,
+                "2014":50,
+                "2015":59,
+                "2016":79,
+                "2017":85,
+                "2018":81,
+                "2019":86,
+                "2020":93,
+                "2021":7
+            }
+        ],
+        [
+            "We have observed reversible light-induced mechanical switching for individual organic molecules bound to a metal surface. Scanning tunneling microscopy (STM) was used to image the features of individual azobenzene molecules on Au (111) before and after reversibly cycling their mechanical structure between trans and cis states using light. Azobenzene molecules were engineered to increase their surface photomechanical activity by attaching varying numbers of tert-butyl (TB) ligands (\u201clegs\u201d) to the azobenzene phenyl rings. STM images show that increasing the number of TB legs \u201clifts\u201d the azobenzene molecules from the substrate, thereby increasing molecular photomechanical activity by decreasing molecule-surface coupling.",
+            "Reversible photomechanical switching of individual engineered molecules at a metallic surface",
+            "Matthew J Comstock and Niv Levy and Armen Kirakosian and Jongweon Cho and Frank Lauterwasser and Jessica H Harvey and David A Strubbe and Jean MJ Fr\u00e9chet and Dirk Trauner and Steven G Louie and Michael F Crommie",
+            "2007",
+            "E4YZM98AAAAJ:u5HHmVD_uO8C",
+            412,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.99.038301",
+            "6191068002621266242",
+            "\/scholar?cites=6191068002621266242",
+            {
+                "2007":3,
+                "2008":27,
+                "2009":36,
+                "2010":59,
+                "2011":36,
+                "2012":37,
+                "2013":34,
+                "2014":38,
+                "2015":20,
+                "2016":22,
+                "2017":33,
+                "2018":21,
+                "2019":20,
+                "2020":24,
+                "2021":1
+            }
+        ],
+        [
+            "Real-space grids are a powerful alternative for the simulation of electronic systems. One of the main advantages of the approach is the flexibility and simplicity of working directly in real space where the different fields are discretized on a grid, combined with competitive numerical performance and great potential for parallelization. These properties constitute a great advantage at the time of implementing and testing new physical models. Based on our experience with the Octopus code, in this article we discuss how the real-space approach has allowed for the recent development of new ideas for the simulation of electronic systems. Among these applications are approaches to calculate response properties, modeling of photoemission, optimal control of quantum systems, simulation of plasmonic systems, and the exact solution of the Schr\u00f6dinger equation for low-dimensionality systems.",
+            "Real-space grids and the Octopus code as tools for the development of new simulation approaches for electronic systems",
+            "Xavier Andrade and David Strubbe and Umberto De Giovannini and Ask Hjorth Larsen and Micael JT Oliveira and Joseba Alberdi-Rodriguez and Alejandro Varas and Iris Theophilou and Nicole Helbig and Matthieu J Verstraete and Lorenzo Stella and Fernando Nogueira and Al\u00e1n Aspuru-Guzik and Alberto Castro and Miguel AL Marques and Angel Rubio",
+            "2015",
+            "E4YZM98AAAAJ:4TOpqqG69KYC",
+            317,
+            "https:\/\/pubs.rsc.org\/am\/content\/articlehtml\/2015\/cp\/c5cp00351b",
+            "13891191100397805023",
+            "\/scholar?cites=13891191100397805023",
+            {
+                "2014":1,
+                "2015":9,
+                "2016":36,
+                "2017":40,
+                "2018":74,
+                "2019":68,
+                "2020":80,
+                "2021":5
+            }
+        ],
+        [
+            "Octopus is a general-purpose density-functional theory (DFT) code, with a particular emphasis on the time-dependent version of DFT (TDDFT). In this paper we present the ongoing efforts to achieve the parallelization of octopus. We focus on the real-time variant of TDDFT, where the time-dependent Kohn\u2013Sham equations are directly propagated in time. This approach has great potential for execution in massively parallel systems such as modern supercomputers with thousands of processors and graphics processing units (GPUs).",
+            "Time-dependent density-functional theory in massively parallel computer architectures: the octopus project",
+            "Xavier Andrade and Joseba Alberdi-Rodriguez and David A Strubbe and Micael JT Oliveira and Fernando Nogueira and Alberto Castro and Javier Muguerza and Agustin Arruabarrena and Steven G Louie and Al\u00e1n Aspuru-Guzik and Angel Rubio and Miguel AL Marques",
+            "2012",
+            "E4YZM98AAAAJ:roLk4NBRz8UC",
+            228,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0953-8984\/24\/23\/233202\/meta",
+            "3099416885006609773",
+            "\/scholar?cites=3099416885006609773",
+            {
+                "2012":14,
+                "2013":22,
+                "2014":35,
+                "2015":38,
+                "2016":30,
+                "2017":22,
+                "2018":20,
+                "2019":18,
+                "2020":24,
+                "2021":1
+            }
+        ],
+        [
+            "Molybdenum disulfide (MoS 2) is one of the most broadly utilized solid lubricants with a wide range of applications, including but not limited to those in the aerospace\/space industry. Here we present a focused review of solid lubrication with MoS 2 by highlighting its structure, synthesis, applications and the fundamental mechanisms underlying its lubricative properties, together with a discussion of their environmental and temperature dependence. The review also includes an extensive overview of the structure and tribological properties of doped MoS 2, followed by a discussion of potential future research directions. View Full-Text",
+            "Solid lubrication with MoS2: a review",
+            "Mohammad R Vazirisereshk and Ashlie Martini and David A Strubbe and Mehmet Z Baykara",
+            "2019",
+            "E4YZM98AAAAJ:BqipwSGYUEgC",
+            61,
+            "https:\/\/www.mdpi.com\/2075-4442\/7\/7\/57",
+            "8709207762847644147",
+            "\/scholar?cites=8709207762847644147",
+            {
+                "2019":2,
+                "2020":49,
+                "2021":10
+            }
+        ],
+        [
+            "Single-molecule-resolved scanning tunneling microscopy of tetra-tert-butyl azobenzene (TTB-AB) molecules adsorbed onto Au (111) reveals chirality selection rules in their photoswitching behavior. This observation is enabled by the fact that trans-TTB-AB molecules self-assemble into homochiral domains. Cis-TTB-AB molecules produced via photoisomerization are found in two distinct conformations with final state chirality determined by the initial trans isomer chirality. Based on these observations and ab initio calculations, we propose a new inversion-based dynamical photoswitching mechanism for azobenzene molecules at a surface.",
+            "Determination of photoswitching dynamics through chiral mapping of single molecules using a scanning tunneling microscope",
+            "Matthew J Comstock and David A Strubbe and Luis Berbil-Bautista and Niv Levy and Jongweon Cho and Daniel Poulsen and Jean MJ Fr\u00e9chet and Steven G Louie and Michael F Crommie",
+            "2010",
+            "E4YZM98AAAAJ:u-x6o8ySG0sC",
+            56,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.104.178301",
+            "8158261052885042490",
+            "\/scholar?cites=8158261052885042490",
+            {
+                "2010":3,
+                "2011":5,
+                "2012":8,
+                "2013":5,
+                "2014":9,
+                "2015":2,
+                "2016":3,
+                "2017":8,
+                "2018":8,
+                "2019":4,
+                "2020":1
+            }
+        ],
+        [
+            "Calculations of the hyperpolarizability are typically much more difficult to converge with basis set size than the linear polarizability. In order to understand these convergence issues and hence obtain accurate ab initio values, we compare calculations of the static hyperpolarizability of the gas-phase chloroform molecule (CHCl3) using three different kinds of basis sets: Gaussian-type orbitals, numerical basis sets, and real-space grids. Although all of these methods can yield similar results, surprisingly large, diffuse basis sets are needed to achieve convergence to comparable values. These results are interpreted in terms of local polarizability and hyperpolarizability densities. We find that the hyperpolarizability is very sensitive to the molecular structure, and we also assess the significance of vibrational contributions and frequency dispersion.",
+            "Basis set effects on the hyperpolarizability of : Gaussian-type orbitals, numerical basis sets and real-space grids",
+            "Fernando D Vila and David A Strubbe and Yoshinari Takimoto and Xavier Andrade and Angel Rubio and Steven G Louie and John J Rehr",
+            "2010",
+            "E4YZM98AAAAJ:9yKSN-GCB0IC",
+            53,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.3457362",
+            "1249513270063309812",
+            "\/scholar?cites=1249513270063309812",
+            {
+                "2010":2,
+                "2011":3,
+                "2012":7,
+                "2013":6,
+                "2014":6,
+                "2015":6,
+                "2016":6,
+                "2017":2,
+                "2018":5,
+                "2019":3,
+                "2020":6
+            }
+        ],
+        [
+            "Nanostructured materials exhibit low thermal conductivity because of the additional scattering due to phonon-boundary interactions. As these interactions are highly sensitive to the mean free path (MFP) of phonons, MFP distributions in nanostructures can be dramatically distorted relative to bulk. Here we calculate the MFP distribution in periodic nanoporous Si for different temperatures, using the recently developed MFP-dependent Boltzmann transport equation. After analyzing the relative contribution of each phonon branch to thermal transport in nanoporous Si, we find that at room temperature optical phonons contribute 17% to heat transport, compared to 5% in bulk Si. Interestingly, we observe a constant thermal conductivity over the range 200 K< T< 300 K. We attribute this behavior to the ballistic transport of acoustic phonons with long intrinsic MFP and the temperature dependence of the heat capacity. Our \u2026",
+            "Temperature-dependent thermal conductivity in silicon nanostructured materials studied by the Boltzmann transport equation",
+            "Giuseppe Romano and Keivan Esfarjani and David A Strubbe and David Broido and Alexie M Kolpak",
+            "2016",
+            "E4YZM98AAAAJ:qxL8FJ1GzNcC",
+            36,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.93.035408",
+            "12801965933078836623",
+            "\/scholar?cites=12801965933078836623",
+            {
+                "2016":4,
+                "2017":11,
+                "2018":8,
+                "2019":6,
+                "2020":7
+            }
+        ],
+        [
+            "Over the last few years, extraordinary advances in experimental and theoretical tools have allowed us to monitor and control matter at short time and atomic scales with a high degree of precision. An appealing and challenging route toward engineering materials with tailored properties is to find ways to design or selectively manipulate materials, especially at the quantum level. To this end, having a state-of-the-art ab initio computer simulation tool that enables a reliable and accurate simulation of light-induced changes in the physical and chemical properties of complex systems is of utmost importance. The first principles real-space-based Octopus project was born with that idea in mind, i.e., to provide a unique framework that allows us to describe non-equilibrium phenomena in molecular complexes, low dimensional materials, and extended systems by accounting for electronic, ionic, and photon quantum \u2026",
+            "Octopus, a computational framework for exploring light-driven phenomena and quantum dynamics in extended and finite systems",
+            "Nicolas Tancogne-Dejean and Micael JT Oliveira and Xavier Andrade and Heiko Appel and Carlos H Borca and Guillaume Le Breton and Florian Buchholz and Alberto Castro and Stefano Corni and Alfredo A Correa and Umberto De Giovannini and Alain Delgado and Florian G Eich and Johannes Flick and Gabriel Gil and Adri\u00e1n Gomez and Nicole Helbig and Hannes H\u00fcbener and Ren\u00e9 Jest\u00e4dt and Joaquim Jornet-Somoza and Ask H Larsen and Irina V Lebedeva and Martin L\u00fcders and Miguel AL Marques and Sebastian T Ohlmann and Silvio Pipolo and Markus Rampp and Carlo A Rozzi and David A Strubbe and Shunsuke A Sato and Christian Sch\u00e4fer and Iris Theophilou and Alicia Welden and Angel Rubio",
+            "2020",
+            "E4YZM98AAAAJ:RGFaLdJalmkC",
+            34,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.5142502%40jcp.2020.ESS2020.issue-1",
+            "12494225905130723657",
+            "\/scholar?cites=12494225905130723657",
+            {
+                "2020":29,
+                "2021":5
+            }
+        ],
+        [
+            "We show that deep neural networks can be integrated into, or fully replace, the Kohn-Sham density functional theory (DFT) scheme for multielectron systems in simple harmonic oscillator and random external potentials with no feature engineering. We first show that self-consistent charge densities calculated with different exchange-correlation functionals can be used as input to an extensive deep neural network to make predictions for correlation, exchange, external, kinetic, and total energies simultaneously. Additionally, we show that one can make all of the same predictions with the external potential rather than the self-consistent charge density, which allows one to circumvent the Kohn-Sham DFT scheme altogether. We then show that a self-consistent charge density found from a nonlocal exchange-correlation functional can be used to make energy predictions for a semilocal exchange-correlation functional \u2026",
+            "Deep learning and density-functional theory",
+            "Kevin Ryczko and David A Strubbe and Isaac Tamblyn",
+            "2019",
+            "E4YZM98AAAAJ:bEWYMUwI8FkC",
+            34,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.100.022512",
+            "17042459605777587123",
+            "\/scholar?cites=17042459605777587123",
+            {
+                "2019":7,
+                "2020":26,
+                "2021":1
+            }
+        ]
+    ]
+}

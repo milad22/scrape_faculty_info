@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "XSOJ4W3K",
+            "7EHfSwYAAAAJ",
+            [
+                "Experimental realization of an on-chip all-optical analogue to electromagnetically induced transparency",
+                "Optical absorption enhancement in silicon nanowire arrays with a large lattice constant for photovoltaic applications",
+                "Evanescent-wave bonding between optical waveguides",
+                "Slow-light, band-edge waveguides for tunable time delays",
+                "Electrical and optical characterization of surface passivation in GaAs nanowires",
+                "High-Q enhancement of attractive and repulsive optical forces between coupled whispering-gallery-mode resonators",
+                "GaAs nanowire array solar cells with axial p\u2013i\u2013n junctions",
+                "Roughness losses and volume-current methods in photonic-crystal waveguides",
+                "Negative effective permeability in polaritonic photonic crystals",
+                "Tandem solar cells using GaAs nanowires on Si: design, fabrication, and observation of voltage addition"
+            ],
+            [
+                "We provide the first experimental observation of structure tuning of the electromagnetically induced transparencylike spectrum in integrated on-chip optical resonator systems. The system consists of coupled silicon ring resonators with 10 \u03bc m diameter on silicon, where the coherent interference between the two coupled resonators is tuned. We measured a transparency-resonance mode with a quality factor of 11 800.",
+                "In this paper, we use the transfer matrix method to calculate the optical absorptance of vertically-aligned silicon nanowire (SiNW) arrays. For fixed filling ratio, significant optical absorption enhancement occurs when the lattice constant is increased from 100nm to 600nm. The enhancement arises from an increase in field concentration within the nanowire as well as excitation of guided resonance modes. We quantify the absorption enhancement in terms of ultimate efficiency. Results show that an optimized SiNW array with lattice constant of 600nm and wire diameter of 540nm has a 72.4% higher ultimate efficiency than a Si thin film of equal thickness. The enhancement effect can be maintained over a large range of incidence angles.",
+                "Forces arising from overlap between the guided waves of parallel, microphotonic waveguides are calculated. Both attractive and repulsive forces, determined by the choice of relative input phase, are found. Using realistic parameters for a silicon-on-insulator material system, we estimate that the forces are large enough to cause observable displacements. Our results illustrate the potential for a broader class of optically tunable microphotonic devices and microstructured artificial materials.",
+                "We propose the use of slow-light, band-edge waveguides for compact, integrated, tunable optical time delays. We show that slow group velocities at the photonic band edge give rise to large changes in time delay for small changes in refractive index, thereby shrinking device size. Figures of merit are introduced to quantify the sensitivity, as well as the accompanying signal degradation due to dispersion. It is shown that exact calculations of the figures of merit for a realistic, three-dimensional grating structure are well predicted by a simple quadratic-band model, simplifying device design. We present adiabatic taper designs that attain <0.1% reflection in short lengths of 10 to 20 times the grating period. We show further that cascading two gratings compensates for signal dispersion and gives rise to a constant tunable time delay across bandwidths greater than 100GHz. Given typical loss values for silicon-on-insulator \u2026",
+                "We report a systematic study of carrier dynamics in AlxGa1\u2013xAs-passivated GaAs nanowires. With passivation, the minority carrier diffusion length (Ldiff) increases from 30 to 180 nm, as measured by electron beam induced current (EBIC) mapping, and the photoluminescence (PL) lifetime increases from sub-60 ps to 1.3 ns. A 48-fold enhancement in the continuous-wave PL intensity is observed on the same individual nanowire with and without the AlxGa1\u2013xAs passivation layer, indicating a significant reduction in surface recombination. These results indicate that, in passivated nanowires, the minority carrier lifetime is not limited by twin stacking faults. From the PL lifetime and minority carrier diffusion length, we estimate the surface recombination velocity (SRV) to range from 1.7 \u00d7 103 to 1.1 \u00d7 104 cm\u00b7s\u20131, and the minority carrier mobility \u03bc is estimated to lie in the range from 10.3 to 67.5 cm2 V\u20131 s\u20131 for the \u2026",
+                "We have calculated the optically-induced force between coupled high-Q whispering gallery modes of microsphere resonators. Attractive and repulsive forces are found, depending whether the bi-sphere mode is symmetric or antisymmetric. The magnitude of the force is linearly proportional to the total power in the spheres and consequently linearly enhanced by Q. Forces on the order of 100 nN are found for Q=108, large enough to cause displacements in the range of 1\u03bcm when the sphere is attached to a fiber stem with spring constant 0.004 N\/m.",
+                "Because of unique structural, optical, and electrical properties, solar cells based on semiconductor nanowires are a rapidly evolving scientific enterprise. Various approaches employing III\u2013V nanowires have emerged, among which GaAs, especially, is under intense research and development. Most reported GaAs nanowire solar cells form p\u2013n junctions in the radial direction; however, nanowires using axial junction may enable the attainment of high open circuit voltage (Voc) and integration into multijunction solar cells. Here, we report GaAs nanowire solar cells with axial p\u2013i\u2013n junctions that achieve 7.58% efficiency. Simulations show that axial junctions are more tolerant to doping variation than radial junctions and lead to higher Voc under certain conditions. We further study the effect of wire diameter and junction depth using electrical characterization and cathodoluminescence. The results show that large \u2026",
+                "We present predicted relative scattering losses from sidewall roughness in a strip waveguide compared to an identical waveguide surrounded by a photonic crystal with a complete or incomplete gap in both 2d and 3d. To do so, we develop a new semi-analytical extension of the classic \u201cvolume-current method\u201d (Green\u2019s functions with a Born approximation), correcting a longstanding limitation of such methods to low-index contrast systems (the classic method may be off by an order of magnitude in high-contrast systems). The resulting loss predictions show that even incomplete gap structures such as photonic-crystal slabs should, with proper design, be able to reduce losses by a factor of two compared to an identical strip waveguide; however, incautious design can lead to increased losses in the photonic-crystal system, a phenomena that we explain in terms of the band structure of the unperturbed crystal.",
+                "We find that a two-dimensional photonic crystal composed of polaritonic materials behaves as an effective medium with negative permeability in the micron wavelength range. The resonance in \u03bceff is due to the large values of \u03b5(\u03c9) attained near the transverse phonon frequency \u03c9T. The minimal wavelength for achieving an effective permeability less than \u22121 in a LiTaO3 crystal, obtained by optimizing the rod size and the lattice constant, is around 12\u03bcm, a range previously inaccessible using dielectric metamaterials. For certain dissipation levels, we find that other polaritonic media also exhibit a resonant effect with \u03bceff<\u22121 for wavelengths ranging from 2 to \u223c100\u03bcm.",
+                "Multijunction solar cells provide us a viable approach to achieve efficiencies higher than the Shockley\u2013Queisser limit. Due to their unique optical, electrical, and crystallographic features, semiconductor nanowires are good candidates to achieve monolithic integration of solar cell materials that are not lattice-matched. Here, we report the first realization of nanowire-on-Si tandem cells with the observation of voltage addition of the GaAs nanowire top cell and the Si bottom cell with an open circuit voltage of 0.956 V and an efficiency of 11.4%. Our simulation showed that the current-matching condition plays an important role in the overall efficiency. Furthermore, we characterized GaAs nanowire arrays grown on lattice-mismatched Si substrates and estimated the carrier density using photoluminescence. A low-resistance connecting junction was obtained using n+-GaAs\/p+-Si heterojunction. Finally, we demonstrated \u2026"
+            ],
+            [
+                [
+                    "Nanophotonics",
+                    "Self Assembly",
+                    "Photovoltaics",
+                    "Optical Trapping",
+                    "Photonic Crystals"
+                ]
+            ]
+        ]
+    ]
+}

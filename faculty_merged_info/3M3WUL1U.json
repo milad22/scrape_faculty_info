@@ -1,0 +1,45 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "3M3WUL1U",
+            "lY7nGvsAAAAJ",
+            [
+                "In vivo imaging of quantum dots encapsulated in phospholipid micelles",
+                "A vesicle bioreactor as a step toward an artificial cell assembly",
+                "An E. coli Cell-Free Expression Toolbox: Application to Synthetic Gene Circuits and Artificial Cells",
+                "Principles of cell-free genetic circuit assembly",
+                "Development of an artificial cell, from self-organization to computation and self-reproduction",
+                "Protocols for implementing an Escherichia coli based TX-TL cell-free expression system for synthetic biology",
+                "The All E. coli TX-TL Toolbox 2.0: A Platform for Cell-Free Synthetic Biology"
+            ],
+            [
+                "Fluorescent semiconductor nanocrystals (quantum dots) have the potential to revolutionize biological imaging, but their use has been limited by difficulties in obtaining nanocrystals that are biocompatible. To address this problem, we encapsulated individual nanocrystals in phospholipid block\u2013copolymer micelles and demonstrated both in vitro and in vivo imaging. When conjugated to DNA, the nanocrystal-micelles acted as in vitro fluorescent probes to hybridize to specific complementary sequences. Moreover, when injected into Xenopus embryos, the nanocrystal-micelles were stable, nontoxic (<5 \u00d7 109 nanocrystals per cell), cell autonomous, and slow to photobleach. Nanocrystal fluorescence could be followed to the tadpole stage, allowing lineage-tracing experiments in embryogenesis.",
+                "An Escherichia coli cell-free expression system is encapsulated in a phospholipid vesicle to build a cell-like bioreactor. Large unilamellar vesicles containing extracts are produced in an oil\u2013extract emulsion. To form a bilayer the vesicles are transferred into a feeding solution that contains ribonucleotides and amino acids. Transcription\u2013translation of plasmid genes is isolated in the vesicles. Whereas in bulk solution expression of enhanced GFP stops after 2 h, inside the vesicle permeability of the membrane to the feeding solution prolongs the expression for up to 5 h. To solve the energy and material limitations and increase the capacity of the reactor, the \u03b1-hemolysin pore protein from Staphylococcus aureus is expressed inside the vesicle to create a selective permeability for nutrients. The reactor can then sustain expression for up to 4 days with a protein production of 30 \u03bcM after 4 days. Oxygen diffusion and \u2026",
+                "Cell-free protein synthesis is becoming a powerful technique to construct and to study complex informational processes in vitro. Engineering synthetic gene circuits in a test tube, however, is seriously limited by the transcription repertoire of modern cell-free systems, composed of only a few bacteriophage regulatory elements. Here, we report the construction and the phenomenological characterization of synthetic gene circuits engineered with a cell-free expression toolbox that works with the seven E. coli sigma factors. The E. coli endogenous holoenzyme E70 is used as the primary transcription machinery. Elementary circuit motifs, such as multiple stage cascades, AND gate and negative feedback loops are constructed with the six other sigma factors, two bacteriophage RNA polymerases, and a set of repressors. The circuit dynamics reveal the importance of the global mRNA turnover rate and of passive \u2026",
+                "Cell-free genetic circuit elements were constructed in a transcription\u2013translation extract. We engineered transcriptional activation and repression cascades, in which the protein product of each stage is the input required to drive or block the following stage. Although we can find regions of linear response for single stages, cascading to subsequent stages requires working in nonlinear regimes. Substantial time delays and dramatic decreases in output production are incurred with each additional stage because of a bottleneck at the translation machinery. Faster turnover of RNA message can relieve competition between genes and stabilize output against variations in input and parameters.",
+                "This article describes the state and the development of an artificial cell project. We discuss the experimental constraints to synthesize the most elementary cell-sized compartment that can self-reproduce using synthetic genetic information. The original idea was to program a phospholipid vesicle with DNA. Based on this idea, it was shown that in vitro gene expression could be carried out inside cell-sized synthetic vesicles. It was also shown that a couple of genes could be expressed for a few days inside the vesicles once the exchanges of nutrients with the outside environment were adequately introduced. The development of a cell-free transcription\/translation toolbox allows the expression of a large number of genes with multiple transcription factors. As a result, the development of a synthetic DNA program is becoming one of the main hurdles. We discuss the various possibilities to enrich and to replicate this \u2026",
+                "Ideal cell-free expression systems can theoretically emulate an in vivo cellular environment in a controlled in vitro platform. 1 This is useful for expressing proteins and genetic circuits in a controlled manner as well as for providing a prototyping environment for synthetic biology. 2, 3 To achieve the latter goal, cell-free expression systems that preserve endogenous Escherichia coli transcription-translation mechanisms are able to more accurately reflect in vivo cellular dynamics than those based on T7 RNA polymerase transcription. We describe the preparation and execution of an efficient endogenous E. coli based transcription-translation (TX-TL) cell-free expression system that can produce equivalent amounts of protein as T7-based systems at a 98% cost reduction to similar commercial systems. 4, 5 The preparation of buffers and crude cell extract are described, as well as the execution of a three tube TX-TL \u2026",
+                "We report on and provide a detailed characterization of the performance and properties of a recently developed, all Escherichia coli, cell-free transcription and translation system. Gene expression is entirely based on the endogenous translation components and transcription machinery provided by an E. coli cytoplasmic extract, thus expanding the repertoire of regulatory parts to hundreds of elements. We use a powerful metabolism for ATP regeneration to achieve more than 2 mg\/mL of protein synthesis in batch mode reactions, and more than 6 mg\/mL in semicontinuous mode. While the strength of cell-free expression is increased by a factor of 3 on average, the output signal of simple gene circuits and the synthesis of entire bacteriophages are increased by orders of magnitude compared to previous results. Messenger RNAs and protein degradation, respectively tuned using E. coli MazF interferase and ClpXP \u2026"
+            ],
+            [
+                [
+                    "synthetic biology",
+                    "biological physics",
+                    "soft matter",
+                    "artificial cell",
+                    "cell-free protein synthesis"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "xiJhAowAAAAJ",
+            "Alexandra Zidovska",
+            "Assistant Professor of Physics, New York University",
+            "@nyu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=xiJhAowAAAAJ",
+            1046,
+            [
+                "Soft Matter",
+                "Biophysics",
+                "Polymer Physics",
+                "Biomaterials"
+            ],
+            528,
+            14,
+            12,
+            17,
+            12,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ZP1S8FYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Cyrus R. Safinya",
+                    "affiliation":"Professor of Materials, Physics, and MCD-Biology, University of California, Santa Barbara"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"R1cfTCoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David A. Weitz",
+                    "affiliation":"Professor of Physics and Applied Physics, Harvard University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"T6WFD04AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"yitzhak rabin",
+                    "affiliation":"Professor of Physics, Bar-Ilan University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6KA6onQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alexander Y Grosberg",
+                    "affiliation":"Professor of Physics, New York University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Sa2AIxQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michael Shelley",
+                    "affiliation":"Courant Institute of Math'l Sciences, NYU, and Ctr for Comp'l Biology, The Flatiron Institute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"wzdcX2kAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David Saintillan",
+                    "affiliation":"Mechanical and Aerospace Engineering, University of California San Diego"
+                }
+            ]
+        ]
+    ]
+}

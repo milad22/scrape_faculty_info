@@ -1,0 +1,122 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "data":[
+        [
+            "Population at risk of crime varies due to the characteristics of a population as well as the crime generator and attractor places where crime is located. This establishes different crime opportunities for different crimes. However, there are very few efforts of modeling structures that derive spatiotemporal population models to allow accurate assessment of population exposure to crime. This study develops population models to depict the spatial distribution of people who have a heightened crime risk for burglaries and robberies. The data used in the study include: Census data as source data for the existing population, Twitter geo-located data, and locations of schools as ancillary data to redistribute the source data more accurately in the space, and finally gridded population and crime data to evaluate the derived population models. To create the models, a density-weighted areal interpolation technique was used that \u2026",
+            "Population at risk: Using areal interpolation and Twitter messages to create population models for burglaries and robberies",
+            "Ourania Kounadi and Alina Ristea and Michael Leitner and Chad Langford",
+            "2018",
+            "i4yc0xQAAAAJ:2osOgNQ5qMEC",
+            28,
+            "https:\/\/www.tandfonline.com\/doi\/abs\/10.1080\/15230406.2017.1304243",
+            "10035676175675054537",
+            "\/scholar?cites=10035676175675054537",
+            {
+                "2017":1,
+                "2018":10,
+                "2019":4,
+                "2020":13
+            }
+        ],
+        [
+            "Parks are essential public places and play a central role in urban livability. However, traditional methods of investigating their attractiveness, such as questionnaires and in situ observations, are usually time-and resource-consuming, while providing less transferable and only site-specific results. This paper presents an improved methodology of using social media (Twitter) data to extract spatial and temporal patterns of park visits for urban planning purposes, along with the sentiment of the tweets, focusing on frequent Twitter users. We analyzed the spatiotemporal park visiting behavior of more than 4000 users for almost 1700 parks, examining 78,000 tweets in London, UK. The novelty of the research is in the combination of spatial and temporal aspects of Twitter data analysis, applying sentiment and emotion extraction for park visits throughout the whole city. This transferable methodology thereby overcomes many of the limitations of traditional research methods. This study concluded that people tweeted mostly in parks 3\u20134 km away from their center of activity and they were more positive than elsewhere while doing so. In our analysis, we identified four types of parks based on their visitors\u2019 spatial behavioral characteristics, the sentiment of the tweets, and the temporal distribution of the users, serving as input for further urban planning-related investigations. View Full-Text",
+            "Beyond spatial proximity\u2014classifying parks and their visitors in London based on spatiotemporal and sentiment analysis of Twitter data",
+            "Anna Kovacs-Gy\u00f6ri and Alina Ristea and Ronald Kolcsar and Bernd Resch and Alessandro Crivellari and Thomas Blaschke",
+            "2018",
+            "i4yc0xQAAAAJ:eQOLeE2rZwMC",
+            17,
+            "https:\/\/www.mdpi.com\/2220-9964\/7\/9\/378",
+            "16263760710070776643",
+            "\/scholar?cites=16263760710070776643",
+            {
+                "2019":7,
+                "2020":9,
+                "2021":1
+            }
+        ],
+        [
+            "Crowd-based events, such as football matches, are considered generators of crime. Criminological research on the influence of football matches has consistently uncovered differences in spatial crime patterns, particularly in the areas around stadia. At the same time, social media data mining research on football matches shows a high volume of data created during football events. This study seeks to build on these two research streams by exploring the spatial relationship between crime events and nearby Twitter activity around a football stadium, and estimating the possible influence of tweets for explaining the presence or absence of crime in the area around a football stadium on match days. Aggregated hourly crime data and geotagged tweets for the same area around the stadium are analysed using exploratory and inferential methods. Spatial clustering, spatial statistics, text mining as well as a hurdle negative binomial logistic regression for spatiotemporal explanations are utilized in our analysis. Findings indicate a statistically significant spatial relationship between three crime types (criminal damage, theft and handling, and violence against the person) and tweet patterns, and that such a relationship can be used to explain future incidents of crime. View Full-Text",
+            "Estimating the spatial distribution of crime events around a football stadium from georeferenced tweets",
+            "Alina Ristea and Justin Kurland and Bernd Resch and Michael Leitner and Chad Langford",
+            "2018",
+            "i4yc0xQAAAAJ:UeHWp8X0CEIC",
+            16,
+            "https:\/\/www.mdpi.com\/2220-9964\/7\/2\/43",
+            "12302869032497204479",
+            "\/scholar?cites=12302869032497204479",
+            {
+                "2018":4,
+                "2019":6,
+                "2020":5,
+                "2021":1
+            }
+        ],
+        [
+            "The dynamic nature of cities, understood as complex systems with a variety of concurring factors, poses significant challenges to urban analysis for supporting planning processes. This particularly applies to large urban events because their characteristics often contradict daily planning routines. Due to the availability of large amounts of data, social media offer the possibility for fine-scale spatial and temporal analysis in this context, especially regarding public emotions related to varied topics. Thus, this article proposes a combined approach for analyzing large sports events considering event days vs comparison days (before or after the event) and different user groups (residents vs visitors), as well as integrating sentiment analysis and topic extraction. Our results based on various analyses of tweets demonstrate that different spatial and temporal patterns can be identified, clearly distinguishing both residents and visitors, along with positive or negative sentiment. Furthermore, we could assign tweets to specific urban events or extract topics related to the transportation infrastructure. Although the results are potentially able to support urban planning processes of large events, the approach still shows some limitations including well-known biases in social media or shortcomings in identifying the user groups and in the topic modeling approach.",
+            "# London2012: Towards citizen-contributed urban planning through sentiment analysis of twitter data",
+            "Anna Kovacs-Gyori and Alina Ristea and Clemens Havas and Bernd Resch and Pablo Cabrera-Barona",
+            "2018",
+            "i4yc0xQAAAAJ:IjCSPb-OGe4C",
+            15,
+            "https:\/\/www.ssoar.info\/ssoar\/handle\/document\/58402",
+            "13238843125486186565",
+            "\/scholar?cites=13238843125486186565",
+            {
+                "2018":3,
+                "2019":3,
+                "2020":7,
+                "2021":2
+            }
+        ],
+        [
+            "The numerical forecast of particulate matter concentrations in general, and PM10 in particular is a theme of high socio-economic relevance. The aim of this study was to investigate the impact of ground and satellite data assimilation of PM10 observations into the Weather Research and Forecasting model coupled with Chemistry (WRF-CHEM) numerical air quality model for Romanian territory. This is the first initiative of the kind for this domain of interest. Assimilation of satellite information \u2013 e.g. AOT's in air quality models is of interest due to the vast spatial coverage of the observations. Support Vector Regression (SVR) techniques are used to estimate the PM content from heterogeneous data sources, including EO products (Aerosol Optical Thickness), ground measurements and numerical model data (temperature, humidity, wind, etc.). In this study we describe the modeling framework employed and present the \u2026",
+            "Study on the influence of ground and satellite observations on the numerical air-quality for PM10 over Romanian territory",
+            "Rodica Claudia Dumitrache and Amalia Iriza and Bogdan Alexandru Maco and Cosmin Danut Barbu and Marcus Hirtl and Simone Mantovani and Oana Nicola and Anisoara Irimescu and Vasile Craciunescu and Alina Ristea and Andrei Diamandi",
+            "2016",
+            "i4yc0xQAAAAJ:9yKSN-GCB0IC",
+            11,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S1352231016306562",
+            "13540416983093874427",
+            "\/scholar?cites=13540416983093874427",
+            {
+                "2017":1,
+                "2018":3,
+                "2019":5,
+                "2020":2
+            }
+        ],
+        [
+            "Sporting events attract high volumes of people, which in turn leads to increased use of social media. In addition, research shows that sporting events may trigger violent behavior that can lead to crime. This study analyses the spatial relationships between crime occurrences, demographic, socio-economic and environmental variables, together with geo-located Twitter messages and their \u2018violent\u2019 subsets. The analysis compares basketball and hockey game days and non-game days. Moreover, this research aims to analyze crime prediction models using historical crime data as a basis and then introducing tweets and additional variables in their role as covariates of crime. First, this study investigates the spatial distribution of and correlation between crime and tweets during the same temporal periods. Feature selection models are applied in order to identify the best explanatory variables. Then, we apply \u2026",
+            "Spatial crime distribution and prediction for sporting events using social media",
+            "Alina Ristea and Mohammad Al Boni and Bernd Resch and Matthew S Gerber and Michael Leitner",
+            "2020",
+            "i4yc0xQAAAAJ:SdhP9T11ey4C",
+            9,
+            "https:\/\/www.tandfonline.com\/doi\/abs\/10.1080\/13658816.2020.1719495",
+            "7011198095593279103",
+            "\/scholar?cites=7011198095593279103",
+            {
+                "2020":9
+            }
+        ]
+    ]
+}

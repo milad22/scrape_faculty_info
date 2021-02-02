@@ -1,0 +1,152 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Y1A4_PMAAAAJ",
+            "Brian Swingle",
+            "Simons Fellow, Harvard University",
+            "@physics.harvard.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=Y1A4_PMAAAAJ",
+            5872,
+            [
+                "quantum matter",
+                "condensed matter theory",
+                "quantum information",
+                "quantum computation",
+                "holographic duality"
+            ],
+            4760,
+            38,
+            33,
+            75,
+            69,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"DMIvQbwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Subir Sachdev",
+                    "affiliation":"Herchel Smith Professor of Physics, Harvard University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"FHL7ncYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"T. Senthil",
+                    "affiliation":"Professor of Physics, Massachusetts Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"uzOuvIIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Debanjan Chowdhury",
+                    "affiliation":"Assistant Professor, Physics Department, Cornell University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"N1vAIkkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Liza Huijse",
+                    "affiliation":"Stanford University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"jfZtuFwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Xiao-Gang Wen",
+                    "affiliation":"Professor of Physics, MIT"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"7pMAOCMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Maissam Barkeshli",
+                    "affiliation":"Associate Professor of Physics, University of Maryland, College Park. Fellow, Joint Quantum Insitute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"5ajlZlEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hans Werner Hammer",
+                    "affiliation":"Institut f\u00fcr Kernphysik, TU Darmstadt, Germany"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"oA9OQ5IAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sumanta Tewari",
+                    "affiliation":"Physics and Astronomy, Clemson University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ApuATdsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jeremy McMinis",
+                    "affiliation":""
+                }
+            ]
+        ]
+    ]
+}

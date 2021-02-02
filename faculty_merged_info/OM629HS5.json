@@ -1,0 +1,35 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "OM629HS5",
+            "AL4dM6wAAAAJ",
+            [
+                "High-fidelity controlled- gate for resonator-based superconducting quantum computers",
+                "Unimodular relativity and cosmological constant"
+            ],
+            [
+                "A possible building block for a scalable quantum computer has recently been demonstrated [Mariantoni et al., Science 334, 61 (2011)]. This architecture consists of superconducting qubits capacitively coupled both to individual memory resonators as well as a common bus. In this work we study a natural primitive entangling gate for this and related resonator-based architectures, which consists of a controlled-\u03c3 z (cz) operation between a qubit and the bus. The cz gate is implemented with the aid of the noncomputational qubit| 2\u232a state [Strauch et al., Phys. Rev. Lett. 91, 167005 (2003)]. Assuming phase or transmon qubits with 300 MHz anharmonicity, we show that by using only low frequency qubit-bias control it is possible to implement the qubit-bus cz gate with 99.9%(99.99%) fidelity in about 17 ns (23 ns) with a realistic two-parameter pulse profile, plus two auxiliary z rotations. The fidelity measure we refer to here \u2026",
+                "Unimodular relativity is a theory of gravity and space\u2013time with a fixed absolute space\u2013time volume element, the modulus, which we suppose is proportional to the number of microscopic modules in that volume element. In general relativity an arbitrary fixed measure can be imposed as a gauge condition, while in unimodular relativity it is determined by the events in the volume. Since this seems to break general covariance, some have suggested that it permits a nonzero covariant divergence of the material stress-energy tensor and a variable cosmological \u201cconstant.\u201d In Lagrangian unimodular relativity, however, even with higher derivatives of the gravitational field in the dynamics, the usual covariant continuity holds and the cosmological constant is still a constant of integration of the gravitational field equations."
+            ],
+            [
+                [
+                    "quantum computing",
+                    "quantum control",
+                    "superconducting circuits",
+                    "quantum measurement",
+                    "general relativity"
+                ]
+            ]
+        ]
+    ]
+}

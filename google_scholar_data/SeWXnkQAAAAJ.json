@@ -1,0 +1,161 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "SeWXnkQAAAAJ",
+            "Nick Bonesteel",
+            "Professor of Physics, Florida State University",
+            "@fsu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=SeWXnkQAAAAJ",
+            1788,
+            [
+                "Condensed Matter Physics",
+                "Quantum Computation"
+            ],
+            496,
+            23,
+            13,
+            33,
+            20,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"R-j4jUkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Layla Hormozi",
+                    "affiliation":"Brookhaven National Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6MVjQA8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Georgios Zikos",
+                    "affiliation":"ASML"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"4kTctIoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David DiVincenzo",
+                    "affiliation":"Director of Theoretical Nanoelectronics, Forschungszentrum Juelich & Professor of Physics, RWTH Aachen"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"AETrZO8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dimitrije Stepanenko",
+                    "affiliation":"Institute of Physics Belgrade"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"PyFslMQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kun Yang",
+                    "affiliation":"Professor of Physics, Florida State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"NWoSsJ8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Huan Tran",
+                    "affiliation":"MSE @ Georgia Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ZNKzoDwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hsin-Hua Lai",
+                    "affiliation":"Physics and Astronomy Department, Rice University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Ojgo35kAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Julia Wildeboer, PhD",
+                    "affiliation":"Iowa State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"zkqy1qQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Wenxin Ding",
+                    "affiliation":"School of Physics and Materials Science, Anhui University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"jYTTAyYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Peng Xiong",
+                    "affiliation":"florida state university"
+                }
+            ]
+        ]
+    ]
+}

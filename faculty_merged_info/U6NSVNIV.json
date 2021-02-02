@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "U6NSVNIV",
+            "6KA6onQAAAAJ",
+            [
+                "Statistical Physics of Macromolecules",
+                "Colloquium: The physics of charge inversion in chemical and biological systems",
+                "Some problems of the statistical physics of polymer chains with volume interaction",
+                "Electrostatic focusing of unlabelled DNA into nanoscale pores using a salt gradient",
+                "On the transition coordinate for protein folding",
+                "The role of topological constraints in the kinetics of collapse of macromolecules",
+                "Modeling the conductance and DNA blockade of solid-state nanopores",
+                "Heteropolymer freezing and design: towards physical models of protein folding",
+                "Pathways for protein folding: is a new view needed?",
+                "Crumpled globule model of the three-dimensional structure of DNA"
+            ],
+            [
+                "The appellation\" dirt physics\" was given to three schools of physicists who, during the 1970s, began to work on questions related to the statics and dynamics of complex long-chain molecules. This work was called dirt physics because no one could imagine where the\" physics\" was or even what the general physics principles were. General principles as well as specific new results were found though, in abundance, by members of all three schools (and other\" camp followers,\" including this reviewer). One substantial school grew up in the UK around Sir Sam Edwards, who in the 1960s had already recognized the uncanny parallels between quantum field theory and",
+                "The authors review recent advances in the physics of strongly interacting charged systems functioning in water at room temperature. In these systems, many phenomena go beyond the framework of mean-field theories, whether linear Debye-H\u00fcckel or nonlinear Poisson-Boltzmann, culminating in charge inversion\u2014a counterintuitive phenomenon in which a strongly charged particle, called a macroion, binds so many counterions that its net charge changes sign. The review discusses the universal theory of charge inversion based on the idea of a strongly correlated liquid of adsorbed counterions, similar to a Wigner crystal. This theory has a vast array of applications, particularly in biology and chemistry; for example, in the presence of positive multivalent ions (eg, polycations), the DNA double helix acquires a net positive charge and drifts as a positive particle in an electric field. This simplifies DNA uptake by the cell \u2026",
+                "The present state of the theory of volume effects in a polymer chain is reviewed. The theory of coils (ie, chains with predominately repulsive volume interaction of monomers) and the analogy between the excluded volume problem and the theory of second-order phase transitions are briefly described. The theory of globules, formed by attractive interaction of monomers or by external attractive fields, is considered in greater detail. The coil-globule transition under various conditions is analyzed. A theory is constructed for the simplest model of the polymer chain\u2014the model of\" interacting beads on a flexible string.\" The connection of this model with more realistic ones is discussed. This review is based on the approach proposed by IM Lifshitz in 1968. While attention is focused on the physical aspects of the problems, some questions concerning biological applications are discussed in the conclusion.",
+                "Solid-state nanopores are sensors capable of analysing individual unlabelled DNA molecules in solution. Although the critical information obtained from nanopores (for example, DNA sequence) comes from the signal collected during DNA translocation, the throughput of the method is determined by the rate at which molecules arrive and thread into the pores. Here, we study the process of DNA capture into nanofabricated SiN pores of molecular dimensions. For fixed analyte concentrations we find an increase in capture rate as the DNA length increases from 800 to 8,000 base pairs, a length-independent capture rate for longer molecules, and increasing capture rates when ionic gradients are established across the pore. Furthermore, we show that application of a 20-fold salt gradient allows the detection of picomolar DNA concentrations at high throughput. The salt gradients enhance the electric field, focusing \u2026",
+                "To understand the kinetics of protein folding, we introduce the concept of a \u201ctransition coordinate\u201d which is defined to be the coordinate along which the system progresses most slowly. As a practical implementation of this concept, we define the transmission coefficient for any conformation to be the probability for a chain with the given conformation to fold before it unfolds. Since the transmission coefficient can serve as the best possible measure of kinetic distance for a system, we present two methods by which we can determine how closely any parameter of the system approximates the transmission coefficient. As we determine that the transmission coefficient for a short-chain heteropolymer system is dominated by entropic factors, we have chosen to illustrate the methods mentioned by applying them to geometrical properties of the system such as the number of native contacts and the looplength distribution. We \u2026",
+                "It is shown that the kinetics of collapse of a polymer coil consisting of N segments after an abrupt decrease of temperature is a two-stage process if N>> Ne. The first stage takes a time N2 and leads to the peculiar state-crumpled, or fractal, globule. Any part of a chain of any scale is itself a globule in this state; these parts are segregated from each other in space due to the non-phantomness of a chain. The chain fold in the crumpled globule is a fractal line with fractal dimension 3, equal to the space dimension. The second stage is a chain knotting; it is realized by means of reptation-like mechanism of motion, takes a time N3 and is accompanied by an increase of globule density.R\u00e9sum\u00e9Une cha\u00eene polym\u00e9rique form\u00e9e de N segments s' effondre \u00e0 la suite d'un abaissement brutal de temp\u00e9rature. On montre que la cin\u00e9tique de cet effondrement est un processus en deux \u00e9tapes lorsque N est beaucoup plus grand que \u2026",
+                "We present measurements and theoretical modeling of the ionic conductance G of solid-state nanopores with 5\u2013100 nm diameters, with and without DNA inserted into the pore. First, we show that it is essential to include access resistance to describe the conductance, in particular for larger pore diameters. We then present an exact solution for G of an hourglass-shaped pore, which agrees very well with our measurements without any adjustable parameters, and which is an improvement over the cylindrical approximation. Subsequently we discuss the conductance blockade \u0394G due to the insertion of a DNA molecule into the pore, which we study experimentally as a function of pore diameter. We find that \u0394G decreases with pore diameter, contrary to the predictions of earlier models that forecasted a constant \u0394G. We compare three models for \u0394G, all of which provide good agreement with our experimental data.",
+                "Protein folding has become one of the most actively studied problems in modern molecular biophysics. Approaches to the problem combine ideas from the physics of disordered systems, polymer physics, and molecular biology. Much can be learned from the statistical properties of model heteropolymers, the chain molecules having different monomers in irregular sequences. Even in highly evolved proteins, there is a strong random element in the sequences, which gives rise to a statistical ensemble of sequences for a given folded shape. Simple analytic models give rise to phase transitions between random, glassy, and folded states, depending on the temperature T and the design temperature T des of the ensemble of sequences. Besides considering the analytic results obtainable in a random-energy model and in the Flory mean-field model of polymers, the article reports on confirming numerical simulations.",
+                "Theoretical studies using simplified models of proteins have shed light on the general heteropolymeric aspects of the folding problem. Recent work has emphasized the statistical aspects of folding pathways. In particular, progress has been made in characterizing the ensemble of transition state conformations and elucidating the role of intermediates. These advances suggest a reconciliation between the new ensemble approaches and the classical view of a folding pathway.",
+                "We argue that in order to maintain the biological function of DNA confined inside the cell nucleus, its spatial structure has to be unknotted, of the so-called\" crumpled globule\" type. The fixation of a particular realization of this non-equilibrium structure by attractive interactions between specific units imposes a connection between the spatial structure of DNA and the statistical distribution of these units along the chain contour. This suggests that both primary sequence and spatial structure of native DNA were formed simultaneously by a self-similar evolution process. The predictions of our model are compared with recent observations of long-range correlations in intron-containing genes and non-transcribed regulatory elements and further experimental tests are proposed."
+            ],
+            [
+                [
+                    "Polymers",
+                    "biopolymers",
+                    "biophysics",
+                    "soft matter"
+                ]
+            ]
+        ]
+    ]
+}

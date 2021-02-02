@@ -1,0 +1,124 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4
+    ],
+    "data":[
+        [
+            "In many subfields of chemistry and physics, numerous attempts have been made to accelerate scientific discovery using data-driven experimental design algorithms. Among them, Bayesian optimization has been proven to be an effective tool. A standard implementation (e.g., scikit-learn), however, can accommodate only small training data. We designed an efficient protocol for Bayesian optimization that employs Thompson sampling, random feature maps, one-rank Cholesky update and automatic hyperparameter tuning, and implemented it as an open-source python library called COMBO (COMmon Bayesian Optimization library). Promising results using COMBO to determine the atomic structure of a crystalline interface are presented. COMBO is available at https:\/\/github.com\/tsudalab\/combo.",
+            "COMBO: an efficient Bayesian optimization library for materials science",
+            "Tsuyoshi Ueno and Trevor David Rhone and Zhufeng Hou and Teruyasu Mizoguchi and Koji Tsuda",
+            "2016",
+            "cnaBZDUAAAAJ:IjCSPb-OGe4C",
+            139,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S2352924516300035",
+            "4725398114377614860",
+            "\/scholar?cites=4725398114377614860",
+            {
+                "2017":15,
+                "2018":22,
+                "2019":44,
+                "2020":50,
+                "2021":7
+            }
+        ],
+        [
+            "The spin degree of freedom in quantum phases of the second Landau level is probed by resonant light scattering. The long wavelength spin wave, which monitors the degree of spin polarization, is at the Zeeman energy in the fully spin-polarized state at \u03bd= 3. At lower filling factors, the intensity of the Zeeman mode collapses, indicating loss of polarization. A novel continuum of low-lying excitations emerges that dominates near \u03bd= 8\/3 and \u03bd= 5\/2. Resonant Rayleigh scattering reveals that quantum fluids for \u03bd< 3 break up into robust domain structures. While the state at \u03bd= 5\/2 is considered to be fully polarized, these results reveal unprecedented roles for spin degrees of freedom.",
+            "Rapid collapse of spin waves in nonuniform phases of the second Landau level",
+            "Trevor D Rhone and Jun Yan and Yann Gallais and Aron Pinczuk and Loren Pfeiffer and Ken West",
+            "2011",
+            "cnaBZDUAAAAJ:u-x6o8ySG0sC",
+            65,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.106.196805",
+            "7440336209331738749",
+            "\/scholar?cites=7440336209331738749",
+            {
+                "2011":4,
+                "2012":11,
+                "2013":9,
+                "2014":10,
+                "2015":9,
+                "2016":4,
+                "2017":7,
+                "2018":2,
+                "2019":7,
+                "2020":2
+            }
+        ],
+        [
+            "Coherent coupling of Dirac fermion magnetoexcitons with an optical phonon is observed in graphite as marked magnetic-field dependent splittings and anticrossing behavior of the two coupled modes. The sharp magnetophonon resonance occurs in regions of the graphite sample with properties of superior single-layer graphene having enhanced lifetimes of Dirac fermions. The greatly reduced carrier broadening to values below the graphene electron-phonon coupling constant explains the appearance of sharp resonances that reveal a fundamental interaction of Dirac fermions.",
+            "Observation of magnetophonon resonance of Dirac fermions in graphite",
+            "Jun Yan and Sarah Goler and Trevor D Rhone and Melinda Han and Rui He and Philip Kim and Vittorio Pellegrini and Aron Pinczuk",
+            "2010",
+            "cnaBZDUAAAAJ:u5HHmVD_uO8C",
+            65,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.105.227401",
+            "6058234414721675771",
+            "\/scholar?cites=6058234414721675771",
+            {
+                "2010":1,
+                "2011":5,
+                "2012":13,
+                "2013":9,
+                "2014":10,
+                "2015":9,
+                "2016":7,
+                "2017":1,
+                "2018":5,
+                "2019":3,
+                "2020":2
+            }
+        ],
+        [
+            "When the motion of electrons is restricted to a plane under a perpendicular magnetic field, a variety of quantum phases emerge at low temperatures, the properties of which are dictated by the Coulomb interaction and its interplay with disorder. At very strong magnetic field, the sequence of fractional quantum Hall liquid phases 1 terminates in an insulating phase, which is widely believed to be due to the solidification of electrons into domains possessing Wigner crystal 2 order 3, 4, 5, 6, 7, 8, 9, 10, 11. The existence of such Wigner crystal domains is signalled by the emergence of microwave pinning-mode resonances 10, 11, which reflect the mechanical properties characteristic of a solid. However, the most direct manifestation of the broken translational symmetry accompanying the solidification\u2014the spatial modulation of particles\u2019 probability amplitudes\u2014has not been observed yet. Here, we demonstrate that nuclear \u2026",
+            "NMR profiling of quantum electron solids in high magnetic fields",
+            "L Tiemann and TD Rhone and N Shibata and K Muraki",
+            "2014",
+            "cnaBZDUAAAAJ:2osOgNQ5qMEC",
+            46,
+            "https:\/\/www.nature.com\/articles\/nphys3031",
+            "13410206323839522122",
+            "\/scholar?cites=13410206323839522122",
+            {
+                "2015":8,
+                "2016":9,
+                "2017":8,
+                "2018":8,
+                "2019":6,
+                "2020":7
+            }
+        ],
+        [
+            "We perform a systematic materials informatics search for two-dimensional (2D) ferromagnetic materials (2DFM) in the Inorganic Crystal Structure Database (ICSD). The key indicator in the search is that the candidates have a 2D network composed of magnetic atoms and heavy atoms. From the 187,093 entries in the ICSD, the search identified 15 candidates whose magnetic order are then determined by first-principles calculations and Curie temperatures obtained by either analytical solution or Monte Carlo simulation of the 2D Ising model. For the 15 candidates, eight materials have ferromagnetic order including three known structural prototypes and the two 2DFM materials discovered in recent experiments. More importantly, the search produced two new structural prototypes and a very promising material, Cr 3 Te 4, which has a calculated Curie temperature one order of magnitude higher than the others.",
+            "Systematic search for two-dimensional ferromagnetic materials",
+            "Yu Zhu and Xianghua Kong and Trevor David Rhone and Hong Guo",
+            "2018",
+            "cnaBZDUAAAAJ:Y0pCki6q_DkC",
+            40,
+            "https:\/\/journals.aps.org\/prmaterials\/abstract\/10.1103\/PhysRevMaterials.2.081001",
+            "18408142699743272330",
+            "\/scholar?cites=18408142699743272330",
+            {
+                "2018":1,
+                "2019":18,
+                "2020":18,
+                "2021":3
+            }
+        ]
+    ]
+}

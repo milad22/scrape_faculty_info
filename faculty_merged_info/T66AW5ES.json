@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "T66AW5ES",
+            "k80ArJsAAAAJ",
+            [
+                "Charge-insensitive qubit design derived from the Cooper pair box",
+                "Coupling superconducting qubits via a cavity bus",
+                "On-chip quantum simulation with superconducting circuits",
+                "Franck-Condon blockade and giant Fano factors in transport through single molecules",
+                "Suppressing charge noise decoherence in superconducting charge qubits",
+                "Fluxonium: Single cooper-pair circuit free of charge offsets",
+                "Controlling the spontaneous emission of a superconducting transmon qubit",
+                "Time-reversal-symmetry breaking in circuit-QED-based photon lattices",
+                "Nonlinear response of the vacuum Rabi resonance"
+            ],
+            [
+                "Short dephasing times pose one of the main challenges in realizing a quantum computer. Different approaches have been devised to cure this problem for superconducting qubits, a prime example being the operation of such devices at optimal working points, so-called \u201csweet spots.\u201d This latter approach led to significant improvement of T 2 times in Cooper pair box qubits [D. Vion et al., Science 296, 886 (2002)]. Here, we introduce a new type of superconducting qubit called the \u201ctransmon.\u201d Unlike the charge qubit, the transmon is designed to operate in a regime of significantly increased ratio of Josephson energy and charging energy E J\u2215 E C. The transmon benefits from the fact that its charge dispersion decreases exponentially with E J\u2215 E C, while its loss in anharmonicity is described by a weak power law. As a result, we predict a drastic reduction in sensitivity to charge noise relative to the Cooper pair box and \u2026",
+                "Superconducting circuits are promising candidates for constructing quantum bits (qubits) in a quantum computer; single-qubit operations are now routine 1, 2, and several examples 3, 4, 5, 6, 7, 8, 9 of two-qubit interactions and gates have been demonstrated. These experiments show that two nearby qubits can be readily coupled with local interactions. Performing gate operations between an arbitrary pair of distant qubits is highly desirable for any quantum computer architecture, but has not yet been demonstrated. An efficient way to achieve this goal is to couple the qubits to a \u2018quantum bus\u2019, which distributes quantum information among the qubits. Here we show the implementation of such a quantum bus, using microwave photons confined in a transmission line cavity, to couple two superconducting qubits on opposite sides of a chip. The interaction is mediated by the exchange of virtual rather than real photons \u2026",
+                "Using a well-controlled quantum system to simulate complex quantum matter is an idea that has been around for 30 years and put into practice in systems of ultracold atoms for more than a decade. Much recent excitement has focused on a new implementation of quantum simulators using superconducting circuits, where conventional microchip fabrication can be used to take design concepts to experimental reality, quickly and flexibly. Because the quantum \u2018particles\u2019 in these simulators are circuit excitations rather than physical particles subject to conservation laws, superconducting simulators provide a complement to ultracold atoms by naturally accessing non-equilibrium physics. Here, we review the recent wealth of theoretical explorations and experimental prospects of realizing these new devices.",
+                "We show that Franck-Condon physics leads to a significant current suppression at low bias voltages (termed Franck-Condon blockade) in transport through single molecules with strong coupling between electronic and vibrational degrees of freedom. Transport in this regime is characterized by remarkably large Fano factors (10 2\u201310 3 for realistic parameters), which arise due to avalanchelike transport of electrons. Avalanches occur in a self-similar manner over a wide range of time scales, leading to power-law dependences of the current noise on frequency and vibrational relaxation rate.",
+                "We present an experimental realization of the transmon qubit, which is an improved superconducting charge qubit derived from the Cooper pair box. We experimentally verify the predicted exponential suppression of sensitivity to 1\u2215 f charge noise. This removes the leading source of dephasing in charge qubits which results in homogeneously broadened transitions with relaxation and dephasing times in the microsecond range. Our systematic characterization of the qubit spectrum, anharmonicity, and charge dispersion shows excellent agreement with theory.",
+                "The promise of single Cooper-pair quantum circuits based on tunnel junctions for metrology and quantum information applications is severely limited by the influence of offset charges: random, slowly drifting microscopic charges inherent in many solid-state systems. By shunting a small junction with the Josephson kinetic inductance of a series array of large-capacitance tunnel junctions, thereby ensuring that all superconducting islands are connected to the circuit by at least one large junction, we have realized a new superconducting artificial atom that is totally insensitive to offset charges. Yet its energy levels manifest the anharmonic structure associated with single Cooper-pair effects, a useful component for solid-state quantum computation.",
+                "We present a detailed characterization of coherence in seven transmon qubits in a circuit QED architecture. We find that spontaneous emission rates are strongly influenced by far off-resonant modes of the cavity and can be understood within a semiclassical circuit model. A careful analysis of the spontaneous qubit decay into a microwave transmission-line cavity can accurately predict the qubit lifetimes over 2 orders of magnitude in time and more than an octave in frequency. Coherence times T 1 and T 2* of more than a microsecond are reproducibly demonstrated.",
+                "Breaking time-reversal symmetry is a prerequisite for accessing certain interesting many-body states such as fractional quantum Hall states. For polaritons, charge neutrality prevents magnetic fields from providing a direct symmetry-breaking mechanism and, similar to the situation in ultracold atomic gases, an effective magnetic field has to be synthesized. We show that in the circuit-QED architecture, this can be achieved by inserting simple superconducting circuits into the resonator junctions. In the presence of such coupling elements, constant parallel magnetic and electric fields suffice to break time-reversal symmetry. We support these theoretical predictions with numerical simulations for realistic sample parameters, specify general conditions under which time reversal is broken, and discuss the application to chiral Fock-state transfer, an on-chip circulator, and tunable band structure for the Kagome lattice.",
+                "On the level of single atoms and photons, the coupling between atoms and the electromagnetic field is typically very weak. By using a cavity to confine the field, the strength of this interaction can be increased by many orders of magnitude, to a point where it dominates over any dissipative process. This strong-coupling regime of cavity quantum electrodynamics 1, 2 has been reached for real atoms in optical cavities 3, and for artificial atoms in circuit quantum electrodynamics 4 and quantum dot systems 5, 6. A signature of strong coupling is the splitting of the cavity transmission peak into a pair of resolvable peaks when a single resonant atom is placed inside the cavity, an effect known as vacuum Rabi splitting. The circuit quantum electrodynamics architecture is ideally suited for going beyond this linear-response effect. Here, we show that increasing the drive power results in two unique nonlinear features in the \u2026"
+            ],
+            [
+                [
+                    "Physics",
+                    "Condensed Matter",
+                    "Quantum Information"
+                ]
+            ]
+        ]
+    ]
+}

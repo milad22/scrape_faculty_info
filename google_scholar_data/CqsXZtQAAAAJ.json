@@ -1,0 +1,102 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "CqsXZtQAAAAJ",
+            "Vivian de la Incera",
+            "city university of new york-college of staten island",
+            "@csi.cuny.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=CqsXZtQAAAAJ",
+            2696,
+            [
+                "nuclear physics",
+                "high-energy physics",
+                "astrophysics"
+            ],
+            925,
+            27,
+            15,
+            47,
+            24,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"HED1_-cAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Efrain J. Ferrer",
+                    "affiliation":"Professor of Physics, The Univ. of Texas at Rio Grande Valley"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"-90ztzAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Laura Paulucci",
+                    "affiliation":"Universidade Federal do ABC"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"zUI39-oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Emilio Elizalde",
+                    "affiliation":"ICE-CSIC & IEEC, Bellaterra (Barcelona)"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fW48bVkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Daryel Manreza",
+                    "affiliation":""
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"dANR2YUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Churna Bhandari",
+                    "affiliation":"Postdoc Research Associate Ames Laboratory"
+                }
+            ]
+        ]
+    ]
+}

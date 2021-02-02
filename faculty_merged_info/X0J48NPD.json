@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "X0J48NPD",
+            "m9Bq2RQAAAAJ",
+            [
+                "Decoding perturbation theory using resurgence: Stokes phenomena, new saddle points and Lefschetz thimbles",
+                "Resurgence in QFT: unitons, fractons and renormalons in the principal chiral model",
+                "Chiral condensate in holographic models of QCD",
+                "Hydrodynamics, resurgence, and transasymptotics",
+                "Bound on the speed of sound from holography",
+                "QCD-electroweak first-order phase transition in a supercooled universe",
+                "A sticky business: the status of the conjectured viscosity\/entropy density bound",
+                "Orbifold equivalence and the sign problem at finite baryon density",
+                "Volume Independence in the Large  Limit and an Emergent Fermionic Symmetry",
+                "Chiral Lagrangian from duality and monopole operators in compactified QCD"
+            ],
+            [
+                "Resurgence theory implies that the non-perturbative (NP) and perturbative (P) data in a QFT are quantitatively related, and that detailed information about non-perturbative saddle point field configurations of path integrals can be extracted from perturbation theory. Traditionally, only stable NP saddle points are considered in QFT, and homotopy group considerations are used to classify them. However, in many QFTs the relevant homotopy groups are trivial, and even when they are non-trivial they leave many NP saddle points undetected. Resurgence provides a refined classification of NP-saddles, going beyond conventional topological considerations. To demonstrate some of these ideas, we study the SU (N) principal chiral model (PCM), a two dimensional asymptotically free matrix field theory which has no instantons, because the relevant homotopy group is trivial. Adiabatic continuity is used to reach a weakly \u2026",
+                "We explain the physical role of non-perturbative saddle points of path integrals in theories without instantons, using the example of the asymptotically free two-dimensional principal chiral model (PCM). Standard topological arguments based on homotopy considerations suggest no role for non-perturbative saddles in such theories. However, resurgence theory, which unifies perturbative and non-perturbative physics, predicts the existence of several types of non-perturbative saddles associated with features of the large-order structure of perturbation theory. These points are illustrated in the PCM, where we find new non-perturbativefracton'saddle point field configurations, and give a quantum interpretation of previously discovereduniton'unstable classical solutions. The fractons lead to a semi-classical realization of IR renormalons in the circle-compactified theory, and yield the microscopic mechanism of the mass gap of the PCM.",
+                "Bottom-up holographic models of QCD, inspired by the anti-de Sitter space\/conformal field theory correspondence, have shown a remarkable degree of phenomenological success. However, they rely on a number of bold assumptions. We investigate the reliability of one of the key assumptions, which involves matching the parameters of these models to QCD at high 4D momentum q 2 and renormalization scale \u03bc 2. We show that this leads to phenomenological and theoretical inconsistencies for scale-dependent quantities such as\u2329 q q\u232a.",
+                "The second order hydrodynamical description of a homogeneous conformal plasma that undergoes a boost-invariant expansion is given by a single nonlinear ordinary differential equation, whose resurgent asymptotic properties we study, developing further the recent work of Heller and Spalinski [Phys. Rev. Lett. 115, 072501 (2015)]. Resurgence clearly identifies the nonhydrodynamic modes that are exponentially suppressed at late times, analogous to the quasinormal modes in gravitational language, organizing these modes in terms of a trans-series expansion. These modes are analogs of instantons in semiclassical expansions, where the damping rate plays the role of the instanton action. We show that this system displays the generic features of resurgence, with explicit quantitative relations between the fluctuations about different orders of these nonhydrodynamic modes. The imaginary part of the trans-series \u2026",
+                "We show that the squared speed of sound v s 2 is bounded from above at high temperatures by the conformal value of 1\/3 in a class of strongly coupled four-dimensional field theories, given some mild technical assumptions. This class consists of field theories that have gravity duals sourced by a single-scalar field. There are no known examples to date of field theories with gravity duals for which v s 2 exceeds 1\/3 in energetically favored configurations. We conjecture that v s 2= 1\/3 represents an upper bound for a broad class of four-dimensional theories.",
+                "If the electroweak sector of the standard model is described by classically conformal dynamics, the early Universe evolution can be substantially altered. It is already known that\u2014contrarily to the standard model case\u2014a first-order electroweak phase transition may occur. Here we show that, depending on the model parameters, a dramatically different scenario may happen: A first-order, six massless quark QCD phase transition occurs first, which then triggers the electroweak symmetry breaking. We derive the necessary conditions for this dynamics to occur, using the specific example of the classically conformal B\u2212 L model. In particular, relatively light weakly coupled particles are predicted, with implications for collider searches. This scenario is also potentially rich in cosmological consequences, such as renewed possibilities for electroweak baryogenesis, altered dark matter production, and gravitational wave \u2026",
+                "There have been a number of forms of a conjecture that there is a universal lower bound on the ratio, \u03b7\/s, of the shear viscosity, \u03b7, to entropy density, s, with several different domains of validity. We examine the various forms of the conjecture. We argue that a number of variants of the conjecture are not viable due to the existence of theoretically consistent counterexamples. We also note that much of the evidence in favor of a bound does not apply to the variants which have not yet been ruled out.",
+                "We point out that S O (2 N c) gauge theory with N f fundamental Dirac fermions does not have a sign problem at finite baryon number chemical potential \u03bc B. One can thus use lattice Monte Carlo simulations to study this theory at finite density. The absence of a sign problem in the S O (2 N c) theory is particularly interesting because a wide class of observables in the S O (2 N c) theory coincide with observables in QCD in the large N c limit, as we show using the technique of large N c orbifold equivalence. We argue that the orbifold equivalence between the two theories continues to hold at finite \u03bc B provided one adds appropriate deformation terms to the S O (2 N c) theory. This opens up the prospect of learning about QCD at finite \u03bc B using lattice studies of the S O (2 N c) theory.",
+                "Large-N volume independence in circle-compactified QCD with adjoint Weyl fermions implies the absence of any phase transitions as the radius is dialed to arbitrarily small values. This class of theories is believed to possess a Hagedorn density of hadronic states. It turns out that these properties are in apparent tension with each other, because a Hagedorn density of states typically implies a phase transition at some finite radius. This tension is resolved if there are degeneracies between the spectra of bosonic and fermionic states, as happens in the N f= 1 supersymmetric case. Resolution of the tension for N f> 1 then suggests the emergence of a fermionic symmetry at large N, where there is no supersymmetry. We can escape the Coleman-Mandula theorem since the N=\u221e theory is free, with a trivial S matrix. We show an example of such a spectral degeneracy in a nonsupersymmetric toy example which has a \u2026",
+                "We show that there exists a special compactification of QCD on R 3\u00d7 S 1 in which the theory has a domain where continuous chiral symmetry breaking is analytically calculable. We give a microscopic derivation of the chiral Lagrangian, the chiral condensate, and the Gell-Mann\u2013Oakes\u2013Renner relation m \u03c0 2 f \u03c0 2=\u2212 m q\u27e8 q q\u27e9. Abelian duality, monopole operators, and flavor-twisted boundary conditions play the main roles. The flavor twisting leads to the new effect of fractional jumping of fermion zero modes among monopole instantons. Chiral symmetry breaking is induced by monopole-instanton operators, and the Nambu-Goldstone pions arise by color-flavor transmutation from gapless \u201cdual photons.\u201d We also give a microscopic picture of the \u201cconstituent quark\u201d masses. Our results are consistent with expectations from chiral perturbation theory at large S 1, and yield strong support for adiabatic continuity between \u2026"
+            ],
+            [
+                [
+                    "quantum field theory",
+                    "theoretical nuclear physics",
+                    "theoretical particle physics"
+                ]
+            ]
+        ]
+    ]
+}

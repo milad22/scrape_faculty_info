@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "SCL4RFTC",
+            "5ONt15QAAAAJ",
+            [
+                "Quantum cellular automata",
+                "Logical devices implemented using quantum cellular automata",
+                "A device architecture for computing with quantum dots",
+                "Realization of a functional cell for quantum-dot cellular automata",
+                "Digital logic gate using quantum-dot cellular automata",
+                "The quantum transmitting boundary method",
+                "Dynamic behavior of quantum cellular automata",
+                "Molecular quantum-dot cellular automata",
+                "Bistable saturation in coupled quantum dots for quantum cellular automata",
+                "Diffraction from stepped surfaces: I. Reversible surfaces"
+            ],
+            [
+                "The authors formulate a new paradigm for computing with cellular automata (CAS) composed of arrays of quantum devices-quantum cellular automata. Computing in such a paradigm is edge driven. Input, output, and power are delivered at the edge of the CA array only; no direct flow of information or energy to internal cells is required. Computing in this paradigm is also computing with the ground state. The architecture is so designed that the ground-state configuration of the array, subject to boundary conditions determined by the input, yields the computational result. The authors propose a specific realization of these ideas using two-electron cells composed of quantum dots. The charge density in the cell is very highly polarized (aligned) along one of the two cell axes, suggestive of a two-state CA. The polarization of one cell induces a polarization in a neighboring cell through the Coulomb interaction in a very non \u2026",
+                "We examine the possible implementation of logic devices using coupled quantum dot cells. Each quantum cell contains two electrons which interact Coulombically with neighboring cells. The charge distribution in each cell tends to align along one of two perpendicular axes, which allows the encoding of binary information using the state of the cell. The state of each cell is affected in a very nonlinear way by the states of its neighbors. A line of these cells can be used to transmit binary information. We use these cells to design inverters, programmable logic gates, dedicated AND and OR gates, and non\u2010interfering wire crossings. Complex arrays are simulated which implement the exclusive\u2010OR function and a single\u2010bit full adder.",
+                "We describe a paradigm for computing with interacting quantum dots, quantum-dot cellular automata (QCA). We show how arrays of quantum-dot cells could be used to perform useful computations. A new adiabatic switching paradigm is developed which permits clocked control, eliminates metastability problems, and enables a pipelined architecture.",
+                "This paper presents an experimental demonstration of a basic cell of the quantum-dot cellular automata, a transistorless approach to computation that addresses the issues of device density, interconnection, and power dissipation. The device under study was composed of four metal dots, connected with tunnel junctions and capacitors, and operated at <50 mK. Operation was evidenced by switching of a single electron between output dots controlled by a single electron switching in input dots, demonstrating a nonlinear, bistable response.",
+                "A functioning logic gate based on quantum-dot cellular automata is presented, where digital data are encoded in the positions of only two electrons. The logic gate consists of a cell, composed of four dots connected in a ring by tunnel junctions, and two single-dot electrometers. The device is operated by applying inputs to the gates of the cell. The logic AND and OR operations are verified using the electrometer outputs. Theoretical simulations of the logic gate output characteristics are in excellent agreement with experiment.",
+                "A numerical algorithm for the solution of the two\u2010dimensional effective mass Schr\u00f6dinger equation for current\u2010carrying states is developed. Boundary conditions appropriate for such states are developed and a solution algorithm constructed that is based on the finite element method. The utility of the technique is illustrated by solving problems relevant to submicron semiconductor quantum device structures.",
+                "We examine the dynamic behavior of quantum cellular automata, arrays of artificial quantum\u2010dot cells that can be used to perform useful computations. The dynamics of the array can be solved directly, retaining the full many\u2010electron degrees of freedom only for small array sizes. For larger arrays, we develop several approximate techniques for reducing the size of the basis set required. We examine the effect of intercellular quantum correlations on the switching response. Several important examples of switching behavior are solved using the techniques developed.",
+                "Molecular electronics is commonly conceived as reproducing diode or transistor action at the molecular level. The quantum-dot cellular automata (QCA) approach offers an attractive alternative in which binary information is encoded in the configuration of charge among redox-active molecular sites. The Coulomb interaction between neighboring molecules provides device\u2212device coupling. No current flow between molecules is required. We present an ab initio analysis of a simple molecular system which acts as a molecular QCA cell. The intrinsic bistability of the charge configuration results in dipole or quadrupole fields which couple strongly to the state of neighboring molecules. We show how logic gates can be implemented. We examine the role of the relaxation of nuclear coordinates in the molecular charge reconfiguration. ",
+                "A simple model quantum dot cell containing two electrons is analyzed as a candidate for quantum cellular automata implementations. The cell has eigenstates whose charge density is strongly aligned along one of two directions. In the presence of the electrostatic perturbation due to a neighboring cell, the ground state is nearly completely aligned (polarized) in one direction only. The polarization is a highly nonlinear function of the perturbing electrostatic fields and shows the strong bistable saturation important for cellular automation function.",
+                "In electron or atom diffraction experiments on surfaces, the angular shapes of the diffracted beams depend upon the distribution of steps over the surface. In this paper we analyze diffracted beam profiles from stepped surfaces that are reversible. A reversible surface is one in which the pair correlation function over the surface is symmetric with respect to positive and negative directions. We show that the intensity profile across a diffracted beam can be separated into a sharp central spike due to the limit of the correlation function at large separation plus wings or shoulders due to the finite extent of the step disorder. Simple functional expressions for these angular profiles are obtained by a Markov method of treating a one-dimensional geometric distribution of steps. The result explicitly displays the deep structure found for the general case. The method reduces the calculation to a simple eigenvalue problem so that \u2026"
+            ],
+            [
+                [
+                    "electrical engineering",
+                    "nanoelectronics",
+                    "physics",
+                    "chemistry"
+                ]
+            ]
+        ]
+    ]
+}

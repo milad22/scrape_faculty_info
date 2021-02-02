@@ -1,0 +1,32 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "MHZORL74",
+            "8bmIJtAAAAAJ",
+            [
+                "Asymptotic prethermalization in periodically driven classical spin chains",
+                "Machine learning as ecology"
+            ],
+            [
+                "We reveal a continuous dynamical heating transition between a prethermal and an infinite-temperature stage in a clean, chaotic periodically driven classical spin chain. The transition time is a steep exponential function of the drive frequency, showing that the exponentially long-lived prethermal plateau, originally observed in quantum Floquet systems, survives the classical limit. Even though there is no straightforward generalization of Floquet\u2019s theorem to nonlinear systems, we present strong evidence that the prethermal physics is well described by the inverse-frequency expansion. We relate the stability and robustness of the prethermal plateau to drive-induced synchronization not captured by the expansion. Our results set the pathway to transfer the ideas of Floquet engineering to classical many-body systems, and are directly relevant for photonic crystals and cold atom experiments in the superfluid regime.",
+                "Machine learning methods have had spectacular success on numerous problems. Here we show that a prominent class of learning algorithms\u2014including support vector machines (SVMs)\u2014have a natural interpretation in terms of ecological dynamics. We use these ideas to design new online SVM algorithms that exploit ecological invasions, and benchmark performance using the MNIST dataset. Our work provides a new ecological lens through which we can view statistical learning and opens the possibility of designing ecosystems for machine learning."
+            ],
+            [
+                [
+                    "Statistical Physics",
+                    "Machine Learning"
+                ]
+            ]
+        ]
+    ]
+}

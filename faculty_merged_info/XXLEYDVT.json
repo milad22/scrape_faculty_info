@@ -1,0 +1,42 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "XXLEYDVT",
+            "67r3LM4AAAAJ",
+            [
+                "The ATLAS experiment at the CERN large hadron collider",
+                "The ATLAS simulation infrastructure",
+                "Expected performance of the ATLAS experiment-detector, trigger and physics",
+                "Electron performance measurements with the ATLAS detector using the 2010 LHC proton-proton collision data",
+                "Performance of missing transverse momentum reconstruction in proton-proton collisions at  with ATLAS",
+                "Luminosity determination in pp collisions at  TeV using the ATLAS detector at the LHC",
+                "Measurement of the top quark-pair production cross section with ATLAS in pp collisions at   TeV"
+            ],
+            [
+                "Aad, G; Bentvelsen, S; Bobbink, GJ; Bos, K; Boterenbrood, H; Brouwer, G; Buis, EJ; Buskop, JJF;\nColijn, AP; Dankers, R; Daum, C; de Boer, R; de Jong, P; Ennes, P; Gosselink, M; Groenstege,\nH; Hart, RGG; Hartjes, F; Hendriks, PJ; Hessey, NP; Jansweijer, PPM; Kieft, G; Klous, S; Kluit, P;\nKoffeman, E; Koutsman, A; Liebig, W; Limper, M; Linde, F; Luijckx, G; Massaro, G; Muijs, A; Peeters,\nSJM; Reichold, A; Rewiersma, P; Rijpstra, M; Scholte, RC; Schuijlenburg, HW; Snuverink, J; van\nder Graaf, H; van der Kraaij, E; Van Eijk, B; van Kesteren, Z; van Vulpen, I; Verkerke, W; Vermeulen,\nJC; Vreeswijk, M; Werneke, P; Cakir, O; Ciftci, AK; Duran Yildiz, H; Sultanov, S; Turk Cakir, I; Yilmaz,\nM; Aubert, B; Bazan, A; Beaugiraud, B; Bellachia, F; Berger, N; Blaising, JJ; Colas, J; Consonni,\nM; Delebecque, P; Delsart, PA; Di Ciaccio, L; Dayot, N Dumont>; Elles, S; Ghez, Philippe>; Girard,\nCG; Gouanere, M; Goy, C; Guillemin, T; Ionescu, G \u2026 \n",
+                "The simulation software for the ATLAS Experiment at the Large Hadron Collider is being used for large-scale production of events on the LHC Computing Grid. This simulation requires many components, from the generators that simulate particle collisions, through packages simulating the response of the various detectors and triggers. All of these components come together under the ATLAS simulation infrastructure. In this paper, that infrastructure is discussed, including that supporting the detector description, interfacing the event generation, and combining the GEANT4 simulation of the response of the individual detectors. Also described are the tools allowing the software validation, performance testing, and the validation of the simulated output against known physics processes.",
+                "A detailed study is presented of the expected performance of the ATLAS detector. The reconstruction of tracks, leptons, photons, missing energy and jets is investigated, together with the performance of b-tagging and the trigger. The physics potential for a variety of interesting physics processes, within the Standard Model and beyond, is examined. The study comprises a series of notes based on simulations of the detector and physics processes, with particular emphasis given to the data expected from the first years of operation of the LHC at CERN.",
+                "Detailed measurements of the electron performance of the ATLAS detector at the LHC are reported, using decays of the Z, W and J\/\u03c8 particles. Data collected in 2010 at\\(\\sqrt {s}= 7\\mbox {~ TeV}\\) are used, corresponding to an integrated luminosity of almost 40 pb\u2212 1. The inter-alignment of the inner detector and the electromagnetic calorimeter, the determination of the electron energy scale and resolution, and the performance in terms of response uniformity and linearity are discussed. The electron identification, reconstruction and trigger efficiencies, as well as the charge misidentification probability, are also presented.",
+                "The measurement of missing transverse momentum in the ATLAS detector, described in this paper, makes use of the full event reconstruction and a calibration based on reconstructed physics objects. The performance of the missing transverse momentum reconstruction is evaluated using data collected in pp collisions at a centre-of-mass energy of 7 TeV in 2010. Minimum bias events and events with jets of hadrons are used from data samples corresponding to an integrated luminosity of about 0.3 nb\u22121 and 600 nb\u22121 respectively, together with events containing a Z boson decaying to two leptons (electrons or muons) or a W boson decaying to a lepton (electron or muon) and a neutrino, from a data sample corresponding to an integrated luminosity of about 36 pb\u22121. An estimate of the systematic uncertainty on the missing transverse momentum scale is presented.",
+                "Measurements of luminosity obtained using the ATLAS detector during early running of the Large Hadron Collider (LHC) at  TeV are presented. The luminosity is independently determined using several detectors and multiple algorithms, each having different acceptances, systematic uncertainties and sensitivity to background. The ratios of the luminosities obtained from these methods are monitored as a function of time and of \u03bc, the average number of inelastic interactions per bunch crossing. Residual time- and \u03bc-dependence between the methods is less than 2% for 0<\u03bc<2.5. Absolute luminosity calibrations, performed using beam separation scans, have a common systematic uncertainty of \u00b111%, dominated by the measurement of the LHC beam currents. After calibration, the luminosities obtained from the different methods differ by at most \u00b12%. The visible cross sections measured using the beam \u2026",
+                "A measurement of the production cross-section for top quark pairs () in pp collisions at  is presented using data recorded with the ATLAS detector at the Large Hadron Collider. Events are selected in two different topologies: single lepton (electron e or muon \u03bc) with large missing transverse energy and at least four jets, and dilepton (ee, \u03bc\u03bc or e\u03bc) with large missing transverse energy and at least two jets. In a data sample of 2.9 pb\u22121, 37 candidate events are observed in the single-lepton topology and 9 events in the dilepton topology. The corresponding expected backgrounds from non- Standard Model processes are estimated using data-driven methods and determined to be 12.2\u00b13.9 events and 2.5\u00b10.6 events, respectively. The kinematic properties of the selected events are consistent with SM  production. The inclusive top quark pair production cross-section is measured to be \u2026"
+            ],
+            [
+                [
+                    "Particle Physics",
+                    "Cosmic Rays"
+                ]
+            ]
+        ]
+    ]
+}

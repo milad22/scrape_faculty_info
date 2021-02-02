@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "KBJ4G3Y0",
+            "QyHAXo8AAAAJ",
+            [
+                "Thermodynamics of spacetime: the Einstein equation of state",
+                "Gravity with a dynamical preferred frame",
+                "On black hole entropy",
+                "Lorentz violation at high energy: concepts, phenomena, and astrophysical constraints",
+                "Black-hole evaporation and ultrashort distances",
+                "Nonequilibrium thermodynamics of spacetime",
+                "Black hole entropy and higher curvature interactions",
+                "Nonperturbative quantum geometries",
+                "Hawking spectrum and high frequency dispersion",
+                "Vector two-point functions in maximally symmetric spaces"
+            ],
+            [
+                "The Einstein equation is derived from the proportionality of entropy and the horizon area together with the fundamental relation \u03b4 Q= T dS. The key idea is to demand that this relation hold for all the local Rindler causal horizons through each spacetime point, with \u03b4 Q and T interpreted as the energy flux and Unruh temperature seen by an accelerated observer just inside the horizon. This requires that gravitational lensing by matter energy distorts the causal structure of spacetime so that the Einstein equation holds. Viewed in this way, the Einstein equation is an equation of state.",
+                "We study a generally covariant model in which local Lorentz invariance is broken by a dynamical unit timelike vector field u a\u2014the \u201caether.\u201d Such a model makes it possible to study the gravitational and cosmological consequences of preferred frame effects, such as \u201cvariable speed of light\u201d or high frequency dispersion, while preserving a generally covariant metric theory of gravity. In this paper we restrict attention to an action for an effective theory of the aether which involves only the antisymmetrized derivative\u2207[a u b]. Without matter this theory is equivalent to a sector of the Einstein-Maxwell-charged dust system. The aether has two massless transverse excitations, and the solutions of the model include all vacuum solutions of general relativity (as well as other solutions). However, the aether generally develops gradient singularities which signal a breakdown of this effective theory. Including the symmetrized \u2026",
+                "Two techniques for computing black hole entropy in generally covariant gravity theories including arbitrary higher derivative interactions are studied. The techniques are Wald\u2019s Noether charge approach introduced recently, and a field redefinition method developed in this paper. Wald\u2019s results are extended by establishing that his local geometric expression for the black hole entropy gives the same result when evaluated on an arbitrary cross section of a Killing horizon (rather than just the bifurcation surface). Further, we show that his expression for the entropy is not affected by ambiguities which arise in the Noether construction. Using the Noether charge expression, the entropy is evaluated explicitly for black holes in a wide class of generally covariant theories. For a Lagrangian of the functional form L\u0303= L\u0303 (\u03c8 m,\u2207 a \u03c8 m, g a b, R a b c d,\u2207 e R a b c d), it is found that the entropy is given by S=-2\u03c0\u222e(Y a b c d-\u2207 e Z e \u2026",
+                "We consider here the possibility of quantum gravity induced violation of Lorentz symmetry (LV). Even if suppressed by the inverse Planck mass such LV can be tested by current experiments and astrophysical observations. We review the effective field theory approach to describing LV, the issue of naturalness, and many phenomena characteristic of LV. We discuss some of the current observational bounds on LV, focusing mostly on those from high energy astrophysics in the QED sector at order E\/MPlanck. In this context, we present a number of new results which include the explicit computation of rates of the most relevant LV processes, the derivation of a new photon decay constraint, and modification of previous constraints taking proper account of the helicity dependence of the LV parameters implied by effective field theory.",
+                "The role played by ultrahigh frequencies or ultrashort distances in the usual derivations of the Hawking effect is discussed and criticized. The question\" would a black hole radiate if there were a Planck scale cutoff in the rest frame of the hole?\" is posed. Guidance is sought from Unruh's fluid-flow analogue of black-hole radiation, by taking into account the atomic nature of the fluid. Two arguments for black-hole radiation are given which assume a Planck length cutoff. One involves the response of static accelerated detectors outside the horizon, and the other involves conservation of the expectation value of the stress tensor. Neither argument is conclusive, but they do strongly suggest that, in spite of reasonable doubt about the usual derivations of black-hole radiation, a\" safe\" derivation which avoids our ignorance of ultrashort-distance physics can likely be formulated. Remaining open questions are discussed.",
+                "It has previously been shown that the Einstein equation can be derived from the requirement that the Clausius relation d S= \u03b4 Q\/T hold for all local acceleration horizons through each spacetime point, where d S is one-quarter the horizon area change in Planck units and \u03b4 Q and T are the energy flux across the horizon and the Unruh temperature seen by an accelerating observer just inside the horizon. Here we show that a curvature correction to the entropy that is polynomial in the Ricci scalar requires a nonequilibrium treatment. The corresponding field equation is derived from the entropy balance relation d S= \u03b4 Q\/T+ d i S, where d i S is a bulk viscosity entropy production term that we determine by imposing energy-momentum conservation. Entropy production can also be included in pure Einstein theory by allowing for shear viscosity of the horizon.",
+                "A general formula for the entropy of stationary black holes in Lovelock higher-curvature gravity theories is obtained by integrating the first law of black hole mechanics, which is derived by Hamiltonian methods. The entropy is not simply one quarter of the surface area of the horizon, but also includes a sum of intrinsic curvature invariants integrated over a cross section of the horizon.",
+                "Using the self-dual representation of quantum general relativity, based on Ashtekar's new phase space variables, we present an infinite dimensional family of quantum states of the gravitational field which are exactly annihilated by the hamiltonian constraint. These states are constructed from Wilson loops for Ashtekar's connection (which is the spatial part of the left handed spin connection). We propose a new regularization procedure which allows us to evaluate the action of the hamiltonian constraint on these states.Infinite linear combinations of these states which are formally annihilated by the diffeomorphism constraints as well are also described. These are explicit examples of physical states of the gravitational field \u2014 and for the compact case are exact zero eigenstates of the hamiltonian of quantum general relativity. Several different approaches to constructing diffeomorphism invariant states in the self dual \u2026",
+                "We study the spectrum of created particles in two-dimensional black hole geometries for a linear, Hermitian scalar field satisfying a Lorentz noninvariant field equation with higher spatial derivative terms that are suppressed by powers of a fundamental momentum scale k 0. The preferred frame is the\" free-fall frame\" of the black hole. This model is a variation of Unruh's sonic black hole analogy. We find that there are two qualitatively different types of particle production in this model: a thermal Hawking flux generated by\" mode conversion\" at the black hole horizon, and a nonthermal spectrum generated via scattering off the background into negative free-fall frequency modes. This second process has nothing to do with black holes and does not occur for the ordinary wave equation because such modes do not propagate outside the horizon with positive Killing frequency. The horizon component of the radiation is \u2026",
+                "We obtain massive and massless vector two-point functions in maximally symmetric spaces (and vacua) of any number of dimensions. These include de Sitter space and anti-de Sitter space, and their Euclidean analogsS n andH n. Our method is based on a simple way of constructing every possible maximally symmetric bitensorT a...bc\u2032...d\u2032(x, x\u2032) which carries tangent-space indicesa...b atx andc\u2032...d\u2032 atx\u2032."
+            ],
+            [
+                [
+
+                ]
+            ]
+        ]
+    ]
+}

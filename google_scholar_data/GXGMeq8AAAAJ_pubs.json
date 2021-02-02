@@ -1,0 +1,87 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3
+    ],
+    "data":[
+        [
+            "Reducing energy consumption without affecting computational performance is a significant research driver in computer engineering. The Partitioned Global Address Space (PGAS) programming model provides a global address space for ease-of-use while providing locality-awareness for efficient execution. For symmetric multiprocessor (SMP) clusters, PGAS locality-awareness offers opportunities for intelligent energy management due to the inherent latencies in the interconnection network fabric. In this paper, the second in a series that explores PGAS power optimization, we present a detailed examination of how data locality-awareness can be exploited to improve the energy consumption of workload sharing on SMP clusters. We present a systematic methodology for analyzing a given algorithm's potential for locality-aware power optimization. We show how to automate the code modifications for an iterative \u2026",
+            "Locality-aware power optimization and measurement methodology for PGAS workloads on SMP clusters",
+            "D. Newsom and S. Azari and A. Anbar and T. El-Ghazawi",
+            "2013",
+            "GXGMeq8AAAAJ:u5HHmVD_uO8C",
+            8,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6604508\/",
+            "974687515296594493",
+            "\/scholar?cites=974687515296594493",
+            {
+                "2013":1,
+                "2014":1,
+                "2015":2,
+                "2016":4
+            }
+        ],
+        [
+            "One of the key challenges in optimizing CPU power consumption at the program level is the difficulty of precisely measuring the power consumption of the CPU (as distinct from other system components) during the various phases of a program's execution. This paper presents a scalable CPU power measurement framework with its associated reporting and data acquisition components that can be used to accurately measure program-related CPU power consumption on symmetric multiprocessor (SMP) cluster systems.",
+            "Granular CPU power measurement for SMP clusters",
+            "D. Newsom and S. Azari and A. Anbar and T. El-Ghazawi",
+            "2013",
+            "GXGMeq8AAAAJ:u-x6o8ySG0sC",
+            5,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6604465\/",
+            "10616795110615196403",
+            "\/scholar?cites=10616795110615196403",
+            {
+                "2013":1,
+                "2014":2,
+                "2015":2
+            }
+        ],
+        [
+            "Cost and environmental concerns continue to drive research in high performance computing (HPC) energy optimization. Commodity server platforms are increasingly deployed as compute clusters which have a variety of energy management control features. In this paper, we examine the energy reduction effect of different ways to co-schedule benchmark codes on a HPC cluster using different combinations of job queue control dimensions including, thread core affinity interleaving, Dynamic Voltage and Frequency Scaling (DVFS), and job re-ordering. The combination space of control parameters in conjunction with varying job queue depths is too large to explore using a direct measurement approach so we developed a scheduling simulator that can quickly and efficiently examine a large permutation space of job-spans to find the energy optimal order and control configuration. Equipped with the base time\/energy \u2026",
+            "Energy Efficient Job Co-scheduling for High-Performance Parallel Computing Clusters",
+            "D. Newsom and S. Azari and O. Serres and A. Badawy and T. El-Ghazawi",
+            "2015",
+            "GXGMeq8AAAAJ:Tyk-4Ss8FVUC",
+            4,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7463781\/",
+            "9104910987456196360",
+            "\/scholar?cites=9104910987456196360",
+            {
+                "2016":1,
+                "2017":1,
+                "2018":1,
+                "2019":1
+            }
+        ],
+        [
+            "Power consumption increasingly presents an upper bound on sustainable large scale computing performance and reliability. The Partitioned Global Address Space (PGAS) programming model is a family of parallel programming paradigms with a global address space for ease-of-use while providing locality awareness for efficient execution. Very little exploration has been done to determine the potential of PGAS programming models in improving scalable energy efficient computation for high performance computing (HPC) clusters. This paper examines features of the PGAS programming model that may support predictively reducing power consumption in distributed clusters via dynamic voltage frequency scaling (DVFS). These concepts are tested with Unified Parallel C (UPC) codes running on a cluster of commodity PCs which have been instrumented to measure power at the CPU socket level. We have also \u2026",
+            "Predictive energy management techniques for PGAS programming",
+            "D. Newsom and S. Azari and A. Anbar and T. El-Ghazawi",
+            "2013",
+            "GXGMeq8AAAAJ:d1gkVwhDpl0C",
+            2,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6616462\/",
+            "13388303286613428216",
+            "\/scholar?cites=13388303286613428216",
+            {
+                "2013":1,
+                "2014":1
+            }
+        ]
+    ]
+}

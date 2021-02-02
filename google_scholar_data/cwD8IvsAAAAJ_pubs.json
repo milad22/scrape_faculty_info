@@ -1,0 +1,69 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "Thermoacoustic heat engines provide a practical solution to the problem of heat management in microcircuits where they can be used to pump heat or produce spot cooling of specific circuit elements. There are basically two types of thermoacoustic engines, a prime mover where heat is converted to acoustic energy, and a heat pump or cooler where sound can pump heat up a temperature gradient. Such devices are relatively simple, they can be efficient, and they are readily adaptable to microcircuit interfacing. Since this type of engines is usually operated in a resonant mode, the operating frequency determines its size. The devices presented here are pumped at frequencies ranging from 4 to 24 kHz. They have been developed for interfacing with microcircuits as heat pumps or spot coolers. Results of their performance are presented and suggestions for further improvements are discussed.",
+            "Design and development of high-frequency thermoacoustic engines for thermal management in microelectronics",
+            "Orest G Symko and E Abdel-Rahman and YS Kwon and M Emmi and R Behunin",
+            "2004",
+            "cwD8IvsAAAAJ:ULOm3_A8WrAC",
+            147,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0026269203002908",
+            "5391754450261325404",
+            "\/scholar?cites=5391754450261325404",
+            {
+                "2004":2,
+                "2005":4,
+                "2006":3,
+                "2007":7,
+                "2008":11,
+                "2009":5,
+                "2010":14,
+                "2011":8,
+                "2012":12,
+                "2013":17,
+                "2014":22,
+                "2015":9,
+                "2016":6,
+                "2017":1,
+                "2018":9,
+                "2019":6,
+                "2020":7,
+                "2021":1
+            }
+        ],
+        [
+            "Brillouin laser oscillators offer powerful and flexible dynamics as the basis for mode-locked lasers, microwave oscillators, and optical gyroscopes in a variety of optical systems. However, Brillouin interactions are markedly weak in conventional silicon photonic waveguides, stifling progress toward silicon-based Brillouin lasers. The recent advent of hybrid photonic-phononic waveguides has revealed Brillouin interactions to be one of the strongest and most tailorable nonlinearities in silicon. In this study, we have harnessed these engineered nonlinearities to demonstrate Brillouin lasing in silicon. Moreover, we show that this silicon-based Brillouin laser enters a regime of dynamics in which optical self-oscillation produces phonon linewidth narrowing. Our results provide a platform to develop a range of applications for monolithic integration within silicon photonic circuits.",
+            "A silicon Brillouin laser",
+            "Nils T Otterstrom and Ryan O Behunin and Eric A Kittlaus and Zheng Wang and Peter T Rakich",
+            "2018",
+            "cwD8IvsAAAAJ:iH-uZ7U-co4C",
+            122,
+            "https:\/\/science.sciencemag.org\/content\/360\/6393\/1113.abstract",
+            "13508702137564736092",
+            "\/scholar?cites=13508702137564736092",
+            {
+                "2017":2,
+                "2018":22,
+                "2019":46,
+                "2020":45,
+                "2021":7
+            }
+        ]
+    ]
+}

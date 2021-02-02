@@ -1,0 +1,197 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "We present a fully three-dimensional magnetohydrodynamic model of the solar corona and solar wind with turbulence transport and heating. The model is based on Reynolds-averaged solar wind equations coupled with transport equations for turbulence energy, cross helicity, and correlation scale. The model includes separate energy equations for protons and electrons and accounts for the effects of electron heat conduction, radiative cooling, Coulomb collisions, Reynolds stresses, eddy viscosity, and turbulent heating of protons and electrons. The computational domain extends from the coronal base to 5 au and is divided into two regions: the inner (coronal) region, 1\u201330 R\u2609, and the outer (solar wind) region, 30 R\u2609\u20135 au. Numerical steady-state solutions in both regions are constructed by time relaxation in the frame of reference corotating with the Sun. Inner boundary conditions are specified using either a \u2026",
+            "The steady global corona and solar wind: A three-dimensional MHD simulation with turbulence transport and heating",
+            "Arcadi V Usmanov and William H Matthaeus and Melvyn L Goldstein and Rohit Chhiber",
+            "2018",
+            "rAKZWy8AAAAJ:kNdYIx-mwKoC",
+            34,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/1538-4357\/aad687\/meta",
+            "13874045070210104201",
+            "\/scholar?cites=13874045070210104201",
+            {
+                "2018":2,
+                "2019":8,
+                "2020":22,
+                "2021":2
+            }
+        ],
+        [
+            "The investigation of the diffusive transport of charged particles in a turbulent magnetic field remains a subject of considerable interest. Research has most frequently concentrated on determining the diffusion coefficient in the presence of a mean magnetic field. Here we consider the diffusion of charged particles in fully three-dimensional isotropic turbulent magnetic fields with no mean field, which may be pertinent to many astrophysical situations. We identify different ranges of particle energy depending upon the ratio of Larmor radius to the characteristic outer length scale of turbulence. Two different theoretical models are proposed to calculate the diffusion coefficient, each applicable to a distinct range of particle energies. The theoretical results are compared to those from computer simulations, showing good agreement.",
+            "Charged particle diffusion in isotropic random magnetic fields",
+            "Prachanda Subedi and Wirin Sonsrettee and Pasquale Blasi and David Ruffolo and WH Matthaeus and David Montgomery and Piyanate Chuychai and Pablo Dmitruk and Minping Wan and Tulasi Nandan Parashar and Rohit Chhiber",
+            "2017",
+            "rAKZWy8AAAAJ:IjCSPb-OGe4C",
+            28,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/1538-4357\/aa603a\/meta",
+            "10414589082769888638",
+            "\/scholar?cites=10414589082769888638",
+            {
+                "2017":2,
+                "2018":7,
+                "2019":3,
+                "2020":15,
+                "2021":1
+            }
+        ],
+        [
+            "High\u2010resolution multispacecraft magnetic field measurements from the Magnetospheric Multiscale mission's flux\u2010gate magnetometer are employed to examine statistical properties of plasma turbulence in the terrestrial magnetosheath and in the solar wind. Quantities examined include wave number spectra; structure functions of order two, four, and six; probability density functions of increments; and scale\u2010dependent kurtoses of the magnetic field. We evaluate the Taylor frozen\u2010in approximation by comparing single\u2010spacecraft time series analysis with direct multispacecraft measurements, including evidence based on comparison of probability distribution functions. The statistics studied span spatial scales from the inertial range down to proton and electron scales. We find agreement of spectral estimates using three different methods, and evidence of intermittent turbulence in both magnetosheath and solar wind \u2026",
+            "Higher\u2010order turbulence statistics in the Earth's magnetosheath and the solar wind using Magnetospheric Multiscale observations",
+            "Rohit Chhiber and Alexandros Chasapis and Riddhi Bandyopadhyay and TN Parashar and William H Matthaeus and BA Maruca and Thomas Earle Moore and James L Burch and Roy B Torbert and Christopher T Russell and Olivier Le Contel and MR Argall and D Fischer and Laurent Mirioni and RJ Strangeway and CJ Pollock and BL Giles and DJ Gershman",
+            "2018",
+            "rAKZWy8AAAAJ:UebtZRa9Y70C",
+            27,
+            "https:\/\/agupubs.onlinelibrary.wiley.com\/doi\/abs\/10.1029\/2018JA025768",
+            "14911835286380334214",
+            "\/scholar?cites=14911835286380334214",
+            {
+                "2019":10,
+                "2020":16,
+                "2021":1
+            }
+        ],
+        [
+            "Using observational data from the Magnetospheric Multiscale mission in the Earth's magnetosheath, we estimate the energy cascade rate at three ranges of length scale, employing a single data interval, using different techniques within the framework of incompressible magnetohydrodynamic (MHD) turbulence. At the energy-containing scale, the energy budget is controlled by the von K\u00e1rm\u00e1n decay law. Inertial range cascade is estimated by fitting a linear scaling to the mixed third-order structure function. Finally, we use a multi-spacecraft technique to estimate the Kolmogorov\u2013Yaglom-like cascade rate in the kinetic range, well below the ion inertial length scale, where we expect a reduction due to involvement of other channels of transfer. The computed inertial range cascade rate is almost equal to the von K\u00e1rm\u00e1n\u2013MHD law at the energy-containing scale, while the incompressive cascade rate evaluated at the \u2026",
+            "Incompressive energy transfer in the Earth\u2019s magnetosheath: magnetospheric multiscale observations",
+            "Riddhi Bandyopadhyay and A Chasapis and R Chhiber and TN Parashar and WH Matthaeus and MA Shay and BA Maruca and JL Burch and TE Moore and CJ Pollock and BL Giles and WR Paterson and J Dorelli and DJ Gershman and RB Torbert and CT Russell and RJ Strangeway",
+            "2018",
+            "rAKZWy8AAAAJ:ufrVoPGSRksC",
+            26,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/1538-4357\/aade04\/meta",
+            "5485251700907709648",
+            "\/scholar?cites=5485251700907709648",
+            {
+                "2018":1,
+                "2019":10,
+                "2020":14,
+                "2021":1
+            }
+        ],
+        [
+            "Studies of solar wind turbulence traditionally employ high-resolution magnetic field data, but high-resolution measurements of ion and electron moments have been possible only recently. We report the first turbulence studies of ion and electron velocity moments accumulated in pristine solar wind by the Fast Plasma Investigation (FPI) instrument on board the Magnetospheric Multiscale Mission. Use of these data is made possible by a novel implementation of a frequency domain Hampel filter, described herein. After presenting procedures for processing of the data, we discuss statistical properties of solar wind turbulence extending into the kinetic range. Magnetic field fluctuations dominate electron and ion-velocity fluctuation spectra throughout the energy-containing and inertial ranges. However, a multispacecraft analysis indicates that at scales shorter than the ion inertial length, electron velocity fluctuations \u2026",
+            "Solar wind turbulence studies using MMS fast plasma investigation data",
+            "Riddhi Bandyopadhyay and A Chasapis and R Chhiber and TN Parashar and BA Maruca and WH Matthaeus and SJ Schwartz and S Eriksson and Olivier Le Contel and Hugo Breuillard and JL Burch and TE Moore and CJ Pollock and BL Giles and WR Paterson and J Dorelli and DJ Gershman and RB Torbert and CT Russell and RJ Strangeway",
+            "2018",
+            "rAKZWy8AAAAJ:roLk4NBRz8UC",
+            25,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/1538-4357\/aade93\/meta",
+            "2560666834205672952",
+            "\/scholar?cites=2560666834205672952",
+            {
+                "2018":2,
+                "2019":8,
+                "2020":14,
+                "2021":1
+            }
+        ],
+        [
+            "We use a three-dimensional magnetohydrodynamic simulation of the solar wind to calculate cosmic-ray diffusion coefficients throughout the inner heliosphere (). The simulation resolves large-scale solar wind flow, which is coupled to small-scale fluctuations through a turbulence model. Simulation results specify background solar wind fields and turbulence parameters, which are used to compute diffusion coefficients and study their behavior in the inner heliosphere. The parallel mean free path (mfp) is evaluated using quasi-linear theory, while the perpendicular mfp is determined from nonlinear guiding center theory with the random ballistic interpretation. Several runs examine varying turbulent energy and different solar source dipole tilts. We find that for most of the inner heliosphere, the radial mfp is dominated by diffusion parallel to the mean magnetic field; the parallel mfp remains at least an order of \u2026",
+            "Cosmic-ray diffusion coefficients throughout the inner heliosphere from a global solar wind simulation",
+            "Rohit Chhiber and Prachanda Subedi and Arcadi V Usmanov and William H Matthaeus and David Ruffolo and Melvyn L Goldstein and Tulasi N Parashar",
+            "2017",
+            "rAKZWy8AAAAJ:zYLM7Y9cAGgC",
+            23,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/1538-4365\/aa74d2\/meta",
+            "7022861544683133865",
+            "\/scholar?cites=7022861544683133865",
+            {
+                "2017":2,
+                "2018":8,
+                "2019":8,
+                "2020":4,
+                "2021":1
+            }
+        ],
+        [
+            "The Parker Solar Probe (PSP) primary mission extends seven years and consists of 24 orbits of the Sun with descending perihelia culminating in a closest approach of~ 9.8 R\u2299. In the course of these orbits PSP will pass through widely varying conditions, including anticipated large variations of turbulence properties, such as energy density, correlation scales, and cross helicities. Here we employ global magnetohydrodynamic simulations with self-consistent turbulence transport and heating to preview conditions that will likely be encountered by PSP by assuming suitable boundary conditions at the coronal base. The code evolves large-scale parameters\u2014such as the velocity, magnetic field, and temperature\u2014as well as the turbulent energy density, cross helicity, and correlation scale. These computed quantities provide the basis for evaluating additional useful parameters that are derivable from the primary model \u2026",
+            "Contextual Predictions for Parker Solar Probe. II. Turbulence Properties and Taylor Hypothesis",
+            "Rohit Chhiber and Arcadi V Usmanov and William H Matthaeus and Tulasi N Parashar and Melvyn L Goldstein",
+            "2019",
+            "rAKZWy8AAAAJ:qxL8FJ1GzNcC",
+            17,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/1538-4365\/ab16d7\/meta",
+            "2329603061457454649",
+            "\/scholar?cites=2329603061457454649",
+            {
+                "2019":3,
+                "2020":13,
+                "2021":1
+            }
+        ],
+        [
+            "The solar wind shows periods of highly Alfv\u00e9nic activity, where velocity fluctuations and magnetic fluctuations are aligned or antialigned with each other. It is generally agreed that solar wind plasma velocity and magnetic field fluctuations observed by the Parker Solar Probe (PSP) during the first encounter are mostly highly Alfv\u00e9nic. However, quantitative measures of Alfv\u00e9nicity are needed to understand how the characterization of these fluctuations compares with standard measures from prior missions in the inner and outer heliosphere, in fast wind and slow wind, and at high and low latitudes. To investigate this issue, we employ several measures to quantify the extent of Alfv\u00e9nicity\u2014the Alfv\u00e9n ratio r A, the normalized cross helicity \u03c3 c, the normalized residual energy \u03c3 r, and the cosine of angle between velocity and magnetic fluctuations . We show that despite the overall impression that the Alfv\u00e9nicity is large \u2026",
+            "Measures of scale-dependent Alfv\u00e9nicity in the first PSP solar encounter",
+            "TN Parashar and ML Goldstein and BA Maruca and WH Matthaeus and D Ruffolo and R Bandyopadhyay and R Chhiber and A Chasapis and R Qudsi and Daniel Vech and DA Roberts and SD Bale and JW Bonnell and T Dudok de Wit and K Goetz and PR Harvey and RJ MacDowall and D Malaspina and Marc Pulupa and JC Kasper and KE Korreck and AW Case and M Stevens and P Whittlesey and David Larson and R Livi and M Velli and N Raouafi",
+            "2020",
+            "rAKZWy8AAAAJ:4JMBOYKVnBMC",
+            16,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/1538-4365\/ab64e6\/meta",
+            "13858128688136002328",
+            "\/scholar?cites=13858128688136002328",
+            {
+                "2020":13,
+                "2021":3
+            }
+        ],
+        [
+            "In the presence of an externally supported, mean magnetic field, a turbulent, conducting medium, such as plasma, becomes anisotropic. This mean magnetic field, which is separate from the fluctuating, turbulent part of the magnetic field, has considerable effects on the dynamics of the system. In this paper, we examine the dissipation rates for decaying incompressible magnetohydrodynamic (MHD) turbulence with an increasing Reynolds number and in the presence of a mean magnetic field of varying strength. Proceeding numerically, we find that, as the Reynolds number increases, the dissipation rate asymptotes to a finite value for each magnetic-field strength, confirming the K\u00e1rm\u00e1n-Howarth hypothesis as applied to MHD. The asymptotic value of the dimensionless dissipation rate is initially suppressed from the zero-mean-field value by the mean magnetic field but then approaches a constant value for higher \u2026",
+            "Finite dissipation in anisotropic magnetohydrodynamic turbulence",
+            "Riddhi Bandyopadhyay and Sean Oughton and Minping Wan and William Matthaeus and Rohit Chhiber and Tulasi Parashar",
+            "2018",
+            "rAKZWy8AAAAJ:4TOpqqG69KYC",
+            14,
+            "https:\/\/journals.aps.org\/prx\/abstract\/10.1103\/PhysRevX.8.041052",
+            "14860950553446918614",
+            "\/scholar?cites=14860950553446918614",
+            {
+                "2019":5,
+                "2020":8,
+                "2021":1
+            }
+        ],
+        [
+            "Simple estimates of the number of Coulomb collisions experienced by the interplanetary plasma to the point of observation, ie, the\" collisional age\", can be usefully employed in the study of non-thermal features of the solar wind. Usually these estimates are based on local plasma properties at the point of observation. Here we improve the method of estimation of the collisional age by employing solutions obtained from global three-dimensional magnetohydrodynamics simulations. This enables evaluation of the complete analytical expression for the collisional age without using approximations. The improved estimation of the collisional timescale is compared with turbulence and expansion timescales to assess the relative importance of collisions. The collisional age computed using the approximate formula employed in previous work is compared with the improved simulation-based calculations to examine the \u2026",
+            "Solar wind collisional age from a global magnetohydrodynamics simulation",
+            "Rohit Chhiber and Arcadi V Usmanov and William H Matthaeus and Melvyn L Goldstein",
+            "2016",
+            "rAKZWy8AAAAJ:u-x6o8ySG0sC",
+            13,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/0004-637X\/821\/1\/34\/meta",
+            "15905536405545098237",
+            "\/scholar?cites=15905536405545098237",
+            {
+                "2016":1,
+                "2017":2,
+                "2018":2,
+                "2019":6,
+                "2020":1,
+                "2021":1
+            }
+        ]
+    ]
+}

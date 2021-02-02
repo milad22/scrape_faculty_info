@@ -1,0 +1,98 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2
+    ],
+    "data":[
+        [
+            "Popular modern generalized gradient approximations are biased toward the description of free-atom energies. Restoration of the first-principles gradient expansion for exchange over a wide range of density gradients eliminates this bias. We introduce a revised Perdew-Burke-Ernzerhof generalized gradient approximation that improves equilibrium properties of densely packed solids and their surfaces.",
+            "Restoring the density-gradient expansion for exchange in solids and surfaces",
+            "John P Perdew and Adrienn Ruzsinszky and G\u00e1bor I Csonka and Oleg A Vydrov and Gustavo E Scuseria and Lucian A Constantin and Xiaolan Zhou and Kieron Burke",
+            "2008",
+            "IdgI3skAAAAJ:u5HHmVD_uO8C",
+            6106,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.100.136406",
+            "5806635943033812046",
+            "\/scholar?cites=5806635943033812046",
+            {
+                "2008":27,
+                "2009":53,
+                "2010":95,
+                "2011":128,
+                "2012":224,
+                "2013":284,
+                "2014":370,
+                "2015":500,
+                "2016":624,
+                "2017":702,
+                "2018":880,
+                "2019":969,
+                "2020":1074,
+                "2021":154
+            }
+        ],
+        [
+            "The ground-state energy, electron density, and related properties of ordinary matter can be computed efficiently when the exchange-correlation energy as a functional of the density is approximated semilocally. We propose the first meta-generalized-gradient approximation (meta-GGA) that is fully constrained, obeying all 17 known exact constraints that a meta-GGA can. It is also exact or nearly exact for a set of \u201cappropriate norms,\u201d including rare-gas atoms and nonbonded interactions. This strongly constrained and appropriately normed meta-GGA achieves remarkable accuracy for systems where the exact exchange-correlation hole is localized near its electron, and especially for lattice constants and weak interactions.",
+            "Strongly constrained and appropriately normed semilocal density functional",
+            "Jianwei Sun and Adrienn Ruzsinszky and John P Perdew",
+            "2015",
+            "IdgI3skAAAAJ:zYLM7Y9cAGgC",
+            1244,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.115.036402",
+            "8776859108789331840",
+            "\/scholar?cites=8776859108789331840",
+            {
+                "2015":8,
+                "2016":62,
+                "2017":96,
+                "2018":227,
+                "2019":321,
+                "2020":470,
+                "2021":48
+            }
+        ],
+        [
+            "We present the case for the nonempirical construction of density functional approximations for the exchange-correlation energy by the traditional method of \u201cconstraint satisfaction\u201d without fitting to data sets, and present evidence that this approach has been successful on the first three rungs of \u201cJacob\u2019s ladder\u201d of density functional approximations [local spin-density approximation (LSD), generalized gradient approximation (GGA), and meta-GGA]. We expect that this approach will also prove successful on the fourth and fifth rungs (hyper-GGA or hybrid and generalized random-phase approximation). In particular, we argue for the theoretical and practical importance of recovering the correct uniform density limit, which many semiempirical functionals fail to do. Among the beyond-LSD functionals now available to users, we recommend the nonempirical Perdew\u2013Burke\u2013Ernzerhof (PBE) GGA and the nonempirical Tao \u2026",
+            "Prescription for the design and selection of density functional approximations: More constraint satisfaction with fewer fits",
+            "John P Perdew and Adrienn Ruzsinszky and Jianmin Tao and Viktor N Staroverov and Gustavo E Scuseria and G\u00e1bor I Csonka",
+            "2005",
+            "IdgI3skAAAAJ:u-x6o8ySG0sC",
+            929,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.1904565",
+            "7536713208304845339",
+            "\/scholar?cites=7536713208304845339",
+            {
+                "2005":4,
+                "2006":30,
+                "2007":40,
+                "2008":43,
+                "2009":50,
+                "2010":60,
+                "2011":58,
+                "2012":68,
+                "2013":65,
+                "2014":78,
+                "2015":69,
+                "2016":76,
+                "2017":65,
+                "2018":76,
+                "2019":65,
+                "2020":65,
+                "2021":5
+            }
+        ]
+    ]
+}

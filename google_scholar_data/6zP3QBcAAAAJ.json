@@ -1,0 +1,114 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "6zP3QBcAAAAJ",
+            "Efstratios Manousakis",
+            "Professor of Physics, Florida State Univesity",
+            "@fsu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=6zP3QBcAAAAJ",
+            5931,
+            [
+                "Condensed Matter Physics",
+                "Computational Physics",
+                "Quantum Many-Body Theory"
+            ],
+            1183,
+            41,
+            18,
+            88,
+            34,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"BSEirg8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Luis Balicas",
+                    "affiliation":"National High Magnetic Field Lab"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"s9cO1fUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Efthimios Kaxiras",
+                    "affiliation":"Professor of Pysics and Applied Physics, Harvard University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"G-4dm0QAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ryan E Baumbach",
+                    "affiliation":"NHMFL Research Faculty 1 and Assistant Research Professor, Dept. Phys., Florida State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"SOm-77QAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Massimo Boninsegni",
+                    "affiliation":"University of Alberta"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"0qjME1gAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Eugene Demler",
+                    "affiliation":"Professor of Physics, Harvard University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"hcGd7_oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Eduardo Fradkin",
+                    "affiliation":"Professor of Physics, University of Illinois at Urbana-Champaign, Illinois, USA"
+                }
+            ]
+        ]
+    ]
+}

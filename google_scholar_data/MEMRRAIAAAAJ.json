@@ -1,0 +1,102 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "MEMRRAIAAAAJ",
+            "Zachary T McDermott",
+            "Doctoral Student, NYU - Robert F. Wagner Graduate School of Public Service",
+            "@nyu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=MEMRRAIAAAAJ",
+            27,
+            [
+                "Education Policy",
+                "Public Policy",
+                "Quantitative Methods"
+            ],
+            24,
+            3,
+            3,
+            1,
+            1,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"MoDXMy0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Brian Elbel",
+                    "affiliation":"Associate Professor of Population Health and Health Policy"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"XwOCckYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Amy Ellen Schwartz",
+                    "affiliation":"Maxwell School, Syracuse University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"heDRNtEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kosuke Tamura",
+                    "affiliation":"National Heart, Lung, and Blood Institute, National Institutes of Health"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"0pZIspQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tod Mijanovich",
+                    "affiliation":"New York University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3A_u8-sAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dustin T. Duncan",
+                    "affiliation":"Associate Professor of Epidemiology, Columbia University"
+                }
+            ]
+        ]
+    ]
+}

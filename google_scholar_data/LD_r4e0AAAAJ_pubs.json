@@ -1,0 +1,203 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "We describe the design of a new polarization sensitive receiver, spt-3g, for the 10-meter South Pole Telescope (spt). The spt-3g receiver will deliver a factor of ~20 improvement in mapping speed over the current receiver, spt-pol. The sensitivity of the spt-3g receiver will enable the advance from statistical detection of B-mode polarization anisotropy power to high signal-to-noise measurements of the individual modes, i.e., maps. This will lead to precise (~0.06 eV) constraints on the sum of neutrino masses with the potential to directly address the neutrino mass hierarchy. It will allow a separation of the lensing and inflationary B-mode power spectra, improving constraints on the amplitude and shape of the primordial signal, either through spt-3g data alone or in combination with bicep2\/keck, which is observing the same area of sky. The measurement of small-scale temperature anisotropy will provide new constraints \u2026",
+            "SPT-3G: a next-generation cosmic microwave background polarization experiment on the South Pole telescope",
+            "BA Benson and PAR Ade and Z Ahmed and SW Allen and K Arnold and JE Austermann and AN Bender and LE Bleem and JE Carlstrom and CL Chang and HM Cho and JF Cliche and TM Crawford and A Cukierman and T De Haan and MA Dobbs and D Dutcher and W Everett and A Gilbert and NW Halverson and D Hanson and NL Harrington and K Hattori and JW Henning and GC Hilton and GP Holder and WL Holzapfel and KD Irwin and R Keisler and L Knox and D Kubik and CL Kuo and AT Lee and EM Leitch and D Li and M McDonald and SS Meyer and J Montgomery and M Myers and T Natoli and H Nguyen and V Novosad and S Padin and Z Pan and J Pearson and C Reichardt and JE Ruhl and BR Saliwanchik and G Simard and G Smecher and JT Sayre and E Shirokoff and AA Stark and K Story and A Suzuki and KL Thompson and C Tucker and K Vanderlinde and JD Vieira and A Vikhlinin and G Wang and V Yefremenko and KW Yoon",
+            "2014",
+            "LD_r4e0AAAAJ:_Qo2XoVZTnwC",
+            302,
+            "https:\/\/www.spiedigitallibrary.org\/conference-proceedings-of-spie\/9153\/1\/SPT-3G--a-next-gener%20ation-cosmic-microwave-background-polarization\/10.1117\/12.2057305.short",
+            "2160446852186466553",
+            "\/scholar?cites=2160446852186466553",
+            {
+                "2014":6,
+                "2015":25,
+                "2016":42,
+                "2017":36,
+                "2018":70,
+                "2019":60,
+                "2020":55,
+                "2021":8
+            }
+        ],
+        [
+            "This work presents the procedures used at Argonne National Laboratory to fabricate large arrays of multichroic transition-edge sensor (TES) bolometers for cosmic microwave background (CMB) measurements. These detectors will be assembled into the focal plane for the SPT-3G camera, the third generation CMB camera to be installed in the South Pole Telescope. The complete SPT-3G camera will have approximately 2690 pixels, for a total of 16 140 TES bolometric detectors. Each pixel is comprised of a broad-band sinuous antenna coupled to a Nb microstrip line. In-line filters are used to define the different bands before the millimeter-wavelength signal is fed to the respective Ti\/Au TES bolometers. There are six TES bolometer detectors per pixel, which allow for measurements of three band-passes (95, 150 and 220 GHz) and two polarizations. The steps involved in the monolithic fabrication of these detector \u2026",
+            "Fabrication of large dual-polarized multichroic TES bolometer arrays for CMB measurements with the SPT-3G camera",
+            "CM Posada and PAR Ade and Z Ahmed and K Arnold and JE Austermann and AN Bender and LE Bleem and BA Benson and K Byrum and JE Carlstrom and CL Chang and HM Cho and ST Ciocys and JF Cliche and TM Crawford and A Cukierman and D Czaplewski and J Ding and R Divan and T De Haan and MA Dobbs and D Dutcher and W Everett and A Gilbert and NW Halverson and NL Harrington and K Hattori and JW Henning and GC Hilton and WL Holzapfel and J Hubmayr and KD Irwin and O Jeong and R Keisler and D Kubik and CL Kuo and AT Lee and EM Leitch and S Lendinez and SS Meyer and CS Miller and J Montgomery and M Myers and A Nadolski and T Natoli and H Nguyen and V Novosad and S Padin and Z Pan and J Pearson and JE Ruhl and BR Saliwanchik and G Smecher and JT Sayre and E Shirokoff and L Stan and AA Stark and J Sobrin and K Story and A Suzuki and KL Thompson and C Tucker and K Vanderlinde and JD Vieira and G Wang and N Whitehorn and V Yefremenko and KW Yoon and KE Ziegler",
+            "2015",
+            "LD_r4e0AAAAJ:Se3iqnhoufwC",
+            29,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0953-2048\/28\/9\/094002\/meta",
+            "8385209148500815731",
+            "\/scholar?cites=8385209148500815731",
+            {
+                "2016":6,
+                "2017":2,
+                "2018":14,
+                "2019":1,
+                "2020":4,
+                "2021":2
+            }
+        ],
+        [
+            "A new receiver for the South Pole Telescope, SPT-3G, was deployed in early 2017 to map the cosmic microwave background at 95, 150, and 220 GHz with  16,000 detectors, 10 times more than its predecessor SPTpol. The increase in detector count is made possible by lenslet-coupled trichroic polarization-sensitive pixels fabricated at Argonne National Laboratory, new 68 frequency-domain multiplexing readout electronics, and a higher-throughput optical design. The enhanced sensitivity of SPT-3G will enable a wide range of results including constraints on primordial B-mode polarization, measurements of gravitational lensing of the CMB, and a galaxy cluster survey. Here we present an overview of the instrument and its science objectives, highlighting its measured performance and plans for the upcoming 2018 observing season.",
+            "Spt-3g: A multichroic receiver for the south pole telescope",
+            "AJ Anderson and PAR Ade and Z Ahmed and JE Austermann and JS Avva and PS Barry and R Basu Thakur and AN Bender and BA Benson and LE Bleem and K Byrum and JE Carlstrom and FW Carter and T Cecil and CL Chang and HM Cho and JF Cliche and TM Crawford and A Cukierman and EV Denison and T de Haan and J Ding and MA Dobbs and D Dutcher and W Everett and A Foster and RN Gannon and A Gilbert and JC Groh and NW Halverson and AH Harke-Hosemann and NL Harrington and JW Henning and GC Hilton and GP Holder and WL Holzapfel and N Huang and KD Irwin and OB Jeong and M Jonas and T Khaire and L Knox and AM Kofman and M Korman and D Kubik and S Kuhlmann and N Kuklev and CL Kuo and AT Lee and EM Leitch and AE Lowitz and SS Meyer and D Michalik and J Montgomery and A Nadolski and T Natoli and H Nguyen and GI Noble and V Novosad and S Padin and Z Pan and J Pearson and CM Posada and A Rahlin and CL Reichardt and JE Ruhl and LJ Saunders and JT Sayre and I Shirley and E Shirokoff and G Smecher and JA Sobrin and AA Stark and KT Story and A Suzuki and QY Tang and KL Thompson and C Tucker and LR Vale and K Vanderlinde and JD Vieira and G Wang and N Whitehorn and V Yefremenko and KW Yoon and MR Young",
+            "2018",
+            "LD_r4e0AAAAJ:maZDTaKrznsC",
+            27,
+            "https:\/\/link.springer.com\/article\/10.1007\/s10909-018-2007-z",
+            "4565347084894123099",
+            "\/scholar?cites=4565347084894123099",
+            {
+                "2018":8,
+                "2019":4,
+                "2020":15
+            }
+        ],
+        [
+            "The third-generation South Pole Telescope camera is designed to measure the cosmic microwave background across three frequency bands (centered at 95, 150 and 220 GHz) with  16,000 transition-edge sensor (TES) bolometers. Each multichroic array element on a detector wafer has a broadband sinuous antenna that couples power to six TESs, one for each of the three observing bands and both polarizations, via lumped element filters. Ten detector wafers populate the detector array, which is coupled to the sky via a large-aperture optical system. Here we present the frequency band characterization with Fourier transform spectroscopy, measurements of optical time constants, beam properties, and optical and polarization efficiencies of the detector array. The detectors have frequency bands consistent with our simulations and have high average optical efficiency which is 86, 77 and 66% for the 95 \u2026",
+            "Optical characterization of the SPT-3G camera",
+            "Z Pan and Peter AR Ade and Z Ahmed and AJ Anderson and JE Austermann and JS Avva and R Basu Thakur and AN Bender and BA Benson and JE Carlstrom and FW Carter and T Cecil and CL Chang and JF Cliche and A Cukierman and EV Denison and T de Haan and J Ding and MA Dobbs and D Dutcher and W Everett and A Foster and RN Gannon and A Gilbert and JC Groh and NW Halverson and AH Harke-Hosemann and NL Harrington and JW Henning and GC Hilton and WL Holzapfel and N Huang and KD Irwin and OB Jeong and M Jonas and T Khaire and AM Kofman and M Korman and D Kubik and S Kuhlmann and CL Kuo and AT Lee and AE Lowitz and SS Meyer and D Michalik and J Montgomery and A Nadolski and T Natoli and H Nguyen and GI Noble and V Novosad and S Padin and J Pearson and CM Posada and A Rahlin and JE Ruhl and LJ Saunders and JT Sayre and I Shirley and E Shirokoff and G Smecher and JA Sobrin and AA Stark and KT Story and A Suzuki and QY Tang and KL Thompson and Carole Tucker and LR Vale and K Vanderlinde and JD Vieira and G Wang and N Whitehorn and V Yefremenko and KW Yoon and MR Young",
+            "2018",
+            "LD_r4e0AAAAJ:TFP_iSt0sucC",
+            17,
+            "https:\/\/link.springer.com\/article\/10.1007\/s10909-018-1935-y",
+            "4675071747940381446",
+            "\/scholar?cites=4675071747940381446",
+            {
+                "2018":5,
+                "2019":5,
+                "2020":7
+            }
+        ],
+        [
+            "The third generation receiver for the South Pole Telescope, SPT-3G, will make extremely deep, arcminuteresolution maps of the temperature and polarization of the cosmic microwave background. The SPT-3G maps will enable studies of the B-mode polarization signature, constraining primordial gravitational waves as well as the effect of massive neutrinos on structure formation in the late universe. The SPT-3G receiver will achieve exceptional sensitivity through a focal plane of ~16,000 transition-edge sensor bolometers, an order of magnitude more than the current SPTpol receiver. SPT-3G uses a frequency domain multiplexing (fMux) scheme to read out the focal plane, combining the signals from 64 bolometers onto a single pair of wires. The fMux readout facilitates the large number of detectors in the SPT-3G focal plane by limiting the thermal load due to readout wiring on the 250 millikelvin cryogenic stage. A \u2026",
+            "Integrated performance of a frequency domain multiplexing readout in the SPT-3G receiver",
+            "AN Bender and PAR Ade and AJ Anderson and J Avva and Z Ahmed and K Arnold and JE Austermann and R Basu Thakur and BA Benson and LE Bleem and K Byrum and JE Carlstrom and FW Carter and CL Chang and HM Cho and JF Cliche and TM Crawford and A Cukierman and DA Czaplewski and J Ding and R Divan and T De Haan and MA Dobbs and D Dutcher and W Everett and A Gilbert and JC Groh and R Guyser and NW Halverson and A Harke-Hosemann and NL Harrington and K Hattori and JW Henning and GC Hilton and WL Holzapfel and N Huang and KD Irwin and O Jeong and T Khaire and M Korman and D Kubik and CL Kuo and AT Lee and EM Leitch and S Lendinez and SS Meyer and CS Miller and J Montgomery and A Nadolski and T Natoli and H Nguyen and V Novosad and S Padin and Z Pan and J Pearson and CM Posada and A Rahlin and CL Reichardt and JE Ruhl and BR Saliwanchik and JT Sayre and JA Shariff and Ian Shirley and E Shirokoff and G Smecher and J Sobrin and L Stan and AA Stark and K Story and A Suzuki and QY Tang and KL Thompson and C Tucker and K Vanderlinde and JD Vieira and G Wang and N Whitehorn and V Yefremenko and KW Yoon",
+            "2016",
+            "LD_r4e0AAAAJ:RHpTSmoSYBkC",
+            16,
+            "https:\/\/www.spiedigitallibrary.org\/conference-proceedings-of-spie\/9914\/99141D\/Integrated-performance-of-a-frequency-domain-multiplexing-readout-in-the\/10.1117\/12.2232146.short",
+            "10352917968439337688",
+            "\/scholar?cites=10352917968439337688",
+            {
+                "2016":1,
+                "2017":3,
+                "2018":6,
+                "2019":3,
+                "2020":3
+            }
+        ],
+        [
+            "Detectors for cosmic microwave background (CMB) experiments are now essentially background limited, so a straightforward alternative to improve sensitivity is to increase the number of detectors. Large arrays of multichroic pixels constitute an economical approach to increasing the number of detectors within a given focal plane area. Here, we present the fabrication of large arrays of dual-polarized multichroic transition-edge-sensor (TES) bolometers for the South Pole Telescope third-generation CMB receiver (SPT-3G). The complete SPT-3G receiver will have 2690 pixels, each with six detectors, allowing for individual measurement of three spectral bands (centered at 95 GHz, 150 GHz and 220 GHz) in two orthogonal polarizations. In total, the SPT-3G focal plane will have 16140 detectors. Each pixel is comprised of a broad-band sinuous antenna coupled to a niobium microstrip transmission line. In-line filters \u2026",
+            "Large arrays of dual-polarized multichroic TES detectors for CMB measurements with the SPT-3G receiver",
+            "Chrystian M Posada and Peter AR Ade and Adam J Anderson and Jessica Avva and Zeeshan Ahmed and Kam S Arnold and Jason Austermann and Amy N Bender and Bradford A Benson and Lindsey Bleem and Karen Byrum and John E Carlstrom and Faustin W Carter and Clarence Chang and Hsiao-Mei Cho and Ari Cukierman and David A Czaplewski and Junjia Ding and Ralu NS Divan and Tijmen De Haan and Matt Dobbs and Daniel Dutcher and Wenderline Everett and Renae N Gannon and Robert J Guyser and Nils W Halverson and Nicholas L Harrington and Kaori Hattori and Jason W Henning and Gene C Hilton and William L Holzapfel and Nicholas Huang and Kent D Irwin and Oliver Jeong and Trupti Khaire and Milo Korman and Donna L Kubik and Chao-Lin Kuo and Adrian T Lee and Erik M Leitch and Sergi Lendinez Escudero and Stephan S Meyer and Christina S Miller and Joshua Montgomery and Andrew Nadolski and Tyler J Natoli and Hogan Nguyen and Valentyn Novosad and Stephen Padin and Zhaodi Pan and John E Pearson and Alexandra Rahlin and Christian L Reichardt and John E Ruhl and Benjamin Saliwanchik and Ian Shirley and James T Sayre and Jamil A Shariff and Erik D Shirokoff and Liliana Stan and Antony A Stark and Joshua Sobrin and Kyle Story and Aritoki Suzuki and Qing Yang Tang and Ritoban Basu Thakur and Keith L Thompson and Carole E Tucker and Keith Vanderlinde and Joaquin D Vieira and Gensheng Wang and Nathan Whitehorn and Volodymyr Yefremenko and Ki Won Yoon",
+            "2016",
+            "LD_r4e0AAAAJ:j3f4tGmQtD8C",
+            16,
+            "https:\/\/www.spiedigitallibrary.org\/conference-proceedings-of-spie\/9914\/1\/Large-arrays-of-dual-polarized-multichroic-TES-detectors-for-CMB\/10.1117\/12.2232912.short",
+            "9076374359446212814",
+            "\/scholar?cites=9076374359446212814",
+            {
+                "2016":3,
+                "2017":7,
+                "2018":5,
+                "2019":1
+            }
+        ],
+        [
+            "In this paper, we describe the optimization of transition-edge-sensor (TES) detector arrays for the third-generation camera for the South Pole Telescope. The camera, which contains ~16 000 detectors, will make high-angular-resolution maps of the temperature and polarization of the cosmic microwave background. Our key results are scatter in the transition temperature of Ti\/Au TESs is reduced by fabricating the TESs on a thin Ti(5 nm)\/Au(5 nm) buffer layer and the thermal conductivity of the legs that support our detector islands is dominated by the SiOx dielectric in the microstrip transmission lines that run along the legs.",
+            "Optimization of transition edge sensor arrays for cosmic microwave background observations with the south pole telescope",
+            "Junjia Ding and Peter AR Ade and AJ Anderson and J Avva and Z Ahmed and K Arnold and JE Austermann and AN Bender and BA Benson and LE Bleem and K Byrum and JE Carlstrom and FW Carter and CL Chang and HM Cho and JF Cliche and A Cukierman and D Czaplewski and R Divan and T De Haan and MA Dobbs and D Dutcher and W Everett and A Gilbert and R Gannon and R Guyser and NW Halverson and NL Harrington and K Hattori and JW Henning and GC Hilton and WL Holzapfel and J Hubmayr and N Huang and KD Irwin and O Jeong and T Khaire and D Kubik and CL Kuo and AT Lee and EM Leitch and SS Meyer and CS Miller and J Montgomery and A Nadolski and T Natoli and H Nguyen and V Novosad and S Padin and Z Pan and J Pearson and CM Posada and A Rahlin and CL Reichardt and JE Ruhl and BR Saliwanchik and JT Sayre and JA Shariff and I Shirley and E Shirokoff and G Smecher and J Sobrin and L Stan and AA Stark and K Story and A Suzuki and QY Tang and RB Thakur and KL Thompson and Carole Tucker and K Vanderlinde and JD Vieira and G Wang and N Whitehorn and WLK Wu and V Yefremenko and KW Yoon",
+            "2016",
+            "LD_r4e0AAAAJ:4JMBOYKVnBMC",
+            14,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7784774\/",
+            "3536776014501703526",
+            "\/scholar?cites=3536776014501703526",
+            {
+                "2017":1,
+                "2018":9,
+                "2019":3,
+                "2020":1
+            }
+        ],
+        [
+            "The desire for higher sensitivity has driven ground-based cosmic microwave background (CMB) experiments to employ ever larger focal planes, which in turn require larger reimaging optics. Practical limits to the maximum size of these optics motivates the development of quasi-optically-coupled (lenslet-coupled), multi-chroic detectors. These detectors can be sensitive across a broader bandwidth compared to waveguide-coupled detectors. However, the increase in bandwidth comes at a cost: the lenses (up to ~700 mm diameter) and lenslets (~5 mm diameter, hemispherical lenses on the focal plane) used in these systems are made from high-refractive-index materials (such as silicon or amorphous aluminum oxide) that reflect nearly a third of the incident radiation. In order to maximize the faint CMB signal that reaches the detectors, the lenses and lenslets must be coated with an anti-reflective (AR) material. The \u2026",
+            "Broadband anti-reflective coatings for cosmic microwave background experiments",
+            "A Nadolski and AM Kofman and JD Vieira and PAR Ade and Z Ahmed and AJ Anderson and JS Avva and R Basu Thakur and AN Bender and BA Benson and JE Carlstrom and FW Carter and TW Cecil and CL Chang and JF Cliche and A Cukierman and T De Haan and J Ding and MA Dobbs and D Dutcher and W Everett and A Foster and J Fu and J Gallichio and A Gilbert and JC Groh and ST Guns and R Guyser and NW Halverson and AH Harke-Hosemann and NL Harrington and JW Henning and WL Holzapfel and N Huang and KD Irwin and OB Jeong and M Jonas and A Jones and TS Khaire and M Korman and DL Kubik and S Kuhlmann and C-L Kuo and AT Lee and AE Lowitz and SS Meyer and D Michalik and J Montgomery and T Natoli and H Nguyen and GI Noble and V Novosad and S Padin and Z Pan and J Pearson and CM Posada and W Quan and A Rahlin and JE Ruhl and JT Sayre and E Shirokoff and G Smecher and JA Sobrin and AA Stark and KT Story and A Suzuki and KL Thompson and C Tucker and K Vanderlinde and G Wang and N Whitehorn and V Yefremenko and KW Yoon and MR Young",
+            "2018",
+            "LD_r4e0AAAAJ:M3NEmzRMIkIC",
+            13,
+            "https:\/\/www.spiedigitallibrary.org\/conference-proceedings-of-spie\/10708\/2315674\/Broadband-anti-reflective-coatings-for-cosmic-microwave-background-experiments\/10.1117\/12.2315674.short",
+            "2868887821076558689",
+            "\/scholar?cites=2868887821076558689",
+            {
+                "2018":6,
+                "2019":4,
+                "2020":3
+            }
+        ],
+        [
+            "The South Pole Telescope (SPT) is a millimeter-wavelength telescope designed for high-precision measurements of the cosmic microwave background (CMB). The SPT measures both the temperature and polarization of the CMB with a large aperture, resulting in high resolution maps sensitive to signals across a wide range of angular scales on the sky. With these data, the SPT has the potential to make a broad range of cosmological measurements. These include constraining the effect of massive neutrinos on large-scale structure formation as well as cleaning galactic and cosmological foregrounds from CMB polarization data in future searches for inflationary gravitational waves. The SPT began observing in January 2017 with a new receiver (SPT-3G) containing ~16,000 polarization-sensitive transition-edge sensor bolometers. Several key technology developments have enabled this large-format focal plane \u2026",
+            "Year two instrument status of the SPT-3G cosmic microwave background receiver",
+            "AN Bender and PAR Ade and Z Ahmed and AJ Anderson and JS Avva and K Aylor and PS Barry and R Basu Thakur and BA Benson and LS Bleem and S Bocquet and K Byrum and JE Carlstrom and FW Carter and TW Cecil and CL Chang and H-M Cho and JF Cliche and TM Crawford and A Cukierman and T De Haan and EV Denison and J Ding and MA Dobbs and S Dodelson and D Dutcher and W Everett and A Foster and J Gallicchio and A Gilbert and JC Groh and ST Guns and NW Halverson and AH Harke-Hosemann and NL Harrington and JW Henning and GC Hilton and GP Holder and WL Holzapfel and N Huang and KD Irwin and OB Jeong and M Jonas and A Jones and TS Khaire and L Knox and AM Kofman and M Korman and DL Kubik and S Kuhlmann and C-L Kuo and AT Lee and EM Leitch and AE Lowitz and SS Meyer and D Michalik and J Montgomery and A Nadolski and T Natoli and H Ngyuen and GI Noble and V Novosad and S Padin and Z Pan and J Pearson and CM Posada and W Quan and S Raghunathan and A Rahlin and CL Reichardt and JE Ruhl and JT Sayre and E Shirokoff and G Smecher and JA Sobrin and AA Stark and KT Story and A Suzuki and KL Thompson and C Tucker and LR Vale and K Vanderlinde and JD Vieira and G Wang and N Whitehorn and WLK Wu and V Yefremenko and KW Yoon and MR Young",
+            "2018",
+            "LD_r4e0AAAAJ:JV2RwH3_ST0C",
+            12,
+            "https:\/\/www.spiedigitallibrary.org\/conference-proceedings-of-spie\/10708\/1070803\/Year-2-instrument-status-from-the-SPT-3G-cosmic-microwave\/10.1117\/12.2312426.short",
+            "14992858907476448879",
+            "\/scholar?cites=14992858907476448879",
+            {
+                "2018":2,
+                "2019":6,
+                "2020":4
+            }
+        ],
+        [
+            "The valley-orbit coupling in a few-electron Si quantum dot is expected to be a function of its occupation number N. We study the spectrum of multivalley Si quantum dots for 2\u2264 N\u2264 4, showing that, counterintuitively, electron-electron interaction effects on the valley-orbit coupling are negligible. For N= 2 they are suppressed by valley interference, for N= 3 they vanish due to spinor overlaps, and for N= 4 they cancel between different pairs of electrons. To corroborate our theoretical findings, we examine the experimental energy spectrum of a few-electron metal-oxide-semiconductor quantum dot. The measured spin-valley state filling sequence in a magnetic field reveals that the valley-orbit coupling is definitively unaffected by the occupation number.",
+            "Coulomb interaction and valley-orbit coupling in Si quantum dots",
+            "Luyao Jiang and CH Yang and Zhaodi Pan and Alessandro Rossi and Andrew S Dzurak and Dimitrie Culcer",
+            "2013",
+            "LD_r4e0AAAAJ:u5HHmVD_uO8C",
+            12,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.88.085311",
+            "17782761952083114077",
+            "\/scholar?cites=17782761952083114077",
+            {
+                "2014":4,
+                "2015":1,
+                "2016":1,
+                "2017":2,
+                "2018":2,
+                "2019":2
+            }
+        ]
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2
+    ],
+    "data":[
+        [
+            "Mobile apps are poised to become a major source of health guidance; however, concerns about their quality and safety remain. Governments, clinicians, and health researchers are struggling to determine how to adequately evaluate the content and function of mobile health apps to guide consumers toward apps that will effectively and safely support their health. Researchers are both adapting existing research methods, such as those for systematic reviews, and exploring novel methods toward this aim. The purpose of this systematic review was to describe prevalent and emerging methods for searching, data extraction, and analysis in the context of mobile health apps and commercial app stores.A systematic search was conducted on April 6, 2016, according to Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines, for published studies that evaluated health \u2026",
+            "Challenges in assessing mobile health app quality: a systematic review of prevalent and innovative methods",
+            "Quinn H Grundy and Zhicheng Wang and Lisa A Bero",
+            "2016",
+            "PBLUJ5kAAAAJ:u-x6o8ySG0sC",
+            97,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0749379716302574",
+            "16029947867361817417",
+            "\/scholar?cites=16029947867361817417",
+            {
+                "2016":1,
+                "2017":12,
+                "2018":24,
+                "2019":26,
+                "2020":29,
+                "2021":3
+            }
+        ],
+        [
+            "Vortex induced vibrations of bluff bodies occur when the vortex shedding frequency is close to the natural frequency of the structure. Of interest is the prediction of the lift and drag forces on the structure given some limited and scattered information on the velocity field. This is an inverse problem that is not straightforward to solve using standard computational fluid dynamics (CFD) methods, especially since no information is provided for the pressure. An even greater challenge is to infer the lift and drag forces given some dye or smoke visualizations of the flow field. Here we employ deep neural networks that are extended to encode the incompressible Navier-Stokes equations coupled with the structure's dynamic motion equation. In the first case, given scattered data in space-time on the velocity field and the structure's motion, we use four coupled deep neural networks to infer very accurately the structural parameters, the entire time-dependent pressure field (with no prior training data), and reconstruct the velocity vector field and the structure's dynamic motion. In the second case, given scattered data in space-time on a concentration field only, we use five coupled deep neural networks to infer very accurately the vector velocity field and all other quantities of interest as before. This new paradigm of inference in fluid mechanics for coupled multi-physics problems enables velocity and pressure quantification from flow snapshots in small subdomains and can be exploited for flow control applications and also for system identification.",
+            "Deep learning of vortex induced vibrations",
+            "Maziar Raissi and Zhicheng Wang and Michael S Triantafyllou and George Em Karniadakis",
+            "2018",
+            "PBLUJ5kAAAAJ:qjMakFHDy7sC",
+            88,
+            "https:\/\/arxiv.org\/abs\/1808.08952",
+            "11203829358303993615",
+            "\/scholar?cites=11203829358303993615",
+            {
+                "2019":14,
+                "2020":66,
+                "2021":7
+            }
+        ],
+        [
+            "Liu, G. W., Gong, P. S., Zhao, H. G., Wang, Z. C., Gong, S. L. and Cai, L. Effect of Low-Level Radiation on the Death of Male Germ Cells. Radiat. Res. 165, 379\u2013389 (2006).Hormetic and adaptive responses induced by low-level radiation in hematopoietic and immune systems have been observed, as shown by stimulatory effects on cell growth and resistance to subsequent radiation-induced cytogenetic damage. However, in terms of cell death by apoptosis, the effects of low-level radiation are controversial: Some studies showed decreased apoptosis in response to low-level radiation while others showed increased apoptosis. This controversy may be related to the radiation doses or dose rates and also, more importantly, to the cell types. Testes are one of the most radiosensitive organs. The loss of male germ cells after exposure to ionizing radiation has been attributed to apoptosis. In the present study, the \u2026",
+            "Effect of low-level radiation on the death of male germ cells",
+            "Guangwei Liu and Pingsheng Gong and Hongguang Zhao and Zhicheng Wang and Shouliang Gong and Lu Cai",
+            "2006",
+            "PBLUJ5kAAAAJ:YsMSGLbcyi4C",
+            87,
+            "https:\/\/meridian.allenpress.com\/radiation-research\/article-abstract\/165\/4\/379\/42371",
+            "10371323445684717161",
+            "\/scholar?cites=10371323445684717161",
+            {
+                "2007":3,
+                "2008":1,
+                "2009":5,
+                "2010":7,
+                "2011":8,
+                "2012":8,
+                "2013":12,
+                "2014":9,
+                "2015":6,
+                "2016":7,
+                "2017":6,
+                "2018":2,
+                "2019":5,
+                "2020":7,
+                "2021":1
+            }
+        ]
+    ]
+}

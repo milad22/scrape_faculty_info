@@ -1,0 +1,152 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "jGboazkAAAAJ",
+            "David R. Nelson",
+            "Harvard University, Cornell University",
+            "@physics.harvard.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=jGboazkAAAAJ",
+            53127,
+            [
+                "physics",
+                "chemistry",
+                "biology",
+                "materials science",
+                "engineering"
+            ],
+            10933,
+            109,
+            48,
+            307,
+            166,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"mj9wWSwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mark Bowick",
+                    "affiliation":"Kavli Institute for Theoretical Physics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3yJxnHwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Oskar Hallatschek",
+                    "affiliation":"Evolutionary Dynamics and Biophysics Group, UC Berkeley"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"QJeFmVEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Roberto Benzi",
+                    "affiliation":"Professor of Theoretical Phyiscs, Univ. Roma \"Tor Vergata\""
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Yv_VB-cAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Naomichi Hatano",
+                    "affiliation":"Institute of Industrial Science, University of Tokyo"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"DMIvQbwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Subir Sachdev",
+                    "affiliation":"Herchel Smith Professor of Physics, Harvard University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"LeoSUPIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yacov Kantor",
+                    "affiliation":"Professor of Physics, Tel Aviv University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"x-_6edMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Vincenzo Vitelli",
+                    "affiliation":"University of Chicago"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"R1cfTCoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David A. Weitz",
+                    "affiliation":"Professor of Physics and Applied Physics, Harvard University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"OBTWT_gAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"M. Cristina Marchetti",
+                    "affiliation":"University of California Santa Barbara"
+                }
+            ]
+        ]
+    ]
+}

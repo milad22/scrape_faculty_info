@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "WDJZZQOP",
+            "vANLRiYAAAAJ",
+            [
+                "Quantum information theory",
+                "Quantum Error Correction",
+                "Strong converse for the classical capacity of entanglement-breaking and Hadamard channels via a sandwiched R\u00e9nyi relative entropy",
+                "Fundamental rate-loss tradeoff for optical quantum key distribution",
+                "From Classical to Quantum Shannon Theory",
+                "Noise and disturbance in quantum measurements: an information-theoretic approach",
+                "Quantum discord and classical correlation can tighten the uncertainty principle in the presence of quantum memory",
+                "Optimal entanglement formulas for entanglement-assisted quantum coding",
+                "Converse bounds for private communication over quantum channels",
+                "Strong converse exponents for a quantum channel discrimination problem and quantum-feedback-assisted communication"
+            ],
+            [
+                "Finally, here is a modern, self-contained text on quantum information theory suitable for graduate-level courses. Developing the subject'from the ground up'it covers classical results as well as major advances of the past decade. Beginning with an extensive overview of classical information theory suitable for the non-expert, the author then turns his attention to quantum mechanics for quantum information theory, and the important protocols of teleportation, super-dense coding and entanglement distribution. He develops all of the tools necessary for understanding important results in quantum information theory, including capacity theorems for classical, entanglement-assisted, private and quantum communication. The book also covers important recent developments such as superadditivity of private, coherent and Holevo information, and the superactivation of quantum capacity. This book will be warmly welcomed by the upcoming generation of quantum information theorists and the already established community of classical information theorists.",
+                "Quantum computation and information is one of the most exciting developments in science and technology of the last twenty years. To achieve large scale quantum computers and communication networks it is essential not only to overcome noise in stored quantum information, but also in general faulty quantum operations. Scalable quantum computers require a far-reaching theory of fault-tolerant quantum computation. This comprehensive text, written by leading experts in the field, focuses on quantum error correction and thoroughly covers the theory as well as experimental and practical issues. The book is not limited to a single approach, but reviews many different methods to control quantum errors, including topological codes, dynamical decoupling and decoherence-free subspaces. Basic subjects as well as advanced theory and a survey of topics from cutting-edge research make this book invaluable both as a pedagogical introduction at the graduate level and as a reference for experts in quantum information science.",
+                "A strong converse theorem for the classical capacity of a quantum channel states that the probability of correctly decoding a classical message converges exponentially fast to zero in the limit of many channel uses if the rate of communication exceeds the classical capacity of the channel. Along with a corresponding achievability statement for rates below the capacity, such a strong converse theorem enhances our understanding of the capacity as a very sharp dividing line between achievable and unachievable rates of communication. Here, we show that such a strong converse theorem holds for the classical capacity of all entanglement-breaking channels and all Hadamard channels (the complementary channels of the former). These results follow by bounding the success probability in terms of a \u201csandwiched\u201d R\u00e9nyi relative entropy, by showing that this quantity is subadditive for all entanglement-breaking \u2026",
+                "Since 1984, various optical quantum key distribution (QKD) protocols have been proposed and examined. In all of them, the rate of secret key generation decays exponentially with distance. A natural and fundamental question is then whether there are yet-to-be discovered optical QKD protocols (without quantum repeaters) that could circumvent this rate-distance tradeoff. This paper provides a major step towards answering this question. Here we show that the secret key agreement capacity of a lossy and noisy optical channel assisted by unlimited two-way public classical communication is limited by an upper bound that is solely a function of the channel loss, regardless of how much optical power the protocol may use. Our result has major implications for understanding the secret key agreement capacity of optical channels\u2014a long-standing open problem in optical quantum information theory\u2014and strongly \u2026",
+                "The aim of this book is to develop\" from the ground up\" many of the major, exciting, pre-and post-millenium developments in the general area of study known as quantum Shannon theory. As such, we spend a significant amount of time on quantum mechanics for quantum information theory (Part II), we give a careful study of the important unit protocols of teleportation, super-dense coding, and entanglement distribution (Part III), and we develop many of the tools necessary for understanding information transmission or compression (Part IV). Parts V and VI are the culmination of this book, where all of the tools developed come into play for understanding many of the important results in quantum Shannon theory.",
+                "We introduce information-theoretic definitions for noise and disturbance in quantum measurements and prove a state-independent noise-disturbance tradeoff relation that these quantities have to satisfy in any conceivable setup. Contrary to previous approaches, the information-theoretic quantities we define are invariant under the relabelling of outcomes and allow for the possibility of using quantum or classical operations to \u201ccorrect\u201d for the disturbance. We also show how our bound implies strong tradeoff relations for mean square deviations.",
+                "Uncertainty relations capture the essence of the inevitable randomness associated with the outcomes of two incompatible quantum measurements. Recently, Berta et al.[Nature Phys. 6, 659 (2010)] have shown that the lower bound on the uncertainties of the measurement outcomes depends on the correlations between the observed system and an observer who possesses a quantum memory. If the system is maximally entangled with its memory, the outcomes of two incompatible measurements made on the system can be predicted precisely. Here, we obtain an uncertainty relation that tightens the lower bound of Berta et al. by incorporating an additional term that depends on the quantum discord and the classical correlations of the joint state of the observed system and the quantum memory. We discuss several examples of states for which our lower bound is tighter than the bound of Berta et al. On the application \u2026",
+                "We provide several formulas that determine the optimal number of entangled bits (ebits) that a general entanglement-assisted quantum code requires. Our first theorem gives a formula that applies to an arbitrary entanglement-assisted block code. Corollaries of this theorem give formulas that apply to a code imported from two classical binary block codes, to a code imported from a classical quaternary block code, and to a continuous-variable entanglement-assisted quantum block code. Finally, we conjecture two formulas that apply to entanglement-assisted quantum convolutional codes.",
+                "This paper establishes several converse bounds on the private transmission capabilities of a quantum channel. The main conceptual development builds firmly on the notion of a private state, which is a powerful, uniquely quantum method for simplifying the tripartite picture of privacy involving local operations and public classical communication to a bipartite picture of quantum privacy involving local operations and classical communication. This approach has previously led to some of the strongest upper bounds on secret key rates, including the squashed entanglement and the relative entropy of entanglement. Here, we use this approach along with a \u201cprivacy test\u201d to establish a general meta-converse bound for private communication, which has a number of applications. The meta-converse allows for proving that any quantum channel's relative entropy of entanglement is a strong converse rate for private \u2026",
+                "This paper studies the difficulty of discriminating between an arbitrary quantum channel and a \u201creplacer\" channel that discards its input and replaces it with a fixed state. The results obtained here generalize those known in the theory of quantum hypothesis testing for binary state discrimination. We show that, in this particular setting, the most general adaptive discrimination strategies provide no asymptotic advantage over non-adaptive tensor-power strategies. This conclusion follows by proving a quantum Stein\u2019s lemma for this channel discrimination setting, showing that a constant bound on the Type I error leads to the Type II error decreasing to zero exponentially quickly at a rate determined by the maximum relative entropy registered between the channels. The strong converse part of the lemma states that any attempt to make the Type II error decay to zero at a rate faster than the channel relative entropy implies \u2026"
+            ],
+            [
+                [
+                    "quantum information theory",
+                    "quantum error correction",
+                    "quantum Shannon theory",
+                    "quantum information science",
+                    "quantum information"
+                ]
+            ]
+        ]
+    ]
+}

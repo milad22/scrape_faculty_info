@@ -1,0 +1,45 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "NIGNEO0M",
+            "OoFQXQQAAAAJ",
+            [
+                "Osteoarthritis: new insights. Part 1: the disease and its risk factors",
+                "Functional tissue engineering of articular cartilage through dynamic loading of chondrocyte-seeded agarose gels",
+                "Basic orthopaedic biomechanics & mechano-biology",
+                "FEBio: finite elements for biomechanics",
+                "Knee cartilage topography, thickness, and contact areas from MRI: in-vitro calibration and in-vivo measurements",
+                "Experimental verification and theoretical prediction of cartilage interstitial fluid pressurization at an impermeable contact interface in confined compression",
+                "Finite deformation biphasic material properties of bovine articular cartilage from confined compression experiments"
+            ],
+            [
+                "Osteoarthritis is the most common form of arthritis, affecting millions of people in the United States. It is a complex disease whose etiology bridges biomechanics and biochemistry. Evidence is growing for the role of systemic factors (such as genetics, dietary intake, estrogen use, and bone density) and of local biomechanical factors (such as muscle weakness, obesity, and joint laxity). These risk factors are particularly important in weight-bearing joints, and modifying them may present opportunities for prevention of osteoarthritis-related pain and disability. Major advances in management to reduce pain and disability are yielding a panoply of available treatments ranging from nutriceuticals to chondrocyte transplantation, new oral anti-inflammatory medications, and health education. This article is part 1 of a two-part summary of a National Institutes of Health conference. The conference brought together experts on \u2026",
+                "Due to its avascular nature, articular cartilage exhibits a very limited capacity to regenerate and to repair. Although much of the tissue-engineered cartilage in existence has been successful in mimicking the morphological and biochemical appearance of hyaline cartilage, it is generally mechanically inferior to the natural tissue. In this study, we tested the hypothesis that the application of dynamic deformational loading at physiological strain levels enhances chondrocyte matrix elaboration in cell-seeded agarose scaffolds to produce a more functional engineered tissue construct than in free swelling controls. A custom-designed bioreactor was used to load cell-seeded agarose disks dynamically in unconfined compression with a peak-to-peak compressive strain amplitude of 10 percent, at a frequency of 1 Hz,  (1 hour on, 1 hour off)\/day, 5 days\/week for 4 weeks. Results demonstrated that dynamically loaded disks yielded a sixfold \u2026",
+                "Completely revised and updated, the Third Edition of this classic text reflects the latest advances in research on orthopaedic biomechanics and the successful applications of biomechanical principles in fracture fixation, prosthetic implant design, and hip and knee arthroplasty. For this Third Edition, Dr. Mow is joined by new co-editor Rik Huiskes, PhD, an Editor-in-Chief of the Journal of Biomechanics and an internationally renowned authority in the field. New chapters cover biomaterials, biomechanical principles of cartilage and bone tissue engineering, and biomechanics of fracture fixation and fracture healing.",
+                "In the field of computational biomechanics, investigators have primarily used commercial software that is neither geared toward biological applications nor sufficiently flexible to follow the latest developments in the field. This lack of a tailored software environment has hampered research progress, as well as dissemination of models and results. To address these issues, we developed the FEBio software suite (http:\/\/mrl. sci. utah. edu\/software\/febio), a nonlinear implicit finite element (FE) framework, designed specifically for analysis in computational solid biomechanics. This paper provides an overview of the theoretical basis of FEBio and its main features. FEBio offers modeling scenarios, constitutive models, and boundary conditions, which are relevant to numerous applications in biomechanics. The open-source FEBio software is written in C\u00fe\u00fe, with particular attention to scalar and parallel performance on modern \u2026",
+                "Objective: This study assessed the three-dimensional accuracy of magnetic resonance imaging (MRI) for measuring articular surface topographies and cartilage thicknesses of human cadaveric knee joints, by comparison with the calibrated stereophotogrammetric (SPG) method.Methods: Six fresh frozen cadaveric knees and the knees of four volunteers were imaged with a three-dimensional spoiled gradient-recalled acquisition with fat suppression using a linear extremity coil in a 1.5 T superconducting magnet. The imaging voxel size was 0.47\u00d70.47\u00d71.0 mm. Both a manual and a semi-automated segmentation method were employed to extract topographic measurements from MRI. Following MRI, each of the six cadaveric knees was dissected and its articular surfaces quantified using stereophotogrammetry. The MRI surface measurements were compared numerically with the SPG measurements.Results: For six \u2026",
+                "Interstitial fluid pressurization has long been hypothesized to play a fundamental role in the load support mechanism and frictional response of articular cartilage. However, to date, few experimental studies have been performed to verify this hypothesis from direct measurements. The first objective of this study was to investigate experimentally the hypothesis that cartilage interstitial fluid pressurization does support the great majority of the applied load, in the testing configurations of confined compression creep and stress relaxation. The second objective was to investigate the hypothesis that the experimentally observed interstitial fluid pressurization could also be predicted using the linear biphasic theory of Mow et al. (J. Biomech. Engng ASME, 102, 73\u201384, 1980). Fourteen bovine cartilage samples were tested in a confined compression chamber fitted with a microchip piezoresistive transducer to measure \u2026",
+                "In 1990, Holmes and Mow [Journal of Biomechanics 23, 1145\u20131156] developed a hyperelastic biphasic theory to describe finite deformation behaviors of articular cartilage. To date, however, no experimental finite deformation studies have been made to assess the ability of this constitutive model to describe its finite deformation behaviors (e.g. kinetic creep and stress-relaxation, and equilibrium responses). The objectives of this study are: (1) to investigate whether this hyperelastic biphasic theory can be used to curve-fit the finite deformation compressive stress-relaxation behavior of the tissue, and from this procedure, to calculate its material coefficients; and (2) to investigate whether the theory, together with the calculated material coefficients, can accurately predict the outcome of an independent creep experiment followed by cyclical loading of the tissue. To achieve these objectives, circular cylindrical cartilage \u2026"
+            ],
+            [
+                [
+                    "cartilage",
+                    "osteoarthritis",
+                    "growth mechanics",
+                    "cell mechanics",
+                    "computational biomechanics"
+                ]
+            ]
+        ]
+    ]
+}

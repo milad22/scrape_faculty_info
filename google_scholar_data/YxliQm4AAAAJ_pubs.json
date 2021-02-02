@@ -1,0 +1,64 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2
+    ],
+    "data":[
+        [
+            "In this paper design and implementation of an accurate positioning system in indoor environments for an Omni directional Robot and a stereo vision based depth estimation system is discussed. The positioning system which is robust for wheel slip and jerky motion was implemented fusing odometry, Inertial Navigation System (INS) and magnetic compass based measurements. The vision system was implemented using two off the shelf web cameras. Here, Semi-Global Block Matching (SGBM) method was further developed considering multiple realizations of the same scenery to increase the accuracy of the depth estimation.",
+            "Depth map generation for a reconnaissance robot via sensor fusion",
+            "AHAD Abeysekara and DP Liyanage and WRCBS Welikala and GMRI Godaliyadda and MPB Eakanayake and JV Wijayakulasooriya",
+            "2015",
+            "YxliQm4AAAAJ:9yKSN-GCB0IC",
+            6,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7399031\/",
+            "13943143213069561193",
+            "\/scholar?cites=13943143213069561193",
+            {
+                "2016":3,
+                "2017":3
+            }
+        ],
+        [
+            "This paper proposes a computationally efficient, novel and superior nonlinear controller to the existing trajectory and orientation (T&O) control problem of an omnidirectional robot (ODR). Here first, the position and orientation (pose) estimation of the robot were obtained utilizing kinematic relationships of the ODR and multi-sensor fusion techniques. Then, dynamic relationships of the robot were used to form its state-space representation. The nonlinear state-space representation (NLSSR) was linearized by identifying and controlling the nonlinearity causing states. Then that linearized NLSSR was utilized to derive a state feedback controller and a proportional derivative integral (PID) controller to carry out a T&O tracking task. Performances of both derived controllers were evaluated in the simulation level comparing with a standard nonlinear controller.",
+            "Control Strategy for Navigation of a reconnaissance robotic System.",
+            "Shirantha Welikala and Dananjaya Liyanage and Anuradha D Abeysekara and Mervyn Parakrama B Ekanayake and Roshan Indika Godaliyadda and Janaka V Wijayakulasooriya",
+            "2016",
+            "YxliQm4AAAAJ:u5HHmVD_uO8C",
+            1,
+            "https:\/\/www.researchgate.net\/profile\/Shirantha_Welikala\/publication\/308088318_Control_Strategy_for_Navigation_of_a_Reconnaissance_Robotic_System\/links\/5a68c027a6fdcccd01a18dee\/Control-Strategy-for-Navigation-of-a-Reconnaissance-Robotic-System.pdf",
+            "302416501746870498",
+            "\/scholar?cites=302416501746870498",
+            {
+                "2019":1
+            }
+        ],
+        [
+            "In this paper trajectory and orientation control is addressed for an Omni directional robot (ODR). Here ODR is modeled in a state space representation using its dynamics and the kinematics incorporating correction for motor imbalance problem. Then for that nonlinear state space, novel tracking based state feedback linearizing strategy is introduced so that controller for the intended task can be designed. Operation of this proposed strategy is compared with improved version of conventional PID based controller which is designed for the same trajectory and orientation tracking task of an ODR. Then Obtained state space model is used to test the performance of both proposed controllers. Both controllers show acceptable performance.",
+            "Versatile non linear control strategy for reconnaissance robotic system",
+            "WRCBS Welikala and DP Liyanage and AHAD Abeysekara and MPB Eakanayake and GMRI Godaliyadda and JV Wijayakulasooriya",
+            "2015",
+            "YxliQm4AAAAJ:d1gkVwhDpl0C",
+            1,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7399033\/",
+            "12620791198176603106",
+            "\/scholar?cites=12620791198176603106",
+            {
+                "2016":1
+            }
+        ]
+    ]
+}

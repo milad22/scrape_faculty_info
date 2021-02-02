@@ -1,0 +1,48 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "When combined, molecular simulations and small-angle scattering experiments are able to provide molecular-scale resolution of structure. Separately, scattering experiments provide only intermingled pair correlations between atoms, while molecular simulations are limited by model quality and the relatively short time scales that they can access. Their combined strength relies on agreement between the experimental spectra and those computed by simulation. To date, computing the neutron spectra from a molecular simulation of a lipid bilayer is straightforward only if the structure is approximated by laterally averaging the in-plane bilayer structure. However, this neglects all information about lateral heterogeneity, e.g., clustering of components in a lipid mixture. This paper presents two methods for computing the scattering intensity of simulated bilayers with in-plane heterogeneity, enabling a full treatment of both \u2026",
+            "Laterally resolved small-angle scattering intensity from lipid bilayer simulations: an exact and a limited-range treatment",
+            "Mitchell W Dorrell and Frederick A Heberle and John Katsaras and Lutz Maibaum and Edward Lyman and Alexander J Sodt",
+            "2020",
+            "ruKEVv8AAAAJ:hFOr9nPyWt4C",
+            1,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acs.jctc.0c00132",
+            "18093244274757935895",
+            "\/scholar?cites=18093244274757935895",
+            {
+                "2020":1
+            }
+        ],
+        [
+            "Through the combination of simulations and numerical analysis with small angle neutron scattering, we probe the lateral organization of lipid bilayer mixtures. Small Angle Neutron Scattering (SANS) is an excellent complement to optical techniques, as it reveals molecular scale structural details without fluorescent probes. On its own, however, SANS is not sufficient to determine the organization of the membrane. We therefore take a two-pronged approach, comparing molecular dynamics simulations of ternary mixtures to experimental data obtained for the same mixtures. In-silico neutron scattering experiments on simulated membranes are compared to the experimental data, simultaneously validating the simulation data and providing a molecular scale model of the experimental system. Our all-atom molecular dynamics simulations use pre-existing software packages (eg, Gromacs) to produce atomic trajectories of \u2026",
+            "Nanoscale structure of lipid bilayers revealed by in-silico and experimental small angle neutron scattering",
+            "Mitchell Dorrell and Frederick Heberle and John Katsaras and Edward Lyman",
+            "2017",
+            "ruKEVv8AAAAJ:qUcmZB5y_30C",
+            1,
+            "https:\/\/www.cell.com\/biophysj\/pdf\/S0006-3495(16)33541-X.pdf",
+            "5784663000686750348",
+            "\/scholar?cites=5784663000686750348",
+            {
+                "2019":1
+            }
+        ]
+    ]
+}

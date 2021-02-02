@@ -1,0 +1,35 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "HSKE2EPH",
+            "4nGncN4AAAAJ",
+            [
+                "End-to-end attention based text-dependent speaker verification",
+                "Investigation of Multilingual Deep Neural Networks for Spoken Term Detection",
+                "SIMPLIFYING LONG SHORT-TERM MEMORY ACOUSTIC MODELS FOR FAST TRAINING AND DECODING"
+            ],
+            [
+                "A new type of End-to-End system for text-dependent speaker verification is presented in this paper. Previously, using the phonetic discriminate\/speaker discriminate DNN as a feature extractor for speaker verification has shown promising results. The extracted frame-level (bottleneck, posterior or d-vector) features are equally weighted and aggregated to compute an utterance-level speaker representation (d-vector or i-vector). In this work we use a speaker discriminate CNN to extract the noise-robust frame-level features. These features are smartly combined to form an utterance-level speaker vector through an attention mechanism. The proposed attention model takes the speaker discriminate information and the phonetic information to learn the weights. The whole system, including the CNN and attention model, is joint optimized using an end-to-end criterion. The training algorithm imitates exactly the evaluation \u2026",
+                "The development of high-performance speech processing systems for low-resource languages is a challenging area. One approach to address the lack of resources is to make use of data from multiple languages. A popular direction in recent years is to use bottleneck features, or hybrid systems, trained on multilingual data for speech-to-text (STT) systems. This paper presents an investigation into the application of these multilingual approaches to spoken term detection. Experiments were run using the IARPA Babel limited language pack corpora (~10 hours\/language) with 4 languages for initial multilingual system development and an additional held-out target language. STT gains achieved through using multilingual bottleneck features in a Tandem configuration are shown to also apply to keyword search (KWS). Further improvements in both STT and KWS were observed by incorporating language questions into \u2026",
+                "On acoustic modeling, recurrent neural networks (RNNs) using Long Short-Term Memory (LSTM) units have recently been shown to outperform deep neural networks (DNNs) models. This paper focuses on resolving two challenges faced by LSTM models: high model complexity and poor decoding efficiency. Motivated by our analysis of the gates activation and function, we present two LSTM simplifications: deriving input gates from forget gates, and removing recurrent inputs from output gates. To accelerate decoding of LSTMs, we propose to apply frame skipping during training, and frame skipping and posterior copying (FSPC) during decoding. In the experiments, model simplifications reduce the size of LSTM models by 26%, resulting in a simpler model structure. Meanwhile, the application of FSPC speeds up model computation by 2 times during LSTM decoding. All these improvements are achieved at the cost \u2026"
+            ],
+            [
+                [
+                    "machine learning",
+                    "speech recognition",
+                    "speaker verification"
+                ]
+            ]
+        ]
+    ]
+}

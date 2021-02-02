@@ -1,0 +1,163 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "qqy6QW0AAAAJ",
+            "Rich Fletcher",
+            "MIT, University of Massachusetts Medical School",
+            "@media.mit.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=qqy6QW0AAAAJ",
+            4905,
+            [
+                "Health Diagnostics",
+                "Artificial Intelligence",
+                "Behavior Medicine",
+                "RFID"
+            ],
+            1917,
+            33,
+            20,
+            64,
+            36,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"1-hcASEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Rosalind Picard",
+                    "affiliation":"MIT"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"tSrE7EUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Daniel B. Chamberlain",
+                    "affiliation":"Rotageek"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"P4nfoKYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alex `Sandy' Pentland",
+                    "affiliation":"Professor MIT"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"-WFwzjoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mohamed Elgendi",
+                    "affiliation":"Faculty of Medicine, University of Manitoba"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"HhErKoYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ming-Zher Poh",
+                    "affiliation":"MIT, Cardiio"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"vqD_0uQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Derek Abbott",
+                    "affiliation":"Professor of Electrical & Electronic Engineering, University of Adelaide, Australia"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ZUT_NO4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Nigel Lovell",
+                    "affiliation":"UNSW"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"8bTnsggAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Oliver Saunders Wilder",
+                    "affiliation":"Postdoctoral Fellow, MIT"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"hLSAMi8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Matthew S Goodwin",
+                    "affiliation":"Northeastern University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"wS0qP_MAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hiroshi ISHII",
+                    "affiliation":"Jerome B. Wiesner Professor of Media Arts and Sciences, Associate Director of MIT Media Lab"
+                }
+            ]
+        ]
+    ]
+}

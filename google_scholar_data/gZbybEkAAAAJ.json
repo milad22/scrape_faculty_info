@@ -1,0 +1,52 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "gZbybEkAAAAJ",
+            "Philipp E Scherer",
+            "UT Southwestern Medical Center Dallas",
+            "@utsouthwestern.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=gZbybEkAAAAJ",
+            90533,
+            [
+                "Diabetes"
+            ],
+            31087,
+            147,
+            88,
+            422,
+            366,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"oyj1jMcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Zhao V. Wang",
+                    "affiliation":"UT Southwestern Medical Center, Dallas, Texas"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "nYvz2JUAAAAJ",
+            "Andrey Rogachev",
+            "Professor of Physics, University of Utah",
+            "@physics.utah.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=nYvz2JUAAAAJ",
+            1007,
+            [
+                "quantum transport",
+                "superconductivity",
+                "nanowire",
+                "organic electonics",
+                "noise"
+            ],
+            271,
+            16,
+            10,
+            23,
+            11,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"FHLdhIUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tzu-Chieh Wei",
+                    "affiliation":"CN Yang Institute for Theoretical Physics and Department of Physics and Astronomy, Stony Brook University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"UAQ3g74AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David Pekker",
+                    "affiliation":"University of Pittsburgh"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Y165FtkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Thaddee Kamdem Djidjou",
+                    "affiliation":"INTEL corporation"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"V7v9aRoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tek Basel",
+                    "affiliation":"University of California Santa Barbara"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"-z6MzxYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tsunehiro Takeuchi",
+                    "affiliation":"Toyota Technological Institute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ldoDxYkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Joseph Shinar",
+                    "affiliation":"Physics and Astronomy, Iowa State University"
+                }
+            ]
+        ]
+    ]
+}

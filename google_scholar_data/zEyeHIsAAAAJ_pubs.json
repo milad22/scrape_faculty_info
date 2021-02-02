@@ -1,0 +1,34 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Attractive electrostatic protein\u2013protein interactions (PPI) necessarily involve identifying oppositely charged regions of the protein surface that interact favorably. This cannot be done reliably if one only considers a single protein in isolation unless there are obvious charge \u201cpatches\u201d that result in extreme molecular dipoles. Prior work [ J. Pharm. Sci. 2019, 108, 120\u2212132] identified three monoclonal antibodies (MAbs) that displayed experimental behavior ranging from net repulsive to strongly attractive electrostatic interactions. The present work provides a systematic computational approach for identifying the origin of diverse PPI, in terms of which sets of amino acids or individual amino acids are most influential, and determining if there are different patterns of pairwise amino acid interaction \u201cmaps\u201d that result in different behaviors. The charge was eliminated computationally, one by one, for each charged residue in the \u2026",
+            "Identifying Key Residues That Drive Strong Electrostatic Attractions between Therapeutic Antibodies",
+            "Glenn Ferreira and Hassan Shahfar and Hasige A Sathish and Richard Remmele and Christopher J. Roberts",
+            "2019",
+            "zEyeHIsAAAAJ:NXb4pA-qfm4C",
+            3,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acs.jpcb.9b08355",
+            "1670968544407881035",
+            "\/scholar?cites=1670968544407881035",
+            {
+                "2019":1,
+                "2020":2
+            }
+        ]
+    ]
+}

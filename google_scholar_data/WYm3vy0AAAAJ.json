@@ -1,0 +1,101 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "WYm3vy0AAAAJ",
+            "Maxim Pospelov",
+            "Perimeter Institute\/University of Minnesota",
+            "@perimeterinstitute.ca",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=WYm3vy0AAAAJ",
+            21802,
+            [
+                "particle physics",
+                "cosmology"
+            ],
+            10830,
+            79,
+            54,
+            177,
+            134,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"NZsDtYkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Adam Ritz",
+                    "affiliation":"University of Victoria"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"SPopRGEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David McKeen",
+                    "affiliation":"TRIUMF"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"jaaWLqMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Andrei Derevianko",
+                    "affiliation":"University of Nevada, Reno"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"nXMpZ5sAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dmitry Budker",
+                    "affiliation":"Professor of Physics at JGU Mainz and UC Berkeley"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"rZkwAnYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"C.P. Burgess",
+                    "affiliation":"McMaster University & Perimeter Institute"
+                }
+            ]
+        ]
+    ]
+}

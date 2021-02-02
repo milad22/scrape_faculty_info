@@ -1,0 +1,39 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "The ground-state energy, electron density, and related properties of ordinary matter can be computed efficiently when the exchange-correlation energy as a functional of the density is approximated semilocally. We propose the first meta-generalized-gradient approximation (meta-GGA) that is fully constrained, obeying all 17 known exact constraints that a meta-GGA can. It is also exact or nearly exact for a set of \u201cappropriate norms,\u201d including rare-gas atoms and nonbonded interactions. This strongly constrained and appropriately normed meta-GGA achieves remarkable accuracy for systems where the exact exchange-correlation hole is localized near its electron, and especially for lattice constants and weak interactions.",
+            "Strongly Constrained and Appropriately Normed Semilocal Density Functional",
+            "Jianwei Sun and Adrienn Ruzsinszky and John P Perdew",
+            "2015",
+            "lGwvGO4AAAAJ:anf4URPfarAC",
+            1244,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.115.036402",
+            "8776859108789331840",
+            "\/scholar?cites=8776859108789331840",
+            {
+                "2015":8,
+                "2016":62,
+                "2017":96,
+                "2018":227,
+                "2019":321,
+                "2020":470,
+                "2021":48
+            }
+        ]
+    ]
+}

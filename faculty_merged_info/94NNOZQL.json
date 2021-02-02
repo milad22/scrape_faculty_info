@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "94NNOZQL",
+            "69XybXoAAAAJ",
+            [
+                "Rare region effects at classical, quantum and nonequilibrium phase transitions",
+                "How generic scale invariance influences quantum and classical phase transitions",
+                "First order transitions and multicritical points in weak itinerant ferromagnets",
+                "Nonanalytic behavior of the spin susceptibility in clean Fermi systems",
+                "Quantum Griffiths effects and smeared phase transitions in metals: Theory and experiment",
+                "Disorder-induced rounding of certain quantum phase transitions",
+                "Strong Enhancement of Superconducting  in Ferromagnetic Phases",
+                "Quantum Griffiths effects in itinerant Heisenberg magnets",
+                "Spin excitations in fluctuating stripe phases of doped cuprate superconductors",
+                "Infinite-randomness critical point in the two-dimensional disordered contact process"
+            ],
+            [
+                "Rare regions, ie, rare large spatial disorder fluctuations, can dramatically change the properties of a phase transition in a quenched disordered system. In generic classical equilibrium systems, they lead to an essential singularity, the so-called Griffiths singularity, of the free energy in the vicinity of the phase transition. Stronger effects can be observed at zero-temperature quantum phase transitions, at nonequilibrium phase transitions and in systems with correlated disorder. In some cases, rare regions can actually completely destroy the sharp phase transition by smearing. This topical review presents a unifying framework for rare region effects at weakly disordered classical, quantum and nonequilibrium phase transitions based on the effective dimensionality of the rare regions. Explicit examples include disordered classical Ising and Heisenberg models, insulating and metallic random quantum magnets, and the \u2026",
+                "This review discusses a paradigm that has become of increasing importance in the theory of quantum phase transitions, namely, the coupling of the order-parameter fluctuations to other soft modes and the resulting impossibility of constructing a simple Landau-Ginzburg-Wilson theory in terms of the order parameter only. The soft modes in question are manifestations of generic scale invariance, ie, the appearance of long-range order in whole regions in the phase diagram. The concept of generic scale invariance and its influence on critical behavior is explained using various examples, both classical and quantum mechanical. The peculiarities of quantum phase transitions are discussed, with emphasis on the fact that they are more susceptible to the effects of generic scale invariance than their classical counterparts. Explicit examples include the quantum ferromagnetic transition in metals, with or without quenched \u2026",
+                "It is shown that the phase transition in low-T c clean itinerant ferromagnets is generically of first order, due to correlation effects that lead to a nonanalytic term in the free energy. A tricritical point separates the line of first order transitions from Heisenberg critical behavior at higher temperatures. Sufficiently strong quenched disorder suppresses the first order transition via the appearance of a critical end point. A semiquantitative discussion is given in terms of recent experiments on MnSi, and predictions for other experiments are made.",
+                "The wave vector and temperature-dependent static spin susceptibility, \u03c7 s (Q, T), of clean interacting Fermi systems is considered in dimensions 1\u2a7d d\u2a7d 3. We show that at zero temperature \u03c7 s is a nonanalytic function of| Q|, with the leading nonanalyticity being| Q| d\u2212 1 for 1 Q 2 ln| Q| for d= 3. For the homogeneous spin susceptibility we find a nonanalytic temperature dependence T d\u2212 1 for 1 \u03c7 s (Q= 0) in d= 3.",
+                "In this paper, we review theoretical and experimental research on rare region effects at quantum phase transitions in disordered itinerant electron systems. After summarizing a few basic concepts about phase transitions in the presence of quenched randomness, we introduce the idea of rare regions and discuss their importance. We then analyze in detail the different phenomena that can arise at magnetic quantum phase transitions in disordered metals, including quantum Griffiths singularities, smeared phase transitions, and cluster-glass formation. For each scenario, we discuss the resulting phase diagram and summarize the behavior of various observables. We then review several recent experiments that provide examples of these rare region phenomena. We conclude by discussing limitations of current approaches and open questions.",
+                "We study the influence of quenched disorder on quantum phase transitions in systems with overdamped dynamics. For Ising order-parameter symmetry disorder destroys the sharp phase transition by rounding because a static order parameter can develop on rare spatial regions. This leads to an exponential dependence of the order parameter on the coupling constant. At finite temperatures the static order on the rare regions is destroyed. This restores the phase transition and leads to a double-exponential relation between critical temperature and coupling strength. We discuss the behavior based on Lifshitz-tail arguments and illustrate the results by simulations of a model system.",
+                "It is shown that the critical temperature for spin-triplet, p-wave superconductivity mediated by spin fluctuations is generically much higher in a Heisenberg ferromagnetic phase than in a paramagnetic one, due to the coupling of the magnons to the longitudinal magnetic susceptibility. Together with the tendency of the low-temperature ferromagnetic transition in very clean Heisenberg magnets to be of first order, this qualitatively explains the phase diagram recently observed in UGe 2.",
+                "We study the influence of quenched disorder on quantum phase transitions in itinerant magnets with Heisenberg spin symmetry, paying particular attention to rare disorder fluctuations. In contrast to the Ising case where the Landau damping of the spin fluctuations suppresses the tunneling of the rare regions, the Heisenberg system displays strong power-law quantum Griffiths singularities in the vicinity of the quantum critical point. We discuss these phenomena based on general scaling arguments, and we illustrate them by an explicit calculation for O (N) spin symmetry in the large-N limit. We also discuss broad implications for the classification of quantum phase transitions in the presence of quenched disorder.",
+                "Using a phenomenological lattice model of coupled spin and charge modes, we determine the spin susceptibility in the presence of fluctuating stripe charge order. We assume the charge fluctuations to be slow compared to those of the spins, and combine Monte Carlo simulations for the charge order parameter with exact diagonalization of the spin sector. Our calculations unify the spin dynamics of both static and fluctuating stripe phases and support the notion of a universal spin excitation spectrum in doped cuprate superconductors.",
+                "We study the nonequilibrium phase transition in the two-dimensional contact process on a randomly diluted lattice by means of large-scale Monte Carlo simulations for times up to 10 10 and system sizes up to 8000\u00d7 8000 sites. Our data provide strong evidence for the transition being controlled by an exotic infinite-randomness critical point with activated (exponential) dynamical scaling. We calculate the critical exponents of the transition and find them to be universal, ie, independent of disorder strength. The Griffiths region between the clean and the dirty critical points exhibits power-law dynamical scaling with continuously varying exponents. We discuss the generality of our findings and relate them to a broader theory of rare region effects at phase transitions with quenched disorder. Our results are of importance beyond absorbing state transitions because, according to a strong-disorder renormalization group \u2026"
+            ],
+            [
+                [
+                    "Condensed Matter Physics"
+                ]
+            ]
+        ]
+    ]
+}

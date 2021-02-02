@@ -1,0 +1,53 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "XeS9GnUAAAAJ",
+            "Raul Sanchez Garcia",
+            "Universidad Europea de Madrid",
+            "@uem.es",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=XeS9GnUAAAAJ",
+            26648,
+            [
+                "Sociology of sport",
+                "skill acquisition"
+            ],
+            11854,
+            68,
+            51,
+            316,
+            186,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"57vFg8MAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dale C Spencer",
+                    "affiliation":"Carleton University"
+                }
+            ]
+        ]
+    ]
+}

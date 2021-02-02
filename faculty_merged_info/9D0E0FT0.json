@@ -1,0 +1,45 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "9D0E0FT0",
+            "cKa-EXEAAAAJ",
+            [
+                "DNA-enabled self-assembly of plasmonic nanoclusters",
+                "Ultrasmooth, highly spherical monocrystalline gold particles for precision plasmonics",
+                "Tetrahedral Colloidal Clusters from Random Parking of Bidisperse Spheres",
+                "Templated growth of gold satellites on dimpled silica cores",
+                "Colloidal alchemy: conversion of polystyrene nanoclusters into gold",
+                "Self-assembly and entropy of colloidal clusters",
+                "A nonlinear, geometric Hall effect without magnetic field"
+            ],
+            [
+                "DNA nanotechnology provides a versatile foundation for the chemical assembly of nanostructures. Plasmonic nanoparticle assemblies are of particular interest because they can be tailored to exhibit a broad range of electromagnetic phenomena. In this Letter, we report the assembly of DNA-functionalized nanoparticles into heteropentamer clusters, which consist of a smaller gold sphere surrounded by a ring of four larger spheres. Magnetic and Fano-like resonances are observed in individual clusters. The DNA plays a dual role: it selectively assembles the clusters in solution and functions as an insulating spacer between the conductive nanoparticles. These particle assemblies can be generalized to a new class of DNA-enabled plasmonic heterostructures that comprise various active and passive materials and other forms of DNA scaffolding.",
+                "Ultrasmooth, highly spherical monocrystalline gold particles were prepared by a cyclic process of slow growth followed by slow chemical etching, which selectively removes edges and vertices. The etching process effectively makes the surface tension isotropic, so that spheres are favored under quasi-static conditions. It is scalable up to particle sizes of 200 nm or more. The resulting spherical crystals display uniform scattering spectra and consistent optical coupling at small separations, even showing Fano-like resonances in small clusters. The high monodispersity of the particles we demonstrate should facilitate the self-assembly of nanoparticle clusters with uniform optical resonances, which could in turn be used to fabricate optical metafluids. Narrow size distributions are required to control not only the spectral features but also the morphology and yield of clusters in certain assembly schemes.",
+                "Using experiments and simulations, we investigate the clusters that form when colloidal spheres stick irreversibly to\u2014or \u201cpark\u201d on\u2014smaller spheres. We use either oppositely charged particles or particles labeled with complementary DNA sequences, and we vary the ratio \u03b1 of large to small sphere radii. Once bound, the large spheres cannot rearrange, and thus the clusters do not form dense or symmetric packings. Nevertheless, this stochastic aggregation process yields a remarkably narrow distribution of clusters with nearly 90% tetrahedra at \u03b1= 2.45. The high yield of tetrahedra, which reaches 100% in simulations at \u03b1= 2.41, arises not simply because of packing constraints, but also because of the existence of a long-time lower bound that we call the \u201cminimum parking\u201d number. We derive this lower bound from solutions to the classic mathematical problem of spherical covering, and we show that there is a critical \u2026",
+                "We synthesize robust clusters of gold satellites positioned with tetrahedral symmetry on the surface of a patchy silica core by adsorption and growth of gold on the patches. First we conduct emulsion polymerization of styrene in the presence of 52 nm silica seeds whose surface has been modified with methacryloxymethyltriethoxysilane (MMS). We derive four-dimple particles from the resulting silica\/polystyrene tetrapods. Polystyrene chains are covalently bound to the silica surface within the dimples due to the MMS grafts and they may be thiolated to induce adsorption of 12 nm gold particles. Using chloroauric acid, ascorbic acid and sodium citrate at room temperature, we grow gold from these 12 nm seeds without detachment from or deformation of the dimpled silica surface. We obtain gold satellites of tunable diameter up to 140 nm.",
+                "Isotropic plasmonic clusters consisting of a controlled number of gold satellites around a silica core are fabricated from silica\/polystyrene tetrapod, hexapod, and dodecapod templates. The synthetic pathway includes stages of site\u2010specific seed adsorption, seed\u2010mediated growth, and iterative etching\/regrowth to reshape the satellites into spheroids. Transmission electron microscopy and electron tomography provide evidence of the symmetry of the clusters. This work paves the way for a comprehensive study of their optical properties.",
+                "The first and more recent contribution I have chosen to highlight [1] is about the formation of clusters of colloidal (or nanocolloidal) particles by random irreversible processes. Specifically, the authors address by experiment and simulation a system in which a small central sphere of radius r1 can form irreversible bonds with any number of larger spheres (radius r2), but the larger spheres do not bond to each other. Aggregation proceeds until enough large particles cover the small sphere to prevent other large particles from making contact with it. One goal behind this study (and that of an earlier paper discussed below [2]) is to create a robust and reproducible self-assembly path for finite sized colloidal objects of interesting (and perhaps technologically useful) shape. A number of such paths have been explored in the past [3, 4] but few are as simple as this one. One drawback is that, at first sight, one might expect the resulting aggregates to be rather a mess. In particular, one might expect them to have significant variation in the number n of the large spheres that get attached to the small central one.In general, this is true. But the authors report (and explain) the existence of a magic size ratio (r2\/r1= 1+\/2) for which n is always 4. For this size ratio, if three large particles attach themselves at random positions on the surface of the small central one, there is always room for a fourth, but never a fifth.(\u2018Never\u2019here means with probability zero.)",
+                "The classical Hall effect, the traditional means of determining charge-carrier sign and density in a conductor, requires a magnetic field to produce transverse voltages across a current-carrying wire. We demonstrate a use of geometry to create transverse potentials along curved paths without any magnetic field. These potentials also reflect the charge-carrier sign and density. We demonstrate this effect experimentally in curved wires where the transverse potentials are consistent with the doping and change polarity as we switch the carrier sign. In straight wires, we measure transverse potential fluctuations with random polarity demonstrating that the current follows a complex, tortuous path. This geometrically induced potential offers a sensitive characterization of inhomogeneous current flow in thin films."
+            ],
+            [
+                [
+                    "Soft condensed matter physics",
+                    "self-assembly",
+                    "plasmonics",
+                    "metamaterials",
+                    "geometric Hall effect"
+                ]
+            ]
+        ]
+    ]
+}

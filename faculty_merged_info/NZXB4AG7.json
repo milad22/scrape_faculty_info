@@ -1,0 +1,33 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "NZXB4AG7",
+            "V32nmaUAAAAJ",
+            [
+                "Detailed analysis of grid\u2010based molecular docking: A case study of CDOCKER\u2014A CHARMm\u2010based MD docking algorithm",
+                "Energetics of nanoscale graphitic tubules"
+            ],
+            [
+                "The influence of various factors on the accuracy of protein\u2010ligand docking is examined. The factors investigated include the role of a grid representation of protein\u2010ligand interactions, the initial ligand conformation and orientation, the sampling rate of the energy hyper\u2010surface, and the final minimization. A representative docking method is used to study these factors, namely, CDOCKER, a molecular dynamics (MD) simulated\u2010annealing\u2010based algorithm. A major emphasis in these studies is to compare the relative performance and accuracy of various grid\u2010based approximations to explicit all\u2010atom force field calculations. In these docking studies, the protein is kept rigid while the ligands are treated as fully flexible and a final minimization step is used to refine the docked poses. A docking success rate of 74% is observed when an explicit all\u2010atom representation of the protein (full force field) is used, while a lower \u2026",
+                "Using both empirical potentials and first-principles total-energy methods, we have examined the energetics and elastic properties of all possible graphitic tubules with radii less than 9 \u00c5. We find that the strain energy per carbon atom relative to an unstrained graphite sheet varies as 1\/R 2 (where R is the tubule radius) and is insensitive to other aspects of the lattice structure, indicating that relationships derivable from continuum elastic theory persist well into the small-radius limit. We also predict that this strain energy is much smaller than that in highly symmetric fullerene clusters with similar radii, suggesting a possible thermodynamic preference for tubular structures rather than cage structures. The empirical potentials further predict that the elastic constants along the tubule axis generally soften with decreasing tubule radius, although with a distinct dependence on helical conformation."
+            ],
+            [
+                [
+                    "Cheminformatics",
+                    "Bioinformatics",
+                    "Data Science"
+                ]
+            ]
+        ]
+    ]
+}

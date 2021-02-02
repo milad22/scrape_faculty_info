@@ -1,0 +1,226 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "data":[
+        [
+            "In the past decade, coupled-cluster theory has seen a renaissance in nuclear physics, with computations of neutron-rich and medium-mass nuclei. The method is efficient for nuclei with product-state references, and it describes many aspects of weakly bound and unbound nuclei. This report reviews the technical and conceptual developments of this method in nuclear physics, and the results of coupled-cluster calculations for nucleonic matter, and for exotic isotopes of helium, oxygen, calcium, and some of their neighbors.",
+            "Coupled-cluster computations of atomic nuclei",
+            "Gaute Hagen and Thomas Papenbrock and M Hjorth-Jensen and David J Dean",
+            "2014",
+            "B08BBFMAAAAJ:XiSMed-E-HIC",
+            332,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0034-4885\/77\/9\/096302\/meta",
+            "14753083355217329266",
+            "\/scholar?cites=14753083355217329266",
+            {
+                "2014":10,
+                "2015":21,
+                "2016":42,
+                "2017":61,
+                "2018":66,
+                "2019":52,
+                "2020":72,
+                "2021":8
+            }
+        ],
+        [
+            "With the goal of developing predictive ab initio capability for light and medium-mass nuclei, two-nucleon and three-nucleon forces from chiral effective field theory are optimized simultaneously to low-energy nucleon-nucleon scattering data, as well as binding energies and radii of few-nucleon systems and selected isotopes of carbon and oxygen. Coupled-cluster calculations based on this interaction, named NNLO sat, yield accurate binding energies and radii of nuclei up to Ca 40, and are consistent with the empirical saturation point of symmetric nuclear matter. In addition, the low-lying collective J \u03c0= 3\u2212 states in O 16 and Ca 40 are described accurately, while spectra for selected p-and s d-shell nuclei are in reasonable agreement with experiment.",
+            "Accurate nuclear radii and binding energies from a chiral interaction",
+            "A Ekstr\u00f6m and GR Jansen and Kyle A Wendt and Gaute Hagen and T Papenbrock and BD Carlsson and Christian Forssen and M Hjorth-Jensen and Petr Navratil and Witold Nazarewicz",
+            "2015",
+            "B08BBFMAAAAJ:dfsIfKJdRG4C",
+            321,
+            "https:\/\/journals.aps.org\/prc\/abstract\/10.1103\/PhysRevC.91.051301",
+            "11419587356952645367",
+            "\/scholar?cites=11419587356952645367",
+            {
+                "2015":12,
+                "2016":51,
+                "2017":60,
+                "2018":58,
+                "2019":60,
+                "2020":74,
+                "2021":6
+            }
+        ],
+        [
+            "We employ interactions from chiral effective field theory and compute the binding energies and low-lying excitations of calcium isotopes with the coupled-cluster method. Effects of three-nucleon forces are included phenomenologically as in-medium two-nucleon interactions, and the coupling to the particle continuum is taken into account using a Berggren basis. The computed ground-state energies and the low-lying J \u03c0= 2+ states for the isotopes Ca 42, 48, 50, 52 are in good agreement with data, and we predict the excitation energy of the first J \u03c0= 2+ state in Ca 54 at 1.9 MeV, displaying only a weak subshell closure. In the odd-mass nuclei Ca 53, 55, 61 we find that the positive parity states deviate strongly from the naive shell model.",
+            "Evolution of shell structure in neutron-rich calcium isotopes",
+            "G Hagen and M Hjorth-Jensen and GR Jansen and R Machleidt and T Papenbrock",
+            "2012",
+            "B08BBFMAAAAJ:9ZlFYXVOiuMC",
+            287,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.109.032502",
+            "5144056036198702295",
+            "\/scholar?cites=5144056036198702295",
+            {
+                "2012":9,
+                "2013":51,
+                "2014":50,
+                "2015":38,
+                "2016":42,
+                "2017":29,
+                "2018":19,
+                "2019":24,
+                "2020":23,
+                "2021":1
+            }
+        ],
+        [
+            "We optimize the nucleon-nucleon interaction from chiral effective field theory at next-to-next-to-leading order (NNLO). The resulting new chiral force NNLO opt yields \u03c7 2\u2248 1 per degree of freedom for laboratory energies below approximately 125 MeV. In the A= 3, 4 nucleon systems, the contributions of three-nucleon forces are smaller than for previous parametrizations of chiral interactions. We use NNLO opt to study properties of key nuclei and neutron matter, and we demonstrate that many aspects of nuclear structure can be understood in terms of this nucleon-nucleon interaction, without explicitly invoking three-nucleon forces.",
+            "Optimized chiral nucleon-nucleon interaction at next-to-next-to-leading order",
+            "A Ekstr\u00f6m and G Baardsen and Christian Forss\u00e9n and G Hagen and M Hjorth-Jensen and GR Jansen and R Machleidt and W Nazarewicz and T Papenbrock and J Sarich and SM Wild",
+            "2013",
+            "B08BBFMAAAAJ:BrmTIyaxlBUC",
+            254,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.110.192502",
+            "17431463753082964186",
+            "\/scholar?cites=17431463753082964186",
+            {
+                "2013":10,
+                "2014":40,
+                "2015":39,
+                "2016":29,
+                "2017":34,
+                "2018":36,
+                "2019":22,
+                "2020":42,
+                "2021":1
+            }
+        ],
+        [
+            "What is the size of the atomic nucleus? This deceivably simple question is difficult to answer. Although the electric charge distributions in atomic nuclei were measured accurately already half a century ago, our knowledge of the distribution of neutrons is still deficient. In addition to constraining the size of atomic nuclei, the neutron distribution also impacts the number of nuclei that can exist and the size of neutron stars. We present an ab initio calculation of the neutron distribution of the neutron-rich nucleus 48 Ca. We show that the neutron skin (difference between the radii of the neutron and proton distributions) is significantly smaller than previously thought. We also make predictions for the electric dipole polarizability and the weak form factor; both quantities that are at present targeted by precision measurements. Based on ab initio results for 48 Ca, we provide a constraint on the size of a neutron star.",
+            "Neutron and weak-charge distributions of the 48 Ca nucleus",
+            "G Hagen and A Ekstr\u00f6m and C Forss\u00e9n and GR Jansen and W Nazarewicz and T Papenbrock and KA Wendt and Sonia Bacca and N Barnea and B Carlsson and C Drischler and K Hebeler and M Hjorth-Jensen and M Miorelli and G Orlandini and Achim Schwenk and J Simonis",
+            "2016",
+            "B08BBFMAAAAJ:qjMakFHDy7sC",
+            253,
+            "https:\/\/www.nature.com\/articles\/nphys3529",
+            "549384098468952538",
+            "\/scholar?cites=549384098468952538",
+            {
+                "2015":1,
+                "2016":36,
+                "2017":55,
+                "2018":52,
+                "2019":43,
+                "2020":58,
+                "2021":7
+            }
+        ],
+        [
+            "Despite being a complex many-body system, the atomic nucleus exhibits simple structures for certain \u2018magic\u2019numbers of protons and neutrons. The calcium chain in particular is both unique and puzzling: evidence of doubly magic features are known in 40, 48 Ca, and recently suggested in two radioactive isotopes, 52, 54 Ca. Although many properties of experimentally known calcium isotopes have been successfully described by nuclear theory, it is still a challenge to predict the evolution of their charge radii. Here we present the first measurements of the charge radii of 49, 51, 52 Ca, obtained from laser spectroscopy experiments at ISOLDE, CERN. The experimental results are complemented by state-of-the-art theoretical calculations. The large and unexpected increase of the size of the neutron-rich calcium isotopes beyond N= 28 challenges the doubly magic nature of 52 Ca and opens new intriguing questions \u2026",
+            "Unexpectedly large charge radii of neutron-rich calcium isotopes",
+            "RF Garcia Ruiz and ML Bissell and Klaus Blaum and A Ekstr\u00f6m and N Fr\u00f6mmgen and G Hagen and M Hammen and K Hebeler and JD Holt and GR Jansen and M Kowalska and K Kreim and W Nazarewicz and R Neugart and Gerda Neyens and W N\u00f6rtersh\u00e4user and T Papenbrock and Jasna Papuga and A Schwenk and J Simonis and KA Wendt and Deyan T Yordanov",
+            "2016",
+            "B08BBFMAAAAJ:xtRiw3GOFMkC",
+            248,
+            "https:\/\/www.nature.com\/articles\/nphys3645",
+            "13227820698938061757",
+            "\/scholar?cites=13227820698938061757",
+            {
+                "2015":1,
+                "2016":25,
+                "2017":49,
+                "2018":50,
+                "2019":49,
+                "2020":67,
+                "2021":6
+            }
+        ],
+        [
+            "We perform coupled-cluster calculations for the doubly magic nuclei He 4, O 16, Ca 40, 48, for neutron-rich isotopes of oxygen and fluorine, and employ \u201cbare\u201d and secondary renormalized nucleon-nucleon interactions. For the nucleon-nucleon interaction from chiral effective field theory at order next-to-next-to-next-to leading order, we find that the coupled-cluster approximation including triples corrections binds nuclei within 0.4 MeV per nucleon compared to data. We employ interactions from a resolution-scale dependent similarity renormalization group transformations and assess the validity of power counting estimates in medium-mass nuclei. We find that the missing contributions from three-nucleon forces are consistent with these estimates. For the unitary correlator model potential, we find a slow convergence with respect to increasing the size of the model space. For the G-matrix approach, we find a weak \u2026",
+            "Ab initio coupled-cluster approach to nuclear structure with modern nucleon-nucleon interactions",
+            "Gaute Hagen and T Papenbrock and David J Dean and Morten Hjorth-Jensen",
+            "2010",
+            "B08BBFMAAAAJ:M3ejUd6NZC8C",
+            241,
+            "https:\/\/journals.aps.org\/prc\/abstract\/10.1103\/PhysRevC.82.034330",
+            "4432376527059295405",
+            "\/scholar?cites=4432376527059295405",
+            {
+                "2011":20,
+                "2012":33,
+                "2013":31,
+                "2014":34,
+                "2015":20,
+                "2016":18,
+                "2017":25,
+                "2018":23,
+                "2019":17,
+                "2020":17,
+                "2021":2
+            }
+        ],
+        [
+            "We employ interactions from chiral effective field theory and compute binding energies, excited states, and radii for isotopes of oxygen with the coupled-cluster method. Our calculation includes the effects of three-nucleon forces and of the particle continuum, both of which are important for the description of neutron-rich isotopes in the vicinity of the nucleus O 24. Our main results are the placement of the neutron drip line at O 24, the assignment of spins, parities and resonance widths for several low-lying states of the drip line nucleus, and an efficient approximation that incorporates the effects of three-body interactions.",
+            "Continuum effects and three-nucleon forces in neutron-rich oxygen isotopes",
+            "Gaute Hagen and M Hjorth-Jensen and GR Jansen and R Machleidt and T Papenbrock",
+            "2012",
+            "B08BBFMAAAAJ:QIV2ME_5wuYC",
+            223,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.108.242501",
+            "5225148266017882837",
+            "\/scholar?cites=5225148266017882837",
+            {
+                "2012":5,
+                "2013":43,
+                "2014":30,
+                "2015":24,
+                "2016":25,
+                "2017":27,
+                "2018":24,
+                "2019":23,
+                "2020":19,
+                "2021":2
+            }
+        ],
+        [
+            "We compute the binding energies, radii, and densities for selected medium-mass nuclei within coupled-cluster theory and employ a bare chiral nucleon-nucleon interaction at next-to-next-to-next-to-leading order. We find rather well-converged results in model spaces consisting of 15 oscillator shells, and the doubly magic nuclei Ca 40, Ca 48, and the exotic Ni 48 are underbound by about 1 MeV per nucleon within the coupled-cluster singles-doubles approximation. The binding-energy difference between the mirror nuclei Ca 48 and Ni 48 is close to theoretical mass table evaluations. Our computation of the one-body density matrices and the corresponding natural orbitals and occupation numbers provides a first step to a microscopic foundation of the nuclear shell model.",
+            "Medium-mass nuclei from chiral nucleon-nucleon interactions",
+            "G Hagen and T Papenbrock and David Jarvis Dean and M Hjorth-Jensen",
+            "2008",
+            "B08BBFMAAAAJ:OU6Ihb5iCvQC",
+            184,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.101.092502",
+            "14497444864106468005",
+            "\/scholar?cites=14497444864106468005",
+            {
+                "2008":2,
+                "2009":15,
+                "2010":22,
+                "2011":25,
+                "2012":18,
+                "2013":24,
+                "2014":16,
+                "2015":14,
+                "2016":9,
+                "2017":14,
+                "2018":11,
+                "2019":6,
+                "2020":7
+            }
+        ]
+    ]
+}

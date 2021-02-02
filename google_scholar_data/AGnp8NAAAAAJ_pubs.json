@@ -1,0 +1,222 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "In a variety of application domains the content to be recommended to users is associated with text. This includes research papers, movies with associated plot summaries, news articles, blog posts, etc. Recommendation approaches based on latent factor models can be extended naturally to leverage text by employing an explicit mapping from text to factors. This enables recommendations for new, unseen content, and may generalize better, since the factors for all items are produced by a compactly-parametrized model. Previous work has used topic models or averages of word embeddings for this mapping. In this paper we present a method leveraging deep recurrent neural networks to encode the text sequence into a latent vector, specifically gated recurrent units (GRUs) trained end-to-end on the collaborative filtering task. For the task of scientific paper recommendation, this yields models with significantly higher \u2026",
+            "Ask the GRU Multi-task Learning for Deep Text Recommendations",
+            "Trapit Bansal and David Belanger and Andrew McCallum",
+            "2016",
+            "AGnp8NAAAAAJ:mB3voiENLucC",
+            209,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/2959100.2959180",
+            "10725480659293048264",
+            "\/scholar?cites=10725480659293048264",
+            {
+                "2016":1,
+                "2017":25,
+                "2018":45,
+                "2019":64,
+                "2020":68,
+                "2021":3
+            }
+        ],
+        [
+            "Today when many practitioners run basic NLP on the entire web and large-volume traffic, faster methods are paramount to saving time and energy costs. Recent advances in GPU hardware have led to the emergence of bi-directional LSTMs as a standard method for obtaining per-token vector representations serving as input to labeling tasks such as NER (often followed by prediction in a linear-chain CRF). Though expressive and accurate, these models fail to fully exploit GPU parallelism, limiting their computational efficiency. This paper proposes a faster alternative to Bi-LSTMs for NER: Iterated Dilated Convolutional Neural Networks (ID-CNNs), which have better capacity than traditional CNNs for large context and structured prediction. Unlike LSTMs whose sequential processing on sentences of length N requires O (N) time even in the face of parallelism, ID-CNNs permit fixed-depth convolutions to run in parallel across entire documents. We describe a distinct combination of network structure, parameter sharing and training procedures that enable dramatic 14-20x test-time speedups while retaining accuracy comparable to the Bi-LSTM-CRF. Moreover, ID-CNNs trained to aggregate context from the entire document are even more accurate while maintaining 8x faster test time speeds.",
+            "Fast and accurate entity recognition with iterated dilated convolutions",
+            "Emma Strubell and Patrick Verga and David Belanger and Andrew McCallum",
+            "2017",
+            "AGnp8NAAAAAJ:4JMBOYKVnBMC",
+            195,
+            "https:\/\/arxiv.org\/abs\/1702.02098",
+            "15442679972273025553",
+            "\/scholar?cites=15442679972273025553",
+            {
+                "2017":6,
+                "2018":34,
+                "2019":63,
+                "2020":87,
+                "2021":4
+            }
+        ],
+        [
+            "Observations demonstrate that faults are fractal surfaces with deviations from planarity at all scales. We study dynamic rupture propagation on self-similar faults having root mean square (rms) height fluctuations of order 10-3 to 10-2 times the profile length. Our 2D plane strain models feature strongly rate-weakening fault friction and off-fault Drucker\u2013Prager viscoplasticity. The latter bounds otherwise unreasonably large stress concentrations in the vicinity of bends. Our choice of a cohesionless yield function prevents tensile stress states and thus fault opening. A consequence of strongly rate-weakening friction is the existence of a critical background stress level above which self-sustaining rupture propagation, in the form of self-healing slip pulses, first becomes possible. Around this level, at which natural faults are expected to operate, ruptures become extremely sensitive to fault roughness and exhibit \u2026",
+            "Earthquake ruptures with strongly rate-weakening friction and off-fault plasticity, Part 2: Nonplanar faults",
+            "Eric M Dunham and David Belanger and Lin Cong and Jeremy E Kozdon",
+            "2011",
+            "AGnp8NAAAAAJ:4TOpqqG69KYC",
+            173,
+            "https:\/\/pubs.geoscienceworld.org\/ssa\/bssa\/article\/101\/5\/2308\/326480",
+            "3461307622771298127",
+            "\/scholar?cites=3461307622771298127",
+            {
+                "2011":4,
+                "2012":13,
+                "2013":11,
+                "2014":13,
+                "2015":17,
+                "2016":18,
+                "2017":15,
+                "2018":24,
+                "2019":33,
+                "2020":21
+            }
+        ],
+        [
+            "Our goal is to combine the rich multistep inference of symbolic logical reasoning with the generalization capabilities of neural networks. We are particularly interested in complex reasoning about entities and relations in text and large-scale knowledge bases (KBs). Neelakantan et al.(2015) use RNNs to compose the distributed semantics of multi-hop paths in KBs; however for multiple reasons, the approach lacks accuracy and practicality. This paper proposes three significant modeling advances:(1) we learn to jointly reason about relations, entities, and entity-types;(2) we use neural attention modeling to incorporate multiple paths;(3) we learn to share strength in a single RNN that represents logical composition across all relations. On a largescale Freebase+ ClueWeb prediction task, we achieve 25% error reduction, and a 53% error reduction on sparse relations due to shared strength. On chains of reasoning in WordNet we reduce error in mean quantile by 84% versus previous state-of-the-art. The code and data are available at this https URL",
+            "Chains of reasoning over entities, relations, and text using recurrent neural networks",
+            "Rajarshi Das and Arvind Neelakantan and David Belanger and Andrew McCallum",
+            "2016",
+            "AGnp8NAAAAAJ:-f6ydRqryjwC",
+            152,
+            "https:\/\/arxiv.org\/abs\/1607.01426",
+            "10584306955592503684",
+            "\/scholar?cites=10584306955592503684",
+            {
+                "2016":4,
+                "2017":24,
+                "2018":34,
+                "2019":42,
+                "2020":47,
+                "2021":1
+            }
+        ],
+        [
+            "We introduce structured prediction energy networks (SPENs), a flexible framework for structured prediction. A deep architecture is used to define an energy function of candidate labels, and then predictions are produced by using back-propagation to iteratively optimize the energy with respect to the labels. This deep architecture captures dependencies between labels that would lead to intractable graphical models, and performs structure learning by automatically learning discriminative features of the structured output. One natural application of our technique is multi-label classification, which traditionally has required strict prior assumptions about the interactions between labels to ensure tractable learning and prediction. We are able to apply SPENs to multi-label problems with substantially larger label sets than previous applications of structured prediction, while modeling high-order interactions using minimal structural assumptions. Overall, deep learning provides remarkable tools for learning features of the inputs to a prediction problem, and this work extends these techniques to learning features of structured outputs. Our experiments provide impressive performance on a variety of benchmark multi-label classification tasks, demonstrate that our technique can be used to provide interpretable structure learning, and illuminate fundamental trade-offs between feed-forward and iterative structured prediction.",
+            "Structured prediction energy networks",
+            "David Belanger and Andrew McCallum",
+            "2016",
+            "AGnp8NAAAAAJ:7PzlFSSx8tAC",
+            146,
+            "http:\/\/proceedings.mlr.press\/v48\/belanger16.html",
+            "14596590905673646945",
+            "\/scholar?cites=14596590905673646945",
+            {
+                "2015":1,
+                "2016":5,
+                "2017":27,
+                "2018":39,
+                "2019":38,
+                "2020":34,
+                "2021":1
+            }
+        ],
+        [
+            "We study dynamic rupture propagation on flat faults using 2D plane strain models featuring strongly rate-weakening fault friction (in a rate-and-state framework) and off-fault Drucker\u2013Prager viscoplasticity. Plastic deformation bounds stresses near the rupture front and limits slip velocities to \u223c10 m\/s, a bound expected to be independent of earthquake magnitude. As originally shown for ruptures in an elastic medium , a consequence of strongly rate-weakening friction is the existence of a critical background stress level at which self-sustaining rupture propagation, in the form of self-healing slip pulses, is just barely possible. At higher background stress levels, ruptures are cracklike. This phenomenology remains unchanged when allowing for off-fault plasticity, but the critical stress level is increased. The increase depends on the extent and magnitude of plastic deformation, which is influenced by the orientation of \u2026",
+            "Earthquake ruptures with strongly rate-weakening friction and off-fault plasticity, Part 1: Planar faults",
+            "Eric M Dunham and David Belanger and Lin Cong and Jeremy E Kozdon",
+            "2011",
+            "AGnp8NAAAAAJ:M3ejUd6NZC8C",
+            122,
+            "https:\/\/pubs.geoscienceworld.org\/ssa\/bssa\/article\/101\/5\/2296\/326473",
+            "11465595179813684873",
+            "\/scholar?cites=11465595179813684873",
+            {
+                "2011":2,
+                "2012":8,
+                "2013":12,
+                "2014":16,
+                "2015":7,
+                "2016":9,
+                "2017":6,
+                "2018":12,
+                "2019":24,
+                "2020":19,
+                "2021":2
+            }
+        ],
+        [
+            "Models for predicting phenotypic outcomes from genotypes have important applications to understanding genomic function and improving human health. Here, we develop a machine-learning system to predict cell-type\u2013specific epigenetic and transcriptional profiles in large mammalian genomes from DNA sequence alone. By use of convolutional neural networks, this system identifies promoters and distal regulatory elements and synthesizes their content to make effective gene expression predictions. We show that model predictions for the influence of genomic variants on gene expression align well to causal variants underlying eQTLs in human populations and can be useful for generating mechanistic hypotheses to enable fine mapping of disease loci.",
+            "Sequential regulatory activity prediction across chromosomes with convolutional neural networks",
+            "David R Kelley and Yakir A Reshef and Maxwell Bileschi and David Belanger and Cory Y McLean and Jasper Snoek",
+            "2018",
+            "AGnp8NAAAAAJ:iH-uZ7U-co4C",
+            109,
+            "https:\/\/genome.cshlp.org\/content\/28\/5\/739.short",
+            "1508924829158041754",
+            "\/scholar?cites=1508924829158041754",
+            {
+                "2018":14,
+                "2019":34,
+                "2020":57,
+                "2021":3
+            }
+        ],
+        [
+            "Structured Prediction Energy Networks (SPENs) are a simple, yet expressive family of structured prediction models (Belanger and McCallum, 2016). An energy function over candidate structured outputs is given by a deep network, and predictions are formed by gradient-based optimization. This paper presents end-to-end learning for SPENs, where the energy function is discriminatively trained by back-propagating through gradient-based prediction. In our experience, the approach is substantially more accurate than the structured SVM method of Belanger and McCallum (2016), as it allows us to use more sophisticated non-convex energies. We provide a collection of techniques for improving the speed, accuracy, and memory requirements of end-to-end SPENs, and demonstrate the power of our method on 7-Scenes image denoising and CoNLL-2005 semantic role labeling tasks. In both, inexact minimization of non-convex SPEN energies is superior to baseline methods that use simplistic energy functions that can be minimized exactly.",
+            "End-to-end learning for structured prediction energy networks",
+            "David Belanger and Bishan Yang and Andrew McCallum",
+            "2017",
+            "AGnp8NAAAAAJ:R3hNpaxXUhUC",
+            90,
+            "http:\/\/proceedings.mlr.press\/v70\/belanger17a.html",
+            "964848304190100776",
+            "\/scholar?cites=964848304190100776",
+            {
+                "2017":7,
+                "2018":20,
+                "2019":33,
+                "2020":27,
+                "2021":2
+            }
+        ],
+        [
+            "Universal schema builds a knowledge base (KB) of entities and relations by jointly embedding all relation types from input KBs as well as textual patterns expressing relations from raw text. In most previous applications of universal schema, each textual pattern is represented as a single embedding, preventing generalization to unseen patterns. Recent work employs a neural network to capture patterns' compositional semantics, providing generalization to all possible input text. In response, this paper introduces significant further improvements to the coverage and flexibility of universal schema relation extraction: predictions for entities unseen in training and multilingual transfer learning to domains with no annotation. We evaluate our model through extensive experiments on the English and Spanish TAC KBP benchmark, outperforming the top system from TAC 2013 slot-filling using no handwritten patterns or additional annotation. We also consider a multilingual setting in which English training data entities overlap with the seed KB, but Spanish text does not. Despite having no annotation for Spanish data, we train an accurate predictor, with additional improvements obtained by tying word embeddings across languages. Furthermore, we find that multilingual training improves English relation extraction accuracy. Our approach is thus suited to broad-coverage automated knowledge base construction in a variety of languages and domains.",
+            "Multilingual relation extraction using compositional universal schema",
+            "Patrick Verga and David Belanger and Emma Strubell and Benjamin Roth and Andrew McCallum",
+            "2015",
+            "AGnp8NAAAAAJ:L8Ckcad2t8MC",
+            81,
+            "https:\/\/arxiv.org\/abs\/1511.06396",
+            "18145349080160225186",
+            "\/scholar?cites=18145349080160225186",
+            {
+                "2016":11,
+                "2017":24,
+                "2018":14,
+                "2019":18,
+                "2020":13
+            }
+        ],
+        [
+            "We present a method for synthesizing a frontal, neutral-expression image of a person's face, given an input face photograph. This is achieved by learning to generate facial landmarks and textures from features extracted from a facial-recognition network. Unlike previous generative approaches, our encoding feature vector is largely invariant to lighting, pose, and facial expression. Exploiting this invariance, we train our decoder network using only frontal, neutral-expression photographs. Since these photographs are well aligned, we can decompose them into a sparse set of landmark points and aligned texture maps. The decoder then predicts landmarks and textures independently and combines them using a differentiable image warping operation. The resulting images can be used for a number of applications, such as analyzing facial attributes, exposure and white balance adjustment, or creating a 3-D avatar.",
+            "Synthesizing normalized faces from facial identity features",
+            "Forrester Cole and David Belanger and Dilip Krishnan and Aaron Sarna and Inbar Mosseri and William T Freeman",
+            "2017",
+            "AGnp8NAAAAAJ:HDshCWvjkbEC",
+            79,
+            "http:\/\/openaccess.thecvf.com\/content_cvpr_2017\/html\/Cole_Synthesizing_Normalized_Faces_CVPR_2017_paper.html",
+            "1624988979715798568",
+            "\/scholar?cites=1624988979715798568",
+            {
+                "2017":5,
+                "2018":26,
+                "2019":17,
+                "2020":27,
+                "2021":1
+            }
+        ]
+    ]
+}

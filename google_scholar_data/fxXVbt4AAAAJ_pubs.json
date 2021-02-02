@@ -1,0 +1,246 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "The luminosity determination for the ATLAS detector at the LHC during pp collisions at s\u221a= 8 TeV in 2012 is presented. The evaluation of the luminosity scale is performed using several luminometers, and comparisons between these luminosity detectors are made to assess the accuracy, consistency and long-term stability of the results. A luminosity uncertainty of \u03b4\u2112\/\u2112 = \u00b11.9% is obtained for the 22.7 fb-1 of pp collision data delivered to ATLAS at s\u221a= 8 TeV in 2012.",
+            "Luminosity Determination in Pp Collisions at S\u221a S= 8 TeV Using the ATLAS Detector at the LHC",
+            "Masahiro Morii and SK Chan and B Clark and Paolo Giromini and Melissa Franklin and John Huth and Victoria Ippolito and Tomo Lazovich and D Lopez Mateos and Charlotte Rogan",
+            "2016",
+            "fxXVbt4AAAAJ:prKdS1S5QkMC",
+            3822,
+            "https:\/\/dash.harvard.edu\/handle\/1\/42659223",
+            "13028960326374976316",
+            "\/scholar?cites=13028960326374976316",
+            {
+                "2011":258,
+                "2012":697,
+                "2013":463,
+                "2014":146,
+                "2015":141,
+                "2016":199,
+                "2017":519,
+                "2018":620,
+                "2019":466,
+                "2020":290,
+                "2021":9
+            }
+        ],
+        [
+            "Both convolutional and recurrent operations are building blocks that process one local neighborhood at a time. In this paper, we present non-local operations as a generic family of building blocks for capturing long-range dependencies. Inspired by the classical non-local means method in computer vision, our non-local operation computes the response at a position as a weighted sum of the features at all positions. This building block can be plugged into many computer vision architectures. On the task of video classification, even without any bells and whistles, our non-local models can compete or outperform current competition winners on both Kinetics and Charades datasets. In static image recognition, our non-local models improve object detection\/segmentation and pose estimation on the COCO suite of tasks. Code will be made available.",
+            "Non-local neural networks",
+            "Xiaolong Wang and Ross Girshick and Abhinav Gupta and Kaiming He",
+            "2018",
+            "fxXVbt4AAAAJ:9Ua_6ptbA6QC",
+            2261,
+            "http:\/\/openaccess.thecvf.com\/content_cvpr_2018\/html\/Wang_Non-Local_Neural_Networks_CVPR_2018_paper.html",
+            "10047890866676489078",
+            "\/scholar?cites=10047890866676489078",
+            {
+                "2018":113,
+                "2019":665,
+                "2020":1382,
+                "2021":81
+            }
+        ],
+        [
+            "This paper reviews and extends searches for the direct pair production of the scalar supersymmetric partners of the top and bottom quarks in proton\u2013proton collisions collected by the ATLAS collaboration during the LHC Run 1. Most of the analyses use 20 of collisions at a centre-of-mass energy of TeV, although in some case an additional\\(4.7\\{\\mathrm {fb}^{-1}}\\) of collision data at TeV are used. New analyses are introduced to improve the sensitivity to specific regions of the model parameter space. Since no evidence of third-generation squarks is found, exclusion limits are derived by combining several analyses and are presented in both a simplified model framework, assuming simple decay chains, as well as within the context of more elaborate phenomenological supersymmetric models.",
+            "ATLAS Run 1 searches for direct pair production of third-generation squarks at the Large Hadron Collider",
+            "Georges Aad and B Abbott and J Abdallah and R Aben and M Abolins and OS AbouZeid and H Abramowicz and H Abreu and R Abreu and Y Abulaiti and BS Acharya and L Adamczyk and DL Adams and J Adelman and S Adomeit and T Adye and AA Affolder and T Agatonovic-Jovin and JA Aguilar-Saavedra and SP Ahlen and F Ahmadov and G Aielli and H Akerstedt and TPA \u00c5kesson and AV Akimov and GL Alberghi and J Albert and S Albrand and MJ Alconada Verzini and M Aleksa and IN Aleksandrov and C Alexa and G Alexander and T Alexopoulos and M Alhroob and G Alimonti and L Alio and J Alison and SP Alkire and BMM Allbrooke and PP Allport and A Aloisio and A Alonso and F Alonso and C Alpigiani and A Altheimer and B Alvarez Gonzalez and D \u00c1lvarez Piqueras and MG Alviggi and BT Amadio and K Amako and Y Amaral Coutinho and C Amelung and D Amidei and SP Amor Dos Santos and A Amorim and S Amoroso and N Amram and G Amundsen and C Anastopoulos and LS Ancu and N Andari and T Andeen and CF Anders and G Anders and JK Anders and KJ Anderson and A Andreazza and V Andrei and S Angelidakis and I Angelozzi and P Anger and A Angerami and F Anghinolfi and AV Anisenkov and N Anjos and A Annovi and M Antonelli and Alexey Antonov and J Antos and F Anulli and M Aoki and L Aperio Bella and G Arabidze and Y Arai and JP Araque and ATH Arce and FA Arduh and JF Arguin and S Argyropoulos and M Arik and AJ Armbruster and O Arnaez and V Arnal and H Arnold and M Arratia and O Arslan and A Artamonov and G Artoni and S Asai and N Asbah and A Ashkenazi and B \u00c5sman and L Asquith and K Assamagan and R Astalos and M Atkinson and NB Atlay and B Auerbach and K Augsten and M Aurousseau and G Avolio and B Axen and MK Ayoub and G Azuelos and MA Baak and AE Baas and MJ Baca and C Bacci and H Bachacou and K Bachas and M Backes and M Backhaus and P Bagiacchi and P Bagnaia and Y Bai and T Bain and JT Baines and OK Baker and EM Baldin and P Balek and T Balestri and F Balli and E Banas and Sw Banerjee and AAE Bannoura and HS Bansil and L Barak and EL Barberio and D Barberis and M Barbero and T Barillari and M Barisonzi and T Barklow and N Barlow and SL Barnes and BM Barnett and RM Barnett and Z Barnovska and A Baroncelli",
+            "2015",
+            "fxXVbt4AAAAJ:DPnopAH2kssC",
+            2207,
+            "https:\/\/link.springer.com\/article\/10.1140\/epjc\/s10052-015-3726-9?error=cookies_not_supported&error=cookies_not_supported&code=801638b6-6fca-45d5-afa4-dd99e98dac8b&code=584f248b-691e-4a95-bb14-3e2f8af0a591",
+            "4966537376737199303",
+            "\/scholar?cites=4966537376737199303",
+            {
+                "2011":7,
+                "2012":9,
+                "2013":2,
+                "2014":24,
+                "2015":301,
+                "2016":600,
+                "2017":552,
+                "2018":384,
+                "2019":208,
+                "2020":109,
+                "2021":8
+            }
+        ],
+        [
+            "Many of the interesting physics processes to be measured at the LHC have a signature involving one or more isolated electrons. The electron reconstruction and identification efficiencies of the ATLAS detector at the LHC have been evaluated using proton\u2013proton collision data collected in 2011 at TeV and corresponding to an integrated luminosity of 4.7 fb. Tag-and-probe methods using events with leptonic decays of and bosons and mesons are employed to benchmark these performance parameters. The combination of all measurements results in identification efficiencies determined with an accuracy at the few per mil level for electron transverse energy greater than 30 GeV.",
+            "Electron reconstruction and identification efficiency measurements with the ATLAS detector using the 2011 LHC proton\u2013proton collision data",
+            "Georges Aad and T Abajyan and B Abbott and J Abdallah and S Abdel Khalek and R Aben and B Abi and M Abolins and OS AbouZeid and H Abramowicz and H Abreu and Y Abulaiti and BS Acharya and L Adamczyk and DL Adams and TN Addy and J Adelman and Stefanie Adomeit and T Adye and T Agatonovic-Jovin and JA Aguilar-Saavedra and M Agustoni and SP Ahlen and A Ahmad and F Ahmadov and G Aielli and TPA \u00c5kesson and G Akimoto and AV Akimov and J Albert and S Albrand and MJ Alconada Verzini and M Aleksa and IN Aleksandrov and C Alexa and G Alexander and G Alexandre and T Alexopoulos and M Alhroob and G Alimonti and L Alio and J Alison and BMM Allbrooke and LJ Allison and PP Allport and SE Allwood-Spiers and J Almond and A Aloisio and R Alon and A Alonso and F Alonso and C Alpigiani and A Altheimer and B Alvarez Gonzalez and MG Alviggi and K Amako and Y Amaral Coutinho and C Amelung and D Amidei and VV Ammosov and SP Amor Dos Santos and A Amorim and S Amoroso and N Amram and G Amundsen and C Anastopoulos and LS Ancu and N Andari and T Andeen and CF Anders and G Anders and KJ Anderson and A Andreazza and V Andrei and XS Anduaga and S Angelidakis and P Anger and A Angerami and F Anghinolfi and AV Anisenkov and N Anjos and A Annovi and A Antonaki and M Antonelli and A Antonov and J Antos and F Anulli and M Aoki and L Aperio Bella and R Apolle and G Arabidze and I Aracena and Y Arai and JP Araque and ATH Arce and JF Arguin and S Argyropoulos and M Arik and AJ Armbruster and O Arnaez and V Arnal and O Arslan and A Artamonov and G Artoni and S Asai and N Asbah and A Ashkenazi and S Ask and B \u00c5sman and L Asquith and K Assamagan and R Astalos and M Atkinson and NB Atlay and B Auerbach and E Auge and K Augsten and M Aurousseau and G Avolio and G Azuelos and Y Azuma and MA Baak and C Bacci and AM Bach and H Bachacou and K Bachas and M Backes and M Backhaus and J Backus Mayes and E Badescu and P Bagiacchi and P Bagnaia and Y Bai and DC Bailey and T Bain and JT Baines and OK Baker and S Baker and P Balek and F Balli and E Banas and Sw Banerjee and D Banfi and A Bangert and AAE Bannoura and V Bansal and HS Bansil and L Barak and SP Baranov and T Barber",
+            "2014",
+            "fxXVbt4AAAAJ:OmvXvaxYObgC",
+            2145,
+            "https:\/\/link.springer.com\/article\/10.1140\/epjc\/s10052-014-2941-0",
+            "10302253069195107950",
+            "\/scholar?cites=10302253069195107950",
+            {
+                "2013":10,
+                "2014":217,
+                "2015":548,
+                "2016":465,
+                "2017":444,
+                "2018":247,
+                "2019":141,
+                "2020":66
+            }
+        ],
+        [
+            "Rationale: The prevalence of chronic obstructive pulmonary disease (COPD) in China is largely unknown.Objectives: To obtain the COPD prevalence in China through a large-population, spirometry-based, cross-sectional survey of COPD.Methods: Urban and rural population-based cluster samples were randomly selected from seven provinces\/cities. All residents 40 years of age or older in the selected clusters were interviewed with a standardized questionnaire revised from the international BOLD (Burden of Obstructive Lung Diseases) study. Spirometry was performed on all eligible participants. Patients with airflow limitation (FEV1\/FVC < 0.70) were further examined by post-bronchodilator spirometry, chest radiograph, and electrocardiogram. Post-bronchodilator FEV1\/FVC of less than 70% was defined as the diagnostic criterion of COPD.Measurements and Main Results: Among 25,627 sampling subjects, 20 \u2026",
+            "Prevalence of chronic obstructive pulmonary disease in China: a large, population-based survey",
+            "Nanshan Zhong and Chen Wang and Wanzhen Yao and Ping Chen and Jian Kang and Shaoguang Huang and Baoyuan Chen and Changzheng Wang and Diantao Ni and Yumin Zhou and Shengming Liu and Xiaoping Wang and Dali Wang and Jiachun Lu and Jingping Zheng and Pixin Ran",
+            "2007",
+            "fxXVbt4AAAAJ:D_25heFg6JwC",
+            1347,
+            "https:\/\/www.atsjournals.org\/doi\/abs\/10.1164\/rccm.200612-1749OC",
+            "11855244609065669192",
+            "\/scholar?cites=11855244609065669192",
+            {
+                "2008":31,
+                "2009":46,
+                "2010":92,
+                "2011":100,
+                "2012":119,
+                "2013":153,
+                "2014":185,
+                "2015":186,
+                "2016":156,
+                "2017":71,
+                "2018":77,
+                "2019":52,
+                "2020":61,
+                "2021":1
+            }
+        ],
+        [
+            "We report on a search for weakly interacting massive particles (WIMPs) using 278.8 days of data collected with the XENON1T experiment at LNGS. XENON1T utilizes a liquid xenon time projection chamber with a fiducial mass of (1.30\u00b10.01) t o n, resulting in a 1.0 ton yr exposure. The energy region of interest,[1.4, 10.6] keV ee ([4.9, 40.9] keV nr), exhibits an ultralow electron recoil background rate of [82\u2212 3+ 5 (syst)\u00b13 (stat)] events\/(t o n yr keV ee). No significant excess over background is found, and a profile likelihood analysis parametrized in spatial and energy dimensions excludes new parameter space for the WIMP-nucleon spin-independent elastic scatter cross section for WIMP masses above 6 GeV\/c 2, with a minimum of 4.1\u00d7 10\u2212 47 cm 2 at 30 GeV\/c 2 and a 90% confidence level.",
+            "Dark matter search results from a one ton-year exposure of XENON1T",
+            "XENON Collaboration and E Aprile and J Aalbers and F Agostini and M Alfonsi and L Althueser and FD Amaro and M Anthony and F Arneodo and L Baudis and B Bauermeister and ML Benabderrahmane and T Berger and PA Breur and Adam Brown and E Brown and S Bruenner and G Bruno and R Budnik and C Capelli and JMR Cardoso and D Cichon and D Coderre and AP Colijn and J Conrad and JP Cussonneau and MP Decowski and P de Perio and P Di Gangi and A Di Giovanni and S Diglio and A Elykov and G Eurin and J Fei and AD Ferella and A Fieguth and W Fulgione and A Gallo Rosso and M Galloway and F Gao and M Garbini and C Geis and L Grandi and Z Greene and H Qiu and C Hasterok and E Hogenbirk and J Howlett and R Itay and F Joerg and B Kaminsky and S Kazama and A Kish and G Koltman and H Landsman and RF Lang and L Levinson and Q Lin and S Lindemann and M Lindner and F Lombardi and JAM Lopes and J Mahlstedt and A Manfredini and T Marrod\u00e1n Undagoitia and J Masbou and D Masson and M Messina and K Micheneau and K Miller and A Molinario and K Mor\u00e5 and M Murra and J Naganoma and K Ni and U Oberlack and B Pelssers and F Piastra and J Pienaar and V Pizzella and G Plante and R Podviianiuk and N Priel and D Ram\u00edrez Garc\u00eda and L Rauch and S Reichard and C Reuter and B Riedel and A Rizzo and A Rocchetti and N Rupp and JMF Dos Santos and G Sartorelli and M Scheibelhut and S Schindler and J Schreiner and D Schulte and M Schumann and L Scotto Lavina and M Selvi and P Shagin and E Shockley and M Silva and H Simgen and D Thers and F Toschi and G Trinchero and C Tunnell and N Upole and M Vargas and O Wack and H Wang and Z Wang and Y Wei and C Weinheimer and C Wittweg and J Wulf and J Ye and Y Zhang and T Zhu",
+            "2018",
+            "fxXVbt4AAAAJ:uK3zKZX60NsC",
+            1072,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.121.111302",
+            "11572203065374359223",
+            "\/scholar?cites=11572203065374359223",
+            {
+                "2018":98,
+                "2019":415,
+                "2020":527,
+                "2021":25
+            }
+        ],
+        [
+            "We report the first dark matter search results from XENON1T, a\u223c 2000\u2212 kg-target-mass dual-phase (liquid-gas) xenon time projection chamber in operation at the Laboratori Nazionali del Gran Sasso in Italy and the first ton-scale detector of this kind. The blinded search used 34.2 live days of data acquired between November 2016 and January 2017. Inside the (1042\u00b112)\u2212 kg fiducial mass and in the [5, 40] keV nr energy range of interest for weakly interacting massive particle (WIMP) dark matter searches, the electronic recoil background was (1.93\u00b10.25)\u00d7 10\u2212 4 events\/(kg\u00d7 day\u00d7 keV ee), the lowest ever achieved in such a dark matter detector. A profile likelihood analysis shows that the data are consistent with the background-only hypothesis. We derive the most stringent exclusion limits on the spin-independent WIMP-nucleon interaction cross section for WIMP masses above 10 GeV\/c 2, with a minimum of 7.7\u00d7 \u2026",
+            "First dark matter search results from the XENON1T experiment",
+            "Elena Aprile and J Aalbers and F Agostini and M Alfonsi and FD Amaro and M Anthony and F Arneodo and P Barrow and L Baudis and Boris Bauermeister and ML Benabderrahmane and T Berger and PA Breur and A Brown and E Brown and S Bruenner and G Bruno and R Budnik and L B\u00fctikofer and Jakob Calv\u00e9n and JMR Cardoso and M Cervantes and Dominick Cichon and D Coderre and AP Colijn and Jan Conrad and JP Cussonneau and MP Decowski and P de Perio and P Di Gangi and A Di Giovanni and S Diglio and G Eurin and J Fei and Alfredo D Ferella and A Fieguth and W Fulgione and A Gallo Rosso and M Galloway and F Gao and M Garbini and R Gardner and C Geis and LW Goetzke and L Grandi and Z Greene and C Grignon and C Hasterok and E Hogenbirk and J Howlett and R Itay and B Kaminsky and S Kazama and G Kessler and A Kish and H Landsman and RF Lang and D Lellouch and L Levinson and Q Lin and S Lindemann and Manfred Lindner and F Lombardi and JAM Lopes and A Manfredini and I Mari\u015f and T Marrod\u00e1n Undagoitia and J Masbou and FV Massoli and D Masson and D Mayani and M Messina and K Micheneau and A Molinario and Knut Mor\u00e5 and M Murra and J Naganoma and K Ni and U Oberlack and P Pakarha and Bart Pelssers and R Persiani and F Piastra and J Pienaar and V Pizzella and M-C Piro and G Plante and N Priel and L Rauch and S Reichard and C Reuter and B Riedel and A Rizzo and S Rosendahl and N Rupp and R Saldanha and JMF Dos Santos and G Sartorelli and M Scheibelhut and S Schindler and J Schreiner and M Schumann and L Scotto Lavina and M Selvi and P Shagin and E Shockley and M Silva and H Simgen and M v Sivers and A Stein and S Thapa and D Thers and A Tiseni and G Trinchero and C Tunnell and M Vargas and N Upole and H Wang and Z Wang and Y Wei and C Weinheimer and J Wulf and J Ye and Y Zhang and T Zhu and XENON Collaboration",
+            "2017",
+            "fxXVbt4AAAAJ:q-T3bmeXl90C",
+            1000,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.119.181301",
+            "8990951777199113632",
+            "\/scholar?cites=8990951777199113632",
+            {
+                "2017":106,
+                "2018":422,
+                "2019":252,
+                "2020":210,
+                "2021":5
+            }
+        ],
+        [
+            "In this paper, we focus our discussion on the parameterization reduction of soft sets and its applications. First we point out that the results of soft set reductions offered in [1] are incorrect. We also observe that the algorithms used to first compute the reduct-soft-set and then to compute the choice value to select the optimal objects for the decision problems in [1] are not reasonable and we illustrate this with an example. Finally, we propose a reasonable definition of parameterization reduction of soft sets and compare it with the concept of attributes reduction in rough sets theory. By using this new definition of parameterization reduction, we improve the application of a soft set in a decision making problem found in [1].",
+            "The parameterization reduction of soft sets and its applications",
+            "Degang Chen and ECC Tsang and Daniel S Yeung and Xizhao Wang",
+            "2005",
+            "fxXVbt4AAAAJ:pawnNKgKThcC",
+            827,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0898122105000891",
+            "15144826350874891173",
+            "\/scholar?cites=15144826350874891173",
+            {
+                "2008":12,
+                "2009":24,
+                "2010":38,
+                "2011":72,
+                "2012":74,
+                "2013":87,
+                "2014":98,
+                "2015":82,
+                "2016":64,
+                "2017":71,
+                "2018":73,
+                "2019":65,
+                "2020":53,
+                "2021":3
+            }
+        ],
+        [
+            "The presence of long-range quantum spin correlations underlies a variety of physical phenomena in condensed-matter systems, potentially including high-temperature superconductivity 1, 2. However, many properties of exotic, strongly correlated spin systems, such as spin liquids, have proved difficult to study, in part because calculations involving N-body entanglement become intractable for as few as N\u2248 30 particles 3. Feynman predicted that a quantum simulator\u2014a special-purpose \u2018analogue\u2019processor built using quantum bits (qubits)\u2014would be inherently suited to solving such problems 4, 5. In the context of quantum magnetism, a number of experiments have demonstrated the feasibility of this approach 6, 7, 8, 9, 10, 11, 12, 13, 14, but simulations allowing controlled, tunable interactions between spins localized on two-or three-dimensional lattices of more than a few tens of qubits have yet to be \u2026",
+            "Engineered two-dimensional Ising interactions in a trapped-ion quantum simulator with hundreds of spins",
+            "Joseph W Britton and Brian C Sawyer and Adam C Keith and C-C Joseph Wang and James K Freericks and Hermann Uys and Michael J Biercuk and John J Bollinger",
+            "2012",
+            "fxXVbt4AAAAJ:L_YvGb4hwdAC",
+            798,
+            "https:\/\/www.nature.com\/articles\/nature10981",
+            "16241945813583336609",
+            "\/scholar?cites=16241945813583336609",
+            {
+                "2012":29,
+                "2013":88,
+                "2014":84,
+                "2015":88,
+                "2016":108,
+                "2017":70,
+                "2018":100,
+                "2019":100,
+                "2020":122,
+                "2021":6
+            }
+        ],
+        [
+            "The Jiangmen Underground Neutrino Observatory (JUNO), a 20 kton multi-purpose underground liquid scintillator detector, was proposed with the determination of the neutrino mass hierarchy (MH) as a primary physics goal. The excellent energy resolution and the large fiducial volume anticipated for the JUNO detector offer exciting opportunities for addressing many important topics in neutrino and astro-particle physics. In this document, we present the physics motivations and the anticipated performance of the JUNO detector for various proposed measurements. Following an introduction summarizing the current status and open issues in neutrino physics, we discuss how the detection of antineutrinos generated by a cluster of nuclear power plants allows the determination of the neutrino MH at a 3\u20134\u03c3 significance with six years of running of JUNO. The measurement of antineutrino spectrum with excellent energy resolution will also lead to \u2026",
+            "Neutrino physics with JUNO",
+            "Fengpeng An and Guangpeng An and Qi An and Vito Antonelli and Eric Baussan and John Beacom and Leonid Bezrukov and Simon Blyth and Riccardo Brugnera and Margherita Buizza Avanzini and Jose Busto and Anatael Cabrera and Hao Cai and Xiao Cai and Antonio Cammi and Guofu Cao and Jun Cao and Yun Chang and Shaomin Chen and Shenjian Chen and Yixue Chen and Davide Chiesa and Massimiliano Clemenza and Barbara Clerbaux and Janet Conrad and Davide D\u2019Angelo and Herve De Kerret and Zhi Deng and Ziyan Deng and Yayun Ding and Zelimir Djurcic and Damien Dornic and Marcos Dracos and Olivier Drapier and Stefano Dusini and Stephen Dye and Timo Enqvist and Donghua Fan and Jian Fang and Laurent Favart and Richard Ford and Marianne Goeger-Neff and Haonan Gan and Alberto Garfagnini and Marco Giammarchi and Maxim Gonchar and Guanghua Gong and Hui Gong and Michel Gonin and Marco Grassi and Christian Grewing and Mengyun Guan and Vic Guarino and Gang Guo and Wanlei Guo and Xin-Heng Guo and Caren Hagner and Ran Han and Miao He and Yuekun Heng and Yee Hsiung and Jun Hu and Shouyang Hu and Tao Hu and Hanxiong Huang and Xingtao Huang and Lei Huo and Ara Ioannisian and Manfred Jeitler and Xiangdong Ji and Xiaoshan Jiang and Cecile Jollet and Li Kang and Michael Karagounis and Narine Kazarian and Zinovy Krumshteyn and Andre Kruth and Pasi Kuusiniemi and Tobias Lachenmaier and Rupert Leitner and Chao Li and Jiaxing Li and Weidong Li and Weiguo Li and Xiaomei Li and Xiaonan Li and Yi Li and Yufeng Li and Zhi-Bing Li and Hao Liang and Guey-Lin Lin and Tao Lin and Yen-Hsun Lin and Jiajie Ling and Ivano Lippi and Dawei Liu and Hongbang Liu and Hu Liu and Jianglai Liu and Jianli Liu and Jinchang Liu and Qian Liu and Shubin Liu and Shulin Liu and Paolo Lombardi and Yongbing Long and Haoqi Lu and Jiashu Lu and Jingbin Lu and Junguang Lu and Bayarto Lubsandorzhiev and Livia Ludhova and Shu Luo and Vladimir Lyashuk and Randolph Moellenberg and Xubo Ma and Fabio Mantovani and Yajun Mao and Stefano M Mari and William F McDonough and Guang Meng and Anselmo Meregaglia and Emanuela Meroni and Mauro Mezzetto and Lino Miramonti and Thomas Mueller and Dmitry Naumov and Lothar Oberauer and Juan Pedro Ochoa-Ricoux and Alexander Olshevskiy and Fausto Ortica and Alessandro Paoloni and Haiping Peng and Jen-Chieh Peng and Ezio Previtali and Ming Qi and Sen Qian and Xin Qian and Yongzhong Qian and Zhonghua Qin and Georg Raffelt and Gioacchino Ranucci and Barbara Ricci and Markus Robens and Aldo Romani and Xiangdong Ruan and Xichao Ruan and Giuseppe Salamanna and Mike Shaevitz and Valery Sinev",
+            "2016",
+            "fxXVbt4AAAAJ:pmngxq2mVgoC",
+            770,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0954-3899\/43\/3\/030401\/meta",
+            "12700592145409770742",
+            "\/scholar?cites=12700592145409770742",
+            {
+                "2015":14,
+                "2016":82,
+                "2017":123,
+                "2018":165,
+                "2019":146,
+                "2020":217,
+                "2021":17
+            }
+        ]
+    ]
+}

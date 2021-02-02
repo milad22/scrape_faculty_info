@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "R864DGZM",
+            "9AsDaV0AAAAJ",
+            [
+                "Reversible photomechanical switching of individual engineered molecules at a metallic surface",
+                "Ultrahigh-resolution optical trap with single-fluorophore sensitivity",
+                "Direct observation of structure-function relationship in a nucleic acid\u2013processing enzyme",
+                "Molecular commensurability with a surface reconstruction: STM study of azobenzene on Au (111)",
+                "Measuring reversible photomechanical switching rates for a molecule at a surface",
+                "Manipulation of azobenzene molecules on Au (111) using scanning tunneling microscopy",
+                "Determination of Photoswitching Dynamics through Chiral Mapping of Single Molecules Using a Scanning Tunneling Microscope",
+                "Self-patterned molecular photoswitching in nanoscale surface assemblies",
+                "High-Resolution \u201cFleezers\u201d: Dual-Trap Optical Tweezers Combined with Single-Molecule Fluorescence Detection",
+                "Single molecule force spectroscopy at high data acquisition: A Bayesian nonparametric analysis"
+            ],
+            [
+                "We have observed reversible light-induced mechanical switching for individual organic molecules bound to a metal surface. Scanning tunneling microscopy (STM) was used to image the features of individual azobenzene molecules on Au (111) before and after reversibly cycling their mechanical structure between trans and cis states using light. Azobenzene molecules were engineered to increase their surface photomechanical activity by attaching varying numbers of tert-butyl (TB) ligands (\u201clegs\u201d) to the azobenzene phenyl rings. STM images show that increasing the number of TB legs \u201clifts\u201d the azobenzene molecules from the substrate, thereby increasing molecular photomechanical activity by decreasing molecule-surface coupling.",
+                "We present a single-molecule instrument that combines a time-shared ultrahigh-resolution dual optical trap interlaced with a confocal fluorescence microscope. In a demonstration experiment, we observed individual single fluorophore\u2013labeled DNA oligonucleotides to bind and unbind complementary DNA suspended between two trapped beads. Simultaneous with the single-fluorophore detection, we clearly observed coincident angstrom-scale changes in tether extension. Fluorescence readout allowed us to determine the duplex melting rate as a function of force. The new instrument will enable the simultaneous measurement of angstrom-scale mechanical motion of individual DNA-binding proteins (for example, single-base-pair stepping of DNA translocases) along with the detection of properties of fluorescently labeled protein (for example, internal configuration).",
+                "The relationship between protein three-dimensional structure and function is essential for mechanism determination. Unfortunately, most techniques do not provide a direct measurement of this relationship. Structural data are typically limited to static pictures, and function must be inferred. Conversely, functional assays usually provide little information on structural conformation. We developed a single-molecule technique combining optical tweezers and fluorescence microscopy that allows for both measurements simultaneously. Here we present measurements of UvrD, a DNA repair helicase, that directly and unambiguously reveal the connection between its structure and function. Our data reveal that UvrD exhibits two distinct types of unwinding activity regulated by its stoichiometry. Furthermore, two UvrD conformational states, termed \u201cclosed\u201d and \u201copen,\u201d correlate with movement toward or away from the DNA fork.",
+                "Azobenzene derivatives form a unique class of photoactive molecules that have the potential for nanoscale optical applications. We have observed the self-assembly behavior of azobenzene molecules adsorbed to Au (111) using scanning tunneling microscopy (STM). We find that azobenzene creates a surprising variety of surface structures whose commensurability with the underlying Au (111)\u201cherringbone\u201d reconstruction is coverage dependent. Two commensurate molecular chain phases exist in the low-coverage regime, and phase conversion between these structures can be induced using the STM tip. In the high-coverage regime we observe incommensurate molecular phases as well as commensurate molecular vacancy ordering. These molecular structures reflect a coverage-dependent competition between molecule-molecule and molecule-substrate interactions.",
+                "We have used single-molecule-resolved scanning tunneling microscopy to measure the photomechanical switching rates of azobenzene-derived molecules at a gold surface during exposure to UV and visible light. This enables the direct determination of both the forward and reverse photoswitching cross sections for surface-mounted molecules at different wavelengths. In a dramatic departure from molecular behavior in solution-based environments, visible light does not efficiently reverse the reaction for azobenzene-derived molecules at a gold surface.",
+                "We have manipulated single azobenzene molecules using several different techniques with a variable-temperature scanning tunneling microscope (STM). Isolated azobenzene molecules were adsorbed and manipulated on the Au (111) surface at low temperature (T= 34 K). STM tip voltage pulses reversibly switched the azobenzene molecule between two stable orientational configurations. A sliding technique was used to move single azobenzene molecules between stable sites on the surface, enabling construction of molecular chains. Stable sites (ie, molecular anchor points) were created on the Au (111) surface through STM tip voltage pulses.",
+                "Single-molecule-resolved scanning tunneling microscopy of tetra-tert-butyl azobenzene (TTB-AB) molecules adsorbed onto Au (111) reveals chirality selection rules in their photoswitching behavior. This observation is enabled by the fact that trans-TTB-AB molecules self-assemble into homochiral domains. Cis-TTB-AB molecules produced via photoisomerization are found in two distinct conformations with final state chirality determined by the initial trans isomer chirality. Based on these observations and ab initio calculations, we propose a new inversion-based dynamical photoswitching mechanism for azobenzene molecules at a surface.",
+                "Photomechanical switching (photoisomerization) of molecules at a surface is found to strongly depend on molecule\u2212molecule interactions and molecule\u2212surface orientation. Scanning tunneling microscopy was used to image photoswitching behavior in the single-molecule limit of tetra-tert-butyl-azobenzene molecules adsorbed onto Au(111) at 30 K. Photoswitching behavior varied strongly with surface molecular island structure, and self-patterned stripes of switching and nonswitching regions were observed having \u223c10 nm pitch. These findings can be summarized into photoswitching selection rules that highlight the important role played by a molecule\u2019s nanoscale environment in determining its switching properties.",
+                "Recent advances in optical tweezers have greatly expanded their measurement capabilities. A new generation of hybrid instrument that combines nanomechanical manipulation with fluorescence detection\u2014fluorescence optical tweezers, or \u201cfleezers\u201d\u2014is providing a powerful approach to study complex macromolecular dynamics. Here, we describe a combined high-resolution optical trap\/confocal fluorescence microscope that can simultaneously detect sub-nanometer displacements, sub-piconewton forces, and single-molecule fluorescence signals. The primary technical challenge to these hybrid instruments is how to combine both measurement modalities without sacrificing the sensitivity of either one. We present general design principles to overcome this challenge and provide detailed, step-by-step instructions to implement them in the construction and alignment of the instrument. Lastly, we present a \u2026",
+                "Bayesian nonparametrics (BNPs) are poised to have a deep impact in the analysis of single molecule data as they provide posterior probabilities over entire models consistent with the supplied data, not just model parameters of one preferred model. Thus they provide an elegant and rigorous solution to the difficult problem encountered when selecting an appropriate candidate model. Nevertheless, BNPs\u2019 flexibility to learn models and their associated parameters from experimental data is a double-edged sword. Most importantly, BNPs are prone to increasing the complexity of the estimated models due to artifactual features present in time traces. Thus, because of experimental challenges unique to single molecule methods, naive application of available BNP tools is not possible. Here we consider traces with time correlations and, as a specific example, we deal with force spectroscopy traces collected at high \u2026"
+            ],
+            [
+                [
+                    "single molecule biophysics",
+                    "optical trapping",
+                    "single molecule fluorescence",
+                    "FRET",
+                    "nanoscience"
+                ]
+            ]
+        ]
+    ]
+}

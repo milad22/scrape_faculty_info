@@ -1,0 +1,128 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "rlE-OuUAAAAJ",
+            "Nidhi Pashine",
+            "Graduate Student, University of Chicago",
+            "@uchicago.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=rlE-OuUAAAAJ",
+            163,
+            [
+                "Soft condensed matter",
+                "Mechanical metamaterials",
+                "Disordered systems",
+                "Memories",
+                "Directed aging"
+            ],
+            163,
+            4,
+            4,
+            3,
+            3,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"x0NU7KEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Andrea J.  Liu",
+                    "affiliation":"Department of Physics and Astronomy, University of Pennsylvania"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"_Q1HH6gAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Juan J. de Pablo",
+                    "affiliation":"Professor of Molecular Engineering, University of Chicago"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"TaQrG-kAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Daniel R Reid",
+                    "affiliation":"Google"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"aC2jf9gAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Carl P. Goodrich",
+                    "affiliation":"Institute of Science and Technology Austria (IST Austria)"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"i7B8nIAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Justin M Wozniak",
+                    "affiliation":"Computer Scientist, Argonne National Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"rFHAzMUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jason W. Rocks",
+                    "affiliation":"Boston University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"E1TcI1sAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Daniel Hexner",
+                    "affiliation":"Mechanical Engineering, Technion - Israel Institute of Technology"
+                }
+            ]
+        ]
+    ]
+}

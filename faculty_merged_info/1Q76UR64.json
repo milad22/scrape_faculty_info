@@ -1,0 +1,42 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "1Q76UR64",
+            "687fH5kAAAAJ",
+            [
+                "Improved learning in a large-enrollment physics class",
+                "Scaling and suppression of anomalous heating in ion traps",
+                "T-junction ion trap array for two-dimensional ion shuttling, storage, and manipulation",
+                "Implementation of Grover\u2019s quantum search algorithm in a scalable system",
+                "Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom",
+                "Phase control of trapped ion quantum gates",
+                "Zero-point cooling and low heating of trapped  ions"
+            ],
+            [
+                "We compared the amounts of learning achieved using two different instructional approaches under controlled conditions. We measured the learning of a specific set of topics and objectives when taught by 3 hours of traditional lecture given by an experienced highly rated instructor and 3 hours of instruction given by a trained but inexperienced instructor using instruction based on research in cognitive psychology and physics education. The comparison was made between two large sections (N = 267 and N = 271) of an introductory undergraduate physics course. We found increased student attendance, higher engagement, and more than twice the learning in the section taught using research-based instruction.",
+                "We measure and characterize anomalous motional heating of an atomic ion confined in the lowest quantum levels of a novel rf ion trap that features moveable electrodes. The scaling of heating with electrode proximity is measured, and when the electrodes are cooled from 300 to 150 K, the heating rate is suppressed by an order of magnitude. This provides direct evidence that anomalous motional heating of trapped ions stems from microscopic noisy potentials on the electrodes that are thermally driven. These observations are relevant to decoherence in quantum information processing schemes based on trapped ions and perhaps other charge-based quantum systems.",
+                "We demonstrate a two-dimensional 11-zone ion trap array, where individual laser-cooled atomic ions are stored, separated, shuttled, and swapped. The trap geometry consists of two linear rf-ion trap sections that are joined at a 90\u00b0 angle to form a T-shaped structure. We shuttle a single ion around the corners of the T-junction and swap the positions of two crystallized ions using voltage sequences designed to accommodate the nontrivial electrical potential near the junction. Full two-dimensional control of multiple ions demonstrated in this system may be crucial for the realization of scalable ion trap quantum computation and the implementation of quantum networks.",
+                "We report the implementation of Grover\u2019s quantum search algorithm in the scalable system of trapped atomic ion quantum bits. Any one of four possible states of a two-qubit memory is marked, and following a single query of the search space, the marked element is successfully recovered with an average probability of 60 (2)%. This exceeds the performance of any possible classical search algorithm, which can only succeed with a maximum average probability of 50%.",
+                "We compared students\u2019 self-reported perception of learning with their actual learning under controlled conditions in large-enrollment introductory college physics courses taught using 1) active instruction (following best practices in the discipline) and 2) passive instruction (lectures by experienced and highly rated instructors). Both groups received identical class content and handouts, students were randomly assigned, and the instructor made no effort to persuade students of the benefit of either method. Students in active classrooms learned more (as would be expected based on prior research), but their perception of learning, while positive, was lower than that of their peers in passive environments. This suggests that attempts to evaluate instruction based on students\u2019 perceptions of learning could inadvertently promote inferior (passive) pedagogical methods. For instance, a superstar lecturer could create such a \u2026",
+                "There are several known schemes for entangling trapped ion quantum bits for large-scale quantum computation. Most are based on an interaction between the ions and external optical fields, coupling internal qubit states of trapped ions to their Coulomb-coupled motion. In this paper, we examine the sensitivity of these motional gate schemes to phase fluctuations introduced through noisy external control fields, and suggest techniques for suppressing the resulting phase decoherence.",
+                "We report on ground-state laser cooling of single Cd+ 111 ions confined in radio-frequency (Paul) traps. Heating rates of trapped ion motion are measured for two different trapping geometries and electrode materials, where no effort was made to shield the electrodes from the atomic Cd source. The low measured heating rates suggest that trapped Cd+ 111 ions may be well suited for experiments involving quantum control of atomic motion, including applications in quantum information science."
+            ],
+            [
+                [
+                    "Physics Education Research",
+                    "Atomic Physics"
+                ]
+            ]
+        ]
+    ]
+}

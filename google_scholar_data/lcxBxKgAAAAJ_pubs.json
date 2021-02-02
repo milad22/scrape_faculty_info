@@ -1,0 +1,55 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "We study a theoretical model describing a laser with a modulated parameter, concentrating on the appearance of extreme events, also called optical rogue pulses. It is shown that two conditions are required for the appearance of such events in this type of nonlinear system: the existence of generalized multi-stability and the collisions of chaotic attractors with unstable orbits in external crisis, expanding the attractor to visit new regions in phase space.",
+            "Extreme events in chaotic lasers with modulated parameter",
+            "C Metayer and A Serres and EJ Rosero and WAS Barbosa and FM De Aguiar and JR Rios Leite and JR Tredicce",
+            "2014",
+            "lcxBxKgAAAAJ:zYLM7Y9cAGgC",
+            26,
+            "https:\/\/www.osapublishing.org\/viewmedia.cfm?uri=oe-22-17-19850&html=true",
+            "16054469580755366594",
+            "\/scholar?cites=16054469580755366594",
+            {
+                "2015":1,
+                "2016":3,
+                "2017":9,
+                "2018":2,
+                "2019":2,
+                "2020":8,
+                "2021":1
+            }
+        ],
+        [
+            "We show how two electrically coupled semiconductor lasers having optical feedback can present simultaneous antiphase correlated fast power fluctuations, and strong in-phase synchronized spikes of chaotic power drops. This quite counterintuitive phenomenon is demonstrated experimentally and confirmed by numerical solutions of a deterministic dynamical system of rate equations. The occurrence of negative and positive cross correlation between parts of a complex system according to time scales, as proved in our simple arrangement, is relevant for the understanding and characterization of collective properties in complex networks.",
+            "Correlations in electrically coupled chaotic lasers",
+            "EJ Rosero and WAS Barbosa and JF Martinez Avila and AZ Khoury and JR Rios Leite",
+            "2016",
+            "lcxBxKgAAAAJ:u5HHmVD_uO8C",
+            2,
+            "https:\/\/journals.aps.org\/pre\/abstract\/10.1103\/PhysRevE.94.032210",
+            "3946693160757449186",
+            "\/scholar?cites=3946693160757449186",
+            {
+                "2017":1,
+                "2018":1
+            }
+        ]
+    ]
+}

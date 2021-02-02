@@ -1,0 +1,52 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "48zshwwAAAAJ",
+            "MAR\u00cdA ELIZABETH LUCAS MACIAS",
+            "Mar\u00eda Elizabeth Lucas Mac\u00edas",
+            "@educacion.gob.ec",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=48zshwwAAAAJ",
+            3,
+            [
+                "EDUCACI\u00d3N"
+            ],
+            3,
+            1,
+            1,
+            0,
+            0,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"lhR5qbgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Estrella Espinar Alava",
+                    "affiliation":"estrella.espinar@educacion.gob.ec"
+                }
+            ]
+        ]
+    ]
+}

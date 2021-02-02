@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "MY1ETJEY",
+            "7AhCirsAAAAJ",
+            [
+                "Ultrasensitive beam deflection measurement via interferometric weak value amplification",
+                "Colloquium: Understanding quantum weak values: Basics and applications",
+                "Weak values and the Leggett-Garg inequality in solid-state qubits",
+                "Undoing a weak quantum measurement of a solid-state qubit",
+                "Thermoelectric energy harvesting with quantum dots",
+                "Optimizing the signal-to-noise ratio of a beam-deflection measurement with interferometric weak values",
+                "Technical advantages for weak-value amplification: when less is more",
+                "Experimental violation of two-party Leggett-Garg inequalities with semiweak measurements",
+                "Stochastic path integral formulation of full counting statistics",
+                "Mapping the optimal route between two quantum states"
+            ],
+            [
+                "We report on the use of an interferometric weak value technique to amplify very small transverse deflections of an optical beam. By entangling the beam\u2019s transverse degrees of freedom with the which-path states of a Sagnac interferometer, it is possible to realize an optical amplifier for polarization independent deflections. The theory for the interferometric weak value amplification method is presented along with the experimental results, which are in good agreement. Of particular interest, we measured the angular deflection of a mirror down to 400\u00b1200 frad and the linear travel of a piezo actuator down to 14\u00b17 fm.",
+                "Since its introduction 25 years ago, the quantum weak value has gradually transitioned from a theoretical curiosity to a practical laboratory tool. While its utility is apparent in the recent explosion of weak value experiments, its interpretation has historically been a subject of confusion. Here a pragmatic introduction to the weak value in terms of measurable quantities is presented, along with an explanation for how it can be determined in the laboratory. Further, its application to three distinct experimental techniques is reviewed. First, as a large interaction parameter it can amplify small signals above technical background noise. Second, as a measurable complex value it enables novel techniques for direct quantum state and geometric phase determination. Third, as a conditioned average of generalized observable eigenvalues it provides a measurable window into nonclassical features of quantum mechanics. In this \u2026",
+                "An implementation of weak values is investigated in solid-state qubits. We demonstrate that a weak value can be nonclassical if and only if a Leggett-Garg inequality can also be violated. Generalized weak values are described in which post-selection occurs on a range of weak measurement results. Imposing classical weak values permits the derivation of Leggett-Garg inequalities for bounded operators. Our analysis is presented in terms of kicked quantum nondemolition measurements on a quantum double-dot charge qubit.",
+                "We propose an experiment which demonstrates the undoing of a weak continuous measurement of a solid-state qubit, so that any unknown initial state is fully restored. The undoing procedure has only a finite probability of success because of the nonunitary nature of quantum measurement, though it is accompanied by a clear experimental indication of whether or not the undoing has been successful. The probability of success decreases with increasing strength of the measurement, reaching zero for a traditional projective measurement. Measurement undoing (\u201cquantum undemolition\u201d) may be interpreted as a kind of quantum eraser, in which the information obtained from the first measurement is erased by the second measurement, which is an essential part of the undoing procedure. The experiment can be realized using quantum dot (charge) or superconducting (phase) qubits.",
+                "We review recent theoretical work on thermoelectric energy harvesting in multi-terminal quantum-dot setups. We first discuss several examples of nanoscale heat engines based on Coulomb-coupled conductors. In particular, we focus on quantum dots in the Coulomb-blockade regime, chaotic cavities and resonant tunneling through quantum dots and wells. We then turn toward quantum-dot heat engines that are driven by bosonic degrees of freedom such as phonons, magnons and microwave photons. These systems provide interesting connections to spin caloritronics and circuit quantum electrodynamics.",
+                "The amplification obtained using weak values is quantified through a detailed investigation of the signal-to-noise ratio for an optical beam-deflection measurement. We show that for a given deflection, input power and beam radius, the use of interferometric weak values allows one to obtain the optimum signal-to-noise ratio using a coherent beam. This method has the advantage of reduced technical noise and allows for the use of detectors with a low saturation intensity. We report on an experiment which improves the signal-to-noise ratio for a beam-deflection measurement by a factor of 54 when compared to a measurement using the same beam size and a quantum-limited detector.",
+                "The technical merits of weak-value-amplification techniques are analyzed. We consider models of several different types of technical noise in an optical context and show that weak-value-amplification techniques (which only use a small fraction of the photons) compare favorably with standard techniques (which use all of them). Using the Fisher-information metric, we demonstrate that weak-value techniques can put all of the Fisher information about the detected parameter into a small portion of the events and show how this fact alone gives technical advantages. We go on to consider a time-correlated noise model and find that a Fisher-information analysis indicates that the standard method can have much larger information about the detected parameter than the postselected technique. However, the estimator needed to gather the information is technically difficult to implement, showing that the inefficient (but \u2026",
+                "We generalize the derivation of Leggett-Garg inequalities to systematically treat a larger class of experimental situations by allowing multiparticle correlations, invasive detection, and ambiguous detector results. Furthermore, we show how many such inequalities may be tested simultaneously with a single setup. As a proof of principle, we violate several such two-particle inequalities with data obtained from a polarization-entangled biphoton state and a semiweak polarization measurement based on Fresnel reflection. We also point out a nontrivial connection between specific two-party Leggett-Garg inequality violations and convex sums of strange weak values.",
+                "We derive a stochastic path integral representation of counting statistics in semiclassical systems. The formalism is introduced on the simple case of a single chaotic cavity with two quantum point contacts, and then further generalized to find the propagator for charge distributions with an arbitrary number of counting fields and generalized charges. The counting statistics is given by the saddle-point approximation to the path integral, and fluctuations around the saddle point are suppressed in the semiclassical approximation. We use this approach to derive the current cumulants of a chaotic cavity in the hot-electron regime.",
+                "A central feature of quantum mechanics is that a measurement result is intrinsically probabilistic. Consequently, continuously monitoring a quantum system will randomly perturb its natural unitary evolution. The ability to control a quantum system in the presence of these fluctuations is of increasing importance in quantum information processing and finds application in fields ranging from nuclear magnetic resonance 1 to chemical synthesis 2. A detailed understanding of this stochastic evolution is essential for the development of optimized control methods. Here we reconstruct the individual quantum trajectories 3, 4, 5 of a superconducting circuit that evolves under the competing influences of continuous weak measurement and Rabi drive. By tracking individual trajectories that evolve between any chosen initial and final states, we can deduce the most probable path through quantum state space. These pre-and post \u2026"
+            ],
+            [
+                [
+                    "Physics"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "QyUzu7AAAAAJ",
+            "Tim Cohn",
+            "u.s. geological survey",
+            "@usgs.gov",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=QyUzu7AAAAAJ",
+            5674,
+            [
+                "hydrology",
+                "climate change"
+            ],
+            1521,
+            28,
+            18,
+            46,
+            29,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fYPkB6UAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jery Stedinger",
+                    "affiliation":"Cornell"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Jt5I-0gAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Robert M. Hirsch",
+                    "affiliation":"Hydrologist, US Geological Survey"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"OPA_BScAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Demetris Koutsoyiannis",
+                    "affiliation":"Prof. of Hydrology & Hydrosystems; Dept. of Water Resources; School of Civil Engineering; NTU Athens"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fqgGMEYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alberto Montanari",
+                    "affiliation":"Professor of Hydrology and Water Engineering, University of Bologna"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"PjpjQ7gAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dana Caulder",
+                    "affiliation":"Genentech"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"kEi1u0wAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Nick Paretti",
+                    "affiliation":"US Geological Survey"
+                }
+            ]
+        ]
+    ]
+}

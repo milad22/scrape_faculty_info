@@ -1,0 +1,43 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "YRT4C82X",
+            "JCPQhvgAAAAJ",
+            [
+                "Recovery of the Navier-Stokes equations using a lattice-gas Boltzmann method",
+                "Measurement of the rugged invariants of magnetohydrodynamic turbulence in the solar wind",
+                "Lattice Boltzmann model for simulation of magnetohydrodynamics",
+                "Proton and electron mean free paths: The Palmer consensus revisited",
+                "Observational constraints on the dynamics of the interplanetary magnetic field dissipation range",
+                "Dominant two\u2010dimensional solar wind turbulence with implications for cosmic ray transport"
+            ],
+            [
+                "It is known that the Frisch-Hasslacher-Pomeau lattice-gas automaton model and related models possess some rather unphysical effects. These are (1) a non-Galilean invariance caused by a density-dependent coefficient in the convection term, and (2) a velocity-dependent equation of state. In this paper, we show that both of these effects can be eliminated exactly in a lattice Boltzmann-equation model.",
+                "Measurements of the total energy, cross helicity, and magnetic helicity of the solar wind at 1, 2.8, and 5 AU are presented. These quantities are the three rugged invariants of three\u2010dimensional ideal incompressible MHD turbulence theory. The theoretical technique for measuring the magnetic helicity from the matrix of two\u2010point correlations is shown. The length scales characterizing the magnetic helicity are found to be equal to or greater than those which characterize the magnetic energy. The magnetic helicity typically lies at scales larger than the magnetic correlation length, consistent with the expectations of the inverse cascade and selective decay hypotheses of three\u2010dimensional MHD turbulence. At smaller scales, the magnetic helicity oscillates in sign. Our measurements of the cross helicity are not fully consistent with the usual interpretation in terms of outward propagating Alfv\u00e9nic functuations. Especially \u2026",
+                "A numerical method, based on a discrete Boltzmann equation, is presented for solving the equations of magnetohydrodynamics (MHD). The algorithm provides advantages similar to the cellular automaton method in that it is local and easily adapted to parallel computing environments. Because of much lower noise levels and less stringent requirements on lattice size, the method appears to be more competitive with traditional solution methods. Examples show that the model accurately reproduces both linear and nonlinear MHD phenomena.",
+                "We present experimental and theoretical evidence suggesting that the mean free path of cosmic-ray electrons",
+                "The dissipation range for interplanetary magnetic field fluctuations is formed by those fluctuations with spatial scales comparable to the gyroradius or ion inertial length of a thermal ion. It is reasonable to assume that the dissipation range represents the final fate of magnetic energy that is transferred from the largest spatial scales via nonlinear processes until kinetic coupling with the background plasma removes the energy from the spectrum and heats the background distribution. Typically, the dissipation range at 1 AU sets in at spacecraft frame frequencies of a few tenths of a hertz. It is characterized by a steepening of the power spectrum and often demonstrates a bias of the polarization or magnetic helicity spectrum. We examine Wind observations of inertial and dissipation range spectra in an attempt to better understand the processes that form the dissipation range and how these processes depend on the \u2026",
+                "Two new methods for distinguishing two\u2010dimensional (2D) turbulence from slab turbulence are applied to Helios magnetometer data. Two\u2010component models with varying slab and 2D ingredients are considered. Both methods indicate that solar wind magnetic turbulence possesses a dominant (\u223c85 % by energy) 2D component. The presence of such a large 2D component provides a natural solution to the long\u2010standing problem of \u201ctoo small\u201d cosmic ray mean free paths derived from quasilinear scattering theory when using the slab model."
+            ],
+            [
+                [
+                    "space physics",
+                    "plasma physics",
+                    "computer simulation",
+                    "magnetohydrodynamics",
+                    "turbulence"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "EBqQ4pYAAAAJ",
+            "Reeta Vyas",
+            "Professor of Physics, University of Arkansas",
+            "@uark.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=EBqQ4pYAAAAJ",
+            2160,
+            [
+                "Physics",
+                "Quantum Optics"
+            ],
+            670,
+            25,
+            11,
+            61,
+            14,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"xzhTqrsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Arnab Mitra",
+                    "affiliation":"Florida State College at Jacksonville"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"MMr63NIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"anindya ambuj",
+                    "affiliation":"University of Arknasas"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"JOui_t8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Vanderlei Salvador Bagnato",
+                    "affiliation":"Professor Titular, Universidade de S\u00e3o Paulo"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3YObZBIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jonathan P. Dowling",
+                    "affiliation":"Co-Director, Hearne Institute for Theoretical Physics, Louisiana State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ovfY3LsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Shashi Prabhakar",
+                    "affiliation":"Postdoctoral Research Fellow, Tampere University"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "data":[
+        [
+            "Monitoring and troubleshooting distributed systems is notoriously difficult; potential problems are complex, varied, and unpredictable. The monitoring and diagnosis tools commonly used today--logs, counters, and metrics--have two important limitations: what gets recorded is defined a priori, and the information is recorded in a component-or machine-centric way, making it extremely hard to correlate events that cross these boundaries. This paper presents Pivot Tracing, a monitoring framework for distributed systems that addresses both limitations by combining dynamic instrumentation with a novel relational operator: the happened-before join. Pivot Tracing gives users, at runtime, the ability to define arbitrary metrics at one point of the system, while being able to select, filter, and group by events meaningful at other parts of the system, even when crossing component or machine boundaries. We have implemented a \u2026",
+            "Pivot Tracing: Dynamic Causal Monitoring for Distributed Systems",
+            "Jonathan Mace and Ryan Roelke and Rodrigo Fonseca",
+            "2015",
+            "-j5wb9IAAAAJ:hqOjcs7Dif8C",
+            177,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/2815400.2815415",
+            "1514671006603657764",
+            "\/scholar?cites=1514671006603657764",
+            {
+                "2015":1,
+                "2016":22,
+                "2017":26,
+                "2018":38,
+                "2019":41,
+                "2020":40,
+                "2021":1
+            }
+        ],
+        [
+            "In distributed systems shared by multiple tenants, effective resource management is an important pre-requisite to providing quality of service guarantees. Many systems deployed today lack performance isolation and experience contention, slowdown, and even outages caused by aggressive workloads or by improperly throttled maintenance tasks such as data replication. In this work we present Retro, a resource management framework for shared distributed systems. Retro monitors per-tenant resource usage both within and across distributed systems, and exposes this information to centralized resource management policies through a high-level API. A policy can shape the resources consumed by a tenant using Retro\u2019s control points, which enforce sharing and ratelimiting decisions. We demonstrate Retro through three policies providing bottleneck resource fairness, dominant resource fairness, and latency guarantees to high-priority tenants, and evaluate the system across five distributed systems: HBase, Yarn, MapReduce, HDFS, and Zookeeper. Our evaluation shows that Retro has low overhead, and achieves the policies\u2019 goals, accurately detecting contended resources, throttling tenants responsible for slowdown and overload, and fairly distributing the remaining cluster capacity.",
+            "Retro: Targeted Resource Management in Multi-tenant Distributed Systems",
+            "Jonathan Mace and Peter Bodik and Rodrigo Fonseca and Madanlal Musuvathi",
+            "2015",
+            "-j5wb9IAAAAJ:Se3iqnhoufwC",
+            91,
+            "https:\/\/www.usenix.org\/conference\/nsdi15\/technical-sessions\/presentation\/mace",
+            "17329455661875402679",
+            "\/scholar?cites=17329455661875402679",
+            {
+                "2015":4,
+                "2016":14,
+                "2017":15,
+                "2018":25,
+                "2019":14,
+                "2020":17,
+                "2021":1
+            }
+        ],
+        [
+            "This paper presents Canopy, Facebook's end-to-end performance tracing infrastructure. Canopy records causally related performance data across the end-to-end execution path of requests, including from browsers, mobile applications, and backend services. Canopy processes traces in near real-time, derives user-specified features, and outputs to performance datasets that aggregate across billions of requests. Using Canopy, Facebook engineers can query and analyze performance data in real-time. Canopy addresses three challenges we have encountered in scaling performance analysis: supporting the range of execution and performance models used by different components of the Facebook stack; supporting interactive ad-hoc analysis of performance data; and enabling deep customization by users, from sampling traces to extracting and visualizing features. Canopy currently records and processes over 1 \u2026",
+            "Canopy: An end-to-end performance tracing and analysis system",
+            "Jonathan Kaldor and Jonathan Mace and Micha\u0142 Bejda and Edison Gao and Wiktor Kuropatwa and Joe O'Neill and Kian Win Ong and Bill Schaller and Pingjia Shan and Brendan Viscomi and Vinod Venkataraman and Kaushik Veeraraghavan and Yee Jiun Song",
+            "2017",
+            "-j5wb9IAAAAJ:ULOm3_A8WrAC",
+            59,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/3132747.3132749",
+            "17569533091524448942",
+            "\/scholar?cites=17569533091524448942",
+            {
+                "2017":2,
+                "2018":19,
+                "2019":15,
+                "2020":23
+            }
+        ],
+        [
+            "Workflow-centric tracing captures the workflow of causally-related events (eg, work done to process a request) within and among the components of a distributed system. As distributed systems grow in scale and complexity, such tracing is becoming a critical tool for understanding distributed system behavior. Yet, there is a fundamental lack of clarity about how such infrastructures should be designed to provide maximum benefit for important management tasks, such as resource accounting and diagnosis. Without research into this important issue, there is a danger that workflow-centric tracing will not reach its full potential. To help, this paper distills the design space of workflow-centric tracing and describes key design choices that can help or hinder a tracing infrastructures utility for important tasks. Our design space and the design choices we suggest are based on our experiences developing several previous \u2026",
+            "Principled workflow-centric tracing of distributed systems",
+            "Raja R Sambasivan and Ilari Shafer and Jonathan Mace and Benjamin H Sigelman and Rodrigo Fonseca and Gregory R Ganger",
+            "2016",
+            "-j5wb9IAAAAJ:KlAtU1dfN6UC",
+            32,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/2987550.2987568",
+            "2073842848350414878",
+            "\/scholar?cites=2073842848350414878",
+            {
+                "2017":6,
+                "2018":5,
+                "2019":8,
+                "2020":12
+            }
+        ],
+        [
+            "In many important cloud services, different tenants execute their requests in the thread pool of the same process, requiring fair sharing of resources. However, using fair queue schedulers to provide fairness in this context is difficult because of high execution concurrency, and because request costs are unknown and have high variance. Using fair schedulers like WFQ and WF\u00b2Q in such settings leads to bursty schedules, where large requests block small ones for long periods of time. In this paper, we propose Two-Dimensional Fair Queueing (2DFQ), which spreads requests of different costs across di erent threads and minimizes the impact of tenants with unpredictable requests. In evaluation on production workloads from Azure Storage, a large-scale cloud system at Microsoft, we show that 2DFQ reduces the burstiness of service by 1-2 orders of magnitude. On workloads where many large requests compete with \u2026",
+            "2DFQ: Two-Dimensional Fair Queuing for Multi-Tenant Cloud Services",
+            "Jonathan Mace and Peter Bodik and Madanlal Musuvathi and Rodrigo Fonseca and Krishnan Varadarajan",
+            "2016",
+            "-j5wb9IAAAAJ:kNdYIx-mwKoC",
+            27,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/2934872.2934878",
+            "5470122469752792482",
+            "\/scholar?cites=5470122469752792482",
+            {
+                "2016":1,
+                "2017":3,
+                "2018":6,
+                "2019":8,
+                "2020":9
+            }
+        ],
+        [
+            "Many tools for analyzing distributed systems propagate contexts along the execution paths of requests, tasks, and jobs, in order to correlate events across process, component and machine boundaries. There is a wide range of existing and proposed uses for these tools, which we call cross-cutting tools, such as tracing, debugging, taint propagation, provenance, auditing, and resource management, but few of them get deployed pervasively in large systems. When they do, they are brittle, hard to evolve, and cannot coexist with each other. While they use very different context metadata, the way they propagate the information alongside execution is the same. Nevertheless, in existing tools, these aspects are deeply intertwined, causing most of these problems.",
+            "Universal context propagation for distributed system instrumentation",
+            "Jonathan Mace and Rodrigo Fonseca",
+            "2018",
+            "-j5wb9IAAAAJ:_kc_bZDykSQC",
+            17,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/3190508.3190526",
+            "18248140732289784136",
+            "\/scholar?cites=18248140732289784136",
+            {
+                "2019":6,
+                "2020":11
+            }
+        ]
+    ]
+}

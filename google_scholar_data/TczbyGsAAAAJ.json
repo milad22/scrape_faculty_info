@@ -1,0 +1,88 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "TczbyGsAAAAJ",
+            "Davi Rogerio de Moura Costa",
+            "Universidade de S\u00e3o Paulo",
+            "@usp.br",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=TczbyGsAAAAJ",
+            180,
+            [
+                "Economia"
+            ],
+            116,
+            7,
+            5,
+            5,
+            4,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"zxQ8nRsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Paulo Furquim de Azevedo",
+                    "affiliation":"Senior Fellow Professor at Insper Institute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"XJAkoqEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Fabio Chaddad",
+                    "affiliation":"Associate Professor, University of Missouri and INSPER"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"NFI3S-YAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sigismundo Bialoskorski Neto",
+                    "affiliation":"Professor Titular FEA RP USP"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Z_RsTKsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Fabiana Cherubim Bortoleto",
+                    "affiliation":"FEA\/USP"
+                }
+            ]
+        ]
+    ]
+}

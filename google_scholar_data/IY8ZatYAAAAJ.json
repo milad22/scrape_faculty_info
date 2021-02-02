@@ -1,0 +1,92 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "IY8ZatYAAAAJ",
+            "Tulika Bose",
+            "Doctoral student, LORIA-INRIA, Researcher R&D, TCS Research & Innovation",
+            "@loria.fr",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=IY8ZatYAAAAJ",
+            149,
+            [
+                "Natural Language Processing",
+                "Topic Modeling",
+                "Machine learning",
+                "sensor signal processing",
+                "Internet of Things"
+            ],
+            140,
+            7,
+            7,
+            6,
+            6,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"qC_oqOUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Soma Bandyopadhyay",
+                    "affiliation":"Senior Scientist, TATA Consultancy Services, Research & Innovation"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"wXFj5skAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Arijit Ukil",
+                    "affiliation":"Senior Scientist, Research and Innovation, Tata Consultancy Services, Kolkata, India"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"-eHGLnEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Abhijan Bhattacharyya",
+                    "affiliation":"TCS Research, Tata Consultancy Services"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"nwNIkAUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Angshul Majumdar",
+                    "affiliation":"Associate Professor, Indraprastha Institute of Information Technology"
+                }
+            ]
+        ]
+    ]
+}

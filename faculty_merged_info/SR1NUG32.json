@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "SR1NUG32",
+            "SSj8p2gAAAAJ",
+            [
+                "Inhomogeneous line broadening and the threshold current density of a semiconductor quantum dot laser",
+                "Tunneling-injection quantum-dot laser: ultrahigh temperature stability",
+                "Threshold characteristics of InGaAsP\/InP multiple quantum well lasers",
+                "High-power continuous-wave operation of a InGaAs\/AlGaAs quantum dot laser",
+                "Temperature dependence of the threshold current density of a quantum dot laser",
+                "Charge neutrality violation in quantum-dot lasers",
+                "Gain and threshold characteristics of long wavelength lasers based on InAs\/GaAs quantum dots formed by activated alloy phase separation",
+                "Temperature-insensitive semiconductor quantum dot laser",
+                "Internal efficiency of semiconductor lasers with a quantum-confined active region",
+                "Maximum modal gain of a self-assembled InAs\/GaAs quantum-dot laser"
+            ],
+            [
+                "Theoretical analysis of the gain and threshold current of a semiconductor quantum dot (QD) laser is given which takes account of the line broadening caused by fluctuations in quantum dot sizes. The following processes are taken into consideration together with the main process of radiative recombination of carriers in QDs: band-to-band radiative recombination of carriers in the waveguide region, carrier capture into QDs and thermally excited escape from QDs, photoexcitation of carriers from QDs to continuous-spectrum states. For an arbitrary QD size distribution, expressions for the threshold current density as a function of the root mean square of relative QD size fluctuations, total losses in the waveguide region, surface density of QDs and thickness of the waveguide region have been obtained in an explicit form. The minimum threshold current density and optimum parameters of the structure (surface density of \u2026",
+                "We propose a genuinely temperature-insensitive quantum dot (QD) laser. Our approach is based on direct injection of carriers into the QDs, resulting in a strong depletion of minority carriers in the regions outside the QDs. Recombination in these regions, which is the dominant source of the temperature dependence, is thereby suppressed, raising the characteristic temperature T\/sub 0\/ above 1500 K. Still further enhancement of T\/sub 0\/ results from the resonant nature of tunneling injection, which reduces the inhomogeneous line broadening by selectively cutting off the nonlasing QDs.",
+                "A theoretical analysis and computer simulation of the threshold current density j th and characteristic temperature T 0 of multiple quantum well lasers (MQWLs) are presented. Together with the spontaneous radiative recombination, the Auger recombination and the lateral diffusive leakage of carriers from the active region are included into the model. A first-principle calculation of the Auger recombination current is performed. It is shown that the lateral diffusive leakage current is controlled by the radiative and Auger currents. When calculating the carrier densities, the electrons in the barrier regions are properly taken into account. Redistribution of electrons over the active region is shown to increase the threshold current considerably. The dependences of j th and T 0 on temperature, number of QWs, cavity length and lateral size are discussed in detail. The effect of lattice and carrier heating on j th and T 0 is \u2026",
+                "A 1 W continuous-wave laser operation via the ground state of vertically coupled InGaAs quantum dots (VCQDs) in an AlGaAs matrix is demonstrated. VCQDs are directly revealed in transmission electron microscopy images of the laser structure. Ninety-six percent internal quantum efficiency is realized. The laser gain maximum shifts significantly with drive current towards higher photon energies in agreement with the relatively broad size distribution of VCQDs.",
+                "Detailed theoretical analysis of the temperature dependence of threshold current density of a semiconductor quantum dot (QD) laser is given. Temperature dependences of the threshold current density components associated with the radiative recombination in QDs and in the optical confinement layer (OCL) are calculated. Violation of the charge neutrality in QDs is shown to give rise to the slight temperature dependence of the current density component associated with the recombination in QD's. The temperature is calculated (as a function of the parameters of the structure) at which the components of threshold current density become equal to each other. Temperature dependences of the optimum surface density of QD's and the optimum thickness of the OCL, minimizing the threshold current density, are obtained. The characteristic temperature of QD laser T\/sub o\/ is calculated for the first time considering carrier \u2026",
+                "Theory of quantum-dot (QD) lasers is augmented to include, in a self-consistent manner, the QD-layer charge. The electron- and hole-level occupancies in QDs are obtained through the solution of the problem for the electrostatic-field distribution across the junction. They are shown to differ from each other. As a result, the local neutrality is broken down in each QD, i.e., the QD layer is charged. The key dimensionless parameters controlling the difference of the hole- and electron-level occupancies are revealed. The detailed analysis of the gain and spontaneous radiative recombination current density is given, having regard to the fact of violation of the charge neutrality in QDs. The gain-current density dependence is calculated, The voltage dependences of the electron- and hole-level occupancies, gain, and current density are obtained. Particular emphasis is given to the transparency and lasing threshold \u2026",
+                "Experimental and theoretical study was made of injection lasers based on InAs\/GaAs quantum dots (QDs) formed by the activated alloy phase separation and emitting at about 1.3 \/spl mu\/m. Electroluminescence and gain spectra were investigated. The maximum modal gain is measured experimentally using two different techniques. Threshold current densities as low as 22 A cm\/sup -2\/ per QD sheet were achieved. A step-like switch from ground- to excited-state transition lasing was observed with an increasing cavity loss. The characteristic temperatures for a sample with four cleaved sides and a 2-mm long stripe device at 300 K were 140 and 83 K, respectively. Single lateral-mode continuous-wave (CW) operation with the maximum output power of 210 mW was realized. Threshold characteristics of a laser were simulated taking into account radiative recombination in QDs, the wetting layer, and the optical \u2026",
+                "Different approaches to the design of a genuinely temperature-insensitive quantum dot (QD) laser are proposed. Suppression of the parasitic recombination outside the QDs, which is the dominant source of the temperature dependence of the threshold current in the conventional design of a QD laser, is accomplished either by tunneling injection of carriers into the QDs or by band-gap engineering. Elimination of this recombination channel alone enhances the characteristic temperatures T0 above 1000 K. Remaining sources of temperature dependence (recombination from higher QD levels, inhomogeneous line broadening, and violation of charge neutrality in QDs) are studied. Tunneling-injection structures are shown to offer an additional advantage of suppressed effects of inhomogeneous broadening and neutrality violation.",
+                "We discuss in detail a new mechanism of nonlinearity of the light-current characteristic (LCC) in heterostructure lasers with reduced-dimensionality active regions, such as quantum wells (QWs), quantum wires (QWRs), and quantum dots (QDs). It arises from: 1) noninstantaneous carrier capture into the quantum-confined active region and 2) nonlinear (in the carrier density) recombination rate outside the active region. Because of 1), the carrier density outside the active region rises with injection current, even above threshold, and because of 2), the useful fraction of current (that ends up as output light) decreases. We derive a universal closed-form expression for the internal differential quantum efficiency \/spl eta\/\/sub int\/ that holds true for QD, QWR, and QW lasers. This expression directly relates the power and threshold characteristics. The key parameter, controlling \/spl eta\/\/sub int\/ and limiting both the output power \u2026",
+                "Gain and threshold current of a self-assembled InAs\/GaAs quantum-dot (QD) laser are simulated. A small overlap integral of the electron and hole wave functions in pyramidal QDs is shown to be a possible reason for the low single-layer modal gain, which limits lasing via the ground-state transition at short (under a millimeter) cavity lengths."
+            ],
+            [
+                [
+                    "Theory of semiconductor quantum dot lasers and quantum well lasers"
+                ]
+            ]
+        ]
+    ]
+}

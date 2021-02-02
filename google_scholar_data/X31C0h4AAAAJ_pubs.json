@@ -1,0 +1,244 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "We describe Hi-C, a method that probes the three-dimensional architecture of whole genomes by coupling proximity-based ligation with massively parallel sequencing. We constructed spatial proximity maps of the human genome with Hi-C at a resolution of 1 megabase. These maps confirm the presence of chromosome territories and the spatial proximity of small, gene-rich chromosomes. We identified an additional level of genome organization that is characterized by the spatial segregation of open and closed chromatin to form two genome-wide compartments. At the megabase scale, the chromatin conformation is consistent with a fractal globule, a knot-free, polymer conformation that enables maximally dense packing while preserving the ability to easily fold and unfold any genomic locus. The fractal globule is distinct from the more commonly used globular equilibrium model. Our results demonstrate the power \u2026",
+            "Comprehensive mapping of long-range interactions reveals folding principles of the human genome",
+            "Erez Lieberman-Aiden and Nynke L Van Berkum and Louise Williams and Maxim Imakaev and Tobias Ragoczy and Agnes Telling and Ido Amit and Bryan R Lajoie and Peter J Sabo and Michael O Dorschner and Richard Sandstrom and Bradley Bernstein and Michael A Bender and Mark Groudine and Andreas Gnirke and John Stamatoyannopoulos and Leonid A Mirny and Eric S Lander and Job Dekker",
+            "2009",
+            "X31C0h4AAAAJ:d1gkVwhDpl0C",
+            5356,
+            "https:\/\/science.sciencemag.org\/content\/326\/5950\/289.abstract",
+            "12390817964819514773",
+            "\/scholar?cites=12390817964819514773",
+            {
+                "2010":152,
+                "2011":239,
+                "2012":313,
+                "2013":363,
+                "2014":350,
+                "2015":422,
+                "2016":481,
+                "2017":570,
+                "2018":621,
+                "2019":822,
+                "2020":905,
+                "2021":61
+            }
+        ],
+        [
+            "Proteins, nucleic acids, and small molecules form a dense network of molecular interactions in a cell. Molecules are nodes of this network, and the interactions between them are edges. The architecture of molecular networks can reveal important principles of cellular organization and function, similarly to the way that protein structure tells us about the function and organization of a protein. Computational analysis of molecular networks has been primarily concerned with node degree [Wagner, A. & Fell, D. A. (2001) Proc. R. Soc. London Ser. B 268, 1803\u20131810; Jeong, H., Tombor, B., Albert, R., Oltvai, Z. N. & Barabasi, A. L. (2000) Nature 407, 651\u2013654] or degree correlation [Maslov, S. & Sneppen, K. (2002) Science 296, 910\u2013913], and hence focused on single\/two-body properties of these networks. Here, by analyzing the multibody structure of the network of protein\u2013protein interactions, we discovered molecular \u2026",
+            "Protein complexes and functional modules in molecular networks",
+            "Victor Spirin and Leonid A Mirny",
+            "2003",
+            "X31C0h4AAAAJ:u-x6o8ySG0sC",
+            1633,
+            "https:\/\/www.pnas.org\/content\/100\/21\/12123.short",
+            "8706368872934739456",
+            "\/scholar?cites=8706368872934739456",
+            {
+                "2004":41,
+                "2005":78,
+                "2006":88,
+                "2007":96,
+                "2008":110,
+                "2009":133,
+                "2010":145,
+                "2011":102,
+                "2012":143,
+                "2013":108,
+                "2014":116,
+                "2015":100,
+                "2016":83,
+                "2017":75,
+                "2018":70,
+                "2019":70,
+                "2020":57,
+                "2021":4
+            }
+        ],
+        [
+            "How DNA is organized in three dimensions inside the cell nucleus and how this affects the ways in which cells access, read and interpret genetic information are among the longest standing questions in cell biology. Using newly developed molecular, genomic and computational approaches based on the chromosome conformation capture technology (such as 3C, 4C, 5C and Hi-C), the spatial organization of genomes is being explored at unprecedented resolution. Interpreting the increasingly large chromatin interaction data sets is now posing novel challenges. Here we describe several types of statistical and computational approaches that have recently been developed to analyse chromatin interaction data.",
+            "Exploring the three-dimensional organization of genomes: interpreting chromatin interaction data",
+            "Job Dekker and Marc A Marti-Renom and Leonid A Mirny",
+            "2013",
+            "X31C0h4AAAAJ:1sJd4Hv_s6UC",
+            905,
+            "https:\/\/www.nature.com\/articles\/nrg3454",
+            "9536672893251700079",
+            "\/scholar?cites=9536672893251700079",
+            {
+                "2013":26,
+                "2014":96,
+                "2015":141,
+                "2016":147,
+                "2017":150,
+                "2018":128,
+                "2019":107,
+                "2020":98,
+                "2021":9
+            }
+        ],
+        [
+            "Topologically associating domains (TADs) are fundamental structural and functional building blocks of human interphase chromosomes, yet the mechanisms of TAD formation remain unclear. Here, we propose that loop extrusion underlies TAD formation. In this process, cis-acting loop-extruding factors, likely cohesins, form progressively larger loops but stall at TAD boundaries due to interactions with boundary proteins, including CTCF. Using polymer simulations, we show that this model produces TADs and finer-scale features of Hi-C data. Each TAD emerges from multiple loops dynamically formed through extrusion, contrary to typical illustrations of single static loops. Loop extrusion both explains diverse experimental observations\u2014including the preferential orientation of CTCF motifs, enrichments of architectural proteins at TAD boundaries, and boundary deletion experiments\u2014and makes specific predictions for \u2026",
+            "Formation of chromosomal domains by loop extrusion",
+            "Geoffrey Fudenberg and Maxim Imakaev and Carolyn Lu and Anton Goloborodko and Nezar Abdennur and Leonid A Mirny",
+            "2016",
+            "X31C0h4AAAAJ:VPl5zSG_J1oC",
+            874,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S2211124716305307",
+            "4667686042581038548",
+            "\/scholar?cites=4667686042581038548",
+            {
+                "2016":54,
+                "2017":144,
+                "2018":157,
+                "2019":226,
+                "2020":267,
+                "2021":15
+            }
+        ],
+        [
+            "Extracting biologically meaningful information from chromosomal interactions obtained with genome-wide chromosome conformation capture (3C) analyses requires the elimination of systematic biases. We present a computational pipeline that integrates a strategy to map sequencing reads with a data-driven method for iterative correction of biases, yielding genome-wide maps of relative contact probabilities. We validate this ICE (iterative correction and eigenvector decomposition) technique on published data obtained by the high-throughput 3C method Hi-C, and we demonstrate that eigenvector decomposition of the obtained maps provides insights into local chromatin states, global patterns of chromosomal interactions, and the conserved organization of human and mouse chromosomes.",
+            "Iterative correction of Hi-C data reveals hallmarks of chromosome organization",
+            "Maxim Imakaev and Geoffrey Fudenberg and Rachel Patton McCord and Natalia Naumova and Anton Goloborodko and Bryan R Lajoie and Job Dekker and Leonid A Mirny",
+            "2012",
+            "X31C0h4AAAAJ:TQgYirikUcIC",
+            855,
+            "https:\/\/www.nature.com\/nmeth\/journal\/v9\/n10\/abs\/nmeth.2148.html",
+            "15181194939927612566",
+            "\/scholar?cites=15181194939927612566",
+            {
+                "2012":3,
+                "2013":29,
+                "2014":42,
+                "2015":91,
+                "2016":80,
+                "2017":121,
+                "2018":133,
+                "2019":158,
+                "2020":180,
+                "2021":8
+            }
+        ],
+        [
+            "Mitotic chromosomes are among the most recognizable structures in the cell, yet for over a century their internal organization remains largely unsolved. We applied chromosome conformation capture methods, 5C and Hi-C, across the cell cycle and revealed two distinct three-dimensional folding states of the human genome. We show that the highly compartmentalized and cell type\u2013specific organization described previously for nonsynchronous cells is restricted to interphase. In metaphase, we identified a homogenous folding state that is locus-independent, common to all chromosomes, and consistent among cell types, suggesting a general principle of metaphase chromosome organization. Using polymer simulations, we found that metaphase Hi-C data are inconsistent with classic hierarchical models and are instead best described by a linearly organized longitudinally compressed array of consecutive chromatin \u2026",
+            "Organization of the mitotic chromosome",
+            "Natalia Naumova and Maxim Imakaev and Geoffrey Fudenberg and Ye Zhan and Bryan R Lajoie and Leonid A Mirny and Job Dekker",
+            "2013",
+            "X31C0h4AAAAJ:K3LRdlH-MEoC",
+            721,
+            "https:\/\/science.sciencemag.org\/content\/342\/6161\/948.abstract",
+            "4281243589384854239",
+            "\/scholar?cites=4281243589384854239",
+            {
+                "2013":4,
+                "2014":44,
+                "2015":98,
+                "2016":108,
+                "2017":142,
+                "2018":96,
+                "2019":123,
+                "2020":101,
+                "2021":3
+            }
+        ],
+        [
+            "The molecular mechanisms underlying folding of mammalian chromosomes remain poorly understood. The transcription factor CTCF is a candidate regulator of chromosomal structure. Using the auxin-inducible degron system in mouse embryonic stem cells, we show that CTCF is absolutely and dose-dependently required for looping between CTCF target sites and insulation of topologically associating domains (TADs). Restoring CTCF reinstates proper architecture on altered chromosomes, indicating a powerful instructive function for CTCF in chromatin folding. CTCF remains essential for TAD organization in non-dividing cells. Surprisingly, active and inactive genome compartments remain properly segregated upon CTCF depletion, revealing that compartmentalization of mammalian chromosomes emerges independently of proper insulation of TADs. Furthermore, our data support that CTCF mediates \u2026",
+            "Targeted degradation of CTCF decouples local insulation of chromosome domains from genomic compartmentalization",
+            "Elph\u00e8ge P Nora and Anton Goloborodko and Anne-Laure Valton and Johan H Gibcus and Alec Uebersohn and Nezar Abdennur and Job Dekker and Leonid A Mirny and Benoit G Bruneau",
+            "2017",
+            "X31C0h4AAAAJ:8Z0Dsp3hPRYC",
+            714,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0092867417305317",
+            "5017074916769938862",
+            "\/scholar?cites=5017074916769938862",
+            {
+                "2017":66,
+                "2018":142,
+                "2019":232,
+                "2020":253,
+                "2021":13
+            }
+        ],
+        [
+            "Proper expression of genes requires communication with their regulatory elements that can be located elsewhere along the chromosome. The physics of chromatin fibers imposes a range of constraints on such communication. The molecular and biophysical mechanisms by which chromosomal communication is established, or prevented, have become a topic of intense study, and important roles for the spatial organization of chromosomes are being discovered. Here we present a view of the interphase 3D genome characterized by extensive physical compartmentalization and insulation on the one hand and facilitated long-range interactions on the other. We propose the existence of topological machines dedicated to set up and to exploit a 3D genome organization to both promote and censor communication along and between chromosomes.",
+            "The 3D genome as moderator of chromosomal communication",
+            "Job Dekker and Leonid Mirny",
+            "2016",
+            "X31C0h4AAAAJ:7cqQt8SKcR0C",
+            542,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0092867416300733",
+            "1769212050629594797",
+            "\/scholar?cites=1769212050629594797",
+            {
+                "2016":48,
+                "2017":106,
+                "2018":128,
+                "2019":119,
+                "2020":128,
+                "2021":7
+            }
+        ],
+        [
+            "Metazoan genomes are spatially organized at multiple scales, from packaging of DNA around individual nucleosomes to segregation of whole chromosomes into distinct territories 1, 2, 3, 4, 5. At the intermediate scale of kilobases to megabases, which encompasses the sizes of genes, gene clusters and regulatory domains, the three-dimensional (3D) organization of DNA is implicated in multiple gene regulatory mechanisms 2, 3, 4, 6, 7, 8, but understanding this organization remains a challenge. At this scale, the genome is partitioned into domains of different epigenetic states that are essential for regulating gene expression 9, 10, 11. Here we investigate the 3D organization of chromatin in different epigenetic states using super-resolution imaging. We classified genomic domains in Drosophila cells into transcriptionally active, inactive or Polycomb-repressed states, and observed distinct chromatin organizations for \u2026",
+            "Super-resolution imaging reveals distinct chromatin folding for different epigenetic states",
+            "Alistair N Boettiger and Bogdan Bintu and Jeffrey R Moffitt and Siyuan Wang and Brian J Beliveau and Geoffrey Fudenberg and Maxim Imakaev and Leonid A Mirny and Chao-ting Wu and Xiaowei Zhuang",
+            "2016",
+            "X31C0h4AAAAJ:CREiCvMVTUAC",
+            532,
+            "https:\/\/www.nature.com\/articles\/nature16496",
+            "6623194861323435004",
+            "\/scholar?cites=6623194861323435004",
+            {
+                "2016":50,
+                "2017":129,
+                "2018":96,
+                "2019":131,
+                "2020":113,
+                "2021":6
+            }
+        ],
+        [
+            "Imaging and chromosome conformation capture studies have revealed several layers of chromosome organization, including segregation into megabase-sized active and inactive compartments, and partitioning into sub-megabase domains (TADs). It remains unclear, however, how these layers of organization form, interact with one another and influence genome function. Here we show that deletion of the cohesin-loading factor Nipbl in mouse liver leads to a marked reorganization of chromosomal folding. TADs and associated Hi-C peaks vanish globally, even in the absence of transcriptional changes. By contrast, compartmental segregation is preserved and even reinforced. Strikingly, the disappearance of TADs unmasks a finer compartment structure that accurately reflects the underlying epigenetic landscape. These observations demonstrate that the three-dimensional organization of the genome results from \u2026",
+            "Two independent modes of chromatin organization revealed by cohesin removal",
+            "Wibke Schwarzer and Nezar Abdennur and Anton Goloborodko and Aleksandra Pekowska and Geoffrey Fudenberg and Yann Loe-Mie and Nuno A Fonseca and Wolfgang Huber and Christian H Haering and Leonid Mirny and Francois Spitz",
+            "2017",
+            "X31C0h4AAAAJ:cNepPnSnVCgC",
+            515,
+            "https:\/\/www.nature.com\/articles\/nature24281",
+            "7978894009851672666",
+            "\/scholar?cites=7978894009851672666",
+            {
+                "2017":13,
+                "2018":106,
+                "2019":191,
+                "2020":189,
+                "2021":10
+            }
+        ]
+    ]
+}

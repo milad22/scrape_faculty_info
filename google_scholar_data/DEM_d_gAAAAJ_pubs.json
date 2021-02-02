@@ -1,0 +1,210 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "In this paper we investigate a stochastic appointment-scheduling problem in an outpatient clinic with a single doctor. The number of patients and their sequence of arrivals are fixed, and the scheduling problem is to determine an appointment time for each patient. The service durations of the patients are stochastic, and only the mean and covariance estimates are known. We do not assume any exact distributional form of the service durations, and we solve for distributionally robust schedules that minimize the expectation of the weighted sum of patients' waiting time and the doctor's overtime. We formulate this scheduling problem as a convex conic optimization problem with a tractable semidefinite relaxation. Our model can be extended to handle additional support constraints of the service durations. Using the primal\u2013dual optimality conditions, we prove several interesting structural properties of the optimal \u2026",
+            "Scheduling Arrivals to a Stochastic Service Delivery System Using Copositive Cones",
+            "Qingxia Kong and Chung-Yee Lee and Chung-Piaw Teo and Zhichao Zheng",
+            "2013",
+            "DEM_d_gAAAAJ:_FxGoFyzp5QC",
+            109,
+            "https:\/\/pubsonline.informs.org\/doi\/abs\/10.1287\/opre.2013.1158",
+            "17454305796098252932",
+            "\/scholar?cites=17454305796098252932",
+            {
+                "2012":2,
+                "2013":4,
+                "2014":7,
+                "2015":8,
+                "2016":11,
+                "2017":11,
+                "2018":16,
+                "2019":23,
+                "2020":23,
+                "2021":1
+            }
+        ],
+        [
+            "In this paper, we analyze mixed 0-1 linear programs under objective uncertainty. The mean vector and the second-moment matrix of the nonnegative objective coefficients are assumed to be known, but the exact form of the distribution is unknown. Our main result shows that computing a tight upper bound on the expected value of a mixed 0-1 linear program in maximization form with random objective is a completely positive program. This naturally leads to semidefinite programming relaxations that are solvable in polynomial time but provide weaker bounds. The result can be extended to deal with uncertainty in the moments and more complicated objective functions. Examples from order statistics and project networks highlight the applications of the model. Our belief is that the model will open an interesting direction for future research in discrete and linear optimization under uncertainty.",
+            "Mixed 0-1 Linear Programs Under Objective Uncertainty: A Completely Positive Representation",
+            "Karthik Natarajan and Chung Piaw Teo and Zhichao Zheng",
+            "2011",
+            "DEM_d_gAAAAJ:u5HHmVD_uO8C",
+            73,
+            "https:\/\/pubsonline.informs.org\/doi\/abs\/10.1287\/opre.1110.0918",
+            "5570315013232669796",
+            "\/scholar?cites=5570315013232669796",
+            {
+                "2010":3,
+                "2011":3,
+                "2012":7,
+                "2013":8,
+                "2014":4,
+                "2015":7,
+                "2016":5,
+                "2017":7,
+                "2018":10,
+                "2019":12,
+                "2020":7
+            }
+        ],
+        [
+            "In this paper, we review recent advances in the distributional analysis of mixed integer linear programs with random objective coefficients. Suppose that the probability distribution of the objective coefficients is incompletely specified and characterized through partial moment information. Conic programming methods have been recently used to find distributionally robust bounds for the expected optimal value of mixed integer linear programs over the set of all distributions with the given moment information. These methods also provide additional information on the probability that a binary variable attains a value of 1 in the optimal solution for 0\u20131 integer linear programs. This probability is defined as the persistency of a binary variable. In this paper, we provide an overview of the complexity results for these models, conic programming formulations that are readily implementable with standard solvers and important \u2026",
+            "Distributionally Robust Mixed Integer Linear Programs: Persistency Models with Applications",
+            "Xiaobo Li and Karthik Natarajan and Chung-Piaw Teo and Zhichao Zheng",
+            "2014",
+            "DEM_d_gAAAAJ:9yKSN-GCB0IC",
+            27,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0377221713005791",
+            "15123690927704209292",
+            "\/scholar?cites=15123690927704209292",
+            {
+                "2014":2,
+                "2015":3,
+                "2016":3,
+                "2017":4,
+                "2018":4,
+                "2019":7,
+                "2020":4
+            }
+        ],
+        [
+            "Resource pooling strategies have been widely used in industry to match supply with demand. However, effective implementation of these strategies can be challenging. Firms need to integrate the heterogeneous service level requirements of different customers into the pooling model and allocate the resources (inventory or capacity) appropriately in the most effective manner. The traditional analysis of inventory pooling, for instance, considers the performance metric in a centralized system and does not address the associated issue of inventory allocation. Using Blackwell\u2019s Approachability Theorem, we derive a set of necessary and sufficient conditions to relate the fill rate requirement of each customer to the resources needed in the system. This provides a new approach to studying the value of resource pooling in a system with differentiated service requirements. Furthermore, we show that with \u201callocation \u2026",
+            "Resource pooling and allocation policies to deliver differentiated service",
+            "Yuanguang Zhong and Zhichao Zheng and Mabel C Chou and Chung-Piaw Teo",
+            "2018",
+            "DEM_d_gAAAAJ:roLk4NBRz8UC",
+            26,
+            "https:\/\/pubsonline.informs.org\/doi\/abs\/10.1287\/mnsc.2016.2674",
+            "14665619621555466706",
+            "\/scholar?cites=14665619621555466706",
+            {
+                "2017":2,
+                "2018":6,
+                "2019":4,
+                "2020":13,
+                "2021":1
+            }
+        ],
+        [
+            "In many production environments, a fixed network of capacity is shared flexibly between multiple products with random demands. What is the best way to configure the capacity of the production network and to allocate the available capacity to meet predetermined fill rate requirements? We develop a new approach for network capacity configuration and allocation and characterize the relationship between the capacity of the network and the attainable fill rate levels for the products, taking into account the flexibility structure of the network. This builds on a new randomized allocation mechanism to deliver the desired services. We use this theory to investigate the connection between the flexibility structure and capacity configuration. We provide a new perspective to the well-known phenomenon that \u201clong chain is almost as good as the fully flexible network\u201d: for given target fill rates, the required capacity level in a long \u2026",
+            "Capacity allocation in flexible production networks: Theory and applications",
+            "Guodong Lyu and Wang-Chi Cheung and Mabel C Chou and Chung-Piaw Teo and Zhichao Zheng and Yuanguang Zhong",
+            "2019",
+            "DEM_d_gAAAAJ:MXK_kJrjxJIC",
+            13,
+            "https:\/\/pubsonline.informs.org\/doi\/abs\/10.1287\/mnsc.2018.3169",
+            "12779903642690376312",
+            "\/scholar?cites=12779903642690376312",
+            {
+                "2019":5,
+                "2020":7
+            }
+        ],
+        [
+            "We study the design of a healthcare appointment system with a single physician and a group of patients whose service durations are stochastic. The challenge is to find the optimal arrival sequence for a group of mixed patients such that the expected total cost of patient waiting time and physician overtime is minimized. While numerous simulation studies report that sequencing patients by increasing order of variance of service duration (Smallest-Variance-First or SVF rule) performs extremely well in many environments, analytical results on optimal sequencing are known only for two patients. In this paper, we shed light on why it is so difficult to prove the optimality of the SVF rule in general. We first assume that the appointment intervals are fixed according to a given template and analytically investigate the optimality of the SVF rule. In particular, we show that the optimality of the SVF rule depends on two important \u2026",
+            "Appointment Sequencing: Why the Smallest-Variance-First Rule May Not Be Optimal",
+            "Qingxia Kong and Chung-Yee Lee and Chung-Piaw Teo and Zhichao Zheng",
+            "2016",
+            "DEM_d_gAAAAJ:UeHWp8X0CEIC",
+            12,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0377221716304246",
+            "9827810630304087579",
+            "\/scholar?cites=9827810630304087579",
+            {
+                "2016":1,
+                "2017":1,
+                "2018":4,
+                "2019":1,
+                "2020":5
+            }
+        ],
+        [
+            "This paper is motivated by the following question: How to construct good approximation for the distribution of the solution value to linear optimization problem when the random objective coefficients follow a multivariate normal distribution? Using Stein\u2019s Identity, we show that the least squares normal approximation of the random optimal value can be computed by estimating the persistency values of the corresponding optimization problem. We further extend our method to construct a least squares quadratic estimator to improve the accuracy of the approximation; in particular, to capture the skewness of the objective. Computational studies show that the new approach provides more accurate estimates of the distributions of project completion times compared to existing methods.",
+            "Least Squares Approximation to the Distribution of Project Completion Times with Gaussian Uncertainty",
+            "Zhichao Zheng and Karthik Natarajan and Chung-Piaw Teo",
+            "2016",
+            "DEM_d_gAAAAJ:ufrVoPGSRksC",
+            10,
+            "https:\/\/pubsonline.informs.org\/doi\/abs\/10.1287\/opre.2016.1528",
+            "17172447303664610843",
+            "\/scholar?cites=17172447303664610843",
+            {
+                "2013":1,
+                "2014":1,
+                "2015":1,
+                "2016":2,
+                "2017":3,
+                "2018":2
+            }
+        ],
+        [
+            "Sepsis is defined as life\u2010threatening organ dysfunction due to a dysregulated host response to infection. The clinical criteria of sepsis include organ dysfunction, which is defined as an increase of two points or more on the sequential organ failure assessment (SOFA). For patients with infection, an increase of 2 SOFA points yields an overall mortality rate of 10%. Patients with suspected infection who are likely to have a prolonged intensive care unit (ICU) stay or to have in\u2010hospital mortality can be promptly identified at the bedside with a quick SOFA (qSOFA) score of 2 or higher.The sepsis\u20103 criteria have emphasized the value of a change of two or more points on the SOFA, introduced the qSOFA, and removed the systemic inflammatory response syndrome (SIRS) criteria from the sepsis definition.To externally validate and assess the discriminatory capacities of an \u2026",
+            "Validation of prognostic accuracy of the SOFA score, SIRS criteria, and qSOFA score for in\u2010hospital mortality among cardiac\u2010, thoracic\u2010, and vascular\u2010surgery patients admitted \u2026",
+            "Yuchong Zhang and Haidong Luo and Hai Wang and Zhichao Zheng and Oon Cheong Ooi",
+            "2020",
+            "DEM_d_gAAAAJ:ULOm3_A8WrAC",
+            8,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1111\/jocs.14331",
+            "18001347117238125780",
+            "\/scholar?cites=18001347117238125780",
+            {
+                "2020":6,
+                "2021":2
+            }
+        ],
+        [
+            "We study the effects of rescheduling on no-show behavior in an outpatient appointment system for both new and follow-up patients. Previous literature has primarily focused on new patients and investigated the role of waiting time on no-show probability. We offer a more nuanced understanding of this costly phenomenon. Using comprehensive clinical data, we demonstrate that for follow-up patients, their no-show probability decreases by 10.9 percentage points if their appointments were rescheduled at their own request, but increases by 6.2 percentage points if they were rescheduled by the clinic. New patients, in contrast, are less sensitive to who initiates rescheduling. Their no-show probability decreases by 2.3 percentage points if their appointments were rescheduled at their own request, and increases by 3.2 percentage points\u2014but is statistically insignificant at the 10% level\u2014if they were rescheduled by the \u2026",
+            "Effects of rescheduling on patient no-show behavior in outpatient clinics",
+            "Jiayi Liu and Jingui Xie and Kum Khiong Yang and Zhichao Zheng",
+            "2019",
+            "DEM_d_gAAAAJ:Se3iqnhoufwC",
+            7,
+            "https:\/\/pubsonline.informs.org\/doi\/abs\/10.1287\/msom.2018.0724",
+            "13890235986143949803",
+            "\/scholar?cites=13890235986143949803",
+            {
+                "2019":1,
+                "2020":6
+            }
+        ],
+        [
+            "Data availability and advancement in machine learning techniques make accurate prediction of the future a foreseeable reality. How to efficiently utilize the predictive information in a multistage medical decision-making environment, however, remains understudied. In this paper, we develop a discrete-time, finite-horizon Markov decision process model, incorporating perfect predictive information, to support decisions on medical treatment continuation. We extend our framework to a situation with prediction errors, using a partially observable Markov decision process. We characterize the structure of the optimal policies under both settings and show that knowing predictive information can lead to significantly different decision protocols. We calibrate and test our models with an extubation problem in an intensive care unit (ICU). Using a patient-level data set, we compare the performance of different extubation policies and demonstrate that incorporating predictive information can decrease extubation failure rate and reduce ICU length-of-stay of ventilated patients, especially for patients with poor initial conditions.",
+            "Optimal Stopping for Medical Treatment with Predictive Information",
+            "Guang Cheng and Jingui Xie and Zhichao Zheng",
+            "2019",
+            "DEM_d_gAAAAJ:KlAtU1dfN6UC",
+            5,
+            "https:\/\/papers.ssrn.com\/sol3\/papers.cfm?abstract_id=3397530",
+            "14311470592563375987",
+            "\/scholar?cites=14311470592563375987",
+            {
+                "2019":1,
+                "2020":4
+            }
+        ]
+    ]
+}

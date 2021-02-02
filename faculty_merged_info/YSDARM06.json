@@ -1,0 +1,31 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "YSDARM06",
+            "mgaNL18AAAAJ",
+            [
+                "The state-based testing of object-oriented programs",
+                "Techniques for selective revalidation"
+            ],
+            [
+                "State-based testing, a technique used for the validation of object-oriented programs with emphasis on the interaction between the features and the object's state, is described. Because of the nature of the technique, the random order in which features can be invoked is taken into account. The technique is complementary to other functional and structural approaches to validation. A suite of tools to support the state-based testing of object-oriented programs is also outlined. The adaptation of traditional validation techniques to the object-oriented programming model is also discussed.< >",
+                "The authors address the question of how to decide which test cases to rerun after a modification. They emphasize that it is important that these tests be selected systematically, because executing an entire test suite to validate a few modifications can consume large amounts of time and computational resources and involve many people, and it is unreliable to exercise a system by selecting test cases intuitively or randomly. They develop a revalidation strategy that is based on an extension of the Fischer algorithm (see K.F. Fischer et al., Proc. Nat. Telecom. Conf., 1981, p.B6.3.1-B6.3.6). Fischer's revalidation technique is based on a zero-one integer programming model. The authors implement a prototype environment based on his methodology.< >"
+            ],
+            [
+                [
+
+                ]
+            ]
+        ]
+    ]
+}

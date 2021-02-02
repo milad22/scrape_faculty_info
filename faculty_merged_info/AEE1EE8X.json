@@ -1,0 +1,41 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "AEE1EE8X",
+            "3AvyAbUAAAAJ",
+            [
+                "DNA molecules and configurations in a solid-state nanopore microscope",
+                "Detecting single stranded DNA with a solid state nanopore",
+                "Optogenetic manipulation of neural activity in freely moving Caenorhabditis elegans",
+                "Optogenetic manipulation of neural activity in freely moving Caenorhabditis elegans",
+                "Recapturing and trapping single molecules with a solid-state nanopore",
+                "Proprioceptive coupling within motor neurons drives C. elegans forward locomotion"
+            ],
+            [
+                "A nanometre-scale pore in a solid-state membrane provides a new way of electronically probing the structure of single linear polymers, including those of biological interest in their native environments. Previous work with biological protein pores wide enough to let through and sense single-stranded DNA molecules demonstrates the power of using nanopores, but many future tasks and applications call for a robust solid-state pore whose nanometre-scale dimensions and properties may be selected, as one selects the lenses of a microscope. Here we demonstrate a solid-state nanopore microscope capable of observing individual molecules of double-stranded DNA and their folding behaviour. We discuss extensions of the nanopore microscope concept to alternative probing mechanisms and applications, including the study of molecular structure and sequencing.",
+                "Voltage biased solid-state nanopores are used to detect and characterize individual single stranded DNA molecules of fixed micrometer length by operating a nanopore detector at pH values greater than \u223c11.6. The distribution of observed molecular event durations and blockade currents shows that a significant fraction of the events obey a rule of constant event charge deficit (ecd) indicating that they correspond to molecules translocating through the nanopore in a distribution of folded and unfolded configurations. A surprisingly large component is unfolded. The result is an important milestone in developing solid-state nanopores for single molecule sequencing applications. ",
+                "We present an optogenetic illumination system capable of real-time light delivery with high spatial resolution to specified targets in freely moving Caenorhabditis elegans. A tracking microscope records the motion of an unrestrained worm expressing channelrhodopsin-2 or halorhodopsin in specific cell types. Image processing software analyzes the worm's position in each video frame, rapidly estimates the locations of targeted cells and instructs a digital micromirror device to illuminate targeted cells with laser light of the appropriate wavelengths to stimulate or inhibit activity. Because each cell in an unrestrained worm is a rapidly moving target, our system operates at high speed (\u223c 50 frames per second) to provide high spatial resolution (\u223c 30 \u03bcm). To test the accuracy, flexibility and utility of our system, we performed optogenetic analyses of the worm motor circuit, egg-laying circuit and mechanosensory circuits \u2026",
+                "We present an optogenetic illumination system capable of real-time light delivery with high spatial resolution to specified targets in freely moving Caenorhabditis elegans. A tracking microscope records the motion of an unrestrained worm expressing channelrhodopsin-2 or halorhodopsin in specific cell types. Image processing software analyzes the worm's position in each video frame, rapidly estimates the locations of targeted cells and instructs a digital micromirror device to illuminate targeted cells with laser light of the appropriate wavelengths to stimulate or inhibit activity. Because each cell in an unrestrained worm is a rapidly moving target, our system operates at high speed (\u223c 50 frames per second) to provide high spatial resolution (\u223c 30 \u03bcm). To test the accuracy, flexibility and utility of our system, we performed optogenetic analyses of the worm motor circuit, egg-laying circuit and mechanosensory circuits \u2026",
+                "The development of solid-state nanopores 1, 2, 3, 4, 5, 6, 7, inspired by their biological counterparts 8, 9, 10, 11, 12, 13, 14, 15, shows great potential for the study of single macromolecules 16, 17, 18, 19, 20, 21. Applications such as DNA sequencing 6, 22, 23 and the exploration of protein folding 6 require control of the dynamics of the molecule's interaction with the pore, but DNA capture by a solid-state nanopore is not well understood 24, 25, 26. By recapturing individual molecules soon after they pass through a nanopore, we reveal the mechanism by which double-stranded DNA enters the pore. The observed recapture rates and times agree with solutions of a drift-diffusion model. Electric forces draw DNA to the pore over micrometer-scale distances, and upon arrival at the pore, molecules begin translocation almost immediately. Repeated translocation of the same molecule improves measurement accuracy \u2026",
+                "Locomotion requires coordinated motor activity throughout an animal\u2019s body. In both vertebrates and invertebrates, chains of coupled central pattern generators (CPGs) are commonly evoked to explain local rhythmic behaviors. In C. elegans, we report that proprioception within the motor circuit is responsible for propagating and coordinating rhythmic undulatory waves from head to tail during forward movement. Proprioceptive coupling between adjacent body regions transduces rhythmic movement initiated near the head into bending waves driven along the body by a chain of reflexes. Using optogenetics and calcium imaging to manipulate and monitor motor circuit activity of moving C. elegans held in microfluidic devices, we found that the B-type cholinergic motor neurons transduce the proprioceptive signal. In C. elegans, a sensorimotor feedback loop operating within a specific type of motor neuron both drives \u2026"
+            ],
+            [
+                [
+                    "Neuroscience",
+                    "Soft Matter",
+                    "Statistical Physics"
+                ]
+            ]
+        ]
+    ]
+}

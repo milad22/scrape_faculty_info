@@ -1,0 +1,114 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "UDxSnZsAAAAJ",
+            "German Kolmakov",
+            "NYC College of Technology CUNY",
+            "@citytech.cuny.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=UDxSnZsAAAAJ",
+            1640,
+            [
+                "Condensed matter physics",
+                "nonlinear physics",
+                "soft matter"
+            ],
+            591,
+            21,
+            13,
+            39,
+            15,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"W1qfc3oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"PVE McClintock",
+                    "affiliation":"Lancaster University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"TSkli5EAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Krzysztof Matyjaszewski",
+                    "affiliation":"Carnegie Mellon University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"8cRI9gYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alfred J. Crosby",
+                    "affiliation":"Polymer Science & Engineering, University of Massachusetts Amherst"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"snZjaHMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Leonid Abdurakhimov",
+                    "affiliation":"NTT Basic Research Laboratories"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"LcJRZtoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Igor Aronson",
+                    "affiliation":"Pennsylvania State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"tZOfNioAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Steven P. Levitan",
+                    "affiliation":"Professor of Electrical and Computer Engineering, University of Pittsburgh"
+                }
+            ]
+        ]
+    ]
+}

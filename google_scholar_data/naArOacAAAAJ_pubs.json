@@ -1,0 +1,81 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3
+    ],
+    "data":[
+        [
+            "We introduce a pragmatic algorithm for real-time adaptive super-sampling in games. It extends temporal antialiasing of rasterized images with adaptive ray tracing, and conforms to the constraints of a commercial game engine and today's GPU ray tracing APIs. The algorithm removes blurring and ghosting artifacts associated with standard temporal antialiasing and achieves quality approaching 8x supersampling of geometry, shading, and materials while staying within the 33ms frame budget required of most games.",
+            "Adaptive temporal antialiasing",
+            "Adam Marrs and Josef Spjut and Holger Gruen and Rahul Sathe and Morgan McGuire",
+            "2018",
+            "naArOacAAAAJ:2osOgNQ5qMEC",
+            16,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/3231578.3231579",
+            "16972910272398658467",
+            "\/scholar?cites=16972910272398658467",
+            {
+                "2018":1,
+                "2019":6,
+                "2020":9
+            }
+        ],
+        [
+            "Modern graphics APIs such as DirectX 12 expose low-level hardware access and control to developers, often resulting in complex and verbose code that can be intimidating for novices. In this chapter, we hope to demystify the steps to set up and use DirectX for ray tracing.",
+            "Introduction to DirectX Raytracing",
+            "Chris Wyman and Adam Marrs",
+            "2019",
+            "naArOacAAAAJ:UeHWp8X0CEIC",
+            14,
+            "https:\/\/link.springer.com\/chapter\/10.1007\/978-1-4842-4427-2_3",
+            "16617787010596481246",
+            "\/scholar?cites=16617787010596481246",
+            {
+                "2019":3,
+                "2020":11
+            }
+        ],
+        [
+            "Existing graphics hardware parallelizes view generation poorly, placing many multi-view effects\u2013such as soft shadows, defocus blur, and reflections\u2013out of reach for real-time applications. We present emerging solutions that address this problem using a high density point set tailored per frame to the current multi-view configuration, coupled with relatively simple reconstruction kernels. Points are a more flexible rendering primitive, which we leverage to render many high resolution views in parallel. Preliminary results show our approach accelerates point generation and the rendering of multi-view soft shadows up to 9\u00d7.",
+            "Real-Time View Independent Rasterization for Multi-View Rendering.",
+            "Adam Marrs and Benjamin Watson and Christopher G Healey",
+            "2017",
+            "naArOacAAAAJ:d1gkVwhDpl0C",
+            5,
+            "https:\/\/diglib.eg.org\/bitstream\/handle\/10.2312\/egsh20171004\/017-020.pdf?sequence=1&isAllowed=y",
+            "5554826378288480235",
+            "\/scholar?cites=5554826378288480235",
+            {
+                "2020":5
+            }
+        ],
+        [
+            "Rendering soft shadows cast by dynamic objects in real time with few visual artifacts is challenging to achieve. We introduce a new algorithm for local light sources that exhibits fewer artifacts than fast single-view approximations and is faster than high-quality multiview solutions. Inspired by layered depth images, image warping, and point-based rendering, our algorithm traverses complex occluder geometry once and creates an optimized multiview point cloud as a proxy. We then render many depth maps simultaneously on graphics hardware using GPU Compute. By significantly reducing the time spent producing depth maps, our solution presents a new alternative for applications that cannot yet afford the most accurate methods, but that strive for higher quality shadows than possible with common approximations.",
+            "View-warped Multi-view Soft Shadows for Local Area Lights",
+            "Adam Marrs and Benjamin Watson and Christopher Healey",
+            "2018",
+            "naArOacAAAAJ:9yKSN-GCB0IC",
+            2,
+            "http:\/\/www.jcgt.org\/published\/0007\/03\/01\/paper-lowres.pdf",
+            "8889017624896385248",
+            "\/scholar?cites=8889017624896385248",
+            {
+                "2020":2
+            }
+        ]
+    ]
+}

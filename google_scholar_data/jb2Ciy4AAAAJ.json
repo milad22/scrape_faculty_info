@@ -1,0 +1,78 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "jb2Ciy4AAAAJ",
+            "Joel Fuentes",
+            "Intel Corporation, Universidad del B\u00edo-B\u00edo",
+            "@intel.com",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=jb2Ciy4AAAAJ",
+            26,
+            [
+                "Compilers",
+                "Accelerators",
+                "HPC"
+            ],
+            25,
+            2,
+            2,
+            0,
+            0,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"szsAigoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Isaac D. Scherson",
+                    "affiliation":"Professor, Computer Science-Systems, University of California, Irvine."
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ZY5jURMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gilberto Guti\u00e9rrez",
+                    "affiliation":"Computer Science, Universidad del B\u00edo-B\u00edo"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"OXtV92oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Guilherme Amadio",
+                    "affiliation":"CERN"
+                }
+            ]
+        ]
+    ]
+}

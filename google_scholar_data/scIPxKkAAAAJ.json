@@ -1,0 +1,112 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "scIPxKkAAAAJ",
+            "Kyu-Sung Hwang",
+            "Associate Professor of Electronics Engineering, Kyungil University",
+            "@kiu.ac.kr",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=scIPxKkAAAAJ",
+            838,
+            [
+                "Wireless Communication"
+            ],
+            326,
+            13,
+            9,
+            18,
+            9,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"HqIyyXcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Prof. Mohamed-Slim Alouini",
+                    "affiliation":"Wireless CT Lab, King Abdullah University of Science and Technology (KAUST), Kingdom of Saudi Arabia"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"dhUBIZAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"MinChul Ju",
+                    "affiliation":"Kookmin University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"zxKrYDQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Cheol Jeong",
+                    "affiliation":"Assistant Professor, Sejong University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"J3MkR7EAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hong-Chuan Yang",
+                    "affiliation":"Professor of Electrical Engineering, University of Victoria"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"psODAXYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Chang Kyung Sung",
+                    "affiliation":"CSIRO"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"7JsH7WkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"MD Jahangir Hossain",
+                    "affiliation":"Associate Professor, School of Engineering, The University of British Columbia, Kelowna, Canada"
+                }
+            ]
+        ]
+    ]
+}

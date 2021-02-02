@@ -1,0 +1,67 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "-XDAZnsAAAAJ",
+            "Francesco Ticozzi",
+            "Associate Professor of System Theory, University of Padua",
+            "@dei.unipd.it",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=-XDAZnsAAAAJ",
+            1273,
+            [
+                "Quantum Control",
+                "System Theory",
+                "Quantum Information",
+                "Linear Algebra"
+            ],
+            686,
+            19,
+            15,
+            30,
+            20,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"aoZ0mC8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Lorenza Viola",
+                    "affiliation":"Professor of Physics, Dartmouth College"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"t6F0uycAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Claudio Altafini",
+                    "affiliation":"Prof. of Automatic Control, Linkoping University"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "rUEZsbYAAAAJ",
+            "Amna Ijaz",
+            "Doctoral student, Department of Chemistry, Michigan Technological University",
+            "@mtu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=rUEZsbYAAAAJ",
+            285,
+            [
+                "dissolved organic matter",
+                "mass spectrometry",
+                "analytical chemistry",
+                "water restoration"
+            ],
+            282,
+            7,
+            7,
+            7,
+            6,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"VJDfvoEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Muhammad Afzal",
+                    "affiliation":"Soil and Environmental Biotechnology Division, NIBGE"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"tkFmN-wAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ghulam Shabir",
+                    "affiliation":"Soil and Environmental Biotechnology Division  NIBGE, Faisalabad, Pakistan"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"CGskx0MAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Amer Jamal Hashmat",
+                    "affiliation":"Environmental Biotechnology Division, NIBGE, Faisalabad"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"UfnjYXQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Razia Tahseen",
+                    "affiliation":"NIBGE"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ldUyrY4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hans Brix",
+                    "affiliation":"Aarhus University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"48aQjt0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Muhammad Arslan",
+                    "affiliation":"University of Alberta, UFZ-Umweltforschungszentrum, RWTH Aachen University, KFUPM"
+                }
+            ]
+        ]
+    ]
+}

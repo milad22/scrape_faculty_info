@@ -1,0 +1,253 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Exact first-principles calculations of molecular properties are currently intractable because their computational cost grows exponentially with both the number of atoms and basis set size. A solution is to move to a radically different model of computing by building a quantum computer, which is a device that uses quantum systems themselves to store and process data. Here we report the application of the latest photonic quantum computer technology to calculate properties of the smallest molecular system: the hydrogen molecule in a minimal basis. We calculate the complete energy spectrum to 20 bits of precision and discuss how the technique can be expanded to solve large-scale chemical problems that lie beyond the reach of modern supercomputers. These results represent an early practical step toward a powerful tool with a broad range of quantum-chemical applications.",
+            "Towards quantum chemistry on a quantum computer",
+            "Benjamin P Lanyon and James D Whitfield and GG Gillett and Michael E Goggin and Marcelo P Almeida and Ivan Kassal and Jacob D Biamonte and Masoud Mohseni and Ben J Powell and Marco Barbieri and Al\u00e1n Aspuru-Guzik and Andrew G White",
+            "2010",
+            "XLMWVzQAAAAJ:u5HHmVD_uO8C",
+            599,
+            "https:\/\/www.nature.com\/articles\/nchem.483",
+            "12272795213608712672",
+            "\/scholar?cites=12272795213608712672",
+            {
+                "2008":2,
+                "2009":3,
+                "2010":26,
+                "2011":35,
+                "2012":40,
+                "2013":38,
+                "2014":56,
+                "2015":42,
+                "2016":47,
+                "2017":44,
+                "2018":79,
+                "2019":87,
+                "2020":87,
+                "2021":6
+            }
+        ],
+        [
+            "Over the last century, a large number of physical and mathematical developments paired with rapidly advancing technology have allowed the field of quantum chemistry to advance dramatically. However, the lack of computationally efficient methods for the exact simulation of quantum systems on classical computers presents a limitation of current computational approaches. We report, in detail, how a set of pre-computed molecular integrals can be used to explicitly create a quantum circuit, i.e. a sequence of elementary quantum operations, that, when run on a quantum computer, obtains the energy of a molecular system with fixed nuclear geometry using the quantum phase estimation algorithm. We extend several known results related to this idea and discuss the adiabatic state preparation procedure for preparing the input states used in the algorithm. With current and near future quantum devices in mind, we \u2026",
+            "Simulation of electronic structure Hamiltonians using quantum computers",
+            "James D Whitfield and Jacob Biamonte and Al\u00e1n Aspuru-Guzik",
+            "2011",
+            "XLMWVzQAAAAJ:IjCSPb-OGe4C",
+            313,
+            "https:\/\/www.tandfonline.com\/doi\/abs\/10.1080\/00268976.2011.552441",
+            "9252436142253050007",
+            "\/scholar?cites=9252436142253050007",
+            {
+                "2010":2,
+                "2011":5,
+                "2012":11,
+                "2013":19,
+                "2014":28,
+                "2015":21,
+                "2016":20,
+                "2017":24,
+                "2018":50,
+                "2019":54,
+                "2020":74,
+                "2021":5
+            }
+        ],
+        [
+            "The difficulty of simulating quantum systems, well known to quantum chemists, prompted the idea of quantum computation. One can avoid the steep scaling associated with the exact simulation of increasingly large quantum systems on conventional computers, by mapping the quantum system to another, more controllable one. In this review, we discuss to what extent the ideas in quantum computation, now a well-established field, have been applied to chemical problems. We describe algorithms that achieve significant advantages for the electronic-structure problem, the simulation of chemical dynamics, protein folding, and other tasks. Although theory is still ahead of experiment, we outline recent advances that have led to the first chemical calculations on small quantum information processors.",
+            "Simulating chemistry using quantum computers",
+            "Ivan Kassal and James D Whitfield and Alejandro Perdomo-Ortiz and Man-Hong Yung and Al\u00e1n Aspuru-Guzik",
+            "2010",
+            "XLMWVzQAAAAJ:u-x6o8ySG0sC",
+            259,
+            "https:\/\/www.annualreviews.org\/doi\/abs\/10.1146\/annurev-physchem-032210-103512",
+            "7391568622407358956",
+            "\/scholar?cites=7391568622407358956",
+            {
+                "2010":1,
+                "2011":11,
+                "2012":19,
+                "2013":18,
+                "2014":39,
+                "2015":27,
+                "2016":21,
+                "2017":20,
+                "2018":27,
+                "2019":29,
+                "2020":43,
+                "2021":3
+            }
+        ],
+        [
+            "Quantum computers can in principle simulate quantum physics exponentially faster than their classical counterparts, but some technical hurdles remain. We propose methods which substantially improve the performance of a particular form of simulation, ab initio quantum chemistry, on fault-tolerant quantum computers; these methods generalize readily to other quantum simulation problems. Quantum teleportation plays a key role in these improvements and is used extensively as a computing resource. To improve execution time, we examine techniques for constructing arbitrary gates which perform substantially faster than circuits based on the conventional Solovay\u2013Kitaev algorithm (Dawson and Nielsen 2006 Quantum Inform. Comput. 6 81). For a given approximation error epsilon, arbitrary single-qubit gates can be produced fault-tolerantly and using a restricted set of gates in time which is O (log epsilon) or O \u2026",
+            "Faster quantum chemistry simulation on fault-tolerant quantum computers",
+            "N Cody Jones and James D Whitfield and Peter L McMahon and Man-Hong Yung and Rodney Van Meter and Al\u00e1n Aspuru-Guzik and Yoshihisa Yamamoto",
+            "2012",
+            "XLMWVzQAAAAJ:KlAtU1dfN6UC",
+            126,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/1367-2630\/14\/11\/115023\/meta",
+            "16714215903253148210",
+            "\/scholar?cites=16714215903253148210",
+            {
+                "2012":5,
+                "2013":15,
+                "2014":16,
+                "2015":15,
+                "2016":11,
+                "2017":10,
+                "2018":21,
+                "2019":16,
+                "2020":15,
+                "2021":2
+            }
+        ],
+        [
+            "We introduce the quantum stochastic walk (QSW), which determines the evolution of a generalized quantum-mechanical walk on a graph that obeys a quantum stochastic equation of motion. Using an axiomatic approach, we specify the rules for all possible quantum, classical, and quantum-stochastic transitions from a vertex as defined by its connectivity. We show how the family of possible QSWs encompasses both the classical random walk (CRW) and the quantum walk (QW) as special cases but also includes more general probability distributions. As an example, we study the QSW on a line and the glued tree of depth three to observe the behavior of the QW-to-CRW transition.",
+            "Quantum stochastic walks: A generalization of classical random walks and quantum walks",
+            "James D Whitfield and C\u00e9sar A Rodr\u00edguez-Rosario and Al\u00e1n Aspuru-Guzik",
+            "2010",
+            "XLMWVzQAAAAJ:d1gkVwhDpl0C",
+            103,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.81.022323",
+            "14046474653323559931",
+            "\/scholar?cites=14046474653323559931",
+            {
+                "2010":5,
+                "2011":4,
+                "2012":14,
+                "2013":8,
+                "2014":5,
+                "2015":2,
+                "2016":11,
+                "2017":12,
+                "2018":10,
+                "2019":14,
+                "2020":17,
+                "2021":1
+            }
+        ],
+        [
+            "Ab initio computation of molecular properties is one of the most promising applications of quantum computing. While this problem is widely believed to be intractable for classical computers, efficient quantum algorithms exist which have the potential to vastly accelerate research throughput in fields ranging from material science to drug discovery. Using a solid-state quantum register realized in a nitrogen-vacancy (NV) defect in diamond, we compute the bond dissociation curve of the minimal basis helium hydride cation, HeH+. Moreover, we report an energy uncertainty (given our model basis) of the order of 10\u201314 hartree, which is 10 orders of magnitude below the desired chemical precision. As NV centers in diamond provide a robust and straightforward platform for quantum information processing, our work provides an important step toward a fully scalable solid-state implementation of a quantum chemistry \u2026",
+            "Quantum simulation of helium hydride cation in a solid-state spin register",
+            "Ya Wang and Florian Dolde and Jacob Biamonte and Ryan Babbush and Ville Bergholm and Sen Yang and Ingmar Jakobi and Philipp Neumann and Al\u00e1n Aspuru-Guzik and James D Whitfield and Jo\u0308rg Wrachtrup",
+            "2015",
+            "XLMWVzQAAAAJ:DyXnQzXoVgIC",
+            101,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acsnano.5b01651",
+            "11041712031848348071",
+            "\/scholar?cites=11041712031848348071",
+            {
+                "2014":2,
+                "2015":6,
+                "2016":8,
+                "2017":16,
+                "2018":20,
+                "2019":24,
+                "2020":22,
+                "2021":3
+            }
+        ],
+        [
+            "Quantum ground-state problems are computationally hard problems for general many-body Hamiltonians; there is no classical or quantum algorithm known to be able to solve them efficiently. Nevertheless, if a trial wavefunction approximating the ground state is available, as often happens for many problems in physics and chemistry, a quantum computer could employ this trial wavefunction to project the ground state by means of the phase estimation algorithm (PEA). We performed an experimental realization of this idea by implementing a variational-wavefunction approach to solve the ground-state problem of the Heisenberg spin model with an NMR quantum simulator. Our iterative phase estimation procedure yields a high accuracy for the eigenenergies (to the 10\u2212 5 decimal digit). The ground-state fidelity was distilled to be more than 80% and the singlet-to-triplet switching near the critical field is reliably \u2026",
+            "Solving Quantum Ground-State Problems with Nuclear Magnetic Resonance",
+            "Zhaokai Li and Man-Hong Yung and Hongwei Chen and Dawei Lu and James D Whitfield and Xinhua Peng and Al\u00e1n Aspuru-Guzik and Jiangfeng Du",
+            "2011",
+            "XLMWVzQAAAAJ:Tyk-4Ss8FVUC",
+            61,
+            "https:\/\/www.nature.com\/articles\/srep00088",
+            "5169150992609315997",
+            "\/scholar?cites=5169150992609315997",
+            {
+                "2011":1,
+                "2012":8,
+                "2013":6,
+                "2014":8,
+                "2015":7,
+                "2016":4,
+                "2017":6,
+                "2018":8,
+                "2019":4,
+                "2020":9
+            }
+        ],
+        [
+            "Simulating fermionic lattice models with qubits requires mapping fermionic degrees of freedom to qubits. The simplest method for this task, the Jordan-Wigner transformation, yields strings of Pauli operators acting on an extensive number of qubits. This overhead can be a hindrance to implementation of qubit-based quantum simulators, especially in the analog context. Here we thus review and analyze alternative fermion-to-qubit mappings, including the two approaches by Bravyi and Kitaev and the auxiliary fermion transformation. The Bravyi-Kitaev transform is reformulated in terms of a classical data structure and generalized to achieve a further locality improvement for local fermionic models on a rectangular lattice. We conclude that the most compact encoding of the fermionic operators can be done using ancilla qubits with the auxiliary fermion scheme. Without introducing ancillas, a variant of the Bravyi-Kitaev \u2026",
+            "Operator locality in the quantum simulation of fermionic models",
+            "Vojt\u011bch Havl\u00ed\u010dek and Matthias Troyer and James D Whitfield",
+            "2017",
+            "XLMWVzQAAAAJ:v6i8RKmR8ToC",
+            60,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.95.032332",
+            "14521078192435125903",
+            "\/scholar?cites=14521078192435125903",
+            {
+                "2017":2,
+                "2018":16,
+                "2019":19,
+                "2020":17,
+                "2021":1
+            }
+        ],
+        [
+            "Present quantum computers often work with distinguishable qubits as their computational units. In order to simulate indistinguishable fermionic particles, it is first required to map the fermionic state to the state of the qubits. The Bravyi-Kitaev Superfast (BKSF) algorithm can be used to accomplish this mapping. The BKSF mapping has connections to quantum error correction and opens the door to new ways of understanding fermionic simulation in a topological context. Here, we present the first detailed exposition of the BKSF algorithm for molecular simulation. We provide the BKSF transformed qubit operators and report on our implementation of the BKSF fermion-to-qubits transform in OpenFermion. In this initial study of a hydrogen molecule we have compared BKSF, Jordan-Wigner, and Bravyi-Kitaev transforms under the Trotter approximation. The gate count to implement BKSF is lower than Jordan-Wigner but \u2026",
+            "Bravyi-Kitaev Superfast simulation of electronic structure on a quantum computer",
+            "Kanav Setia and James D Whitfield",
+            "2018",
+            "XLMWVzQAAAAJ:ghEM2AJqZyQC",
+            56,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.5019371",
+            "7175818120274244226",
+            "\/scholar?cites=7175818120274244226",
+            {
+                "2018":7,
+                "2019":22,
+                "2020":24,
+                "2021":2
+            }
+        ],
+        [
+            "B. Simulation of Time Evolution 1. Suzuki\u2013Trotter Formulas 2. First-Quantized Representation 3. Second-Quantized Representation 4. Open-System Dynamics C. State Preparation 1. Preparing Ground States 2. Preparing Thermal States Using Quantum Metropolis 3. Preparing Thermal States with Perturbative Updates",
+            "Introduction to quantum algorithms for physics and chemistry",
+            "Man-Hong Yung and James D Whitfield and Sergio Boixo and David G Tempel and Aln Aspuru-Guzik",
+            "2014",
+            "XLMWVzQAAAAJ:LkGwnXOMwfcC",
+            56,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/pdf\/10.1002\/9781118742631#page=83",
+            "4182702953903199305",
+            "\/scholar?cites=4182702953903199305",
+            {
+                "2013":3,
+                "2014":6,
+                "2015":7,
+                "2016":2,
+                "2017":8,
+                "2018":3,
+                "2019":7,
+                "2020":16
+            }
+        ]
+    ]
+}

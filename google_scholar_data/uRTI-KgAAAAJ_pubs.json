@@ -1,0 +1,33 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Recent work on the subject of isolated quantum thermalization has suggested that an individual energy eigenstate of a non-integrable quantum system may encode a significant amount of information about that system's Hamiltonian. We provide a theoretical argument, along with supporting numerics, that this information includes the critical behaviour of a system with a second-order, finite-temperature phase transition.",
+            "Does a Single Eigenstate of a Hamiltonian Encode the Critical Behaviour of its Finite-Temperature Phase Transition?",
+            "Keith R Fratus and Syrian V Truong",
+            "2018",
+            "uRTI-KgAAAAJ:u5HHmVD_uO8C",
+            1,
+            "https:\/\/arxiv.org\/abs\/1810.11092",
+            "16596454656202090887",
+            "\/scholar?cites=16596454656202090887",
+            {
+                "2019":1
+            }
+        ]
+    ]
+}

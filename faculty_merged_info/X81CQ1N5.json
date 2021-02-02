@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "X81CQ1N5",
+            "mmu6gCUAAAAJ",
+            [
+                "Handbook of LHC Higgs cross sections: 3. Higgs properties",
+                "Reducing full one-loop amplitudes to scalar integrals at the integrand level",
+                "CutTools: a program implementing the OPP reduction method to compute one-loop amplitudes",
+                "Automated one-loop calculations with GoSam",
+                "Updated Next-to-Next-to-Leading-Order QCD Predictions for the Weak Radiative -Meson Decays",
+                "On the Rational Terms of the one-loop amplitudes",
+                "GOSAM-2.0: a tool for automated one-loop calculations within the Standard Model and beyond",
+                "Scattering amplitudes from unitarity-based reduction algorithm at the integrand-level",
+                "NLO QCD corrections to tri-boson production",
+                "Optimizing the reduction of one-loop amplitudes"
+            ],
+            [
+                "This Report summarizes the results of the activities in 2012 and the first half of 2013 of the LHC Higgs Cross Section Working Group. The main goal of the working group was to present the state of the art of Higgs Physics at the LHC, integrating all new results that have appeared in the last few years. This report follows the first working group report Handbook of LHC Higgs Cross Sections: 1. Inclusive Observables (CERN-2011-002) and the second working group report Handbook of LHC Higgs Cross Sections: 2. Differential Distributions (CERN-2012-002). After the discovery of a Higgs boson at the LHC in mid-2012 this report focuses on refined prediction of Standard Model (SM) Higgs phenomenology around the experimentally observed value of 125-126 GeV, refined predictions for heavy SM-like Higgs bosons as well as predictions in the Minimal Supersymmetric Standard Model and first steps to go beyond these models. The other main focus is on the extraction of the characteristics and properties of the newly discovered particle such as couplings to SM particles, spin and CP-quantum numbers etc.",
+                "We show how to extract the coefficients of the 4-, 3-, 2- and 1-point one-loop scalar integrals from the full one-loop amplitude of arbitrary scattering processes. In a similar fashion, also the rational terms can be derived. Basically no information on the analytical structure of the amplitude is required, making our method appealing for an efficient numerical implementation.",
+                "We present a program that implements the OPP reduction method to extract the coefficients of the one-loop scalar integrals from a user defined (sub)-amplitude or Feynman Diagram, as well as the rational terms coming from the 4-dimensional part of the numerator. The rational pieces coming from the epsilon-dimensional part of the numerator are treated as an external input, and can be computed with the help of dedicated tree-level like Feynman rules. Possible numerical instabilities are dealt with the help of arbitrary precision routines, that activate only when needed.",
+                "We present the program package GoSam which is designed for the automated calculation of one-loop amplitudes for multi-particle processes in renormalisable quantum field theories. The amplitudes, which are generated in terms of Feynman diagrams, can be reduced using either D-dimensional integrand-level decomposition or tensor reduction. GoSam can be used to calculate one-loop QCD and\/or electroweak corrections to Standard Model processes and offers the flexibility to link model files for theories Beyond the Standard Model. A standard interface to programs calculating real radiation is also implemented. We demonstrate the flexibility of the program by presenting examples of processes with up to six external legs attached to the loop.",
+                "Weak radiative decays of the B mesons belong to the most important flavor changing processes that provide constraints on physics at the TeV scale. In the derivation of such constraints, accurate standard model predictions for the inclusive branching ratios play a crucial role. In the current Letter we present an update of these predictions, incorporating all our results for the O (\u03b1 s 2) and lower-order perturbative corrections that have been calculated after 2006. New estimates of nonperturbative effects are taken into account, too. For the C P-and isospin-averaged branching ratios, we find B s \u03b3=(3.36\u00b10.23)\u00d7 10\u2212 4 and B d \u03b3=(1.7 3\u2212 0.22+ 0.12)\u00d7 10\u2212 5, for E \u03b3> 1.6 GeV. Both results remain in agreement with the current experimental averages. Normalizing their sum to the inclusive semileptonic branching ratio, we obtain R \u03b3\u2261(B s \u03b3+ B d \u03b3)\/B c \u2113 \u03bd=(3.31\u00b10.22)\u00d7 10\u2212 3. A new bound from B s \u03b3 on the charged Higgs boson \u2026",
+                "The various sources of Rational Terms contributing to the one-loop amplitudes are critically discussed. We show that the terms originating from the generic (n\u2212 4)-dimensional structure of the numerator of the one-loop amplitude can be derived by using appropriate Feynman rules within a tree-like computation. For the terms that originate from the reduction of the 4-dimensional part of the numerator, we present two different strategies and explicit algorithms to compute them.",
+                "We present the version 2.0 of the program package GoSam for the automated calculation of one-loop amplitudes. GoSam is devised to compute one-loop QCD and\/or electroweak corrections to multi-particle processes within and beyond the Standard Model. The new code contains improvements in the generation and in the reduction of the amplitudes, performs better in computing time and numerical accuracy, and has an extended range of applicability. The extended version of the \u201cBinoth-Les-Houches-Accord\u201d interface to Monte Carlo programs is also implemented. We give a detailed description of installation and usage of the code, and illustrate the new features in dedicated examples.",
+                "samurai is a tool for the automated numerical evaluation of one-loop corrections to any scattering amplitudes within the dimensional-regularization scheme. It is based on the decomposition of the integrand according to the OPP-approach, extended to accommodate an implementation of the generalized d-dimensional unitarity-cuts technique, and uses a polynomial interpolation exploiting the Discrete Fourier Transform. samurai can process integrands written either as numerator of Feynman diagrams or as product of tree-level amplitudes. We discuss some applications, among which the 6-and 8-photon scattering in QED, and the 6-quark scattering in QCD. samurai has been implemented as a Fortran90 library, publicly available, and it could be a useful module for the systematic evaluation of the virtual corrections oriented towards automating next-to-leading order calculations relevant for the LHC phenomenology.",
+                "We present a calculation of the NLO QCD corrections for the production of three vector bosons at the LHC, namely ZZZ, W+ W\u2212 Z, W+ ZZ, and W+ W\u2212 W+ production. The virtual corrections are computed using the recently proposed method of reduction at the integrand level (OPP reduction). Concerning the contributions coming from real emission we used the dipole subtraction to treat the soft and collinear divergences. We find that the QCD corrections for these electroweak processes are in the range between 70 and 100 percent. As such they have to be considered in experimental studies of triple vector boson production at the LHC.",
+                "We present an optimization of the reduction algorithm of one-loop amplitudes in terms of master integrals. It is based on the exploitation of the polynomial structure of the integrand when evaluated at values of the loop-momentum fulfilling multiple cut-conditions, as emerged in the OPP-method. The reconstruction of the polynomials, needed for the complete reduction, is rendered very versatile by using a projection-technique based on the Discrete Fourier Transform. The novel implementation is applied in the context of the NLO QCD corrections to u bar d\u2192 W+ W\u2212 W+."
+            ],
+            [
+                [
+                    "Theoretical Particle Physics",
+                    "Collider Physics",
+                    "Scattering Amplitudes"
+                ]
+            ]
+        ]
+    ]
+}

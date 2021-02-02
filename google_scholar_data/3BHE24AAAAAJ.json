@@ -1,0 +1,137 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "3BHE24AAAAAJ",
+            "Anna Katharina Simon",
+            "Professor at University of Oxford",
+            "@ndm.ox.ac.uk",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=3BHE24AAAAAJ",
+            14296,
+            [
+                "Immunology",
+                "Autophagy"
+            ],
+            10361,
+            41,
+            32,
+            52,
+            45,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"1hQFr7sAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Monika Mortensen",
+                    "affiliation":"Postdoc, Danish Cancer Society Research Center"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"NZUJhuQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Thomas Riffelmacher",
+                    "affiliation":"Post doctoral scientist, La Jolla Institute for Immunology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"HLiME4cAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alex Clarke",
+                    "affiliation":"Kennedy Institute of Rheumatology, University of Oxford"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"gmB6d34AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Elizabeth Soilleux",
+                    "affiliation":"University of Cambridge, UK"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"bAPC01sAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Luke R.G. Pike",
+                    "affiliation":"Memorial Sloan Kettering Cancer Center"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ACCL340AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Benedikt Kessler",
+                    "affiliation":"Professor of Biochemistry and Life Science Mass Spectrometry, University of Oxford, UK"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9vM5txAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mariola Edelmann",
+                    "affiliation":"University of Florida"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3yT6IX4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Adrian L Harris",
+                    "affiliation":"Professor of Medical Oncology, Oxford University"
+                }
+            ]
+        ]
+    ]
+}

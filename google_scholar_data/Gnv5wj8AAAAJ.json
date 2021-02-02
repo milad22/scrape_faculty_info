@@ -1,0 +1,52 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Gnv5wj8AAAAJ",
+            "Li Xinwei",
+            "Jilin University   Professor",
+            "@jlu.edu.cn",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=Gnv5wj8AAAAJ",
+            2187,
+            [
+                "Metabolic diseases in dairy cows"
+            ],
+            1799,
+            27,
+            24,
+            48,
+            48,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"F-iVvy8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Lei Liu",
+                    "affiliation":"Cornell University"
+                }
+            ]
+        ]
+    ]
+}

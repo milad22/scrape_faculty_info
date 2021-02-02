@@ -1,0 +1,124 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "GiNYd38AAAAJ",
+            "Mary Bridget Kustusch",
+            "Associate Professor of Physics and Astrophysics, DePaul University",
+            "@depaul.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=GiNYd38AAAAJ",
+            260,
+            [
+                "Physics Education Research"
+            ],
+            148,
+            7,
+            6,
+            4,
+            4,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"FBawOjQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David Roundy",
+                    "affiliation":"Associate Professor of Physics, Oregon State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"8XhACGoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Eleanor Sayre",
+                    "affiliation":"Kansas State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ZCgPMvMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Scott V. Franklin",
+                    "affiliation":"Professor of Physics, Rochester Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"qld8EMcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Robert Beichner",
+                    "affiliation":"Alumni Distinguished Undergraduate Professor of Physics (Retired), North Carolina State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ZIpeDHkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tevian Dray",
+                    "affiliation":"Department of Mathematics, Oregon State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"8GW5HxUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Lin Ding",
+                    "affiliation":"Ohio State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"xnocV3AAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Justyna P Zwolak",
+                    "affiliation":"National Institute of Standards and Technology"
+                }
+            ]
+        ]
+    ]
+}

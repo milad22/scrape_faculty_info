@@ -1,0 +1,54 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "H08e7PUAAAAJ",
+            "Chong-Yu Ruan",
+            "Michigan State University",
+            "@msu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=H08e7PUAAAAJ",
+            2645,
+            [
+                "Ultrafast sciences",
+                "Electron Diffraction and Imaging",
+                "Complex Materials"
+            ],
+            941,
+            22,
+            17,
+            32,
+            24,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"5QH0p0oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Lisa J. Lapidus",
+                    "affiliation":"Michigan State Univeristy"
+                }
+            ]
+        ]
+    ]
+}

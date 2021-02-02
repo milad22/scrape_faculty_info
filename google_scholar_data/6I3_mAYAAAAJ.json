@@ -1,0 +1,52 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "6I3_mAYAAAAJ",
+            "Fernando Vila",
+            "Staff Scientist, University of Washington",
+            "@uw.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=6I3_mAYAAAAJ",
+            3560,
+            [
+
+            ],
+            1912,
+            26,
+            20,
+            47,
+            34,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"akgG8HQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"John J. Rehr",
+                    "affiliation":"Professor of Physics, University of Washington"
+                }
+            ]
+        ]
+    ]
+}

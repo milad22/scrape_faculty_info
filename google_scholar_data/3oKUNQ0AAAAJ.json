@@ -1,0 +1,56 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "3oKUNQ0AAAAJ",
+            "Michael A Little",
+            "Dept of Anthropology, Binghamton University",
+            "@binghamton.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=3oKUNQ0AAAAJ",
+            2673,
+            [
+                "Biological Anthropology",
+                "Human Adaptation",
+                "Child Growth",
+                "Environmental Stress",
+                "History of Anthropology"
+            ],
+            587,
+            31,
+            12,
+            72,
+            14,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"QV_WbdgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gary D James",
+                    "affiliation":"SUNY Distinguished Service Professor of Anthropology"
+                }
+            ]
+        ]
+    ]
+}

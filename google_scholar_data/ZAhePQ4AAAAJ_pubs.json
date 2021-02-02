@@ -1,0 +1,234 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "As the power system is facing a transition toward a more intelligent, flexible, and interactive system with higher penetration of renewable energy generation, load forecasting, especially short-term load forecasting for individual electric customers plays an increasingly essential role in the future grid planning and operation. Other than aggregated residential load in a large scale, forecasting an electric load of a single energy user is fairly challenging due to the high volatility and uncertainty involved. In this paper, we propose a long short-term memory (LSTM) recurrent neural network-based framework, which is the latest and one of the most popular techniques of deep learning, to tackle this tricky issue. The proposed framework is tested on a publicly available set of real residential smart meter data, of which the performance is comprehensively compared to various benchmarks including the state-of-the-arts in the field \u2026",
+            "Short-term residential load forecasting based on LSTM recurrent neural network",
+            "Weicong Kong and Zhao Yang Dong and Youwei Jia and David J Hill and Yan Xu and Yuan Zhang",
+            "2017",
+            "ZAhePQ4AAAAJ:G1UMdFYMoxkC",
+            585,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/8039509\/",
+            "10852292665866824682",
+            "\/scholar?cites=10852292665866824682",
+            {
+                "2018":57,
+                "2019":179,
+                "2020":317,
+                "2021":26
+            }
+        ],
+        [
+            "Electric vehicle (EV) is a promising technology for reducing environmental impacts of road transport. In this paper, a framework for optimal design of battery charging\/swap stations in distribution systems based on life cycle cost (LCC) is presented. The battery charging\/swap station models are developed to compare the impacts of rapid-charging stations and battery swap stations. Meanwhile, in order to meet the requirements of increased power provided during the charging period, the distribution network should be reinforced. In order to control this reinforcement cost, stations should be placed at appropriate places and be scaled correctly. For optimal cost-benefit analysis and safety operation, the LCC criterion is used to assess the project and a modified differential evolution algorithm is adopted to solve the problem. The proposed method has been verified on the modified IEEE 15-bus and 43-bus radial distribution \u2026",
+            "Electric Vehicle Battery Charging\/Swap Stations in Distribution Systems: Comparison Study and Optimal Planning",
+            "Yu Zheng and Zhao Yang Dong and Yan Xu and Ke Meng and Jun Hua Zhao and Jing Qiu",
+            "2014",
+            "ZAhePQ4AAAAJ:3s1wT3WcHBgC",
+            337,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6590033\/",
+            "5232870027293748102",
+            "\/scholar?cites=5232870027293748102",
+            {
+                "2014":18,
+                "2015":28,
+                "2016":42,
+                "2017":43,
+                "2018":56,
+                "2019":76,
+                "2020":63,
+                "2021":10
+            }
+        ],
+        [
+            "Residential load forecasting has been playing an increasingly important role in modern smart grids. Due to the variability of residents' activities, individual residential loads are usually too volatile to forecast accurately. A long short-term memory-based deep-learning forecasting framework with appliance consumption sequences is proposed to address such volatile problem. It is shown that the forecasting accuracy can be notably improved by including appliance measurements in the training data. The effectiveness of the proposed method is validated through extensive comparison studies on a real-world dataset.",
+            "Short-Term Residential Load Forecasting based on Resident Behaviour Learning",
+            "Weicong Kong and Zhao Yang Dong and David J Hill and Fengji Luo and Yan Xu",
+            "2018",
+            "ZAhePQ4AAAAJ:BJrgspguQaEC",
+            274,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7887751\/",
+            "10169675641245529118",
+            "\/scholar?cites=10169675641245529118",
+            {
+                "2016":1,
+                "2017":3,
+                "2018":44,
+                "2019":101,
+                "2020":118,
+                "2021":7
+            }
+        ],
+        [
+            "Artificial neural networks (ANNs) have been widely applied in electricity price forecasts due to their nonlinear modeling capabilities. However, it is well known that in general, traditional training methods for ANNs such as back-propagation (BP) approach are normally slow and it could be trapped into local optima. In this paper, a fast electricity market price forecast method is proposed based on a recently emerged learning method for single hidden layer feed-forward neural networks, the extreme learning machine (ELM), to overcome these drawbacks. The new approach also has improved price intervals forecast accuracy by incorporating bootstrapping method for uncertainty estimations. Case studies based on chaos time series and Australian National Electricity Market price series show that the proposed method can effectively capture the nonlinearity from the highly volatile price data series with much less \u2026",
+            "Electricity Price Forecasting With Extreme Learning Machine and Bootstrapping",
+            "Xia Chen and Zhao Yang Dong and Ke Meng and Yan Xu and Kit Po Wong and HW Ngan",
+            "2012",
+            "ZAhePQ4AAAAJ:qjMakFHDy7sC",
+            242,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6184354\/",
+            "3617008618408471181",
+            "\/scholar?cites=3617008618408471181",
+            {
+                "2012":1,
+                "2013":13,
+                "2014":11,
+                "2015":30,
+                "2016":31,
+                "2017":31,
+                "2018":36,
+                "2019":42,
+                "2020":41,
+                "2021":3
+            }
+        ],
+        [
+            "An elaborately designed integrated power distribution and electric vehicle (EV) charging system will not only reduce the investment and operation cost of the system concerned, but also promote the popularization of environmentally friendly EVs. In this context, a multi-objective collaborative planning strategy is presented to deal with the optimal planning issue in integrated power distribution and EV charging systems. In the developed model, the overall annual cost of investment and energy losses is minimized simultaneously with the maximization of the annual traffic flow captured by fast charging stations (FCSs). Additionally, the user equilibrium based traffic assignment model (UETAM) is integrated to address the maximal traffic flow capturing problem. Subsequently, a decomposition based multi-objective evolutionary algorithm (MOEA\/D) is employed to seek the non-dominated solutions, i.e., the Pareto frontier \u2026",
+            "A Multi-Objective Collaborative Planning Strategy for Integrated Power Distribution and Electric Vehicle Charging Systems",
+            "Weifeng Yao and Junhua Zhao and Fushuan Wen and Zhaoyang Dong and Yusheng Xue and Yan Xu and Ke Meng",
+            "2014",
+            "ZAhePQ4AAAAJ:MAUkC_7iAq8C",
+            231,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6710196\/",
+            "6379621145762343906",
+            "\/scholar?cites=6379621145762343906",
+            {
+                "2014":3,
+                "2015":14,
+                "2016":28,
+                "2017":36,
+                "2018":39,
+                "2019":50,
+                "2020":57,
+                "2021":3
+            }
+        ],
+        [
+            "A new intelligent system (IS) is developed for real-time dynamic security assessment (DSA) of power systems. Taking an ensemble learning scheme, the IS structures a series of extreme learning machines (ELMs) and generalizes the randomness of single ELMs during the training. Benefiting from the unique properties of ELM and the strategically designed decision-making rules, the IS learns and works very fast and can estimate the credibility of its DSA results, allowing an accurate and reliable pre-fault DSA mechanism: credible results can be directly adopted while incredible results are decided by alternative tools such as time-domain simulation. This makes the IS promising for practical application since the potential unreliable results can be eliminated for use. Case studies considering classification and prediction are, respectively, conducted on an IEEE 50-machine system and a dynamic equivalent system of a \u2026",
+            "A Reliable Intelligent System for Real-Time Dynamic Security Assessment of Power Systems",
+            "Yan Xu and Zhao Yang Dong and Jun Hua Zhao and Pei Zhang and Kit Po Wong",
+            "2012",
+            "ZAhePQ4AAAAJ:5nxA0vEk-isC",
+            166,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6158623\/",
+            "7801345142184341943",
+            "\/scholar?cites=7801345142184341943",
+            {
+                "2012":1,
+                "2013":8,
+                "2014":11,
+                "2015":24,
+                "2016":18,
+                "2017":22,
+                "2018":21,
+                "2019":32,
+                "2020":25,
+                "2021":1
+            }
+        ],
+        [
+            "Artificial Neural Network (ANN) has been recognized as a powerful method for short-term load forecasting (STLF) of power systems. However, traditional ANNs are mostly trained by gradient-based learning algorithms which usually suffer from excessive training and tuning burden as well as unsatisfactory generalization performance. Based on the ensemble learning strategy, this paper develops an ensemble model of a promising novel learning technology called extreme learning machine (ELM) for high-quality STLF of Australian National Electricity Market (NEM). The model consists of a series of single ELMs. During the training, the ensemble model generalizes the randomness of single ELMs by selecting not only random input parameters but also random hidden nodes within a pre-defined range. The forecast result is taken as the median value the single ELM outputs. Owing to the very fast training\/tuning speed \u2026",
+            "Short-term load forecasting of Australian National Electricity Market by an ensemble model of extreme learning machine",
+            "Rui Zhang and Zhao Yang Dong and Yan Xu and Ke Meng and Kit Po Wong",
+            "2013",
+            "ZAhePQ4AAAAJ:g5m5HwL7SMYC",
+            138,
+            "https:\/\/digital-library.theiet.org\/content\/journals\/10.1049\/iet-gtd.2012.0541",
+            "4729992987925317253",
+            "\/scholar?cites=4729992987925317253",
+            {
+                "2013":2,
+                "2014":4,
+                "2015":18,
+                "2016":17,
+                "2017":19,
+                "2018":19,
+                "2019":27,
+                "2020":28,
+                "2021":3
+            }
+        ],
+        [
+            "This paper proposes a robust optimization approach for optimal operation of microgrids. The uncertain output variation of renewable energy sources (RESs) is addressed by collaboratively scheduling of energy storage (ES) and direct load control (DLC) through a two-stage complementary framework: an hour-ahead charging\/discharging of ES and a quarter-hour-ahead activation of DLC. The objective is to maximize the total profit of the microgrid considering operation and maintenance costs of ES units, wind turbines and photovoltaics, and transaction with main grid and customer loads. Assuming the power output of RES randomly varies within a bounded uncertainty set, the problem is modeled to a two-stage robust optimization model and solved by a column-and-constraint generation algorithm. Compared with conventional operation methods, the ES and DLC are coordinated in different time-scales, and RES \u2026",
+            "Robust operation of Microgrids via two-stage coordinated energy storage and direct load control",
+            "Cuo Zhang and Yan Xu and Zhao Yang Dong and Jin Ma",
+            "2017",
+            "ZAhePQ4AAAAJ:AYInfyleIOsC",
+            135,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7742342\/",
+            "5960255262127010928",
+            "\/scholar?cites=5960255262127010928",
+            {
+                "2017":11,
+                "2018":36,
+                "2019":45,
+                "2020":37,
+                "2021":6
+            }
+        ],
+        [
+            "In recent years, computational intelligence and machine learning techniques have gained popularity to facilitate very fast dynamic security assessment for earlier detection of the risk of blackouts. However, many of the current state-of-the-art models usually suffer from excessive training time and complex parameters tuning problems, leading to inefficiency for real-time implementation and on-line model updating. In this study, a new transient stability assessment model using the increasingly prevalent extreme learning machine theory is developed. It has significantly improved the learning speed and can enable effective on-line updating. The proposed model is examined on the New England 39-bus test system, and compared with some state-of-the-art methods in terms of computation time and prediction accuracy. The simulation results show that the proposed model possesses significant superior computation \u2026",
+            "Real-time transient stability assessment model using extreme learning machine",
+            "Y Xu and ZY Dong and K Meng and R Zhang and KP Wong",
+            "2011",
+            "ZAhePQ4AAAAJ:WF5omc3nYNoC",
+            126,
+            "https:\/\/digital-library.theiet.org\/content\/journals\/10.1049\/iet-gtd.2010.0355",
+            "16336117196678036840",
+            "\/scholar?cites=16336117196678036840",
+            {
+                "2011":2,
+                "2012":8,
+                "2013":16,
+                "2014":12,
+                "2015":12,
+                "2016":12,
+                "2017":12,
+                "2018":13,
+                "2019":28,
+                "2020":10,
+                "2021":1
+            }
+        ],
+        [
+            "The integration of renewable energy source (RES) and energy storage systems (ESS) in microgrids has provided potential benefit to end users and system operators. However, intermittent issues of RES and high cost of ESS need to be placed under scrutiny for economic operation of microgrids. This paper presents a two-layer predictive energy management system (EMS) for microgrids with hybrid ESS consisting of batteries and supercapacitors. Incorporating degradation costs of the hybrid ESS with respect to the depth of charge and lifetime, long-term costs of batteries and supercapacitors are modeled and transformed to short-term costs related to real-time operation. In order to maintain high system robustness at minimum operational cost, a hierarchical dispatch model is proposed to determine the scheduling of utilities in microgrids within a finite time horizon, in which the upper layer EMS minimizes the total \u2026",
+            "A two-layer energy management system for microgrids with hybrid energy storage considering degradation costs",
+            "Chengquan Ju and Peng Wang and Lalit Goel and Yan Xu",
+            "2017",
+            "ZAhePQ4AAAAJ:t-hv7AR41mYC",
+            125,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7924330\/",
+            "6875393437862809691",
+            "\/scholar?cites=6875393437862809691",
+            {
+                "2017":4,
+                "2018":14,
+                "2019":37,
+                "2020":59,
+                "2021":11
+            }
+        ]
+    ]
+}

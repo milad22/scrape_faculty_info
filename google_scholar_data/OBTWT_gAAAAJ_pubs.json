@@ -1,0 +1,134 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4
+    ],
+    "data":[
+        [
+            "This review summarizes theoretical progress in the field of active matter, placing it in the context of recent experiments. This approach offers a unified framework for the mechanical and statistical properties of living matter: biofilaments and molecular motors in vitro or in vivo, collections of motile microorganisms, animal flocks, and chemical or mechanical imitations. A major goal of this review is to integrate several approaches proposed in the literature, from semimicroscopic to phenomenological. In particular, first considered are \u201cdry\u201d systems, defined as those where momentum is not conserved due to friction with a substrate or an embedding porous medium. The differences and similarities between two types of orientationally ordered states, the nematic and the polar, are clarified. Next, the active hydrodynamics of suspensions or \u201cwet\u201d systems is discussed and the relation with and difference from the dry case, as \u2026",
+            "Hydrodynamics of soft active matter",
+            "M Cristina Marchetti and Jean-Fran\u00e7ois Joanny and Sriram Ramaswamy and Tanniemola B Liverpool and Jacques Prost and Madan Rao and R Aditi Simha",
+            "2013",
+            "OBTWT_gAAAAJ:2osOgNQ5qMEC",
+            2353,
+            "https:\/\/journals.aps.org\/rmp\/abstract\/10.1103\/RevModPhys.85.1143",
+            "6410571589372924861",
+            "\/scholar?cites=6410571589372924861",
+            {
+                "2013":28,
+                "2014":157,
+                "2015":218,
+                "2016":262,
+                "2017":344,
+                "2018":376,
+                "2019":386,
+                "2020":526,
+                "2021":43
+            }
+        ],
+        [
+            "We study numerically and analytically a model of self-propelled polar disks on a substrate in two dimensions. The particles interact via isotropic repulsive forces and are subject to rotational noise, but there is no aligning interaction. As a result, the system does not exhibit an ordered state. The isotropic fluid phase separates well below close packing and exhibits the large number fluctuations and clustering found ubiquitously in active systems. Our work shows that this behavior is a generic property of systems that are driven out of equilibrium locally, as for instance by self-propulsion.",
+            "Athermal phase separation of self-propelled particles with no alignment",
+            "Yaouen Fily and M Cristina Marchetti",
+            "2012",
+            "OBTWT_gAAAAJ:Y0pCki6q_DkC",
+            705,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.108.235702",
+            "9047518310445248008",
+            "\/scholar?cites=9047518310445248008",
+            {
+                "2013":23,
+                "2014":67,
+                "2015":70,
+                "2016":91,
+                "2017":86,
+                "2018":105,
+                "2019":102,
+                "2020":133,
+                "2021":17
+            }
+        ],
+        [
+            "Engineering synthetic materials that mimic the remarkable complexity of living organisms is a fundamental challenge in science and technology. We studied the spatiotemporal patterns that emerge when an active nematic film of microtubules and molecular motors is encapsulated within a shape-changing lipid vesicle. Unlike in equilibrium systems, where defects are largely static structures, in active nematics defects move spontaneously and can be described as self-propelled particles. The combination of activity, topological constraints, and vesicle deformability produces a myriad of dynamical states. We highlight two dynamical modes: a tunable periodic state that oscillates between two defect configurations, and shape-changing vesicles with streaming filopodia-like protrusions. These results demonstrate how biomimetic materials can be obtained when topological constraints are used to control the non \u2026",
+            "Topology and dynamics of active nematic vesicles",
+            "Felix C Keber and Etienne Loiseau and Tim Sanchez and Stephen J DeCamp and Luca Giomi and Mark J Bowick and M Cristina Marchetti and Zvonimir Dogic and Andreas R Bausch",
+            "2014",
+            "OBTWT_gAAAAJ:LjlpjdlvIbIC",
+            393,
+            "https:\/\/science.sciencemag.org\/content\/345\/6201\/1135.abstract",
+            "3061406484055341102",
+            "\/scholar?cites=3061406484055341102",
+            {
+                "2013":1,
+                "2014":1,
+                "2015":33,
+                "2016":54,
+                "2017":73,
+                "2018":65,
+                "2019":81,
+                "2020":75,
+                "2021":9
+            }
+        ],
+        [
+            "Cell motion inside dense tissues governs many biological processes, including embryonic development and cancer metastasis, and recent experiments suggest that these tissues exhibit collective glassy behavior. To make quantitative predictions about glass transitions in tissues, we study a self-propelled Voronoi model that simultaneously captures polarized cell motility and multibody cell-cell interactions in a confluent tissue, where there are no gaps between cells. We demonstrate that the model exhibits a jamming transition from a solidlike state to a fluidlike state that is controlled by three parameters: the single-cell motile speed, the persistence time of single-cell tracks, and a target shape index that characterizes the competition between cell-cell adhesion and cortical tension. In contrast to traditional particulate glasses, we are able to identify an experimentally accessible structural order parameter that specifies \u2026",
+            "Motility-driven glass and jamming transitions in biological tissues",
+            "Dapeng Bi and Xingbo Yang and M Cristina Marchetti and M Lisa Manning",
+            "2016",
+            "OBTWT_gAAAAJ:fEOibwPWpKIC",
+            347,
+            "https:\/\/journals.aps.org\/prx\/abstract\/10.1103\/PhysRevX.6.021011",
+            "7311761214524667306",
+            "\/scholar?cites=7311761214524667306",
+            {
+                "2016":13,
+                "2017":47,
+                "2018":75,
+                "2019":87,
+                "2020":113,
+                "2021":8
+            }
+        ],
+        [
+            "Unicellular living organisms, such as bacteria and algae, propel themselves through a medium via cyclic strokes involving the motion of cilia and flagella. Dense populations of such \u201cactive particles\u201d or \u201cswimmers\u201d exhibit a rich collective behavior at large scales. Starting with a minimal physical model of a stroke-averaged swimmer in a fluid, we derive a continuum description of a suspension of active organisms that incorporates fluid-mediated, long-range hydrodynamic interactions among the swimmers. Our work demonstrates that hydrodynamic interactions provide a simple, generic origin for several nonequilibrium phenomena predicted or observed in the literature. The continuum model derived here does not depend on the microscopic physical model of the individual swimmer. The details of the large-scale physics do, however, differ for \u201cshakers\u201d (particles that are active but not self-propelled, such as \u2026",
+            "Statistical mechanics and hydrodynamics of bacterial suspensions",
+            "Aparna Baskaran and M Cristina Marchetti",
+            "2009",
+            "OBTWT_gAAAAJ:UeHWp8X0CEIC",
+            328,
+            "https:\/\/www.pnas.org\/content\/106\/37\/15567.short",
+            "10009639472804806813",
+            "\/scholar?cites=10009639472804806813",
+            {
+                "2008":2,
+                "2009":21,
+                "2010":24,
+                "2011":33,
+                "2012":32,
+                "2013":28,
+                "2014":31,
+                "2015":34,
+                "2016":28,
+                "2017":31,
+                "2018":32,
+                "2019":29,
+                "2020":2
+            }
+        ]
+    ]
+}

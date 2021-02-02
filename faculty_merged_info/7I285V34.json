@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "7I285V34",
+            "Pp-o5EsAAAAJ",
+            [
+                "Support vector machines for SAR automatic target recognition",
+                "Measurement of intramuscular fat by muscle echo intensity",
+                "Learning from examples with information theoretic criteria",
+                "Magnetic nanoparticle-based hyperthermia for head & neck cancer in mouse models",
+                "Dietary quercetin supplementation is not ergogenic in untrained men",
+                "Synthetic aperture radar automatic target recognition with three strategies of learning and representation",
+                "Axonal fiber terminations concentrate on gyri",
+                "Zika virus induced mortality and microcephaly in chicken embryos",
+                "Fe5C2 Nanoparticles with High MRI Contrast Enhancement for Tumor Imaging",
+                "Skeletal muscle metabolism in individuals with spinal cord injury"
+            ],
+            [
+                "Algorithms that produce classifiers with large margins, such as support vector machines (SVMs), AdaBoost, etc, are receiving more and more attention in the literature. A real application of SVMs for synthetic aperture radar automatic target recognition (SAR\/ATR) is presented and the result is compared with conventional classifiers. The SVMs are tested for classification both in closed and open sets (recognition). Experimental results showed that SVMs outperform conventional classifiers in target classification. Moreover, SVMs with the Gaussian kernels are able to form a local \"bounded\" decision region around each class that presents better rejection to confusers.",
+                "Introduction: The aim of this study was to compare ultrasound echo intensity (EI) with high\u2010resolution T1\u2010weighted MRI and to establish calibration equations to estimate percent intramuscular fat from EI. Methods: Thirty\u2010one participants underwent both ultrasound and MRI testing of 4 muscles: rectus femoris (RF); biceps femoris (BF); tibialis anterior (TA); and medial gastrocnemius (MG). Results: Strong correlations were found between MRI percent fat and muscle EI after correcting for subcutaneous fat thickness (r\u2009=\u20090.91 in RF, r\u2009=\u20090.80 in BF, r\u2009=\u20090.80 in TA, r\u2009=\u20090.76 in MG). Three types of calibration equations were established. Conclusions: Muscle ultrasound is a practical and reproducible method that can be used as an imaging technique for examination of percent intramuscular fat. Future ultrasound studies are needed to establish equations for other muscle groups to enhance its use in both research and \u2026",
+                "This paper discusses a framework for learning based on information theoretic criteria. A novel algorithm based on Renyi's quadratic entropy is used to train, directly from a data set, linear or nonlinear mappers for entropy maximization or minimization. We provide an intriguing analogy between the computation and an information potential measuring the interactions among the data samples. We also propose two approximations to the Kulback-Leibler divergence based on quadratic distances (Cauchy-Schwartz inequality and Euclidean distance). These distances can still be computed using the information potential. We test the newly proposed distances in blind source separation (unsupervised learning) and in feature extraction for classification (supervised learning). In blind source separation our algorithm is capable of separating instantaneously mixed sources, and for classification the performance of our \u2026",
+                "In this study, magnetic iron oxide nanoparticle induced hyperthermia is applied for treatment of head and neck cancer using a mouse xenograft model of human head and neck cancer (Tu212 cell line). A hyperthermia system for heating iron oxide nanoparticles was developed by using alternating magnetic fields. Both theoretical simulation and experimental studies were performed to verify the thermotherapy effect. Experimental results showed that the temperature of the tumor center has dramatically elevated from around the room temperature to about 40 o C within the first 5-10 minutes. Pathological studies demonstrate epithelial tumor cell destruction associated with the hyperthermia treatment.",
+                "Quercetin supplementation increases muscle oxidative capacity and endurance in mice, but its ergogenic effect in humans has not been established. Our study investigates the effects of short-duration chronic quercetin supplementation on muscle oxidative capacity; metabolic, perceptual, and neuromuscular determinants of performance in prolonged exercise; and cycling performance in untrained men. Using a double-blind, pretest-posttest control group design, 30 recreationally active, but not endurance-trained, young men were randomly assigned to quercetin and placebo groups. A noninvasive measure of muscle oxidative capacity (phosphocreatine recovery rate using magnetic resonance spectroscopy), peak oxygen uptake (V\u0307o2peak), metabolic and perceptual responses to submaximal exercise, work performed on a 10-min maximal-effort cycling test following the submaximal cycling, and voluntary and \u2026",
+                "We describe a new architecture for synthetic aperture radar (SAR) automatic target recognition (ATR) based on the premise that the pose of the target is estimated within a high degree of precision. The advantage of our classifier design is that the input space complexity is decreased with the pose information, which enables fewer features to classify targets with a higher degree of accuracy. Moreover, the training of the classifier can be done discriminantly, which also improves performance and decreases the complexity of the classifier. Three strategies of learning and representation to build the pattern space and discriminant functions are compared: Vapnik\u2019s support vector machine (SVM), a newly developed quadratic mutual information (QMI) cost function for neural networks, and a principal component analysis extended recently with multiresolution (PCA-M). Experimental results obtained in the MSTAR database \u2026",
+                "Convoluted cortical folding and neuronal wiring are 2 prominent attributes of the mammalian brain. However, the macroscale intrinsic relationship between these 2 general cross-species attributes, as well as the underlying principles that sculpt the architecture of the cerebral cortex, remains unclear. Here, we show that the axonal fibers connected to gyri are significantly denser than those connected to sulci. In human, chimpanzee, and macaque brains, a dominant fraction of axonal fibers were found to be connected to the gyri. This finding has been replicated in a range of mammalian brains via diffusion tensor imaging and high\u2013angular resolution diffusion imaging. These results may have shed some lights on fundamental mechanisms for development and organization of the cerebral cortex, suggesting that axonal pushing is a mechanism of cortical folding.",
+                "The explosive spread of the Zika virus (ZIKV) through South and Central America has been linked to an increase in congenital birth defects, specifically microcephaly. Representative rodent models for investigating infections include direct central nervous system (CNS) injections late in pregnancy and transplacental transmission in immunodeficient mice. Microcephaly in humans may be the result of infection occurring early in pregnancy, therefore recapitulating that the human course of ZIKV infection should include normal embryo exposed to ZIKV during the first trimester. In ovo development of the chicken embryo closely mirrors human fetal neurodevelopment and, as a comparative model, could provide key insights into both temporal and pathophysiological effects of ZIKV. Chick embryos were directly infected early and throughout incubation with ZIKV isolated from a Mexican mosquito in January 2016. High \u2026",
+                "An ancient material for magnetic resonance (MR) imaging: For the first time, Fe 5 C 2 is prepared as colloidal stable nanoparticles with good aqueous stability. The nanoparticles boast strong magnetization, excellent chemical inertness, low toxicity, and one of the highest r 2 relaxivities reported to date. These nanoparticles hold great potential in MR imaging as well as in other biomedical areas.",
+                "With increasing survival rates in people with spinal cord injuries (SCI), detection and prevention of metabolic and cardiovascular disease have become increasingly important. Few studies have evaluated in vivo mitochondrial function in paralyzed skeletal muscle. The purpose of this study was to compare oxidative muscle metabolism using the rate of phosphocreatine (PCr) resynthesis measured by magnetic resonance spectroscopy (MRS) in people with SCI and able-bodied (AB) controls. Eight subjects with complete SCI (American Spinal Injury Association Impairment Scale A, levels T3\u2013T12, injury duration 2\u201313 years) were compared with 12 AB controls. T1-weighted 1H MR images of the thigh were taken to identify skeletal muscle. Phosphorous MRS was performed with a 13 \u00d7 13-cm2 surface coil placed on the right vastus lateralis in a 3 Tesla clinical MRI scanner. PCr resynthesis was measured after electrical \u2026"
+            ],
+            [
+                [
+                    "Magnetic resonance imaging",
+                    "cancer",
+                    "neuroimaging",
+                    "signal processing"
+                ]
+            ]
+        ]
+    ]
+}

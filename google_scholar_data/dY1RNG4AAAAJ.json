@@ -1,0 +1,55 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "dY1RNG4AAAAJ",
+            "Jeff Crews",
+            "Beyond the Chalk",
+            "@beyondthechalk.net",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=dY1RNG4AAAAJ",
+            25,
+            [
+                "Technology",
+                "GIS",
+                "Google Earth",
+                "Professional Development"
+            ],
+            22,
+            2,
+            2,
+            2,
+            1,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"QWg9Q2cAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Lisa M. Blank",
+                    "affiliation":"Executive Director, Oregon Coast STEM Hub"
+                }
+            ]
+        ]
+    ]
+}

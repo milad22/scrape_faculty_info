@@ -1,0 +1,259 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "0uztVbMAAAAJ",
+            "Herbert Jaeger",
+            "Rijksuniversiteit Groningen",
+            "@rug.nl",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=0uztVbMAAAAJ",
+            12599,
+            [
+                "Recurrent neural networks",
+                "machine learning",
+                "stochastic dynamical systems",
+                "theory of non-symbolic computing"
+            ],
+            6466,
+            31,
+            23,
+            56,
+            30,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"kfRwttkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mantas Luko\u0161evi\u010dius",
+                    "affiliation":"Kaunas University of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"XxIwRJQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Harald Haas",
+                    "affiliation":"The University of Edinburgh"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"i6gy5ZQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Benjamin Schrauwen",
+                    "affiliation":"Professor of Machine Learning, Ghent University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"KXl0cp4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Manjunath G",
+                    "affiliation":"University of Pretroria"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"8nWorhwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Paul Ploeger",
+                    "affiliation":"Professor for Autonomous Systems"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Ho0z0L4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Stefan Kiebel",
+                    "affiliation":"Professor of Neuroimaging, Technische Universit\u00e4t Dresden, Germany"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"RbcRyBYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Andreas Kolling",
+                    "affiliation":"Amazon Robotics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"091noMQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michael Thon",
+                    "affiliation":"Jacobs University Bremen"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"4978xwoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Joachim Hertzberg",
+                    "affiliation":"University of Osnabr\u00fcck and DFKI Niedersachsen Lab, Osnabr\u00fcck"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"GkpvilQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"jose principe",
+                    "affiliation":"professor of ECE, U. of Florida"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"2WpvdH0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Wolfgang Maass",
+                    "affiliation":"Professor of Computer Science, Graz University of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"eSPY8LwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Razvan Pascanu",
+                    "affiliation":"Research Scientist at Google DeepMind"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9Nq_lpsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Giovanni Indiveri",
+                    "affiliation":"Universit\u00e0 di Genova, Italia (since December 1st, 2019, previously at Universit\u00e0 del Salento, Italy)"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"T7RihQEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Luc Steels",
+                    "affiliation":"ICREA - Institut de Biologia Evolutiva (UPF-CSIC)"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"qNP6lAwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ted Briscoe",
+                    "affiliation":"Professor of Computational Linguistics, University of Cambridge"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"lg0l9REAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gerhard J\u00e4ger",
+                    "affiliation":"Professor f\u00fcr Allgemeine Sprachwissenschaft, T\u00fcbingen"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"AgEdsugAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jochen Triesch",
+                    "affiliation":"Frankfurt Institute for Advanced Studies"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"bLb3VdIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Douglas Eck",
+                    "affiliation":"Google Research, Brain Team"
+                }
+            ]
+        ]
+    ]
+}

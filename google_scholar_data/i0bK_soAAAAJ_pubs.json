@@ -1,0 +1,192 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "When absorbing boundary conditions are used to evaporate a black hole in AdS\/CFT, we show that there is a phase transition in the location of the quantum Ryu-Takayanagi surface, at precisely the Page time. The new RT surface lies slightly inside the event horizon, at an infalling time approximately the scrambling time \u03b2\/2\u03c0logS BH into the past. We can immediately derive the Page curve, using the Ryu-Takayanagi formula, and the Hayden-Preskill decoding criterion, using entanglement wedge reconstruction. Because part of the interior is now encoded in the early Hawking radiation, the decreasing entanglement entropy of the black hole is exactly consistent with the semiclassical bulk entanglement of the late-time Hawking modes, despite the absence of a firewall.",
+            "Entanglement wedge reconstruction and the information paradox",
+            "Geoffrey Penington",
+            "2020",
+            "i0bK_soAAAAJ:5nxA0vEk-isC",
+            180,
+            "https:\/\/link.springer.com\/article\/10.1007\/JHEP09(2020)002",
+            "6590283827671146906",
+            "\/scholar?cites=6590283827671146906",
+            {
+                "2019":16,
+                "2020":151,
+                "2021":13
+            }
+        ],
+        [
+            "Recent work has shown how to obtain the Page curve of an evaporating black hole from holographic computations of entanglement entropy. We show how these computations can be justified using the replica trick, from geometries with a spacetime wormhole connecting the different replicas. In a simple model, we study the Page transition in detail by summing replica geometries with different topologies. We compute related quantities in less detail in more complicated models, including JT gravity coupled to conformal matter and the SYK model. Separately, we give a direct gravitational argument for entanglement wedge reconstruction using an explicit formula known as the Petz map; again, a spacetime wormhole plays an important role. We discuss an interpretation of the wormhole geometries as part of some ensemble average implicit in the gravity description.",
+            "Replica wormholes and the black hole interior",
+            "Geoff Penington and Stephen H Shenker and Douglas Stanford and Zhenbin Yang",
+            "2019",
+            "i0bK_soAAAAJ:eQOLeE2rZwMC",
+            154,
+            "https:\/\/arxiv.org\/abs\/1911.11977",
+            "14739737936483562461",
+            "\/scholar?cites=14739737936483562461",
+            {
+                "2019":2,
+                "2020":139,
+                "2021":13
+            }
+        ],
+        [
+            "In the context of quantum theories of spacetime, one overarching question is how quantum information in the bulk spacetime is encoded holographically in boundary degrees of freedom. It is particularly interesting to understand the correspondence between bulk subregions and boundary subregions in order to address the emergence of locality in the bulk quantum spacetime. For the AdS\/CFT correspondence, it is known that this bulk information is encoded redundantly on the boundary in the form of an error-correcting code. Having access only to a subregion of the boundary is as if part of the holographic code has been damaged by noise and rendered inaccessible. In quantum-information science, the problem of recovering information from a damaged code is addressed by the theory of universal recovery channels. We apply and extend this theory to address the problem of relating bulk and boundary subregions \u2026",
+            "Entanglement wedge reconstruction via universal recovery channels",
+            "Jordan Cotler and Patrick Hayden and Geoffrey Penington and Grant Salton and Brian Swingle and Michael Walter",
+            "2019",
+            "i0bK_soAAAAJ:qjMakFHDy7sC",
+            97,
+            "https:\/\/journals.aps.org\/prx\/abstract\/10.1103\/PhysRevX.9.031011",
+            "17112946870230228017",
+            "\/scholar?cites=17112946870230228017",
+            {
+                "2018":15,
+                "2019":20,
+                "2020":52,
+                "2021":1
+            }
+        ],
+        [
+            "We present a general procedure for constructing tensor networks that accurately reproduce holographic states in conformal field theories (CFTs). Given a state in a large-N CFT with a static, semiclassical gravitational dual, we build a tensor network by an iterative series of approximations that eliminate redundant degrees of freedom and minimize the bond dimensions of the resulting network. We argue that the bond dimensions of the tensor network will match the areas of the corresponding bulk surfaces. For \u201ctree\u201d tensor networks (ie, those that are constructed by discretizing spacetime with non intersecting Ryu-Takayanagi surfaces), our arguments can be made rigorous using a version of one-shot entanglement distillation in the CFT. Using the known quantum error correcting properties of AdS\/CFT, we show that bulk legs can be added to the tensor networks to create holographic quantum error correcting codes \u2026",
+            "Beyond toy models: distilling tensor networks in full AdS\/CFT",
+            "Ning Bao and Geoffrey Penington and Jonathan Sorce and Aron C Wall",
+            "2019",
+            "i0bK_soAAAAJ:YsMSGLbcyi4C",
+            52,
+            "https:\/\/link.springer.com\/article\/10.1007\/JHEP11(2019)069",
+            "10742795717571801239",
+            "\/scholar?cites=10742795717571801239",
+            {
+                "2018":1,
+                "2019":15,
+                "2020":34,
+                "2021":2
+            }
+        ],
+        [
+            "When the bulk geometry in AdS\/CFT contains a black hole, boundary subregions may be sufficient to reconstruct certain bulk operators if and only if the black hole microstate is known, an example of state dependence. Reconstructions exist for any microstate, but no reconstruction works for all microstates. We refine this dichotomy, demonstrating that the same boundary operator can often be used for large subspaces of black hole microstates, corresponding to a constant fraction \u03b1 of the black hole entropy. In the Schr\u00f6dinger picture, the boundary subregion encodes the \u03b1-bits (a concept from quantum information) of a bulk region containing the black hole and bounded by extremal surfaces. These results have important consequences for the structure of AdS\/CFT and for quantum information. Firstly, they imply that the bulk reconstruction is necessarily only approximate and allow us to place non-perturbative lower \u2026",
+            "Learning the alpha-bits of black holes",
+            "Patrick Hayden and Geoffrey Penington",
+            "2019",
+            "i0bK_soAAAAJ:UeHWp8X0CEIC",
+            51,
+            "https:\/\/link.springer.com\/article\/10.1007\/JHEP12(2019)007",
+            "7814266043523852490",
+            "\/scholar?cites=7814266043523852490",
+            {
+                "2018":1,
+                "2019":14,
+                "2020":35,
+                "2021":1
+            }
+        ],
+        [
+            "Out-of-time-order (OTO) operators have recently become popular diagnostics of quantum chaos in many-body systems. The usual way they are introduced is via a quantization of classical Lyapunov growth, which measures the divergence of classical trajectories in phase space due to the butterfly effect. However, it is not obvious how exactly they capture the sensitivity of a quantum system to its initial conditions beyond the classical limit. In this paper, we analyze sensitivity to initial conditions in the quantum regime by recasting OTO operators for many-body systems using various formulations of quantum mechanics. Notably, we utilize the Wigner phase space formulation to derive an \u0127-expansion of the OTO operator for spatial degrees of freedom, and a large spin 1\u2215 s-expansion for spin degrees of freedom. We find in each case that the leading term is the Lyapunov growth for the classical limit of the \u2026",
+            "Out-of-time-order operators and the butterfly effect",
+            "Jordan S Cotler and Dawei Ding and Geoffrey R Penington",
+            "2018",
+            "i0bK_soAAAAJ:d1gkVwhDpl0C",
+            36,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S000349161830191X",
+            "11760927331685019570",
+            "\/scholar?cites=11760927331685019570",
+            {
+                "2017":1,
+                "2018":7,
+                "2019":11,
+                "2020":17
+            }
+        ],
+        [
+            "Essential to the description of a quantum system are its local degrees of freedom, which enable the interpretation of subsystems and dynamics in the Hilbert space. While a choice of local tensor factorization of the Hilbert space is often implicit in the writing of a Hamiltonian or Lagrangian, the identification of local tensor factors is not intrinsic to the Hilbert space itself. Instead, the only basis-invariant data of a Hamiltonian is its spectrum, which does not manifestly determine the local structure. This ambiguity is highlighted by the existence of dualities, in which the same energy spectrum may describe two systems with very different local degrees of freedom. We argue that in fact, the energy spectrum alone almost always encodes a unique description of local degrees of freedom when such a description exists, allowing one to explicitly identify local subsystems and how they interact. As a consequence, we can \u2026",
+            "Locality from the Spectrum",
+            "Jordan S Cotler and Geoffrey R Penington and Daniel H Ranard",
+            "2019",
+            "i0bK_soAAAAJ:IjCSPb-OGe4C",
+            28,
+            "https:\/\/link.springer.com\/article\/10.1007\/s00220-019-03376-w",
+            "14529899867385256087",
+            "\/scholar?cites=14529899867385256087",
+            {
+                "2017":6,
+                "2018":5,
+                "2019":7,
+                "2020":10
+            }
+        ],
+        [
+            "At the heart of recent progress in AdS\/CFT is the question of subregion duality, or entanglement wedge reconstruction: which part (s) of the boundary CFT are dual to a given subregion of the bulk? This question can be answered by appealing to the quantum error correcting properties of holography, and it was recently shown that robust bulk (entanglement wedge) reconstruction can be achieved using a universal recovery channel known as the twirled Petz map. In short, one can use the twirled Petz map to recover bulk data from a subset of the boundary. However, this map involves an averaging procedure over bulk and boundary modular time, and hence it can be somewhat intractable to evaluate in practice. We show that a much simpler channel, the Petz map, is sufficient for entanglement wedge reconstruction for any code space of fixed finite dimension\u2014no twirling is required. Moreover, the error in the \u2026",
+            "Entanglement wedge reconstruction using the Petz map",
+            "Chi-Fang Chen and Geoffrey Penington and Grant Salton",
+            "2020",
+            "i0bK_soAAAAJ:Tyk-4Ss8FVUC",
+            23,
+            "https:\/\/link.springer.com\/article\/10.1007\/JHEP01(2020)168",
+            "13833540551273635895",
+            "\/scholar?cites=13833540551273635895",
+            {
+                "2019":4,
+                "2020":18,
+                "2021":1
+            }
+        ],
+        [
+            "We present a general procedure for constructing tensor networks for geometric states in the Anti-de Sitter\/Conformal Field Theory (AdS\/CFT) correspondence. Given a state in a large- CFT with a static, semiclassical gravitational dual, our procedure produces a tensor network for the boundary state whose internal geometry matches (a discretization of) the bulk spacetime geometry. By invoking the\" holographic entanglement of purification\" conjecture, our construction can be made to capture the structure of the bulk spacetime at sub-AdS scales.",
+            "Holographic tensor networks in full AdS\/CFT",
+            "Ning Bao and Geoffrey Penington and Jonathan Sorce and Aron C Wall",
+            "2019",
+            "i0bK_soAAAAJ:2osOgNQ5qMEC",
+            20,
+            "https:\/\/arxiv.org\/abs\/1902.10157",
+            "13593694281456342080",
+            "\/scholar?cites=13593694281456342080",
+            {
+                "2019":4,
+                "2020":15,
+                "2021":1
+            }
+        ],
+        [
+            "We formulate a quantum generalization of maximin surfaces and show that a quantum maximin surface is identical to the minimal quantum extremal surface, introduced in the EW prescription. We discuss various subtleties and complications associated to a maximinimization of the bulk von Neumann entropy due to corners and unboundedness and present arguments that nonetheless a maximinimization of the UV-finite generalized entropy should be well-defined. We give the first general proof that the EW prescription satisfies entanglement wedge nesting and the strong subadditivity inequality. In addition, we apply the quantum maximin technology to prove that recently proposed generalizations of the EW prescription to nonholographic subsystems (including the so-called \u201cquantum extremal islands\u201d) also satisfy entanglement wedge nesting and strong subadditivity. Our results hold in the regime where \u2026",
+            "Quantum maximin surfaces",
+            "Chris Akers and Netta Engelhardt and Geoff Penington and Mykhaylo Usatyuk",
+            "2020",
+            "i0bK_soAAAAJ:_FxGoFyzp5QC",
+            18,
+            "https:\/\/link.springer.com\/article\/10.1007\/JHEP08(2020)140",
+            "6489883245117672095",
+            "\/scholar?cites=6489883245117672095",
+            {
+                "2020":17,
+                "2021":1
+            }
+        ]
+    ]
+}

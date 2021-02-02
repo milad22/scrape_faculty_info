@@ -1,0 +1,65 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "-ubyQtsAAAAJ",
+            "Zhiqiang Zhang",
+            "School of Mathematics and Computer Science, Shanxi Datong University",
+            "@sxdtdx.edu.cn",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=-ubyQtsAAAAJ",
+            40702,
+            [
+                "Uncertainty Theory",
+                "Financial mathematics"
+            ],
+            27002,
+            92,
+            82,
+            612,
+            430,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6HUF7tsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dan  Ralescu",
+                    "affiliation":"Professor of Mathematical Sciences, University of Cincinnati"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"FxS7mU4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Xiangfeng Yang (\u6768\u5411\u5cf0)",
+                    "affiliation":"Associate Professor of University of International Business and Economics"
+                }
+            ]
+        ]
+    ]
+}

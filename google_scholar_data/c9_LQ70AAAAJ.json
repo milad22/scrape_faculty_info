@@ -1,0 +1,64 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "c9_LQ70AAAAJ",
+            "Russell Stoneback",
+            "The University of Texas at Dallas",
+            "@utdallas.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=c9_LQ70AAAAJ",
+            591,
+            [
+                "Space Science and EM Systems"
+            ],
+            394,
+            13,
+            11,
+            20,
+            12,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"WwZflswAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Angeline G. Burrell",
+                    "affiliation":"Naval Research Laboratory, Space Science Division"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"mP1SJY8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jeff Klenzing",
+                    "affiliation":"ITM Physics Lab \/ NASA GSFC"
+                }
+            ]
+        ]
+    ]
+}

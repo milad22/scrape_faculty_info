@@ -1,0 +1,150 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4
+    ],
+    "data":[
+        [
+            "1. Climate change has been inducing range shifts for many species as they follow their suitable climate space and further shifts are projected. Whether species will be able to colonize regions where climate conditions become suitable, so-called \u2018new climate space\u2019, depends on species traits and habitat fragmentation.",
+            "Adapting landscapes to climate change: examples of climate\u2010proof ecosystem networks and priority adaptation zones",
+            "Claire C Vos and Pam Berry and Paul Opdam and Hans Baveco and Bianca Nijhof and Jesse O\u2019Hanley and Claire Bell and H Kuipers",
+            "2008",
+            "sIEl40EAAAAJ:u5HHmVD_uO8C",
+            310,
+            "https:\/\/besjournals.onlinelibrary.wiley.com\/doi\/abs\/10.1111\/j.1365-2664.2008.01569.x@10.1111\/(ISSN)1365-2664.CLIMATE_JPE",
+            "18019479064903578159",
+            "\/scholar?cites=18019479064903578159",
+            {
+                "2007":1,
+                "2008":4,
+                "2009":10,
+                "2010":23,
+                "2011":53,
+                "2012":36,
+                "2013":27,
+                "2014":39,
+                "2015":30,
+                "2016":18,
+                "2017":19,
+                "2018":14,
+                "2019":18,
+                "2020":15
+            }
+        ],
+        [
+            " Techniques for assessing the impact of structural barriers on fish passage and for prioritising restoration actions are reviewed. Current survey methodologies are biased towards specific structures, primarily culverts and economically significant fish. Assessment criteria are often based on swimming capabilities of upstream migrating adult salmonids, while ignoring other life\u2010stages, non\u2010salmonid species, downstream migration and behaviour. The development of comprehensive and centrally owned geospatial inventories of barriers is essential. The collection, maintenance and dissemination of pertinent structural and environmental data can be technically, logistically and financially challenging. Standardised procedures are needed to rapidly and cost\u2010effectively survey large numbers of barriers over wide geographic areas. The prioritisation of barrier repair and removal projects is most often based on simple cost \u2026",
+            "Procedures for evaluating and prioritising the removal of fish passage barriers: a synthesis",
+            "PS Kemp and JR O'hanley",
+            "2010",
+            "sIEl40EAAAAJ:2osOgNQ5qMEC",
+            249,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1111\/j.1365-2400.2010.00751.x",
+            "5962277917217405998",
+            "\/scholar?cites=5962277917217405998",
+            {
+                "2011":13,
+                "2012":13,
+                "2013":25,
+                "2014":24,
+                "2015":25,
+                "2016":25,
+                "2017":23,
+                "2018":37,
+                "2019":29,
+                "2020":24,
+                "2021":7
+            }
+        ],
+        [
+            "Optimizing system resilience is concerned with the development of strategies to restore a system to normal operations as quickly and efficiently as possible following potential disruption. To this end, we present in this article a bilevel mixed integer linear program for protecting an uncapacitated median type facility network against worst-case losses, taking into account the role of facility recovery time on system performance and the possibility of multiple disruptions over time. The model differs from previous types of facility protection models in that protection is not necessarily assumed to prevent facility failure altogether, but more precisely to speed up recovery time following a potential disruption. Three different decomposition approaches are devised to optimally solve medium to large problem instances. Computational results provide a cross comparison of the efficiency of each algorithm. Additionally, we present an \u2026",
+            "Optimizing system resilience: a facility protection model with recovery time",
+            "Chaya Losada and M Paola Scaparra and Jesse R O\u2019Hanley",
+            "2012",
+            "sIEl40EAAAAJ:IjCSPb-OGe4C",
+            141,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0377221711008940",
+            "12425262191831750654",
+            "\/scholar?cites=12425262191831750654",
+            {
+                "2012":7,
+                "2013":7,
+                "2014":8,
+                "2015":14,
+                "2016":19,
+                "2017":30,
+                "2018":12,
+                "2019":23,
+                "2020":19,
+                "2021":2
+            }
+        ],
+        [
+            " Removing small artificial barriers that hinder upstream migrations of fish is a major problem in riparian habitat restoration. Because of budgetary limitations, it is necessary to prioritize barrier removal and repair decisions. These have usually been based on scoring and ranking procedures, which, although simple to use, can be very inefficient in terms of increasing the amount of accessible instream habitat. We develop a novel decision-making approach, based on integer programming techniques, which optimizes repair and removal decisions. Results show based on real datasets of barrier culverts located in Washington State that scoring and ranking is over 25% below the optimum on average and a full 100% below in the worst case, producing no net habitat gain whatsoever. This is compared to a dynamic programming method that was able to find optimal solutions in less than a second, even for \u2026",
+            "Optimizing the removal of small fish passage barriers",
+            "Jesse Rush O\u2019hanley and David Tomberlin",
+            "2005",
+            "sIEl40EAAAAJ:u-x6o8ySG0sC",
+            119,
+            "https:\/\/link.springer.com\/article\/10.1007\/s10666-004-4268-y",
+            "11487506723365376267",
+            "\/scholar?cites=11487506723365376267",
+            {
+                "2007":2,
+                "2008":4,
+                "2009":11,
+                "2010":4,
+                "2011":5,
+                "2012":2,
+                "2013":15,
+                "2014":11,
+                "2015":8,
+                "2016":7,
+                "2017":13,
+                "2018":14,
+                "2019":11,
+                "2020":10,
+                "2021":1
+            }
+        ],
+        [
+            "In order to design a coverage-type service network that is robust to the worst instances of long-term facility loss, we develop a facility location\u2013interdiction model that maximizes a combination of initial coverage by p facilities and the minimum coverage level following the loss of the most critical r facilities. The problem is formulated both as a mixed-integer program and as a bilevel mixed-integer program. To solve the bilevel program optimally, a decomposition algorithm is presented, whereby the original bilevel program is decoupled into an upper level master problem and a lower level subproblem. After sequentially solving these problems, supervalid inequalities can be generated and appended to the upper level master in an attempt to force it away from clearly dominated solutions. Computational results show that when solved to optimality, the bilevel decomposition algorithm is up to several orders of magnitude \u2026",
+            "Designing robust coverage networks to hedge against worst-case facility losses",
+            "Jesse R O\u2019Hanley and Richard L Church",
+            "2011",
+            "sIEl40EAAAAJ:9yKSN-GCB0IC",
+            117,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0377221710005904",
+            "4195961058773650506",
+            "\/scholar?cites=4195961058773650506",
+            {
+                "2010":2,
+                "2011":3,
+                "2012":12,
+                "2013":9,
+                "2014":11,
+                "2015":15,
+                "2016":12,
+                "2017":16,
+                "2018":15,
+                "2019":10,
+                "2020":8,
+                "2021":2
+            }
+        ]
+    ]
+}

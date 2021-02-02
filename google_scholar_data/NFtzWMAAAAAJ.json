@@ -1,0 +1,101 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "NFtzWMAAAAAJ",
+            "Anton Andreev",
+            "Gipsa-lab",
+            "@gipsa-lab.grenoble-inp.fr",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=NFtzWMAAAAAJ",
+            222,
+            [
+                "BCI",
+                "Virtual Reality"
+            ],
+            200,
+            7,
+            6,
+            5,
+            5,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"f9a1rO0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Marco Congedo",
+                    "affiliation":"CNRS (French National Centre for Scientific Research), Grenoble Alpes University, Grenoble INP"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"SYe1u-kAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gr\u00e9goire CATTAN",
+                    "affiliation":"Ph. D., Eng."
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"d7ZVePwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alexandre Barachant",
+                    "affiliation":"research scientist - CTRL-Labs - NY - USA"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"IyDJZ_AAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Louis Korczowski",
+                    "affiliation":"GIPSA-lab, Univ. Grenoble-Alpes, France"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"bF8vZlQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Fabien Lotte",
+                    "affiliation":"Inria Bordeaux Sud-Ouest \/ LaBRI (Univ. Bordeaux - CNRS - Bordeaux INP)"
+                }
+            ]
+        ]
+    ]
+}

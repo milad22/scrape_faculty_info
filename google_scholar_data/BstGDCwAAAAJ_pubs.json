@@ -1,0 +1,221 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Quantum computers can solve certain problems more efficiently than any possible conventional computer. Small quantum algorithms have been demonstrated on multiple quantum computing platforms, many specifically tailored in hardware to implement a particular algorithm or execute a limited number of computational paths 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. Here we demonstrate a five-qubit trapped-ion quantum computer that can be programmed in software to implement arbitrary quantum algorithms by executing any sequence of universal quantum logic gates. We compile algorithms into a fully connected set of gate operations that are native to the hardware and have a mean fidelity of 98 per cent. Reconfiguring these gate sequences provides the flexibility to implement a variety of algorithms without altering the hardware. As examples, we implement the Deutsch\u2013Jozsa 11 and Bernstein\u2013Vazirani 12 algorithms with \u2026",
+            "Demonstration of a small programmable quantum computer with atomic qubits",
+            "Shantanu Debnath and Norbert M Linke and Caroline Figgatt and Kevin A Landsman and Kevin Wright and Christopher Monroe",
+            "2016",
+            "BstGDCwAAAAJ:3fE2CSJIrl8C",
+            513,
+            "https:\/\/www.nature.com\/articles\/nature18648",
+            "9649713636851592007",
+            "\/scholar?cites=9649713636851592007",
+            {
+                "2016":25,
+                "2017":94,
+                "2018":110,
+                "2019":135,
+                "2020":139,
+                "2021":8
+            }
+        ],
+        [
+            "We implement all single-qubit operations with fidelities significantly above the minimum threshold required for fault-tolerant quantum computing, using a trapped-ion qubit stored in hyperfine \u201catomic clock\u201d states of Ca+ 43. We measure a combined qubit state preparation and single-shot readout fidelity of 99.93%, a memory coherence time of T 2*= 50 sec, and an average single-qubit gate fidelity of 99.9999%. These results are achieved in a room-temperature microfabricated surface trap, without the use of magnetic field shielding or dynamic decoupling techniques to overcome technical noise.",
+            "High-fidelity preparation, gates, memory, and readout of a trapped-ion quantum bit",
+            "TP Harty and DTC Allcock and C J\u0303 Ballance and L Guidoni and HA Janacek and NM Linke and DN Stacey and DM Lucas",
+            "2014",
+            "BstGDCwAAAAJ:UeHWp8X0CEIC",
+            449,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.113.220501",
+            "2029723885418564937",
+            "\/scholar?cites=2029723885418564937",
+            {
+                "2014":7,
+                "2015":48,
+                "2016":75,
+                "2017":60,
+                "2018":63,
+                "2019":82,
+                "2020":98,
+                "2021":13
+            }
+        ],
+        [
+            "We demonstrate laser-driven two-qubit and single-qubit logic gates with respective fidelities 99.9 (1)% and 99.9934 (3)%, significantly above the\u2248 99% minimum threshold level required for fault-tolerant quantum computation, using qubits stored in hyperfine ground states of calcium-43 ions held in a room-temperature trap. We study the speed-fidelity trade-off for the two-qubit gate, for gate times between 3.8 \u03bc s and 520 \u03bc s, and develop a theoretical error model which is consistent with the data and which allows us to identify the principal technical sources of infidelity.",
+            "High-fidelity quantum logic gates using trapped-ion hyperfine qubits",
+            "CJ Ballance and TP Harty and NM Linke and MA Sepiol and DM Lucas",
+            "2016",
+            "BstGDCwAAAAJ:5nxA0vEk-isC",
+            430,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.117.060504",
+            "583951209349449514",
+            "\/scholar?cites=583951209349449514",
+            {
+                "2016":25,
+                "2017":63,
+                "2018":78,
+                "2019":92,
+                "2020":153,
+                "2021":15
+            }
+        ],
+        [
+            "We run a selection of algorithms on two state-of-the-art 5-qubit quantum computers that are based on different technology platforms. One is a publicly accessible superconducting transmon device (www.research.ibm.com\/ibm-q) with limited connectivity, and the other is a fully connected trapped-ion system. Even though the two systems have different native quantum interactions, both can be programed in a way that is blind to the underlying hardware, thus allowing a comparison of identical quantum algorithms between different physical systems. We show that quantum algorithms and circuits that use more connectivity clearly benefit from a better-connected system of qubits. Although the quantum systems here are not yet large enough to eclipse classical computers, this experiment exposes critical factors of scaling quantum computers, such as qubit connectivity and gate expressivity. In addition, the results suggest \u2026",
+            "Experimental comparison of two quantum computing architectures",
+            "Norbert M Linke and Dmitri Maslov and Martin Roetteler and Shantanu Debnath and Caroline Figgatt and Kevin A Landsman and Kenneth Wright and Christopher Monroe",
+            "2017",
+            "BstGDCwAAAAJ:M3ejUd6NZC8C",
+            311,
+            "https:\/\/www.pnas.org\/content\/114\/13\/3305.short",
+            "10974612306377805525",
+            "\/scholar?cites=10974612306377805525",
+            {
+                "2017":32,
+                "2018":62,
+                "2019":107,
+                "2020":104,
+                "2021":4
+            }
+        ],
+        [
+            "Quantum scrambling is the dispersal of local information into many-body quantum entanglements and correlations distributed throughout an entire system. This concept accompanies the dynamics of thermalization in closed quantum systems, and has recently emerged as a powerful tool for characterizing chaos in black holes 1, 2, 3, 4. However, the direct experimental measurement of quantum scrambling is difficult, owing to the exponential complexity of ergodic many-body entangled states. One way to characterize quantum scrambling is to measure an out-of-time-ordered correlation function (OTOC); however, because scrambling leads to their decay, OTOCs do not generally discriminate between quantum scrambling and ordinary decoherence. Here we implement a quantum circuit that provides a positive test for the scrambling features of a given unitary process 5, 6. This approach conditionally teleports a \u2026",
+            "Verified quantum information scrambling",
+            "Kevin A Landsman and Caroline Figgatt and Thomas Schuster and Norbert M Linke and Beni Yoshida and Norm Y Yao and Christopher Monroe",
+            "2019",
+            "BstGDCwAAAAJ:_Qo2XoVZTnwC",
+            129,
+            "https:\/\/www.nature.com\/articles\/s41586-019-0952-6",
+            "631367327267505754",
+            "\/scholar?cites=631367327267505754",
+            {
+                "2018":2,
+                "2019":42,
+                "2020":78,
+                "2021":7
+            }
+        ],
+        [
+            "We describe a new electrode design for a surface-electrode Paul trap, which allows rotation of the normal modes out of the trap plane, and a technique for micromotion compensation in all directions using a two-photon process, which avoids the need for an ultraviolet laser directed to the trap plane. The fabrication and characterization of the trap are described, as well as its implementation for the trapping and cooling of single Ca+ ions. We also propose a repumping scheme that increases ion fluorescence and simplifies heating rate measurements obtained by time-resolved ion fluorescence during Doppler cooling.",
+            "Implementation of a symmetric surface-electrode ion trap with field compensation using a modulated Raman effect",
+            "DTC Allcock and JA Sherman and DN Stacey and AH Burrell and MJ Curtis and G Imreh and NM Linke and DJ Szwer and SC Webster and AM Steane and DM Lucas",
+            "2010",
+            "BstGDCwAAAAJ:u5HHmVD_uO8C",
+            118,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/1367-2630\/12\/5\/053026\/meta",
+            "10245167585128037185",
+            "\/scholar?cites=10245167585128037185",
+            {
+                "2010":5,
+                "2011":17,
+                "2012":18,
+                "2013":17,
+                "2014":9,
+                "2015":15,
+                "2016":10,
+                "2017":7,
+                "2018":5,
+                "2019":5,
+                "2020":7,
+                "2021":2
+            }
+        ],
+        [
+            "We introduce a general model for a network of quantum sensors, and we use this model to consider the following question: When can entanglement between the sensors, and\/or global measurements, enhance the precision with which the network can measure a set of unknown parameters? We rigorously answer this question by presenting precise theorems proving that for a broad class of problems there is, at most, a very limited intrinsic advantage to using entangled states or global measurements. Moreover, for many estimation problems separable states and local measurements are optimal, and can achieve the ultimate quantum limit on the estimation uncertainty. This immediately implies that there are broad conditions under which simultaneous estimation of multiple parameters cannot outperform individual, independent estimations. Our results apply to any situation in which spatially localized sensors are \u2026",
+            "Multiparameter estimation in networked quantum sensors",
+            "Timothy J Proctor and Paul A Knott and Jacob A Dunningham",
+            "2018",
+            "BstGDCwAAAAJ:7PzlFSSx8tAC",
+            101,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.120.080501",
+            "1375679444334483069",
+            "\/scholar?cites=1375679444334483069",
+            {
+                "2018":14,
+                "2019":31,
+                "2020":55,
+                "2021":1
+            }
+        ],
+        [
+            "Quantum computers will eventually reach a size at which quantum error correction becomes imperative. Quantum information can be protected from qubit imperfections and flawed control operations by encoding a single logical qubit in multiple physical qubits. This redundancy allows the extraction of error syndromes and the subsequent detection or correction of errors without destroying the logical state itself through direct measurement. We show the encoding and syndrome measurement of a fault-tolerantly prepared logical qubit via an error detection protocol on four physical qubits, represented by trapped atomic ions. This demonstrates the robustness of a logical qubit to imperfections in the very operations used to encode it. The advantage persists in the face of large added error rates and experimental calibration errors.",
+            "Fault-tolerant quantum error detection",
+            "Norbert M Linke and Mauricio Gutierrez and Kevin A Landsman and Caroline Figgatt and Shantanu Debnath and Kenneth R Brown and Christopher Monroe",
+            "2017",
+            "BstGDCwAAAAJ:9ZlFYXVOiuMC",
+            100,
+            "https:\/\/advances.sciencemag.org\/content\/3\/10\/e1701074.short",
+            "14460867865586049771",
+            "\/scholar?cites=14460867865586049771",
+            {
+                "2016":1,
+                "2017":7,
+                "2018":20,
+                "2019":27,
+                "2020":43,
+                "2021":2
+            }
+        ],
+        [
+            "The Grover quantum search algorithm is a hallmark application of a quantum computer with a well-known speedup over classical searches of an unsorted database. Here, we report results for a complete three-qubit Grover search algorithm using the scalable quantum computing technology of trapped atomic ions, with better-than-classical performance. Two methods of state marking are used for the oracles: a phase-flip method employed by other experimental demonstrations, and a Boolean method requiring an ancilla qubit that is directly equivalent to the state marking scheme required to perform a classical search. We also report the deterministic implementation of a Toffoli-4 gate, which is used along with Toffoli-3 gates to construct the algorithms; these gates have process fidelities of 70.5% and 89.6%, respectively.",
+            "Complete 3-qubit Grover search on a programmable quantum computer",
+            "Caroline Figgatt and Dmitri Maslov and KA Landsman and Norbert Matthias Linke and Shantanu Debnath and C Monroe",
+            "2017",
+            "BstGDCwAAAAJ:4DMP91E08xMC",
+            96,
+            "https:\/\/www.nature.com\/articles\/s41467-017-01904-7",
+            "4223248241091390395",
+            "\/scholar?cites=4223248241091390395",
+            {
+                "2016":1,
+                "2017":4,
+                "2018":19,
+                "2019":33,
+                "2020":39
+            }
+        ],
+        [
+            "Entanglement is one of the most fundamental properties of quantum mechanics 1, 2, 3, and is the key resource for quantum information processing 4, 5 (QIP). Bipartite entangled states of identical particles have been generated and studied in several experiments, and post-selected or heralded entangled states involving pairs of photons, single photons and single atoms, or different nuclei in the solid state, have also been produced 6, 7, 8, 9, 10, 11, 12. Here we use a deterministic quantum logic gate to generate a \u2018hybrid\u2019entangled state of two trapped-ion qubits held in different isotopes of calcium, perform full tomography of the state produced, and make a test of Bell\u2019s inequality with non-identical atoms. We use a laser-driven two-qubit gate 13, whose mechanism is insensitive to the qubits\u2019 energy splittings, to produce a maximally entangled state of one 40 Ca+ qubit and one 43 Ca+ qubit, held 3.5 micrometres \u2026",
+            "Hybrid quantum logic and a test of Bell\u2019s inequality using two different atomic isotopes",
+            "CJ Ballance and VM Sch\u00e4fer and Jonathan P Home and DJ Szwer and Scott C Webster and DTC Allcock and Norbert M Linke and TP Harty and DPL Aude Craik and Derek N Stacey and Andrew M Steane and David M Lucas",
+            "2015",
+            "BstGDCwAAAAJ:hqOjcs7Dif8C",
+            89,
+            "https:\/\/www.nature.com\/articles\/nature16184",
+            "1091307253596159287",
+            "\/scholar?cites=1091307253596159287",
+            {
+                "2015":4,
+                "2016":17,
+                "2017":18,
+                "2018":14,
+                "2019":15,
+                "2020":20,
+                "2021":1
+            }
+        ]
+    ]
+}

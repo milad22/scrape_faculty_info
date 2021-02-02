@@ -1,0 +1,141 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ],
+    "data":[
+        [
+            "Full detector simulation was among the largest CPU consumer in all CERN experiment software stacks for the first two runs of the Large Hadron Collider (LHC). In the early 2010's, the projections were that simulation demands would scale linearly with luminosity increase, compensated only partially by an increase of computing resources. The extension of fast simulation approaches to more use cases, covering a larger fraction of the simulation budget, is only part of the solution due to intrinsic precision limitations. The remainder corresponds to speeding-up the simulation software by several factors, which is out of reach using simple optimizations on the current code base. In this context, the GeantV R\\&D project was launched, aiming to redesign the legacy particle transport codes in order to make them benefit from fine-grained parallelism features such as vectorization, but also from increased code and data locality. This paper presents extensively the results and achievements of this R\\&D, as well as the conclusions and lessons learnt from the beta prototype.",
+            "GeantV: Results from the prototype of concurrent vector particle transport simulation in HEP",
+            "G Amadio and A Ananya and J Apostolakis and M Bandieramonte and S Banerjee and A Bhattacharyya and C Bianchini and G Bitzes and P Canal and F Carminati and O Chaparro-Amaro and G Cosmo and JC Licht and V Drogan and L Duhem and D Elvira and J Fuentes and A Gheata and M Gheata and M Gravey and I Goulas and F Hariri and SY Jun and D Konstantinov and H Kumawat and JG Lima and A Maldonado-Romo and J Mart\u00ednez-Castro and P Mato and T Nikitina and S Novaes and M Novak and K Pedro and W Pokorski and A Ribon and R Schmitz and R Seghal and O Shadura and E Tcherniaev and S Vallecorsa and S Wenzel and Y Zhang",
+            "2020",
+            "jb2Ciy4AAAAJ:roLk4NBRz8UC",
+            9,
+            "https:\/\/arxiv.org\/abs\/2005.00949",
+            "6478233882832502073",
+            "\/scholar?cites=6478233882832502073",
+            {
+                "2020":8,
+                "2021":1
+            }
+        ],
+        [
+            "The bin packing process can be modeled on optimization problems and it is widely studied due to its various applications. However, most implementation of the problem lacks of coordination in a unified optimization framework. Therefore, based on a general framework of multi-objective optimization with metaheuristics, jMetal, a novel genetic algorithm for bin packing problems is proposed in this paper. First, it extends the base solution of jMetal to problems with dynamic variables. Then according to the flow chart of genetic algorithms in jMetal, the operators for the heuristic algorithm are devised, e.g., the crossover and mutation operators. Finally the bin packing problem is implemented with the designed operators in this framework. Experiments are carried out, to verify the performance of the algorithm, obtaining the results that are comparable with the well-known heuristics.",
+            "A Novel Genetic Algorithm for Bin Packing Problem in jMetal",
+            "Fei Luo and Isaac D Scherson and Joel Fuentes",
+            "2017",
+            "jb2Ciy4AAAAJ:u-x6o8ySG0sC",
+            8,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/8029218\/",
+            "675798926839781802",
+            "\/scholar?cites=675798926839781802",
+            {
+                "2019":5,
+                "2020":3
+            }
+        ],
+        [
+            "With the advent of computing systems with on-die integrated graphics processing unit (iGPU), new general-purpose GPU programming challenges have emerged from these heterogeneous processors. We propose a lock-free skiplist for Intel's integrated graphics processor that is optimized to achieve the best performance using the C for Media framework. To the best of our knowledge, this is the first implementation of a lock-free data structure for iGPU. Experimental results show that our proposal is more compute-efficient than an existing discrete GPU implementation and outperforms state-of-the-art lock-free and lock-based skiplists for multi-core CPU, achieving up to 3.5x speedup. Additionally, energy savings of up to 300% are obtained when running different skiplist workloads on iGPU instead of CPU cores, hence further improving energy efficiency.",
+            "A Lock-Free Skiplist for Integrated Graphics Processing Units",
+            "Joel Fuentes and Wei-yu Chen and Guei-yuan Lueh and Isaac D Scherson",
+            "2019",
+            "jb2Ciy4AAAAJ:W7OEmFMy1HYC",
+            2,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/8778279\/",
+            "16718833461426789963",
+            "\/scholar?cites=16718833461426789963",
+            {
+                "2019":2
+            }
+        ],
+        [
+            "A thread synchronization mechanism dubbed Spatial Locks for parallel geometric algorithms is presented. We show that Spatial Locks ensure thread synchronization on geometric algorithms that perform concurrent operations on geometric surfaces in two-dimensional or threedimensional space. The proposed technique respects the fact that these operations follow a certain order of processing, ie priorities. Parallelizing these kinds of geometric algorithms using Spatial Locks requires only a simple parameter initialization, rather than modifying the algorithms themselves together with their internal data structures. A parallel algorithm for mesh simplification is chosen to show the Spatial Locks usefulness when parallelizing geometric algorithms with ease on multi-core machines. Experimental results illustrate the advantage of using this synchronization mechanism where significant computational improvement can be achieved compared to alternative approaches.",
+            "Synchronizing Parallel Geometric Algorithms on Multi-Core Machines",
+            "Joel Fuentes and Fei Luo",
+            "2018",
+            "jb2Ciy4AAAAJ:IjCSPb-OGe4C",
+            2,
+            "https:\/\/www.jstage.jst.go.jp\/article\/ijnc\/8\/2\/8_240\/_article\/-char\/ja\/",
+            "9925265622898909012",
+            "\/scholar?cites=9925265622898909012",
+            {
+                "2019":2
+            }
+        ],
+        [
+            "One of the most important steps in obtaining a relational model from legacy systems is the extraction of functional dependencies (FDs) through data mining techniques. Several methods have been proposed for this purpose and most use direct search methods that traverse the search space in exponential time in the number of attributes of the relation. As it is not uncommon to find in practice relations with tens of attributes, a need exists to further develop more efficient techniques to find FDs. The method studied here finds the minimal set of minimal FDs using algorithms that solve the hypergraph duality problem applied on the complement of the refutation hypergraph of the relation without going through the exponential search space. After showing that the extraction of FDs can be reduced to the hypergraph duality problem, experimental results are given as verification and characterization of the correctness and time \u2026",
+            "A method to find functional dependencies through refutations and duality of hypergraphs",
+            "Joel Fuentes and Pablo S\u00e1ez and Gilberto Guti\u00e9rrez and Isaac D Scherson",
+            "2015",
+            "jb2Ciy4AAAAJ:2osOgNQ5qMEC",
+            2,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/8187930\/",
+            "9483754687158402464",
+            "\/scholar?cites=9483754687158402464",
+            {
+                "2017":1,
+                "2018":1
+            }
+        ],
+        [
+            "Efficient resource management in a Cloud data center relies on minimizing energy consumption and utilizing physical resource efficiently while maintaining the service-level agreement (SLA) at its highest level. To achieve this goal, dynamically consolidating virtual machines (VMs) is considered a promising method, because it eliminates the hotspots resulting from overloaded hosts and switches the underloaded hosts to sleep mode through the live migration of VMs. However, during the consolidation, each VM migration consumes additional resource, leading to performance degradation and SLA violation. To address this issue, this study proposes a novel adaptive performance-to-power-ratio (PPR)-aware dynamic VM consolidation framework based on both the predicted resource utilization and PPR of the heterogeneous hosts to resolve the trade-off of performance and energy. The proposed framework consists \u2026",
+            "Adaptive virtual machine consolidation framework based on performance-to-power ratio in cloud data centers",
+            "Weichao Ding and Fei Luo and Liangxiu Han and Chunhua Gu and Haifeng Lu and Joel Fuentes",
+            "2020",
+            "jb2Ciy4AAAAJ:eQOLeE2rZwMC",
+            1,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0167739X19307769",
+            "10903903995978513688",
+            "\/scholar?cites=10903903995978513688",
+            {
+                "2020":1
+            }
+        ],
+        [
+            "Heterogeneous processors, consisting of CPU cores and an integrated GPU on the same die, are currently the standard in desktop and mobile platforms. The number of CPU cores is increased with every new generation, and integrated GPUs are constantly being improved in performance and energy efficiency. This raises the importance of developing programming methods and techniques to benefit general purpose applications on heterogeneous processors as more parallelism can be achieved. This dissertation addresses this challenge by studying new ways of exploiting parallelism on CPU cores as well as the integrated GPU, focusing on blocking and non-blocking data structures.A new thread synchronization mechanism for parallel geometric algorithms dubbed Spatial Locks is first introduced. This synchronization mechanism ensures thread synchronization on geometric algorithms that perform concurrent operations on geometric surfaces in two- or three-dimensional spaces. A parallel algorithm for mesh simplification is chosen to illustrate the Spatial Locks usefulness when parallelizing geometric algorithms with ease on multi-core machines. Experimental results show the advantage of using this synchronization mechanism where significant computational improvement can be achieved compared to alternative approaches.Non-blocking data structures are commonly used by many multi-threaded applications, and their implementation is based on the use of atomic operations. New computing architectures, such as Intel CPU\/iGPU processors, have incorporated data-parallel processing through SIMD instructions, including in some cases \u2026",
+            "Towards Methods to Exploit Concurrent Data Structures on Heterogeneous CPU\/iGPU Processors",
+            "Joel Fuentes",
+            "2019",
+            "jb2Ciy4AAAAJ:Y0pCki6q_DkC",
+            1,
+            "https:\/\/escholarship.org\/uc\/item\/7r21z1s7",
+            "2922232534330870778",
+            "\/scholar?cites=2922232534330870778",
+            {
+                "2019":1
+            }
+        ],
+        [
+            "Una de las principales etapas en la obtenci\u00f3n del modelo relacional a partir de sistemas heredados es la extracci\u00f3n de las dependencias funcionales por medio de t\u00e9cnicas de miner\u0131a de datos. Se han propuesto variados m\u00e9todos para este fin, siendo las soluciones m\u00e1s conocidas exponenciales en tiempo en el n\u00famero de atributos de la relaci\u00f3n. Pero en situaciones reales es frecuente encontrar casos en que la cantidad de atributos es alta (m\u00e1s de 20 \u00f3 30 atributos). La presente propuesta est\u00e1 enfocada a resolver este problema utilizando el conocimiento del que se dispone en la actualidad en relaci\u00f3n con el problema de dualidad de hipergrafos, para el cual se conocen algoritmos cuasi-polinomiales (O (nlog n)), que hasta ahora no han sido com\u00fanmente considerados para resolver el problema de la obtenci\u00f3n de dependencias funcionales. Se puede mostrar que este problema, si se parte de las refutaciones para estas dependencias existentes en los conjuntos de datos de los sistemas heredados, es equivalente al mencionado problema de dualidad de hipergrafos. En concreto, el objetivo de esta investigaci\u00f3n es estudiar los algoritmos, tanto para la obtenci\u00f3n de dependencias funcionales como de teor\u0131a de hipergrafos, para luego proponer una herramienta de la cual se pueden beneficiar los procesos de migraci\u00f3n de los sistemas heredados. Se espera que esta herramienta haga posible el procesamiento de relaciones con gran cantidad de atributos, que escapa a las herramientas disponibles en la actualidad.",
+            "Propuesta de un m\u00e9todo para la obtenci\u00f3n de Dependencias Funcionales basado en Dualidad de Hipergrafos",
+            "Joel Fuentes and Pablo S\u00e1ez and Gilberto Guti\u00e9rrez",
+            "2011",
+            "jb2Ciy4AAAAJ:9yKSN-GCB0IC",
+            1,
+            "https:\/\/www.researchgate.net\/profile\/Gilberto_Gutierrez2\/publication\/266220993_Propuesta_de_un_metodo_para_la_obtencion_de_Dependencias_Funcionales_basado_en_Dualidad_de_Hipergrafos\/links\/54b517d60cf26833efd065d2\/Propuesta-de-un-metodo-para-la-obtencion-de-Dependencias-Funcionales-basado-en-Dualidad-de-Hipergrafos.pdf",
+            "8195969886100556158",
+            "\/scholar?cites=8195969886100556158",
+            {
+                "2012":1
+            }
+        ]
+    ]
+}

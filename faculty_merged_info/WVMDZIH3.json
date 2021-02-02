@@ -1,0 +1,39 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "WVMDZIH3",
+            "Y4mtEasAAAAJ",
+            [
+                "The protein folding problem",
+                "The protein folding problem: when will it be solved?",
+                "Structure and dynamic regulation of Src-family kinases",
+                "Protein folding by zipping and assembly",
+                "Transition states and the meaning of \u03a6-values in protein folding kinetics",
+                "Change in allosteric network affects binding affinities of PDZ domains: analysis through perturbation response scanning"
+            ],
+            [
+                "The \u201cprotein folding problem\u201d consists of three closely related puzzles: (a) What is the folding code? (b) What is the folding mechanism? (c) Can we predict the native structure of a protein from its amino acid sequence? Once regarded as a grand challenge, protein folding has seen great progress in recent years. Now, foldable proteins and nonbiological polymers are being designed routinely and moving toward successful applications. The structures of small proteins are now often well predicted by computer methods. And, there is now a testable explanation for how a protein can fold so quickly: A protein solves its large global optimization problem as a series of smaller local optimization problems, growing and assembling the native structure from peptide fragments, local structures first.",
+                "The protein folding problem can be viewed as three different problems: defining the thermodynamic folding code; devising a good computational structure prediction algorithm; and answering Levinthal's question regarding the kinetic mechanism of how proteins can fold so quickly. Once regarded as a grand challenge, protein folding has seen much progress in recent years. Folding codes are now being used to successfully design proteins and non-biological foldable polymers; aided by the Critical Assessment of Techniques for Structure Prediction (CASP) competition, protein structure prediction has now become quite good. Even the once-challenging Levinthal puzzle now seems to have an answer \u2014 a protein can avoid searching irrelevant conformations and fold quickly by making local independent decisions first, followed by non-local global decisions later.",
+                "Src-family kinases are modular signaling proteins involved in a diverse array of cellular processes. All members of the Src family share the same domain organization, with modular SH3, SH2 and kinase domains followed by a C-terminal negative regulatory tail. X-ray crystallographic analyses of several Src family members have revealed critical roles for the SH3 and SH2 domains in the down-regulation of the kinase domain. This review focuses on biological, biophysical, and computational studies that reveal conformationally distinct active states within this unique kinase family.",
+                "How do proteins fold so quickly? Some denatured proteins fold to their native structures in only microseconds, on average, implying that there is a folding \u201cmechanism,\u201d i.e., a particular set of events by which the protein short-circuits a broader conformational search. Predicting protein structures using atomically detailed physical models is currently challenging. The most definitive proof of a putative folding mechanism would be whether it speeds up protein structure prediction in physical models. In the zipping and assembly (ZA) mechanism, local structuring happens first at independent sites along the chain, then those structures either grow (zip) or coalescence (assemble) with other structures. Here, we apply the ZA search mechanism to protein native structure prediction by using the AMBER96 force field with a generalized Born\/surface area implicit solvent model and sampling by replica exchange molecular \u2026",
+                "What is the mechanism of two-state protein folding? The rate-limiting step is typically explored through a \u03a6-value, which is the mutation-induced change in the transition state free energy divided by the change in the equilibrium free energy of folding. \u03a6-values ranging from 0 to 1 have been interpreted as meaning the transition state is denatured-like (0), native-like (1) or in-between. But there is no classical interpretation for the experimental \u03a6-values that are negative or> 1. Using a rigorous method to identity transition states via an exact lattice model, we find that nonclassical \u03a6-values can arise from parallel microscopic flow processes, such as those in funnel-shaped energy landscapes. \u03a6< 0 results when a mutation destabilizes a slow flow channel, causing a backflow into a faster flow channel. \u03a6> 1 implies the reverse: a backflow from a fast channel into a slow one. Using a'landscape mapping'method, we find \u2026",
+                "The allosteric mechanism plays a key role in cellular functions of several PDZ domain proteins (PDZs) and is directly linked to pharmaceutical applications; however, it is a challenge to elaborate the nature and extent of these allosteric interactions. One solution to this problem is to explore the dynamics of PDZs, which may provide insights about how intramolecular communication occurs within a single domain. Here, we develop an advancement of perturbation response scanning (PRS) that couples elastic network models with linear response theory (LRT) to predict key residues in allosteric transitions of the two most studied PDZs (PSD-95 PDZ3 domain and hPTP1E PDZ2 domain). With PRS, we first identify the residues that give the highest mean square fluctuation response upon perturbing the binding sites. Strikingly, we observe that the residues with the highest mean square fluctuation response agree with experimentally determined residues involved in allosteric transitions. Second, we construct the allosteric pathways by linking the residues giving the same directional response upon perturbation of the binding sites. The predicted intramolecular communication pathways reveal that PSD-95 and hPTP1E have different pathways through the dynamic coupling of different residue pairs. Moreover, our analysis provides a molecular understanding of experimentally observed hidden allostery of PSD-95. We show that removing the distal third alpha helix from the binding site alters the allosteric pathway and decreases the binding affinity. Overall, these results indicate that (i) dynamics plays a key role in allosteric regulations of PDZs, (ii) the local \u2026"
+            ],
+            [
+                [
+
+                ]
+            ]
+        ]
+    ]
+}

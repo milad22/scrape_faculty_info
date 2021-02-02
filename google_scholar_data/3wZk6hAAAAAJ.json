@@ -1,0 +1,136 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "3wZk6hAAAAAJ",
+            "William W. Metcalf",
+            "Department of Microbiology, University of Illinois",
+            "@illinois.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=3wZk6hAAAAAJ",
+            9794,
+            [
+
+            ],
+            3859,
+            56,
+            36,
+            116,
+            97,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"uIKUcyAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kou-San Ju",
+                    "affiliation":"The Ohio State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9zuXAAcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"James Doroghazi",
+                    "affiliation":"Computational Life Science Portfolio, Bayer CropScience"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"W7h-NbgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Anthony W. Goering",
+                    "affiliation":"Northwestern University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"R8waAy0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Huimin Zhao",
+                    "affiliation":"Steven L. Miller Chair of Chemical Engineering, University of Illinois at Urbana-Champaign"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"xqRMM8MAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gargi Kulkarni",
+                    "affiliation":"Researcher, California Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"tysCye4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Joshua Blodgett",
+                    "affiliation":"Washington University in St Louis"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"aH-6pSMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Paul Thomas",
+                    "affiliation":"Research Associate Professor"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"vJkR4HIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David Labeda",
+                    "affiliation":"Retired Research Microbiologist, formerly at USDA, ARS, National Center for Agricultural Utilization"
+                }
+            ]
+        ]
+    ]
+}

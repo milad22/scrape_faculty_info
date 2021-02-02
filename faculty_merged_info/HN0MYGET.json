@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "HN0MYGET",
+            "iYI7VYMAAAAJ",
+            [
+                "Electrons and holes in phosphorene",
+                "Spin-orbit symmetries of conduction electrons in silicon",
+                "Optical spin injection and spin lifetime in Ge heterostructures",
+                "Silicon spin communication",
+                "Intrinsic spin lifetime of conduction electrons in germanium",
+                "Anisotropy-Driven Spin Relaxation in Germanium",
+                "Theory of spin-dependent phonon-assisted optical transitions in silicon",
+                "Symmetry, distorted band structure, and spin-orbit coupling of group-III metal-monochalcogenide monolayers",
+                "Inelastic electron tunneling spectroscopy of local \u201cspin accumulation\u201d devices",
+                "Interpreting current-induced spin polarization in topological insulator surface states"
+            ],
+            [
+                "We present a symmetry analysis of electronic band structure including spin-orbit interaction close to the insulating gap edge in monolayer black phosphorus (\u201cphosphorene\u201d). Expressions for energy dispersion relation and spin-dependent eigenstates for electrons and holes are found via simplification of a perturbative expansion in wave vector k away from the zone center using elementary group theory. Importantly, we expose the underlying symmetries giving rise to substantial anisotropy in optical absorption, charge, and spin transport properties, and reveal the mechanism responsible for valence band distortion and possible lack of a true direct gap.",
+                "We derive a spin-dependent Hamiltonian that captures the symmetry of the zone edge states in silicon. We present analytical expressions of the spin-dependent states and of spin relaxation due to electron-phonon interactions in the multivalley conduction band. We find excellent agreement with experimental results. Similar to the usage of the Kane Hamiltonian in direct band-gap semiconductors, the new Hamiltonian can be used to study spin properties of electrons in silicon.",
+                "We demonstrate optical orientation in Ge\/SiGe quantum wells and study their spin properties. The ultrafast electron transfer from the center of the Brillouin zone to its edge allows us to achieve high spin polarizations and to resolve the spin dynamics of holes and electrons. The circular polarization degree of the direct gap photoluminescence exceeds the theoretical bulk limit, yielding\u223c 37% and\u223c 85% for transitions with heavy and light holes states, respectively. The spin lifetime of holes at the top of the valence band is estimated to be\u223c 0.5 ps and it is governed by transitions between light and heavy hole states. Electrons at the bottom of the conduction band, on the other hand, have a spin lifetime that exceeds 5 ns below 150 K. Theoretical analysis of the spin relaxation indicates that phonon-induced intervalley scattering dictates the spin lifetime of electrons.",
+                "Recent experimental breakthroughs have demonstrated that the electron spin in silicon can be reliably injected and detected as well as transferred over distances exceeding 1 mm. We propose an on-chip communication paradigm which is based on modulating spin polarization of a constant current in silicon wires. We provide figures of merit for this scheme by studying spin relaxation and drift-diffusion models in silicon.",
+                "We investigate the intrinsic spin relaxation of conduction electrons in germanium due to electron-phonon scattering. We derive intravalley and intervalley spin-flip matrix elements for a general spin orientation and quantify the resulting anisotropy in spin relaxation. The form of the intravalley spin-flip matrix element is derived from the eigenstates of a compact spin-dependent k\u00b7 p Hamiltonian in the vicinity of the L point (where thermal electrons are populated in Ge). Spin lifetimes from analytical integrations of the intravalley and intervalley matrix elements show excellent agreement with independent results from elaborate numerical methods.",
+                "A unique spin depolarization mechanism, induced by the presence of g-factor anisotropy and intervalley scattering, is revealed by spin-transport measurements on long-distance germanium devices in a magnetic field longitudinal to the initial spin orientation. The confluence of electron-phonon scattering (leading to Elliott-Yafet spin flips) and this previously unobserved physics enables the extraction of spin lifetime solely from spin-valve measurements, without spin precession, and in a regime of substantial electric-field-generated carrier heating. We find spin lifetimes in Ge up to several hundreds of nanoseconds at low temperature, far beyond any other available experimental results.",
+                "Silicon is an ideal material choice for spintronics devices due to its relatively long spin relaxation time and mature technology. To date, however, there are no parameter-free methods to accurately determine the degree of spin polarization of electrons in silicon. This missing link is established with a theory that provides concise relations between the degrees of spin polarization and measured circular polarization for each of the dominant phonon-assisted optical transitions. The phonon symmetries play a key role in elucidating recent spin injection experiments in silicon.",
+                "The electronic structure of (group-III) metal-monochalcogenide monolayers exhibits many unusual features. Some, such as the unusually distorted upper valence-band dispersion we describe as a \u201ccaldera,\u201d are primarily the result of purely orbital interactions. Others, including spin splitting and wave-function spin mixing, are directly driven by spin-orbit coupling. We employ elementary group theory to explain the origin of these properties, and use a tight-binding model to calculate the phenomena enabled by them, such as the band-edge carrier effective g factors, optical absorption spectrum, conduction electron spin orientation, and a relaxation-induced upper-valence-band population inversion and spin polarization mechanism.",
+                "We investigate the origin of purported \u201cspin accumulation\u201d signals observed in local \u201cthree-terminal\u201d (3T) measurements of ferromagnet\/insulator\/n-Si tunnel junctions using inelastic electron tunneling spectroscopy (IETS). Voltage bias and magnetic field dependences of the IET spectra were found to account for the dominant contribution to 3T magnetoresistance, thus indicating that it arises from inelastic tunneling through impurities and defects at junction interfaces and within the barrier, rather than from spin accumulation due to pure elastic tunneling into bulk Si as has been previously assumed.",
+                "Several recent experiments on three-dimensional topological insulators claim to observe a large charge current-induced nonequilibrium ensemble spin polarization of electrons in the helical surface state. We present a comprehensive criticism of such claims, using both theory and experiment: First, we clarify the interpretation of quantities extracted from these measurements by deriving standard expressions from a Boltzmann transport equation approach in the relaxation-time approximation at zero and finite temperature to emphasize our assertion that, despite high in-plane spin projection, obtainable current-induced ensemble spin polarization is minuscule. Second, we use a simple experiment to demonstrate that magnetic field-dependent open-circuit voltage hysteresis (identical to those attributed to current-induced spin polarization in topological insulator surface states) can be generated in analogous devices \u2026"
+            ],
+            [
+                [
+                    "condensed matter physics"
+                ]
+            ]
+        ]
+    ]
+}

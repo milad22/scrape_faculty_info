@@ -1,0 +1,249 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Pattern classification has been successfully applied in many problem domains, such as biometric recognition, document classification or medical diagnosis. Missing or unknown data are a common drawback that pattern recognition techniques need to deal with when solving real-life classification tasks. Machine learning approaches and methods imported from statistical learning theory have been most intensively studied and used in this subject. The aim of this work is to analyze the missing data problem in pattern classification tasks, and to summarize and compare some of the well-known methods used for handling missing values.",
+            "Pattern classification with missing data: a review",
+            "Pedro J Garc\u00eda-Laencina and Jos\u00e9-Luis Sancho-G\u00f3mez and An\u00edbal R Figueiras-Vidal",
+            "2010",
+            "vSuD5hoAAAAJ:u5HHmVD_uO8C",
+            511,
+            "https:\/\/link.springer.com\/article\/10.1007\/s00521-009-0295-6",
+            "6502588696890781178",
+            "\/scholar?cites=6502588696890781178",
+            {
+                "2010":6,
+                "2011":7,
+                "2012":22,
+                "2013":19,
+                "2014":24,
+                "2015":41,
+                "2016":52,
+                "2017":53,
+                "2018":67,
+                "2019":96,
+                "2020":113,
+                "2021":4
+            }
+        ],
+        [
+            "Objectives Missing data imputation is an important task in cases where it is crucial to use all available data and not discard records with missing values. This work evaluates the performance of several statistical and machine learning imputation methods that were used to predict recurrence in patients in an extensive real breast cancer data set. Materials and methods Imputation methods based on statistical techniques, eg, mean, hot-deck and multiple imputation, and machine learning techniques, eg, multi-layer perceptron (MLP), self-organisation maps (SOM) and k-nearest neighbour (KNN), were applied to data collected through the \u201cEl \u00c1lamo-I\u201d project, and the results were then compared to those obtained from the listwise deletion (LD) imputation method. The database includes demographic, therapeutic and recurrence-survival information from 3679 women with operable invasive breast cancer diagnosed in 32 \u2026",
+            "Missing data imputation using statistical and machine learning methods in a real breast cancer problem",
+            "Jos\u00e9 M Jerez and Ignacio Molina and Pedro J Garc\u00eda-Laencina and Emilio Alba and Nuria Ribelles and Miguel Mart\u00edn and Leonardo Franco",
+            "2010",
+            "vSuD5hoAAAAJ:d1gkVwhDpl0C",
+            335,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0933365710000679",
+            "18131803006886375109",
+            "\/scholar?cites=18131803006886375109",
+            {
+                "2010":1,
+                "2011":4,
+                "2012":15,
+                "2013":24,
+                "2014":24,
+                "2015":36,
+                "2016":31,
+                "2017":36,
+                "2018":33,
+                "2019":67,
+                "2020":60,
+                "2021":2
+            }
+        ],
+        [
+            "Missing data is a common drawback in many real-life pattern classification scenarios. One of the most popular solutions is missing data imputation by the K nearest neighbours (K NN) algorithm. In this article, we propose a novel K NN imputation procedure using a feature-weighted distance metric based on mutual information (MI). This method provides a missing data estimation aimed at solving the classification task, ie, it provides an imputed dataset which is directed toward improving the classification performance. The MI-based distance metric is also used to implement an effective K NN classifier. Experimental results on both artificial and real classification datasets are provided to illustrate the efficiency and the robustness of the proposed algorithm.",
+            "K nearest neighbours with mutual information for simultaneous classification and missing data imputation",
+            "Pedro J Garc\u00eda-Laencina and Jos\u00e9-Luis Sancho-G\u00f3mez and An\u00edbal R Figueiras-Vidal and Michel Verleysen",
+            "2009",
+            "vSuD5hoAAAAJ:u-x6o8ySG0sC",
+            165,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0925231209000149",
+            "1565735223017986703",
+            "\/scholar?cites=1565735223017986703",
+            {
+                "2009":2,
+                "2010":7,
+                "2011":8,
+                "2012":12,
+                "2013":13,
+                "2014":13,
+                "2015":13,
+                "2016":16,
+                "2017":18,
+                "2018":23,
+                "2019":19,
+                "2020":18
+            }
+        ],
+        [
+            "Breast cancer is the most frequently diagnosed cancer in women. Using historical patient information stored in clinical datasets, data mining and machine learning approaches can be applied to predict the survival of breast cancer patients. A common drawback is the absence of information, i.e., missing data, in certain clinical trials. However, most standard prediction methods are not able to handle incomplete samples and, then, missing data imputation is a widely applied approach for solving this inconvenience. Therefore, and taking into account the characteristics of each breast cancer dataset, it is required to perform a detailed analysis to determine the most appropriate imputation and prediction methods in each clinical environment. This research work analyzes a real breast cancer dataset from Institute Portuguese of Oncology of Porto with a high percentage of unknown categorical information (most clinical data \u2026",
+            "Missing data imputation on the 5-year survival prediction of breast cancer patients with unknown discrete values",
+            "Pedro J Garc\u00eda-Laencina and Pedro Henriques Abreu and Miguel Henriques Abreu and No\u00e9mia Afonoso",
+            "2015",
+            "vSuD5hoAAAAJ:NMxIlDl6LWMC",
+            114,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0010482515000554",
+            "13321658406650335230",
+            "\/scholar?cites=13321658406650335230",
+            {
+                "2015":5,
+                "2016":8,
+                "2017":20,
+                "2018":22,
+                "2019":30,
+                "2020":27,
+                "2021":2
+            }
+        ],
+        [
+            "Brain\u2013Computer Interface systems (BCIs) based on Electroencephalogram (EEG) signal processing allow us to translate the subject's brain activities into control commands for computer devices. This paper presents an efficient embedded approach for feature selection and linear discrimination of EEG signals. In the first stage, four well-known feature extraction methods are used: Power spectral features, Hjorth parameters, Autoregressive modelling and Wavelet transform. From all the obtained features, the proposed method efficiently selects and combines the most useful features for classification with less computational requirements. Least Angle Regression (LARS) is used for properly ranking each feature and, then, an efficient Leave-One-Out (LOO) estimation based on the PRESS statistic is used to choose the most relevant features. Experimental results on motor-imagery BCIs problems are provided to \u2026",
+            "Efficient feature selection and linear discrimination of EEG signals",
+            "Germ\u00e1n Rodr\u00edguez-Berm\u00fadez and Pedro J Garc\u00eda-Laencina and Joaqu\u00edn Roca-Gonz\u00e1lez and Joaqu\u00edn Roca-Dorda",
+            "2013",
+            "vSuD5hoAAAAJ:MXK_kJrjxJIC",
+            62,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0925231213000799",
+            "6310296297866354951",
+            "\/scholar?cites=6310296297866354951",
+            {
+                "2013":2,
+                "2014":4,
+                "2015":7,
+                "2016":8,
+                "2017":14,
+                "2018":11,
+                "2019":9,
+                "2020":7
+            }
+        ],
+        [
+            "Discriminative features have to be properly extracted and selected from the electroencephalographic (EEG) signals of each specific subject in order to achieve an adaptive brain\u2013computer interface (BCI) system. This work presents an efficient wrapper-based methodology for feature selection and least squares discrimination of high-dimensional EEG data with low computational complexity. Features are computed in different time segments using three widely used methods for motor imagery tasks and, then, they are concatenated or averaged in order to take into account the time course variability of the EEG signals. Once EEG features have been extracted, proposed framework comprises two stages. The first stage entails feature ranking and, in this work, two different procedures have been considered, the least angle regression (LARS) and the Wilcoxon rank sum test, to compare the performance of each one. The \u2026",
+            "Efficient automatic selection and combination of eeg features in least squares classifiers for motor imagery brain\u2013computer interfaces",
+            "German Rodriguez-Bermudez and Pedro J Garcia-Laencina and Joaquin Roca-Dorda",
+            "2013",
+            "vSuD5hoAAAAJ:HDshCWvjkbEC",
+            54,
+            "https:\/\/www.worldscientific.com\/doi\/abs\/10.1142\/S0129065713500159",
+            "17431975603710878371",
+            "\/scholar?cites=17431975603710878371",
+            {
+                "2013":2,
+                "2014":9,
+                "2015":15,
+                "2016":6,
+                "2017":5,
+                "2018":7,
+                "2019":7,
+                "2020":3
+            }
+        ],
+        [
+            "A Brain-Computer Interface (BCI) system based on motor imagery (MI) identifies patterns of electrical brain activity to predict the user intention while certain movement imagination tasks are performed. Currently, one of the most important challenges is the adaptive design of a BCI system. For solving it, this work explores dimensionality reduction techniques: once features have been extracted from Electroencephalogram (EEG) signals, the high-dimensional EEG data has to be mapped onto a new reduced feature space to make easier the classification stage. Besides the standard sequential feature selection methods, this paper analyzes two unsupervised transformation-based approaches \u2013 Principal Component Analysis and Locality Preserving Projections \u2013 and the Local Fisher Discriminant Analysis (LFDA), which works in a supervised manner. The dimensionality in the projected space is chosen following a \u2026",
+            "Exploring dimensionality reduction of EEG features in motor imagery task classification",
+            "Pedro J Garc\u00eda-Laencina and Germ\u00e1n Rodr\u00edguez-Bermudez and Joaqu\u00edn Roca-Dorda",
+            "2014",
+            "vSuD5hoAAAAJ:JV2RwH3_ST0C",
+            50,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0957417414001195",
+            "10012261891136659207",
+            "\/scholar?cites=10012261891136659207",
+            {
+                "2014":1,
+                "2015":8,
+                "2016":6,
+                "2017":9,
+                "2018":6,
+                "2019":9,
+                "2020":11
+            }
+        ],
+        [
+            "Datasets with missing values are frequent in real-world classification problems. It seems obvious that imputation of missing values can be considered as a series of secondary tasks, while classification is the main purpose of any machine dealing with these datasets. Consequently, Multi-Task Learning (MTL) schemes offer an interesting alternative approach to solve missing data problems. In this paper, we propose an MTL-based method for training and operating a modified Multi-Layer Perceptron (MLP) architecture to work in incomplete data contexts. The proposed approach achieves a balance between both classification and imputation by exploiting the advantages of MTL. Extensive experimental comparisons with well-known imputation algorithms show that this approach provides excellent results. The method is never worse than the traditional algorithms \u2013 an important robustness property \u2013 and, also, it clearly \u2026",
+            "Classifying patterns with missing values using Multi-Task Learning perceptrons",
+            "Pedro J Garc\u00eda-Laencina and Jos\u00e9-Luis Sancho-G\u00f3mez and An\u00edbal R Figueiras-Vidal",
+            "2013",
+            "vSuD5hoAAAAJ:UebtZRa9Y70C",
+            43,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0957417412010184",
+            "14466167079701133796",
+            "\/scholar?cites=14466167079701133796",
+            {
+                "2013":1,
+                "2014":2,
+                "2015":5,
+                "2016":6,
+                "2017":5,
+                "2018":8,
+                "2019":4,
+                "2020":11,
+                "2021":1
+            }
+        ],
+        [
+            "Extracting knowledge from electroencephalographic (EEG) signals has become an increasingly important research area in biomedical engineering. In addition to its clinical diagnostic purposes, in recent years there have been many efforts to develop brain computer interface (BCI) systems, which allow users to control external devices only by using their brain activity. Once the EEG signals have been acquired, it is necessary to use appropriate feature extraction and classification methods adapted to the user in order to improve the performance of the BCI system and, also, to make its design stage easier. This work introduces a novel fast adaptive BCI system for automatic feature extraction and classification of EEG signals. The proposed system efficiently combines several well-known feature extraction procedures and automatically chooses the most useful features for performing the classification task \u2026",
+            "Automatic and Adaptive Classification of Electroencephalographic Signals for Brain Computer Interfaces",
+            "Germ\u00e1n Rodr\u00edguez-Berm\u00fadez and Pedro J Garc\u00eda-Laencina",
+            "2012",
+            "vSuD5hoAAAAJ:4TOpqqG69KYC",
+            42,
+            "https:\/\/link.springer.com\/article\/10.1007\/s10916-012-9893-4",
+            "10119436963464268526",
+            "\/scholar?cites=10119436963464268526",
+            {
+                "2013":3,
+                "2014":3,
+                "2015":5,
+                "2016":5,
+                "2017":4,
+                "2018":5,
+                "2019":6,
+                "2020":9
+            }
+        ],
+        [
+            "Selection of the optimal neural architecture to solve a pattern classification problem entails to choose the relevant input units, the number of hidden neurons and its corresponding interconnection weights. This problem has been widely studied in many research works but their solutions usually involve excessive computational cost in most of the problems and they do not provide a unique solution. This paper proposes a new technique to efficiently design the MultiLayer Perceptron (MLP) architecture for classification using the Extreme Learning Machine (ELM) algorithm. The proposed method provides a high generalization capability and a unique solution for the architecture design. Moreover, the selected final network only retains those input connections that are relevant for the classification task. Experimental results show these advantages.",
+            "Neural architecture design based on extreme learning machine",
+            "Andr\u00e9s Bueno-Crespo and Pedro J Garc\u00eda-Laencina and Jos\u00e9-Luis Sancho-G\u00f3mez",
+            "2013",
+            "vSuD5hoAAAAJ:j3f4tGmQtD8C",
+            36,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0893608013001810",
+            "3829122276185826938",
+            "\/scholar?cites=3829122276185826938",
+            {
+                "2013":2,
+                "2014":8,
+                "2015":9,
+                "2016":6,
+                "2017":1,
+                "2018":4,
+                "2019":4,
+                "2020":2
+            }
+        ]
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "OF79B8NL",
+            "Y1A4_PMAAAAJ",
+            [
+                "Entanglement renormalization and holography",
+                "Holographic complexity equals bulk action?",
+                "Complexity, action, and black holes",
+                "Hidden Fermi surfaces in compressible states of gauge-gravity duality",
+                "Measuring the scrambling of quantum information",
+                "Lieb-Robinson bound and the butterfly effect in quantum field theories",
+                "Constructing holographic spacetimes using entanglement renormalization",
+                "Entanglement entropy and the Fermi surface",
+                "Slow scrambling in disordered quantum systems",
+                "Universality of gravity from entanglement"
+            ],
+            [
+                "We show how recent progress in real space renormalization group methods can be used to define a generalized notion of holography inspired by holographic dualities in quantum gravity. The generalization is based upon organizing information in a quantum state in terms of scale and defining a higher-dimensional geometry from this structure. While states with a finite correlation length typically give simple geometries, the state at a quantum critical point gives a discrete version of anti-de Sitter space. Some finite temperature quantum states include black hole-like objects. The gross features of equal time correlation functions are also reproduced.",
+                "We conjecture that the quantum complexity of a holographic state is dual to the action of a certain spacetime region that we call a Wheeler-DeWitt patch. We illustrate and test the conjecture in the context of neutral, charged, and rotating black holes in anti\u2013de Sitter spacetime, as well as black holes perturbed with static shells and with shock waves. This conjecture evolved from a previous conjecture that complexity is dual to spatial volume, but appears to be a major improvement over the original. In light of our results, we discuss the hypothesis that black holes are the fastest computers in nature.",
+                "Our earlier paper \u201cComplexity Equals Action\u201d conjectured that the quantum computational complexity of a holographic state is given by the classical action of a region in the bulk (the \u201cWheeler-DeWitt\u201d patch). We provide calculations for the results quoted in that paper, explain how it fits into a broader (tensor) network of ideas, and elaborate on the hypothesis that black holes are the fastest computers in nature.",
+                "General scaling arguments, and the behavior of the thermal entropy density, are shown to lead to an infrared metric holographically representing a compressible state with hidden Fermi surfaces. This metric is characterized by a general dynamic critical exponent, z, and a specific hyperscaling violation exponent, \u03b8. The same metric exhibits a logarithmic violation of the area law of entanglement entropy, as shown recently by Ogawa et al.[e-print arXiv: 1111.1023 (unpublished)]. We study the dependence of the entanglement entropy on the shape of the entangling region (s), on the total charge density, on temperature, and on the presence of additional visible Fermi surfaces of gauge-neutral fermions; for the latter computations, we realize the needed metric in an Einstein-Maxwell-dilaton theory. All our results support the proposal that the holographic theory describes a metallic state with hidden Fermi surfaces of \u2026",
+                "We provide a general protocol to measure out-of-time-order correlation functions. These correlation functions are of broad theoretical interest for diagnosing the scrambling of quantum information in interacting quantum systems and have recently received particular attention in the study of chaos and black holes within holographic duality. Measuring them requires an echo-type sequence in which the sign of a many-body Hamiltonian is reversed. We illustrate our protocol by detailing an implementation employing cold atoms and cavity quantum electrodynamics to probe spin models with nonlocal interactions. To verify the feasibility of the scheme with current technology, we analyze the effects of dissipation in a chaotic kicked-top model. Finally, we propose a number of other experimental platforms where similar out-of-time-order correlation functions can be measured.",
+                "As experiments are increasingly able to probe the quantum dynamics of systems with many degrees of freedom, it is interesting to probe fundamental bounds on the dynamics of quantum information. We elaborate on the relationship between one such bound\u2014the Lieb-Robinson bound\u2014and the butterfly effect in strongly coupled quantum systems. The butterfly effect implies the ballistic growth of local operators in time, which can be quantified with the \u201cbutterfly\u201d velocity v B. Similarly, the Lieb-Robinson velocity places a state-independent ballistic upper bound on the size of time evolved operators in nonrelativistic lattice models. Here, we argue that v B is a state-dependent effective Lieb-Robinson velocity. We study the butterfly velocity in a wide variety of quantum field theories using holography and compare with free-particle computations to understand the role of strong coupling. We find that v B remains constant \u2026",
+                "We elaborate on our earlier proposal connecting entanglement renormalization and holographic duality in which we argued that a tensor network can be reinterpreted as a kind of skeleton for an emergent holographic space. Here we address the question of the large  limit where on the holographic side the gravity theory becomes classical and a non-fluctuating smooth spacetime description emerges. We show how a number of features of holographic duality in the large  limit emerge naturally from entanglement renormalization, including a classical spacetime generated by entanglement, a sparse spectrum of operator dimensions, and phase transitions in mutual information. We also address questions related to bulk locality below the AdS radius, holographic duals of weakly coupled large  theories, Fermi surfaces in holography, and the holographic interpretation of branching MERA. Some of our considerations are inspired by the idea of quantum expanders which are generalized quantum transformations that add a definite amount of entropy to most states. Since we identify entanglement with geometry, we thus argue that classical spacetime may be built from quantum expanders (or something like them).",
+                "Free fermions with a finite Fermi surface are known to exhibit an anomalously large entanglement entropy. The leading contribution to the entanglement entropy of a region of linear size L in d spatial dimensions is S\u223c L d\u2212 1 log\ufeff L, a result that should be contrasted with the usual boundary law S\u223c L d\u2212 1. This term depends only on the geometry of the Fermi surface and on the boundary of the region in question. I give an intuitive account of this anomalous scaling based on a low energy description of the Fermi surface as a collection of one-dimensional gapless modes. Using this picture, I predict a violation of the boundary law in a number of other strongly correlated systems.",
+                "In this work we study the effect of static disorder on the growth of commutators\u2014a probe of information scrambling in quantum many-body systems\u2014in a variety of contexts. We find generically that disorder slows the onset of scrambling and, in the case of a many-body localized (MBL) state, partially halts it. In the MBL state, we show using a fixed point Hamiltonian that operators exhibit slow logarithmic growth under time evolution and compare the result with the expected growth of commutators in (de) localized noninteracting disordered models. Finally, using a scaling argument, we state a conjecture on the growth of commutators in a weakly interacting diffusive metal.",
+                "The entanglement\" first law\" in conformal field theories relates the entanglement entropy for a ball-shaped region to an integral over the same region involving the expectation value of the CFT stress-energy tensor, for infinitesimal perturbations to the CFT vacuum state. In recent work, this was exploited at leading order in  in the context of large N holographic CFTs to show that any geometry dual to a perturbed CFT state must satisfy Einstein's equations linearized about pure AdS. In this note, we investigate the implications of the leading 1\/N correction to the exact CFT result. We show that these corrections give rise to the source term for the gravitational equations: for semiclassical bulk states, the expectation value of the bulk stress-energy tensor appears as a source in the linearized equations. In particular, the CFT first law leads to Newton's Law of gravitation and the fact that all sources of stress-energy source the gravitational field. In our derivation, this universality of gravity comes directly from the universality of entanglement (the fact that all degrees of freedom in a subsystem contribute to entanglement entropy)."
+            ],
+            [
+                [
+                    "quantum matter",
+                    "condensed matter theory",
+                    "quantum information",
+                    "quantum computation",
+                    "holographic duality"
+                ]
+            ]
+        ]
+    ]
+}

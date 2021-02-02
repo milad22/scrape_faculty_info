@@ -1,0 +1,46 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "WMXUK6ZL",
+            "p27PpSAAAAAJ",
+            [
+                "Photoionization and high-density gas",
+                "Updated opacities from the Opacity Project",
+                "Photoionization modeling and the K lines of iron",
+                "Dielectronic recombination data for dynamic finite-density plasmas-I. Goals and methodology",
+                "Quasar outflow contribution to AGN feedback: observations of QSO SDSS J0838+ 2955",
+                "The quasar outflow contribution to AGN feedback: VLT measurements of SDSS J0318-0600",
+                "The XSTAR atomic database",
+                "Modeling of iron K lines: Radiative and Auger decay data for\u2013"
+            ],
+            [
+                "We present results of calculations using the XSTAR version 2 computer code. This code is loosely based on the XSTAR version 1 code, which has been available for public use for some time. However, it represents an improvement and update in several major respects, including atomic data, code structure, user interface, and improved physical description of ionization\/excitation. In particular, it now is applicable to high\u2010density situations in which significant excited atomic level populations are likely to occur. We describe the computational techniques and assumptions and present sample runs with particular emphasis on high\u2010density situations.",
+                "Using the code autostructure, extensive calculations of inner-shell atomic data have been made for the chemical elements He, C, N, O, Ne, Na, Mg, Al, Si, S, Ar, Ca, Cr, Mn, Fe and Ni. The results are used to obtain updated opacities from the Opacity Project (OP). A number of other improvements on earlier work have also been included. Rosseland-mean opacities from the OP are compared with those from OPAL. Differences of 5\u201310 per cent occur. The OP gives the \u2018Z-bump\u2019, at log (T)\u2243 5.2, to be shifted to slightly higher temperatures. The opacities from the OP, as functions of temperature and density, are smoother than those from OPAL. The accuracy of the integrations used to obtain mean opacities can depend on the frequency mesh used. Tests involving variation of the numbers of frequency points show that for typical chemical mixtures the OP integrations are numerically correct to within 0.1 per cent. The \u2026",
+                "We calculate the efficiency of iron K line emission and iron K absorption in photoionized models using a new set of atomic data. These data are more comprehensive than those previously applied to the modeling of iron K lines from photoionized gases and allow us to systematically examine the behavior of the properties of line emission and absorption as a function of the ionization parameter, density, and column density of model constant density clouds. We show that, for example, the net fluorescence yield for the highly charged ions is sensitive to the level population distribution produced by photoionization, and these yields are generally smaller than those predicted assuming the population is according to statistical weight. We demonstrate that the effects of the many strongly damped resonances below the K ionization thresholds conspire to smear the edge, thereby potentially affecting the astrophysical \u2026",
+                "A programme is outlined for the assembly of a comprehensive dielectronic recombination database within the generalized collisional\u2013radiative (GCR) framework. It is valid for modelling ions of elements in dynamic finite-density plasmas such as occur in transient astrophysical plasmas such as solar flares and in the divertors and high transport regions of magnetic fusion devices. The resolution and precision of the data are tuned to spectral analysis and so are sufficient for prediction of the dielectronic recombination contributions to individual spectral line emissivities. The fundamental data are structured according to the format prescriptions of the Atomic Data and Analysis Structure (ADAS) and the production of relevant GCR derived data for application is described and implemented following ADAS. The requirements on the dielectronic recombination database are reviewed and the new data are placed in context \u2026",
+                "We present a detailed analysis of the Astrophysical Research Consortium 3.5 m telescope spectrum of QSO SDSS J0838+ 2955. The object shows three broad absorption line (BAL) systems at 22,000, 13,000, and 4900 km s\u20131 blueshifted from the systemic redshift of z= 2.043. Of particular interest is the lowest velocity system that displays absorption from low-ionization species such as Mg II, Al II, Si II, Si II*, Fe II, and Fe II*. Accurate column densities were measured for all transitions in this lowest velocity BAL using an inhomogeneous absorber model. The ratio of column densities of Si II* and Fe II* with respect to their ground states gave an electron number density of log n e (cm\u20133)= 3.75\u00b10.22 for the outflow. Photoionization modeling with careful regards to chemical abundances and the incident spectral energy distribution predicts an ionization parameter of log U H=\u20131.93\u00b10.21 and a hydrogen column density of \u2026",
+                "We present high spectral resolution Very Large Telescope observations of the broad absorption line quasar SDSS J0318\u20130600. This high-quality data set allows us to extract accurate ionic column densities and determine an electron number density of n e= 10 3.3\u00b10.2 cm\u20133 for the main outflow absorption component. The heavily reddened spectrum of SDSS J0318-0600 requires purely silicate dust with a reddening curve characteristic of predominately large grains, from which we estimate the bolometric luminosity. We carry out photoionization modeling to determine the total column density, ionization parameter, and distance of the gas and find that the photoionization models suggest abundances greater than solar. Due to the uncertainty in the location of the dust extinction, we arrive at two viable distances for the main ouflow component from the central source, 6 and 17 kpc, where we consider the 6 kpc location \u2026",
+                " We report on the XSTAR atomic database that contains a large quantity of atomic rates for use in spectral modeling of astrophysical plasmas. The database includes atomic energy levels, line wavelengths, radiative transition probabilities, electron impact excitation rates, photoionization cross section, recombination rate coefficients, electron impact ionization rates, and fluorescence and Auger yields. The species considered are all the ions of H, He, C, N, O, Ne, Mg, Si, S, Ar, Ca, Fe, and Ni. The database collects recent data from many sources including CHIANTI, TOPbase, ADAS, NIST, and the IRON Project. Two particular features of the database are the incorporation of photoionization cross sections from the Opacity Project for all levels of every ion, and state\u2010specific recombination rates. State\u2010specific collisional ionization and three\u2010body recombination are also included. The collection of data is used to build \u2026",
+                "A detailed analysis of the radiative and Auger de-excitation channels of K-shell vacancy states in Fe ii\u2013Fe ix has been carried out. Level energies, wavelengths, A-values, Auger rates and fluorescence yields have been calculated for the lowest fine-structure levels populated by photoionization of the ground state of the parent ion. Different branching ratios, namely K\/K, K\u03b2\/K\u03b1, KLM\/KLL, KMM\/KLL, and the total K-shell fluorescence yields, , obtained in the present work have been compared with other theoretical data and solid-state measurements, finding good general agreement with the latter. The K\/K ratio is found to be sensitive to the excitation mechanism. From these comparisons it has been possible to estimate an accuracy of ~10% for the present transition probabilities."
+            ],
+            [
+                [
+                    "Astrophysics",
+                    "atomic physics",
+                    "spectroscopy",
+                    "plasma physics"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "X8PWWW6P",
+            "utIBWvQAAAAJ",
+            [
+                "Universality in chaos",
+                "Chaos: Classical and quantum",
+                "Exploring chaotic motion through periodic orbits",
+                "Recycling of strange sets: I. Cycle expansions",
+                "Invariant measurement of strange sets in terms of cycles",
+                "Periodic-orbit quantization of chaotic systems",
+                "Topological and metric properties of H\u00e9non-type strange attractors",
+                "Visualizing the geometry of state space in plane Couette flow",
+                "Group theory for Feynman diagrams in non-Abelian gauge theories",
+                "Group theory: birdtracks, Lie's, and exceptional groups"
+            ],
+            [
+                "Nature provides many examples of physical systems that are described by deterministic equations of motion, but that nevertheless exhibit nonpredictable behavior. The detailed description of turbulent motions remains perhaps the outstanding unsolved problem of classical physics. In recent years, however, a new theory has been formulated that succeeds in making quantitative predictions describing certain transitions to turbulence. Its significance lies in its possible application to large classes (often very dissimilar) of nonlinear systems. Since the publication of Universality in Chaos in 1984, progress has continued to be made in our understanding of nonlinear dynamical systems and chaos. This second edition extends the collection of articles to cover recent developments in the field, including the use of statistical mechanics techniques in the study of strange sets arising in dynamics. It concentrates on the universal aspects of chaotic motions, the qualitative and quantitative predictions that apply to large classes of physical systems. Much like the previous edition, this book will be an indispensable reference for researchers and graduate students interested in chaotic dynamics in the physical, biological, and mathematical sciences as well as engineering.",
+                "1.1 Why ChaosBook? 1 1.2 Chaos ahead 2 1.3 The future as in a mirror 3 1.4 A game of pinball 7 1.5 Chaos for cyclists 10 1.6 Change in time 15 1.7 From chaos to statistical mechanics 17 1.8 Chaos: what is it good for? 18 1.9 What is not in ChaosBook 20 r\u00e9sum\u00e9 21 further reading 23 guide to exercises 25 exercises 26 references 26",
+                "The fractal invariant measure of chaotic strange attractors can be approximated systematically by the set of unstable n-periodic orbits of increasing n. Algorithms for extracting the periodic orbits from a chaotic time series and for calculating their stabilities are presented. With this information alone, important properties like the topological entropy and the Hausdorff dimension can be calculated.",
+                "The strange sets which arise in deterministic low-dimensional dynamical systems are analysed in terms of (unstable) cycles and their eigenvalues. The general formalism of cycle expansions is introduced and its convergence discussed.",
+                "We argue that extraction of unstable cycles and their eigenvalues is not only experimentally feasible, but is also a theoretically optimal measurement of the invariant properties of a dynamical system.",
+                "We demonstrate the utility of the periodic-orbit description of chaotic motion by computing from a few periodic orbits highly accurate estimates of a large number of quantum resonances for the classically chaotic 3-disk scattering problem. The symmetry decompositions of the eigenspectra are the same for the classical and the quantum problem, and good agreement between the periodic-orbit estimates and the exact quantum poles is observed.",
+                "We use the set of all periodic points of H\u00e9non-type mappings to develop a theory of the topological and metric properties of their attractors. The topology of a H\u00e9non-type attractor is conveniently represented by a two-dimensional symbol plane, with the allowed and disallowed orbits cleanly separated by the \u2018\u2018pruning front.\u2019\u2019The pruning front is a function discontinuous on every binary rational number, but for maps with finite dissipation\u2016 b\u2016< 1, it is well approximated by a few steps, or, in the symbolic dynamics language, by a finite grammar. Thus equipped with the complete list of allowed periodic points, we reconstruct (to resolution of order b n) the physical attractor by piecing together the linearized neighborhoods of all periodic points of cycle length n. We use this representation to compute the singularity spectrum f (\u03b1). The description in terms of periodic points works very well in the \u2018\u2018hyperbolic phase,\u2019\u2019for \u03b1 larger \u2026",
+                "Motivated by recent experimental and numerical studies of coherent structures in wall-bounded shear flows, we initiate a systematic exploration of the hierarchy of unstable invariant solutions of the Navier-Stokes equations. We construct a dynamical, 10^ 5-dimensional state-space representation of plane Couette flow at Re= 400 in a small, periodic cell and offer a new method of visualizing invariant manifolds embedded in such high dimensions. We compute a new equilibrium solution of plane Couette flow and the leading eigenvalues and eigenfunctions of known equilibria at this Reynolds number and cell size. What emerges from global continuations of their unstable manifolds is a surprisingly elegant dynamical-systems visualization of moderate-Reynolds turbulence. The invariant manifolds tessellate the region of state space explored by transiently turbulent dynamics with a rigid web of continuous and discrete symmetry-induced heteroclinic connections.",
+                "A simple and systematic method for the calculation of group-theoretic weights associated with Feynman diagrams in non-Abelian gauge theories is presented. Both classical and exceptional groups are discussed.",
+                "Chapter 1. Introduction 1 Chapter 2. A preview 5 2.1 Basic concepts 5 2.2 First example: SU (n) 9 2.3 Second example: E6 family 12 Chapter 3. Invariants and reducibility 14 3.1 Preliminaries 14 3.2 Defining space, tensors, reps 18 3.3 Invariants 19 3.4 Invariance groups 22 3.5 Projection operators 24 3.6 Spectral decomposition 25 Chapter 4. Diagrammatic notation 27 4.1 Birdtracks 27 4.2 Clebsch-Gordan coefficients 29 4.3 Zero-and one-dimensional subspaces 32 4.4 Infinitesimal transformations 32 4.5 Lie algebra 36 4.6 Other forms of Lie algebra commutators 38 4.7 Classification of Lie algebras by their primitive invariants 38 4.8 Irrelevancy of clebsches 39 4.9 A brief history of birdtracks 40 Chapter 5. Recouplings 43 5.1 Couplings and recouplings 43 5.2 Wigner 3n-j coefficients 46 5.3 Wigner-Eckart theorem 47 Chapter 6. Permutations 50 6.1 Symmetrization 50 6.2 Antisymmetrization 52 6.3 Levi-Civita tensor 54 6.4 Determinants 56 6.5 Characteristic equations 58 6.6 Fully (anti) symmetric tensors 58 6.7 Identically vanishing tensors 59 Chapter 7. Casimir operators 61 7.1 Casimirs and Lie algebra 62 7.2 Independent casimirs 63 7.3 Adjoint rep casimirs 65 7.4 Casimir operators 66 7.5 Dynkin indices 67 7.6 Quadratic, cubic casimirs 70 7.7 Quartic casimirs 71 7.8 Sundry relations between quartic casimirs 73 7.9 Dynkin labels 76 Chapter 8. Group integrals 78 8.1 Group integrals for arbitrary reps 79 8.2 Characters 81 8.3 Examples of group integrals 82 Chapter 9. Unitary groups 84 P Cvitanovid, H. Elvang, and AD Kennedy 9.1 Two-index tensors 84 9.2 Three-index tensors 85 9.3 Young tableaux 86 9.4 Young projection operators 92 9.5 \u2026"
+            ],
+            [
+                [
+                    "turbulence",
+                    "chaos",
+                    "nonlinear field theories",
+                    "group theory"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "REZ0OA4Z",
+            "dW3gcXoAAAAJ",
+            [
+                "Mathematical programs with equilibrium constraints",
+                "Semidefinite relaxation of quadratic optimization problems",
+                "Robust adaptive beamforming using worst-case performance optimization: A solution to the signal mismatch problem",
+                "Transmit beamforming for physical-layer multicasting",
+                "An iteratively weighted MMSE approach to distributed sum-utility maximization for a MIMO interfering broadcast channel",
+                "Dynamic spectrum management: Complexity and duality",
+                "A unified convergence analysis of block successive minimization methods for nonsmooth optimization"
+            ],
+            [
+                "This book provides a solid foundation and an extensive study for an important class of constrained optimization problems known as Mathematical Programs with Equilibrium Constraints (MPEC), which are extensions of bilevel optimization problems. The book begins with the description of many source problems arising from engineering and economics that are amenable to treatment by the MPEC methodology. Error bounds and parametric analysis are the main tools to establish a theory of exact penalisation, a set of MPEC constraint qualifications and the first-order and second-order optimality conditions. The book also describes several iterative algorithms such as a penalty-based interior point algorithm, an implicit programming algorithm and a piecewise sequential quadratic programming algorithm for MPECs. Results in the book are expected to have significant impacts in such disciplines as engineering design, economics and game equilibria, and transportation planning, within all of which MPEC has a central role to play in the modelling of many practical problems.",
+                "In this article, we have provided general, comprehensive coverage of the SDR technique, from its practical deployments and scope of applicability to key theoretical results. We have also showcased several representative applications, namely MIMO detection, B\u00bf shimming in MRI, and sensor network localization. Another important application, namely downlink transmit beamforming, is described in [1]. Due to space limitations, we are unable to cover many other beautiful applications of the SDR technique, although we have done our best to illustrate the key intuitive ideas that resulted in those applications. We hope that this introductory article will serve as a good starting point for readers who would like to apply the SDR technique to their applications, and to locate specific references either in applications or theory.",
+                "Adaptive beamforming methods are known to degrade if some of underlying assumptions on the environment, sources, or sensor array become violated. In particular, if the desired signal is present in training snapshots, the adaptive array performance may be quite sensitive even to slight mismatches between the presumed and actual signal steering vectors (spatial signatures). Such mismatches can occur as a result of environmental nonstationarities, look direction errors, imperfect array calibration, distorted antenna shape, as well as distortions caused by medium inhomogeneities, near-far mismatch, source spreading, and local scattering. The similar type of performance degradation can occur when the signal steering vector is known exactly but the training sample size is small. In this paper, we develop a new approach to robust adaptive beamforming in the presence of an arbitrary unknown signal steering vector \u2026",
+                "This paper considers the problem of downlink transmit beamforming for wireless transmission and downstream precoding for digital subscriber wireline transmission, in the context of common information broadcasting or multicasting applications wherein channel state information (CSI) is available at the transmitter. Unlike the usual \"blind\" isotropic broadcasting scenario, the availability of CSI allows transmit optimization. A minimum transmission power criterion is adopted, subject to prescribed minimum received signal-to-noise ratios (SNRs) at each of the intended receivers. A related max-min SNR \"fair\" problem formulation is also considered subject to a transmitted power constraint. It is proven that both problems are NP-hard; however, suitable reformulation allows the successful application of semidefinite relaxation (SDR) techniques. SDR yields an approximate solution plus a bound on the optimum value of the \u2026",
+                "Consider the multiple-input multiple-output (MIMO) interfering broadcast channel whereby multiple base stations in a cellular network simultaneously transmit signals to a group of users in their own cells while causing interference to each other. The basic problem is to design linear beamformers that can maximize the system throughput. In this paper, we propose a linear transceiver design algorithm for weighted sum-rate maximization that is based on iterative minimization of weighted mean-square error (MSE). The proposed algorithm only needs local channel knowledge and converges to a stationary point of the weighted sum-rate maximization problem. Furthermore, the algorithm and its convergence can be extended to a general class of sum-utility maximization problem. The effectiveness of the proposed algorithm is validated by numerical experiments.",
+                "Consider a communication system whereby multiple users share a common frequency band and must choose their transmit power spectral densities dynamically in response to physical channel conditions. Due to co-channel interference, the achievable data rate of each user depends on not only the power spectral density of its own, but also those of others in the system. Given any channel condition and assuming Gaussian signaling, we consider the problem to jointly determine all users' power spectral densities so as to maximize a system-wide utility function (e.g., weighted sum-rate of all users), subject to individual power constraints. For the discretized version of this nonconvex problem, we characterize its computational complexity by establishing the NP-hardness under various practical settings, and identify subclasses of the problem that are solvable in polynomial time. Moreover, we consider the Lagrangian \u2026",
+                "The block coordinate descent (BCD) method is widely used for minimizing a continuous function  of several block variables. At each iteration of this method, a single block of variables is optimized, while the remaining variables are held fixed. To ensure the convergence of the BCD method, the subproblem of each block variable needs to be solved to its unique global optimal. Unfortunately, this requirement is often too restrictive for many practical scenarios. In this paper, we study an alternative inexact BCD approach which updates the variable blocks by successively minimizing a sequence of approximations of  which are either locally tight upper bounds of  or strictly convex local approximations of . The main contributions of this work include the characterizations of  the convergence conditions for a fairly wide class of such methods, especially for the cases where the objective functions are either \u2026"
+            ],
+            [
+                [
+                    "Optimization",
+                    "Signal Processing",
+                    "Communication"
+                ]
+            ]
+        ]
+    ]
+}

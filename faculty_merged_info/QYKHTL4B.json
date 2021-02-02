@@ -1,0 +1,42 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "QYKHTL4B",
+            "_sfttowAAAAJ",
+            [
+                "The Cloudlet Accelerator: Bringing Mobile-Cloud Face Recognition into Real-Time",
+                "AXaaS (acceleration as a service): Can the telecom service provider rent a cloudlet?",
+                "AXaaS: Case for acceleration as a service",
+                "Face Recognition: A Tutorial on Computational Aspects",
+                "Selling FLOPs: Telecom Service Providers Can Rent a Cloudlet via Acceleration as a Service (AXaaS)",
+                "Theoretical foundation and gpu implementation of face recognition"
+            ],
+            [
+                "A mobile-cloud architecture provides a practical platform for performing face recognition on a mobile device. However, using a mobile-cloud architecture to perform real-time face recognition presents several challenges including resource limitations and long network delays. In this paper, we determine three approaches for accelerating the execution of the face recognition application by utilizing an intermediate device called a cloudlet. We study in detail one of these approaches, using the cloudlet to perform pre-processing, and quantify the maximum attainable acceleration. Our experimental results show up to a 128x improvement in response time when appropriate cloudlet hardware is used.",
+                "As the capabilities of smartphones expand, so do consumers' expectations for resource-intensive mobile applications. However, mobile devices are ill-suited to execute most these applications due to their hardware limitations. Computational offloading offers a way to augment mobile computation power, but it introduces a communication latency, potentially weakening or negating its advantages. To meet the user demand for high performance, we propose a new service architecture called Acceleration as a Service (AXaaS). We formulate AXaaS based on the observation that most resource-intensive applications, such as real-time face-recognition and augmented reality, have similar resource-demand characteristics: a vast majority of the program execution time is spent on a limited set of library calls, such as Generalized Matrix-Multiply operations (GEMM), or FFT. Our AXaaS model suggests accelerating only these \u2026",
+                "The ubiquity and the range of utility of \"smart\" devices is ever increasing. Device limitations have lead developers to leverage cloud-offloading to gain performance for their applications. As users become aware of the expanding utility of their devices through these powerful applications, they tend to demand more from them. However, developers' intent on providing state-of-the-art applications will undoubtedly hit performance barriers for emerging products due to the inherently high latency of the prevailing mobile-cloud architecture. This paper proposes a new type of service architecture called AXaaS (Acceleration as a Service) that will empower developers to satisfy user demand for greater application performance and fully realize new computationally-intensive applications that would be otherwise impossible or impractical. While Telecom Service Providers (TSP) already provide data and bandwidth services, we \u2026",
+                "Face recognition is a sophisticated problem requiring a significant commitment of computer resources. A modern GPU architecture provides a practical platform for performing face recognition in real time. The majority of the calculations of an eigenpicture implementation of face recognition are matrix multiplications. For this type of computation, a conventional computer GPU is capable of computing in tens of milliseconds data that a CPU requires thousands of milliseconds to process. In this chapter, we outline and examine the different components and computational requirements of a face recognition scheme implementing the Viola-Jones Face Detection Framework and an eigenpicture face recognition model. Face recognition can be separated into three distinct parts: face detection, eigenvector projection, and database search. For each, we provide a detailed explanation of the exact process along with an \u2026",
+                "To meet the user demand for an ever-increasing mobile-cloud computing performance for resource-intensive mobile applications, we propose a new service architecture called Acceleration as a Service (AXaaS). We formulate AXaaS based on the observation that most resource-intensive applications, such as real-time face-recognition and augmented reality, have similar resource-demand characteristics: a vast majority of the program execution time is spent on a limited set of library calls, such as Generalized Matrix-Multiply operations (GEMM), or FFT. Our AXaaS model suggests accelerating only these operations by the Telecom Service Providers (TSP). We envision the TSP offering this service through a monthly computational service charge, much like their existing monthly bandwidth charge. We demonstrate the technological and business feasibility of AXaaS on a proof-of-concept real-time face recognition \u2026",
+                "Enabling a machine to detect and recognize faces requires significant computational power. This particular system of face recognition makes use of OpenCV (Computer Vision) libraries while leveraging Graphics Processing Units (GPUs) to accelerate the process towards real-time. The processing and recognition algorithms are best sorted into three distinct steps: detection, projection, and search. Each of these steps has unique computational characteristics and requirements driving performance. In particular, the detection and projection processes can be accelerated significantly with GPU usage due to the data types and arithmetic types associated with the algorithms, such as matrix manipulation. This chapter provides a survey of the three main processes and how they contribute to the overarching recognition process."
+            ],
+            [
+                [
+                    "Electrical Engineering",
+                    "Computer Engineering",
+                    "Parallel Computing",
+                    "Cloud Computing"
+                ]
+            ]
+        ]
+    ]
+}

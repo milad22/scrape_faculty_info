@@ -1,0 +1,58 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "We present fully nonperturbative quantum Monte Carlo calculations with nonlocal chiral effective field theory (EFT) interactions for the ground-state properties of neutron matter. The equation of state, the nucleon chemical potentials, and the momentum distribution in pure neutron matter up to one and a half times the nuclear saturation density are computed with a newly optimized chiral EFT interaction at next-to-next-to-leading order. This work opens the way to systematic order by order benchmarking of chiral EFT interactions and ab initio prediction of nuclear properties while respecting the symmetries of quantum chromodynamics.",
+            "Quantum Monte Carlo calculations of neutron matter with nonlocal chiral interactions",
+            "Alessandro Roggero and Abhishek Mukherjee and Francesco Pederiva",
+            "2014",
+            "_gXM9vEAAAAJ:9yKSN-GCB0IC",
+            84,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.112.221103",
+            "3730432909715893588",
+            "\/scholar?cites=3730432909715893588",
+            {
+                "2014":11,
+                "2015":11,
+                "2016":17,
+                "2017":14,
+                "2018":7,
+                "2019":10,
+                "2020":12,
+                "2021":2
+            }
+        ],
+        [
+            "We extend the prediction range of Pionless Effective Field Theory with an analysis of the ground state of 16O in leading order. To renormalize the theory, we use as input both experimental data and lattice QCD predictions of nuclear observables, which probe the sensitivity of nuclei to increased quark masses. The nuclear many-body Schr\u00f6dinger equation is solved with the Auxiliary Field Diffusion Monte Carlo method. For the first time in a nuclear quantum Monte Carlo calculation, a linear optimization procedure, which allows us to devise an accurate trial wave function with a large number of variational parameters, is adopted. The method yields a binding energy of 4He which is in good agreement with experiment at physical pion mass and with lattice calculations at larger pion masses. At leading order we do not find any evidence of a 16O state which is stable against breakup into four 4He, although higher-order \u2026",
+            "Ground-state properties of 4He and 16O extrapolated from lattice QCD with pionless EFT",
+            "L Contessi and A Lovato and F Pederiva and A Roggero and J Kirscher and Ubirajara Van Kolck",
+            "2017",
+            "_gXM9vEAAAAJ:0EnyYjriUFMC",
+            60,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0370269317306044",
+            "3549736968760591673",
+            "\/scholar?cites=3549736968760591673",
+            {
+                "2017":4,
+                "2018":16,
+                "2019":13,
+                "2020":27
+            }
+        ]
+    ]
+}

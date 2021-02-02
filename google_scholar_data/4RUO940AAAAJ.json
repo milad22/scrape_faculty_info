@@ -1,0 +1,126 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "4RUO940AAAAJ",
+            "Anupam Garg",
+            "Professor of Physics and Astronomy, Northwestern University",
+            "@northwestern.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=4RUO940AAAAJ",
+            10755,
+            [
+                "quantum mechanics",
+                "magnetism",
+                "path integrals"
+            ],
+            2237,
+            34,
+            15,
+            63,
+            20,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"oe0o9YUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alan T. Dorsey",
+                    "affiliation":"Professor of Physics, University of Georgia"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"yGDh0rIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sudip Chakravarty",
+                    "affiliation":"Department of Physics, UCLA"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"vyrKARwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michael Stone",
+                    "affiliation":"Professor of physics, University of Illinois, Urbana Champaign"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"i0LZR2gAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jose Onuchic",
+                    "affiliation":"CTBP Rice University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"jBMxQ1AAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Feifei Li",
+                    "affiliation":"Memorial Sloan Kettering Cancer Center"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"w4mBnGYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Paul Muzikar",
+                    "affiliation":"Department of Physics and Astronomy, Purdue University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"75RHOJQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Rahul PANDIT",
+                    "affiliation":"Professor of Physics, Indian Institute of Science, Bangalore 560 012, India"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "a9z_N4UAAAAJ",
+            "Tanay Roy",
+            "Postdoctoral Scholar, University of Chicago",
+            "@uchicago.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=a9z_N4UAAAAJ",
+            185,
+            [
+                "Superconducting qubits",
+                "Josephson parametric amplifiers",
+                "Quantum computing"
+            ],
+            178,
+            6,
+            6,
+            4,
+            4,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"0DX6sEwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Suman Kundu",
+                    "affiliation":"Research Scholar, TIFR"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"2FyCPdwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"R Vijay",
+                    "affiliation":"Associate Professor, Tata Institute of Fundamental Research, Mumbai, India"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"0gY4bc4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"A.M.Vadiraj",
+                    "affiliation":"Institute for Quantum Computing, University of Waterloo"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"1YHTvg8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Aashish Clerk",
+                    "affiliation":"University of Chicago"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"IqR1yhIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jayanta K Bhattacharjee",
+                    "affiliation":"Distinguished emeritus fellow, Indian Association for the Cultivation of Science"
+                }
+            ]
+        ]
+    ]
+}

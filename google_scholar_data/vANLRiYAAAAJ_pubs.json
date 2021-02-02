@@ -1,0 +1,252 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Finally, here is a modern, self-contained text on quantum information theory suitable for graduate-level courses. Developing the subject'from the ground up'it covers classical results as well as major advances of the past decade. Beginning with an extensive overview of classical information theory suitable for the non-expert, the author then turns his attention to quantum mechanics for quantum information theory, and the important protocols of teleportation, super-dense coding and entanglement distribution. He develops all of the tools necessary for understanding important results in quantum information theory, including capacity theorems for classical, entanglement-assisted, private and quantum communication. The book also covers important recent developments such as superadditivity of private, coherent and Holevo information, and the superactivation of quantum capacity. This book will be warmly welcomed by the upcoming generation of quantum information theorists and the already established community of classical information theorists.",
+            "Quantum information theory",
+            "Mark M Wilde",
+            "2013",
+            "vANLRiYAAAAJ:geHnlv5EZngC",
+            1194,
+            "http:\/\/books.google.com\/books?hl=en&lr=&id=dphmVbPSLHMC&oi=fnd&pg=PR11&dq=info:S7jQHkqtDsEJ:scholar.google.com&ots=UdO4zNwV_S&sig=2mr3T3-J73RBWeQP9ZYIJWMQ-fQ",
+            "13911246832850221131",
+            "\/scholar?cites=13911246832850221131",
+            {
+                "2013":18,
+                "2014":61,
+                "2015":109,
+                "2016":150,
+                "2017":166,
+                "2018":192,
+                "2019":191,
+                "2020":278,
+                "2021":20
+            }
+        ],
+        [
+            "Quantum computation and information is one of the most exciting developments in science and technology of the last twenty years. To achieve large scale quantum computers and communication networks it is essential not only to overcome noise in stored quantum information, but also in general faulty quantum operations. Scalable quantum computers require a far-reaching theory of fault-tolerant quantum computation. This comprehensive text, written by leading experts in the field, focuses on quantum error correction and thoroughly covers the theory as well as experimental and practical issues. The book is not limited to a single approach, but reviews many different methods to control quantum errors, including topological codes, dynamical decoupling and decoherence-free subspaces. Basic subjects as well as advanced theory and a survey of topics from cutting-edge research make this book invaluable both as a pedagogical introduction at the graduate level and as a reference for experts in quantum information science.",
+            "Quantum Error Correction",
+            "Todd A. Brun Daniel A. Lidar",
+            "2013",
+            "vANLRiYAAAAJ:0uG9q0SNyf4C",
+            472,
+            "http:\/\/books.google.com\/books?hl=en&lr=&id=XV9sAAAAQBAJ&oi=fnd&pg=PR11&dq=info:J313gcWGzdQJ:scholar.google.com&ots=zt-Or2pjTN&sig=dLeSYg3gpAWLum0Va0v70g3j2QY",
+            "15334060489105177895",
+            "\/scholar?cites=15334060489105177895",
+            {
+                "2013":3,
+                "2014":35,
+                "2015":53,
+                "2016":70,
+                "2017":58,
+                "2018":74,
+                "2019":77,
+                "2020":94,
+                "2021":2
+            }
+        ],
+        [
+            "A strong converse theorem for the classical capacity of a quantum channel states that the probability of correctly decoding a classical message converges exponentially fast to zero in the limit of many channel uses if the rate of communication exceeds the classical capacity of the channel. Along with a corresponding achievability statement for rates below the capacity, such a strong converse theorem enhances our understanding of the capacity as a very sharp dividing line between achievable and unachievable rates of communication. Here, we show that such a strong converse theorem holds for the classical capacity of all entanglement-breaking channels and all Hadamard channels (the complementary channels of the former). These results follow by bounding the success probability in terms of a \u201csandwiched\u201d R\u00e9nyi relative entropy, by showing that this quantity is subadditive for all entanglement-breaking \u2026",
+            "Strong converse for the classical capacity of entanglement-breaking and Hadamard channels via a sandwiched R\u00e9nyi relative entropy",
+            "Mark M Wilde and Andreas Winter and Dong Yang",
+            "2014",
+            "vANLRiYAAAAJ:xEMdJR0kL_sC",
+            318,
+            "https:\/\/link.springer.com\/article\/10.1007\/s00220-014-2122-x",
+            "14940884931947594665",
+            "\/scholar?cites=14940884931947594665",
+            {
+                "2013":8,
+                "2014":27,
+                "2015":39,
+                "2016":36,
+                "2017":47,
+                "2018":45,
+                "2019":47,
+                "2020":63,
+                "2021":4
+            }
+        ],
+        [
+            "Since 1984, various optical quantum key distribution (QKD) protocols have been proposed and examined. In all of them, the rate of secret key generation decays exponentially with distance. A natural and fundamental question is then whether there are yet-to-be discovered optical QKD protocols (without quantum repeaters) that could circumvent this rate-distance tradeoff. This paper provides a major step towards answering this question. Here we show that the secret key agreement capacity of a lossy and noisy optical channel assisted by unlimited two-way public classical communication is limited by an upper bound that is solely a function of the channel loss, regardless of how much optical power the protocol may use. Our result has major implications for understanding the secret key agreement capacity of optical channels\u2014a long-standing open problem in optical quantum information theory\u2014and strongly \u2026",
+            "Fundamental rate-loss tradeoff for optical quantum key distribution",
+            "Masahiro Takeoka and Saikat Guha and Mark M Wilde",
+            "2014",
+            "vANLRiYAAAAJ:HevVnK7dagcC",
+            255,
+            "https:\/\/www.nature.com\/articles\/ncomms6235",
+            "4284289419776131983",
+            "\/scholar?cites=4284289419776131983",
+            {
+                "2013":1,
+                "2014":2,
+                "2015":21,
+                "2016":17,
+                "2017":25,
+                "2018":45,
+                "2019":71,
+                "2020":65,
+                "2021":8
+            }
+        ],
+        [
+            "The aim of this book is to develop\" from the ground up\" many of the major, exciting, pre-and post-millenium developments in the general area of study known as quantum Shannon theory. As such, we spend a significant amount of time on quantum mechanics for quantum information theory (Part II), we give a careful study of the important unit protocols of teleportation, super-dense coding, and entanglement distribution (Part III), and we develop many of the tools necessary for understanding information transmission or compression (Part IV). Parts V and VI are the culmination of this book, where all of the tools developed come into play for understanding many of the important results in quantum Shannon theory.",
+            "From Classical to Quantum Shannon Theory",
+            "Mark M Wilde",
+            "2011",
+            "vANLRiYAAAAJ:ldfaerwXgEUC",
+            242,
+            "https:\/\/arxiv.org\/abs\/1106.1445",
+            "357173565413252487",
+            "\/scholar?cites=357173565413252487",
+            {
+                "2010":1,
+                "2011":4,
+                "2012":34,
+                "2013":35,
+                "2014":18,
+                "2015":19,
+                "2016":25,
+                "2017":35,
+                "2018":29,
+                "2019":15,
+                "2020":23,
+                "2021":2
+            }
+        ],
+        [
+            "We introduce information-theoretic definitions for noise and disturbance in quantum measurements and prove a state-independent noise-disturbance tradeoff relation that these quantities have to satisfy in any conceivable setup. Contrary to previous approaches, the information-theoretic quantities we define are invariant under the relabelling of outcomes and allow for the possibility of using quantum or classical operations to \u201ccorrect\u201d for the disturbance. We also show how our bound implies strong tradeoff relations for mean square deviations.",
+            "Noise and disturbance in quantum measurements: an information-theoretic approach",
+            "Francesco Buscemi and Michael JW Hall and Masanao Ozawa and Mark M Wilde",
+            "2014",
+            "vANLRiYAAAAJ:V3AGJWp-ZtQC",
+            150,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.112.050401",
+            "4601248954223205074",
+            "\/scholar?cites=4601248954223205074",
+            {
+                "2013":2,
+                "2014":26,
+                "2015":27,
+                "2016":30,
+                "2017":16,
+                "2018":13,
+                "2019":14,
+                "2020":15,
+                "2021":2
+            }
+        ],
+        [
+            "Uncertainty relations capture the essence of the inevitable randomness associated with the outcomes of two incompatible quantum measurements. Recently, Berta et al.[Nature Phys. 6, 659 (2010)] have shown that the lower bound on the uncertainties of the measurement outcomes depends on the correlations between the observed system and an observer who possesses a quantum memory. If the system is maximally entangled with its memory, the outcomes of two incompatible measurements made on the system can be predicted precisely. Here, we obtain an uncertainty relation that tightens the lower bound of Berta et al. by incorporating an additional term that depends on the quantum discord and the classical correlations of the joint state of the observed system and the quantum memory. We discuss several examples of states for which our lower bound is tighter than the bound of Berta et al. On the application \u2026",
+            "Quantum discord and classical correlation can tighten the uncertainty principle in the presence of quantum memory",
+            "Arun Kumar Pati and Mark M Wilde and AR Usha Devi and AK Rajagopal",
+            "2012",
+            "vANLRiYAAAAJ:u9iWguZQMMsC",
+            109,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.86.042105",
+            "14098214555648007215",
+            "\/scholar?cites=14098214555648007215",
+            {
+                "2011":1,
+                "2012":5,
+                "2013":7,
+                "2014":4,
+                "2015":9,
+                "2016":21,
+                "2017":19,
+                "2018":22,
+                "2019":20,
+                "2020":1
+            }
+        ],
+        [
+            "We provide several formulas that determine the optimal number of entangled bits (ebits) that a general entanglement-assisted quantum code requires. Our first theorem gives a formula that applies to an arbitrary entanglement-assisted block code. Corollaries of this theorem give formulas that apply to a code imported from two classical binary block codes, to a code imported from a classical quaternary block code, and to a continuous-variable entanglement-assisted quantum block code. Finally, we conjecture two formulas that apply to entanglement-assisted quantum convolutional codes.",
+            "Optimal entanglement formulas for entanglement-assisted quantum coding",
+            "Mark M Wilde and Todd A Brun",
+            "2008",
+            "vANLRiYAAAAJ:d1gkVwhDpl0C",
+            108,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.77.064302",
+            "815693030575099543",
+            "\/scholar?cites=815693030575099543",
+            {
+                "2008":2,
+                "2009":5,
+                "2010":6,
+                "2011":5,
+                "2012":1,
+                "2013":6,
+                "2014":5,
+                "2015":7,
+                "2016":2,
+                "2017":4,
+                "2018":12,
+                "2019":20,
+                "2020":30,
+                "2021":3
+            }
+        ],
+        [
+            "This paper establishes several converse bounds on the private transmission capabilities of a quantum channel. The main conceptual development builds firmly on the notion of a private state, which is a powerful, uniquely quantum method for simplifying the tripartite picture of privacy involving local operations and public classical communication to a bipartite picture of quantum privacy involving local operations and classical communication. This approach has previously led to some of the strongest upper bounds on secret key rates, including the squashed entanglement and the relative entropy of entanglement. Here, we use this approach along with a \u201cprivacy test\u201d to establish a general meta-converse bound for private communication, which has a number of applications. The meta-converse allows for proving that any quantum channel's relative entropy of entanglement is a strong converse rate for private \u2026",
+            "Converse bounds for private communication over quantum channels",
+            "Mark M Wilde and Marco Tomamichel and Mario Berta",
+            "2017",
+            "vANLRiYAAAAJ:YEBtnu9hOHUC",
+            104,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7807212\/",
+            "13471101542273023864",
+            "\/scholar?cites=13471101542273023864",
+            {
+                "2016":3,
+                "2017":16,
+                "2018":34,
+                "2019":30,
+                "2020":19,
+                "2021":2
+            }
+        ],
+        [
+            "This paper studies the difficulty of discriminating between an arbitrary quantum channel and a \u201creplacer\" channel that discards its input and replaces it with a fixed state. The results obtained here generalize those known in the theory of quantum hypothesis testing for binary state discrimination. We show that, in this particular setting, the most general adaptive discrimination strategies provide no asymptotic advantage over non-adaptive tensor-power strategies. This conclusion follows by proving a quantum Stein\u2019s lemma for this channel discrimination setting, showing that a constant bound on the Type I error leads to the Type II error decreasing to zero exponentially quickly at a rate determined by the maximum relative entropy registered between the channels. The strong converse part of the lemma states that any attempt to make the Type II error decay to zero at a rate faster than the channel relative entropy implies \u2026",
+            "Strong converse exponents for a quantum channel discrimination problem and quantum-feedback-assisted communication",
+            "Thomas Cooney and Milan Mosonyi and Mark M Wilde",
+            "2016",
+            "vANLRiYAAAAJ:YXPZ0dOdYS4C",
+            94,
+            "https:\/\/link.springer.com\/article\/10.1007\/s00220-016-2645-4",
+            "10149449542802840533",
+            "\/scholar?cites=10149449542802840533",
+            {
+                "2015":8,
+                "2016":8,
+                "2017":10,
+                "2018":17,
+                "2019":22,
+                "2020":27,
+                "2021":1
+            }
+        ]
+    ]
+}

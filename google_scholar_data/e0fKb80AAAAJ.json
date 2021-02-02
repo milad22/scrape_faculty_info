@@ -1,0 +1,53 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "e0fKb80AAAAJ",
+            "Todd G. Ruskell",
+            "Colorado School of Mines",
+            "@mines.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=e0fKb80AAAAJ",
+            434,
+            [
+                "Pedagogy",
+                "Online learning"
+            ],
+            57,
+            9,
+            5,
+            8,
+            1,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"5deEzWMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Richard Workman",
+                    "affiliation":"Research Scientist, Agilent Technologies"
+                }
+            ]
+        ]
+    ]
+}

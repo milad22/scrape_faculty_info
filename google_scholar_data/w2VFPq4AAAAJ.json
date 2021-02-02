@@ -1,0 +1,126 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "w2VFPq4AAAAJ",
+            "Sanjay R Mishra",
+            "Physics and Materials Science, The University of Memphis, Memphis, TN 38152 USA",
+            "@memphis.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=w2VFPq4AAAAJ",
+            4804,
+            [
+                "Magnetic Nanomaterials",
+                "Nanocomposites",
+                "Biomaterials"
+            ],
+            2584,
+            40,
+            29,
+            127,
+            80,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"UEsX80sAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gary J Long",
+                    "affiliation":"Missouri University of Science and Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"dZrlOUQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Fernande Grandjean",
+                    "affiliation":"Universit\u00e9 de Li\u00e8ge"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Oy8Zv5wAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Binod K Rai",
+                    "affiliation":"Savannah River National Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"weLSH68AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Joseph Losby",
+                    "affiliation":"University of Calgary"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"tyup0rcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Bijoy Kumar Kuanr",
+                    "affiliation":"JNU, Delhi, University of Colorado, USA & Research Center J\u00fclich, Germany"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"W1ZNSjAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David Pappas",
+                    "affiliation":"NIST"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"CQInQE8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Raphael Hermann",
+                    "affiliation":"Oak Ridge National Laboratory"
+                }
+            ]
+        ]
+    ]
+}

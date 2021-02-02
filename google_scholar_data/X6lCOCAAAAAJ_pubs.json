@@ -1,0 +1,207 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Almost all archaea and about half of bacteria possess clustered regularly interspaced short palindromic repeat (CRISPR)\u2013CRISPR-associated genes (Cas) adaptive immune systems, which protect microbes against viruses and other foreign DNA. All functionally characterized CRISPR systems have been reported to target DNA, with some multicomponent type III systems also targeting RNA. The putative class 2 type VI system, which has not been functionally characterized, encompasses the single-effector protein C2c2, which contains two Higher Eukaryotes and Prokaryotes Nucleotide-binding (HEPN) domains commonly associated with ribonucleases (RNases), suggesting RNA-guided RNA-targeting function.Existing studies have only established a role for RNA interference, in addition to DNA interference, in the multicomponent type III-A and III-B systems. We investigated the \u2026",
+            "C2c2 is a single-component programmable RNA-guided RNA-targeting CRISPR effector",
+            "Omar O Abudayyeh and Jonathan S Gootenberg and Silvana Konermann and Julia Joung and Ian M Slaymaker and David BT Cox and Sergey Shmakov and Kira S Makarova and Ekaterina Semenova and Leonid Minakhin and Konstantin Severinov and Aviv Regev and Eric S Lander and Eugene V Koonin and Feng Zhang",
+            "2016",
+            "X6lCOCAAAAAJ:MXK_kJrjxJIC",
+            879,
+            "https:\/\/science.sciencemag.org\/content\/353\/6299\/aaf5573.abstract",
+            "10729026081657015523",
+            "\/scholar?cites=10729026081657015523",
+            {
+                "2016":32,
+                "2017":170,
+                "2018":172,
+                "2019":185,
+                "2020":289,
+                "2021":23
+            }
+        ],
+        [
+            "Microbial CRISPR-Cas systems are divided into Class 1, with multisubunit effector complexes, and Class 2, with single protein effectors. Currently, only two Class 2 effectors, Cas9 and Cpf1, are known. We describe here three distinct Class 2 CRISPR-Cas systems. The effectors of two of the identified systems, C2c1 and C2c3, contain RuvC-like endonuclease domains distantly related to Cpf1. The third system, C2c2, contains an effector with two predicted HEPN RNase domains. Whereas production of mature CRISPR RNA (crRNA) by C2c1 depends on tracrRNA, C2c2 crRNA maturation is tracrRNA independent. We found that C2c1 systems can mediate DNA interference in a 5\u2032-PAM-dependent fashion analogous to Cpf1. However, unlike Cpf1, which is a single-RNA-guided nuclease, C2c1 depends on both crRNA and tracrRNA for DNA cleavage. Finally, comparative analysis indicates that Class 2 CRISPR-Cas \u2026",
+            "Discovery and functional characterization of diverse class 2 CRISPR-Cas systems",
+            "Sergey Shmakov and Omar O Abudayyeh and Kira S Makarova and Yuri I Wolf and Jonathan S Gootenberg and Ekaterina Semenova and Leonid Minakhin and Julia Joung and Silvana Konermann and Konstantin Severinov and Feng Zhang and Eugene V Koonin",
+            "2015",
+            "X6lCOCAAAAAJ:Se3iqnhoufwC",
+            671,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S1097276515007753",
+            "8977519498114135619",
+            "\/scholar?cites=8977519498114135619",
+            {
+                "2015":4,
+                "2016":77,
+                "2017":131,
+                "2018":118,
+                "2019":151,
+                "2020":169,
+                "2021":16
+            }
+        ],
+        [
+            "Class 2 CRISPR\u2013Cas systems are characterized by effector modules that consist of a single multidomain protein, such as Cas9 or Cpf1. We designed a computational pipeline for the discovery of novel class 2 variants and used it to identify six new CRISPR\u2013Cas subtypes. The diverse properties of these new systems provide potential for the development of versatile tools for genome editing and regulation. In this Analysis article, we present a comprehensive census of class 2 types and class 2 subtypes in complete and draft bacterial and archaeal genomes, outline evolutionary scenarios for the independent origin of different class 2 CRISPR\u2013Cas systems from mobile genetic elements, and propose an amended classification and nomenclature of CRISPR\u2013Cas.",
+            "Diversity and evolution of class 2 CRISPR\u2013Cas systems",
+            "Sergey Shmakov and Aaron Smargon and David Scott and David Cox and Neena Pyzocha and Winston Yan and Omar O Abudayyeh and Jonathan S Gootenberg and Kira S Makarova and Yuri I Wolf and Konstantin Severinov and Feng Zhang and Eugene V Koonin",
+            "2017",
+            "X6lCOCAAAAAJ:qxL8FJ1GzNcC",
+            471,
+            "https:\/\/www.nature.com\/nrmicro\/journal\/v15\/n3\/full\/nrmicro.2016.184.html",
+            "16890392136099050811",
+            "\/scholar?cites=16890392136099050811",
+            {
+                "2017":84,
+                "2018":97,
+                "2019":129,
+                "2020":146,
+                "2021":8
+            }
+        ],
+        [
+            "CRISPR-Cas adaptive immune systems defend microbes against foreign nucleic acids via RNA-guided endonucleases. Using a computational sequence database mining approach, we identify two class 2 CRISPR-Cas systems (subtype VI-B) that lack Cas1 and Cas2 and encompass a single large effector protein, Cas13b, along with one of two previously uncharacterized associated proteins, Csx27 and Csx28. We establish that these CRISPR-Cas systems can achieve RNA interference when heterologously expressed. Through a combination of biochemical and genetic experiments, we show that Cas13b processes its own CRISPR array with short and long direct repeats, cleaves target RNA, and exhibits collateral RNase activity. Using an E. coli essential gene screen, we demonstrate that Cas13b has a double-sided protospacer-flanking sequence and elucidate RNA secondary structure requirements for \u2026",
+            "Cas13b is a type VI-B CRISPR-associated RNA-guided RNase differentially regulated by accessory proteins Csx27 and Csx28",
+            "Aaron A Smargon and David BT Cox and Neena K Pyzocha and Kaijie Zheng and Ian M Slaymaker and Jonathan S Gootenberg and Omar A Abudayyeh and Patrick Essletzbichler and Sergey Shmakov and Kira S Makarova and Eugene V Koonin and Feng Zhang",
+            "2017",
+            "X6lCOCAAAAAJ:roLk4NBRz8UC",
+            276,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S1097276516308668",
+            "8937832349047461175",
+            "\/scholar?cites=8937832349047461175",
+            {
+                "2017":35,
+                "2018":56,
+                "2019":71,
+                "2020":97,
+                "2021":10
+            }
+        ],
+        [
+            "The number and diversity of known CRISPR\u2013Cas systems have substantially increased in recent years. Here, we provide an updated evolutionary classification of CRISPR\u2013Cas systems and cas genes, with an emphasis on the major developments that have occurred since the publication of the latest classification, in 2015. The new classification includes 2 classes, 6 types and 33 subtypes, compared with 5 types and 16 subtypes in 2015. A key development is the ongoing discovery of multiple, novel class 2 CRISPR\u2013Cas systems, which now include 3 types and 17 subtypes. A second major novelty is the discovery of numerous derived CRISPR\u2013Cas variants, often associated with mobile genetic elements that lack the nucleases required for interference. Some of these variants are involved in RNA-guided transposition, whereas others are predicted to perform functions distinct from adaptive immunity that remain to \u2026",
+            "Evolutionary classification of CRISPR\u2013Cas systems: a burst of class 2 and derived variants",
+            "Kira S Makarova and Yuri I Wolf and Jaime Iranzo and Sergey A Shmakov and Omer S Alkhnbashi and Stan JJ Brouns and Emmanuelle Charpentier and David Cheng and Daniel H Haft and Philippe Horvath and Sylvain Moineau and Francisco JM Mojica and David Scott and Shiraz A Shah and Virginijus Siksnys and Michael P Terns and \u010ceslovas Venclovas and Malcolm F White and Alexander F Yakunin and Winston Yan and Feng Zhang and Roger A Garrett and Rolf Backofen and John van der Oost and Rodolphe Barrangou and Eugene V Koonin",
+            "2020",
+            "X6lCOCAAAAAJ:W7OEmFMy1HYC",
+            199,
+            "https:\/\/www.nature.com\/articles\/s41579-019-0299-x",
+            "16418805965483301806",
+            "\/scholar?cites=16418805965483301806",
+            {
+                "2019":5,
+                "2020":178,
+                "2021":14
+            }
+        ],
+        [
+            "Clustered regularly interspaced short palindromic repeats and CRISPR-associated protein (CRISPR-Cas) systems store the memory of past encounters with foreign DNA in unique spacers that are inserted between direct repeats in CRISPR arrays. For only a small fraction of the spacers, homologous sequences, called protospacers, are detectable in viral, plasmid, and microbial genomes. The rest of the spacers remain the CRISPR \u201cdark matter.\u201d We performed a comprehensive analysis of the spacers from all CRISPR-cas loci identified in bacterial and archaeal genomes, and we found that, depending on the CRISPR-Cas subtype and the prokaryotic phylum, protospacers were detectable for 1% to about 19% of the spacers (~7% global average). Among the detected protospacers, the majority, typically 80 to 90%, originated from viral genomes, including proviruses, and among the rest, the most common source \u2026",
+            "The CRISPR spacer space is dominated by sequences from species-specific mobilomes",
+            "Sergey A Shmakov and Vassilii Sitnik and Kira S Makarova and Yuri I Wolf and Konstantin V Severinov and Eugene V Koonin",
+            "2017",
+            "X6lCOCAAAAAJ:d1gkVwhDpl0C",
+            89,
+            "https:\/\/mbio.asm.org\/content\/8\/5\/e01397-17.short",
+            "2388237474332346894",
+            "\/scholar?cites=2388237474332346894",
+            {
+                "2017":4,
+                "2018":20,
+                "2019":36,
+                "2020":27,
+                "2021":2
+            }
+        ],
+        [
+            "A survey of bacterial and archaeal genomes shows that many Tn7-like transposons contain minimal type I-F CRISPR-Cas systems that consist of fused cas8f and cas5f, cas7f, and cas6f genes and a short CRISPR array. Several small groups of Tn7-like transposons encompass similarly truncated type I-B CRISPR-Cas. This minimal gene complement of the transposon-associated CRISPR-Cas systems implies that they are competent for pre-CRISPR RNA (precrRNA) processing yielding mature crRNAs and target binding but not target cleavage that is required for interference. Phylogenetic analysis demonstrates that evolution of the CRISPR-Cas\u2013containing transposons included a single, ancestral capture of a type I-F locus and two independent instances of type I-B loci capture. We show that the transposon-associated CRISPR arrays contain spacers homologous to plasmid and temperate phage sequences and, in \u2026",
+            "Recruitment of CRISPR-Cas systems by Tn7-like transposons",
+            "Joseph E Peters and Kira S Makarova and Sergey Shmakov and Eugene V Koonin",
+            "2017",
+            "X6lCOCAAAAAJ:8k81kl-MbHgC",
+            71,
+            "https:\/\/www.pnas.org\/content\/114\/35\/E7358.short",
+            "10599323924033516949",
+            "\/scholar?cites=10599323924033516949",
+            {
+                "2017":2,
+                "2018":8,
+                "2019":26,
+                "2020":34,
+                "2021":1
+            }
+        ],
+        [
+            "During the process of prokaryotic CRISPR adaptation, a copy of a segment of foreign deoxyribonucleic acid referred to as protospacer is added to the CRISPR cassette and becomes a spacer. When a protospacer contains a neighboring target interference motif, the specific small CRISPR ribonucleic acid (crRNA) transcribed from expanded CRISPR cassette can protect a prokaryotic cell from virus infection or plasmid transformation and conjugation. We show that in Escherichia coli, a vast majority of plasmid protospacers generate spacers integrated in CRISPR cassette in two opposing orientations, leading to frequent appearance of complementary spacer pairs in a population of cells that underwent CRISPR adaptation. When a protospacer contains a spacer acquisition motif AAG, spacer orientation that generates functional protective crRNA is strongly preferred. All other protospacers give rise to spacers \u2026",
+            "Pervasive generation of oppositely oriented spacers during CRISPR adaptation",
+            "Sergey Shmakov and Ekaterina Savitskaya and Ekaterina Semenova and Maria D Logacheva and Kirill A Datsenko and Konstantin Severinov",
+            "2014",
+            "X6lCOCAAAAAJ:Y0pCki6q_DkC",
+            71,
+            "https:\/\/academic.oup.com\/nar\/article-abstract\/42\/9\/5907\/1260984",
+            "6612539220896033889",
+            "\/scholar?cites=6612539220896033889",
+            {
+                "2014":2,
+                "2015":9,
+                "2016":14,
+                "2017":18,
+                "2018":10,
+                "2019":10,
+                "2020":8
+            }
+        ],
+        [
+            "The CRISPR-Cas systems of bacterial and archaeal adaptive immunity consist of direct repeat arrays separated by unique spacers and multiple CRISPR-associated (cas) genes encoding proteins that mediate all stages of the CRISPR response. In addition to the relatively small set of core cas genes that are typically present in all CRISPR-Cas systems of a given (sub)type and are essential for the defense function, numerous genes occur in CRISPR-cas loci only sporadically. Some of these have been shown to perform various ancillary roles in CRISPR response, but the functional relevance of most remains unknown. We developed a computational strategy for systematically detecting genes that are likely to be functionally linked to CRISPR-Cas. The approach is based on a \u201cCRISPRicity\u201d metric that measures the strength of CRISPR association for all protein-coding genes from sequenced bacterial and archaeal \u2026",
+            "Systematic prediction of genes functionally linked to CRISPR-Cas systems by gene neighborhood analysis",
+            "Sergey A Shmakov and Kira S Makarova and Yuri I Wolf and Konstantin V Severinov and Eugene V Koonin",
+            "2018",
+            "X6lCOCAAAAAJ:2osOgNQ5qMEC",
+            62,
+            "https:\/\/www.pnas.org\/content\/115\/23\/E5307.short",
+            "2970523102906385579",
+            "\/scholar?cites=2970523102906385579",
+            {
+                "2018":4,
+                "2019":28,
+                "2020":26,
+                "2021":4
+            }
+        ],
+        [
+            "The principal function of CRISPR\u2013Cas systems in archaea and bacteria is defence against mobile genetic elements (MGEs), including viruses, plasmids and transposons. However, the relationships between CRISPR\u2013Cas and MGEs are far more complex. Several classes of MGE contributed to the origin and evolution of CRISPR\u2013Cas, and, conversely, CRISPR\u2013Cas systems and their components were recruited by various MGEs for functions that remain largely uncharacterized. In this Analysis article, we investigate and substantially expand the range of CRISPR\u2013Cas components carried by MGEs. Three groups of Tn7-like transposable elements encode \u2018minimal\u2019type I CRISPR\u2013Cas derivatives capable of target recognition but not cleavage, and another group encodes an inactivated type V variant. These partially inactivated CRISPR\u2013Cas variants might mediate guide RNA-dependent integration of the respective \u2026",
+            "CRISPR\u2013Cas in mobile genetic elements: counter-defence and beyond",
+            "Guilhem Faure and Sergey A Shmakov and Winston X Yan and David R Cheng and David A Scott and Joseph E Peters and Kira S Makarova and Eugene V Koonin",
+            "2019",
+            "X6lCOCAAAAAJ:Zph67rFs4hoC",
+            54,
+            "https:\/\/www.nature.com\/articles\/s41579-019-0204-7",
+            "12907180334776261922",
+            "\/scholar?cites=12907180334776261922",
+            {
+                "2019":6,
+                "2020":48
+            }
+        ]
+    ]
+}

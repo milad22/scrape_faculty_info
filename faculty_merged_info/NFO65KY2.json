@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "NFO65KY2",
+            "VWbENu0AAAAJ",
+            [
+                "Long coherence times at 300 K for nitrogen-vacancy center spins in diamond grown by chemical vapor deposition",
+                "An analysis of temperature dependent photoluminescence line shapes in InGaN",
+                "Microsecond spin-flip times in  measured by time-resolved polarization of photoluminescence",
+                "Single\u2010Qubit Operations with the Nitrogen\u2010Vacancy Center in Diamond",
+                "Selective excitation and thermal quenching of the yellow luminescence of GaN",
+                "Anomalous magnetic field dependence of the  spin lifetime in a lightly doped GaAs sample",
+                "Optically oriented and detected electron spin resonance in a lightly doped n-GaAs layer",
+                "Sensitive detection of surface-and size-dependent direct and indirect band gap transitions in ferritin",
+                "Dependence of optically oriented and detected electron spin resonance on donor concentration in n-GaAs",
+                "Spin Lifetime Measurements in MBE\u2010Grown GaAs Epilayers"
+            ],
+            [
+                "Electron-spin-echo experiments reveal phase-memory times as long as 58\u2002\u03bcs at 300 K for nitrogen-vacancy centers in chemical vapor deposition (CVD) single crystals. The spins were optically polarized and optically detected. Two high-quality CVD samples were studied. From the current results, it is not clear whether these phase-memory times represent a fundamental limit or are limited by an external source of decoherence.",
+                "Photoluminescence (PL) line shapes in InGaN multiple quantum well structures have been studied experimentally and theoretically between 10 and 300 K. The higher temperature PL spectra can be fitted quantitatively with a thermalized carrier distribution and a broadened joint-density-of-states. The low temperature PL line shapes suggest that carriers are not thermalized, as a result of localization by band-gap fluctuations. We deduce a localization energy of \u223c7 meV as compared with an activation energy of \u223c63 meV from thermal quenching of the PL intensity. We thus conclude that this activation energy and the band-gap fluctuation most likely have different origins.",
+                "We have observed microsecond spin-flip times in lightly doped n\u2212 GaAs, by measuring the photoluminescence polarization in the time domain with pump and probe pulses. Times up to 1.4 \u03bcs have been measured. Our results as a function of magnetic field indicate three regions governing the spin relaxation: a low field region, where spin-flip times increase due to suppression of the nuclear hyperfine interaction for localized electrons, a medium field region where spin-flip times increase due to narrowing of the hyperfine relaxation for interacting electrons, and a high field region where spin-flip times begin to level off due to the increasing importance of spin-orbit relaxation mechanisms.",
+                "A concept combining optics and microwave pulses with the negative charge\u2010state of the nitrogen\u2010vacancy (NV\u2014) center in diamond is demonstrated through experiments that are equivalent to single\u2010qubit gates, and decoherence for this qubit is examined. The spin levels of the ground state provide the two\u2010level system. Optical excitation provides polarization of these states. The polarized state is operated coherently by 35 GHz microwave pulses. The final state is read out through the photoluminescence intensity. Decoherence arises from different sources for different samples. For high\u2010pressure, high\u2010temperature synthetic diamonds, the high concentration of substitutional N limits the phase\u2010memory to a few \u03bcs. In a single\u2010crystal CVD diamond, the phase memory time is at least 32 \u03bcs at 100 K. 14N is tightly coupled to the electronic spin and produces modulation of the electron\u2013spin echo decay under certain \u2026",
+                "We report the observation of narrower structures in the yellow luminescence of bulk and thin-film n-type GaN, using the technique of selective excitation. These fine structures exhibit thermal quenching associated with an activated behavior. We attribute these fine structures to phonons and electronic excitations of a shallow donor-deep acceptor complex, and determine its activation energy for delocalization. Our results suggest that in addition to distant donor-acceptor pairs, the yellow luminescence can also involve emission complexes of shallow donors and deep acceptors.",
+                "The T 1 spin lifetime of a lightly doped n-type GaAs sample has been measured via time-resolved polarization spectroscopy under a number of temperature and magnetic field conditions. Lifetimes up to 19 \u03bc s have been measured. The magnetic field dependence of T 1 shows a nonmonotonic behavior, where the spin lifetime first increases, then decreases, then increases again with field. The initial increase in T 1 is understood to be due to correlation between electrons localized on donors. The decrease in T 1 is likely due to phonon-related spin-orbit relaxation. The final increase in T 1 with B indicates a suppression of the spin-orbit relaxation that may involve a level-crossing related cusp in the Rashba or Dresselhaus contributions to relaxation, or may arise from an unknown source.",
+                "Spin resonance of localized electrons bound to donors in a specially designed n-GaAs layer has been performed at 236 MHz and 41 mT, using circular polarized light to polarize the electrons and photoluminescence to detect the electronic polarization. The polarization was diminished under the resonance condition. The electronic g factor obtained by this measurement is\u2212 0.41\u00b10.01. The resonance linewidth of 2 mT corresponds to a spin lifetime of 28 ns. In order to observe the electronic spin resonance, nuclear effects were eliminated by application of rf fields to simultaneously resonate the nuclear spins.",
+                "Ferritin is a protein nano-cage that encapsulates minerals inside an 8 nm cavity. Previous band gap measurements on the native mineral, ferrihydrite, have reported gaps as low as 1.0 eV and as high as 2.5\u20133.5 eV. To resolve this discrepancy we have used optical absorption spectroscopy, a well-established technique for measuring both direct and indirect band gaps. Our studies included controls on the protein nano-cage, ferritin with the native ferrihydrite mineral, and ferritin with reconstituted ferrihydrite cores of different sizes. We report measurements of an indirect band gap for native ferritin of 2.140\u00b10.015 eV (579.7 nm), with a direct transition appearing at 3.053\u00b10.005 eV (406.1 nm). We also see evidence of a defect-related state having a binding energy of 0.220\u00b10.010 eV. Reconstituted ferrihydrite minerals of different sizes were also studied and showed band gap energies which increased with decreasing \u2026",
+                "Electron spin resonance of donors in GaAs has been observed through optical orientation and detection of spins. GaAs samples doped below the metal\u2013insulator transition were studied. The resonance linewidth increases as the concentration of donors is reduced, due to the dependence of the T2* spin lifetime on correlation effects between donor electrons. The linewidth of the lowest doped sample (3\u00d71014 cm\u22123) corresponds to a T2* of 5 ns, which is the value predicted for electrons in the non-interacting, localized limit. The nuclei need to be simultaneously depolarized in order to make the electron resonance observable.",
+                "Electron spin relaxation times in excess of the localized limit have been measured in MBE n\u2010GaAs layers, with the times depending on the doping concentration. We have optically oriented the electrons in the samples, and measured spin lifetimes via luminescence depolarization in a transverse magnetic field (Hanle effect). The lifetimes thus obtained were 14 and 26 ns for samples nominally doped at 1 \u00d7 1015 and 3 \u00d7 1015 cm\u20143, respectively. The dominant dephasing mechanism, which is the hyperfine interaction of localized electrons with lattice nuclei, is discussed. Our results are presented in the context of our larger goal, which is to use resonance techniques for spin measurements and control. In this context, the Hanle spin lifetime measurement is a necessary step to be followed by optically detected magnetic resonance in a longitudinal magnetic field."
+            ],
+            [
+                [
+                    "optical properties of semiconductors"
+                ]
+            ]
+        ]
+    ]
+}

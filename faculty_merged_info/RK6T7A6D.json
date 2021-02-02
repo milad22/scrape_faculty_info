@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "RK6T7A6D",
+            "iz8reBoAAAAJ",
+            [
+                "Report on the sixth blind test of organic crystal structure prediction methods",
+                "Stacking and registry effects in layered materials: the case of hexagonal boron nitride",
+                "Dispersion interactions with density-functional theory: Benchmarking semi-empirical and inter-atomic pair-wise corrected density functionals",
+                "Electronic structure of copper phthalocyanine: A comparative density functional theory study",
+                "Many\u2010body dispersion interactions in molecular crystal polymorphism",
+                "Benchmark of G W methods for azabenzenes",
+                "Describing both dispersion interactions and electronic structure using density functional theory: The case of Metal\u2212 Phthalocyanine dimers",
+                "Density functional theory of transition metal phthalocyanines, II: electronic structure of MnPc and FePc\u2014symmetry and symmetry breaking",
+                "Electronic structure of copper phthalocyanine from G 0 W 0 calculations",
+                "Strategy for finding a reliable starting point for G 0 W 0 demonstrated for molecules"
+            ],
+            [
+                "The sixth blind test of organic crystal structure prediction (CSP) methods has been held, with five target systems: a small nearly rigid molecule, a polymorphic former drug candidate, a chloride salt hydrate, a co-crystal and a bulky flexible molecule. This blind test has seen substantial growth in the number of participants, with the broad range of prediction methods giving a unique insight into the state of the art in the field. Significant progress has been seen in treating flexible molecules, usage of hierarchical approaches to ranking structures, the application of density-functional approximations, and the establishment of new workflows and `best practices' for performing CSP calculations. All of the targets, apart from a single potentially disordered Z\u2032 = 2 polymorph of the drug candidate, were predicted by at least one submission. Despite many remaining challenges, it is clear that CSP methods are becoming more \u2026",
+                "The interlayer sliding energy landscape of hexagonal boron nitride (h\u2212 BN) is investigated via a van der Waals corrected density functional theory approach. It is found that the main role of the van der Waals forces is to anchor the layers at a fixed distance, whereas the electrostatic forces dictate the optimal stacking mode and the interlayer sliding energy. A nearly free-sliding path is identified, along which band gap modulations of\u223c 0.6 eV are obtained. We propose a simple geometric model that quantifies the registry matching between the layers and captures the essence of the corrugated h\u2212 BN interlayer energy landscape. The simplicity of this phenomenological model opens the way to the modeling of complex layered structures, such as carbon and boron nitride nanotubes.",
+                "We present a comparative assessment of the accuracy of two different approaches for evaluating dispersion interactions: interatomic pairwise corrections and semiempirical meta-generalized-gradient-approximation (meta-GGA)-based functionals. This is achieved by employing conventional (semi)local and (screened-)hybrid functionals, as well as semiempirical hybrid and nonhybrid meta-GGA functionals of the M06 family, with and without interatomic pairwise Tkatchenko\u2013Scheffler corrections. All of those are tested against the benchmark S22 set of weakly bound systems, a representative larger molecular complex (dimer of NiPc molecules), and a representative dispersively bound solid (hexagonal boron nitride). For the S22 database, we also compare our results with those obtained from the pairwise correction of Grimme (DFT-D3) and nonlocal Langreth\u2013Lundqvist functionals (vdW-DF1 and vdW-DF2). We find \u2026",
+                "We present a systematic density functional theory study of the electronic structure of copper phthalocyanine (CuPc) using several different (semi)local and hybrid functionals and compare the results to experimental photoemission data. We show that semilocal functionals fail qualitatively for CuPc primarily because of underbinding of localized orbitals due to self-interaction errors. We discuss an appropriate choice of functional for studies of CuPc\/metal interfaces and suggest the Heyd\u2013Scuseria\u2013Ernzerhof screened hybrid functional as a suitable compromise functional.",
+                "Molecular crystals: The structures and relative energies of glycine polymorphs are determined using dispersion corrections to PBE and PBEh density functionals. The picture shows a potential\u2010energy surface for the a\u2010b plane of \u03b3\u2010glycine obtained with density functional theory including many\u2010body dispersion interactions.",
+                "Many-body perturbation theory in the G W approximation is a useful method for describing electronic properties associated with charged excitations. A hierarchy of G W methods exists, starting from non-self-consistent G 0 W 0, through partial self-consistency in the eigenvalues and in the Green's function (sc G W 0), to fully self-consistent G W (sc G W). Here, we assess the performance of these methods for benzene, pyridine, and the diazines. The quasiparticle spectra are compared to photoemission spectroscopy (PES) experiments with respect to all measured particle removal energies and the ordering of the frontier orbitals. We find that the accuracy of the calculated spectra does not match the expectations based on their level of self-consistency. In particular, for certain starting points G 0 W 0 and sc G W 0 provide spectra in better agreement with the PES than sc G W.",
+                "Noncovalent interactions, of which London dispersion is an important special case, are essential to many fields of chemistry. However, treatment of London dispersion is inherently outside the reach of (semi)local approximations to the exchange-correlation functional as well as of conventional hybrid density functionals based on semilocal correlation. Here, we offer an approach that provides a treatment of both dispersive interactions and the electronic structure within a computationally tractable scheme. The approach is based on adding the leading interatomic London dispersion term via pairwise ion\u2212ion interactions to a suitably chosen nonempirical hybrid functional, with the dispersion coefficients and van der Waals radii determined from first-principles using the recently proposed \u201cTS-vdW\u201d scheme (Tkatchenko, A.; Scheffler, M. Phys. Rev. Lett. 2009, 102, 073005). This is demonstrated via the important special \u2026",
+                "We present a two-part systematic density functional theory (DFT) study of the electronic structure of selected transition metal phthalocyanines. We use a semi-local generalized gradient approximation (GGA) functional, as well as several hybrid exchange-correlation functionals, and compare the results to experimental photoemission data. Here, we study the intermediate spin systems MnPc and FePc. We show that DFT calculations of these systems are extremely sensitive to the choice of functional and basis set with respect to the obtained electronic configuration and to symmetry breaking. Interestingly, all simulated spectra are in good agreement with experiment despite the differences in the underlying electronic configurations.",
+                "We present all-electron G 0 W 0 calculations for the electronic structure of the organic semiconductor copper phthalocyanine, based on semilocal and hybrid density-functional theory (DFT) starting points. We show that G 0 W 0 calculations improve the quantitative agreement with high resolution photoemission and inverse photoemission experiments. However, the extent of the improvement provided by G 0 W 0 depends significantly on the choice of the underlying DFT functional, with the hybrid functional serving as a much better starting point than the semilocal one. In particular, strong starting-point dependence is observed in the energy positions of highly localized molecular orbitals. This is attributed to self-interaction errors (SIE), due to which the orbitals obtained from semilocal DFT do not approximate the quasi-particle (QP) orbitals as well as those obtained from hybrid DFT. Our findings establish the viability of \u2026",
+                "Many-body perturbation theory in the G 0 W 0 approximation is an increasingly popular tool for calculating electron removal energies and fundamental gaps for molecules and solids. However, the predictive power of G 0 W 0 is limited by its sensitivity to the density functional theory (DFT) starting point. We introduce a nonempirical scheme, which allows us to find a reliable DFT starting point for G 0 W 0 calculations. This is achieved by adapting the amount of Hartree-Fock exchange in a hybrid DFT functional. The G 0 W 0 spectra resulting from this starting point reliably predict experimental photoelectron spectra for a test set of 13 typical organic semiconductor molecules."
+            ],
+            [
+                [
+                    "Computational Materials Science",
+                    "Condensed Matter Theory",
+                    "Computational Chemistry"
+                ]
+            ]
+        ]
+    ]
+}

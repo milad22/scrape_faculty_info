@@ -1,0 +1,138 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "-j5wb9IAAAAJ",
+            "Jonathan Mace",
+            "Max Planck Institute for Software Systems",
+            "@mpi-sws.org",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=-j5wb9IAAAAJ",
+            494,
+            [
+                "Distributed Systems",
+                "Operating Systems",
+                "Resource Management"
+            ],
+            472,
+            9,
+            9,
+            9,
+            9,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"VuvKPiQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Rodrigo Fonseca",
+                    "affiliation":"Associate Professor of Computer Science, Brown University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9EFobLUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Peter Bodik",
+                    "affiliation":"Principal Researcher at Microsoft Research"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6ENuGyoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Madanlal Musuvathi",
+                    "affiliation":"Microsoft Research"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"l6oz33MAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Greg Ganger",
+                    "affiliation":"Jatras Professor, Carnegie Mellon University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6CyKrCUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Antoine Kaufmann",
+                    "affiliation":"Max Planck Institute for Software Systems"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"y2YkcWkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ymir Vigfusson",
+                    "affiliation":"Assistant Professor, Emory University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"eXcMD7EAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Rebecca Isaacs",
+                    "affiliation":"Twitter"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"0ZLNSwQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Arpan Gujarati",
+                    "affiliation":"Ph.D. Student at Max Planck Institute for Software Systems, Germany"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "FstJz9AAAAAJ",
+            "Subhasree Pradhan",
+            "Postdoc, The Ohio State University",
+            "@osu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=FstJz9AAAAAJ",
+            30,
+            [
+                "Theoretical Computational Condensed Matter Physics"
+            ],
+            26,
+            4,
+            4,
+            0,
+            0,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"IY2VoH8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"A Taraphder",
+                    "affiliation":"Department of Physics, Centre for Theoretical studies, Indian Institute of Technology Kharagpur"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"oJSWAhkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Niravkumar A Patel",
+                    "affiliation":"Indian Institute of Technology Madras"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"K8CyY3AAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Niravkumar D. Patel",
+                    "affiliation":"Ohio State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"B2POGawAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Nandini Trivedi",
+                    "affiliation":"The Ohio State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"tUOte4MAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Avijeet Ray",
+                    "affiliation":"Postdoctoral Fellow, KAUST"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"KRml5zUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tulika Maitra",
+                    "affiliation":"IIT Roorkee"
+                }
+            ]
+        ]
+    ]
+}

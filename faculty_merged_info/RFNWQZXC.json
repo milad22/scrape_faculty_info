@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "RFNWQZXC",
+            "BQQ2ZrsAAAAJ",
+            [
+                "Two photon absorption, nonlinear refraction, and optical limiting in semiconductors",
+                "Nonlinear optical properties of carbon-black suspensions (ink)",
+                "Energy band-gap dependence of two-photon absorption",
+                "Nonlinear refraction and optical limiting in",
+                "Optical limiting with semiconductors",
+                "Optical switching and n2 measurements in CS2",
+                "Color-center generation in silicate glasses exposed to infrared femtosecond pulses",
+                "Polarization charge model for laser-induced ripple patterns in dielectric materials",
+                "Laser-induced damage and the role of self-focusing",
+                "Pulse-width and focal-volume dependence of laser-induced breakdown"
+            ],
+            [
+                "Two-photon absorption coefficients \/32 of ten direct gap semiconductors with band-gap energy Eg varying between 1 .4 and 3.7 eV were measured using 1.06 \u00b5m and 0.53 um picosecond pulses. $2 was found to scale as E43, as predicted by theory for the samples measured. Extension of the empirical relationship between $2 and Eg to InSb with Eg = 0.2 eV also provides agree-ment between previously measured values and the predicted 02. In addition, the absolute values of $2 are in excellent agreement (the average difference being <26%) with recent theory, which includes the effects of nonparabolic bands. The nonlinear refraction induced in these materials was monitored and found to agree well with the assumption that the self-refraction originates from the two-photon-generated free carriers. The observed self-defocusing yields an effective nonlinear index as much as two orders of magnitude larger than \u2026",
+                "We performed a series of experiments on suspensions of carbon particles in liquids (ink) and carbon particles deposited on glass to determine the mechanisms for the observed optical-limiting behavior. Both materials show reduced transmittance for increasing fluence (energy per unit area). We found that nonlinear scattering dominates the transmissive losses and that the limiting is fluence dependent, so that limiters based on black ink are effective for nanosecond pulses but not for picosecond pulses. Additionally, the nonlinear scattering and the limiting behavior cease after repeated irradiation. For the liquid, flowing eliminates this effect. All the data obtained are consistent with a model of direct heating of the microscopic-sized carbon particles by linear absorption with subsequent optical breakdown initiated by thermally ionized carriers. A simple calculation gives temperatures higher than the sublimation \u2026",
+                "We present measurements of the two-photon absorption coefficients \u03b2_2 of 10 different semiconductors having band-gap energies between 1.4 and 3.7 eV. We find that \u03b2_2 varies as Eg^\u22123, as predicted by theory. In addition, the absolute values of \u03b2_2 agree with theory, which includes the effect of nonparabolic bands, the average difference being less than 26%. This agreement permits confident predictions of two-photon absorption coefficients of other materials at other wavelengths.",
+                "We experimentally and theoretically investigate optical beam propagation in nonlinear refractive materials having a thickness greater than the depth of focus of the input beam (i.e., internal self-action). A simple model based on the \"constant shape approximation\" is adequate for analyzing the propagation of laser beams within such media under most conditions. In a tight focus geometry, we find that the position of the sample with respect to the focal plane, z, is an important parameter in the fluence limiting characteristics of the output. The behavior with z allows us to perform a \"thick sample Z-scan\" from which we can determine the sign and magnitude of the nonlinear refraction index. In CS2, we have used this method to independently measure the negative thermally induced index change and the positive Kerr nonlinearity with nanosecond and picosecond CO2 laser pulses, respectively. We have experimentally \u2026",
+                "We present a detailed characterization of the output of passive semiconductor-based optical limiters. These devices utilize two-photon absorption along with photogenerated carrier defocusing within the material to limit the output fluence and irradiance. In addition to protecting downstream optical components, the focusing geometry combined with these nonlinearities makes the devices self-protecting. Such devices have a broad working wavelength range since both the initial two-photon absorption and the subsequent carrier refraction are slowly varying funtions of wavelength. For example, ZnSe should have a useful range of from 0.5 to 0.85 \u03bcm. In this material we have observed the onset of limiting at input powers as low as 80 W when using 10-nsec, 0.53 \u03bcm input pulses. At the same wavelength, when 30 psec pulses into a monolithic ZnSe limiter are used, limiting begins at \u2243300 W or 10 nJ. We also monitored \u2026",
+                "Optical switching of picosecond pulses in CS2 has been observed to occur at the second critical power for self-focusing. This has been confirmed in an independent direct measurement of the nonlinear refractive index at 1.06 \u03bcm and 0.53 \u03bcm. The measurement technique involves observations of far field spatial distortions of gaussian beams after passing through a nonlinear material.",
+                "The optical properties of silicate glasses under high-power, 850-nm femtosecond laser irradiation have been studied. Photoinduced processes occurred at irradiances well below the threshold for laser-induce damage. Laser spectral line broadening leading to supercontinuum generation in the visible and UV spectral regions was observed in all the glasses studied. Color-center generation and intrinsic luminescence were found in boro-silicate and alkali silicate glasses. It is believed that these processes result from linear and two-photon absorption of the short-wavelength component of the supercontinuum, causing ionization of the glass matrix. No color-center absorption in the visible region was observed in fused silica at irradiances up to the laser-damage threshold.",
+                "An explanation of laser-induced ripples in dielectric surfaces is given. The model takes into account the polarization charge which is induced on the boundaries of defects by the applied laser field. It is shown that this charge results in a sinusoidally varying perturbation to the applied laser field in the vicinity of the defect, and that the perturbation field has a period of  , where \u03bb is the laser wavelength and  is the index of the dielectric. It is further shown that this perturbation is greatest along the direction of laser polarization. At sufficiently high laser field intensities, the sum of the applied laser field and the maxima in the perturbation field will exceed the damage threshold, and a permanent ripple pattern in the surface will result. The predicted spacing and orientation of these ripples is in agreement with the experimentally observed data. Finally, it is shown how bootstrapping occurs to enhance the ripple pattern \u2026",
+                "We review the influence of self-focusing on the measurement of bulk laser-induced-damage (LID) thresholds in normally transparent optical mate-rials. This role is experimentally determined by measuring the spot size and polarization dependence of LID and by observing beam distortion in the far field. Utilizing these techniques, we find that by using a tight focusing geometry in which the breakdown power is below P2, the effects of self-focusing can be practically eliminated in an LID experiment. P2 is the so-called second critical power for self-focusing, and P2 = 3.77P1, where P1 = cX2\/327r2n2, where c is the speed of light in vacuum, X is the laser wavelength and n2 is the nonlinear index of refraction. This is in accordance with numerical calculations by J. H. Marburger [in Progress in Quantum Electronics, J. H. Sanders and S. Sten-holm, eds., Vol. 4, Part 1, pp. 35-110, Pergamon, Oxford (1975)]. With this \u2026",
+                "The laser-induced breakdown fields at 1.06 \u03bcm of fused SiO 2, single-crystal NaCl, and air were measured as a function of focal volume and laser pulse width while keeping all other parameters, including the specimen, constant. The laser pulse width was varied from 40 psec to 31 nsec, and the focal volume was varied by over two orders of magnitude. The dependence of the breakdown field for NaCl and SiO 2 on the laser pulse width t p and the focal folume V was empirically determined to be E B= AV\u2212 1 t p\u2212 1\/4+ C and the dependence for air to be E B=(AV\u2212 1+ C) t p\u2212 1\/4, where A and C are material-dependent constants. Current theories of laser-induced breakdown are carefully compared with these present measurements and are found to be inconsistent."
+            ],
+            [
+                [
+                    "nonlinear optics",
+                    "laser-induced damage to optical materials",
+                    "optical limmiting"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "NK8VUwkAAAAJ",
+            "ahmed touhami",
+            "professor of Physics, University of Texas Rio Grande Valley",
+            "@utrgv.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=NK8VUwkAAAAJ",
+            2442,
+            [
+                "Biophysics",
+                "Nanosciences",
+                "Biological Physics"
+            ],
+            780,
+            22,
+            14,
+            30,
+            19,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"-N2b_nQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yves Dufrene",
+                    "affiliation":"Universit\u00e9 catholique de Louvain"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ZANs7xwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"hafedh ben ouada",
+                    "affiliation":"professer de physique, universit\u00e9 de Monastir"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"8AeV3bwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"John Dutcher",
+                    "affiliation":"Professor of Physics, University of Guelph, Canada"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"tdQ85OIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Bernard Nysten",
+                    "affiliation":"Universit\u00e9 catholique de Louvain"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"urp4mEYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Marcela Alexander",
+                    "affiliation":"University of Guelph"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"cPpltIsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Andrew Rutenberg",
+                    "affiliation":"Professor of Physics, Dalhousie University"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,224 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Astrocytes exhibit oscillations and waves of Ca2+ ions within their cytosol and it appears that this behavior helps facilitate the astrocyte's interaction with its environment, including its neighboring neurons. Often changes in the oscillatory behavior are initiated by an external stimulus such as glutamate, recently however, it has been observed that oscillations are also initiated spontaneously. We propose here a mathematical model of how spontaneous Ca2+ oscillations arise in astrocytes. This model uses the calcium-induced calcium release and inositol cross-coupling mechanisms coupled with a receptor-independent method for producing inositol (1,4,5)-trisphosphate as the heart of the model. By computationally mimicking experimental constraints we have found that this model provides results that are qualitatively similar to experiment.",
+            "A mathematical model of spontaneous calcium (II) oscillations in astrocytes",
+            "Maxim Lavrentovich and Sheryl Hemkin",
+            "2008",
+            "uafSOuMAAAAJ:zYLM7Y9cAGgC",
+            70,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0022519307006510",
+            "2900584912192158133",
+            "\/scholar?cites=2900584912192158133",
+            {
+                "2008":1,
+                "2009":4,
+                "2010":1,
+                "2011":9,
+                "2012":5,
+                "2013":3,
+                "2014":1,
+                "2015":3,
+                "2016":6,
+                "2017":7,
+                "2018":7,
+                "2019":12,
+                "2020":10,
+                "2021":1
+            }
+        ],
+        [
+            "We study the effect of spatial structure, genetic drift, mutation, and selective pressure on the evolutionary dynamics in a simplified model of asexual organisms colonizing a new territory. Under an appropriate coarse-graining, the evolutionary dynamics is related to the directed percolation processes that arise in voter models, the Domany-Kinzel (DK) model, contact process, and so on. We explore the differences between linear (flat front) expansions and the much less familiar radial (curved front) range expansions. For the radial expansion, we develop a generalized, off-lattice DK model that minimizes otherwise persistent lattice artifacts. With both simulations and analytical techniques, we study the survival probability of advantageous mutants, the spatial correlations between domains of neutral strains, and the dynamics of populations with deleterious mutations.\u201cInflation\u201d at the frontier leads to striking differences \u2026",
+            "Radial Domany-Kinzel models with mutation and selection",
+            "Maxim O Lavrentovich and Kirill S Korolev and David R Nelson",
+            "2013",
+            "uafSOuMAAAAJ:d1gkVwhDpl0C",
+            41,
+            "https:\/\/journals.aps.org\/pre\/abstract\/10.1103\/PhysRevE.87.012103",
+            "2144700871247668281",
+            "\/scholar?cites=2144700871247668281",
+            {
+                "2013":2,
+                "2014":8,
+                "2015":5,
+                "2016":4,
+                "2017":6,
+                "2018":5,
+                "2019":6,
+                "2020":5
+            }
+        ],
+        [
+            "Chirality, ubiquitous in complex biological systems, can be controlled and quantified in synthetic materials such as cholesteric liquid crystal (CLC) systems. In this work, we study spherical shells of CLC under weak anchoring conditions. We induce anchoring transitions at the inner and outer boundaries using two independent methods: by changing the surfactant concentration or by raising the temperature close to the clearing point. The shell confinement leads to new states and associated surface structures: a state where large stripes on the shell can be filled with smaller, perpendicular substripes, and a focal conic domain (FCD) state, where thin stripes wrap into at least two, topologically required, double spirals. Focusing on the latter state, we use a Landau\u2013de Gennes model of the CLC to simulate its detailed configurations as a function of anchoring strength. By abruptly changing the topological constraints on \u2026",
+            "Change in stripes for cholesteric shells via anchoring in moderation",
+            "Lisa Tran and Maxim O Lavrentovich and Guillaume Durey and Alexandre Darmon and Martin F Haase and Ningwei Li and Daeyeon Lee and Kathleen J Stebe and Randall D Kamien and Teresa Lopez-Leon",
+            "2017",
+            "uafSOuMAAAAJ:_kc_bZDykSQC",
+            38,
+            "https:\/\/journals.aps.org\/prx\/abstract\/10.1103\/PhysRevX.7.041029",
+            "14211354304149684318",
+            "\/scholar?cites=14211354304149684318",
+            {
+                "2017":1,
+                "2018":10,
+                "2019":13,
+                "2020":13,
+                "2021":1
+            }
+        ],
+        [
+            "We propose a general theory for surface patterning in many different biological systems, including mite and insect cuticles, pollen grains, fungal spores, and insect eggs. The patterns of interest are often intricate and diverse, yet an individual pattern is robustly reproducible by a single species and a similar set of developmental stages produces a variety of patterns. We argue that the pattern diversity and reproducibility may be explained by interpreting the pattern development as a first-order phase transition to a spatially modulated phase. Brazovskii showed that for such transitions on a flat, infinite sheet, the patterns are uniform striped or hexagonal. Biological objects, however, have finite extent and offer different topologies, such as the spherical surfaces of pollen grains. We consider Brazovskii transitions on spheres and show that the patterns have a richer phenomenology than simple stripes or hexagons. We \u2026",
+            "First-order patterning transitions on a sphere as a route to cell morphology",
+            "Maxim O Lavrentovich and Eric M Horsley and Asja Radja and Alison M Sweeney and Randall D Kamien",
+            "2016",
+            "uafSOuMAAAAJ:MXK_kJrjxJIC",
+            31,
+            "https:\/\/www.pnas.org\/content\/113\/19\/5189.short",
+            "13364030809679885258",
+            "\/scholar?cites=13364030809679885258",
+            {
+                "2016":1,
+                "2017":3,
+                "2018":7,
+                "2019":8,
+                "2020":11,
+                "2021":1
+            }
+        ],
+        [
+            "Cellular nutrient consumption is influenced by both the nutrient uptake kinetics of an individual cell and the cells' spatial arrangement. Large cell clusters or colonies have inhibited growth at the cluster's center due to the shielding of nutrients by the cells closer to the surface. We develop an effective medium theory that predicts a thickness \u2113 of the outer shell of cells in the cluster that receives enough nutrient to grow. The cells are treated as partially absorbing identical spherical nutrient sinks, and we identify a dimensionless parameter \u03bd that characterizes the absorption strength of each cell. The parameter \u03bd can vary over many orders of magnitude among different cell types, ranging from bacteria and yeast to human tissue. The thickness \u2113 decreases with increasing \u03bd, increasing cell volume fraction \u03d5, and decreasing ambient nutrient concentration \u03c8\u221e. The theoretical results are compared with numerical simulations \u2026",
+            "Nutrient shielding in clusters of cells",
+            "Maxim O Lavrentovich and John H Koschwanez and David R Nelson",
+            "2013",
+            "uafSOuMAAAAJ:IjCSPb-OGe4C",
+            28,
+            "https:\/\/journals.aps.org\/pre\/abstract\/10.1103\/PhysRevE.87.062703",
+            "16708592054434105661",
+            "\/scholar?cites=16708592054434105661",
+            {
+                "2014":4,
+                "2015":4,
+                "2016":3,
+                "2017":3,
+                "2018":6,
+                "2019":4,
+                "2020":3,
+                "2021":1
+            }
+        ],
+        [
+            "Systems with holes, such as colloidal handlebodies and toroidal droplets, have been studied in the nematic liquid crystal (NLC) 4-cyano-4\u2032-pentylbiphenyl (5CB): Both point and ring topological defects can occur within each hole and around the system while conserving the system\u2019s overall topological charge. However, what has not been fully appreciated is the ability to manipulate the hole geometry with homeotropic (perpendicular) anchoring conditions to induce complex, saddle-like deformations. We exploit this by creating an array of holes suspended in an NLC cell with oriented planar (parallel) anchoring at the cell boundaries. We study both 5CB and a binary mixture of bicyclohexane derivatives (CCN-47 and CCN-55). Through simulations and experiments, we study how the bulk saddle deformations of each hole interact to create defect structures, including an array of disclination lines, reminiscent of those \u2026",
+            "Lassoing saddle splay and the geometrical control of topological defects",
+            "Lisa Tran and Maxim O Lavrentovich and Daniel A Beller and Ningwei Li and Kathleen J Stebe and Randall D Kamien",
+            "2016",
+            "uafSOuMAAAAJ:3fE2CSJIrl8C",
+            24,
+            "https:\/\/www.pnas.org\/content\/113\/26\/7106.short",
+            "15679270671968882238",
+            "\/scholar?cites=15679270671968882238",
+            {
+                "2016":1,
+                "2017":4,
+                "2018":10,
+                "2019":4,
+                "2020":5
+            }
+        ],
+        [
+            "The ornately geometric walls of pollen grains have inspired scientists for decades. We show that the evolved diversity of these patterns is entirely recapitulated by a biophysical model in which an initially uniform polysaccharide layer in the extracellular space, mechanically coupled to the cell membrane, phase separates to a spatially modulated state. Experiments reveal this process occurring in living cells. We observe that in \u223c10% of extant species, this phase separation reaches equilibrium during development such that individual pollen grains are identical and perfectly reproducible. About 90% of species undergo an arrest of this process prior to equilibrium such that individual grains are similar but inexact copies. Equilibrium patterns have appeared multiple times during the evolution of seed plants, but selection does not favor these states. This framework for pattern development provides a route to rationalizing \u2026",
+            "Pollen cell wall patterns form from modulated phases",
+            "Asja Radja and Eric M Horsley and Maxim O Lavrentovich and Alison M Sweeney",
+            "2019",
+            "uafSOuMAAAAJ:ZeXyd9-uunAC",
+            23,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0092867419300479",
+            "7917181696431890835",
+            "\/scholar?cites=7917181696431890835",
+            {
+                "2019":6,
+                "2020":16,
+                "2021":1
+            }
+        ],
+        [
+            "Genetic drift at the frontiers of two-dimensional range expansions of microorganisms can frustrate local cooperation between different genetic variants, demixing the population into distinct sectors. In a biological context, mutualistic or antagonistic interactions will typically be asymmetric between variants. By taking into account both the asymmetry and the interaction strength, we show that the much weaker demixing in three dimensions allows for a mutualistic phase over a much wider range of asymmetric cooperative benefits, with mutualism prevailing for any positive, symmetric benefit. We also demonstrate that expansions with undulating fronts roughen dramatically at the boundaries of the mutualistic phase, with severe consequences for the population genetics along the transition lines.",
+            "Asymmetric mutualism in two-and three-dimensional range expansions",
+            "Maxim O Lavrentovich and David R Nelson",
+            "2014",
+            "uafSOuMAAAAJ:WF5omc3nYNoC",
+            23,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.112.138102",
+            "2062775015973869971",
+            "\/scholar?cites=2062775015973869971",
+            {
+                "2014":5,
+                "2015":4,
+                "2016":2,
+                "2017":4,
+                "2018":1,
+                "2019":6,
+                "2020":1
+            }
+        ],
+        [
+            "Athermal disordered systems can exhibit a remarkable response to an applied oscillatory shear: After a relatively few shearing cycles, the system falls into a configuration that had already been visited in a previous cycle. After this point the system repeats its dynamics periodically despite undergoing many particle rearrangements during each cycle. We study the behavior of orbits as we approach the jamming point in simulations of jammed particles subject to oscillatory shear at fixed pressure and zero temperature. As the pressure is lowered, we find that it becomes more common for the system to find periodic states where it takes multiple cycles before returning to a previously visited state. Thus, there is a proliferation of longer periods as the jamming point is approached.",
+            "Period proliferation in periodic states in cyclically sheared jammed solids",
+            "Maxim O Lavrentovich and Andrea J Liu and Sidney R Nagel",
+            "2017",
+            "uafSOuMAAAAJ:ULOm3_A8WrAC",
+            18,
+            "https:\/\/journals.aps.org\/pre\/abstract\/10.1103\/PhysRevE.96.020101",
+            "18349575625314064509",
+            "\/scholar?cites=18349575625314064509",
+            {
+                "2017":1,
+                "2018":2,
+                "2019":9,
+                "2020":4,
+                "2021":2
+            }
+        ],
+        [
+            "We experimentally and numerically investigate the evolutionary dynamics of four competing strains of E. coli with differing expansion velocities in radially expanding colonies. We compare experimental measurements of the average fraction, correlation functions between strains, and the relative rates of genetic domain wall annihilations and coalescences to simulations modeling the population as a one-dimensional ring of annihilating and coalescing random walkers with deterministic biases due to selection. The simulations reveal that the evolutionary dynamics can be collapsed onto master curves governed by three essential parameters: (1) an expansion length beyond which selection dominates over genetic drift; (2) a characteristic angular correlation describing the size of genetic domains; and (3) a dimensionless constant quantifying the interplay between a colony\u2019s curvature at the frontier and its selection length scale. We measure these parameters with a new technique that precisely measures small selective differences between spatially competing strains and show that our simulations accurately predict the dynamics without additional fitting. Our results suggest that the random walk model can act as a useful predictive tool for describing the evolutionary dynamics of range expansions composed of an arbitrary number of genotypes with different fitnesses.",
+            "Genetic drift and selection in many-allele range expansions",
+            "Bryan T Weinstein and Maxim O Lavrentovich and Wolfram M\u00f6bius and Andrew W Murray and David R Nelson",
+            "2017",
+            "uafSOuMAAAAJ:YOwf2qJgpHMC",
+            17,
+            "https:\/\/journals.plos.org\/ploscompbiol\/article?id=10.1371\/journal.pcbi.1005866&rev=1",
+            "4305799736567940428",
+            "\/scholar?cites=4305799736567940428",
+            {
+                "2017":1,
+                "2018":5,
+                "2019":5,
+                "2020":5,
+                "2021":1
+            }
+        ]
+    ]
+}

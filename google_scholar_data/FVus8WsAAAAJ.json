@@ -1,0 +1,100 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "FVus8WsAAAAJ",
+            "Daniel Carrera",
+            "Penn State University",
+            "@psu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=FVus8WsAAAAJ",
+            431,
+            [
+                "Formation and evolution of planetary systems."
+            ],
+            426,
+            7,
+            7,
+            5,
+            5,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"rkFcdNIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Anders Johansen",
+                    "affiliation":"Professor, Lund University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"n22jFqEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Melvyn Davies",
+                    "affiliation":"Professor of Astronomy, Lund University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"TePFO-YAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Eric Ford",
+                    "affiliation":"Professor, Department of Astronomy & Astrophysics \/ Institute for Computational & Data Sciences"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"45bqs60AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Andr\u00e9 Izidoro",
+                    "affiliation":"Rice University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"quLFY_EAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sean Raymond",
+                    "affiliation":"CNRS Researcher, Laboratoire d'Astrophysique de Bordeaux, France"
+                }
+            ]
+        ]
+    ]
+}

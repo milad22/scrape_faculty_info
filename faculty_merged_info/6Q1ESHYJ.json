@@ -1,0 +1,41 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "6Q1ESHYJ",
+            "P9NCgWEAAAAJ",
+            [
+                "Spin current and polarization in impure two-dimensional electron systems with spin-orbit coupling",
+                "Effect of electron-electron interactions on the conductivity of clean graphene",
+                "Transport equations for a two-dimensional electron gas with spin-orbit interaction",
+                "Minimal conductivity in graphene: Interaction corrections and ultraviolet anomaly",
+                "Coulomb drag by small momentum transfer between quantum wires",
+                "Charge response function and a novel plasmon mode in graphene",
+                "Guided Plasmons in Graphene  Junctions"
+            ],
+            [
+                "We derive the transport equations for two-dimensional electron systems with Rashba spin-orbit interaction and short-range spin-independent disorder. In the limit of slow spatial variations, we obtain coupled diffusion equations for the electron density and spin. Using these equations we calculate electric-field induced spin accumulation and spin current in a finite-size sample for an arbitrary ratio between spin-orbit energy splitting \u0394 and elastic scattering rate \u03c4\u2212 1. We demonstrate that the spin-Hall conductivity vanishes in an infinite system independent of this ratio.",
+                "Minimal conductivity of a single undoped graphene layer is known to be of the order of the conductance quantum, independent of the electron velocity. We show that this universality does not survive electron-electron interaction, which results in nontrivial frequency dependence. We begin with analyzing the perturbation theory in the interaction parameter g for the electron self-energy and observe the failure of the random-phase approximation. The optical conductivity is then derived from the quantum kinetic equation, and the exact result is obtained in the limit when g\u226a 1\u226a g| ln\ufeff \u03c9|.",
+                "The transport equations for a two-dimensional electron gas with spin-orbit interaction are presented. The distribution function is a 2\u00d7 2-matrix in the spin space. Particle and energy conservation laws determine the expressions for the electric current and the energy flow. The derived transport equations are applied to the spin-splitting of a wave packet and to the calculation of the structure factor and the dynamic conductivity.",
+                "Conductivity of a disorder-free intrinsic graphene is studied to the first order in the long-range Coulomb interaction and is found to be \u03c3= \u03c3 0 (1+ 0.01 g), where g is the dimensionless (\" fine structure\") coupling constant. The calculations are performed using three different methods: i) electron polarization function, ii) Kubo formula for the conductivity, iii) quantum transport equation. Surprisingly, these methods yield different results unless a proper ultraviolet cut-off procedure is implemented, which requires that the interaction potential in the effective Dirac Hamiltonian is cut-off at small distances (large momenta).",
+                "We demonstrate that in a wide range of temperatures Coulomb drag between two weakly coupled quantum wires is dominated by processes with a small interwire momentum transfer. Such processes, not accounted for in the conventional Luttinger liquid theory, cause drag only because the electron dispersion relation is not linear. The corresponding contribution to the drag resistance scales with temperature as T 2 if the wires are identical, and as T 5 if the wires are different.",
+                "Polarizability of noninteracting 2D Dirac electrons has a 1\/q v\u2212 \u03c9 singularity at the boundary of electron-hole excitations. The screening of this singularity by long-range electron-electron interactions is usually treated within the random phase approximation. The latter is exact only in the limit of N\u2192\u221e, where N is the \u201ccolor\u201d degeneracy. We find that the ladder-type vertex corrections become crucial close to the threshold as the ratio of the n th order ladder term to the same order random phase approximation contribution is ln\ufeff n| q v\u2212 \u03c9|\/N n. We perform an analytical summation of the infinite series of ladder diagrams which describe the excitonic effect. Beyond the threshold, q v> \u03c9, the real part of the polarization operator is found to be positive leading to the appearance of a strong and narrow plasmon resonance.",
+                "Spatial separation of electrons and holes in graphene gives rise to the existence of plasmon waves confined to the boundary region. A theory of such guided plasmon modes within hydrodynamics of electron-hole liquid is developed. For plasmon wavelengths smaller than the size of charged domains, plasmon dispersion is found to be \u03c9\u221d q 1\/4. The frequency, velocity, and direction of propagation of guided plasmon modes can be easily controlled by the external electric field. In the presence of a magnetic field, a spectrum of additional gapless magnetoplasmon excitations is obtained. Our findings indicate that graphene is a promising material for nanoplasmonics."
+            ],
+            [
+                [
+                    "Theoretical Condensed Matter Physics"
+                ]
+            ]
+        ]
+    ]
+}

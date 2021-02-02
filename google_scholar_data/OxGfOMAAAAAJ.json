@@ -1,0 +1,173 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "OxGfOMAAAAAJ",
+            "Jason Petta",
+            "Department of Physics, Princeton University",
+            "@princeton.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=OxGfOMAAAAAJ",
+            16990,
+            [
+                "Quantum Information Science",
+                "Condensed Matter Physics"
+            ],
+            6998,
+            45,
+            38,
+            91,
+            73,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Ym4p8GQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jacob Taylor",
+                    "affiliation":"Joint Center for Quantum Information and Computer Science; Joint Quantum Institute; NIST"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ift9VLcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Charles M. Marcus",
+                    "affiliation":"Villum Kann Rasmussen Professor, Niels Bohr Institute, UCPH, and Scientific Director, Microsoft"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"OHNLNycAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Micah P Hanson",
+                    "affiliation":"Northwestern University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"slFLfLYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Amir Yacoby",
+                    "affiliation":"Professor of Physics, Harvard University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Xxe0micAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Xiao Mi",
+                    "affiliation":"Research Scientist, Google"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"pKuovQsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Guido Burkard",
+                    "affiliation":"Professor of Physics, University of Konstanz"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"a9_32osAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David Zajac",
+                    "affiliation":"Research Scientist, IBM"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"YP7rWbkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michael Gullans",
+                    "affiliation":"Fellow, Joint Center for Quantum Information and Computer Science (QuICS), NIST\/UMD"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"xUNJJloAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dan Ralph",
+                    "affiliation":"Professor of Physics, Cornell University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"QwqToDgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Karl Petersson",
+                    "affiliation":"Microsoft Quantum | Niels Bohr Institute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"8YXJUeAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yinyu Liu",
+                    "affiliation":"Physics Departemnt, Harvard University"
+                }
+            ]
+        ]
+    ]
+}

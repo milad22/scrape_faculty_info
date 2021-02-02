@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "KJ0AMOEQ",
+            "i-F4LuwAAAAJ",
+            [
+                "High performance electrolyte gated carbon nanotube transistors",
+                "Structural transitions and elasticity from torque measurements on DNA",
+                "Snowdrift game dynamics and facultative cheating in yeast",
+                "Generic indicators for loss of resilience before a tipping point leading to population collapse",
+                "DNA overwinds when stretched",
+                "Bias and error in estimates of equilibrium free-energy differences from nonequilibrium measurements",
+                "Community structure follows simple assembly rules in microbial microcosms",
+                "Turning ecology and evolution against cancer",
+                "Mechanochemical analysis of DNA gyrase using rotor bead tracking",
+                "Sequence-directed DNA translocation by purified FtsK"
+            ],
+            [
+                "We have fabricated high performance field-effect transistors made from semiconducting single-walled carbon nanotubes (SWNTs). Using chemical vapor deposition to grow the tubes, annealing to improve the contacts, and an electrolyte as a gate, we obtain very high device mobilities and transconductances. These measurements demonstrate that SWNTs are attractive for both electronic applications and for chemical and biological sensing. ",
+                "Knowledge of the elastic properties of DNA is required to understand the structural dynamics of cellular processes such as replication and transcription. Measurements of force and extension on single molecules of DNA 1, 2, 3 have allowed direct determination of the molecule's mechanical properties, provided rigorous tests of theories of polymer elasticity 4, revealed unforeseen structural transitions induced by mechanical stresses 3, 5, 6, 7, and established an experimental and conceptual framework for mechanical assays of enzymes that act on DNA 8. However, a complete description of DNA mechanics must also consider the effects of torque, a quantity that has hitherto not been directly measured in micromanipulation experiments. We have measured torque as a function of twist for stretched DNA\u2014torsional strain in over-or underwound molecules was used to power the rotation of submicrometre beads serving \u2026",
+                "The origin of cooperation is a central challenge to our understanding of evolution 1, 2, 3. The fact that microbial interactions can be manipulated in ways that animal interactions cannot has led to a growing interest in microbial models of cooperation 4, 5, 6, 7, 8, 9, 10 and competition 11, 12. For the budding yeast Saccharomyces cerevisiae to grow on sucrose, the disaccharide must first be hydrolysed by the enzyme invertase 13, 14. This hydrolysis reaction is performed outside the cytoplasm in the periplasmic space between the plasma membrane and the cell wall. Here we demonstrate that the vast majority (\u223c 99 per cent) of the monosaccharides created by sucrose hydrolysis diffuse away before they can be imported into the cell, serving to make invertase production and secretion a cooperative behaviour 15, 16. A mutant cheater strain that does not produce invertase is able to take advantage of and invade a \u2026",
+                "Theory predicts that the approach of catastrophic thresholds in natural systems (e.g., ecosystems, the climate) may result in an increasingly slow recovery from small perturbations, a phenomenon called critical slowing down. We used replicate laboratory populations of the budding yeast Saccharomyces cerevisiae for direct observation of critical slowing down before population collapse. We mapped the bifurcation diagram experimentally and found that the populations became more vulnerable to disturbance closer to the tipping point. Fluctuations of population density increased in size and duration near the tipping point, in agreement with the theory. Our results suggest that indicators of critical slowing down can provide advance warning of catastrophic thresholds and loss of resilience in a variety of dynamical systems.",
+                "DNA is often modelled as an isotropic rod 1, 2, 3, 4, but its chiral structure suggests the possible importance of anisotropic mechanical properties, including coupling between twisting and stretching degrees of freedom. Simple physical intuition predicts that DNA should unwind under tension, as it is pulled towards a denatured structure 4, 5, 6, 7, 8. We used rotor bead tracking to directly measure twist\u2013stretch coupling in single DNA molecules. Here we show that for small distortions, contrary to intuition, DNA overwinds under tension, reaching a maximum twist at a tension of\u223c 30 pN. As tension is increased above this critical value, the DNA begins to unwind. The observed twist\u2013stretch coupling predicts that DNA should also lengthen when overwound under constant tension, an effect that we quantitatively confirm. We present a simple model that explains these unusual mechanical properties, and also suggests a \u2026",
+                "In 1997, Jarzynski proved a remarkable equality that allows one to compute the equilibrium free-energy difference \u0394F between two states from the probability distribution of the nonequilibrium work W done on the system to switch between the states, e\u2013\u0394F\/kT = <e\u2013W\/kT>, [Jarzynski, C. (1997) Phys. Rev. Lett. 87, 2690\u20132693]. The Jarzynski equality provides a powerful free-energy difference estimator from a set of N irreversible experiments and is closely related to free-energy perturbation, a common computational technique for estimating free-energy differences. Despite the many applications of the Jarzynski estimator, its behavior is only poorly understood. In this article we derive the large N limit for the Jarzynski estimator bias, variance, and mean square error that is correct for arbitrary perturbations. We then analyze the properties of the Jarzynski estimator for all N when the probability distribution of work values is \u2026",
+                "Microorganisms typically form diverse communities of interacting species, whose activities have tremendous impact on the plants, animals and humans they associate with. The ability to predict the structure of these complex communities is crucial to understanding and managing them. Here, we propose a simple, qualitative assembly rule that predicts community structure from the outcomes of competitions between small sets of species, and experimentally assess its predictive power using synthetic microbial communities composed of up to eight soil bacterial species. Nearly all competitions resulted in a unique, stable community, whose composition was independent of the initial species fractions. Survival in three-species competitions was predicted by the pairwise outcomes with an accuracy of~ 90%. Obtaining a similar level of accuracy in competitions between sets of seven or all eight species required \u2026",
+                "The fight against cancer has drawn researchers from a wide variety of disciplines, ranging from molecular biology to physics, but the perspective of an ecological theorist has been mostly overlooked. By thinking about the cells that make up a tumour as an endangered species, cancer vulnerabilities become more apparent. Studies in conservation biology and microbial experiments indicate that extinction is a complex phenomenon, which is often driven by the interaction of ecological and evolutionary processes. Recent advances in cancer research have shown that tumours, like species striving for survival, harbour intricate population dynamics, which suggests the possibility to exploit the ecology of tumours for treatment.",
+                "DNA gyrase is a molecular machine that uses the energy of ATP hydrolysis to introduce essential negative supercoils into DNA 1, 2, 3. The directionality of supercoiling is ensured by chiral wrapping of the DNA 4, 5 around a specialized domain 6, 7, 8, 9 of the enzyme before strand passage. Here we observe the activity of gyrase in real time by tracking the rotation of a submicrometre bead attached to the side of a stretched DNA molecule 10. In the presence of gyrase and ATP, we observe bursts of rotation corresponding to the processive, stepwise introduction of negative supercoils in strict multiples of two 11. Changes in DNA tension have no detectable effect on supercoiling velocity, but the enzyme becomes markedly less processive as tension is increased over a range of only a few tenths of piconewtons. This behaviour is quantitatively explained by a simple mechanochemical model in which processivity \u2026",
+                "DNA translocases are molecular motors that move rapidly along DNA using adenosine triphosphate as the source of energy. We directly observed the movement of purified FtsK, an Escherichia coli translocase, on single DNA molecules. The protein moves at 5 kilobases per second and against forces up to 60 piconewtons, and locally reverses direction without dissociation. On three natural substrates, independent of its initial binding position, FtsK efficiently translocates over long distances to the terminal region of the E. coli chromosome, as it does in vivo. Our results imply that FtsK is a bidirectional motor that changes direction in response to short, asymmetric directing DNA sequences."
+            ],
+            [
+                [
+                    "Biophysics",
+                    "Systems Biology",
+                    "Theoretical Ecology",
+                    "Evolutionary Dynamics",
+                    "Ecological Systems Biology"
+                ]
+            ]
+        ]
+    ]
+}

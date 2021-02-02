@@ -1,0 +1,138 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "mxmZMdQAAAAJ",
+            "Aparna Baskaran",
+            "Brandeis University",
+            "@brandeis.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=mxmZMdQAAAAJ",
+            3500,
+            [
+                "Statistical Mechanics",
+                "Soft materials",
+                "biophysics"
+            ],
+            2434,
+            25,
+            22,
+            33,
+            29,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"0PHX1NAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michael Hagan",
+                    "affiliation":"Department of Physics, Brandeis University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"OBTWT_gAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"M. Cristina Marchetti",
+                    "affiliation":"University of California Santa Barbara"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"g0x5mbAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yaouen Fily",
+                    "affiliation":"Wilkes Honors College, Florida Atlantic University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"xmj35dIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gabriel Redner",
+                    "affiliation":"Graduate Student, Martin Fisher School of Physics, Brandeis University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"cP2ZyQ4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Arvind Baskaran",
+                    "affiliation":"Brandeis University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"sB6RUD8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Elias Putzig",
+                    "affiliation":"Brandeis University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"vOx244QAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"shradha mishra",
+                    "affiliation":"Indian Institute of Technology (BHU) Varanasi"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"NJJqtfUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Arvind Gopinath",
+                    "affiliation":"Department of Bioengineering, University of California, Merced"
+                }
+            ]
+        ]
+    ]
+}

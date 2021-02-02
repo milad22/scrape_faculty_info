@@ -1,0 +1,101 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "lqr1uSEAAAAJ",
+            "Jonathan Link",
+            "Virginia Tech",
+            "@vt.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=lqr1uSEAAAAJ",
+            20242,
+            [
+                "Experimental Particle Physics",
+                "Neutrinos"
+            ],
+            6588,
+            74,
+            38,
+            157,
+            83,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"p_GBQXsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Patrick Huber",
+                    "affiliation":"Virginia Tech"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"zd7gjG4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alireza Haghighat",
+                    "affiliation":"Virginia Tech"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"1KI51pUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Phil Barbeau",
+                    "affiliation":"Stanford University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"xa1X-VwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kate Scholberg",
+                    "affiliation":"Duke University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"eF311PcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jun Cao (\u66f9\u4fca)",
+                    "affiliation":"Institute of High Energy Physics, Chinese Academy of Sciences"
+                }
+            ]
+        ]
+    ]
+}

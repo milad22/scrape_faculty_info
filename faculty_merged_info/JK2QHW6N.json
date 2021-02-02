@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "JK2QHW6N",
+            "5SOw3d8AAAAJ",
+            [
+                "Direct writing of submicron metallic features with a scanning tunneling microscope",
+                "As\u2010deposited superconducting Y\u2010Ba\u2010Cu\u2010O thin films on Si, Al2O3, and SrTiO3 substrates",
+                "Fundamental limits of optical critical dimension metrology: a simulation study",
+                "Scatterfield microscopy for extending the limits of image-based optical metrology",
+                "Direct writing with the scanning tunneling microscope",
+                "Developing an uncertainty analysis for optical scatterometry",
+                "Sputter deposition of YBa2Cu3O7\u2212y thin films",
+                "Through-focus scanning-optical-microscope imaging method for nanoscale dimensional analysis",
+                "Sensitive radio-frequency measurements of a quantum dot by tuning to perfect impedance matching",
+                "Improving optical measurement accuracy using multi-technique nested uncertainties"
+            ],
+            [
+                "We demonstrate for the first time that the scanning tunneling microscope can be used to write metallic features on a surface without further process steps. Using organometallic gases we have obtained features down to 20 nm in size.",
+                "We have developed an electron beam evaporator designed to deal with the special requirements of thin films of oxide superconductors. The growing surface is sprayed with plasma\u2010excited oxygen while the sources and rate monitors operate in a low background pressure. This allows us to reproducibly grow films of Y\u2010Ba\u2010Cu\u2010O on Si, Al2O3, and SrTiO3 substrates at a substrate temperature of 540\u2009\u00b0C which are superconducting without the need for annealing. The resistive transitions of most films show an onset of 90 K and zero resistance by 68 K. X\u2010ray diffraction indicates a preferred orientation for growth on most Si and SrTiO3 substrates. A preliminary measurement yields critical currents of at least 104 A\/cm2 at 4.2 K for a film on silicon.",
+                "This paper is a comprehensive summary and analysis of a SEMATECH funded project to study the limits of optical critical dimension scatterometry (OCD). The project was focused on two primary elements: 1) the comparison, stability, and validity of industry models and 2) a comprehensive analysis of process stacks to evaluate the ultimate sensitivity and limits of OCD. Modeling methods are a requirement for the interpretation and quantitative analysis of scatterometry data. The four models evaluated show good agreement over a range of targets and geometries for zero order specular reflection as well as higher order diffraction. A number of process stacks and geometries representing semiconductor manufacturing nodes from the 45 nm node to the 18 nm node were simulated using several measurement modalities including angle-resolved scatterometry and spectrally-resolved scatterometry, measuring various \u2026",
+                "We have developed a set of techniques, referred to as scatterfield microscopy, in which the illumination is engineered in combination with appropriately designed metrology targets to extend the limits of image-based optical metrology. Previously we reported results from samples with sub-50-nm-sized features having pitches larger than the conventional Rayleigh resolution criterion, which resulted in images having edge contrast and elements of conventional imaging. In this paper we extend these methods to targets composed of features much denser than the conventional Rayleigh resolution criterion. For these applications, a new approach is presented that uses a combination of zero-order optical response and edge-based imaging. The approach is, however, more general and a more comprehensive set of analyses using theoretical methods is presented. This analysis gives a direct measure of the ultimate size \u2026",
+                "A scanning tunneling microscope has been used to write metallic features directly on metallic and semiconducting surfaces without further process steps. Organometallic gases were used to obtain features as small as 20 nm.",
+                "This article describes how an uncertainty analysis may be performed on a scatterometry measurement. A method is outlined for propagating uncertainties through a least-squares regression. The method includes the propagation of the measurement noise as well as estimates of systematic effects in the measurement. Since there may be correlations between the various parameters determined by the measurement, a method is described for visualizing the uncertainty in the extracted profile. The analysis is performed for a 120 nm pitch grating, consisting of photoresist lines 120 nm high, 45 nm critical dimension, and 88\u00b0 side wall angle, measured with a spectroscopic rotating compensator ellipsometer. The results suggest that, while scatterometry is very precise, there are a number of sources of systematic errors that limit its absolute accuracy. Addressing those systematic errors may significantly improve \u2026",
+                "Thin films of YBa2Cu3O7\u2212y were prepared by magnetron sputtering. The films were characterized by x\u2010ray diffraction, in situ x\u2010ray photoelectron spectroscopy to determine the as\u2010deposited oxygen content for various substrate temperatures, and scanning electron microscopy to analyze the microstructure. The orthorhombic phase was observed after an ex situ 700\u2009\u00b0C anneal. We have obtained films which were completely superconducting at 82 K with 6 K transition widths.",
+                "We present a novel optical technique that produces nanometer dimensional measurement sensitivity using a conventional bright-field optical microscope, by analyzing through-focus scanning-optical-microscope images obtained at different focus positions. In principle, this technique can be used to identify which dimension is changing between two nanosized targets and to determine the dimension using a library-matching method. This methodology has potential utility for a wide range of target geometries and application areas, including nanometrology, nanomanufacturing, semiconductor process control, and biotechnology.",
+                "Electrical readout of spin qubits requires fast and sensitive measurements, which are hindered by poor impedance matching to the device. We demonstrate perfect impedance matching in a radio-frequency readout circuit, using voltage-tunable varactors to cancel out parasitic capacitances. An optimized capacitance sensitivity of 1.6 aF\/Hz is achieved at a maximum source-drain bias of 170\u2212 \u03bc V root-mean-square and with a bandwidth of 18 MHz. Coulomb blockade in a quantum-dot is measured in both conductance and capacitance, and the two contributions are found to be proportional as expected from a quasistatic tunneling model. We benchmark our results against the requirements for single-shot qubit readout using quantum capacitance, a goal that has so far been elusive.",
+                "This paper compares and contrasts different combinations of scatterfield and scatterometry optical configurations as well as introduces a new approach to embedding atomic force microscopy (AFM) or other reference metrology results directly in the uncertainty analysis and library-fitting process to reduce parametric uncertainties. We present both simulation results and experimental data demonstrating this new method, which is based on the application of a Bayesian analysis to library-based regression fitting of optical critical dimension (OCD) data. We develop the statistical methods to implement this approach of nested uncertainty analysis and give several examples, which demonstrate reduced uncertainties in the final combined measurements. The approach is also demonstrated through a combined reference metrology application using several independent measurement methods."
+            ],
+            [
+                [
+                    "optics",
+                    "quantum physics",
+                    "quantum computing"
+                ]
+            ]
+        ]
+    ]
+}

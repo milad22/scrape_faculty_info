@@ -1,0 +1,92 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "KwFyS1UAAAAJ",
+            "Djordje Minic",
+            "Virginia Tech",
+            "@vt.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=KwFyS1UAAAAJ",
+            5903,
+            [
+                "VT Physics",
+                "String Theory",
+                "Quantum Gravity",
+                "Quantum Field Theory",
+                "Quantum Foundations"
+            ],
+            1836,
+            38,
+            24,
+            90,
+            46,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"1BxY-B8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tatsu Takeuchi",
+                    "affiliation":"Virginia Tech"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9P0xmzsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Robert G. Leigh",
+                    "affiliation":"Professor of Physics, University of Illinois at Urbana-Champaign"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ADpHAh0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Laurent Freidel",
+                    "affiliation":"Perimeterinstitute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ahcAnl0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jan de Boer",
+                    "affiliation":"Professor of Theoretical Physics, University of Amsterdam"
+                }
+            ]
+        ]
+    ]
+}

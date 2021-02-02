@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "There is pressing urgency to understand the pathogenesis of the severe acute respiratory syndrome coronavirus clade 2 (SARS-CoV-2), which causes the disease COVID-19. SARS-CoV-2 spike (S) protein binds angiotensin-converting enzyme 2 (ACE2), and in concert with host proteases, principally transmembrane serine protease 2 (TMPRSS2), promotes cellular entry. The cell subsets targeted by SARS-CoV-2 in host tissues and the factors that regulate ACE2 expression remain unknown. Here, we leverage human, non-human primate, and mouse single-cell RNA-sequencing (scRNA-seq) datasets across health and disease to uncover putative targets of SARS-CoV-2 among tissue-resident cell subsets. We identify ACE2 and TMPRSS2 co-expressing cells within lung type II pneumocytes, ileal absorptive enterocytes, and nasal goblet secretory cells. Strikingly, we discovered that ACE2 is a human interferon \u2026",
+            "SARS-CoV-2 receptor ACE2 is an interferon-stimulated gene in human airway epithelial cells and is detected in specific cell subsets across tissues",
+            "Carly GK Ziegler and Samuel J Allon and Sarah K Nyquist and Ian M Mbano and Vincent N Miao and Constantine N Tzouanas and Yuming Cao and Ashraf S Yousif and Julia Bals and Blake M Hauser and Jared Feldman and Christoph Muus and Marc H Wadsworth II and Samuel W Kazer and Travis K Hughes and Benjamin Doran and G James Gatter and Marko Vukovic and Faith Taliaferro and Benjamin E Mead and Zhiru Guo and Jennifer P Wang and Delphine Gras and Magali Plaisant and Meshal Ansari and Ilias Angelidis and Heiko Adler and Jennifer MS Sucre and Chase J Taylor and Brian Lin and Avinash Waghray and Vanessa Mitsialis and Daniel F Dwyer and Kathleen M Buchheit and Joshua A Boyce and Nora A Barrett and Tanya M Laidlaw and Shaina L Carroll and Lucrezia Colonna and Victor Tkachev and Christopher W Peterson and Alison Yu and Hengqi Betty Zheng and Hannah P Gideon and Caylin G Winchell and Philana Ling Lin and Colin D Bingle and Scott B Snapper and Jonathan A Kropski and Fabian J Theis and Herbert B Schiller and Laure-Emmanuelle Zaragosi and Pascal Barbry and Alasdair Leslie and Hans-Peter Kiem and JoAnne L Flynn and Sarah M Fortune and Bonnie Berger and Robert W Finberg and Leslie S Kean and Manuel Garber and Aaron G Schmidt and Daniel Lingwood and Alex K Shalek and Jose Ordovas-Montanes and Nicholas Banovich and Alvis Brazma and Tushar Desai and Thu Elizabeth Duong and Oliver Eickelberg and Christine Falk and Michael Farzan and Ian Glass and Muzlifah Haniffa and Peter Horvath and Deborah Hung and Naftali Kaminski and Mark Krasnow and Malte Kuhnemund and Robert Lafyatis and Haeock Lee and Sylvie Leroy and Sten Linnarson and Joakim Lundeberg and Kerstin Meyer and Alexander Misharin and Martijn Nawijn and Marko Z Nikolic and Dana Pe\u2019er and Joseph Powell and Stephen Quake and Jay Rajagopal and Purushothama Rao Tata and Emma L Rawlins and Aviv Regev and Paul A Reyfman and Mauricio Rojas and Orit Rosen and Kourosh Saeb-Parsy and Christos Samakovlis and Herbert Schiller and Joachim L Schultze and Max A Seibold and Douglas Shepherd and Jason Spence and Avrum Spira and Xin Sun and Sarah Teichmann and Fabian Theis and Alexander Tsankov and Maarten van den Berge and Michael von Papen and Jeffrey Whitsett and Ramnik Xavier and Yan Xu and Kun Zhang",
+            "2020",
+            "q1NsNm4AAAAJ:pqnbT2bcN3wC",
+            728,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0092867420305006",
+            "18243833299433947143",
+            "\/scholar?cites=18243833299433947143",
+            {
+                "2020":637,
+                "2021":79
+            }
+        ],
+        [
+            "The COVID-19 pandemic, caused by the novel coronavirus SARS-CoV-2, creates an urgent need for identifying molecular mechanisms that mediate viral entry, propagation, and tissue pathology. Cell membrane bound angiotensin-converting enzyme 2 (ACE2) and associated proteases, transmembrane protease serine 2 (TMPRSS2) and Cathepsin L (CTSL), were previously identified as mediators of SARS-CoV2 cellular entry. Here, we assess the cell type-specific RNA expression of ACE2 , TMPRSS2 , and CTSL through an integrated analysis of 107 single-cell and single-nucleus RNA-Seq studies, including 22 lung and airways datasets (16 unpublished), and 85 datasets from other diverse organs. Joint expression of ACE2 and the accessory proteases identifies specific subsets of respiratory epithelial cells as putative targets of viral infection in the nasal passages, airways, and alveoli. Cells that co-express ACE2 and proteases are also identified in cells from other organs, some of which have been associated with COVID-19 transmission or pathology, including gut enterocytes, corneal epithelial cells, cardiomyocytes, heart pericytes, olfactory sustentacular cells, and renal epithelial cells. Performing the first meta-analyses of scRNA-seq studies, we analyzed 1,176,683 cells from 282 nasal, airway, and lung parenchyma samples from 164 donors spanning fetal, childhood, adult, and elderly age groups, associate increased levels of ACE2 , TMPRSS2 , and CTSL in specific cell types with increasing age, male gender, and smoking, all of which are epidemiologically linked to COVID-19 susceptibility and outcomes. Notably, there was a particularly \u2026",
+            "Integrated analyses of single-cell atlases reveal age, gender, and smoking status associations with cell type-specific expression of mediators of SARS-CoV-2 viral entry and \u2026",
+            "Pascal Barbry and Christoph Muus and Malte Luecken and Gokcen Eraslan and Avinash Waghray and Graham Heimberg and Lisa Sikkema and Yoshihiko Kobayashi and Eeshit Dhaval Vaishnav and Ayshwarya Subramanian and Christopher Smilie and Karthik Jagadeesh and Elizabeth Thu Duong and Evgenij Fiskin and Elena Torlai Triglia and Meshal Ansari and Peiwen Cai and Brian Lin and Justin Buchanan and Sijia Chen and Jian Shu and Adam Haber and Hattie Chung and Daniel Montoro and Taylor Adams and Hananeh Aliee and J Samuel and Allon Zaneta Andrusivova and Ilias Angelidis and Orr Ashenberg and Kevin Bassler and Christophe B\u00e9cavin and Inbal Benhar and Joseph Bergenstr\u00e5hle and Ludvig Bergenstr\u00e5hle and Liam Bolt and Emelie Braun and Linh Bui and Mark Chaffin and Evgeny Chichelnitskiy and Joshua Chiou and Thomas Conlon and Michael Cuoco and Marie Deprez and David Fischer and Astrid Gillich and Joshua Gould and Minzhe Guo and Austin Gutierrez and Arun Habermann and Tyler Harvey and Peng He and Xiaomeng Hou and Lijuan Hu and Alok Jaiswal and Peiyong Jiang and Theodoros Kapellos and Christin Kuo and Ludvig Larsson and Michael Leney-Greene and Kyungtae Lim and Monika Litvi\u0148ukov\u00e1 and Ji Lu and Leif Ludwig and Wendy Luo and Henrike Maatz and Elo Madissoon and Lira Mamanova and Kasidet Manakongtreecheep and Charles-Hugo Marquette and Ian Mbano and Alexi Marie Mcadams and Ross Metzger and Ahmad Nabhan and Sarah Nyquist and Lolita Penland and Olivier Poirion and Sergio Poli and CanCan Qi and Rachel Queen and Daniel Reichart and Ivan Rosas and Jonas Schupp and Rahul Sinha and Rene Sit and Kamil Slowikowski and Michal Slyper and Neal Smith and Alex Sountoulidis and Maximilian Strunz and Dawei Sun and Carlos Talavera-L\u00f3pez and Peng Tan and Jessica Tantivit and Kyle Travaglini and Nathan Tucker and Katherine Vernon and Marc Wadsworth and Julia Waldman and Xiuting Wang and Wenjun Yan and William Zhao and Carly Ziegler",
+            "2020",
+            "q1NsNm4AAAAJ:SeFeTyx0c_EC",
+            106,
+            "https:\/\/hal.archives-ouvertes.fr\/hal-02993773\/",
+            "4049715066130877793",
+            "\/scholar?cites=4049715066130877793",
+            {
+                "2020":95,
+                "2021":11
+            }
+        ]
+    ]
+}

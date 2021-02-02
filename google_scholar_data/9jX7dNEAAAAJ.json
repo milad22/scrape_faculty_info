@@ -1,0 +1,136 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "9jX7dNEAAAAJ",
+            "Andrew H Laszlo",
+            "University of Washington",
+            "@uw.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=9jX7dNEAAAAJ",
+            1529,
+            [
+
+            ],
+            1064,
+            10,
+            10,
+            11,
+            11,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"LbOOM74AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Henry Brinkerhoff",
+                    "affiliation":"Marie Curie Fellow, Cees Dekker lab, TU Delft"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"AadD30EAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kyle Langford",
+                    "affiliation":"University of Washington"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"rAc4ZGkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jonathan M Craig",
+                    "affiliation":"University of Washington"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"NPsDjwUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Brian C Ross",
+                    "affiliation":"University of Colorado Anschutz Medical Campus"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"SkokNAUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Andrew C Adey",
+                    "affiliation":"Associate Professor of Molecular & Medical Genetics, Oregon Health & Science University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Gb8qVzQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jay Shendure",
+                    "affiliation":"Professor of Genome Sciences, University of Washington"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"0-iwnGsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michael Niederweis",
+                    "affiliation":"Professor of Microbiology, University of Alabama at Birmingham"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"MRHK2bkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Richard H. Ebright",
+                    "affiliation":"Board of Governors Professor of Chemistry and Chemical Biology, Rutgers University"
+                }
+            ]
+        ]
+    ]
+}

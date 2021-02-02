@@ -1,0 +1,89 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3
+    ],
+    "data":[
+        [
+            "As service provision and patient behaviour varies by day, healthcare data used for public health surveillance can exhibit large day of the week effects. These regular effects are further complicated by the impact of public holidays. Real-time syndromic surveillance requires the daily analysis of a range of healthcare data sources, including family doctor consultations (called general practitioners, or GPs, in the UK). Failure to adjust for such reporting biases during analysis of syndromic GP surveillance data could lead to misinterpretations including false alarms or delays in the detection of outbreaks. The simplest smoothing method to remove a day of the week effect from daily time series data is a 7-day moving average. Public Health England developed the working day moving average in an attempt also to remove public holiday effects from daily GP data. However, neither of these methods adequately account for the combination of day of the week and public holiday effects. The extended working day moving average was developed. This is a further data-driven method for adding a smooth trend curve to a time series graph of daily healthcare data, that aims to take both public holiday and day of the week effects into account. It is based on the assumption that the number of people seeking healthcare services is a combination of illness levels\/severity and the ability or desire of patients to seek healthcare each day. The extended working day moving average was compared to the seven-day and working day moving averages through application to data from two syndromic indicators from the GP in-hours syndromic surveillance system managed by \u2026",
+            "Correcting for day of the week and public holiday effects: improving a national daily syndromic surveillance service for detecting public health threats",
+            "Elizabeth Buckingham-Jeffery and Roger Morbey and Thomas House and Alex J Elliot and Sally Harcourt and Gillian E Smith",
+            "2017",
+            "RZCHDDIAAAAJ:d1gkVwhDpl0C",
+            24,
+            "https:\/\/bmcpublichealth.biomedcentral.com\/articles\/10.1186\/s12889-017-4372-y",
+            "473082856360743252",
+            "\/scholar?cites=473082856360743252",
+            {
+                "2017":1,
+                "2018":3,
+                "2019":6,
+                "2020":12,
+                "2021":2
+            }
+        ],
+        [
+            "We present a flexible framework for deriving and quantifying the accuracy of Gaussian process approximations to non-linear stochastic individual-based models of epidemics. We develop this for the SIR and SEIR models, and we show how it can be used to perform quick maximum likelihood inference for the underlying parameters given population estimates of the number of infecteds or cases at given time points. We also show how the unobserved processes can be inferred at the same time as the underlying parameters.",
+            "Gaussian process approximations for fast inference from infectious disease data",
+            "Elizabeth Buckingham-Jeffery and Valerie Isham and Thomas House",
+            "2018",
+            "RZCHDDIAAAAJ:9yKSN-GCB0IC",
+            11,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0025556417303644",
+            "4243947637374015837",
+            "\/scholar?cites=4243947637374015837",
+            {
+                "2018":1,
+                "2019":3,
+                "2020":7
+            }
+        ],
+        [
+            "Infectious diseases exert a large and in many contexts growing burden on human health, but violate most of the assumptions of classical epidemiological statistics and hence require a mathematically sophisticated approach. Viral shedding data are collected during human studies\u2014either where volunteers are infected with a disease or where existing cases are recruited\u2014in which the levels of live virus produced over time are measured. These have traditionally been difficult to analyse due to strong, complex correlations between parameters. Here, we show how a Bayesian approach to the inverse problem together with modern Markov chain Monte Carlo algorithms based on information geometry can overcome these difficulties and yield insights into the disease dynamics of two of the most prevalent human pathogens\u2014influenza and norovirus\u2014as well as Ebola virus disease.",
+            "Bayesian uncertainty quantification for transmissibility of influenza, norovirus and Ebola using information geometry",
+            "Thomas House and Ashley Ford and Shiwei Lan and Samuel Bilson and Elizabeth Buckingham-Jeffery and Mark Girolami",
+            "2016",
+            "RZCHDDIAAAAJ:u-x6o8ySG0sC",
+            9,
+            "https:\/\/royalsocietypublishing.org\/doi\/abs\/10.1098\/rsif.2016.0279",
+            "9900710088536554485",
+            "\/scholar?cites=9900710088536554485",
+            {
+                "2015":1,
+                "2016":2,
+                "2017":1,
+                "2018":2,
+                "2019":2,
+                "2020":1
+            }
+        ],
+        [
+            "The parasite Leishmania infantum causes zoonotic visceral leishmaniasis (VL), a potentially fatal vector-borne disease of canids and humans. Zoonotic VL poses a significant risk to public health, with regions of Latin America being particularly afflicted by the disease. Leishmania infantum parasites are transmitted between hosts during blood-feeding by infected female phlebotomine sand flies. With a principal reservoir host of L. infantum being domestic dogs, limiting prevalence in this reservoir may result in a reduced risk of infection for the human population. To this end, a primary focus of research efforts has been to understand disease transmission dynamics among dogs. One way this can be achieved is through the use of mathematical models. We have developed a stochastic, spatial, individual-based mechanistic model of L. infantum transmission in domestic dogs. The model framework was applied to a rural \u2026",
+            "Spatio-temporal modelling of Leishmania infantum infection among domestic dogs: a simulation study and sensitivity analysis applied to rural Brazil",
+            "Elizabeth Buckingham-Jeffery and Edward M Hill and Samik Datta and Erin Dilger and Orin Courtenay",
+            "2019",
+            "RZCHDDIAAAAJ:UeHWp8X0CEIC",
+            3,
+            "https:\/\/link.springer.com\/article\/10.1186\/s13071-019-3430-y",
+            "10651347590707005586",
+            "\/scholar?cites=10651347590707005586",
+            {
+                "2020":3
+            }
+        ]
+    ]
+}

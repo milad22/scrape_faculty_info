@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "BYHA6YM5",
+            "E4YZM98AAAAJ",
+            [
+                "BerkeleyGW: A massively parallel computer package for the calculation of the quasiparticle and optical properties of materials and nanostructures",
+                "Reversible photomechanical switching of individual engineered molecules at a metallic surface",
+                "Real-space grids and the Octopus code as tools for the development of new simulation approaches for electronic systems",
+                "Time-dependent density-functional theory in massively parallel computer architectures: the octopus project",
+                "Solid lubrication with MoS2: a review",
+                "Determination of photoswitching dynamics through chiral mapping of single molecules using a scanning tunneling microscope",
+                "Basis set effects on the hyperpolarizability of : Gaussian-type orbitals, numerical basis sets and real-space grids",
+                "Temperature-dependent thermal conductivity in silicon nanostructured materials studied by the Boltzmann transport equation",
+                "Octopus, a computational framework for exploring light-driven phenomena and quantum dynamics in extended and finite systems",
+                "Deep learning and density-functional theory"
+            ],
+            [
+                "BerkeleyGW is a massively parallel computational package for electron excited-state properties that is based on the many-body perturbation theory employing the ab initio GW and GW plus Bethe\u2013Salpeter equation methodology. It can be used in conjunction with many density-functional theory codes for ground-state properties, including PARATEC, PARSEC, Quantum ESPRESSO, SIESTA, and Octopus. The package can be used to compute the electronic and optical properties of a wide variety of material systems from bulk semiconductors and metals to nanostructured materials and molecules. The package scales to 10\u2009000s of CPUs and can be used to study systems containing up to 100s of atoms.Program title: BerkeleyGWCatalogue identifier: AELG_v1_0Program summary URL: http:\/\/cpc.cs.qub.ac.uk\/summaries\/AELG_v1_0.htmlProgram obtainable from: CPC Program Library, Queen\u02bcs \u2026",
+                "We have observed reversible light-induced mechanical switching for individual organic molecules bound to a metal surface. Scanning tunneling microscopy (STM) was used to image the features of individual azobenzene molecules on Au (111) before and after reversibly cycling their mechanical structure between trans and cis states using light. Azobenzene molecules were engineered to increase their surface photomechanical activity by attaching varying numbers of tert-butyl (TB) ligands (\u201clegs\u201d) to the azobenzene phenyl rings. STM images show that increasing the number of TB legs \u201clifts\u201d the azobenzene molecules from the substrate, thereby increasing molecular photomechanical activity by decreasing molecule-surface coupling.",
+                "Real-space grids are a powerful alternative for the simulation of electronic systems. One of the main advantages of the approach is the flexibility and simplicity of working directly in real space where the different fields are discretized on a grid, combined with competitive numerical performance and great potential for parallelization. These properties constitute a great advantage at the time of implementing and testing new physical models. Based on our experience with the Octopus code, in this article we discuss how the real-space approach has allowed for the recent development of new ideas for the simulation of electronic systems. Among these applications are approaches to calculate response properties, modeling of photoemission, optimal control of quantum systems, simulation of plasmonic systems, and the exact solution of the Schr\u00f6dinger equation for low-dimensionality systems.",
+                "Octopus is a general-purpose density-functional theory (DFT) code, with a particular emphasis on the time-dependent version of DFT (TDDFT). In this paper we present the ongoing efforts to achieve the parallelization of octopus. We focus on the real-time variant of TDDFT, where the time-dependent Kohn\u2013Sham equations are directly propagated in time. This approach has great potential for execution in massively parallel systems such as modern supercomputers with thousands of processors and graphics processing units (GPUs).",
+                "Molybdenum disulfide (MoS 2) is one of the most broadly utilized solid lubricants with a wide range of applications, including but not limited to those in the aerospace\/space industry. Here we present a focused review of solid lubrication with MoS 2 by highlighting its structure, synthesis, applications and the fundamental mechanisms underlying its lubricative properties, together with a discussion of their environmental and temperature dependence. The review also includes an extensive overview of the structure and tribological properties of doped MoS 2, followed by a discussion of potential future research directions. View Full-Text",
+                "Single-molecule-resolved scanning tunneling microscopy of tetra-tert-butyl azobenzene (TTB-AB) molecules adsorbed onto Au (111) reveals chirality selection rules in their photoswitching behavior. This observation is enabled by the fact that trans-TTB-AB molecules self-assemble into homochiral domains. Cis-TTB-AB molecules produced via photoisomerization are found in two distinct conformations with final state chirality determined by the initial trans isomer chirality. Based on these observations and ab initio calculations, we propose a new inversion-based dynamical photoswitching mechanism for azobenzene molecules at a surface.",
+                "Calculations of the hyperpolarizability are typically much more difficult to converge with basis set size than the linear polarizability. In order to understand these convergence issues and hence obtain accurate ab initio values, we compare calculations of the static hyperpolarizability of the gas-phase chloroform molecule (CHCl3) using three different kinds of basis sets: Gaussian-type orbitals, numerical basis sets, and real-space grids. Although all of these methods can yield similar results, surprisingly large, diffuse basis sets are needed to achieve convergence to comparable values. These results are interpreted in terms of local polarizability and hyperpolarizability densities. We find that the hyperpolarizability is very sensitive to the molecular structure, and we also assess the significance of vibrational contributions and frequency dispersion.",
+                "Nanostructured materials exhibit low thermal conductivity because of the additional scattering due to phonon-boundary interactions. As these interactions are highly sensitive to the mean free path (MFP) of phonons, MFP distributions in nanostructures can be dramatically distorted relative to bulk. Here we calculate the MFP distribution in periodic nanoporous Si for different temperatures, using the recently developed MFP-dependent Boltzmann transport equation. After analyzing the relative contribution of each phonon branch to thermal transport in nanoporous Si, we find that at room temperature optical phonons contribute 17% to heat transport, compared to 5% in bulk Si. Interestingly, we observe a constant thermal conductivity over the range 200 K< T< 300 K. We attribute this behavior to the ballistic transport of acoustic phonons with long intrinsic MFP and the temperature dependence of the heat capacity. Our \u2026",
+                "Over the last few years, extraordinary advances in experimental and theoretical tools have allowed us to monitor and control matter at short time and atomic scales with a high degree of precision. An appealing and challenging route toward engineering materials with tailored properties is to find ways to design or selectively manipulate materials, especially at the quantum level. To this end, having a state-of-the-art ab initio computer simulation tool that enables a reliable and accurate simulation of light-induced changes in the physical and chemical properties of complex systems is of utmost importance. The first principles real-space-based Octopus project was born with that idea in mind, i.e., to provide a unique framework that allows us to describe non-equilibrium phenomena in molecular complexes, low dimensional materials, and extended systems by accounting for electronic, ionic, and photon quantum \u2026",
+                "We show that deep neural networks can be integrated into, or fully replace, the Kohn-Sham density functional theory (DFT) scheme for multielectron systems in simple harmonic oscillator and random external potentials with no feature engineering. We first show that self-consistent charge densities calculated with different exchange-correlation functionals can be used as input to an extensive deep neural network to make predictions for correlation, exchange, external, kinetic, and total energies simultaneously. Additionally, we show that one can make all of the same predictions with the external potential rather than the self-consistent charge density, which allows one to circumvent the Kohn-Sham DFT scheme altogether. We then show that a self-consistent charge density found from a nonlocal exchange-correlation functional can be used to make energy predictions for a semilocal exchange-correlation functional \u2026"
+            ],
+            [
+                [
+                    "Theoretical condensed matter and materials science",
+                    "electronic and optical properties",
+                    "amorphous materials",
+                    "photovoltaics",
+                    "nanos"
+                ]
+            ]
+        ]
+    ]
+}

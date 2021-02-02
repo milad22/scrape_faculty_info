@@ -1,0 +1,248 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Adiabatic quantum computing (AQC) started as an approach to solving optimization problems and has evolved into an important universal alternative to the standard circuit model of quantum computing, with deep connections to both classical and quantum complexity theory and condensed matter physics. This review gives an account of the major theoretical developments in the field, while focusing on the closed-system setting. The review is organized around a series of topics that are essential to an understanding of the underlying principles of AQC, its algorithmic accomplishments and limitations, and its scope in the more general setting of computational complexity theory. Several variants are presented of the adiabatic theorem, the cornerstone of AQC, and examples are given of explicit AQC algorithms that exhibit a quantum speedup. An overview of several proofs of the universality of AQC and related \u2026",
+            "Adiabatic quantum computation",
+            "Tameem Albash and Daniel A Lidar",
+            "2018",
+            "x5BNzhMAAAAJ:EUQCXRtRnyEC",
+            437,
+            "https:\/\/journals.aps.org\/rmp\/abstract\/10.1103\/RevModPhys.90.015002",
+            "13019450088768394645",
+            "\/scholar?cites=13019450088768394645",
+            {
+                "2017":10,
+                "2018":85,
+                "2019":124,
+                "2020":199,
+                "2021":16
+            }
+        ],
+        [
+            "The availability of quantum annealing devices with hundreds of qubits has made the experimental demonstration of a quantum speedup for optimization problems a coveted, albeit elusive goal. Going beyond earlier studies of random Ising problems, here we introduce a method to construct a set of frustrated Ising-model optimization problems with tunable hardness. We study the performance of a D-Wave Two device (DW2) with up to 503 qubits on these problems and compare it to a suite of classical algorithms, including a highly optimized algorithm designed to compete directly with the DW2. The problems are generated around predetermined ground-state configurations, called planted solutions, which makes them particularly suitable for benchmarking purposes. The problem set exhibits properties familiar from constraint satisfaction (SAT) problems, such as a peak in the typical hardness of the problems \u2026",
+            "Probing for quantum speedup in spin-glass problems with planted solutions",
+            "Itay Hen and Joshua Job and Tameem Albash and Troels F R\u00f8nnow and Matthias Troyer and Daniel A Lidar",
+            "2015",
+            "x5BNzhMAAAAJ:NaGl4SEjCO4C",
+            123,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.92.042325",
+            "10135463803586076083",
+            "\/scholar?cites=10135463803586076083",
+            {
+                "2015":11,
+                "2016":28,
+                "2017":20,
+                "2018":18,
+                "2019":26,
+                "2020":20
+            }
+        ],
+        [
+            "In this paper we study the performance of the quantum adiabatic algorithm on random instances of two combinatorial optimization problems, 3-regular 3-XORSAT and 3-regular max-cut. The cost functions associated with these two clause-based optimization problems are similar as they are both defined on 3-regular hypergraphs. For 3-regular 3-XORSAT the clauses contain three variables and for 3-regular max-cut the clauses contain two variables. The quantum adiabatic algorithms we study for these two problems use interpolating Hamiltonians which are amenable to sign-problem free quantum Monte Carlo and quantum cavity methods. Using these techniques we find that the quantum adiabatic algorithm fails to solve either of these problems efficiently, although for different reasons.",
+            "Performance of the quantum adiabatic algorithm on random instances of two optimization problems on regular hypergraphs",
+            "Edward Farhi and David Gosset and Itay Hen and AW Sandvik and Peter Shor and AP Young and Francesco Zamponi",
+            "2012",
+            "x5BNzhMAAAAJ:9ZlFYXVOiuMC",
+            106,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.86.052334",
+            "12549356101376206210",
+            "\/scholar?cites=12549356101376206210",
+            {
+                "2012":1,
+                "2013":9,
+                "2014":12,
+                "2015":15,
+                "2016":8,
+                "2017":15,
+                "2018":12,
+                "2019":17,
+                "2020":16
+            }
+        ],
+        [
+            "A variety of setups and paradigms are used in the neurosciences for automatically tracking the location of an animal in an experiment and for extracting features of interest out of it. Many of these features, however, are critically sensitive to the unavoidable noise and artifacts of tracking. Here, we examine the relevant properties of several smoothing methods and suggest a combination of methods for retrieving locations and velocities and recognizing arrests from time series of coordinates of an animal\u2019s center of gravity. We accomplish these by using robust nonparametric methods, such as Running Median (RM) and locally weighted regression methods. The smoothed data may, subsequently, be segmented to obtain discrete behavioral units with proven ethological relevance. New parameters such as the length, duration, maximal speed, and acceleration of these units provide a wealth of measures for, e.g., mouse \u2026",
+            "The dynamics of spatial behavior: how can robust smoothing techniques help?",
+            "Itay Hen and Anat Sakov and Neri Kafkafi and Ilan Golani and Yoav Benjamini",
+            "2004",
+            "x5BNzhMAAAAJ:KlAtU1dfN6UC",
+            100,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0165027003003455",
+            "8645241067215559139",
+            "\/scholar?cites=8645241067215559139",
+            {
+                "2003":1,
+                "2004":3,
+                "2005":5,
+                "2006":4,
+                "2007":7,
+                "2008":5,
+                "2009":7,
+                "2010":9,
+                "2011":4,
+                "2012":5,
+                "2013":7,
+                "2014":7,
+                "2015":11,
+                "2016":7,
+                "2017":1,
+                "2018":7,
+                "2019":7,
+                "2020":3
+            }
+        ],
+        [
+            "We determine the complexity of several constraint satisfaction problems using the quantum adiabatic algorithm in its simplest implementation. We do so by studying the size dependence of the gap to the first excited state of \u201ctypical\u201d instances. We find that, at large sizes N, the complexity increases exponentially for all models that we study. We also compare our results against the complexity of the analogous classical algorithm WalkSAT and show that the harder the problem is for the classical algorithm, the harder it is also for the quantum adiabatic algorithm.",
+            "Exponential complexity of the quantum adiabatic algorithm for certain satisfiability problems",
+            "Itay Hen and AP Young",
+            "2011",
+            "x5BNzhMAAAAJ:qxL8FJ1GzNcC",
+            91,
+            "https:\/\/journals.aps.org\/pre\/abstract\/10.1103\/PhysRevE.84.061152",
+            "5379559628888628746",
+            "\/scholar?cites=5379559628888628746",
+            {
+                "2012":7,
+                "2013":8,
+                "2014":17,
+                "2015":8,
+                "2016":12,
+                "2017":11,
+                "2018":12,
+                "2019":9,
+                "2020":5,
+                "2021":1
+            }
+        ],
+        [
+            "Quantum annealing provides a promising route for the development of quantum optimization devices, but the usefulness of such devices will be limited in part by the range of implementable problems as dictated by hardware constraints. To overcome constraints imposed by restricted connectivity between qubits, a larger set of interactions can be approximated using minor embedding techniques whereby several physical qubits are used to represent a single logical qubit. However, minor embedding introduces new types of errors due to its approximate nature. We introduce and study quantum annealing correction schemes designed to improve the performance of quantum annealers in conjunction with minor embedding, thus leading to a hybrid scheme defined over an encoded graph. We argue that this scheme can be efficiently decoded using an energy minimization technique provided the density of errors does \u2026",
+            "Quantum annealing correction with minor embedding",
+            "Walter Vinci and Tameem Albash and Gerardo Paz-Silva and Itay Hen and Daniel A Lidar",
+            "2015",
+            "x5BNzhMAAAAJ:vV6vV6tmYwMC",
+            68,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.92.042310",
+            "8931082539913497112",
+            "\/scholar?cites=8931082539913497112",
+            {
+                "2015":1,
+                "2016":18,
+                "2017":11,
+                "2018":11,
+                "2019":15,
+                "2020":10,
+                "2021":1
+            }
+        ],
+        [
+            "Recent advances in quantum technology have led to the development and manufacturing of experimental programmable quantum annealing optimizers that contain hundreds of quantum bits. These optimizers, commonly referred to as \u2018D-Wave\u2019chips, promise to solve practical optimization problems potentially faster than conventional \u2018classical\u2019computers. Attempts to quantify the quantum nature of these chips have been met with both excitement and skepticism but have also brought up numerous fundamental questions pertaining to the distinguishability of experimental quantum annealers from their classical thermal counterparts. Inspired by recent results in spin-glass theory that recognize \u2018temperature chaos\u2019 as the underlying mechanism responsible for the computational intractability of hard optimization problems, we devise a general method to quantify the performance of quantum annealers on optimization \u2026",
+            "Unraveling quantum annealers using classical hardness",
+            "Victor Martin-Mayor and Itay Hen",
+            "2015",
+            "x5BNzhMAAAAJ:J_g5lzvAfSwC",
+            64,
+            "https:\/\/www.nature.com\/articles\/srep15324",
+            "104478443728494309",
+            "\/scholar?cites=104478443728494309",
+            {
+                "2015":4,
+                "2016":14,
+                "2017":15,
+                "2018":13,
+                "2019":13,
+                "2020":5
+            }
+        ],
+        [
+            "$2. The electron spin hypothesis................. $3. The nonrelativistic theory of Pauli........... $4. The Pauli spin operators.................... f5. The Pauliwave function with spin............ $6. The Paulispin matrices..................... $7 The total angular momentum and its quantization in the Pauli theory................... $8. Behavior of the Pauli spin operators and wave functions under rotations ofthe coordinate axes.) 9. Behavior of the Pauli operators and spin func-tions under reflections",
+            "The Dirac electron theory",
+            "EL Hill and R Landshoff",
+            "1938",
+            "x5BNzhMAAAAJ:rO6llkc54NcC",
+            62,
+            "https:\/\/journals.aps.org\/rmp\/abstract\/10.1103\/RevModPhys.10.87",
+            "10383799110343961641",
+            "\/scholar?cites=10383799110343961641",
+            {
+                "1990":2,
+                "1991":1,
+                "1992":1,
+                "1993":1,
+                "1994":1,
+                "1995":3,
+                "1996":1,
+                "1997":1,
+                "1998":1,
+                "1999":2,
+                "2000":3,
+                "2001":1,
+                "2002":1,
+                "2003":6,
+                "2004":5,
+                "2005":6,
+                "2006":4,
+                "2007":1
+            }
+        ],
+        [
+            "We work out the theory and applications of a fast quasiadiabatic approach to speed up slow adiabatic manipulations of quantum systems by driving a control parameter as near to the adiabatic limit as possible over the entire protocol duration. We find characteristic time scales, such as the minimal time to achieve fidelity 1, and the optimality of the approach within the iterative superadiabatic sequence. Specifically, we show that the population inversion in a two-level system, the splitting and cotunneling of two-interacting bosons, and the stirring of a Tonks-Girardeau gas on a ring to achieve mesoscopic superpositions of many-body rotating and nonrotating states can be significantly speeded up.",
+            "Fast quasiadiabatic dynamics",
+            "S Mart\u00ednez-Garaot and Andreas Ruschhaupt and J\u00e9r\u00e9mie Gillet and Th Busch and Juan Gonzalo Muga",
+            "2015",
+            "x5BNzhMAAAAJ:l7t_Zn2s7bgC",
+            53,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.92.043406",
+            "13687435214196406569",
+            "\/scholar?cites=13687435214196406569",
+            {
+                "2015":4,
+                "2016":7,
+                "2017":11,
+                "2018":7,
+                "2019":12,
+                "2020":12
+            }
+        ],
+        [
+            "Physical implementations of quantum annealing unavoidably operate at finite temperatures. We point to a fundamental limitation of fixed finite temperature quantum annealers that prevents them from functioning as competitive scalable optimizers and show that to serve as optimizers annealer temperatures must be appropriately scaled down with problem size. We derive a temperature scaling law dictating that temperature must drop at the very least in a logarithmic manner but also possibly as a power law with problem size. We corroborate our results by experiment and simulations and discuss the implications of these to practical annealers.",
+            "Temperature scaling law for quantum annealing optimizers",
+            "Tameem Albash and Victor Martin-Mayor and Itay Hen",
+            "2017",
+            "x5BNzhMAAAAJ:a0OBvERweLwC",
+            50,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.119.110502",
+            "5338588620041859550",
+            "\/scholar?cites=5338588620041859550",
+            {
+                "2017":2,
+                "2018":14,
+                "2019":18,
+                "2020":15,
+                "2021":1
+            }
+        ]
+    ]
+}

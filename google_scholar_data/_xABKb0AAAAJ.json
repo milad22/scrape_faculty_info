@@ -1,0 +1,53 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "_xABKb0AAAAJ",
+            "Chris  Brunner",
+            "Qualcomm",
+            "@qti.qualcomm.com",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=_xABKb0AAAAJ",
+            2722,
+            [
+                "robotics",
+                "wireless"
+            ],
+            1291,
+            27,
+            18,
+            59,
+            31,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"W8f0d6oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Giuseppe Loianno",
+                    "affiliation":"New York University"
+                }
+            ]
+        ]
+    ]
+}

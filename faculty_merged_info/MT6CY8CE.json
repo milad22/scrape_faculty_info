@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "MT6CY8CE",
+            "BstftEgAAAAJ",
+            [
+                "Phase imaging of cells by simultaneous dual-wavelength reflection digital holography",
+                "Cell volume changes during apoptosis monitored in real time using digital holographic microscopy",
+                "Simultaneous dual-wavelength reflection digital holography applied to the study of the porous coal samples",
+                "Tracking circadian rhythms of bone mineral deposition in murine calvarial organ cultures",
+                "Dual-wavelength linear regression phase unwrapping in three-dimensional microscopic images of cancer cells",
+                "Single lipid bilayers constructed on polymer cushion studied by sum frequency generation vibrational spectroscopy",
+                "Tissue-engineered constructs of human oral mucosa examined by Raman spectroscopy",
+                "Examining surface and bulk structures using combined nonlinear vibrational spectroscopies",
+                "Methamphetamine induces apoptosis of microglia via the intrinsic mitochondrial-dependent pathway"
+            ],
+            [
+                "We present a phase-imaging technique to quantitatively study the three-dimensional structure of cells. The method, based on the simultaneous dual-wavelength digital holography, allows for higher axial range at which the unambiguous phase imaging can be performed. The technique is capable of nanometer axial resolution. The noise level, which increases as a result of using two wavelengths, is then reduced to the level of a single wavelength. The method compares favorably to software unwrapping, as the technique does not produce non-existent phase steps. Curvature mismatch between the reference and object beams is numerically compensated. The 3D images of SKOV-3 ovarian cancer cells are presented.",
+                "Cellular volume changes play important roles in many processes associated with the normal cell activity, as well as various diseases. Consequently, there is a considerable need to accurately measure volumes of both individual cells and cell populations as a function of time. In this study, we have monitored cell volume changes in real time during apoptosis using digital holographic microscopy. Cell volume changes were deduced from the measured phase change of light transmitted through cells. Our digital holographic experiments showed that after exposure to 1 \u03bcM staurosporine for 4 h, the volumes of KB cells were reduced by \u223c50\u201360%, which is consistent with previous results obtained using electronic cell sizing and atomic force microscopy. In comparison with other techniques, digital holographic microscopy is advantageous because it employs noninvasive detection, has high time resolution, real time \u2026",
+                "We present a simultaneous dual-wavelength phase-imaging digital holographic technique demonstrated on porous coal samples. The use of two wavelengths enables us to increase the axial range at which the unambiguous phase imaging can be performed, but also increases the noise. We employ a noise reduction \u201cfine map\u201d algorithm, which uses the two-wavelength phase map as a guide to correct a single-wavelength phase image. Then, the resulting noise of a fine map is reduced to the level of single-wavelength noise. A comparison to software unwrapping is also presented. A simple way of correcting a curvature mismatch between the reference and the object beams is offered.",
+                "Osteoblasts, which orchestrate the deposition of small apatite crystals through the expression of nucleating proteins, have been shown to also express clock genes associated with the circadian signaling pathway. We hypothesized that protein\u2010mediated bone mineralization may be linked to circadian oscillator mechanisms functioning in peripheral bone tissue. In this study, Per1 expression in ex vivo neonatal murine calvaria organ cultures was monitored for 6 days using a Per1\u2010luciferase transgene as a bioluminescent indicator of clock function. Fluctuations in Per1 expression had a period of 25\u2009\u00b1\u20094 hours (n\u2009=\u200914) with early expression at CT09:59\u2009\u00b1\u200903:37 (CT\u2009=\u2009circadian time). We also established the kinetics of mineral deposition in developing bone by using noninvasive Raman microscopy to track mineral accumulation in calvarial tissue. The content and quality of newly deposited mineral was \u2026",
+                "We present a study of the three-dimensional structure of cancer cells using dual-wavelength phase-imaging digital holographic microscopy. Phase imaging of objects with optical height variation greater than the wavelength of light is ambiguous and causes phase wrapping. By comparing two phase images recorded at different wavelengths, the images can be accurately unwrapped. The unwrapping method is computationally fast and straightforward, and it can process complex topologies. Additionally, the limitations on the total optical height are significantly relaxed. This new methodology is widely applicable to other phase-imaging techniques as well as in applications beyond optical microscopy.",
+                "Planar solid supported single lipid bilayers on mica, glass, or other inorganic surfaces have been widely used as models for cell membranes. To more closely mimic the cell membrane environment, soft hydrophilic polymer cushions were introduced between the hard inorganic substrate and the lipid bilayer to completely avoid the possible substrate\u2212lipid interactions. In this Article, sum frequency generation (SFG) vibrational spectroscopy was used to examine and compare single lipid bilayers assembled on the CaF2 prism surface and on poly(L-lactic acid) (PLLA) cushion. By using asymmetric lipid bilayers composed of a hydrogenated 1,2-dipalmitoyl-sn-glycerol-3-phosphoglycerol (DPPG) leaflet and a deuterated 1,2-dipalmitoyl-(d62)-sn-glycerol-3-phosphoglycerol (d-DPPG) leaflet, it was shown that the DPPG lipid bilayers deposited on the CaF2 and PLLA surfaces have similar structures. SFG has also been \u2026",
+                "A noninvasive quality monitoring of tissue-engineered constructs is a required component of any successful tissue-engineering technique. During a 2-week production period, ex vivo produced oral mucosa-equivalent constructs (EVPOMEs) may encounter adverse culturing conditions that might compromise their quality and render them ineffective. We demonstrate the application of near-infrared Raman spectroscopy to in vitro monitoring of EVPOMEs during their manufacturing process, with the ultimate goal of applying this technology in situ to monitor the grafted EVPOMEs. We identify Raman spectroscopic failure indicators for less-than optimal EVPOMEs that are stressed by higher temperature and exposure to higher than normal concentration of calcium ions. Raman spectra of EVPOMEs exposed to thermal and calcium stress showed correlation of the band height ratio of CH2 deformation to phenylalanine ring \u2026",
+                "We combined sum-frequency generation (SFG) vibrational spectroscopy with coherent anti-Stokes Raman scattering (CARS) spectroscopy in one system to examine both surface and bulk structures of materials with the same geometry and without the need to move the sample. Poly(methyl methacrylate) (PMMA) and polystyrene (PS) thin films were tested before and after plasma treatment. The sensitivities of SFG and CARS were tested by varying polymer film thickness and using a lipid monolayer.",
+                "Methamphetamine (METH) is a drug of abuse, the acute and chronic use of which induces neurotoxic responses in the human brain, ultimately leading to neurocognitive disorders. Our goals were to understand the impact of METH on microglial mitochondrial respiration and to determine whether METH induces the activation of the mitochondrial-dependent intrinsic apoptosis pathway in microglia. We assessed the expression of pro- apoptosis genes using qPCR of RNA extracted from a human microglial cell line (HTHU). We examined the apoptosis-inducing effects of METH on microglial cells using digital holographic microscopy (DHM) to quantify real-time apoptotic volume decrease (AVD) in microglia in a noninvasive manner. METH treatment significantly increased AVD, activated Caspase 3\/7, increased the gene expression levels of the pro- apoptosis proteins, APAF-1 and BAX, and decreased \u2026"
+            ],
+            [
+                [
+                    "Optical microscopy",
+                    "digital holography",
+                    "Raman"
+                ]
+            ]
+        ]
+    ]
+}

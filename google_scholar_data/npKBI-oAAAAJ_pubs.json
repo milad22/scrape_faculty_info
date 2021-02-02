@@ -1,0 +1,83 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "A number of recent studies have focused on the statistical properties of networked systems such as social networks and the Worldwide Web. Researchers have concentrated particularly on a few properties that seem to be common to many networks: the small-world property, power-law degree distributions, and network transitivity. In this article, we highlight another property that is found in many networks, the property of community structure, in which network nodes are joined together in tightly knit groups, between which there are only looser connections. We propose a method for detecting such communities, built around the idea of using centrality indices to find community boundaries. We test our method on computer-generated and real-world graphs whose community structure is already known and find that the method detects this known structure with high sensitivity and reliability. We also apply the method to \u2026",
+            "Community structure in social and biological networks",
+            "Michelle Girvan and Mark EJ Newman",
+            "2002",
+            "npKBI-oAAAAJ:KlAtU1dfN6UC",
+            15299,
+            "https:\/\/www.pnas.org\/content\/99\/12\/7821.short",
+            "3229073881470632983",
+            "\/scholar?cites=3229073881470632983",
+            {
+                "2003":65,
+                "2004":118,
+                "2005":168,
+                "2006":251,
+                "2007":376,
+                "2008":467,
+                "2009":581,
+                "2010":775,
+                "2011":940,
+                "2012":1008,
+                "2013":1142,
+                "2014":1239,
+                "2015":1244,
+                "2016":1344,
+                "2017":1271,
+                "2018":1349,
+                "2019":1353,
+                "2020":1279,
+                "2021":118
+            }
+        ],
+        [
+            "We propose and study a set of algorithms for discovering community structure in networks\u2014natural divisions of network nodes into densely connected subgroups. Our algorithms all share two definitive features: first, they involve iterative removal of edges from the network to split it into communities, the edges removed being identified using any one of a number of possible \u201cbetweenness\u201d measures, and second, these measures are, crucially, recalculated after each removal. We also propose a measure for the strength of the community structure found by our algorithms, which gives us an objective metric for choosing the number of communities into which a network should be divided. We demonstrate that our algorithms are highly effective at discovering community structure in both computer-generated and real-world network data, and show how they can be used to shed light on the sometimes dauntingly complex \u2026",
+            "Finding and evaluating community structure in networks",
+            "Mark EJ Newman and Michelle Girvan",
+            "2004",
+            "npKBI-oAAAAJ:Zph67rFs4hoC",
+            13791,
+            "https:\/\/journals.aps.org\/pre\/abstract\/10.1103\/PhysRevE.69.026113",
+            "18122181685194356480",
+            "\/scholar?cites=18122181685194356480",
+            {
+                "2004":59,
+                "2005":101,
+                "2006":190,
+                "2007":331,
+                "2008":419,
+                "2009":565,
+                "2010":724,
+                "2011":842,
+                "2012":933,
+                "2013":1124,
+                "2014":1161,
+                "2015":1163,
+                "2016":1181,
+                "2017":1112,
+                "2018":1223,
+                "2019":1198,
+                "2020":1150,
+                "2021":110
+            }
+        ]
+    ]
+}

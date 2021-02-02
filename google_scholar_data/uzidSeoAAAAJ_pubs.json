@@ -1,0 +1,187 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "data":[
+        [
+            "The recent discovery of GW150914, the binary black hole merger detected by Advanced LIGO, has the potential to revolutionize observational astrophysics. But to fully utilize this new window into the Universe, we must compare these new observations to detailed models of binary black hole formation throughout cosmic time. Expanding upon our previous work [CL Rodriguez, M. Morscher, B. Pattabiraman, S. Chatterjee, C.-J. Haster, and FA Rasio, Phys. Rev. Lett. 115, 051101 (2015).], we study merging binary black holes formed in globular clusters using our Monte Carlo approach to stellar dynamics. We have created a new set of 52 cluster models with different masses, metallicities, and radii to fully characterize the binary black hole merger rate. These models include all the relevant dynamical processes (such as two-body relaxation, strong encounters, and three-body binary formation) and agree well with \u2026",
+            "Binary black hole mergers from globular clusters: Masses, merger rates, and the impact of stellar evolution",
+            "Carl L Rodriguez and Sourav Chatterjee and Frederic A Rasio",
+            "2016",
+            "uzidSeoAAAAJ:dhFuZR0502QC",
+            348,
+            "https:\/\/journals.aps.org\/prd\/abstract\/10.1103\/PhysRevD.93.084029",
+            "11208295388922766810",
+            "\/scholar?cites=11208295388922766810",
+            {
+                "2016":25,
+                "2017":55,
+                "2018":85,
+                "2019":80,
+                "2020":96,
+                "2021":6
+            }
+        ],
+        [
+            "The predicted rate of binary black hole mergers from galactic fields can vary over several orders of magnitude and is extremely sensitive to the assumptions of stellar evolution. But in dense stellar environments such as globular clusters, binary black holes form by well-understood gravitational interactions. In this Letter, we study the formation of black hole binaries in an extensive collection of realistic globular cluster models. By comparing these models to observed Milky Way and extragalactic globular clusters, we find that the mergers of dynamically formed binaries could be detected at a rate of\u223c 100 per year, potentially dominating the binary black hole merger rate. We also find that a majority of cluster-formed binaries are more massive than their field-formed counterparts, suggesting that Advanced LIGO could identify certain binaries as originating from dense stellar environments.",
+            "Binary black hole mergers from globular clusters: implications for Advanced LIGO",
+            "Carl L Rodriguez and Meagan Morscher and Bharath Pattabiraman and Sourav Chatterjee and Carl-Johan Haster and Frederic A Rasio",
+            "2015",
+            "uzidSeoAAAAJ:M3NEmzRMIkIC",
+            264,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.115.051101",
+            "17766963619855273861",
+            "\/scholar?cites=17766963619855273861",
+            {
+                "2016":38,
+                "2017":32,
+                "2018":63,
+                "2019":55,
+                "2020":70,
+                "2021":5
+            }
+        ],
+        [
+            "We present models of realistic globular clusters with post-Newtonian dynamics for black holes. By modeling the relativistic accelerations and gravitational-wave emission in isolated binaries and during three-and four-body encounters, we find that nearly half of all binary black hole mergers occur inside the cluster, with about 10% of those mergers entering the LIGO\/Virgo band with eccentricities greater than 0.1. In-cluster mergers lead to the birth of a second generation of black holes with larger masses and high spins, which, depending on the black hole natal spins, can sometimes be retained in the cluster and merge again. As a result, globular clusters can produce merging binaries with detectable spins regardless of the birth spins of black holes formed from massive stars. These second-generation black holes would also populate any upper mass gap created by pair-instability supernovae.",
+            "Post-Newtonian Dynamics in Dense Star Clusters: Highly Eccentric, Highly Spinning, and Repeated Binary Black Hole Mergers",
+            "Carl L Rodriguez and Pau Amaro-Seoane and Sourav Chatterjee and Frederic A Rasio",
+            "2018",
+            "uzidSeoAAAAJ:YsMSGLbcyi4C",
+            154,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.120.151101",
+            "3653703795571922244",
+            "\/scholar?cites=3653703795571922244",
+            {
+                "2018":27,
+                "2019":58,
+                "2020":63,
+                "2021":5
+            }
+        ],
+        [
+            "The recent detections of the binary black hole mergers GW150914 and GW151226 have inaugurated the field of gravitational-wave astronomy. For the two main formation channels that have been proposed for these sources, isolated binary evolution in galactic fields and dynamical formation in dense star clusters, the predicted masses and merger rates overlap significantly, complicating any astrophysical claims that rely on measured masses alone. Here, we examine the distribution of spin\u2013orbit misalignments expected for binaries from the field and from dense star clusters. Under standard assumptions for black hole natal kicks, we find that black hole binaries similar to GW150914 could be formed with significant spin\u2013orbit misalignment only through dynamical processes. In particular, these heavy-black hole binaries can only form with a significant spin\u2013orbit anti-alignment in the dynamical channel. Our results \u2026",
+            "Illuminating black hole binary formation channels with spins in advanced LIGO",
+            "Carl L Rodriguez and Michael Zevin and Chris Pankow and Vasilliki Kalogera and Frederic A Rasio",
+            "2016",
+            "uzidSeoAAAAJ:LkGwnXOMwfcC",
+            139,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/2041-8205\/832\/1\/L2\/meta",
+            "4429927310045929920",
+            "\/scholar?cites=4429927310045929920",
+            {
+                "2017":30,
+                "2018":27,
+                "2019":32,
+                "2020":47,
+                "2021":3
+            }
+        ],
+        [
+            "We explore the possibility that GW150914, the binary black hole (BBH) merger recently detected by Advanced LIGO, was formed by gravitational interactions in the core of a dense star cluster. Using models of globular clusters (GCs) with detailed N-body dynamics and stellar evolution, we show that a typical cluster with a mass of  to  is optimal for forming GW150914-like BBHs that will merge in the local universe. We identify the most likely dynamical processes for forming GW150914 in such a cluster, and we show that the detection of GW150914 is consistent with the masses and merger rates expected for BBHs from GCs. Our results show that dynamical processes provide a significant and well-understood pathway for forming BBH mergers in the local universe. Understanding the contribution of dynamics to the BBH merger problem is a critical step in unlocking the full potential of gravitational \u2026",
+            "Dynamical formation of the GW150914 binary black hole",
+            "Carl L Rodriguez and Carl-Johan Haster and Sourav Chatterjee and Vicky Kalogera and Frederic A Rasio",
+            "2016",
+            "uzidSeoAAAAJ:roLk4NBRz8UC",
+            138,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/2041-8205\/824\/1\/L8\/meta",
+            "4563612870377718644",
+            "\/scholar?cites=4563612870377718644",
+            {
+                "2016":12,
+                "2017":36,
+                "2018":37,
+                "2019":25,
+                "2020":25,
+                "2021":2
+            }
+        ],
+        [
+            "Using state-of-the-art dynamical simulations of globular clusters, including radiation reaction during black hole encounters and a cosmological model of star cluster formation, we create a realistic population of dynamically formed binary black hole mergers across cosmic space and time. We show that in the local universe, 10% of these binaries form as the result of gravitational-wave emission between unbound black holes during chaotic resonant encounters, with roughly half of those events having eccentricities detectable by current ground-based gravitational-wave detectors. The mergers that occur inside clusters typically have lower masses than binaries that were ejected from the cluster many Gyrs ago. Gravitational-wave captures from globular clusters contribute 1\u20132 Gpc\u2212 3 yr\u2212 1 to the binary merger rate in the local universe, increasing to\u2273 10 Gpc\u2212 3 yr\u2212 1 at z\u223c 3. Finally, we discuss some of the technical \u2026",
+            "Post-Newtonian dynamics in dense star clusters: Formation, masses, and merger rates of highly-eccentric black hole binaries",
+            "Carl L Rodriguez and Pau Amaro-Seoane and Sourav Chatterjee and Kyle Kremer and Frederic A Rasio and Johan Samsing and S Ye Claire and Michael Zevin",
+            "2018",
+            "uzidSeoAAAAJ:e5wmG9Sq2KIC",
+            116,
+            "https:\/\/journals.aps.org\/prd\/abstract\/10.1103\/PhysRevD.98.123005",
+            "15220791148138079412",
+            "\/scholar?cites=15220791148138079412",
+            {
+                "2019":40,
+                "2020":73,
+                "2021":3
+            }
+        ],
+        [
+            "Gravitational waves (GWs) from binary black hole (BBH) mergers provide a new probe of massive-star evolution and the formation channels of binary compact objects. By coupling the growing sample of BBH systems with population synthesis models, we can begin to constrain the parameters of such models and glean unprecedented knowledge about the inherent physical processes that underpin binary stellar evolution. In this study, we apply a hierarchical Bayesian model to mass measurements from a synthetic GW sample to constrain the physical prescriptions in population models and the relative fraction of systems generated from various channels. We employ population models of two canonical formation scenarios in our analysis\u2014isolated binary evolution involving a common-envelope phase and dynamical formation within globular clusters\u2014with model variations for different black hole natal kick prescriptions \u2026",
+            "Constraining formation models of binary black holes with gravitational-wave observations",
+            "Michael Zevin and Chris Pankow and Carl L Rodriguez and Laura Sampson and Eve Chase and Vassiliki Kalogera and Frederic A Rasio",
+            "2017",
+            "uzidSeoAAAAJ:Zph67rFs4hoC",
+            110,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/1538-4357\/aa8408\/meta",
+            "7440622420657209817",
+            "\/scholar?cites=7440622420657209817",
+            {
+                "2017":9,
+                "2018":22,
+                "2019":26,
+                "2020":50,
+                "2021":2
+            }
+        ],
+        [
+            "The recent detections of GW150914 and GW151226 imply an abundance of stellar-mass binary black hole (BBH) mergers in the local universe. While ground-based gravitational wave detectors are limited to observing the final moments before a binary merges, space-based detectors, such as the Laser Interferometer Space Antenna (LISA), can observe binaries at lower orbital frequencies where such systems may still encode information about their formation histories. In particular, the orbital eccentricity and mass of BBHs in the LISA frequency band can be used together to discriminate between binaries formed in isolation in galactic fields and those formed in dense stellar environments such as globular clusters. In this letter, we explore the orbital eccentricity and mass of BBH populations as they evolve through the LISA frequency band. Overall we find that there are two distinct populations discernible by LISA. We \u2026",
+            "Distinguishing between formation channels for binary black holes with LISA",
+            "Katelyn Breivik and Carl L Rodriguez and Shane L Larson and Vassiliki Kalogera and Frederic A Rasio",
+            "2016",
+            "uzidSeoAAAAJ:MXK_kJrjxJIC",
+            98,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/2041-8205\/830\/1\/L18\/meta",
+            "6656843225008105955",
+            "\/scholar?cites=6656843225008105955",
+            {
+                "2017":12,
+                "2018":23,
+                "2019":28,
+                "2020":30,
+                "2021":2
+            }
+        ],
+        [
+            "When two black holes merge in a dense star cluster, they form a new black hole with a well-defined mass and spin. If that \u201csecond-generation\u201d black hole remains in the cluster, it will continue to participate in dynamical encounters, form binaries, and potentially merge again. Using a grid of 96 dynamical models of dense star clusters and a cosmological model of cluster formation, we explore the production of binary black hole mergers where at least one component of the binary was forged in a previous merger. We create four hypothetical universes where every black hole born in the collapse of a massive star has a dimensionless Kerr spin parameter, \u03c7 birth, of 0.0, 0.1, 0.2, or 0.5. We show that if all stellar-born black holes are nonspinning (\u03c7 birth= 0.0), then more than 10% of merging binary black holes from clusters have components formed from previous mergers, accounting for more than 20% of the mergers from \u2026",
+            "Black holes: The next generation\u2014repeated mergers in dense star clusters and their gravitational-wave properties",
+            "Carl L Rodriguez and Michael Zevin and Pau Amaro-Seoane and Sourav Chatterjee and Kyle Kremer and Frederic A Rasio and S Ye Claire",
+            "2019",
+            "uzidSeoAAAAJ:UebtZRa9Y70C",
+            94,
+            "https:\/\/journals.aps.org\/prd\/abstract\/10.1103\/PhysRevD.100.043027",
+            "4747708450381532248",
+            "\/scholar?cites=4747708450381532248",
+            {
+                "2019":12,
+                "2020":75,
+                "2021":7
+            }
+        ]
+    ]
+}

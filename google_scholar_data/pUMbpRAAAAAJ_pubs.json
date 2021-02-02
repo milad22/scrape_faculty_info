@@ -1,0 +1,224 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "We report on an experiment to detect nonclassical correlations in a highly mixed state. The correlations are characterized by the quantum discord and are observed using four qubits in a liquid-state nuclear magnetic resonance quantum information processor. The state analyzed is the output of a DQC1 computation, whose input is a single quantum bit accompanied by n maximally mixed qubits. This model of computation outperforms the best known classical algorithms and, although it contains vanishing entanglement, it is known to have quantum correlations characterized by the quantum discord. This experiment detects nonvanishing quantum discord, ensuring the existence of nonclassical correlations as measured by the quantum discord.",
+            "Experimental detection of nonclassical correlations in mixed-state quantum computation",
+            "G Passante and O Moussa and DA Trottier and R Laflamme",
+            "2011",
+            "pUMbpRAAAAAJ:u5HHmVD_uO8C",
+            124,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.84.044302",
+            "6793886266527665902",
+            "\/scholar?cites=6793886266527665902",
+            {
+                "2011":6,
+                "2012":24,
+                "2013":27,
+                "2014":15,
+                "2015":8,
+                "2016":9,
+                "2017":10,
+                "2018":6,
+                "2019":10,
+                "2020":7,
+                "2021":1
+            }
+        ],
+        [
+            "We present experimental results approximating the Jones polynomial using 4 qubits in a liquid state nuclear magnetic resonance quantum information processor. This is the first experimental implementation of a complete problem for the deterministic quantum computation with one quantum bit model of quantum computation, which uses a single qubit accompanied by a register of completely random states. The Jones polynomial is a knot invariant that is important not only to knot theory, but also to statistical mechanics and quantum field theory. The implemented algorithm is a modification of the algorithm developed by Shor and Jordan suitable for implementation in NMR. These experimental results show that for the restricted case of knots whose braid representations have four strands and exactly three crossings, identifying distinct knots is possible 91% of the time.",
+            "Experimental Approximation of the Jones Polynomial with One Quantum Bit",
+            "G Passante and O Moussa and CA Ryan and R Laflamme",
+            "2009",
+            "pUMbpRAAAAAJ:u-x6o8ySG0sC",
+            52,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.103.250501",
+            "18389445570337215322",
+            "\/scholar?cites=18389445570337215322",
+            {
+                "2010":4,
+                "2011":7,
+                "2012":7,
+                "2013":4,
+                "2014":7,
+                "2015":3,
+                "2016":6,
+                "2017":4,
+                "2018":4,
+                "2019":3,
+                "2020":2
+            }
+        ],
+        [
+            "We describe an efficient DQC1 (deterministic quantum computation with one quantum qubit) algorithm to quantify the amount of geometric quantum discord present in the output state of a DQC1 computation. DQC1 is a model of computation that utilizes separable states to solve a problem with no known efficient classical algorithm and is known to contain quantum correlations as measured by the discord. For the general case of a (1+ n)-qubit DQC1 state we provide an analytical expression for the geometric quantum discord and find that its typical (and maximum) value decreases exponentially with n. This is in contrast to the standard quantum discord whose value for typical DQC1 states is known to be independent of n. We experimentally demonstrate the proposed algorithm on a four-qubit liquid-state nuclear magnetic resonance quantum information processor. In the special case of a two-qubit DQC1 model, we \u2026",
+            "Measuring geometric quantum discord using one bit of quantum information",
+            "G Passante and O Moussa and R Laflamme",
+            "2012",
+            "pUMbpRAAAAAJ:d1gkVwhDpl0C",
+            44,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.85.032325",
+            "13452904871810797682",
+            "\/scholar?cites=13452904871810797682",
+            {
+                "2012":6,
+                "2013":12,
+                "2014":9,
+                "2015":1,
+                "2016":5,
+                "2017":4,
+                "2018":4,
+                "2019":3
+            }
+        ],
+        [
+            "[This paper is part of the Focused Collection on Upper Division Physics Courses.] Energy measurements play a fundamental role in the theory of quantum mechanics, yet there is evidence that the underlying concepts are difficult for many students, even after all undergraduate instruction. We present results from an investigation into student ability to determine the possible energies that can be measured for a given wave function and Hamiltonian, to determine the probabilities of each energy measurement and how they depend on time, and to recognize how a measurement of energy affects the state. By analyzing student responses to open-ended questions, we identify five broad, interrelated sets of conceptual and reasoning difficulties related to energy measurements. Data are drawn from sophomore-, junior-, and graduate-level quantum mechanics courses. Particular attention is paid to incorrect ideas that persist \u2026",
+            "Examining student ideas about energy measurements on quantum states across undergraduate and graduate levels",
+            "Gina Passante and Paul J Emigh and Peter S Shaffer",
+            "2015",
+            "pUMbpRAAAAAJ:UebtZRa9Y70C",
+            40,
+            "https:\/\/journals.aps.org\/prper\/abstract\/10.1103\/PhysRevSTPER.11.020111",
+            "2495419741774281162",
+            "\/scholar?cites=2495419741774281162",
+            {
+                "2015":2,
+                "2016":2,
+                "2017":8,
+                "2018":9,
+                "2019":8,
+                "2020":10
+            }
+        ],
+        [
+            "[This paper is part of the Focused Collection on Upper Division Physics Courses.] The time evolution of quantum states is arguably one of the more difficult ideas in quantum mechanics. In this article, we report on results from an investigation of student understanding of this topic after lecture instruction. We demonstrate specific problems that students have in applying time dependence to quantum systems and in recognizing the key role of the energy eigenbasis in determining the time dependence of wave functions. Through analysis of student responses to a set of four interrelated tasks, we categorize some of the difficulties that underlie common errors. The conceptual and reasoning difficulties that have been identified are illustrated through student responses to four sets of questions administered at different points in a junior-level course on quantum mechanics. Evidence is also given that the problems persist \u2026",
+            "Student understanding of time dependence in quantum mechanics",
+            "Paul J Emigh and Gina Passante and Peter S Shaffer",
+            "2015",
+            "pUMbpRAAAAAJ:Se3iqnhoufwC",
+            36,
+            "https:\/\/journals.aps.org\/prper\/abstract\/10.1103\/PhysRevSTPER.11.020112",
+            "11659458460283559289",
+            "\/scholar?cites=11659458460283559289",
+            {
+                "2015":2,
+                "2016":4,
+                "2017":9,
+                "2018":6,
+                "2019":9,
+                "2020":6
+            }
+        ],
+        [
+            "Quantum information processors have the potential to drastically change the way we communicate and process information. Nuclear magnetic resonance (NMR) has been one of the first experimental implementations of quantum information processing (QIP) and continues to be an excellent testbed to develop new QIP techniques. We review the recent progress made in NMR QIP, focusing on decoupling, pulse engineering and indirect nuclear control. These advances have enhanced the capabilities of NMR QIP, and have useful applications in both traditional NMR and other QIP architectures.",
+            "Recent advances in nuclear magnetic resonance quantum information processing",
+            "Ben Criger and Gina Passante and Daniel Park and Raymond Laflamme",
+            "2012",
+            "pUMbpRAAAAAJ:qjMakFHDy7sC",
+            34,
+            "https:\/\/royalsocietypublishing.org\/doi\/abs\/10.1098\/rsta.2011.0352",
+            "8332287939210795358",
+            "\/scholar?cites=8332287939210795358",
+            {
+                "2012":2,
+                "2013":4,
+                "2014":4,
+                "2015":7,
+                "2016":3,
+                "2017":6,
+                "2018":1,
+                "2019":5,
+                "2020":2
+            }
+        ],
+        [
+            "Superposition gives rise to the probabilistic nature of quantum mechanics and is therefore one of the concepts at the heart of quantum mechanics. Although we have found that many students can successfully use the idea of superposition to calculate the probabilities of different measurement outcomes, they are often unable to identify the experimental implications of a superposition state. In particular, they fail to recognize how a superposition state and a mixed state (sometimes called a \u201clack of knowledge\u201d state) can produce different experimental results. We present data that suggest that superposition in quantum mechanics is a difficult concept for students enrolled in sophomore-, junior-, and graduate-level quantum mechanics courses. We illustrate how an interactive lecture tutorial can improve student understanding of quantum mechanical superposition. A longitudinal study suggests that the impact persists \u2026",
+            "Student ability to distinguish between superposition states and mixed states in quantum mechanics",
+            "Gina Passante and Paul J Emigh and Peter S Shaffer",
+            "2015",
+            "pUMbpRAAAAAJ:hqOjcs7Dif8C",
+            13,
+            "https:\/\/journals.aps.org\/prper\/abstract\/10.1103\/PhysRevSTPER.11.020135",
+            "12429689344934720170",
+            "\/scholar?cites=12429689344934720170",
+            {
+                "2016":1,
+                "2017":5,
+                "2018":3,
+                "2019":3,
+                "2020":1
+            }
+        ],
+        [
+            "Analyzing, constructing, and translating between graphical, pictorial, and mathematical representations of physics ideas and reasoning flexibly through them (\u201crepresentational competence\u201d) is a key characteristic of expertise in physics but is a challenge for learners to develop. Interactive computer simulations and University of Washington style tutorials both have affordances to support representational learning. This article describes work to characterize students\u2019 spontaneous use of representations before and after working with a combined simulation and tutorial on first-order energy corrections in the context of quantum-mechanical time-independent perturbation theory. Data were collected from two institutions using pre-, mid-, and post-tests to assess short-and long-term gains. A representational competence level framework was adapted to devise level descriptors for the assessment items. The results indicate \u2026",
+            "Characterizing representational learning: A combined simulation and tutorial on perturbation theory",
+            "Antje Kohnle and Gina Passante",
+            "2017",
+            "pUMbpRAAAAAJ:3fE2CSJIrl8C",
+            8,
+            "https:\/\/journals.aps.org\/prper\/abstract\/10.1103\/PhysRevPhysEducRes.13.020131",
+            "13435795969229237672",
+            "\/scholar?cites=13435795969229237672",
+            {
+                "2018":2,
+                "2019":3,
+                "2020":2,
+                "2021":1
+            }
+        ],
+        [
+            "Time dependence is of fundamental importance for the description of quantum systems, but is particularly difficult for students to master. We describe the development and evaluation of a combined simulation-tutorial to support the development of visual understanding of time dependence in quantum mechanics. The associated interactive simulation shows the time dependence of an energy eigenstate and a superposition state, and how the time dependence of the probability density arises from that of the wave function. In order to assess transitions in student thinking, we developed a framework to characterize student responses in terms of real and complex mathematical reasoning and classical and quantum visual reasoning. The results of pre-, mid-, and post-tests indicate that the simulation-tutorial supports the development of visual understanding of time dependence, and that visual reasoning is correlated with \u2026",
+            "Enhancing student visual understanding of the time evolution of quantum systems",
+            "Gina Passante and Antje Kohnle",
+            "2019",
+            "pUMbpRAAAAAJ:4TOpqqG69KYC",
+            7,
+            "https:\/\/journals.aps.org\/prper\/abstract\/10.1103\/PhysRevPhysEducRes.15.010110",
+            "1621499261018200499",
+            "\/scholar?cites=1621499261018200499",
+            {
+                "2019":1,
+                "2020":6
+            }
+        ],
+        [
+            "In upper division physics courses students are required to work with various coordinate systems. This skill becomes particularly important when learning Electricity and Magnetism, where the most appropriate coordinate system will often depend on the geometry and symmetry of a problem. This study aims to identify and describe \u201cresources\u201d used by students when answering physics questions regarding unit vectors in non-Cartesian coordinate systems, specifically polar coordinates [1]. Data were collected in the form of written responses and interviews in upper division physics courses at two universities. After deeper analysis we identified several resources that students use in ways that can be productive and unproductive.",
+            "Student Understanding of Unit Vectors and Coordinate Systems Beyond Cartesian Coordinates in Upper Division Physics Courses",
+            "Marlene Vega and Warren Christensen and Brian Farlow and Gina Passante and Michael Loverude",
+            "2017",
+            "pUMbpRAAAAAJ:YOwf2qJgpHMC",
+            7,
+            "https:\/\/www.researchgate.net\/profile\/Neeka_Farnoudi\/publication\/321574998_Battle_of_the_Sexes_A_Sexually_Dimorphic_Response_to_Fungal_Infection_in_Drosophila_melanogaster\/links\/5a278dfea6fdcc8e866e785b\/Battle-of-the-Sexes-A-Sexually-Dimorphic-Response-to-Fungal-Infection-in-Drosophila-melanogaster.pdf#page=195",
+            "16844707258499494321",
+            "\/scholar?cites=16844707258499494321",
+            {
+                "2017":1,
+                "2018":1,
+                "2019":2,
+                "2020":3
+            }
+        ]
+    ]
+}

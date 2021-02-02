@@ -1,0 +1,151 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "q6x-QsgAAAAJ",
+            "Xinsheng Sean Ling (\u51cc\u65b0\u751f)",
+            "Brown University",
+            "@brown.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=q6x-QsgAAAAJ",
+            5930,
+            [
+                "Superconductors",
+                "Quantum Magnets",
+                "Nanopores",
+                "Colloids"
+            ],
+            1911,
+            21,
+            13,
+            35,
+            15,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"PkEB9j4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Cees Dekker",
+                    "affiliation":"Kavli Institute of Nanoscience, Delft University of Technology, The Netherlands"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"8l9smH0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Arnold Storm",
+                    "affiliation":"TNO"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"K7wXsg0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Stuart Lindsay",
+                    "affiliation":"Arizona State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"761SYWQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Slaven Garaj",
+                    "affiliation":"National University of Singapore"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"8iXc5UkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Meni Wanunu",
+                    "affiliation":"Northeastern University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"LxgLWnwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"M. Di Ventra",
+                    "affiliation":"Professor of Physics, University of California, San Diego"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"jmSoUP4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Paul M Chaikin",
+                    "affiliation":"Silver Professor of Physics New York University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"FGXe5gEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hongbo Peng",
+                    "affiliation":"IBM"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"OnoMAckAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Chao Tang",
+                    "affiliation":"Professor of Physics, Peking University"
+                }
+            ]
+        ]
+    ]
+}

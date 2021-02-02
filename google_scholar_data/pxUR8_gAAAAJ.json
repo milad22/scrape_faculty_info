@@ -1,0 +1,112 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "pxUR8_gAAAAJ",
+            "Sam Gralla",
+            "University of Arizona",
+            "@email.arizona.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=pxUR8_gAAAAJ",
+            1349,
+            [
+
+            ],
+            948,
+            20,
+            19,
+            31,
+            25,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9x0Ifp0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Niels Warburton",
+                    "affiliation":"University College Dublin"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9i-IRNUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alexander Philippov",
+                    "affiliation":"Center for Computational Astrophysics, Flatiron Institute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ZEXly3wAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Marc Casals",
+                    "affiliation":"Centro Brasileiro de Pesquisas F\u00edsicas (CBPF) and University College Dublin"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9hMb_7IAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Aaron Zimmerman",
+                    "affiliation":"The University of Texas at Austin"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Wqp-HfMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Theodore D. Drivas",
+                    "affiliation":"Department of Mathematics, Stony Brook University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"_xiEk4kAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alexandre Le Tiec",
+                    "affiliation":"Observatoire de Paris"
+                }
+            ]
+        ]
+    ]
+}

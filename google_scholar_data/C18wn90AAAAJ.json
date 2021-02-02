@@ -1,0 +1,89 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "C18wn90AAAAJ",
+            "John M. Kovacs",
+            "Professor, Department of Geography, Nipissing University",
+            "@nipissingu.ca",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=C18wn90AAAAJ",
+            4050,
+            [
+                "Remote Sensing",
+                "Mangroves"
+            ],
+            2739,
+            30,
+            23,
+            38,
+            32,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"PkPjWskAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Chunhua Zhang",
+                    "affiliation":"Department of Geography, Algoma University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"7YihSNoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Francisco Flores de Santiago",
+                    "affiliation":"Universidad Nacional Autonoma de Mexico"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"2nhTcmYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jiali Shang",
+                    "affiliation":"Research Scientist, Science and Technology Branch, Agriculture and Agri-Food Canada"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"QiPs_kQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Lu Xi Xi (\u5415\u559c\u73ba)",
+                    "affiliation":"Professor, Department of Geography, National University of Singapore"
+                }
+            ]
+        ]
+    ]
+}

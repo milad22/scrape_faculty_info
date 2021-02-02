@@ -1,0 +1,90 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Bdn4jRIAAAAJ",
+            "David J. Lederer",
+            "Associate Professor of Medicine and Epidemiology",
+            "@cumc.columbia.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=Bdn4jRIAAAAJ",
+            15949,
+            [
+                "lung transplantation",
+                "pulmonary fibrosis",
+                "interstitial lung disease"
+            ],
+            12103,
+            51,
+            41,
+            128,
+            115,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"aNC4MHwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Joshua Diamond",
+                    "affiliation":"Assistant Professor of Medicine, University of Pennsylvania"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"B9hnNC4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Talmadge E. King, Jr",
+                    "affiliation":"Professor & Dean, School of Medicine, University of California San Francisco"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"D2kI_nAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Eric A. Hoffman",
+                    "affiliation":"Professor of Radiology, University of Iowa"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"eAwydYIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Russell Tracy",
+                    "affiliation":"Professor of Pathology and Biochemistry University of Vermont"
+                }
+            ]
+        ]
+    ]
+}

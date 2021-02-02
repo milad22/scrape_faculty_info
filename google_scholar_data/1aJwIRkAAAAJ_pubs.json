@@ -1,0 +1,80 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "We report the results of quantitative phase-field simulations of the dendritic crystallization of a pure melt in two and three dimensions. These simulations exploit a recently developed thin-interface limit of the phase-field model [A. Karma and W.-J. Rappel, Phys. Rev. E 53, R3017 (1996)], which is given here a detailed exposition. This limit makes it possible to perform efficient computations with a smaller ratio of capillary length to interface thickness and with an arbitrary interface kinetic coefficient. Simulations in one and two dimensions are first carried out to test the accuracy of phase-field computations performed within this limit. Dendrite tip velocities and tip shapes are found to be in excellent quantitative agreement with exact numerical benchmarks of solvability theory obtained by a boundary integral method, both with and without interface kinetics. Simulations in three dimensions exploit, in addition to the \u2026",
+            "Quantitative phase-field modeling of dendritic growth in two and three dimensions",
+            "Alain Karma and Wouter-Jan Rappel",
+            "1998",
+            "1aJwIRkAAAAJ:u5HHmVD_uO8C",
+            1460,
+            "https:\/\/journals.aps.org\/pre\/abstract\/10.1103\/PhysRevE.57.4323",
+            "13560613485357359601",
+            "\/scholar?cites=13560613485357359601",
+            {
+                "1998":4,
+                "1999":17,
+                "2000":22,
+                "2001":42,
+                "2002":55,
+                "2003":53,
+                "2004":54,
+                "2005":63,
+                "2006":71,
+                "2007":69,
+                "2008":62,
+                "2009":82,
+                "2010":69,
+                "2011":76,
+                "2012":65,
+                "2013":83,
+                "2014":85,
+                "2015":77,
+                "2016":81,
+                "2017":76,
+                "2018":64,
+                "2019":84,
+                "2020":78,
+                "2021":18
+            }
+        ],
+        [
+            "We hypothesized that human atrial fibrillation (AF) may be sustained by localized sources (electrical rotors and focal impulses), whose elimination (focal impulse and rotor modulation [FIRM]) may improve outcome from AF ablation.Catheter ablation for AF is a promising therapy, whose success is limited in part by uncertainty in the mechanisms that sustain AF. We developed a computational approach to map whether AF is sustained by several meandering waves (the prevailing hypothesis) or localized sources, then prospectively tested whether targeting patient-specific mechanisms revealed by mapping would improve AF ablation outcome.We recruited 92 subjects during 107 consecutive ablation procedures for paroxysmal or persistent (72%) AF. Cases were prospectively treated, in a 2-arm 1:2 design, by ablation at sources (FIRM-guided) followed by conventional ablation (n \u2026",
+            "Treatment of atrial fibrillation by the ablation of localized sources: CONFIRM (Conventional Ablation for Atrial Fibrillation With or Without Focal Impulse and Rotor Modulation \u2026",
+            "Sanjiv M Narayan and David E Krummen and Kalyanam Shivkumar and Paul Clopton and Wouter-Jan Rappel and John M Miller",
+            "2012",
+            "1aJwIRkAAAAJ:2osOgNQ5qMEC",
+            1081,
+            "https:\/\/www.jacc.org\/doi\/abs\/10.1016\/j.jacc.2012.05.022",
+            "17044885371608330067",
+            "\/scholar?cites=17044885371608330067",
+            {
+                "2012":21,
+                "2013":84,
+                "2014":122,
+                "2015":158,
+                "2016":156,
+                "2017":156,
+                "2018":145,
+                "2019":118,
+                "2020":92,
+                "2021":5
+            }
+        ]
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "fraRBsIAAAAJ",
+            "Richard M Ryan",
+            "Institute for Positive Psychology & Education, Australian Catholic University",
+            "@acu.edu.au",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=fraRBsIAAAAJ",
+            386314,
+            [
+                "Psychology",
+                "Self-Determination Theory",
+                "Motivation",
+                "Education",
+                "Organizational Behavior"
+            ],
+            188920,
+            182,
+            150,
+            382,
+            355,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"vj9FOZcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Edward L. Deci",
+                    "affiliation":"Australian Catholic University, Sydney; University of Rochester; Univ College of Southeast Norway"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"kCawkwQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kirk Warren Brown",
+                    "affiliation":"Virginia Commonwealth University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"NOVi3m4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Netta Weinstein",
+                    "affiliation":"Associate Professor, School of Psychology and Clinical Language Sciences"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"XkRHx1gAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Scott Rigby",
+                    "affiliation":"Immersyve"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ITu_fDMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Maarten Vansteenkiste",
+                    "affiliation":"Professor, Ghent University"
+                }
+            ]
+        ]
+    ]
+}

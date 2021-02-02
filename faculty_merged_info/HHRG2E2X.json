@@ -1,0 +1,48 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "HHRG2E2X",
+            "z7boxkkAAAAJ",
+            [
+                "Controlling chaos",
+                "Chaos in dynamical systems",
+                "Crises, sudden changes in chaotic attractors, and transient chaos",
+                "The dimension of chaotic attractors",
+                "Using small perturbations to control chaos",
+                "Chaotic attractors in crisis",
+                "A local ensemble Kalman filter for atmospheric data assimilation",
+                "Self\u2010focusing of short intense pulses in plasmas",
+                "Strange attractors that are not chaotic",
+                "Communicating with chaos"
+            ],
+            [
+                "It is shown that one can convert a chaotic attractor to any one of a large number of possible attracting time-periodic motions by making only small time-dependent perturbations of an available system parameter. The method utilizes delay coordinate embedding, and so is applicable to experimental situations in which a priori analytical knowledge of the system dynamics is not available. Important issues include the length of the chaotic transient preceding the periodic motion, and the effect of noise. These are illustrated with a numerical example.",
+                "Over the past two decades scientists, mathematicians, and engineers have come to understand that a large variety of systems exhibit complicated evolution with time. This complicated behavior is known as chaos. In the new edition of this classic textbook Edward Ott has added much new material and has significantly increased the number of homework problems. The most important change is the addition of a completely new chapter on control and synchronization of chaos. Other changes include new material on riddled basins of attraction, phase locking of globally coupled oscillators, fractal aspects of fluid advection by Lagrangian chaotic flows, magnetic dynamos, and strange nonchaotic attractors. This new edition will be of interest to advanced undergraduates and graduate students in science, engineering, and mathematics taking courses in chaotic dynamics, as well as to researchers in the subject.",
+                "The occurrence of sudden qualitative changes of chaotic dynamics as a parameter is varied is discussed and illustrated. It is shown that such changes may result from the collision of an unstable periodic orbit and a coexisting chaotic attractor. We call such collisions crises. Phenomena associated with crises include sudden changes in the size of chaotic attractors, sudden appearances of chaotic attractors (a possible route to chaos), and sudden destructions of chaotic attractors and their basins. This paper presents examples illustrating that crisis events are prevalent in many circumstances and systems, and that, just past a crisis, certain characteristic statistical behavior (whose type depends on the type of crisis) occurs. In particular the phenomenon of chaotic transients is investigated. The examples discussed illustrate crises in progressively higher dimension and include the one-dimensional quadratic map, the \u2026",
+                "Dimension is perhaps the most basic property of an attractor. In this paper we discuss a variety of different definitions of dimension, compute their values for a typical example, and review previous work on the dimension of chaotic attractors. The relevant definitions of dimension are of two general types, those depend only on metric properties, and those that depend on the frequency with which a typical trajectory visits different regions of the attractor. Both our example and the previous work that we review support the conclusion that all of the frequency dependent dimensions take on the same value, which we call the \u201cdimension of the natural measure\u201d, and all of the metric dimensions take on a common value, which we call the \u201cfractal dimension\u201d. Furthermore, the dimension of the natural measure is typically equal to the Lyapunov dimension, which is defined in terms of Lyapunov numbers, and thus is usually far \u2026",
+                "The extreme sensitivity of chaotic systems to tiny perturbations (the \u2018butterfly effect\u2019) can be used both to stabilize regular dynamic behaviours and to direct chaotic trajectories rapidly to a desired state. Incorporating chaos deliberately into practical systems therefore offers the possibility of achieving greater flexibility in their performance.",
+                "The occurrence of sudden qualitative changes of chaotic (or\" turbulent\") dynamics is discussed and illustrated within the context of the one-dimensional quadratic map. For this case, the chaotic region can suddenly widen or disappear, and the cause and properties of these phenomena are investigated.",
+                "In this paper, we introduce a new, local formulation of the ensemble Kalman filter approach for atmospheric data assimilation. Our scheme is based on the hypothesis that, when the Earth\u2019s surface is divided up into local regions of moderate size, vectors of the forecast uncertainties in such regions tend to lie in a subspace of much lower dimension than that of the full atmospheric state vector of such a region. Ensemble Kalman filters, in general, take the analysis resulting from the data assimilation to lie in the same subspace as the expected forecast error. Under our hypothesis the dimension of the subspace corresponding to local regions is low. This is used in our scheme to allow operations only on relatively low-dimensional matrices. The data assimilation analysis is performed locally in a manner allowing massively parallel computation to be exploited. The local analyses are then used to construct global states for \u2026",
+                "The self\u2010focusing of relativistically intense laser light pulses is analyzed, where the pulse length is short enough that ion inertia prevents any significant motion of ions. Self\u2010focusing occurs as a result of an increase of the wave refractive index arising from two effects: the mass increase of electrons caused by their relativistic quiver velocity in the light wave, and the reduction of the electron density as a result of ponderomotive force expulsion of the electrons. The latter effect is significant even for rather small values of (P\u2212PL)\/PL, where P is the laser beam power and PL is the critical power above which self\u2010focusing occurs. In fact, for (P\u2212PL)\/PL\u22730.1 the effect is so strong that all electrons are expelled within a core radial region of the self\u2010focused laser light channel (this new phenomenon is called electron cavitation).",
+                "It is shown that in certain types of dynamical systems it is possible to have attractors which are strange but not chaotic. Here we use the word strange to refer to the geometry or shape of the attracting set, while the word chaotic refers to the dynamics of orbits on the attractor (in particular, the exponential divergence of nearby trajectories). We first give examples for which it can be demonstrated that there is a strange nonchaotic attractor. These examples apply to a class of maps which model nonlinear oscillators (continuous time) which are externally driven at two incommensurate frequencies. It is then shown that such attractore are persistent under perturbations which preserve the original system type (i.e., there are two incommensurate external driving frequencies). This suggests that, for systems of the typw which we have considered, nonchaotic strange attractors may be expected to occur for a finite interval of \u2026",
+                "The use of chaos to transmit information is described. Chaotic dynamical systems, such as electrical oscillators with very simple structures, naturally produce complex wave forms. We show that the symbolic dynamics of a chaotic oscillator can be made to follow a desired symbol sequence by using small perturbations, thus allowing us to encode a message in the wave form. We illustrate this using a simple numerical electrical oscillator model."
+            ],
+            [
+                [
+                    "chaos",
+                    "nonlinear dynamics"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "5QAJUCQF",
+            "hg5qU_4AAAAJ",
+            [
+                "Creating remotely accessible\" virtual networks\" on a single PC to teach computer networking and operating systems",
+                "Centrally-stored and delivered virtual machines in the networking\/system administration lab",
+                "An implementation of a core curriculum in an information technology degree program",
+                "An open-source honeynet system to study system banner message effects on hackers",
+                "An implementation of a networking track in an information technology degree program",
+                "Enroute to making an IT baccalaureate program",
+                "Infusing social science into cybersecurity education",
+                "Desktop as a service proof of concept",
+                "Building a cloud based systems lab"
+            ],
+            [
+                "Instruction in the area of computer networking (specifically systems administration) can be cumbersome and ineffective; and is almost always is an expensive prospect when it comes to instructional and lab facilities. Problems arise both in the classroom and the lab when trying to recreate a true computing environment. Two solutions spelled out in this paper, virtual machines and remoting technology, have been implemented to help solve these problems encountered in the delivery of instruction.",
+                "Virtual machine technology has presented an opportunity for the networking\/system administration lab to serve multiple classes. The storage and delivery of virtual machine images has however presented a new problem for faculty and technical support staff. The authors have performed initial testing involving centralized verses distributed virtual machine image delivery in the networking\/system administration and will provide details as to their results in this paper. The overriding goal is to provide mobility for students within the lab and virtual machine manageability for faculty and technical staff.",
+                "This paper will layout the University of Cincinnati's efforts in creating the core curriculum for an information technology degree program to be started in the autumn quarter of 2004. By core, we are referring to coursework required by all information technology majors no matter their chosen area of specialization: networking, software development or web technologies. The work done creating this information technology groundwork for students is based on ACM SIGITE's initial implementation of IT curriculum guidelines. Input for the IT core was also obtained from faculty, students, and industry partners. Processes by which specific course offerings were chosen will be detailed: objectives of the core and courses, desired outcomes for students, content, and associated hands-on activities. In all, the paper will present a means by which the core curriculum can be successfully implemented in information technology \u2026",
+                "A honeynet system deploys a series of honeypots to answer vital questions about the activities of hackers on a network and can be used as a platform for direct experimentation to test criminological theory in an online environment. Often however, such systems can be hard to set up, generate large amounts of unfiltered data, and must be carefully monitored to prevent their being used as a platform for further attacks. This paper discusses the development of a honeynet system that computing professionals and researchers can set up, scale, and use with relative ease. The system monitors intruders' activities on individual honeypots then aggregates their movements into a single database, making the data easily accessible and searchable for study through a graphical front-end. To test this open-source solution, the authors replicate a portion of a seminal criminological study by Maimon et al.[4] finding corroborating \u2026",
+                "This paper will layout the University of Cincinnati's efforts in creating a networking track specialization for an information technology (IT) degree program to be started in the autumn quarter of 2004. The work done creating such an academic specialization for students is based on ACM SIGITE's initial implementation of IT curriculum guidelines. Input for the IT networking specialty was also obtained from faculty, students, and industry partners. Processes by which specific course offerings were chosen will be detailed; objectives of the track and courses, desired outcomes for students, content, and associated hands-on activities. In all, the paper will present a means by which a networking track can be successfully implemented in information technology programs at other universities that are interested in such an endeavor.",
+                "Several major factors have contributed to the birth of the new IT baccalaureate degree program at the University of Cincinnati. Of course the timing of IT emerging as an academic discipline has been a major one. Since CITC II several faculty members from the University of CINCINNATI have participated actively in SITE, later, SIGITE. With the arrival of new and exciting integrated technology, the stipulation to design an IT program meeting the needs of our society has become most important. Although originated by the entire group of Computer Science\/Information Engineering Technology faculty, the project to step-by-step develop the IT program based on SIGITE's most current guidelines fell onto three such faculty members. The project also coincides with the University of CINCINNATI Collegiate Restructuring Initiative, mandated by the Provost. During the past 12 months, a comprehensive plan containing specific \u2026",
+                "Cybersecurity, while definitively categorized as a sub-discipline of computing, is widely considered multidisciplinary in nature. This paper documents two attempts to adopt non-computing ideas and approaches in undergraduate cybersecurity courses for information technology majors. Specifically, the author uses the social sciences (criminal justice and political science) to elicit a deeper understanding of cybersecurity problems and to present interdisciplinary methodological approaches to students who, in their careers, will be tasked with defending against cyberthreats.",
+                "Desktop as a Service is an idea that has taken root in enterprises today, but has not reached consumers. In order to show this, a proof of concept lab was constructed. The proof of concept lab that the authors devised shows that this idea is viable. The lab uses a virtual desktop infrastructure environment. The environment uses VMWare's View solution on top of their hypervisor and virtualization management server. These solutions provide the backbone of the environment that is used to access desktops from mobile devices anywhere and anytime. The desktops provided are persistent which allows users to keep their settings and data in a single location.",
+                "The system administration lab at the University of Cincinnati consists of 24 high-end desktop PCs, each loaded with client virtualization software. The lab is limited to 24 students per class and does not offer remote access to the virtual machines. The students must either wait for open lab hours or purchase their own high-end systems to work on their schoolwork. To expand the number of classes taught and enable remote access to the lab, the authors created a Microsoft-based private cloud accessible from any computer on the university's network. VPN entry to the network allows students to login to the system using a web browser to access their VM's from anywhere in the world."
+            ],
+            [
+                [
+                    "information technology",
+                    "cybersecurity",
+                    "cybercrime",
+                    "victimology",
+                    "cloud computing"
+                ]
+            ]
+        ]
+    ]
+}

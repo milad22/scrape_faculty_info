@@ -1,0 +1,64 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "The Feedback In Realistic Environments (FIRE) project explores feedback in cosmological galaxy formation simulations. Previous FIRE simulations used an identical source code (\u2018FIRE-1\u2019) for consistency. Motivated by the development of more accurate numerics \u2013 including hydrodynamic solvers, gravitational softening, and supernova coupling algorithms \u2013 and exploration of new physics (e.g. magnetic fields), we introduce \u2018FIRE-2\u2019, an updated numerical implementation of FIRE physics for the gizmo code. We run a suite of simulations and compare against FIRE-1: overall, FIRE-2 improvements do not qualitatively change galaxy-scale properties. We pursue an extensive study of numerics versus physics. Details of the star formation algorithm, cooling physics, and chemistry have weak effects provided that we include metal-line cooling and star formation occurs at higher-than-mean densities. We present new \u2026",
+            "FIRE-2 simulations: physics versus numerics in galaxy formation",
+            "Philip F Hopkins and Andrew Wetzel and Du\u0161an Kere\u0161 and Claude-Andr\u00e9 Faucher-Gigu\u00e8re and Eliot Quataert and Michael Boylan-Kolchin and Norman Murray and Christopher C Hayward and Shea Garrison-Kimmel and Cameron Hummels and Robert Feldmann and Paul Torrey and Xiangcheng Ma and Daniel Angl\u00e9s-Alc\u00e1zar and Kung-Yi Su and Matthew Orr and Denise Schmitz and Ivanna Escala and Robyn Sanderson and Michael Y Grudi\u0107 and Zachary Hafen and Ji-Hoon Kim and Alex Fitts and James S Bullock and Coral Wheeler and TK Chan and Oliver D Elbert and Desika Narayanan",
+            "2018",
+            "RAGiAS0AAAAJ:0EnyYjriUFMC",
+            388,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/480\/1\/800\/5046474",
+            "11171461180462829378",
+            "\/scholar?cites=11171461180462829378",
+            {
+                "2017":2,
+                "2018":31,
+                "2019":141,
+                "2020":188,
+                "2021":26
+            }
+        ],
+        [
+            "We present the case for a dark matter detector with directional sensitivity. This document was developed at the 2009 CYGNUS workshop on directional dark matter detection, and contains contributions from theorists and experimental groups in the field. We describe the need for a dark matter detector with directional sensitivity; each directional dark matter experiment presents their project's status; and we close with a feasibility study for scaling up to a one ton directional detector, which would cost around $150M.",
+            "The case for a directional dark matter detector and the status of current experimental efforts",
+            "S Ahlen and N Afshordi and James BR Battat and J Billard and N Bozorgnia and S Burgos and T Caldwell and JM Carmona and S Cebrian and P Colas and T Dafni and E Daw and D Dujmic and A Dushkin and W Fedus and E Ferrer and D Finkbeiner and PH Fisher and J Forbes and T Fusayasu and J Galan and T Gamble and C Ghag and I Giomataris and M Gold and H Gomez and ME Gomez and P Gondolo and A Green and C Grignon and O Guillaudin and C Hagemann and K Hattori and S Henderson and N Higashi and C Ida and FJ Iguaz and A Inglis and IG Irastorza and S Iwaki and A Kaboth and S Kabuki and J Kadyk and N Kallivayalil and H Kubo and S Kurosawa and VA Kudryavtsev and T Lamy and R Lanza and TB Lawson and A Lee and ER Lee and T Lin and D Loomba and J Lopez and G Luzon and T Manobu and J Martoff and F Mayet and B McCluskey and E Miller and K Miuchi and J Monroe and B Morgan and D Muna and A St J Murphy and T Naka and K Nakamura and M Nakamura and T Nakano and GG Nicklin and H Nishimura and K Niwa and SM Paling and J Parker and A Petkov and M Pipe and K Pushkin and M Robinson and A Rodriguez and J Rodriguez-Quintero and T Sahin and R Sanderson and N Sanghi and D Santos and O Sato and T Sawano and G Sciolla and H Sekiya and TR Slatyer and DP Snowden-Ifft and NJC Spooner and A Sugiyama and A Takada and M Takahashi and A Takeda and T Tanimori and K Taniue and A Tomas and H Tomita and K Tsuchiya and J Turk and E Tziaferi and K Ueno and S Vahsen and R Vanderspek and J Vergados and JA Villar and H Wellenstein and I Wolfe and RK Yamamoto and H Yegoryan",
+            "2010",
+            "RAGiAS0AAAAJ:u5HHmVD_uO8C",
+            218,
+            "https:\/\/www.worldscientific.com\/doi\/abs\/10.1142\/S0217751X10048172",
+            "11536730441745666054",
+            "\/scholar?cites=11536730441745666054",
+            {
+                "2009":1,
+                "2010":23,
+                "2011":22,
+                "2012":51,
+                "2013":19,
+                "2014":22,
+                "2015":14,
+                "2016":21,
+                "2017":14,
+                "2018":7,
+                "2019":9,
+                "2020":11,
+                "2021":3
+            }
+        ]
+    ]
+}

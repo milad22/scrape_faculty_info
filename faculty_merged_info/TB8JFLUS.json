@@ -1,0 +1,40 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "TB8JFLUS",
+            "NFtzWMAAAAAJ",
+            [
+                "A New Generation of Brain-Computer Interface Based on Riemannian Geometry",
+                "The Riemannian Potato: an automatic and adaptive artifact detection method for online experiments using Riemannian geometry",
+                "Recreational Applications of OpenViBE: Brain Invaders and Use-the-Force",
+                "\"Brain Invaders 2\": an open source Plug & Play multi-user BCI videogame",
+                "Recommendations for Integrating a P300-Based Brain Computer Interface in Virtual Reality Environments for Gaming",
+                "The Impact of Passive Head-Mounted Virtual Reality Devices on the Quality of EEG Signals"
+            ],
+            [
+                "Based on the cumulated experience over the past 25 years in the field of Brain-Computer Interface (BCI) we can now envision a new generation of BCI. Such BCIs will not require training; instead they will be smartly initialized using remote massive databases and will adapt to the user fast and effectively in the first minute of use. They will be reliable, robust and will maintain good performances within and across sessions. A general classification framework based on recent advances in Riemannian geometry and possessing these characteristics is presented. It applies equally well to BCI based on event-related potentials (ERP), sensorimotor (mu) rhythms and steady-state evoked potential (SSEP). The framework is very simple, both algorithmically and computationally. Due to its simplicity, its ability to learn rapidly (with little training data) and its good across-subject and across-session generalization, this strategy a very good candidate for building a new generation of BCIs, thus we hereby propose it as a benchmark method for the field.",
+                "Artifacts management is a critical problem in any applications involving on-line processing of EEG signals. This paper presents a multivariate automatic and adaptive method for identifying artifacts in continuous EEG data.",
+                "This chapter aims at providing the reader with two examples of open-source BCI-games that work with the OpenViBE platform. These two games are \u201cBrain Invaders\u201d and \u201cUse-The-Force!\u201d and are representative examples of two types of BCI: ERP-based BCI and oscillatory activity-based BCI. This chapter presents the principle, design and evaluation of these games, as well as how they are implemented in practice within OpenViBE. This aims at providing the interested readers with a practical basis to design their own BCI-based games.",
+                "Introduction: In 2011 we proposed \u00ab Brain Invaders \u00bb [1], a BCI videogame inspired from the vintage game Space Invaders. The software was released open source and was compatible with OpenVIBE [2]. The system is based on ERP classification using the oddball paradigm with a grid of 36 possible targets. This second version extends the game to the multiuser scenario. It includes four game modes namely Solo, Collaboration, Cooperation, Competition which are suitable for hyperscanning studies. Thanks to a classification algorithm based on Riemannian geometry, the system shows very good accuracy and is fully \" Plug & Play \" , no calibration phase is needed.",
+                "The integration of a P300-based brain\u2013computer interface (BCI) into virtual reality (VR) environments is promising for the video games industry. However, it faces several limitations, mainly due to hardware constraints and constraints engendered by the stimulation needed by the BCI. The main limitation is still the low transfer rate that can be achieved by current BCI technology. The goal of this paper is to review current limitations and to provide application creators with design recommendations in order to overcome them. We also overview current VR and BCI commercial products in relation to the design of video games. An essential recommendation is to use the BCI only for non-complex and non-critical tasks in the game. Also, the BCI should be used to control actions that are naturally integrated into the virtual world. Finally, adventure and simulation games, especially if cooperative (multi-user) appear the best candidates for designing an effective VR game enriched by BCI technology. View Full-Text",
+                "Thanks to the low price, the use of a head-mounted device (HMD) equipped with a smartphone is currently a common setup for virtual reality (VR). Brain-computer interface (BCI) based on electroencephalography (EEG) is a promising technology to enrich the VR experience. However, the effect of using HMDs on the acquisition of EEG signals remains still unknown. In fact, the smartphone is placed close to the head where EEG sensors are located, thus the smartphone's electronics may perturb the acquisition of the EEG signal. In the present study, we compare the spectral properties of the EEG signal acquired on 12 subjects wearing a SamsungGear HMD equipped with a Samsung S6 smartphone turned on and off. Our study shows that there is no significant difference in the spectral properties of the EEG in these two experimental conditions. We conclude that a smartphone-based HMD is compatible with EEG technology. Some technical problems related to the concurrent use of a HMD and an EEG-based BCI are also discussed."
+            ],
+            [
+                [
+                    "BCI",
+                    "Virtual Reality"
+                ]
+            ]
+        ]
+    ]
+}

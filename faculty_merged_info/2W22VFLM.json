@@ -1,0 +1,34 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "2W22VFLM",
+            "_u_FJ34AAAAJ",
+            [
+                "SPT-3G: a next-generation cosmic microwave background polarization experiment on the South Pole telescope",
+                "Fabrication of large dual-polarized multichroic TES bolometer arrays for CMB measurements with the SPT-3G camera",
+                "Spt-3g: A multichroic receiver for the south pole telescope"
+            ],
+            [
+                "We describe the design of a new polarization sensitive receiver, spt-3g, for the 10-meter South Pole Telescope (spt). The spt-3g receiver will deliver a factor of ~20 improvement in mapping speed over the current receiver, spt-pol. The sensitivity of the spt-3g receiver will enable the advance from statistical detection of B-mode polarization anisotropy power to high signal-to-noise measurements of the individual modes, i.e., maps. This will lead to precise (~0.06 eV) constraints on the sum of neutrino masses with the potential to directly address the neutrino mass hierarchy. It will allow a separation of the lensing and inflationary B-mode power spectra, improving constraints on the amplitude and shape of the primordial signal, either through spt-3g data alone or in combination with bicep2\/keck, which is observing the same area of sky. The measurement of small-scale temperature anisotropy will provide new constraints \u2026",
+                "This work presents the procedures used at Argonne National Laboratory to fabricate large arrays of multichroic transition-edge sensor (TES) bolometers for cosmic microwave background (CMB) measurements. These detectors will be assembled into the focal plane for the SPT-3G camera, the third generation CMB camera to be installed in the South Pole Telescope. The complete SPT-3G camera will have approximately 2690 pixels, for a total of 16 140 TES bolometric detectors. Each pixel is comprised of a broad-band sinuous antenna coupled to a Nb microstrip line. In-line filters are used to define the different bands before the millimeter-wavelength signal is fed to the respective Ti\/Au TES bolometers. There are six TES bolometer detectors per pixel, which allow for measurements of three band-passes (95, 150 and 220 GHz) and two polarizations. The steps involved in the monolithic fabrication of these detector \u2026",
+                "A new receiver for the South Pole Telescope, SPT-3G, was deployed in early 2017 to map the cosmic microwave background at 95, 150, and 220 GHz with  16,000 detectors, 10 times more than its predecessor SPTpol. The increase in detector count is made possible by lenslet-coupled trichroic polarization-sensitive pixels fabricated at Argonne National Laboratory, new 68 frequency-domain multiplexing readout electronics, and a higher-throughput optical design. The enhanced sensitivity of SPT-3G will enable a wide range of results including constraints on primordial B-mode polarization, measurements of gravitational lensing of the CMB, and a galaxy cluster survey. Here we present an overview of the instrument and its science objectives, highlighting its measured performance and plans for the upcoming 2018 observing season."
+            ],
+            [
+                [
+                    "Cosmology",
+                    "instrumentation"
+                ]
+            ]
+        ]
+    ]
+}

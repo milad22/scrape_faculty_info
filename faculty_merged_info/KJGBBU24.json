@@ -1,0 +1,44 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "KJGBBU24",
+            "Bf2H108AAAAJ",
+            [
+                "Statistical properties of x-ray clusters: Analytic and numerical comparisons",
+                "ZEUS-2D: a radiation magnetohydrodynamics code for astrophysical flows in two space dimensions. I-The hydrodynamic algorithms and tests.",
+                "The formation of the first star in the universe",
+                "Baryons in the warm-hot intergalactic medium",
+                "yt: A multi-code analysis toolkit for astrophysical simulation data",
+                "The formation and fragmentation of primordial molecular clouds",
+                "Modelling primordial gas in numerical cosmology"
+            ],
+            [
+                "We compare the results of Eulerian hydrodynamic simulations of cluster formation against virial scaling relations between four bulk quantities: the cluster mass, the dark matter velocity dispersion, the gas temperature, and the cluster luminosity. The comparison is made for a large number of clusters at a range of redshifts in three different cosmological models (cold plus hot dark matter, cold dark matter, and open cold dark matter). We find that the analytic formulae provide a good description of the relations between three of the four numerical quantities. The fourth (luminosity) also agrees once we introduce a procedure to correct for the fixed numerical resolution. We also compute the normalizations for the virial relations and compare extensively to the existing literature, finding remarkably good agreement.",
+                "In this, the first ofa series ofthree papers, we begin a detailed description ofZEUS-2D, a numerical code for the",
+                "We describe results from a fully self-consistent three-dimensional hydrodynamical simulation of the formation of one of the first stars in the Universe. In current models of structure formation, dark matter initially dominates, and pregalactic objects form because of gravitational instability from small initial density perturbations. As they assemble via hierarchical merging, primordial gas cools through ro-vibrational lines of hydrogen molecules and sinks to the center of the dark matter potential well. The high-redshift analog of a molecular cloud is formed. As the dense, central parts of the cold gas cloud become self-gravitating, a dense core of \u223c100M\u2299 (whereM\u2299 is the mass of the Sun) undergoes rapid contraction. At particle number densities greater than 109 per cubic centimeter, a 1M\u2299 protostellar core becomes fully molecular as a result of three-body H2formation. Contrary to analytical expectations, this process does \u2026",
+                "Approximately 30%\u201340% of all baryons in the present\u2010day universe reside in a warm\u2010hot intergalactic medium (WHIM), with temperatures in the range   K. This is a generic prediction from six hydrodynamic simulations of currently favored structure formation models having a wide variety of numerical methods, input physics, volumes, and spatial resolutions. Most of these warm\u2010hot baryons reside in diffuse large\u2010scale structures with a median overdensity around 10\u201330, not in virialized objects such as galaxy groups or galactic halos. The evolution of the WHIM is primarily driven by shock heating from gravitational perturbations breaking on mildly nonlinear, nonequilibrium structures such as filaments. Supernova feedback energy and radiative cooling play lesser roles in its evolution. WHIM gas may be consistent with observations of the 0.25 keV X\u2010ray background without being significantly heated by \u2026",
+                "The analysis of complex multiphysics astrophysical simulations presents a unique and rapidly growing set of challenges: reproducibility, parallelization, and vast increases in data size and complexity chief among them. In order to meet these challenges, and in order to open up new avenues for collaboration between users of multiple simulation platforms, we present yt (available at http:\/\/yt. enzotools. org\/) an open source, community-developed astrophysical analysis and visualization toolkit. Analysis and visualization with yt are oriented around physically relevant quantities rather than quantities native to astrophysical simulation codes. While originally designed for handling Enzo's structure adaptive mesh refinement data, yt has been extended to work with several different simulation methods and simulation codes including Orion, RAMSES, and FLASH. We report on its methods for reading, handling, and \u2026",
+                "Many questions in physical cosmology regarding the thermal history of the intergalactic medium, chemical enrichment, reionization, etc., are thought to be intimately related to the nature and evolution of pregalactic structure. In particular, the efficiency of primordial star formation and the primordial initial mass function are of special interest. We present results from high\u2010resolution three\u2010dimensional adaptive mesh refinement simulations that follow the collapse of primordial molecular clouds and their subsequent fragmentation within a cosmologically representative volume. Comoving scales from 128 kpc down to 1 pc are followed accurately. Dark matter dynamics, hydrodynamics, and all relevant chemical and radiative processes (cooling) are followed self\u2010consistently for a cluster\u2010normalized cold dark matter (CDM) structure formation model. Primordial molecular clouds with \u223c105 solar masses are assembled by \u2026",
+                "We have reviewed the chemistry and cooling behaviour of low-density (n< 10^ 4 cm^-3) primordial gas and devised a cooling model wich involves 19 collisional and 9 radiative processes and is applicable for temperatures in the range (1 K< T< 10^ 8 K). We derived new fits of rate coefficients for the photo-attachment of neutral hydrogen, the formation of molecular hydrogen via H-, charge exchange between H2 and H+, electron detachment of H-by neutral hydrogen, dissociative recombination of H2 with slow electrons, photodissociation of H2+, and photodissociation of H2. Further it was found that the molecular hydrogen produced through the gas-phase processes, H2++ H-> H2+ H+, and H-+ H-> H2+ e-, is likely to be converted into its para configuration on a faster time scale than the formation time scale. We have tested the model extensively and shown it to agree well with former studies. We further studied the chemical kinetics in great detail and devised a minimal model which is substantially simpler than the full reaction network but predicts correct abundances. This minimal model shows convincingly that 12 collisional processes are sufficient to model the H, He, H+, H-, He+, He++, and H2 abundances in low density primordial gas for applications with no radiation fields."
+            ],
+            [
+                [
+                    "computational astrophysics",
+                    "cosmology",
+                    "supercomputing",
+                    "community codes"
+                ]
+            ]
+        ]
+    ]
+}

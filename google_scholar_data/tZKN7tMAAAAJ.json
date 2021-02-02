@@ -1,0 +1,79 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "tZKN7tMAAAAJ",
+            "Yang (Wendy) Zhang (\u5f20\u6768)",
+            "Department of Earth, Planetary, and Atmospheric Sciences, Purdue University",
+            "@purdue.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=tZKN7tMAAAAJ",
+            681,
+            [
+                "Paleomagnetics and magnetostratigraphy",
+                "Cyclostratigraphy",
+                "Sedimentology",
+                "Paleoclimate"
+            ],
+            644,
+            14,
+            14,
+            18,
+            18,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"TJUXKR0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"James Ogg",
+                    "affiliation":"Professor, Dept. Earth, Atmos. Planet. Sci., Purdue University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"NYUXDW0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mingsong Li",
+                    "affiliation":"Assistant Professor, Peking University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fQdXHj4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Linda Hinnov",
+                    "affiliation":"Professor, George Mason University"
+                }
+            ]
+        ]
+    ]
+}

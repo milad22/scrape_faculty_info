@@ -1,0 +1,150 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "0z9YvUcAAAAJ",
+            "Jocelyn Read",
+            "California State University Fullerton",
+            "@fullerton.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=0z9YvUcAAAAJ",
+            22129,
+            [
+                "astrophysics",
+                "neutron stars",
+                "gravitational waves"
+            ],
+            20303,
+            29,
+            28,
+            32,
+            30,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"htrZBGQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Benjamin D. Lackey",
+                    "affiliation":"Princeton University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"5wOIImMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ryan N. Lang",
+                    "affiliation":"Fortner Fellow, University of Illinois"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"DPxLTGgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Joshua R. Smith",
+                    "affiliation":"Professor of Physics, California State University Fullerton"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"X86jkiMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Bruno Giacomazzo",
+                    "affiliation":"Associate Professor, University of Milano-Bicocca"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"EWgF9qwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Chris Messenger",
+                    "affiliation":"Glasgow University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"YGYaa6wAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Paolo Pani",
+                    "affiliation":"Associate Professor, Sapienza University of Rome"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"uurxA2QAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Emanuele Berti",
+                    "affiliation":"Johns Hopkins University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Xh4alH0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ruxandra Bondarescu",
+                    "affiliation":"Institute for Theoretical Physics, University of Zurich"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"WeS4JN4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David Tsang",
+                    "affiliation":"Lecturer, Department of Physics, University of Bath"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "BPZG2W7D",
+            "pnVpHL0AAAAJ",
+            [
+                "Classical solutions of 2-dimensional string theory",
+                "The role of chromosomal instability in tumor initiation",
+                "Distributions of singular values for some random matrices",
+                "MIMO capacity through correlated channels in the presence of correlated interferers and noise: A (not so) large N analysis",
+                "Communication through a diffusive medium: Coherence and capacity",
+                "A biophysical approach to transcription factor binding site discovery",
+                "Mutation\u2013selection networks of cancer initiation: tumor suppressor genes and chromosomal instability",
+                "Non-Fermi-liquid behavior near a T= 0 spin-glass transition",
+                "SOPRA: Scaffolding algorithm for paired reads via statistical optimization",
+                "Overscreened multichannel SU (N) Kondo model: Large-N solution and conformal field theory"
+            ],
+            [
+                "We present an exact one-parameter family of solutions to the classical graviton-dilaton system in two dimensions. The solution can be identified as a black hole. We present the solution both in a Schwarzschild-like gauge and in the target space conformal gauge. We discuss possible relations with matrix models.",
+                "Chromosomal instability (CIN) is a defining characteristic of most human cancers. Mutation of CIN genes increases the probability that whole chromosomes or large fractions of chromosomes are gained or lost during cell division. The consequence of CIN is an imbalance in the number of chromosomes per cell (aneuploidy) and an enhanced rate of loss of heterozygosity. A major question of cancer genetics is to what extent CIN, or any genetic instability, is an early event and consequently a driving force for tumor progression. In this article, we develop a mathematical framework for studying the effect of CIN on the somatic evolution of cancer. Specifically, we calculate the conditions for CIN to initiate the process of colorectal tumorigenesis before the inactivation of tumor suppressor genes.",
+                "The singular value decomposition is a matrix decomposition technique widely used in the analysis of multivariate data, such as complex space-time images obtained in both physical and biological systems. In this paper, we examine the distribution of singular values of low-rank matrices corrupted by additive noise. Past studies have been limited to uniform uncorrelated noise. Using diagrammatic and saddle point integration techniques, we extend these results to heterogeneous and correlated noise sources. We also provide perturbative estimates of error bars on the reconstructed low-rank matrix obtained by truncating a singular value decomposition.",
+                "The use of multiple-antenna arrays in both transmission and reception promises huge increases in the throughput of wireless communication systems. It is therefore important to analyze the capacities of such systems in realistic situations, which may include spatially correlated channels and correlated noise, as well as correlated interferers with known channel at the receiver. Here, we present an approach that provides analytic expressions for the statistics, i.e., the moments of the distribution, of the mutual information of multiple-antenna systems with arbitrary correlations, interferers, and noise. We assume that the channels of the signal and the interference are Gaussian with arbitrary covariance. Although this method is valid formally for large antenna numbers, it produces extremely accurate results even for arrays with as few as two or three antennas. We also develop a method to analytically optimize over the input \u2026",
+                "Coherent wave propagation in disordered media gives rise to many fascinating phenomena as diverse as universal conductance fluctuations in mesoscopic metals and speckle patterns in light scattering. Here, the theory of electromagnetic wave propagation in diffusive media is combined with information theory to show how interference affects the information transmission rate between antenna arrays. Nontrivial dependencies of the information capacity on the nature of the antenna arrays are found, such as the dimensionality of the arrays and their direction with respect to the local scattering medium. This approach provides a physical picture for understanding the importance of scattering in the transfer of information through wireless communications.",
+                "Identification of transcription factor binding sites within regulatory segments of genomic DNA is an important step toward understanding of the regulatory circuits that control expression of genes. Here, we describe a novel bioinformatics method that bases classification of potential binding sites explicitly on the estimate of sequence-specific binding energy of a given transcription factor. The method also estimates the chemical potential of the factor that defines the threshold of binding. In contrast with the widely used information-theoretic weight matrix method, the new approach correctly describes saturation in the transcription factor\/DNA binding probability. This results in a significant improvement in the number of expected false positives, particularly in the ubiquitous case of low-specificity factors. In the strong binding limit, the algorithm is related to the \u201csupport vector machine\u201d approach to pattern recognition. The \u2026",
+                "In this paper, we derive analytic solutions of stochastic mutation\u2013selection networks that describe early events of cancer formation. A main assumption is that cancer is initiated in tissue compartments, where only a relatively small number of cells are at risk of mutating into cells that escape from homeostatic regulation. In this case, the evolutionary dynamics can be approximated by a low-dimensional stochastic process with a linear Kolmogorov forward equation that can be solved analytically. Most of the time, the cell population is homogeneous with respect to relevant mutations. Occasionally, such homogeneous states are connected by \u2018stochastic tunnels\u2019. We give a precise analysis of the existence of tunnels and calculate the rate of tunneling. Finally, we calculate the conditions for chromosomal instability (CIN) to precede inactivation of the first tumor suppressor gene. In this case, CIN is an early event and a \u2026",
+                "We study the competition between the Kondo effect and Ruderman-Kittel-Kasuya-Yosida interactions near the zero-temperature quantum critical point of an Ising-like metallic spin glass. We consider the mean-field behavior of various physical quantities. In the \u2018\u2018quantum-critical regime\u2019\u2019nonanalytic corrections to the Fermi-liquid behavior are found for the specific heat and uniform static susceptibility, while the resistivity and NMR relaxation rate have a non-Fermi-liquid dependence on temperature.",
+                "High throughput sequencing (HTS) platforms produce gigabases of short read (<100 bp) data per run. While these short reads are adequate for resequencing applications, de novo assembly of moderate size genomes from such reads remains a significant challenge. These limitations could be partially overcome by utilizing mate pair technology, which provides pairs of short reads separated by a known distance along the genome. We have developed SOPRA, a tool designed to exploit the mate pair\/paired-end information for assembly of short reads. The main focus of the algorithm is selecting a sufficiently large subset of simultaneously satisfiable mate pair constraints to achieve a balance between the size and the quality of the output scaffolds. Scaffold assembly is presented as an optimization problem for variables associated with vertices and with edges of the contig connectivity graph. Vertices of this graph are \u2026",
+                "The multichannel Kondo model with SU (N) spin symmetry and SU (K) channel symmetry is considered. The impurity spin is chosen to transform as an antisymmetric representation of SU (N), corresponding to a fixed number of Abrikosov fermions\u2211 \u03b1 f \u03b1\u2020 f \u03b1= Q. For more than one channel (K> 1), and all values of N and Q, the model displays non-Fermi behavior associated with the overscreening of the impurity spin. Universal low-temperature thermodynamic and transport properties of this non-Fermi-liquid state are computed using conformal field theory methods. A large-N limit of the model is then considered, in which K\/N\u2261 \u03b3 and Q\/N\u2261 q 0 are held fixed. Spectral densities satisfy coupled integral equations in this limit, corresponding to a (time-dependent) saddle point. A low-frequency, low-temperature analysis of these equations reveals universal scaling properties in the variable \u03c9\/T, in agreement with \u2026"
+            ],
+            [
+                [
+                    "Biological Physics",
+                    "Systems Neuroscience",
+                    "Systems Biology",
+                    "Gene Regulation",
+                    "Chromatin"
+                ]
+            ]
+        ]
+    ]
+}

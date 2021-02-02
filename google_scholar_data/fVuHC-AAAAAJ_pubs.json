@@ -1,0 +1,189 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "This work explores the mathematical properties of a distribution introduced by Basu & Jones , and applies it to model the stellar initial mass function (IMF). The distribution arises simply from an initial lognormal distribution, requiring that each object in it subsequently undergoes exponential growth but with an exponential distribution of growth lifetimes. This leads to a modified lognormal with a power-law (MLP) distribution, which can in fact be applied to a wide range of fields where distributions are observed to have a lognormal-like body and a power-law tail. We derive important properties of the MLP distribution, like the cumulative distribution, the mean, variance, arbitrary raw moments, and a random number generator. These analytic properties of the distribution can be used to facilitate application to modelling the IMF. We demonstrate how the MLP function provides an excellent fit to the IMF compiled by \u2026",
+            "The MLP distribution: a modified lognormal power-law model for the stellar initial mass function",
+            "Shantanu Basu and M Gil and Sayantan Auddy",
+            "2015",
+            "fVuHC-AAAAAJ:u5HHmVD_uO8C",
+            24,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/449\/3\/2413\/1122846",
+            "15782089704624637565",
+            "\/scholar?cites=15782089704624637565",
+            {
+                "2015":1,
+                "2016":4,
+                "2017":4,
+                "2018":6,
+                "2019":3,
+                "2020":5,
+                "2021":1
+            }
+        ],
+        [
+            "We develop a magnetic ribbon model for molecular cloud filaments. These result from turbulent compression in a molecular cloud in which the background magnetic field sets a preferred direction. We argue that this is a natural model for filaments and is based on the interplay between turbulence, strong magnetic fields, and gravitationally driven ambipolar diffusion, rather than pure gravity and thermal pressure. An analytic model for the formation of magnetic ribbons that is based on numerical simulations is used to derive a lateral width of a magnetic ribbon. This differs from the thickness along the magnetic field direction, which is essentially the Jeans scale. We use our model to calculate a synthetic observed relation between apparent width in projection versus observed column density. The relationship is relatively flat, similar to observations, and unlike the simple expectation based on a Jeans length argument.",
+            "A Magnetic Ribbon Model for Star-Forming Filaments",
+            "Sayantan Auddy and Shantanu Basu and Takahiro Kudoh",
+            "2016",
+            "fVuHC-AAAAAJ:u-x6o8ySG0sC",
+            21,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/0004-637X\/831\/1\/46\/meta",
+            "4624910147277713108",
+            "\/scholar?cites=4624910147277713108",
+            {
+                "2017":6,
+                "2018":4,
+                "2019":6,
+                "2020":4,
+                "2021":1
+            }
+        ],
+        [
+            "A model of magnetic field structure is presented to help test the prevalence of flux freezing in star-forming clouds of various shapes, orientations, and degrees of central concentration, and to estimate their magnetic field strength. The model is based on weak-field flux freezing in centrally condensed Plummer spheres and spheroids of oblate and prolate shape. For a spheroid of given density contrast, aspect ratio, and inclination, the model estimates the local field strength and direction, and the global field pattern of hourglass shape. Comparisons with a polarization simulation indicate typical angle agreement within 1\u201310. Scalable analytic expressions are given to match observed polarization patterns and to provide inputs to radiative transfer codes for more accurate predictions. The model may apply to polarization observations of dense cores, elongated filamentary clouds, and magnetized circumstellar disks.",
+            "Magnetic Field Structure in Spheroidal Star-forming Clouds",
+            "Philip C Myers and Shantanu Basu and Sayantan Auddy",
+            "2018",
+            "fVuHC-AAAAAJ:Y0pCki6q_DkC",
+            11,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/1538-4357\/aae695\/meta",
+            "14522838174829353605",
+            "\/scholar?cites=14522838174829353605",
+            {
+                "2019":2,
+                "2020":9
+            }
+        ],
+        [
+            "We present the analytic theory of brown dwarf evolution and the lower mass limit of the hydrogen burning main-sequence stars and introduce some modifications to the existing models. We give an exact expression for the pressure of an ideal nonrelativistic Fermi gas at a finite temperature, therefore allowing for nonzero values of the degeneracy parameter. We review the derivation of surface luminosity using an entropy matching condition and the first-order phase transition between the molecular hydrogen in the outer envelope and the partially ionized hydrogen in the inner region. We also discuss the results of modern simulations of the plasma phase transition, which illustrate the uncertainties in determining its critical temperature. Based on the existing models and with some simple modification, we find the maximum mass for a brown dwarf to be in the range . An analytic formula for the luminosity evolution allows us to estimate the time period of the nonsteady state (i.e., non-main-sequence) nuclear burning for substellar objects. We also calculate the evolution of very low mass stars. We estimate that \u224311% of stars take longer than \u2009yr to reach the main sequence, and \u22435% of stars take longer than \u2009yr.",
+            "Analytic Models of Brown Dwarfs and the Substellar Mass Limit",
+            "Sayantan Auddy and Shantanu Basu and SR Valluri",
+            "2016",
+            "fVuHC-AAAAAJ:9yKSN-GCB0IC",
+            11,
+            "https:\/\/www.hindawi.com\/journals\/aa\/2016\/5743272\/abs\/",
+            "12927837055335443769",
+            "\/scholar?cites=12927837055335443769",
+            {
+                "2017":3,
+                "2018":1,
+                "2019":4,
+                "2020":3
+            }
+        ],
+        [
+            "We develop a new\" core field structure\"(CFS) model to predict the magnetic field strength and magnetic field fluctuation profile of dense cores using gas kinematics. We use spatially resolved observations of the nonthermal velocity dispersion from the Green Bank Ammonia survey along with column density maps from SCUBA-2 to estimate the magnetic field strength across seven dense cores located in the L1688 region of Ophiuchus. The CFS model predicts the profile of the relative field fluctuation, which is related to the observable dispersion in the direction of the polarization vectors. Within the context of our model, we find that all of the cores have a transcritical mass-to-flux ratio.",
+            "Magnetic Field Structure of Dense Cores Using Spectroscopic Methods",
+            "Sayantan Auddy and Philip C Myers and Shantanu Basu and Jorma Harju and Jaime E Pineda and Rachel K Friesen",
+            "2019",
+            "fVuHC-AAAAAJ:Tyk-4Ss8FVUC",
+            9,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/1538-4357\/ab0086\/meta",
+            "10262195413316422046",
+            "\/scholar?cites=10262195413316422046",
+            {
+                "2019":7,
+                "2020":1,
+                "2021":1
+            }
+        ],
+        [
+            "Simulations generally show that non-self-gravitating clouds have a lognormal column density (\u03a3) probability distribution function (PDF), while self-gravitating clouds with active star formation develop a distinct power-law tail at high column density. Although the growth of the power-law can be attributed to gravitational contraction leading to the formation of condensed cores, it is often debated if an observed lognormal shape is a direct consequence of supersonic turbulence alone, or even if it is really observed in molecular clouds. In this paper we run three-dimensional magnetohydrodynamic simulations including ambipolar diffusion with different initial conditions to see the effect of strong magnetic fields and non-linear initial velocity perturbations on the evolution of the column density PDFs. Our simulations show that column density PDFs of clouds with supercritical mass-to-flux ratio, with either linear perturbations or \u2026",
+            "The effect of magnetic fields and ambipolar diffusion on the column density probability distribution function in molecular clouds",
+            "Sayantan Auddy and Shantanu Basu and Takahiro Kudoh",
+            "2017",
+            "fVuHC-AAAAAJ:UeHWp8X0CEIC",
+            8,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/474\/1\/400\/4563623",
+            "3985715130667514612",
+            "\/scholar?cites=3985715130667514612",
+            {
+                "2017":1,
+                "2018":4,
+                "2019":2,
+                "2020":1
+            }
+        ],
+        [
+            "This paper calculates the expected gravitational wave background (GWB) in the quasi-steady state cosmology (QSSC). The principal sources of gravitational waves in the QSSC are the mini-creation events (MCE). With suitable assumptions the GWB can be computed both numerically and with analytical methods. It is argued that the GWB in QSSC differs from that predicted for the standard cosmology and a future technology of detectors will be able to decide between the two predictions. We also derive a formula for the flux density of a typical extragalactic source of gravitational waves.",
+            "Gravitational wave background in the quasi-steady state cosmology",
+            "JV Narlikar and SV Dhurandhar and RG Vishwakarma and SR Valluri and Sayantan Auddy",
+            "2015",
+            "fVuHC-AAAAAJ:d1gkVwhDpl0C",
+            6,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/451\/2\/1390\/1749169",
+            "1296996872983967577",
+            "\/scholar?cites=1296996872983967577",
+            {
+                "2018":2,
+                "2019":2,
+                "2020":2
+            }
+        ],
+        [
+            "We analyse the spectrum of the Hamiltonian of a photon propagating in a strong magnetic field B \u223c Bcr, where  G is the Schwinger critical field. We show that the anomalous magnetic moment of a photon in the one-loop approximation is a non-decreasing function of the magnetic field B in the range 0 \u2264 B \u2264 30\u2009Bcr. We provide a numerical representation of the expression for the anomalous magnetic moment in terms of special functions. We find that the anomalous magnetic moment \u03bc\u03b3 of a photon for B = 30\u2009Bcr is 8\/3 of the anomalous magnetic moment of a photon for B = 1\/2Bcr. Based on the recent observational evidence for vacuum birefringence from the neutron star RX J1856.5\u22123764 by Mignani et al., we suggest vacuum birefringence, the anomalous magnetic moment of the photon and the Faraday rotation angle as key observables for future experiments and measurements.",
+            "Vacuum birefringence, the photon anomalous magnetic moment and the neutron star RX J1856. 5\u2212 3754",
+            "SR Valluri and JW Mielniczuk and F Chishtie and D Lamm and S Auddy",
+            "2017",
+            "fVuHC-AAAAAJ:qjMakFHDy7sC",
+            3,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/472\/2\/2398\/4083627",
+            "13347632100117157352",
+            "\/scholar?cites=13347632100117157352",
+            {
+                "2020":3
+            }
+        ],
+        [
+            "Observations of bright protoplanetary disks often show annular gaps in their dust emission. One interpretation of these gaps is disk\u2013planet interaction. If so, fitting models of planetary gaps to observed protoplanetary disk gaps can reveal the presence of hidden planets. However, future surveys are expected to produce an ever-increasing number of protoplanetary disks with gaps. In this case, performing a customized fitting for each target becomes impractical owing to the complexity of disk\u2013planet interaction. To this end, we introduce Disk Planet Neural Network (DPNNet), an efficient model of planetary gaps by exploiting the power of machine learning. We train a deep neural network with a large number of dusty disk\u2013planet hydrodynamic simulations across a range of planet masses, disk temperatures, disk viscosities, disk surface density profiles, particle Stokes numbers, and dust abundances. The network can \u2026",
+            "A Machine Learning model to infer planet masses from gaps observed in protoplanetary disks",
+            "Sayantan Auddy and Min-Kai Lin",
+            "2020",
+            "fVuHC-AAAAAJ:ufrVoPGSRksC",
+            1,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/1538-4357\/aba95d\/meta",
+            "15218076744201279583",
+            "\/scholar?cites=15218076744201279583",
+            {
+                "2020":1
+            }
+        ],
+        [
+            "This paper presents models to estimate the structure of density and magnetic field strength in spheroidal condensations from maps of their column density and their polarization of magnetically aligned dust grains. The density model is obtained by fitting a column density map with an embedded p= 2 Plummer spheroid of any aspect ratio and inclination. The magnetic properties are based on the density model, the Davis\u2013Chandrasekhar\u2013Fermi (DCF) model of Alfv\u00e9nic fluctuations, and the spheroid flux freezing (SFF) model of mass and flux conservation in Paper I. The field strength model has the resolution of the column density map, which is finer than the resolution of the DCF estimate of field strength. The models are applied to ALMA observations of the envelope of the protostar BHR 71 IRS1. Column density fits give the density model from (2.0\u00b10.4)\u00d7 10 5 to (7\u00b11)\u00d7 10 7 cm\u2212 3. The density model predicts the field \u2026",
+            "Magnetic Field Structure in Spheroidal Star-Forming Clouds. II. Estimating Field Structure from Observed Maps",
+            "Philip C Myers and Ian W Stephens and Sayantan Auddy and Shantanu Basu and Tyler L Bourke and Charles LH Hull",
+            "2020",
+            "fVuHC-AAAAAJ:WF5omc3nYNoC",
+            1,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/1538-4357\/ab9110\/meta",
+            "13502011036520801053",
+            "\/scholar?cites=13502011036520801053",
+            {
+                "2020":1
+            }
+        ]
+    ]
+}

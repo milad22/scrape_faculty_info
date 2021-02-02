@@ -1,0 +1,41 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "4KQPJH5D",
+            "cGlRoOAAAAAJ",
+            [
+                "Existence of a photonic gap in periodic dielectric structures",
+                "A three-dimensional photonic crystal operating at infrared wavelengths",
+                "Molecular geometry optimization with a genetic algorithm",
+                "Photonic band gaps in three dimensions: new layer-by-layer periodic structures",
+                "A transferable tight-binding potential for carbon",
+                "Deaths of children during an outbreak of hand, foot, and mouth disease in Sarawak, Malaysia: clinical and pathological characteristics of the disease",
+                "All-metallic three-dimensional photonic crystals with a large infrared bandgap"
+            ],
+            [
+                "Using a plane-wave expansion method, we have solved Maxwell\u2019s equations for the propagation of electromagnetic waves in a periodic lattice of dielectric spheres (dielectric constant \u03b5 a) in a uniform dielectric background (\u03b5 b). Contrary to experiment, we find that fcc dielectric structures do not have a \u2018\u2018photonic band gap\u2019\u2019that extends throughout the Brillouin zone. However, we have determined that dielectric spheres arranged in the diamond structure do possess a full photonic band gap. This gap exists for refractive-index contrasts as low as 2.",
+                "The ability to confine and control light in three dimensions would have important implications for quantum optics and quantum-optical devices: the modification of black-body radiation, the localization of light to a fraction of a cubic wavelength, and thus the realization of single-mode light-emitting diodes, are but a few examples 1, 2, 3. Photonic crystals\u2014the optical analogues of electronic crystal\u2014provide a means for achieving these goals. Combinations of metallic and dielectric materials can be used to obtain the required three-dimensional periodic variations in dielectric constant, but dissipation due to free carrier absorption will limit application of such structures at the technologically useful infrared wavelengths 4. On the other hand, three-dimensional photonic crystals fabricated in low-loss gallium arsenide show only a weak \u2018stop band\u2019(that is, range of frequencies at which propagation of light is forbidden) at the \u2026",
+                "We present a method for reliably determining the lowest energy structure of an atomic cluster in an arbitrary model potential. The method is based on a genetic algorithm, which operates on a population of candidate structures to produce new candidates with lower energies. Our method dramatically outperforms simulated annealing, which we demonstrate by applying the genetic algorithm to a tight-binding model potential for carbon. With this potential, the algorithm efficiently finds fullerene cluster structures up to C 60 starting from random atomic coordinates.",
+                "A new three-dimensional (3D) periodic dielectric structure constructed with layers of dielectric rods of circular, elliptical, or rectangular shape is introduced. This new structure possesses a full photonic band gap of appreciable frequency width. At midgap, an attenuation of 21 dB per unit cell is obtained. This gap remains open for refractive indices n \u2265 1.9. Furthermore, this new 3D layer structure potentially has the additional advantage that it can be easily fabricated using conventional microfabrication techniques on the scale of optical wavelengths.",
+                "An interatomic potential for carbon is developed that is based on an empirical tight-binding approach. The model reproduces accurately the energy-versus-volume diagram of carbon polytypes and gives a good description of the phonons and elastic constants for carbon in the diamond and graphite structures. To test the transferability of the model to different environments further, the authors performed molecular-dynamics simulations to study the liquid phase and the properties of small carbon microclusters. The results obtained are in good agreement with those obtained from ab initio calculations.",
+                "From April through June 1997, 29 previously healthy children aged <6 years (median, 1.5 years) in Sarawak, Malaysia, died of rapidly progressive cardiorespiratory failure during an outbreak of hand, foot, and mouth disease caused primarily by enterovirus 71 (EV71). The case children were hospitalized after a short illness (median duration, 2 days) that usually included fever (in 100% of case children), oral ulcers (66%), and extremity rashes (62%). The illness rapidly progressed to include seizures (28%), flaccid limb weakness (17%), or cardiopulmonary symptoms (of 24 children, 17 had chest radiographs showing pulmonary edema, and 24 had echocardiograms showing left ventricular dysfunction), resulting in cardiopulmonary arrest soon after hospitalization (median time, 9 h). Cardiac tissue from 10 patients showed normal myocardium, but central nervous system tissue from 5 patients showed \u2026",
+                "Three-dimensional (3D) metallic crystals are promising photonic bandgap 1, 2, 3 structures: they can possess a large bandgap 4, 5, 6, new electromagnetic phenomena can be explored 7, 8, 9, and high-temperature (above 1,000 C) applications may be possible. However, investigation of their photonic bandgap properties is challenging, especially in the infrared and visible spectrum, as metals are dispersive and absorbing in these regions 10. Studies of metallic photonic crystals have therefore mainly concentrated on microwave and millimetre wavelengths 8, 11, 12. Difficulties in fabricating 3D metallic crystals present another challenge, although emerging techniques such as self-assembly 13, 14 may help to resolve these problems. Here we report measurements and simulations of a 3D tungsten crystal that has a large photonic bandgap at infrared wavelengths (from about 8 to 20 \u00b5m). A very strong attenuation \u2026"
+            ],
+            [
+                [
+                    "Condensed Matter"
+                ]
+            ]
+        ]
+    ]
+}

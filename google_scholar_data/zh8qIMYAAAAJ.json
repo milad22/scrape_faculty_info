@@ -1,0 +1,88 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "zh8qIMYAAAAJ",
+            "Emil Yuzbashyan",
+            "Rutgers University",
+            "@physics.rutgers.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=zh8qIMYAAAAJ",
+            2410,
+            [
+                "Condensed Matter Theory"
+            ],
+            1210,
+            27,
+            17,
+            36,
+            29,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"dGtsZZoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Pascal Silberzan",
+                    "affiliation":"Institut Curie"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"hY72m2IAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Aniket Patra",
+                    "affiliation":"Postdoc, Max Planck Institute for the Physics of Complex Systems"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"JxPULUkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Subroto Mukerjee",
+                    "affiliation":"Indian Institute of Science"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"_c95yIIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Pietro Smacchia",
+                    "affiliation":"Postdoctoral associate, Rutgers university"
+                }
+            ]
+        ]
+    ]
+}

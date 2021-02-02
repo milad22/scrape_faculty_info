@@ -1,0 +1,221 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "The application of topology in optics has led to a new paradigm in developing photonic devices with robust properties against disorder. Although considerable progress on topological phenomena has been achieved in the classical domain, the realization of strong light-matter coupling in the quantum domain remains unexplored. We demonstrate a strong interface between single quantum emitters and topological photonic states. Our approach creates robust counterpropagating edge states at the boundary of two distinct topological photonic crystals. We demonstrate the chiral emission of a quantum emitter into these modes and establish their robustness against sharp bends. This approach may enable the development of quantum optics devices with built-in protection, with potential applications in quantum simulation and sensing.",
+            "A topological quantum optics interface",
+            "Sabyasachi Barik and Aziz Karasahin and Christopher Flower and Tao Cai and Hirokazu Miyake and Wade DeGottardi and Mohammad Hafezi and Edo Waks",
+            "2018",
+            "WKpMkmkAAAAJ:ULOm3_A8WrAC",
+            261,
+            "https:\/\/science.sciencemag.org\/content\/359\/6376\/666.abstract",
+            "7111499179268896094",
+            "\/scholar?cites=7111499179268896094",
+            {
+                "2018":28,
+                "2019":84,
+                "2020":131,
+                "2021":18
+            }
+        ],
+        [
+            "We present a unified study of the effect of periodic, quasiperiodic, and disordered potentials on topological phases that are characterized by Majorana end modes in one-dimensional p-wave superconducting systems. We define a topological invariant derived from the equations of motion for Majorana modes and, as our first application, employ it to characterize the phase diagram for simple periodic structures. Our general result is a relation between the topological invariant and the normal state localization length. This link allows us to leverage the considerable literature on localization physics and obtain the topological phase diagrams and their salient features for quasiperiodic and disordered systems for the entire region of parameter space.",
+            "Majorana fermions in superconducting 1D systems having periodic, quasiperiodic, and disordered potentials",
+            "Wade DeGottardi and Diptiman Sen and Smitha Vishveshwara",
+            "2013",
+            "WKpMkmkAAAAJ:d1gkVwhDpl0C",
+            150,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.110.146404",
+            "13420903401039335916",
+            "\/scholar?cites=13420903401039335916",
+            {
+                "2013":10,
+                "2014":13,
+                "2015":11,
+                "2016":22,
+                "2017":22,
+                "2018":29,
+                "2019":16,
+                "2020":24,
+                "2021":3
+            }
+        ],
+        [
+            "We present a comprehensive study of two of the most experimentally relevant extensions of Kitaev's spinless model of a one-dimensional p-wave superconductor: those involving (i) longer-range hopping and superconductivity and (ii) inhomogeneous potentials. We commence with a pedagogical review of the spinless model and, as a means of characterizing topological phases exhibited by the systems studied here, we introduce bulk topological invariants as well as those derived from an explicit consideration of boundary modes. In time-reversal symmetric systems, we find that the longer range hopping leads to topological phases characterized by multiple Majorana modes. In particular, we investigate a spin model that respects a duality and maps to a fermionic model with multiple Majorana modes; we highlight the connection between these topological phases and the broken symmetry phases in the original spin \u2026",
+            "Majorana fermions in superconducting wires: Effects of long-range hopping, broken time-reversal symmetry, and potential landscapes",
+            "Wade DeGottardi and Manisha Thakurathi and Smitha Vishveshwara and Diptiman Sen",
+            "2013",
+            "WKpMkmkAAAAJ:Y0pCki6q_DkC",
+            135,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.88.165111",
+            "8098777452708395125",
+            "\/scholar?cites=8098777452708395125",
+            {
+                "2013":2,
+                "2014":8,
+                "2015":11,
+                "2016":12,
+                "2017":26,
+                "2018":33,
+                "2019":22,
+                "2020":19,
+                "2021":2
+            }
+        ],
+        [
+            "We present an all-dielectric photonic crystal structure that supports two-dimensionally confined helical topological edge states. The topological properties of the system are controlled by the crystal parameters. An interface between two regions of differing band topologies gives rise to topological edge states confined in a dielectric slab that propagate around sharp corners without backscattering. Three-dimensional finite-difference time-domain calculations show these edges to be confined in the out-of-plane direction by total internal reflection. Such nanoscale photonic crystal architectures could enable strong interactions between photonic edge states and quantum emitters.",
+            "Two-dimensionally confined topological edge states in photonic crystals",
+            "Sabyasachi Barik and Hirokazu Miyake and Wade DeGottardi and Edo Waks and Mohammad Hafezi",
+            "2016",
+            "WKpMkmkAAAAJ:UebtZRa9Y70C",
+            127,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/1367-2630\/18\/11\/113013\/meta",
+            "3063967289520420150",
+            "\/scholar?cites=3063967289520420150",
+            {
+                "2016":2,
+                "2017":18,
+                "2018":25,
+                "2019":36,
+                "2020":41,
+                "2021":5
+            }
+        ],
+        [
+            "We explore the salient features of the'Kitaev ladder', a two-legged ladder version of the spin-1\/2 Kitaev model on a honeycomb lattice, by mapping it to a one-dimensional fermionic p-wave superconducting system. We examine the connections between spin phases and topologically non-trivial phases of non-interacting fermionic systems, demonstrating the equivalence between the spontaneous breaking of global Z 2 symmetry in spin systems and the existence of isolated Majorana modes. In the Kitaev ladder, we investigate topological properties of the system in different sectors characterized by the presence or absence of a vortex in each plaquette of the ladder. We show that vortex patterns can yield a rich parameter space for tuning into topologically non-trivial phases. We introduce and employ a new topological invariant for explicitly determining the presence of zero energy Majorana modes at the boundaries \u2026",
+            "Topological phases, Majorana modes and quench dynamics in a spin ladder system",
+            "Wade DeGottardi and Diptiman Sen and Smitha Vishveshwara",
+            "2011",
+            "WKpMkmkAAAAJ:u5HHmVD_uO8C",
+            116,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/1367-2630\/13\/6\/065028\/meta",
+            "7016876421002760206",
+            "\/scholar?cites=7016876421002760206",
+            {
+                "2011":1,
+                "2012":10,
+                "2013":15,
+                "2014":15,
+                "2015":10,
+                "2016":12,
+                "2017":17,
+                "2018":13,
+                "2019":10,
+                "2020":12,
+                "2021":1
+            }
+        ],
+        [
+            "Engineering phonon transport in physical systems is a subject of interest in the study of materials, and has a crucial role in controlling energy and heat transfer. Of particular interest are non-reciprocal phononic systems, which in direct analogy to electric diodes, provide a directional flow of energy. Here, we propose an engineered nanostructured material, in which tunable non-reciprocal phonon transport is achieved through optomechanical coupling. Our scheme relies on breaking time-reversal symmetry by a spatially varying laser drive, which manipulates low-energy acoustic phonons. Furthermore, we take advantage of developments in the manipulation of high-energy phonons through controlled scattering mechanisms, such as using alloys and introducing disorder. These combined approaches allow us to design an acoustic isolator and a thermal diode. Our proposed device will have potential impact in \u2026",
+            "Thermal management and non-reciprocal control of phonon flow via optomechanics",
+            "Alireza Seif and Wade DeGottardi and Keivan Esfarjani and Mohammad Hafezi",
+            "2018",
+            "WKpMkmkAAAAJ:KlAtU1dfN6UC",
+            33,
+            "https:\/\/www.nature.com\/articles\/s41467-018-03624-y",
+            "9308807608654710116",
+            "\/scholar?cites=9308807608654710116",
+            {
+                "2018":5,
+                "2019":16,
+                "2020":12
+            }
+        ],
+        [
+            "Motivated by recent experimental realizations of topological edge states in Su-Schrieffer-Heeger (SSH) chains, we theoretically study a ladder system whose legs are comprised of two such chains. We show that the ladder hosts a rich phase diagram and related edge-mode structure dictated by choice of interchain and intrachain couplings. Namely, we exhibit three distinct physical regimes: a topological hosting localized zero-energy edge modes, a topologically trivial phase having no edge-mode structure, and a regime reminiscent of a weak topological insulator having unprotected edge modes resembling a twin-SSH construction. In the topological phase, the SSH ladder system acts as an analog of the Kitaev chain, which is known to support localized Majorana fermion end modes, with the difference that bound states of the SSH ladder having the same spatial wave-function profiles correspond to Dirac fermion \u2026",
+            "Topological phases, edge modes, and the Hofstadter butterfly in coupled Su-Schrieffer-Heeger systems",
+            "Karmela Padavi\u0107 and Suraj S Hegde and Wade DeGottardi and Smitha Vishveshwara",
+            "2018",
+            "WKpMkmkAAAAJ:4TOpqqG69KYC",
+            17,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.98.024205",
+            "6085649224554846079",
+            "\/scholar?cites=6085649224554846079",
+            {
+                "2018":1,
+                "2019":2,
+                "2020":12,
+                "2021":2
+            }
+        ],
+        [
+            "We study the transport properties of long quantum wires by generalizing the Luttinger liquid approach to allow for the finite lifetime of the bosonic excitations. Our theory accounts for long-range disorder and strong electron interactions, both of which are common features of experiments with quantum wires. We obtain the electrical and thermal resistances and thermoelectric properties of such quantum wires and find a strong deviation from perfect conductance quantization. We cast our results in terms of the thermal conductivity and bulk viscosity of the electron liquid and give the temperature scale above which the transport can be described by classical hydrodynamics.",
+            "Electrical and thermal transport in inhomogeneous Luttinger liquids",
+            "Wade DeGottardi and KA Matveev",
+            "2015",
+            "WKpMkmkAAAAJ:ZeXyd9-uunAC",
+            16,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.114.236405",
+            "10995908173173127366",
+            "\/scholar?cites=10995908173173127366",
+            {
+                "2015":2,
+                "2016":4,
+                "2017":2,
+                "2018":5,
+                "2019":3
+            }
+        ],
+        [
+            "We investigate the properties of conduction electrons in single-walled armchair carbon nanotubes in the presence of both transverse electric and magnetic fields. We find that these fields provide a controlled means of tuning low-energy band-structure properties such as inducing gaps in the spectrum, breaking various symmetries, and altering the Fermi velocities. We show that the fields can strongly affect electron-electron interactions yielding tunable Luttinger-liquid physics, the possibility of spin-charge-band separation, and a competition between spin-density-wave and charge-density-wave orders. For short tubes, the fields can alter boundary conditions and associated single-particle level spacings as well as quantum dot behavior.",
+            "Transverse-field-induced effects in carbon nanotubes",
+            "Wade DeGottardi and Tzu-Chieh Wei and Smitha Vishveshwara",
+            "2009",
+            "WKpMkmkAAAAJ:u-x6o8ySG0sC",
+            15,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.79.205421",
+            "7260994815139765122",
+            "\/scholar?cites=7260994815139765122",
+            {
+                "2010":4,
+                "2011":1,
+                "2012":1,
+                "2013":2,
+                "2014":2,
+                "2015":1,
+                "2016":2,
+                "2017":2
+            }
+        ],
+        [
+            "Two-dimensional heterostructures with strong spin-orbit coupling have direct relevance to topological quantum materials and potential applications in spin-orbitronics. In this work, we report on novel quantum phenomena in [Pb 2 BiS 3][AuTe 2], a new 2D strong spin-orbit coupling heterostructure system. Transport measurements reveal the spin-related carrier scattering is at odds with the Abrikosov-Gorkov model due to strong spin-orbit coupling. This is consistent with our band structure calculations which reveal a large spin-orbit coupling gap of \u03b5 so= 0.21 eV. The band structure is also characterized by helical-like spin textures which are mainly induced by strong spin-orbit coupling and the inversion symmetry breaking in the heterostructure system.",
+            "Large spin-orbit coupling and helical spin textures in 2D heterostructure [Pb 2 BiS 3][AuTe 2]",
+            "L Fang and J Im and W DeGottardi and Y Jia and A Glatz and KA Matveev and W-K Kwok and GW Crabtree and Mercouri G Kanatzidis",
+            "2016",
+            "WKpMkmkAAAAJ:hqOjcs7Dif8C",
+            10,
+            "https:\/\/www.nature.com\/articles\/srep35313",
+            "13266061253761182976",
+            "\/scholar?cites=13266061253761182976",
+            {
+                "2017":4,
+                "2018":3,
+                "2019":1,
+                "2020":2
+            }
+        ]
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "ahUqwvsAAAAJ",
+            "David A. Nielsen",
+            "Baylor College of Medicine",
+            "@bcm.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=ahUqwvsAAAAJ",
+            9318,
+            [
+                "Genetics"
+            ],
+            2344,
+            49,
+            28,
+            90,
+            59,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"w6mUDwwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David Goldman",
+                    "affiliation":"Chief, Lab of Neurogenetics, niaaa"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"22cL994AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Isabelle Bauer",
+                    "affiliation":"University of Texas"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"KVy4CmwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michelle A. Patriquin, PhD, ABPP",
+                    "affiliation":"Director of Research, The Menninger Clinic; Assistant Professor, Baylor College of Medicine"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6d-Dx8EAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Douglas Londono",
+                    "affiliation":"Assistant Research Professor, Rutgers University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"gZp4JssAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jeffrey C. Long",
+                    "affiliation":"Professor of Anthropology, University of New Mexico"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"kz4EhQMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"James J. Mahoney",
+                    "affiliation":"West Virginia University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"m5PPwtYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michael Dean",
+                    "affiliation":"National Cancer Instititue"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"gyBy5i8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Evgeny Krupitsky",
+                    "affiliation":"Head, Department of Addictions, V.M. Bekhterev National Medical Reserach Center for Psychiatry and"
+                }
+            ]
+        ]
+    ]
+}

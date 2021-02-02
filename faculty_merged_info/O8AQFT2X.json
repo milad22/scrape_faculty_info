@@ -1,0 +1,48 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "O8AQFT2X",
+            "8BQPiH0AAAAJ",
+            [
+                "Measurement-induced entanglement for excitation stored in remote atomic ensembles",
+                "Entangled coherent states: Teleportation and decoherence",
+                "Ideal quantum communication over noisy channels: a quantum optical implementation",
+                "Commutation rules and eigenvalues of spin and orbital angular momentum of radiation fields",
+                "Photonic channels for quantum communication",
+                "Single-particle entanglement",
+                "Eigenfunction description of laser beams and orbital angular momentum of light",
+                "Spin and orbital angular momentum of photons",
+                "Entanglement of spin waves among four quantum memories",
+                "Characterization of multipartite entanglement for one photon shared among four optical modes"
+            ],
+            [
+                "A critical requirement for diverse applications in quantum information science is the capability to disseminate quantum resources over complex quantum networks 1, 2. For example, the coherent distribution of entangled quantum states together with quantum memory (for storing the states) can enable scalable architectures for quantum computation 3, communication 4 and metrology 5. Here we report observations of entanglement between two atomic ensembles located in distinct, spatially separated set-ups. Quantum interference in the detection of a photon emitted by one of the samples projects the otherwise independent ensembles into an entangled state with one joint excitation stored remotely in 10 5 atoms at each site 6. After a programmable delay, we confirm entanglement by mapping the state of the atoms to optical fields and measuring mutual coherences and photon statistics for these fields. We thereby \u2026",
+                "When a superposition (| \u03b1>\u2212|\u2212 \u03b1>) of two coherent states with opposite phase falls upon a 50-50 beam splitter, the resulting state is entangled. Remarkably, the amount of entanglement is exactly 1 ebit, irrespective of \u03b1, as was recently discovered by Hirota and Sasaki [LANL e-print quant-ph\/0101018]. Here we discuss decoherence properties of such states and give a simple protocol that teleports one qubit encoded in Schr\u00f6dinger cat states.",
+                "We consider transmission of a quantum state between two distant atoms via photons. Based on a quantum-optical realistic model, we define a noisy quantum channel which includes systematic errors as well as errors due to coupling to the environment. We present a protocol that allows one to accomplish ideal transmission by repeating the transfer operation as many times as needed.",
+                "We investigate the separation of the total angular momentum J of the electromagnetic field into a \u2018spin\u2019 part S and an \u2018orbital\u2019 part L. We show that both \u2018spin\u2019 and \u2018orbital\u2019 angular momentum are observables. However, the transversality of the radiation field affects the commutation relations for the associated quantum operators. This implies that neither S nor L are angular momentum operators. Moreover their eigenvalues are not discrete. We construct field modes such that each mode excitation (photon) is in a simultaneous eigenstate of S z and L z. We consider the interaction of such a photon with an atom and the resulting effect on the internal and external part of the atomic angular momentum.",
+                "A general photonic channel for quantum communication is defined. By means of local quantum computing with a few auxiliary atoms, this channel can be reduced to one with effectively less noise. A scheme based on quantum interference is proposed that iteratively improves the fidelity of distant entangled particles.",
+                "I give a simple argument that demonstrates that the state\u2223 0\u27e9\u2223 1\u27e9+\u2223 1\u27e9\u2223 0\u27e9, with\u2223 0\u27e9 denoting a state with 0 particles (or photons) and\u2223 1\u27e9 a one-particle state, is entangled in spite of recent claims to the contrary. I also discuss viewpoints on the old controversy about whether the above state can be said to display single-particle or single-photon nonlocality.",
+                "The propagation of light beams through astigmatic lens systems is accompanied by a transfer of orbital angular momentum. We develop a method to describe propagating light beams by operators of which the field is an eigenfunction. This method is applied to determine when an astigmatic lens system transforms gaussian beams into other gaussian beams and where in the system angular momentum is transferred. We show that the Gouy phase is equal to the dynamical phase of a quantummechanical harmonic oscillator with time-dependent energy.",
+                "We consider the separation of the total angular momentum of the electromagnetic field into a\" spin\" and an\" orbital\" part. Though this separation is normally considered to be unphysical and not observable, we argue that both members in the separation are separately measurable quantities. However, the commutation relations for the associated quantum operators reveal that neither of them is an angular-momentum operator.",
+                "Quantum networks are composed of quantum nodes that interact coherently through quantum channels, and open a broad frontier of scientific opportunities 1. For example, a quantum network can serve as a \u2018web\u2019for connecting quantum processors for computation 2, 3 and communication 4, or as a \u2018simulator\u2019allowing investigations of quantum critical phenomena arising from interactions among the nodes mediated by the channels 5, 6. The physical realization of quantum networks generically requires dynamical systems capable of generating and storing entangled states among multiple quantum memories, and efficiently transferring stored entanglement into quantum channels for distribution across the network. Although such capabilities have been demonstrated for diverse bipartite systems 7, 8, 9, 10, 11, 12, entangled states have not been achieved for interconnects capable of \u2018mapping\u2019multipartite \u2026",
+                "Access to genuine multipartite entanglement of quantum states enables advances in                     quantum information science and also contributes to the understanding of                     strongly correlated quantum systems. We report the detection and                     characterization of heralded entanglement in a multipartite quantum state                     composed of four spatially distinct optical modes that share one photon, a                     so-called W state. By randomizing the relative phase between                     bipartite components of the W state, we observed the                     transitions from four- to three- to two-mode entanglement with increasing phase                     noise. These observations are possible for our system because our entanglement                     verification protocol makes use of quantum uncertainty relations to detect the                     entangled states that span the Hilbert space of interest."
+            ],
+            [
+                [
+                    "quantum optics",
+                    "quantum information theory"
+                ]
+            ]
+        ]
+    ]
+}

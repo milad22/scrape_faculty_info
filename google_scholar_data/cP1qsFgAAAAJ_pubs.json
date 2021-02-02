@@ -1,0 +1,237 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "A quantum simulator is a type of quantum computer that controls the interactions between quantum bits (or qubits) in a way that can be mapped to certain quantum many-body problems 1, 2. As it becomes possible to exert more control over larger numbers of qubits, such simulators will be able to tackle a wider range of problems, such as materials design and molecular modelling, with the ultimate limit being a universal quantum computer that can solve general classes of hard problems 3. Here we use a quantum simulator composed of up to 53 qubits to study non-equilibrium dynamics in the transverse-field Ising model with long-range interactions. We observe a dynamical phase transition after a sudden change of the Hamiltonian, in a regime in which conventional statistical mechanics does not apply 4. The qubits are represented by the spins of trapped ions, which can be prepared in various initial pure states. We \u2026",
+            "Observation of a many-body dynamical phase transition with a 53-qubit quantum simulator",
+            "Jiehang Zhang and Guido Pagano and Paul W Hess and Antonis Kyprianidis and Patrick Becker and Harvey Kaplan and Alexey V Gorshkov and Z-X Gong and Christopher Monroe",
+            "2017",
+            "cP1qsFgAAAAJ:Vr2j17o0sqMC",
+            560,
+            "https:\/\/www.nature.com\/articles\/nature24654",
+            "1180842542455868421",
+            "\/scholar?cites=1180842542455868421",
+            {
+                "2017":10,
+                "2018":126,
+                "2019":167,
+                "2020":239,
+                "2021":15
+            }
+        ],
+        [
+            "The maximum speed with which information can propagate in a quantum many-body system directly affects how quickly disparate parts of the system can become correlated 1, 2, 3, 4 and how difficult the system will be to describe numerically 5. For systems with only short-range interactions, Lieb and Robinson derived a constant-velocity bound that limits correlations to within a linear effective \u2018light cone\u20196. However, little is known about the propagation speed in systems with long-range interactions, because analytic solutions rarely exist and because the best long-range bound 7 is too loose to accurately describe the relevant dynamical timescales for any known spin model. Here we apply a variable-range Ising spin chain Hamiltonian and a variable-range XY spin chain Hamiltonian to a far-from-equilibrium quantum many-body system and observe its time evolution. For several different interaction ranges, we \u2026",
+            "Non-local propagation of correlations in quantum systems with long-range interactions",
+            "Philip Richerme and Zhe-Xuan Gong and Aaron Lee and Crystal Senko and Jacob Smith and Michael Foss-Feig and Spyridon Michalakis and Alexey V Gorshkov and Christopher Monroe",
+            "2014",
+            "cP1qsFgAAAAJ:YTuZlYwrTOUC",
+            560,
+            "https:\/\/www.nature.com\/articles\/nature13450",
+            "5684883838003725962",
+            "\/scholar?cites=5684883838003725962",
+            {
+                "2014":23,
+                "2015":73,
+                "2016":102,
+                "2017":85,
+                "2018":84,
+                "2019":92,
+                "2020":97,
+                "2021":2
+            }
+        ],
+        [
+            "We propose and analyze a new approach for quantum state transfer between remote spin qubits. Specifically, we demonstrate that coherent quantum coupling between remote qubits can be achieved via certain classes of random, unpolarized (infinite temperature) spin chains. Our method is robust to coupling-strength disorder and does not require manipulation or control over individual spins. In principle, it can be used to attain perfect state transfer over an arbitrarily long range via purely Hamiltonian evolution and may be particularly applicable in a solid-state quantum information processor. As an example, we demonstrate that it can be used to attain strong coherent coupling between nitrogen-vacancy centers separated by micrometer distances at room temperature. Realistic imperfections and decoherence effects are analyzed.",
+            "Robust quantum state transfer in random unpolarized spin chains",
+            "Norman Y Yao and Liang Jiang and Alexey Vyacheslavovich Gorshkov and Z-X Gong and Alex Zhai and L-M Duan and Mikhail D Lukin",
+            "2011",
+            "cP1qsFgAAAAJ:u5HHmVD_uO8C",
+            207,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.106.040505",
+            "2758463033738171434",
+            "\/scholar?cites=2758463033738171434",
+            {
+                "2011":16,
+                "2012":30,
+                "2013":32,
+                "2014":21,
+                "2015":18,
+                "2016":16,
+                "2017":13,
+                "2018":17,
+                "2019":19,
+                "2020":24
+            }
+        ],
+        [
+            "Spontaneous symmetry breaking can lead to the formation of time crystals, as well as spatial crystals. Here we propose a space-time crystal of trapped ions and a method to realize it experimentally by confining ions in a ring-shaped trapping potential with a static magnetic field. The ions spontaneously form a spatial ring crystal due to Coulomb repulsion. This ion crystal can rotate persistently at the lowest quantum energy state in magnetic fields with fractional fluxes. The persistent rotation of trapped ions produces the temporal order, leading to the formation of a space-time crystal. We show that these space-time crystals are robust for direct experimental observation. We also study the effects of finite temperatures on the persistent rotation. The proposed space-time crystals of trapped ions provide a new dimension for exploring many-body physics and emerging properties of matter.",
+            "Space-time crystals of trapped ions",
+            "Tongcang Li and Zhe-Xuan Gong and Zhang-Qi Yin and HT Quan and Xiaobo Yin and Peng Zhang and L-M Duan and Xiang Zhang",
+            "2012",
+            "cP1qsFgAAAAJ:Zph67rFs4hoC",
+            171,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.109.163001",
+            "14652528229530620045",
+            "\/scholar?cites=14652528229530620045",
+            {
+                "2012":4,
+                "2013":17,
+                "2014":15,
+                "2015":19,
+                "2016":10,
+                "2017":14,
+                "2018":20,
+                "2019":34,
+                "2020":25,
+                "2021":4
+            }
+        ],
+        [
+            "In nonrelativistic quantum theories with short-range Hamiltonians, a velocity v can be chosen such that the influence of any local perturbation is approximately confined to within a distance r until a time t\u223c r\/v, thereby defining a linear light cone and giving rise to an emergent notion of locality. In systems with power-law (1\/r \u03b1) interactions, when \u03b1 exceeds the dimension D, an analogous bound confines influences to within a distance r only until a time t\u223c(\u03b1\/v) log r, suggesting that the velocity, as calculated from the slope of the light cone, may grow exponentially in time. We rule out this possibility; light cones of power-law interacting systems are bounded by a polynomial for \u03b1> 2 D and become linear as \u03b1\u2192\u221e. Our results impose strong new constraints on the growth of correlations and the production of entangled states in a variety of rapidly emerging, long-range interacting atomic, molecular, and optical systems.",
+            "Nearly linear light cones in long-range interacting quantum systems",
+            "Michael Foss-Feig and Zhe-Xuan Gong and Charles W Clark and Alexey V Gorshkov",
+            "2015",
+            "cP1qsFgAAAAJ:nPT8s1NX_-sC",
+            137,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.114.157201",
+            "967063174059024139",
+            "\/scholar?cites=967063174059024139",
+            {
+                "2015":6,
+                "2016":20,
+                "2017":17,
+                "2018":17,
+                "2019":37,
+                "2020":37,
+                "2021":2
+            }
+        ],
+        [
+            "A collection of trapped atomic ions represents one of the most attractive platforms for the quantum simulation of interacting spin networks and quantum magnetism. Spin-dependent optical dipole forces applied to an ion crystal create long-range effective spin\u2013spin interactions and allow the simulation of spin Hamiltonians that possess nontrivial phases and dynamics. Here we show how the appropriate design of laser fields can provide for arbitrary multidimensional spin\u2013spin interaction graphs even for the case of a linear spatial array of ions. This scheme uses currently available trap technology and is scalable to levels where the classical methods of simulation are intractable.",
+            "Quantum simulation of spin models on an arbitrary lattice with trapped ions",
+            "Simcha Korenblit and Dvir Kafri and Wess C Campbell and Rajibul Islam and Emily E Edwards and Zhe-Xuan Gong and Guin-Dar Lin and Lu-Ming Duan and Jungsang Kim and Kihwan Kim and Chris Monroe",
+            "2012",
+            "cP1qsFgAAAAJ:Y0pCki6q_DkC",
+            125,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/1367-2630\/14\/9\/095024\/meta",
+            "9642402293500873086",
+            "\/scholar?cites=9642402293500873086",
+            {
+                "2012":2,
+                "2013":23,
+                "2014":15,
+                "2015":14,
+                "2016":17,
+                "2017":6,
+                "2018":10,
+                "2019":16,
+                "2020":21
+            }
+        ],
+        [
+            "Motivated by recent experiments with ultracold matter, we derive a new bound on the propagation of information in D-dimensional lattice models exhibiting 1\/r \u03b1 interactions with \u03b1> D. The bound contains two terms: One accounts for the short-ranged part of the interactions, giving rise to a bounded velocity and reflecting the persistence of locality out to intermediate distances, whereas the other contributes a power-law decay at longer distances. We demonstrate that these two contributions not only bound but, except at long times, qualitatively reproduce the short-and long-distance dynamical behavior following a local quench in an X Y chain and a transverse-field Ising chain. In addition to describing dynamics in numerous intractable long-range interacting lattice models, our results can be experimentally verified in a variety of ultracold-atomic and solid-state systems.",
+            "Persistence of locality in systems with power-law interactions",
+            "Zhe-Xuan Gong and Michael Foss-Feig and Spyridon Michalakis and Alexey Gorshkov",
+            "2014",
+            "cP1qsFgAAAAJ:LK8CI43ZvvMC",
+            117,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.113.030602",
+            "2997325389774074613",
+            "\/scholar?cites=2997325389774074613",
+            {
+                "2014":5,
+                "2015":16,
+                "2016":17,
+                "2017":19,
+                "2018":13,
+                "2019":23,
+                "2020":23,
+                "2021":1
+            }
+        ],
+        [
+            "We demonstrate entangling quantum gates within a chain of five trapped ion qubits by optimally shaping optical fields that couple to multiple collective modes of motion. We individually address qubits with segmented optical pulses to construct multipartite entangled states in a programmable way. This approach enables high-fidelity gates that can be scaled to larger qubit registers for quantum computation and simulation.",
+            "Optimal quantum control of multimode couplings between trapped ion qubits for scalable entanglement",
+            "Taeyoung Choi and Shantanu Debnath and TA Manning and Caroline Figgatt and Z-X Gong and L-M Duan and Christopher Monroe",
+            "2014",
+            "cP1qsFgAAAAJ:0EnyYjriUFMC",
+            108,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.112.190502",
+            "395989620801560834",
+            "\/scholar?cites=395989620801560834",
+            {
+                "2013":1,
+                "2014":9,
+                "2015":11,
+                "2016":17,
+                "2017":9,
+                "2018":9,
+                "2019":27,
+                "2020":22,
+                "2021":3
+            }
+        ],
+        [
+            "Although statistical mechanics describes thermal equilibrium states, these states may or may not emerge dynamically for a subsystem of an isolated quantum many-body system. For instance, quantum systems that are near-integrable usually fail to thermalize in an experimentally realistic time scale, and instead relax to quasi-stationary prethermal states that can be described by statistical mechanics, when approximately conserved quantities are included in a generalized Gibbs ensemble (GGE). We experimentally study the relaxation dynamics of a chain of up to 22 spins evolving under a long-range transverse-field Ising Hamiltonian following a sudden quench. For sufficiently long-range interactions, the system relaxes to a new type of prethermal state that retains a strong memory of the initial conditions. However, the prethermal state in this case cannot be described by a standard GGE; it rather arises from an \u2026",
+            "Observation of prethermalization in long-range interacting spin chains",
+            "Brian Neyenhuis and Jiehang Zhang and Paul W Hess and Jacob Smith and Aaron C Lee and Phil Richerme and Zhe-Xuan Gong and Alexey V Gorshkov and Christopher Monroe",
+            "2017",
+            "cP1qsFgAAAAJ:R-LXmdHK_14C",
+            86,
+            "https:\/\/advances.sciencemag.org\/content\/3\/8\/e1700672?utm_source=TrendMD&utm_medium=cpc&utm_campaign=TrendMD_1",
+            "11786174165522777099",
+            "\/scholar?cites=11786174165522777099",
+            {
+                "2016":1,
+                "2017":8,
+                "2018":12,
+                "2019":29,
+                "2020":34,
+                "2021":2
+            }
+        ],
+        [
+            "Topological phases of matter are primarily studied in systems with short-range interactions. In nature, however, nonrelativistic quantum systems often exhibit long-range interactions. Under what conditions topological phases survive such interactions, and how they are modified when they do, is largely unknown. By studying the symmetry-protected topological phase of an antiferromagnetic spin-1 chain with 1\/r \u03b1 interactions, we show that two very different outcomes are possible, depending on whether or not the interactions are frustrated. While unfrustrated long-range interactions can destroy the topological phase for \u03b1\u2272 3, the topological phase survives frustrated interactions for all \u03b1> 0. Our conclusions are based on strikingly consistent results from large-scale matrix-product-state simulations and effective-field-theory calculations, and we expect them to hold for more general interacting spin systems. The models \u2026",
+            "Topological phases with long-range interactions",
+            "Z-X Gong and Mohammad F Maghrebi and Anzi Hu and Michael L Wall and Michael Foss-Feig and Alexey V Gorshkov",
+            "2016",
+            "cP1qsFgAAAAJ:X0DADzN9RKwC",
+            54,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.93.041102",
+            "15228249973156072324",
+            "\/scholar?cites=15228249973156072324",
+            {
+                "2015":1,
+                "2016":6,
+                "2017":13,
+                "2018":15,
+                "2019":6,
+                "2020":12,
+                "2021":1
+            }
+        ]
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2
+    ],
+    "data":[
+        [
+            "Cell motion inside dense tissues governs many biological processes, including embryonic development and cancer metastasis, and recent experiments suggest that these tissues exhibit collective glassy behavior. To make quantitative predictions about glass transitions in tissues, we study a self-propelled Voronoi model that simultaneously captures polarized cell motility and multibody cell-cell interactions in a confluent tissue, where there are no gaps between cells. We demonstrate that the model exhibits a jamming transition from a solidlike state to a fluidlike state that is controlled by three parameters: the single-cell motile speed, the persistence time of single-cell tracks, and a target shape index that characterizes the competition between cell-cell adhesion and cortical tension. In contrast to traditional particulate glasses, we are able to identify an experimentally accessible structural order parameter that specifies \u2026",
+            "Motility-driven glass and jamming transitions in biological tissues",
+            "Dapeng Bi and Xingbo Yang and M Cristina Marchetti and M Lisa Manning",
+            "2016",
+            "29RuFl0AAAAJ:SnGPuo6Feq8C",
+            347,
+            "https:\/\/journals.aps.org\/prx\/abstract\/10.1103\/PhysRevX.6.021011",
+            "7311761214524667306",
+            "\/scholar?cites=7311761214524667306",
+            {
+                "2016":13,
+                "2017":47,
+                "2018":75,
+                "2019":87,
+                "2020":113,
+                "2021":8
+            }
+        ],
+        [
+            "Cell migration is important in many biological processes, including embryonic development, cancer metastasis and wound healing. In these tissues, a cell\u2019s motion is often strongly constrained by its neighbours, leading to glassy dynamics. Although self-propelled particle models exhibit a density-driven glass transition, this does not explain liquid-to-solid transitions in confluent tissues, where there are no gaps between cells and therefore the density is constant. Here we demonstrate the existence of a new type of rigidity transition that occurs in the well-studied vertex model for confluent tissue monolayers at constant density. We find that the onset of rigidity is governed by a model parameter that encodes single-cell properties such as cell\u2013cell adhesion and cortical tension, providing an explanation for liquid-to-solid transitions in confluent tissues and making testable predictions about how these transitions differ from \u2026",
+            "A density-independent rigidity transition in biological tissues",
+            "Dapeng Bi and JH Lopez and Jennifer M Schwarz and M Lisa Manning",
+            "2015",
+            "29RuFl0AAAAJ:5bg8sr1QxYwC",
+            320,
+            "https:\/\/www.nature.com\/articles\/nphys3471",
+            "16062379605401045241",
+            "\/scholar?cites=16062379605401045241",
+            {
+                "2015":6,
+                "2016":18,
+                "2017":42,
+                "2018":77,
+                "2019":67,
+                "2020":103,
+                "2021":6
+            }
+        ],
+        [
+            "We analyze low-frequency vibrational modes in a two-dimensional, zero-temperature, quasistatically sheared model glass to identify a population of structural \u201csoft spots\u201d where particle rearrangements are initiated. The population of spots evolves slowly compared to the interval between particle rearrangements, and the soft spots are structurally different from the rest of the system. Our results suggest that disordered solids flow via localized rearrangements that tend to occur at soft spots, which are analogous to dislocations in crystalline solids.",
+            "Vibrational modes identify soft spots in a sheared disordered packing",
+            "M Lisa Manning and Andrea J Liu",
+            "2011",
+            "29RuFl0AAAAJ:zYLM7Y9cAGgC",
+            308,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.107.108302",
+            "4877205619430850977",
+            "\/scholar?cites=4877205619430850977",
+            {
+                "2012":10,
+                "2013":23,
+                "2014":32,
+                "2015":28,
+                "2016":40,
+                "2017":36,
+                "2018":41,
+                "2019":39,
+                "2020":51,
+                "2021":7
+            }
+        ]
+    ]
+}

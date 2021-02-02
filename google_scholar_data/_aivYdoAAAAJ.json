@@ -1,0 +1,54 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "_aivYdoAAAAJ",
+            "Adil Mergani Babikir Hassan, MD, PhD (0000-0002-1644-6125 - ORCID)",
+            "NCI, University of Gezira, Sudan",
+            "@tu.edu.sa",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=_aivYdoAAAAJ",
+            1450,
+            [
+                "Medicine. Human Molecular Genetics",
+                "Immunogenetics",
+                "Molecular Diagnostics and Personalized Medicine"
+            ],
+            352,
+            17,
+            12,
+            18,
+            13,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"0wvlSi4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Qurashi Ali",
+                    "affiliation":"National University -Sudan"
+                }
+            ]
+        ]
+    ]
+}

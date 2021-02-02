@@ -1,0 +1,65 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "CAv3JpMAAAAJ",
+            "Liantao Wang",
+            "Associate Professor, Hohai University",
+            "@hhu.edu.cn",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=CAv3JpMAAAAJ",
+            149,
+            [
+                "Machine Learning",
+                "Computer Vision"
+            ],
+            130,
+            6,
+            5,
+            4,
+            4,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6qKZtMQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Xuelei Hu",
+                    "affiliation":"Research Fellow, University of Queensland"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"an6w-64AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Deyu Meng",
+                    "affiliation":"Professor, Xi'an Jiaotong University"
+                }
+            ]
+        ]
+    ]
+}

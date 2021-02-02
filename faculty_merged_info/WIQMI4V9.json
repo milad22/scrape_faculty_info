@@ -1,0 +1,33 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "WIQMI4V9",
+            "ItjFK0wAAAAJ",
+            [
+                "An overview of APSIM, a model designed for farming systems simulation",
+                "APSIM\u2013evolution towards a new generation of agricultural systems simulation",
+                "APSIM's water and nitrogen modules and simulation of the dynamics of water and nitrogen in fallow systems"
+            ],
+            [
+                "The Agricultural Production Systems Simulator (APSIM) is a modular modelling framework that has been developed by the Agricultural Production Systems Research Unit in Australia. APSIM was developed to simulate biophysical process in farming systems, in particular where there is interest in the economic and ecological outcomes of management practice in the face of climatic risk. The paper outlines APSIM's structure and provides details of the concepts behind the different plant, soil and management modules. These modules include a diverse range of crops, pastures and trees, soil processes including water balance, N and P transformations, soil pH, erosion and a full range of management controls. Reports of APSIM testing in a diverse range of systems and environments are summarised. An example of model performance in a long-term cropping systems trial is provided. APSIM has been used in a broad \u2026",
+                "Agricultural systems models worldwide are increasingly being used to explore options and solutions for the food security, climate change adaptation and mitigation and carbon trading problem domains. APSIM (Agricultural Production Systems sIMulator) is one such model that continues to be applied and adapted to this challenging research agenda. From its inception twenty years ago, APSIM has evolved into a framework containing many of the key models required to explore changes in agricultural landscapes with capability ranging from simulation of gene expression through to multi-field farms and beyond.Keating et al. (2003) described many of the fundamental attributes of APSIM in detail. Much has changed in the last decade, and the APSIM community has been exploring novel scientific domains and utilising software developments in social media, web and mobile applications to provide simulation tools \u2026",
+                "APSIM (Agricultural Production Systems Simulator) is a software system which provides a flexible structure for the simulation of climatic and soil management effects on growth of crops in farming systems and changes in the soil resource. The focus of this paper is the predictive performance of APSIM for simulation of soil water and nitrate nitrogen in contrasting soils (vertisols and alfisols) and environments. The three APSIM modules that determine the dynamics of water, carbon, and nitrogen in the soil system (viz. SOILWAT, SOILN and RESIDUE v.1) are described in terms of the processes represented, with particular emphasis on aspects of their coding that differ from their precursors in CERES and PERFECT. The most fundamental change is in SOILN, which now provides a formal balance of both carbon and nitrogen in the soil and includes a labile soil organic matter pool that decomposes more rapidly than the \u2026"
+            ],
+            [
+                [
+                    "Agriculture"
+                ]
+            ]
+        ]
+    ]
+}

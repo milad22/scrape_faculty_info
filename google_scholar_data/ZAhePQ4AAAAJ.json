@@ -1,0 +1,114 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "ZAhePQ4AAAAJ",
+            "Yan Xu",
+            "Nanyang Assistant Professor at Nanyang Technological University, Singapore",
+            "@ntu.edu.sg",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=ZAhePQ4AAAAJ",
+            6726,
+            [
+                "Power System Stability",
+                "Microgrid",
+                "Smart Grid Data-Analytics"
+            ],
+            6174,
+            43,
+            40,
+            114,
+            112,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"7FORgWsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"ZhaoYang Dong",
+                    "affiliation":"Professor, FIEEE, The University of NSW, Sydney, Australia"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"M2oDRWEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Junhua Zhao (\u8d75\u4fca\u534e)",
+                    "affiliation":"Associate Professor (Tenured) at The Chinese University of Hong Kong, Shenzhen"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"jk3NXWcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David John HILL",
+                    "affiliation":"Professor, University of NSW Sydney, Australia"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"lPbHolYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Fengji Luo",
+                    "affiliation":"Academic Fellow (Lecturer), University of Sydney"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"QUclXRoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"JING QIU",
+                    "affiliation":"School of Electrical and Information  Engineering, The University of Sydney"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6MgXqkkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Zhao Xu",
+                    "affiliation":"Professor, The Hong Kong Polytechnic University"
+                }
+            ]
+        ]
+    ]
+}

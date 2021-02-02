@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "ZQPZ75Y0",
+            "xF7oivwAAAAJ",
+            [
+                "TILT: Transform invariant low-rank textures",
+                "Hardware for machine learning: Challenges and opportunities",
+                "Camera calibration with lens distortion from low-rank textures",
+                "Decomposing background topics from keywords by principal component pursuit",
+                "Repairing sparse low-rank texture",
+                "Conformer: Convolution-augmented transformer for speech recognition",
+                "Unwrapping low-rank textures on generalized cylindrical surfaces",
+                "Visual-inertial odometry on chip: An algorithm-and-hardware co-design approach"
+            ],
+            [
+                "In this paper, we propose a new tool to efficiently extract a class of \u201clow-rank textures\u201d in a 3D scene from user-specified windows in 2D images despite significant corruptions and warping. The low-rank textures capture geometrically meaningful structures in an image, which encompass conventional local features such as edges and corners as well as many kinds of regular, symmetric patterns ubiquitous in urban environments and man-made objects. Our approach to finding these low-rank textures leverages the recent breakthroughs in convex optimization that enable robust recovery of a high-dimensional low-rank matrix despite gross sparse errors. In the case of planar regions with significant affine or projective deformation, our method can accurately recover both the intrinsic low-rank texture and the unknown transformation, and hence both the geometry and appearance of the associated planar region in \u2026",
+                "Machine learning plays a critical role in extracting meaningful information out of the zetabytes of sensor data collected every day. For some applications, the goal is to analyze and understand the data to identify trends (e.g., surveillance, portable\/wearable electronics); in other applications, the goal is to take immediate action based the data (e.g., robotics\/drones, self-driving cars, smart Internet of Things). For many of these applications, local embedded processing near the sensor is preferred over the cloud due to privacy or latency concerns, or limitations in the communication bandwidth. However, at the sensor there are often stringent constraints on energy consumption and cost in addition to throughput and accuracy requirements. Furthermore, flexibility is often required such that the processing can be adapted for different applications or environments (e.g., update the weights and model in the classifier). In many \u2026",
+                "We present a simple, accurate, and flexible method to calibrate intrinsic parameters of a camera together with (possibly significant) lens distortion. This new method can work under a wide range of practical scenarios: using multiple images of a known pattern, multiple images of an unknown pattern, single or multiple image(s) of multiple patterns, etc. Moreover, this new method does not rely on extracting any low-level features such as corners or edges. It can tolerate considerably large lens distortion, noise, error, illumination and viewpoint change, and still obtain accurate estimation of the camera parameters. The new method leverages on the recent breakthroughs in powerful high-dimensional convex optimization tools, especially those for matrix rank minimization and sparse signal recovery. We will show how the camera calibration problem can be formulated as an important extension to principal component \u2026",
+                "Low-dimensional topic models have been proven very useful for modeling a large corpus of documents that share a relatively small number of topics. Dimensionality reduction tools such as Principal Component Analysis or Latent Semantic Indexing (LSI) have been widely adopted for document modeling, analysis, and retrieval. In this paper, we contend that a more pertinent model for a document corpus as the combination of an (approximately) low-dimensional topic model for the corpus and a sparse model for the keywords of individual documents. For such a joint topic-document model, LSI or PCA is no longer appropriate to analyze the corpus data. We hence introduce a powerful new tool called Principal Component Pursuit that can effectively decompose the low-dimensional and the sparse components of such corpus data. We give empirical results on data synthesized with a Latent Dirichlet Allocation (LDA \u2026",
+                "In this paper, we show how to harness both low-rank and sparse structures in regular or near regular textures for image completion. Our method leverages the new convex optimization for low-rank and sparse signal recovery and can automatically correctly repair the global structure of a corrupted texture, even without precise information about the regions to be completed. Through extensive simulations, we show our method can complete and repair textures corrupted by errors with both random and contiguous supports better than existing low-rank matrix recovery methods. Through experimental comparisons with existing image completion systems (such as Photoshop) our method demonstrate significant advantage over local patch based texture synthesis techniques in dealing with large corruption, non-uniform texture, and large perspective deformation.",
+                "Recently Transformer and Convolution neural network (CNN) based models have shown promising results in Automatic Speech Recognition (ASR), outperforming Recurrent neural networks (RNNs). Transformer models are good at capturing content-based global interactions, while CNNs exploit local features effectively. In this work, we achieve the best of both worlds by studying how to combine convolution neural networks and transformers to model both local and global dependencies of an audio sequence in a parameter-efficient way. To this regard, we propose the convolution-augmented transformer for speech recognition, named Conformer. Conformer significantly outperforms the previous Transformer and CNN based models achieving state-of-the-art accuracies. On the widely used LibriSpeech benchmark, our model achieves WER of 2.1%\/4.3% without using a language model and 1.9%\/3.9% with an external language model on test\/testother. We also observe competitive performance of 2.7%\/6.3% with a small model of only 10M parameters.",
+                "In this paper, we show how to reconstruct both 3D shape and 2D texture of a class of surfaces from a single perspective image. We consider the so-called the generalized cylindrical surfaces that are wrapped with low-rank textures. They can be used to model most curved building facades in urban areas or deformed book pages scanned for text recognition. Our method leverages on the recent new techniques for low-rank matrix recovery and sparse error correction and it generalizes existing techniques from planar surfaces to a much larger class of important 3D surfaces. As we will show with extensive simulations and experiments, the proposed algorithm can precisely rectify deformation of textures caused by both perspective projection and surface shape. It works for a wide range of symmetric or regular textures that are ubiquitous in images of urban environments, objects, or texts, and it is very robust to sparse \u2026",
+                "Autonomous navigation of miniaturized robots (e.g., nano\/pico aerial vehicles) is currently a grand challenge for robotics research, due to the need of processing a large amount of sensor data (e.g., camera frames) with limited on-board computational resources. In this paper we focus on the design of a visual-inertial odometry (VIO) system in which the robot estimates its ego-motion (and a landmark-based map) from on- board camera and IMU data. We argue that scaling down VIO to miniaturized platforms (without sacrificing performance) requires a paradigm shift in the design of perception algorithms, and we advocate a co-design approach in which algorithmic and hardware design choices are tightly coupled. Our contribution is four-fold. First, we discuss the VIO co-design problem, in which one tries to attain a desired resource-performance trade-off, by making suitable design choices (in terms of hardware, algorithms, implementation, and parameters). Second, we characterize the design space, by discussing how a relevant set of design choices affects the resource-performance trade-off in VIO. Third, we provide a systematic experiment-driven way to explore the design space, towards a design that meets the desired trade-off. Fourth, we demonstrate the result of the co-design process by providing a VIO implementation on specialized hardware and showing that such implementation has the same accuracy and speed of a desktop implementation, while requiring a fraction of the power."
+            ],
+            [
+                [
+                    "Machine Learning",
+                    "Compressed Sensing",
+                    "Computer Vision",
+                    "Robotics",
+                    "Circuits"
+                ]
+            ]
+        ]
+    ]
+}

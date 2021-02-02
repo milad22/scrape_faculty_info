@@ -1,0 +1,45 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "4YJY92UR",
+            "WkLZuJsAAAAJ",
+            [
+                "From keyword search to exploration: Designing future search interfaces for the web",
+                "Evaluating advanced search interfaces using established information\u2010seeking models",
+                "Continuum: designing timelines for hierarchies, relationships and scale",
+                "mSpace: improving information access to multimedia domains with multimodal exploratory search",
+                "Searching twitter: Separating the tweet from the chaff",
+                "Search user interface design",
+                "Understanding casual-leisure information behaviour"
+            ],
+            [
+                "To support researchers and designers in synthesizing and understanding the advances in search, this monograph offers a structured means to think about web search result visualization, based on an inclusive model of search that integrates information retrieval, information seeking and a higher level context of tasks and goals. We examine each of these levels of search in a survey of advances in browsers and related tools by defining search-related cognitive processes and analyzing innovative design approaches. We then discuss evaluations at each of these levels of search, presenting significant results and identifying both the traditional and novel means used to produce them. Based on this examination, we propose a taxonomy of search result visualization techniques that can be used to identify gaps for future research and as a reference for designers of next generation web search systems.",
+                "When users have poorly defined or complex goals, search interfaces that offer only keyword\u2010searching facilities provide inadequate support to help them reach their information\u2010seeking objectives. The emergence of interfaces with more advanced capabilities, such as faceted browsing and result clustering, can go some way toward addressing such problems. The evaluation of these interfaces, however, is challenging because they generally offer diverse and versatile search environments that introduce overwhelming amounts of independent variables to user studies; choosing the interface object as the only independent variable in a study would reveal very little about why one design outperforms another. Nonetheless, if we could effectively compare these interfaces, then we would have a way to determine which was best for a given scenario and begin to learn why. In this article, we present a formative \u2026",
+                "Temporal events, while often discrete, also have interesting relationships within and across times: larger events are often collections of smaller more discrete events (battles within wars; artists' works within a form); events at one point also have correlations with events at other points (a play written in one period is related to its performance over a period of time). Most temporal visualisations, however, only represent discrete data points or single data types along a single timeline: this event started here and ended there; this work was published at this time; this tag was popular for this period. In order to represent richer, faceted attributes of temporal events, we present Continuum. Continuum enables hierarchical relationships in temporal data to be represented and explored; it enables relationships between events across periods to be expressed, and in particular it enables user-determined control over the level of \u2026",
+                "If you do not know much about classical music, how do you discover what you might like? The first port of call for most people is to Google \u201cclassical music.\u201d This returns a list of links to sites that provide textual descriptions of terms or times in the classical music domain, or sometimes sites that sell classical music, or review particular pieces, or feature beginner\u2019s guides that list \u201cmust hear\u201d works [1]. While these are all useful sources of information, they do not enable direct assessment by or access to the content of the domain itself. mSpace (mspace. fm) is an interaction model [2] and software framework [6] that brings together a variety of mechanisms to improve access to information by supporting multiple ways of exploring the information itself. The mSpace model conceptualizes information as a set of dimensions within a domain. In order to manage these highdimensional spaces, we represent only a subset at a \u2026",
+                "Within the millions of digital communications posted in online social networks, there is undoubtedly some valuable and useful information. Although a large portion of social media content is considered to be babble, research shows that people share useful links, provide recommendations to friends, answer questions, and solve problems. In this paper, we report on a qualitative investigation into the different factors that make tweets \u2018useful\u2019and \u2018not useful\u2019for a set of common search tasks. The investigation found 16 features that help make a tweet useful, noting that useful tweets often showed 2 or 3 of these features.\u2018Not useful\u2019tweets, however, typically had only one of 17 clear and striking features. Further, we saw that these features can be weighted as according to different types of search tasks. Our results contribute a novel framework for extracting useful information from real-time streams of social-media content that will be used in the design of a future retrieval system.",
+                "Search User Interfaces (SUIs) represent the gateway between people who have  a task to complete, and the repositories of information and data stored  around the world. Not surprisingly, therefore, there are many communities  who have a vested interest in the way SUIs are designed. There are people  who study how humans search for information, and people who study how humans  use computers. There are people who study good user interface design, and  people who design aesthetically pleasing user interfaces. There are also  people who curate and manage valuable information resources, and people who  design effective algorithms to retrieve results from them. While it would be  easy for one community to reject another for their limited ability to design  a good SUI, the truth is that they all can, and they all have made valuable  contributions. Fundamentally, therefore, we must accept that designing a  great \u2026",
+                "Originally grounded in library and information science, the majority of information behaviour and information-seeking theories focus on task-based scenarios where users try to resolve information needs. While other theories exist, such as how people unexpectedly encounter information, for example, they are typically related back to tasks, motivated by work or personal goals. This chapter, however, focuses on casual-leisure scenarios that are typically motivated by hedonistic needs rather than information needs, where people engage in searching behaviours for pleasure rather than to find information. This chapter describes two studies on (1) television information behaviour and (2) the casual information behaviours described by users of Twitter. The first study focuses on a specific casual-leisure domain that is familiar to many, while the second indicates that our findings generalise to many other casual-leisure \u2026"
+            ],
+            [
+                [
+                    "fNIRS",
+                    "Mental Workload",
+                    "Human-Computer Interaction",
+                    "Information Seeking",
+                    "Cognitive Activity"
+                ]
+            ]
+        ]
+    ]
+}

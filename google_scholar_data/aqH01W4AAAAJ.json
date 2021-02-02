@@ -1,0 +1,100 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "aqH01W4AAAAJ",
+            "Lawrence Cheuk",
+            "Princeton University",
+            "@princeton.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=aqH01W4AAAAJ",
+            3469,
+            [
+
+            ],
+            2374,
+            15,
+            15,
+            15,
+            15,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"4JEN-3YAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ariel Sommer",
+                    "affiliation":"Lehigh University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"7a16b_QAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mark J.H. Ku",
+                    "affiliation":"University of Delaware"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"-S8Xvd0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tarik Yefsah",
+                    "affiliation":"\u00c9cole Normale Sup\u00e9rieure (Paris) - CNRS"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"44myIR8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Zoran Hadzibabic",
+                    "affiliation":"University of Cambridge"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"0vWg8eAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Biswaroop Mukherjee",
+                    "affiliation":"Massachusetts Institute of Technology"
+                }
+            ]
+        ]
+    ]
+}

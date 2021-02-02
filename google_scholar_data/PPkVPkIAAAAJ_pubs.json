@@ -1,0 +1,248 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "When a system thermalizes it loses all memory of its initial conditions. Even within a closed quantum system, subsystems usually thermalize using the rest of the system as a heat bath. Exceptions to quantum thermalization have been observed, but typically require inherent symmetries 1, 2 or noninteracting particles in the presence of static disorder 3, 4, 5, 6. However, for strong interactions and high excitation energy there are cases, known as many-body localization (MBL), where disordered quantum systems can fail to thermalize 7, 8, 9, 10. We experimentally generate MBL states by applying an Ising Hamiltonian with long-range interactions and programmable random disorder to ten spins initialized far from equilibrium. Using experimental and numerical methods we observe the essential signatures of MBL: initial-state memory retention, Poissonian distributed energy level spacings, and evidence of long-time \u2026",
+            "Many-body localization in a quantum simulator with programmable random disorder",
+            "Jacob Smith and Aaron Lee and Philip Richerme and Brian Neyenhuis and Paul W Hess and Philipp Hauke and Markus Heyl and David A Huse and Christopher Monroe",
+            "2016",
+            "PPkVPkIAAAAJ:BrOSOlqYqPUC",
+            571,
+            "https:\/\/www.nature.com\/articles\/nphys3783",
+            "8153457786366452044",
+            "\/scholar?cites=8153457786366452044",
+            {
+                "2016":33,
+                "2017":121,
+                "2018":111,
+                "2019":125,
+                "2020":170,
+                "2021":9
+            }
+        ],
+        [
+            "The maximum speed with which information can propagate in a quantum many-body system directly affects how quickly disparate parts of the system can become correlated 1, 2, 3, 4 and how difficult the system will be to describe numerically 5. For systems with only short-range interactions, Lieb and Robinson derived a constant-velocity bound that limits correlations to within a linear effective \u2018light cone\u20196. However, little is known about the propagation speed in systems with long-range interactions, because analytic solutions rarely exist and because the best long-range bound 7 is too loose to accurately describe the relevant dynamical timescales for any known spin model. Here we apply a variable-range Ising spin chain Hamiltonian and a variable-range XY spin chain Hamiltonian to a far-from-equilibrium quantum many-body system and observe its time evolution. For several different interaction ranges, we \u2026",
+            "Non-local propagation of correlations in quantum systems with long-range interactions",
+            "Philip Richerme and Zhe-Xuan Gong and Aaron Lee and Crystal Senko and Jacob Smith and Michael Foss-Feig and Spyridon Michalakis and Alexey V Gorshkov and Christopher Monroe",
+            "2014",
+            "PPkVPkIAAAAJ:Zph67rFs4hoC",
+            545,
+            "https:\/\/www.nature.com\/articles\/nature13450",
+            "5684883838003725962",
+            "\/scholar?cites=5684883838003725962",
+            {
+                "2014":17,
+                "2015":70,
+                "2016":99,
+                "2017":83,
+                "2018":84,
+                "2019":91,
+                "2020":97,
+                "2021":2
+            }
+        ],
+        [
+            "Antihydrogen atoms (H) are confined in an Ioffe trap for 15\u20131000 s\u2014long enough to ensure that they reach their ground state. Though reproducibility challenges remain in making large numbers of cold antiprotons (p) and positrons (e+) interact, 5\u00b11 simultaneously confined ground-state atoms are produced and observed on average, substantially more than previously reported. Increases in the number of simultaneously trapped H are critical if laser cooling of trapped H is to be demonstrated and spectroscopic studies at interesting levels of precision are to be carried out.",
+            "Trapped antihydrogen in its ground state",
+            "G Gabrielse and R Kalra and WS Kolthammer and R McConnell and P Richerme and D Grzonka and W Oelert and T Sefzick and M Zielinski and DW Fitzakerley and MC George and EA Hessels and CH Storry and M Weel and A M\u00fcllers and J Walz and ATRAP Collaboration",
+            "2012",
+            "PPkVPkIAAAAJ:qjMakFHDy7sC",
+            220,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.108.113002",
+            "17417395596198704245",
+            "\/scholar?cites=17417395596198704245",
+            {
+                "2012":10,
+                "2013":30,
+                "2014":37,
+                "2015":23,
+                "2016":27,
+                "2017":25,
+                "2018":26,
+                "2019":17,
+                "2020":22,
+                "2021":1
+            }
+        ],
+        [
+            "Slow antihydrogen (H) is produced within a Penning trap that is located within a quadrupole Ioffe trap, the latter intended to ultimately confine extremely cold, ground-state H atoms. Observed H atoms in this configuration resolve a debate about whether positrons and antiprotons can be brought together to form atoms within the divergent magnetic fields of a quadrupole Ioffe trap. The number of detected H atoms actually increases when a 400 mK Ioffe trap is turned on.",
+            "Antihydrogen production within a Penning-Ioffe trap",
+            "G Gabrielse and P Larochelle and D Le Sage and B Levitt and WS Kolthammer and R McConnell and P Richerme and J Wrubel and A Speck and MC George and D Grzonka and W Oelert and T Sefzick and Z Zhang and A Carew and D Comeau and EA Hessels and CH Storry and M Weel and J Walz and ATRAP Collaboration",
+            "2008",
+            "PPkVPkIAAAAJ:u-x6o8ySG0sC",
+            136,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.100.113001",
+            "5051717160250545378",
+            "\/scholar?cites=5051717160250545378",
+            {
+                "2008":6,
+                "2009":20,
+                "2010":26,
+                "2011":17,
+                "2012":12,
+                "2013":13,
+                "2014":8,
+                "2015":5,
+                "2016":3,
+                "2017":1,
+                "2018":10,
+                "2019":7,
+                "2020":5
+            }
+        ],
+        [
+            "The physics of interacting integer-spin chains has been a topic of intense theoretical interest, particularly in the context of symmetry-protected topological phases. However, there has not been a controllable model system to study this physics experimentally. We demonstrate how spin-dependent forces on trapped ions can be used to engineer an effective system of interacting spin-1 particles. Our system evolves coherently under an applied spin-1 X Y Hamiltonian with tunable, long-range couplings, and all three quantum levels at each site participate in the dynamics. We observe the time evolution of the system and verify its coherence by entangling a pair of effective three-level particles (\u201cqutrits\u201d) with 86% fidelity. By adiabatically ramping a global field, we produce ground states of the X Y model, and we demonstrate an instance where the ground state cannot be created without breaking the same symmetries that \u2026",
+            "Realization of a Quantum Integer-Spin Chain with Controllable Interactions",
+            "C Senko and P Richerme and J Smith and A Lee and I Cohen and A Retzker and C Monroe",
+            "2014",
+            "PPkVPkIAAAAJ:mUJArPsKIAAC",
+            115,
+            "https:\/\/journals.aps.org\/prx\/abstract\/10.1103\/PhysRevX.5.021026",
+            "7703453416903730799",
+            "\/scholar?cites=7703453416903730799",
+            {
+                "2014":1,
+                "2015":10,
+                "2016":21,
+                "2017":17,
+                "2018":17,
+                "2019":25,
+                "2020":22,
+                "2021":1
+            }
+        ],
+        [
+            "Although statistical mechanics describes thermal equilibrium states, these states may or may not emerge dynamically for a subsystem of an isolated quantum many-body system. For instance, quantum systems that are near-integrable usually fail to thermalize in an experimentally realistic time scale, and instead relax to quasi-stationary prethermal states that can be described by statistical mechanics, when approximately conserved quantities are included in a generalized Gibbs ensemble (GGE). We experimentally study the relaxation dynamics of a chain of up to 22 spins evolving under a long-range transverse-field Ising Hamiltonian following a sudden quench. For sufficiently long-range interactions, the system relaxes to a new type of prethermal state that retains a strong memory of the initial conditions. However, the prethermal state in this case cannot be described by a standard GGE; it rather arises from an \u2026",
+            "Observation of prethermalization in long-range interacting spin chains",
+            "Brian Neyenhuis and Jiehang Zhang and Paul W Hess and Jacob Smith and Aaron C Lee and Phil Richerme and Zhe-Xuan Gong and Alexey V Gorshkov and Christopher Monroe",
+            "2017",
+            "PPkVPkIAAAAJ:HJSXoJQnj-YC",
+            86,
+            "https:\/\/advances.sciencemag.org\/content\/3\/8\/e1700672?utm_source=TrendMD&utm_medium=cpc&utm_campaign=TrendMD_1",
+            "11786174165522777099",
+            "\/scholar?cites=11786174165522777099",
+            {
+                "2016":1,
+                "2017":8,
+                "2018":12,
+                "2019":29,
+                "2020":34,
+                "2021":2
+            }
+        ],
+        [
+            "We demonstrate loading of Sr+ 88 ions into a 0.5\u2212 mm-scale printed circuit board surface-electrode ion trap. We then characterize the trap by measuring the secular frequencies and comparing them to a three-dimensional simulation of the trap, and by measuring the stray electric fields along two of the trap\u2019s principal axes. Cancelling these fields by applying additional voltages enables a hundredfold increase in the trap lifetime to greater than ten minutes at a vacuum of 10\u2212 9 torr.",
+            "Loading and characterization of a printed-circuit-board atomic ion trap",
+            "Kenneth R Brown and Robert J Clark and Jaroslaw Labaziewicz and Philip Richerme and David R Leibrandt and Isaac L Chuang",
+            "2007",
+            "PPkVPkIAAAAJ:d1gkVwhDpl0C",
+            77,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.75.015401",
+            "2652928670781458696",
+            "\/scholar?cites=2652928670781458696",
+            {
+                "2007":4,
+                "2008":9,
+                "2009":5,
+                "2010":6,
+                "2011":16,
+                "2012":9,
+                "2013":5,
+                "2014":2,
+                "2015":7,
+                "2016":6,
+                "2017":2,
+                "2018":1,
+                "2019":3
+            }
+        ],
+        [
+            "We use local adiabatic evolution to experimentally create and determine the ground-state spin ordering of a fully connected Ising model with up to 14 spins. Local adiabatic evolution\u2014in which the system evolution rate is a function of the instantaneous energy gap\u2014is found to maximize the ground-state probability compared with other adiabatic methods while requiring knowledge only of the lowest\u223c N of the 2 N Hamiltonian eigenvalues. We also demonstrate that the ground-state ordering can be experimentally identified as the most probable of all possible spin configurations, even when the evolution is highly nonadiabatic.",
+            "Experimental performance of a quantum simulator: Optimizing adiabatic evolution and identifying many-body ground states",
+            "Philip Richerme and Crystal Senko and Jacob Smith and Aaron Lee and Simcha Korenblit and Christopher Monroe",
+            "2013",
+            "PPkVPkIAAAAJ:8k81kl-MbHgC",
+            64,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.88.012334",
+            "7226220063270965334",
+            "\/scholar?cites=7226220063270965334",
+            {
+                "2013":3,
+                "2014":9,
+                "2015":9,
+                "2016":12,
+                "2017":5,
+                "2018":7,
+                "2019":8,
+                "2020":10,
+                "2021":1
+            }
+        ],
+        [
+            "Quantum simulators, in which well-controlled quantum systems are used to reproduce the dynamics of less understood ones, have the potential to explore physics inaccessible to modeling with classical computers. However, checking the results of such simulations also becomes classically intractable as system sizes increase. Here, we introduce and implement a coherent imaging spectroscopic technique, akin to magnetic resonance imaging, to validate a quantum simulation. We use this method to determine the energy levels and interaction strengths of a fully connected quantum many-body system. Additionally, we directly measure the critical energy gap near a quantum phase transition. We expect this general technique to become a verification tool for quantum simulators once experiments advance beyond proof-of-principle demonstrations and exceed the resources of conventional computers.",
+            "Coherent imaging spectroscopy of a quantum many-body spin system",
+            "C Senko and J Smith and P Richerme and A Lee and WC Campbell and C Monroe",
+            "2014",
+            "PPkVPkIAAAAJ:KlAtU1dfN6UC",
+            63,
+            "https:\/\/science.sciencemag.org\/content\/345\/6195\/430.abstract",
+            "11947254030485785392",
+            "\/scholar?cites=11947254030485785392",
+            {
+                "2014":5,
+                "2015":11,
+                "2016":16,
+                "2017":11,
+                "2018":6,
+                "2019":4,
+                "2020":10
+            }
+        ],
+        [
+            "Adiabatic cooling is shown to be a simple and effective method to cool many charged particles in a trap to very low temperatures. Up to 3\u00d7 10 6 p are cooled to 3.5 K\u201410 3 times more cold p and a 3 times lower p temperature than previously reported. A second cooling method cools p plasmas via the synchrotron radiation of embedded e\u2212(with many fewer e\u2212 than p) in preparation for adiabatic cooling. No p are lost during either process\u2014a significant advantage for rare particles.",
+            "Adiabatic cooling of antiprotons",
+            "G Gabrielse and WS Kolthammer and R McConnell and P Richerme and R Kalra and E Novitski and D Grzonka and W Oelert and T Sefzick and M Zielinski and D Fitzakerley and MC George and EA Hessels and CH Storry and M Weel and A M\u00fcllers and J Walz and ATRAP Collaboration",
+            "2011",
+            "PPkVPkIAAAAJ:2osOgNQ5qMEC",
+            63,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.106.073002",
+            "10489749865393083543",
+            "\/scholar?cites=10489749865393083543",
+            {
+                "2011":1,
+                "2012":11,
+                "2013":10,
+                "2014":4,
+                "2015":11,
+                "2016":9,
+                "2017":5,
+                "2018":5,
+                "2019":1,
+                "2020":5
+            }
+        ]
+    ]
+}

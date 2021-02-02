@@ -1,0 +1,39 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "PCF0EBQ0",
+            "JebpwOAAAAAJ",
+            [
+                "Dynamics of domain growth in self-assembled fluid vesicles",
+                "Stability of ordered phases in diblock copolymer melts",
+                "Structural properties of Si 1\u2212 x Ge x alloys: A Monte Carlo simulation with the Stillinger-Weber potential",
+                "Domain growth, budding, and fission in phase-separating self-assembled fluid bilayers",
+                "Hydrodynamic interaction in polymer solutions simulated with dissipative particle dynamics"
+            ],
+            [
+                "The dynamics of phase separation in multicomponent bilayer fluid vesicles is investigated by means of large-scale dissipative particle dynamics. The model explicitly accounts for solvent particles, thereby allowing for the very first numerical investigation of the effects of hydrodynamics and area-to-volume constraints. We observed regimes corresponding to coalescence of flat patches, budding and vesiculation, and coalescence of caps. We point out that the area-to-volume constraint has a strong influence on crossovers between these regimes.",
+                "The stability of the diblock copolymer ordered phases is investigated by means of a novel theory of anisotropic composition fluctuations. The analogy between a polymer chain in a periodic structure and an electron in a crystalline solid is exploited in the development of the theory. This theory allows the calculation of the spinodal lines, the most unstable modes, and the scattering functions of the ordered phases. The one-phase regions of the lamellar, cylindrical, and spherical phases are found to be within their corresponding stability regions. On the other hand, the hexagonally-perforated lamellar phase is unstable along the lamellar\u2212cylindrical phase boundary. The most unstable fluctuation modes are readily identified and are used to infer the kinetic pathways of the order\u2212order phase transitions. We speculate that the experimentally observed modulated and\/or perforated layered states along the lamellar \u2026",
+                "The structural properties of binary silicon-germanium alloys are investigated by means of large-scale constant-pressure Monte Carlo simulations of the Stillinger-Weber model. At low temperatures, the binary-mixture phase separates into Si-rich and Ge-rich phases. The two-phase coexistence region is terminated by a critical point that belongs to the mean-field universality class. We also studied the structural properties of pure Si and Ge as well as the binary mixture. In particular, we found that the linear thermal expansions for both Si and Ge are in agreement with experiments, and that V\u00e9gard\u2019s law is valid at temperatures above the critical point. Finally, we compare the bond-length and bond-angle distributions with earlier analytical and numerical calculations based on the Kirkwood potential.",
+                "A systematic investigation of the phase-separation dynamics in self-assembled binary fluid vesicles and open membranes is presented. We use large-scale dissipative particle dynamics to explicitly account for solvent, thereby allowing for numerical investigation of the effects of hydrodynamics and area-to-volume constraints. In the case of asymmetric lipid composition, we observed regimes corresponding to coalescence of flat patches, budding, vesiculation, and coalescence of caps. The area-to-volume constraint and hydrodynamics have a strong influence on these regimes and the crossovers between them. In the case of symmetric mixtures, irrespective of the area-to-volume ratio, we observed a growth regime with an exponent of 1\u22152. The same exponent is also found in the case of open membranes with symmetric composition.",
+                "The authors analyzed extensively the dynamics of polymer chains in solutions simulated with dissipative particle dynamics (DPD), with a special focus on the potential influence of a low Schmidt number of a typical DPD fluid on the simulated polymer dynamics. It has been argued that a low Schmidt number in a DPD fluid can lead to underdevelopment of the hydrodynamic interaction in polymer solutions. The authors\u2019 analyses reveal that equilibrium polymer dynamics in dilute solution, under typical DPD simulation conditions, obey the Zimm [J. Chem. Phys. 24, 269 (1956)] model very well. With a further reduction in the Schmidt number, a deviation from the Zimm model to the Rouse model is observed. This implies that the hydrodynamic interaction between monomers is reasonably developed under typical conditions of a DPD simulation. Only when the Schmidt number is further reduced, the hydrodynamic \u2026"
+            ],
+            [
+                [
+                    "Biological Physics",
+                    "Soft Matter Physics",
+                    "Polymer Physics"
+                ]
+            ]
+        ]
+    ]
+}

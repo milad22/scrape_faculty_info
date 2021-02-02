@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "DZV6VI5K",
+            "UjV0M9QAAAAJ",
+            [
+                "Multi-view clustering.",
+                "Active hidden markov models for information extraction",
+                "Discriminative learning for differing training and test distributions",
+                "Unsupervised prediction of citation influences",
+                "Discriminative learning under covariate shift.",
+                "Efficient co-regularised least squares regression",
+                "Co-EM support vector learning",
+                "Finding association rules that trade support optimally against confidence",
+                "Multi-task learning for HIV therapy screening",
+                "Stackelberg games for adversarial prediction problems"
+            ],
+            [
+                "We consider clustering problems in which the available attributes can be split into two independent subsets, such that either subset suffices for learning. Example applications of this multi-view setting include clustering of web pages which have an intrinsic view (the pages themselves) and an extrinsic view (eg, anchor texts of inbound hyperlinks); multi-view learning has so far been studied in the context of classification. We develop and study partitioning and agglomerative, hierarchical multi-view clustering algorithms for text data. We find empirically that the multiview versions of k-Means and EM greatly improve on their single-view counterparts. By contrast, we obtain negative results for agglomerative hierarchical multi-view clustering. Our analysis explains this surprising phenomenon.",
+                "Information extraction from HTML documents requires a classifier capable of assigning semantic labels to the words or word sequences to be extracted. If completely labeled documents are available for training, well-known Markov model techniques can be used to learn such classifiers. In this paper, we consider the more challenging task of learning hidden Markov models (HMMs) when only partially (sparsely) labeled documents are available for training. We first give detailed account of the task and its appropriate loss function, and show how it can be minimized given an HMM. We describe an EM style algorithm for learning HMMs from partially labeled data. We then present an active learning algorithm that selects \u201cdifficult\u201d unlabeled tokens and asks the user to label them. We study empirically by how much active learning reduces the required data labeling effort, or increases the quality of the learned \u2026",
+                "We address classification problems for which the training instances are governed by a distribution that is allowed to differ arbitrarily from the test distribution---problems also referred to as classification under covariate shift. We derive a solution that is purely discriminative: neither training nor test distribution are modeled explicitly. We formulate the general problem of learning under covariate shift as an integrated optimization problem. We derive a kernel logistic regression classifier for differing training and test distributions.",
+                "Publication repositories contain an abundance of information about the evolution of scientific research areas. We address the problem of creating a visualization of a research area that describes the flow of topics between papers, quantifies the impact that papers have on each other, and helps to identify key contributions. To this end, we devise a probabilistic topic model that explains the generation of documents; the model incorporates the aspects of topical innovation and topical inheritance via citations. We evaluate the model's ability to predict the strength of influence of citations against manually rated citations.",
+                "We address classification problems for which the training instances are governed by an input distribution that is allowed to differ arbitrarily from the test distribution\u2014problems also referred to as classification under covariate shift. We derive a solution that is purely discriminative: neither training nor test distribution are modeled explicitly. The problem of learning under covariate shift can be written as an integrated optimization problem. Instantiating the general optimization problem leads to a kernel logistic regression and an exponential model classifier for covariate shift. The optimization problem is convex under certain conditions; our findings also clarify the relationship to the known kernel mean matching procedure. We report on experiments on problems of spam filtering, text classification, and landmine detection.",
+                "In many applications, unlabelled examples are inexpensive and easy to obtain. Semi-supervised approaches try to utilise such examples to reduce the predictive error. In this paper, we investigate a semi-supervised least squares regression algorithm based on the co-learning approach. Similar to other semi-supervised algorithms, our base algorithm has cubic runtime complexity in the number of unlabelled examples. To be able to handle larger sets of unlabelled examples, we devise a semi-parametric variant that scales linearly in the number of unlabelled examples. Experiments show a significant error reduction by co-regularisation and a large runtime improvement for the semi-parametric approximation. Last but not least, we propose a distributed procedure that can be applied without collecting all data at a single site.",
+                "Multi-view algorithms, such as co-training and co-EM, utilize unlabeled data when the available attributes can be split into independent and compatible subsets. Co-EM outperforms co-training for many problems, but it requires the underlying learner to estimate class probabilities, and to learn from probabilistically labeled data. Therefore, co-EM has so far only been studied with naive Bayesian learners. We cast linear classifiers into a probabilistic framework and develop a co-EM version of the Support Vector Machine. We conduct experiments on text classification problems and compare the family of semi-supervised support vector algorithms under different conditions, including violations of the assumptions underlying multi-view learning. For some problems, such as course web page classification, we observe the most accurate results reported so far.",
+                "When evaluating association rules, rules that differ in both support and confidence have to compared; a larger support has to be traded against a higher confidence. The solution which we propose for this problem is to maximize the expected accuracy that the association rule will have for future data. In a Bayesian framework, we determine the contributions of confidence and support to the expected accuracy on future data. We present a fast algorithm that finds the n best rules which maximize the resulting criterion. The algorithm dynamically prunes redundant rules and parts of the hypothesis space that cannot contain better solutions than the best ones found so far. We evaluate the performance of the algorithm (relative to the Apriori algorithm) on realistic knowledge discovery problems.",
+                "We address the problem of learning classifiers for a large number of tasks. We derive a solution that produces resampling weights which match the pool of all examples to the target distribution of any given task. Our work is motivated by the problem of predicting the outcome of a therapy attempt for a patient who carries an HIV virus with a set of observed genetic properties. Such predictions need to be made for hundreds of possible combinations of drugs, some of which use similar biochemical mechanisms. Multi-task learning enables us to make predictions even for drug combinations with few or no training examples and substantially improves the overall prediction accuracy.",
+                "The standard assumption of identically distributed training and test data is violated when test data are generated in response to a predictive model. This becomes apparent, for example, in the context of email spam filtering, where an email service provider employs a spam filter and the spam sender can take this filter into account when generating new emails. We model the interaction between learner and data generator as a Stackelberg competition in which the learner plays the role of the leader and the data generator may react on the leader's move. We derive an optimization problem to determine the solution of this game and present several instances of the Stackelberg prediction game. We show that the Stackelberg prediction game generalizes existing prediction models. Finally, we explore properties of the discussed models empirically in the context of email spam filtering."
+            ],
+            [
+                [
+                    "Machine learning"
+                ]
+            ]
+        ]
+    ]
+}

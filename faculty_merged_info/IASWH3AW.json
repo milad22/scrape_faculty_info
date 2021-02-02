@@ -1,0 +1,38 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "IASWH3AW",
+            "X759XqAAAAAJ",
+            [
+                "Numerical approximation of quadratic observables of Schr\u00f6dinger-type equations in the semi-classical limit",
+                "A Wigner-Measure Analysis of the Dufort--Frankel Scheme for the Schr\u00f6dinger Equation",
+                "Numerical simulation of semiconductor devices: energy-transport and quantum hydrodynamic modeling",
+                "Weak limits of the quantum hydrodynamic model"
+            ],
+            [
+                " We apply Wigner-transform techniques to the analysis of difference methods for Schr\u00f6dinger-type equations in the case of a small Planck constant. In this way we are able to obtain sharp conditions on the spatial-temporal grid which guarantee convergence for average values of observables as the Planck constant tends to zero. The theory developed in this paper is not based on local and global error estimates and does not depend on whether caustics develop or not. Numerical test examples are presented to help interpret the theory.",
+                "We apply Wigner transform techniques to the analysis of the Dufort--Frankel difference scheme for the Schr\u00f6dinger equation and to the continuous analogue of the scheme in the case of a small (scaled) Planck constant (semiclassical regime). In this way we are able to obtain sharp conditions on the spatial-temporal grid which guarantee convergence for average values of observables as the Planck constant tends to zero. The theory developed in this paper is not based on local and global error estimates and does not depend on whether or not caustics develop. Numerical test examples are presented to help interpret the theory and to compare the Dufort--Frankel scheme to other difference schemes for the Schr{\u00f6dinger equation.",
+                "In this paper, the authors discuss two modern semiconductor models: the energy-transport and the quantum hydrodynamic equations. The energy-transport models consist of the conservation laws for mass and energy for the electrons, coupled self-consistently to the Poisson equation. The quantum hydrodynamic equations consist of the conservation laws for mass, momentum and energy, including the Poisson equation.",
+                "A numerical study of the dispersive limit of the quantum hydrodynamic equations for semiconductors is presented. The solution may develop high frequency oscillations when the scaled Planck constant is small. Numerical evidence is given of the fact that in such cases the solution does not converge to the solution of the formal limit equations."
+            ],
+            [
+                [
+                    "Statistik",
+                    "Mathematik",
+                    "SAP ERP",
+                    "Consulting"
+                ]
+            ]
+        ]
+    ]
+}

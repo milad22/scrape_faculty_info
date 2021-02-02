@@ -1,0 +1,112 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "VqHtUUcAAAAJ",
+            "Mark Vogelsberger",
+            "Massachusetts Institute of Technology",
+            "@mit.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=VqHtUUcAAAAJ",
+            21804,
+            [
+                "Astrophysics"
+            ],
+            17131,
+            70,
+            64,
+            174,
+            171,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"hLXjO8QAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Volker Springel",
+                    "affiliation":"Max-Planck-Institute for Astrophysics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"rXsHCuYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Paul Torrey",
+                    "affiliation":"Assistant Professor, University of Florida"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"GlyuqYgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Shy Genel",
+                    "affiliation":"Associate Research Scientist, Center for Computational Astrophysics, Flatiron Institute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"BdRLzIAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Federico Marinacci",
+                    "affiliation":"Senior assistant professor, University of Bologna"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"1BkzSoIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jesus Zavala",
+                    "affiliation":"Associate Professor, Faculty of Physical Sciences, University of Iceland"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Gv-FkZ4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Simon D M White",
+                    "affiliation":"Max Planck Institute for Astrophysics"
+                }
+            ]
+        ]
+    ]
+}

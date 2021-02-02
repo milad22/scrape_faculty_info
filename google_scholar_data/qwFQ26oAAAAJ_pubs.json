@@ -1,0 +1,119 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "data":[
+        [
+            "Recent advances in neural sequence-to-sequence models have led to promising results for several language generation-based tasks, including dialogue response generation, summarization, and machine translation. However, these models are known to have several problems, especially in the context of chit-chat based dialogue systems: they tend to generate short and dull responses that are often too generic. Furthermore, these models do not ground conversational responses on knowledge and facts, resulting in turns that are not accurate, informative and engaging for the users. In this paper, we propose and experiment with a series of response generation models that aim to serve in the general scenario where in addition to the dialogue context, relevant unstructured external knowledge in the form of text is also assumed to be available for models to harness. Our proposed approach extends pointer-generator networks (See et al., 2017) by allowing the decoder to hierarchically attend and copy from external knowledge in addition to the dialogue context. We empirically show the effectiveness of the proposed model compared to several baselines including (Ghazvininejad et al., 2018; Zhang et al., 2018) through both automatic evaluation metrics and human evaluation on CONVAI2 dataset.",
+            "DEEPCOPY: Grounded Response Generation with Hierarchical Pointer Networks",
+            "Semih Yavuz and Abhinav Rastogi and Guan-Lin Chao and Dilek Hakkani-T\u00fcr",
+            "2018",
+            "qwFQ26oAAAAJ:eQOLeE2rZwMC",
+            33,
+            "https:\/\/arxiv.org\/abs\/1908.10731",
+            "6942847260988245697",
+            "\/scholar?cites=6942847260988245697",
+            {
+                "2019":7,
+                "2020":26
+            }
+        ],
+        [
+            "An important yet rarely tackled problem in dialogue state tracking (DST) is scalability for dynamic ontology (eg, movie, restaurant) and unseen slot values. We focus on a specific condition, where the ontology is unknown to the state tracker, but the target slot value (except for none and dontcare), possibly unseen during training, can be found as word segment in the dialogue context. Prior approaches often rely on candidate generation from n-gram enumeration or slot tagger outputs, which can be inefficient or suffer from error propagation. We propose BERT-DST, an end-to-end dialogue state tracker which directly extracts slot values from the dialogue context. We use BERT as dialogue context encoder whose contextualized language representations are suitable for scalable DST to identify slot values from their semantic context. Furthermore, we employ encoder parameter sharing across all slots with two advantages:(1) Number of parameters does not grow linearly with the ontology.(2) Language representation knowledge can be transferred among slots. Empirical evaluation shows BERT-DST with cross-slot parameter sharing outperforms prior work on the benchmark scalable DST datasets Sim-M and Sim-R, and achieves competitive performance on the standard DSTC2 and WOZ 2.0 datasets.",
+            "BERT-DST: Scalable end-to-end dialogue state tracking with bidirectional encoder representations from transformer",
+            "Guan-Lin Chao and Ian Lane",
+            "2019",
+            "qwFQ26oAAAAJ:0EnyYjriUFMC",
+            31,
+            "https:\/\/arxiv.org\/abs\/1907.03040",
+            "3047437415744076241",
+            "\/scholar?cites=3047437415744076241",
+            {
+                "2019":3,
+                "2020":27,
+                "2021":1
+            }
+        ],
+        [
+            "City-identification of videos aims to determine the likelihood of a video belonging to a set of cities. In this paper, we present an approach using only audio, thus we do not use any additional modality such as images, user-tags or geo-tags. In this manner, we show to what extent the city-location of videos correlates to their acoustic information. Success in this task suggests improvements can be made to complement the other modalities. In particular, we present a method to compute and use semantic acoustic features to perform city-identification and the features show semantic evidence of the identification. The semantic evidence is given by a taxonomy of urban sounds and expresses the potential presence of these sounds in the city-soundtracks. We used the MediaEval Placing Task set, which contains Flickr videos labeled by city. In addition, we used the UrbanSound8K set containing audio clips labeled by sound \u2026",
+            "City-identification of flickr videos using semantic acoustic features",
+            "Benjamin Elizalde and Guan-Lin Chao and Ming Zeng and Ian Lane",
+            "2016",
+            "qwFQ26oAAAAJ:Tyk-4Ss8FVUC",
+            8,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7545041\/",
+            "5249150098990775282",
+            "\/scholar?cites=5249150098990775282",
+            {
+                "2016":1,
+                "2017":2,
+                "2018":3,
+                "2019":2
+            }
+        ],
+        [
+            "Speech recognition in cocktail-party environments remains a significant challenge for state-of-the-art speech recognition systems, as it is extremely difficult to extract an acoustic signal of an individual speaker from a background of overlapping speech with similar frequency and temporal characteristics. We propose the use of speaker-targeted acoustic and audio-visual models for this task. We complement the acoustic features in a hybrid DNN-HMM model with information of the target speaker's identity as well as visual features from the mouth region of the target speaker. Experimentation was performed using simulated cocktail-party data generated from the GRID audio-visual corpus by overlapping two speakers's speech on a single acoustic channel. Our audio-only baseline achieved a WER of 26.3%. The audio-visual model improved the WER to 4.4%. Introducing speaker identity information had an even more pronounced effect, improving the WER to 3.6%. Combining both approaches, however, did not significantly improve performance further. Our work demonstrates that speaker-targeted models can significantly improve the speech recognition in cocktail party environments.",
+            "Speaker-Targeted Audio-Visual Models for Speech Recognition in Cocktail-Party Environments.",
+            "Guan-Lin Chao and William Chan and Ian Lane",
+            "2016",
+            "qwFQ26oAAAAJ:Y0pCki6q_DkC",
+            8,
+            "https:\/\/arxiv.org\/abs\/1906.05962",
+            "36462532835229243",
+            "\/scholar?cites=36462532835229243",
+            {
+                "2018":1,
+                "2019":1,
+                "2020":5
+            }
+        ],
+        [
+            "Aiming at development of intelligent service on mobile device, this paper proposes a new travel information query method, which combines image acquisition device, image recognition, and recommendation technologies. The framework of information query consists of four components, including passive information query, active information query, trip scheduling, and information management. A prototype application is designed to demonstrate the feasibility of smart tourism guidance by mobile device. User can browses stationary information through the application program. Furthermore, the user takes pictures and transmits it to cloud server. The cloud server hosts image recognition and delivers the corresponding information to the user. For trip scheduling, the prototype recommends the proper trips to guide user easily, which is referred to user\u2019s preferences with location based service. The resultants \u2026",
+            "Scene feature recognition-enabled framework for mobile service information query system",
+            "Yi-Chong Zeng and Ya-Hui Chan and Ting-Yu Lin and Meng-Jung Shih and Pei-Yu Hsieh and Guan-Lin Chao",
+            "2015",
+            "qwFQ26oAAAAJ:2osOgNQ5qMEC",
+            5,
+            "https:\/\/link.springer.com\/chapter\/10.1007\/978-3-319-20618-9_7",
+            "18278789422541368405",
+            "\/scholar?cites=18278789422541368405",
+            {
+                "2017":2,
+                "2018":1,
+                "2019":2
+            }
+        ],
+        [
+            "Understanding and conversing about dynamic scenes is one of the key capabilities of AI agents that navigate the environment and convey useful information to humans. Video question answering is a specific scenario of such AI-human interaction where an agent generates a natural language response to a question regarding the video of a dynamic scene. Incorporating features from multiple modalities, which often provide supplementary information, is one of the challenging aspects of video question answering. Furthermore, a question often concerns only a small segment of the video, hence encoding the entire video sequence using a recurrent neural network is not computationally efficient. Our proposed question-guided video representation module efficiently generates the token-level video summary guided by each word in the question. The learned representations are then fused with the question to generate the answer. Through empirical evaluation on the Audio Visual Scene-aware Dialog (AVSD) dataset, our proposed models in single-turn and multi-turn question answering achieve state-of-the-art performance on several automatic natural language generation evaluation metrics.",
+            "Learning Question-Guided Video Representation for Multi-Turn Video Question Answering",
+            "Guan-Lin Chao and Abhinav Rastogi and Semih Yavuz and Dilek Hakkani-T\u00fcr and Jindong Chen and Ian Lane",
+            "2019",
+            "qwFQ26oAAAAJ:LkGwnXOMwfcC",
+            3,
+            "https:\/\/arxiv.org\/abs\/1907.13280",
+            "16550882619258970534",
+            "\/scholar?cites=16550882619258970534",
+            {
+                "2020":1,
+                "2021":2
+            }
+        ]
+    ]
+}

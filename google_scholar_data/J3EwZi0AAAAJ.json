@@ -1,0 +1,112 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "J3EwZi0AAAAJ",
+            "Julia A. Mundy",
+            "Harvard University",
+            "@fas.harvard.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=J3EwZi0AAAAJ",
+            2535,
+            [
+
+            ],
+            1849,
+            27,
+            25,
+            32,
+            29,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Qjzp1T8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David A Muller",
+                    "affiliation":"Professor of Applied and Engineering Physics, Cornell University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9XfP2cAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Darrell G. Schlom",
+                    "affiliation":"Cornell University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Co02BrEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Lena F. Kourkoutis",
+                    "affiliation":"Associate Professor of Applied and Engineering Physics, Cornell"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"J-YSTB8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Charles M Brooks",
+                    "affiliation":"Harvard University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Sp-3E80AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Robert Hovden",
+                    "affiliation":"University of Michigan"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"IEMaXOMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Huolin L. Xin",
+                    "affiliation":"Associate Professor (with tenure), University of California, Irvine"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "We have developed a high-resolution fluorescence microscopy method based on high-accuracy localization of photoswitchable fluorophores. In each imaging cycle, only a fraction of the fluorophores were turned on, allowing their positions to be determined with nanometer accuracy. The fluorophore positions obtained from a series of imaging cycles were used to reconstruct the overall image. We demonstrated an imaging resolution of 20 nm. This technique can, in principle, reach molecular-scale resolution.",
+            "Sub-diffraction-limit imaging by stochastic optical reconstruction microscopy (STORM)",
+            "Michael J Rust and Mark Bates and Xiaowei Zhuang",
+            "2006",
+            "Dh-xOjwAAAAJ:u5HHmVD_uO8C",
+            6547,
+            "https:\/\/www.nature.com\/articles\/nmeth929",
+            "12034510153091073750",
+            "\/scholar?cites=12034510153091073750",
+            {
+                "2007":71,
+                "2008":133,
+                "2009":219,
+                "2010":271,
+                "2011":312,
+                "2012":402,
+                "2013":519,
+                "2014":596,
+                "2015":610,
+                "2016":628,
+                "2017":667,
+                "2018":690,
+                "2019":656,
+                "2020":671,
+                "2021":44
+            }
+        ]
+    ]
+}

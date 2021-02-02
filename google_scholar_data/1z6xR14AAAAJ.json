@@ -1,0 +1,101 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "1z6xR14AAAAJ",
+            "Ian Appelbaum",
+            "University of Maryland, College Park",
+            "@physics.umd.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=1z6xR14AAAAJ",
+            3971,
+            [
+                "semiconductor device physics",
+                "spintronics"
+            ],
+            1527,
+            29,
+            17,
+            52,
+            25,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Wcx_lrkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hanan Dery",
+                    "affiliation":"Professor of Electrical and Computer Engineering, University of Rochester"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ift9VLcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Charles M. Marcus",
+                    "affiliation":"Villum Kann Rasmussen Professor, Niels Bohr Institute, UCPH, and Scientific Director, Microsoft"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ZGW8T3wAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michael S. Fuhrer",
+                    "affiliation":"School of Physics, Monash University; Department of Physics,  University of Maryland"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"p1HQk-QAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Nicholas P. Butch",
+                    "affiliation":"National Institute of Standards and Technology and University of Maryland"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"CmpEzW8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Federico Capasso",
+                    "affiliation":"Harvard University"
+                }
+            ]
+        ]
+    ]
+}

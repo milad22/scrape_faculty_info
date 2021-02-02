@@ -1,0 +1,90 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "wl3eS34AAAAJ",
+            "Jenny Lucia Huertas Delgado",
+            "Profesor de Ingenier\u00eda Ambiental, Universidad Mariana",
+            "@umariana.edu.co",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=wl3eS34AAAAJ",
+            56,
+            [
+                "Suelos",
+                "Remediaci\u00f3n de suelos",
+                "Aguas subterr\u00e1neas"
+            ],
+            50,
+            3,
+            3,
+            2,
+            1,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Gzzq1wMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jos\u00e9 D\u00f6rner",
+                    "affiliation":"Instituto de Ingenier\u00eda Agraria y Suelos, Facultad de Ciencias Agrarias, Universidad Austral de Chile"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"kN8-6A8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jose Luis Arumi",
+                    "affiliation":"Universidad de Concepcion"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"q9u5mg4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Daisy Gabriela Guerrero Obando",
+                    "affiliation":"Profesor de Ingenier\u00eda Ambiental, Universidad Mariana"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"frZlon8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hern\u00e1n Burbano Orjuela",
+                    "affiliation":"Universidad de Nari\u00f1o"
+                }
+            ]
+        ]
+    ]
+}

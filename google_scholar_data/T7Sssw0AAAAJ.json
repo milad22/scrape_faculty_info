@@ -1,0 +1,66 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "T7Sssw0AAAAJ",
+            "Thomas M. Boudreaux",
+            "Dartmouth College",
+            "@boudreauxmail.com",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=T7Sssw0AAAAJ",
+            28,
+            [
+                "Computational Astrophysics",
+                "Deep Learning",
+                "Stellar Evolution"
+            ],
+            28,
+            2,
+            2,
+            2,
+            2,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ozOlOUcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Brad N. Barlow",
+                    "affiliation":"Director of the Culp Planetarium & Associate Professor of Astrophysics, High Point University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"qGmxA2YAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alan Vasquez Soto",
+                    "affiliation":"University of North Carolina Chapel Hill"
+                }
+            ]
+        ]
+    ]
+}

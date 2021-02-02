@@ -1,0 +1,68 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "N91qJYQAAAAJ",
+            "Douglas Chai",
+            "Edith Cowan University",
+            "@ecu.edu.au",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=N91qJYQAAAAJ",
+            4509,
+            [
+                "Image Processing",
+                "Pattern Recognition",
+                "Video Coding",
+                "Robotics",
+                "Acoustic Signal Processing"
+            ],
+            1047,
+            24,
+            13,
+            33,
+            16,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Ho9uKiwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Son Lam Phung",
+                    "affiliation":"Associate Professor, University of Wollongong"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"H7gzW7QAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ying LIU",
+                    "affiliation":"Institution of Acoustics, CAS  & Edith Cowan University"
+                }
+            ]
+        ]
+    ]
+}

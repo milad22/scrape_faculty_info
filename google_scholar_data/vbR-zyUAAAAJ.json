@@ -1,0 +1,90 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "vbR-zyUAAAAJ",
+            "Benjamin Benni",
+            "PhD in Computer Science, Universit\u00e9 C\u00f4te d'Azur",
+            "@i3s.unice.fr",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=vbR-zyUAAAAJ",
+            19,
+            [
+                "Software Composition",
+                "Software Reuse",
+                "Scalability"
+            ],
+            19,
+            3,
+            3,
+            1,
+            1,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"jaLC6KgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"S\u00e9bastien Mosser",
+                    "affiliation":"Professeur, Software Engineering, Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"2rwhN_UAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Philippe Collet",
+                    "affiliation":"Full Professor of Computer Science, Universit\u00e9 C\u00f4te d'Azur"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"X6MChWcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michel Riveill",
+                    "affiliation":"Professor, Universit\u00e9 C\u00f4te d\u2019Azur"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"C0j6heEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Naouel Moha",
+                    "affiliation":"Universit\u00e9 du Qu\u00e9bec \u00c0 Montr\u00e9al"
+                }
+            ]
+        ]
+    ]
+}

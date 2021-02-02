@@ -1,0 +1,56 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "ZIpeDHkAAAAJ",
+            "Tevian Dray",
+            "Department of Mathematics, Oregon State University",
+            "@onid.orst.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=ZIpeDHkAAAAJ",
+            3034,
+            [
+                "Geometry",
+                "Relativity",
+                "Mathematics Education",
+                "Physics Education",
+                "Octonions"
+            ],
+            920,
+            30,
+            15,
+            61,
+            28,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"n46MEE4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Corinne Alison Manogue",
+                    "affiliation":"Oregon State University"
+                }
+            ]
+        ]
+    ]
+}

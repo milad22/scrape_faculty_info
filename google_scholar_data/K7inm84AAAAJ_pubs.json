@@ -1,0 +1,165 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "data":[
+        [
+            "One of the hallmarks of quantum physics is the generation of non-classical quantum states and superpositions, which has been demonstrated in several quantum systems, including ions, solid-state qubits and photons. However, only indirect demonstrations of non-classical states have been achieved in mechanical systems, despite the scientific appeal and technical utility of such a capability 1, 2, including in quantum sensing, computation and communication applications. This is due in part to the highly linear response of most mechanical systems, which makes quantum operations difficult, as well as their characteristically low frequencies, which hinder access to the quantum ground state 3, 4, 5, 6, 7. Here we demonstrate full quantum control of the mechanical state of a macroscale mechanical resonator. We strongly couple a surface acoustic-wave 8 resonator to a superconducting qubit, using the qubit to control \u2026",
+            "Quantum control of surface acoustic-wave phonons",
+            "Kevin Joseph Satzinger and YP Zhong and H-S Chang and Gregory A Peairs and Audrey Bienfait and Ming-Han Chou and AY Cleland and Cristopher R Conner and \u00c9tienne Dumur and Joel Grebel and Ivan Gutierrez and BH November and Rhys G Povey and SJ Whiteley and David D Awschalom and David I Schuster and Andrew N Cleland",
+            "2018",
+            "K7inm84AAAAJ:zYLM7Y9cAGgC",
+            120,
+            "https:\/\/www.nature.com\/articles\/s41586-018-0719-5",
+            "14141718723003716806",
+            "\/scholar?cites=14141718723003716806",
+            {
+                "2018":5,
+                "2019":37,
+                "2020":70,
+                "2021":7
+            }
+        ],
+        [
+            "Phonons, and in particular surface acoustic wave phonons, have been proposed as a means to coherently couple distant solid-state quantum systems. Individual phonons in a resonant structure can be controlled and detected by superconducting qubits, enabling the coherent generation and measurement of complex stationary phonon states. We report the deterministic emission and capture of itinerant surface acoustic wave phonons, enabling the quantum entanglement of two superconducting qubits. Using a 2-millimeter-long acoustic quantum communication channel, equivalent to a 500-nanosecond delay line, we demonstrate the emission and recapture of a phonon by one superconducting qubit, quantum state transfer between two superconducting qubits with a 67% efficiency, and, by partial transfer of a phonon, generation of an entangled Bell pair with a fidelity of 84%.",
+            "Phonon-mediated quantum state transfer and remote qubit entanglement",
+            "Audrey Bienfait and Kevin J Satzinger and YP Zhong and H-S Chang and M-H Chou and Chris R Conner and \u00c9 Dumur and Joel Grebel and Gregory A Peairs and Rhys G Povey and AN Cleland",
+            "2019",
+            "K7inm84AAAAJ:LkGwnXOMwfcC",
+            65,
+            "https:\/\/science.sciencemag.org\/content\/364\/6438\/368.abstract",
+            "641140638302040057",
+            "\/scholar?cites=641140638302040057",
+            {
+                "2019":12,
+                "2020":48,
+                "2021":5
+            }
+        ],
+        [
+            "Quantum communication relies on the efficient generation of entanglement between remote quantum nodes, as entanglement is required to achieve and verify secure communications 1. Remote entanglement has been realized using a number of different probabilistic schemes 2, 3, but deterministic remote entanglement has only been demonstrated recently, using a variety of superconducting circuit approaches 4, 5, 6. However, the deterministic violation of a Bell inequality 7, a strong measure of quantum correlation, has not been demonstrated so far in a superconducting quantum communication architecture, in part because achieving sufficiently strong correlation requires fast and accurate control of the emission and capture of the entangling photons. Here, we present a simple and robust architecture for achieving this benchmark result in a superconducting system.",
+            "Violating Bell\u2019s inequality with remotely connected superconducting qubits",
+            "YP Zhong and H-S Chang and KJ Satzinger and M-H Chou and Audrey Bienfait and CR Conner and \u00c9 Dumur and Joel Grebel and GA Peairs and RG Povey and DI Schuster and AN Cleland",
+            "2019",
+            "K7inm84AAAAJ:2osOgNQ5qMEC",
+            26,
+            "https:\/\/www.nature.com\/articles\/s41567-019-0507-7",
+            "14998132516904495321",
+            "\/scholar?cites=14998132516904495321",
+            {
+                "2019":6,
+                "2020":19
+            }
+        ],
+        [
+            "We study whether and how the energy scaling based on the single-ridge approximation is revised in an actual crumpled sheet, namely, in the presence of ridge-ridge interactions. Molecular dynamics simulation is employed for this purpose. In order to improve the data quality, modifications are introduced to the common protocol. As crumpling proceeds, we find that the average storing energy changes from being proportional to one-third of the ridge length to a linear relation, while the ratio of bending and stretching energies decreases from 5 to 2. The discrepancy between previous simulations and experiments on the material-dependence for the power-law exponent is resolved. We further determine the average ridge length to scale as 1\/D 1\/3, the ridge number as D 2\/3, and the average storing energy per unit ridge length as D 0.881 where D denotes the volume density of the crumpled ball. These results are \u2026",
+            "Effect of ridge-ridge interactions in crumpled thin sheets",
+            "Shiuan-Fan Liou and Chun-Chao Lo and Ming-Han Chou and Pai-Yi Hsiao and Tzay-Ming Hong",
+            "2014",
+            "K7inm84AAAAJ:u5HHmVD_uO8C",
+            8,
+            "https:\/\/journals.aps.org\/pre\/abstract\/10.1103\/PhysRevE.89.022404",
+            "2595082021961888600",
+            "\/scholar?cites=2595082021961888600",
+            {
+                "2015":3,
+                "2016":1,
+                "2017":1,
+                "2018":2,
+                "2019":1
+            }
+        ],
+        [
+            "Using the deterministic, on-demand generation of two entangled phonons, we demonstrate a quantum eraser protocol in a phononic interferometer where the which-path information can be heralded during the interference process. Omitting the heralding step yields a clear interference pattern in the interfering half-quanta pathways; including the heralding step suppresses this pattern. If we erase the heralded information after the interference has been measured, the interference pattern is recovered, thereby implementing a delayed-choice quantum erasure. The test is implemented using a closed surface acoustic wave communication channel into which one superconducting qubit can emit itinerant phonons that the same or a second qubit can later recapture. If the first qubit releases only half of a phonon, the system follows a superposition of paths during the phonon propagation: either an itinerant phonon is in the \u2026",
+            "Quantum erasure using entangled surface acoustic phonons",
+            "Audrey Bienfait and YP Zhong and H-S Chang and M-H Chou and Christopher R Conner and \u00c9tienne Dumur and Joel Grebel and Gregory A Peairs and Rhys G Povey and Kevin J Satzinger and Andrew N Cleland",
+            "2020",
+            "K7inm84AAAAJ:MXK_kJrjxJIC",
+            7,
+            "https:\/\/journals.aps.org\/prx\/abstract\/10.1103\/PhysRevX.10.021055",
+            "17437057832703869719",
+            "\/scholar?cites=17437057832703869719",
+            {
+                "2020":7
+            }
+        ],
+        [
+            "Effective quantum communication between remote quantum nodes requires high fidelity quantum state transfer and remote entanglement generation. Recent experiments have demonstrated that microwave photons, as well as phonons, can be used to couple superconducting qubits, with a fidelity limited primarily by loss in the communication channel [P. Kurpiers et al., Nature (London) 558, 264 (2018); CJ Axline et al., Nat. Phys. 14, 705 (2018); P. Campagne-Ibarcq et al., Phys. Rev. Lett. 120, 200501 (2018); N. Leung et al., npj Quantum Inf. 5, 18 (2019); YP Zhong et al., Nat. Phys. 15, 741 (2019); A. Bienfait et al., Science 364, 368 (2019)]. Adiabatic protocols can overcome channel loss by transferring quantum states without populating the lossy communication channel. Here, we present a unique superconducting quantum communication system, comprising two superconducting qubits connected by a 0.73 m-long \u2026",
+            "Remote entanglement via adiabatic passage using a tunably dissipative quantum communication system",
+            "H-S Chang and YP Zhong and Audrey Bienfait and M-H Chou and Christopher R Conner and \u00c9tienne Dumur and Joel Grebel and Gregory A Peairs and Rhys G Povey and Kevin J Satzinger and Andrew N Cleland",
+            "2020",
+            "K7inm84AAAAJ:8k81kl-MbHgC",
+            5,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.124.240502",
+            "18092215920822659144",
+            "\/scholar?cites=18092215920822659144",
+            {
+                "2020":4,
+                "2021":1
+            }
+        ],
+        [
+            "A challenge faced by experimenters exploring hybrid quantum systems is how to integrate and interconnect different materials and different substrates in a quantum-coherent fashion. Here, we present a simple and inexpensive flip-chip bonding process, suitable for integrating hybrid quantum devices on chips from different substrates. The process only requires equipment and materials used routinely for contact photolithography, and it is possible to undo the bonding and reuse the chips. The technique requires minimal compressive force, so it is compatible with a wide range of different substrates. Unlike indium-based bonding, this process does not establish a galvanic connection between the two chips, but as we show, in some situations this is not necessary. We demonstrate the technique using lithographically patterned quarter-wave coplanar waveguide resonators, fabricated on one chip, and couple these \u2026",
+            "Simple non-galvanic flip-chip integration method for hybrid quantum systems",
+            "KJ Satzinger and CR Conner and A Bienfait and H-S Chang and Ming-Han Chou and AY Cleland and \u00c9 Dumur and J Grebel and GA Peairs and RG Povey and SJ Whiteley and YP Zhong and DD Awschalom and DI Schuster and AN Cleland",
+            "2019",
+            "K7inm84AAAAJ:roLk4NBRz8UC",
+            4,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.5089888",
+            "7468888892503994271",
+            "\/scholar?cites=7468888892503994271",
+            {
+                "2019":2,
+                "2020":2
+            }
+        ],
+        [
+            "Recent significant advances in coupling superconducting qubits to acoustic wave resonators have led to demonstrations of quantum control of surface and bulk acoustic resonant modes as well as Wigner tomography of quantum states in these modes. These advances were achieved through the efficient coupling afforded by piezoelectric materials combined with GHz-frequency acoustic Fabry-Perot cavities. Quantum control of \u201citinerant\u201d surface acoustic waves appears in reach but is challenging due to the limitations of conventional transducers in the appropriate gigahertz-frequency band. In particular, gigahertz-frequency unidirectional transducers would provide an important addition to the desired quantum toolbox, promising unit efficiency with directional control over the surface acoustic wave emission pattern. Here, we report the design, fabrication, and experimental characterization of unidirectional distributed \u2026",
+            "Unidirectional distributed acoustic reflection transducers for quantum applications",
+            "\u00c9 Dumur and KJ Satzinger and GA Peairs and Ming-Han Chou and A Bienfait and H-S Chang and CR Conner and J Grebel and RG Povey and YP Zhong and AN Cleland",
+            "2019",
+            "K7inm84AAAAJ:Se3iqnhoufwC",
+            3,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.5099095",
+            "4013807555702110309",
+            "\/scholar?cites=4013807555702110309",
+            {
+                "2019":3
+            }
+        ],
+        [
+            "Qi-Wa refers to the up curl on the lengths of hand scrolls and hanging scrolls, which has troubled Chinese artisans and emperors for as long as the art of painting and calligraphy has existed. This warp is unwelcome not only for aesthetic reasons, but its potential damage to the fiber and ink. Although it is generally treated as a part of the cockling and curling due to moisture, consistency of paste, and defects from the mounting procedures, we demonstrate that the spontaneous extrinsic curvature incurred from the storage is in fact more essential to understanding and curing Qi-Wa. In contrast to the former factors whose effects are less predictable, the plastic deformation and strain distribution on a membrane are a well-defined mechanical problem. We study this phenomenon by experiments, theoretical models, and molecular dynamics simulation, and obtain consistent scaling relations for the Qi-Wa height. This \u2026",
+            "Curling edges: A problem that has plagued scrolls for millennia",
+            "Ming-Han Chou and Wei-Chao Shen and Yi-Ping Wang and Sun-Hsin Hung and Tzay-Ming Hong",
+            "2014",
+            "K7inm84AAAAJ:u-x6o8ySG0sC",
+            2,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.112.034302",
+            "8729042077690670005",
+            "\/scholar?cites=8729042077690670005",
+            {
+                "2016":2
+            }
+        ]
+    ]
+}

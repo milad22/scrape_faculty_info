@@ -1,0 +1,137 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "o9utvyMAAAAJ",
+            "moshe ben-David",
+            "Postdoctoral fellow at the Donnelley Centre- CCBR, University of Toronto",
+            "@utoronto.ca",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=o9utvyMAAAAJ",
+            687,
+            [
+                "Structural Biology",
+                "Protein Engineering of Synthetic Proteins"
+            ],
+            371,
+            9,
+            9,
+            9,
+            9,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"KbxB0JgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Joel Sussman",
+                    "affiliation":"Weizmann Institute of Science"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fy8CjqwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dan S Tawfik",
+                    "affiliation":"Weizmann Institue of Science"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"kfwmW8oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mikael H Elias",
+                    "affiliation":"Associate Professor of Biochemistry, University of Minnesota"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"0SOG_SsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kamerlin SC*",
+                    "affiliation":"Uppsala University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"e5t2u-sAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Rinkoo Devi Gupta, Associate Professor",
+                    "affiliation":"Faculty of Life Sciences and Biotechnology, South Asian University, New Delhi"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"YtjToIAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Chris I Maxwell",
+                    "affiliation":"Canadian Nuclear Laboratories"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"burBjK8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Wei Zhang",
+                    "affiliation":"Assistant Professor, Department of Molecular and Cellular Biology, University of Guelph"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"YLmP3GUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Rinkoo D. Gupta",
+                    "affiliation":"South Asian University, New Delhi"
+                }
+            ]
+        ]
+    ]
+}

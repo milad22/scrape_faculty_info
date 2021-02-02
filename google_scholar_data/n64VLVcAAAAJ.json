@@ -1,0 +1,77 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "n64VLVcAAAAJ",
+            "Soham Roy",
+            "Max Planck Institute for Polymer Research",
+            "@mpip-mainz.mpg.de",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=n64VLVcAAAAJ",
+            78,
+            [
+                "Molecular Dynamics",
+                "Spectroscopy"
+            ],
+            62,
+            4,
+            4,
+            2,
+            1,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"WQgSZ8UAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Johannes Hunger",
+                    "affiliation":"Max Planck Institute for Polymer Research"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"l3Hyl-kAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mischa Bonn",
+                    "affiliation":"Director, Dept. Molecular Spectroscopy, Max Planck Institute for Polymers, Mainz, Germany"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"w4quJC8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ranko Richert",
+                    "affiliation":"Professor of Chemistry and Biochemistry"
+                }
+            ]
+        ]
+    ]
+}

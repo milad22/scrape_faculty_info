@@ -1,0 +1,66 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "\u201cThe career structure and funding of the universities [...] currently strongly discourages academics and faculties from putting any investment into teaching\u2013there are no career or financial rewards in it. This is a great pity, because [...] it is the need to engage in dialogue, and to make things logical and clear, that is the primary defence against obscurantism and abstraction.\u201d",
+            "Non-equilibrium phase transitions",
+            "Malte Henkel and Haye Hinrichsen and Sven L\u00fcbeck and Michel Pleimling",
+            "2008",
+            "7XVpR4kAAAAJ:qjMakFHDy7sC",
+            560,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/978-1-4020-8765-3.pdf",
+            "15879351211541814295",
+            "\/scholar?cites=15879351211541814295",
+            {
+                "2008":2,
+                "2009":11,
+                "2010":19,
+                "2011":35,
+                "2012":36,
+                "2013":34,
+                "2014":54,
+                "2015":55,
+                "2016":60,
+                "2017":60,
+                "2018":66,
+                "2019":53,
+                "2020":66,
+                "2021":7
+            }
+        ],
+        [
+            "As time passes, once simple quantum states tend to become more complex. For strongly coupled k-local Hamiltonians, this growth of computational complexity has been conjectured to follow a distinctive and universal pattern. In this paper we show that the same pattern is exhibited by a much simpler system\u2014classical geodesics on a compact two-dimensional geometry of uniform negative curvature. This striking parallel persists whether the system is allowed to evolve naturally or is perturbed from the outside.",
+            "Quantum complexity and negative curvature",
+            "Adam R Brown and Leonard Susskind and Ying Zhao",
+            "2017",
+            "7XVpR4kAAAAJ:kuK5TVdYjLIC",
+            124,
+            "https:\/\/journals.aps.org\/prd\/abstract\/10.1103\/PhysRevD.95.045010",
+            "7891413607303231415",
+            "\/scholar?cites=7891413607303231415",
+            {
+                "2016":2,
+                "2017":15,
+                "2018":34,
+                "2019":34,
+                "2020":37,
+                "2021":2
+            }
+        ]
+    ]
+}

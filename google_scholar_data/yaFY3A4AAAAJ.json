@@ -1,0 +1,112 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "yaFY3A4AAAAJ",
+            "Scott Wakely",
+            "University of Chicago",
+            "@ulysses.uchicago.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=yaFY3A4AAAAJ",
+            43206,
+            [
+
+            ],
+            29546,
+            65,
+            41,
+            169,
+            125,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"5oemoM8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David Kieda",
+                    "affiliation":"University of Utah"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"OahAyXAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Florian Gahbauer",
+                    "affiliation":"Laser Centre of the University of Latvia"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"FKwCvmsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"James Buckley",
+                    "affiliation":"Washington University in St. Louis"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"iojF4S0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Philip Kaaret",
+                    "affiliation":"Professor of Physics and Astronomy, University of Iowa"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"YKD_lkEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Reshmi Mukherjee",
+                    "affiliation":"Barnard College, Columbia University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"RZAmpswAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Stephanie Wissel",
+                    "affiliation":"Penn Statel"
+                }
+            ]
+        ]
+    ]
+}

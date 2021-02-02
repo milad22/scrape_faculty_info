@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "DLAS5I3G",
+            "n0t-dfYAAAAJ",
+            [
+                "Uncooled infrared imaging using bimaterial microcantilever arrays",
+                "Bi-material terahertz sensors using metamaterial structures",
+                "Strong terahertz absorption using SiO2\/Al based metamaterial structures",
+                "Microelectromechanical systems bimaterial terahertz sensor with integrated metamaterial absorber",
+                "Arrays of  substrate-free micromechanical uncooled infrared and terahertz detectors",
+                "Narrowband terahertz emitters using metamaterial films",
+                "Al\/SiOx\/Al single and multiband metamaterial absorbers for terahertz sensor applications",
+                "Design and characterization of terahertz-absorbing nano-laminates of dielectric and metal thin films",
+                "Uncooled MEMS IR imagers with optical readout and image processing",
+                "Fabrication of Bi-material MEMS detector arrays for THz imaging"
+            ],
+            [
+                "We report on fabrication and characterization of arrays of bimaterial microcantilevers and discuss their performance as uncooled infrared imagers. An optical readout was used to simultaneously measure deflections of all microcantilevers in the array. The fabricated arrays had an average noise equivalent temperature difference (NETD) and a response time of 1.5K and 6ms, respectively. Some microcantilevers in the array exhibited NETD values below 500mK, approaching our theoretical prediction of 151mK. A unique and valuable feature of the implemented approach is its straightforward scalability to higher resolution arrays, without progressively growing complexity and cost.",
+                "In this paper we report on the design, fabrication and characterization of terahertz (THz) bi-material sensors with metamaterial absorbers. MEMS fabrication-friendly SiO_x and Al are used to maximize the bimetallic effect and metamaterial absorption at 3.8 THz, the frequency of a quantum cascade laser illumination source. Sensors with different configurations were fabricated and the measured absorption is near 100% and responsivity is around 1.2 deg\/\u03bcW, which agree well with finite element simulations. The results indicate the potential of using these detectors to fabricate focal plane arrays for real time THz imaging.",
+                "Metamaterial absorbers with nearly 100% absorption in the terahertz (THz) spectral band have been designed and fabricated using a periodic array of aluminum (Al) squares and an Al ground plane separated by a thin silicon dioxide (SiO2) dielectric film. The entire structure is less than 1.6\u2009mm thick making it suitable for the fabrication of microbolometers or bi-material sensors for THz imaging. Films with different dielectric layer thicknesses exhibited resonant absorption at 4.1, 4.2, and 4.5 THz with strengths of 98%, 95%, and 88%, respectively. The measured absorption spectra are in good agreement with simulations using finite element modeling.",
+                "This Letter describes the fabrication of a microelectromechanical systems (MEMS) bimaterial terahertz (THz) sensor operating at 3.8 THz. The incident THz radiation is absorbed by a metamaterial structure integrated with the bimaterial. The absorber was designed with a resonant frequency matching the quantum cascade laser illumination source while simultaneously providing structural support, desired thermomechanical properties and optical readout access. Measurement showed that the fabricated absorber has nearly 90% absorption at 3.8 THz. A responsivity of 0.1\u00b0\/\u03bcW and a time constant of 14 ms were observed. The use of metamaterial absorbers allows for tuning the sensor response to the desired frequency to achieve high sensitivity for potential THz imaging applications.",
+                "We describe the design, fabrication, and characterization of arrays of uncooled infrared and terahertz micromechanical detectors that utilize SiO2 as a main structural material. Materials with highly dissimilar coefficients of thermal expansion, namely, Al and SiO2, were used to form folded bimaterial regions. This approach improved the detector sensitivity by 12 times compared to SiNx-based detectors of similar shape and size. Two types of structural SiO2 layers were investigated: thermally grown and plasma-enhanced chemical-vapor-deposited SiO2. Fabrication of the detector arrays relied on a straightforward process flow that involved three photolithography steps and no wet etching. The noise equivalent temperature difference intrinsic to the detectors fabricated during this work can reach 3.8 mK when excluding any contribution from the optical readout used to interrogate the arrays.",
+                "In this article we report on metamaterial-based narrowband thermal terahertz (THz) emitters with a bandwidth of about 1 THz. Single band emitters designed to radiate in the 4 to 8 THz range were found to emit as high as 36 W\/m^2 when operated at 400 \u00b0C. Emission into two well-separated THz bands was also demonstrated by using metamaterial structures featuring more complex unit cells. Imaging of heated emitters using a microbolometer camera fitted with THz optics clearly showed the expected higher emissivity from the metamaterial structure compared to low-emissivity of the surrounding aluminum.",
+                "To increase the sensitivity of uncooled thermal sensors in the terahertz (THz) spectral range (1 to 10 THz), we investigated thin metamaterial layers exhibiting resonant absorption in this region. These metamaterial films are comprised of periodic arrays of aluminum (Al) squares and an Al ground plane separated by a thin silicon-rich silicon oxide (SiOx) dielectric film. These standard MEMS materials are also suitable for fabrication of bi-material and microbolometer thermal sensors. Using SiOx instead of SiO2 reduced the residual stress of the metamaterial film. Finite element simulations were performed to establish the design criteria for very thin films with high absorption and spectral tunability. Single-band structures with varying SiOx thicknesses, square size, and periodicity were fabricated and found to absorb nearly 100% at the designed frequencies between three and eight THz. Multiband absorbing structures \u2026",
+                "A terahertz-absorbing thin-film stack, containing a dielectric Bragg reflector and a thin chromium metal film, was fabricated on a silicon substrate for applications in bi-material terahertz (THz) sensors. The Bragg reflector is to be used for optical readout of sensor deformation under THz illumination. The THz absorption characteristics of the thin-film composite were measured using Fourier transform infrared spectroscopy. The absorption of the structure was calculated both analytically and by finite element modeling and the two approaches agreed well. Finite element modeling provides a convenient way to extract the amount of power dissipation in each layer and is used to quantify the THz absorption in the multi-layer stack. The calculation and the model were verified by experimentally characterizing the multi-layer stack in the 3-5 THz range. The measured and simulated absorption characteristics show a reasonably \u2026",
+                "MEMS thermal transducers offer a promising technological platform for uncooled IR imaging.  We report on the fabrication and performance of a 256x256 MEMS IR FPA based on bimaterial microcantilever.  The FPA readout is performed using a simple and efficient optical readout scheme.  The response time of the bimaterial microcantilever was <15 ms and the thermal isolation was calculated to be < 4x10-7 W\/K.  Using these FPAs we obtained IR images of room temperature objects.  Image quality is improved by automatic post-processing of artifacts arising from noise and non-responsive pixels.  An iterative Curvelet denoising and inpainting procedure is successfully applied to image output.  We present our results and discuss the factors that determine the ultimate performance of the FPA.  One of the unique advantages of the present approach is the scalability to larger imaging arrays.",
+                "Recently, there has been a significant interest in Terahertz (THz) technology, primarily for its potential applications in detection of concealed objects as well as in medical imaging for non-invasive diagnostics. This region of the spectrum has not been fully utilized due to lack of compact and efficient THz sources and detectors. However, there are several reports recently on real-time THz imaging using uncooled microbolometer camera and quantum cascade laser (QCL) operating as a THz illuminator. The cameras used in these studies are optimized for infrared wavelengths and do not provide optimal sensitivity in the THz spectral range. The fabrication of microbolometer focal plane arrays (FPAs) is relatively complex due to the required monolithic integration of readout electronics with the MEMS pixels. The recent developments in bi-material based infrared FPAs, utilizing optical readout, substantially simplifies the \u2026"
+            ],
+            [
+                [
+                    "IR imaging",
+                    "THz imaging",
+                    "MEMS",
+                    "Metamaterials"
+                ]
+            ]
+        ]
+    ]
+}

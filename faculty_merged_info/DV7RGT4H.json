@@ -1,0 +1,45 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "DV7RGT4H",
+            "N91qJYQAAAAJ",
+            [
+                "Face segmentation using skin-color map in videophone applications",
+                "Skin segmentation using color pixel classification: analysis and comparison",
+                "A novel skin color model in ycbcr color space and its application to human face detection",
+                "A Bayesian approach to skin color classification in YCbCr color space",
+                "Locating facial region of a head-and-shoulders color image",
+                "Skin segmentation using color and edge information",
+                "Barcodes for mobile devices"
+            ],
+            [
+                "This paper addresses our proposed method to automatically segment out a person's face from a given image that consists of a head-and-shoulders view of the person and a complex background scene. The method involves a fast, reliable, and effective algorithm that exploits the spatial distribution characteristics of human skin color. A universal skin-color map is derived and used on the chrominance component of the input image to detect pixels with skin-color appearance. Then, based on the spatial distribution of the detected skin-color pixels and their corresponding luminance values, the algorithm employs a set of novel regularization processes to reinforce regions of skin-color pixels that are more likely to belong to the facial regions and eliminate those that are not. The performance of the face-segmentation algorithm is illustrated by some simulation results carried out on various head-and-shoulders test images \u2026",
+                "This work presents a study of three important issues of the color pixel classification approach to skin segmentation: color representation, color quantization, and classification algorithm. Our analysis of several representative color spaces using the Bayesian classifier with the histogram technique shows that skin segmentation based on color pixel classification is largely unaffected by the choice of the color space. However, segmentation performance degrades when only chrominance channels are used in classification. Furthermore, we find that color quantization can be as low as 64 bins per channel, although higher histogram sizes give better segmentation performance. The Bayesian classifier with the histogram technique and the multilayer perceptron classifier are found to perform better compared to other tested classifiers, including three piecewise linear classifiers, three unimodal Gaussian classifiers, and a \u2026",
+                "This paper presents a new human skin color model in YCbCr color space and its application to human face detection. Skin colors are modeled by a set of three Gaussian clusters, each of which is characterized by a centroid and a covariance matrix. The centroids and covariance matrices are estimated from large set of training samples after a k-means clustering process. Pixels in a color input image can be classified into skin or non-skin based on the Mahalanobis distances to the three clusters. Efficient post-processing techniques namely noise removal, shape criteria, elliptic curve fitting and face\/non-face classification are proposed in order to further refine skin segmentation results for the purpose of face detection.",
+                "This paper addresses an image classification technique that uses the Bayes decision rule for minimum cost to classify pixels into skin color and non-skin color. Color statistics are collected from YCbCr color space. The Bayesian approach to skin color classification is discussed along with an overview of YCbCr color space. Experimental results demonstrate that this approach can achieve good classification outcomes, and it is robust against different skin colors.",
+                "This paper addresses our proposed method to automatically locate the person's face from a given image that consists of a head-and-shoulders view of the person and a complex background scene. The method involves a fast, simple and yet robust algorithm that exploits the spatial distribution characteristics of human skin color. It first uses the chrominance component of the input image to detect pixels with skin color appearance. Then, bused on the spatial distribution of the detected skin-color pixels and their corresponding luminance values, the algorithm employs some regularization processes to reinforce regions of skin-color pixels that are more likely to belong to the facial regions and eliminate those that are not. The performance of the face localization algorithm is illustrated by some simulation results carried out on various head-and-shoulders test images.",
+                "An algorithm for segmenting skin regions in color images using color and edge information is presented. Skin colored regions are first detected using a Bayesian model of the human skin color. These regions are further segmented into skin region candidates that satisfy the homogeneity property of the human skin. We show that Bayesian skin color model outperforms many other models such as the piece-wise linear models, Gaussian models and model based on multilayer perceptrons. Experimental results indicate that the proposed segmentation algorithm reduces false detection caused by background pixels having skin colors, and more significantly it is capable of separating true skin regions from falsely detected regions.",
+                "From inventory management in stores to automotive part tracking in assembly plants, barcodes are one of the most prevalent automatic identification and data capture technologies. This book provides a complete introduction to barcodes for mobile devices, presenting the most relevant and up-to-date information previously unavailable elsewhere or difficult to obtain. The focus throughout is on recent developments and two-dimensional (2D) barcodes, including the research and development steps towards colour barcodes for mobile devices, helping readers to develop their own barcodes. The authors also provide design details for their own novel colour 2D barcode: the Mobile MultiColour Composite (MMCC) barcode, plus coverage of RFID technology and one-dimensional barcodes. This book is ideal for professional developers of barcodes for mobile devices who need the latest technical details and information on how to develop barcodes. It is also a useful reference for graduate students researching the field of barcode technology and mobile computing."
+            ],
+            [
+                [
+                    "Image Processing",
+                    "Pattern Recognition",
+                    "Video Coding",
+                    "Robotics",
+                    "Acoustic Signal Processing"
+                ]
+            ]
+        ]
+    ]
+}

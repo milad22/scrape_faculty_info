@@ -1,0 +1,115 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "thWwstAAAAAJ",
+            "Abed Mohamadzade",
+            "University of Georgia",
+            "@uga.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=thWwstAAAAAJ",
+            55,
+            [
+                "Biophysics",
+                "PhotoPhysics",
+                "photochemistry",
+                "Ultrafast Spectroscopy"
+            ],
+            55,
+            3,
+            3,
+            2,
+            2,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"4uU-dzoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Philipp Marquetand",
+                    "affiliation":"University of Vienna, Institute of Theoretical Chemistry, Vienna, Austria"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"DT-V7aYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Leticia Gonzalez",
+                    "affiliation":"University of Vienna"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"HV6FAVIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Brennan Ashwood",
+                    "affiliation":"University of Chicago"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"QJW8mvgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Carlos E. Crespo-Hern\u00e1ndez",
+                    "affiliation":"Professor of Chemistry, Case Western Reserve University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"2XyWlWcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mario Barbatti",
+                    "affiliation":"Aix-Marseille University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"lFilb6kAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Shuming Bai",
+                    "affiliation":"Department of Chemistry, Duke University"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "We show how to numerically calculate several quantities that characterize topological order starting from a microscopic fractional quantum Hall Hamiltonian. To find the set of degenerate ground states, we employ the infinite density matrix renormalization group method based on the matrix-product state representation of fractional quantum Hall states on an infinite cylinder. To study localized quasiparticles of a chosen topological charge, we use pairs of degenerate ground states as boundary conditions for the infinite density matrix renormalization group. We then show that the wave function obtained on the infinite cylinder geometry can be adapted to a torus of arbitrary modular parameter, which allows us to explicitly calculate the non-Abelian Berry connection associated with the modular T transformation. As a result, the quantum dimensions, topological spins, quasiparticle charges, chiral central charge, and Hall \u2026",
+            "Topological characterization of fractional quantum hall ground states from microscopic hamiltonians",
+            "Michael P Zaletel and Roger SK Mong and Frank Pollmann",
+            "2013",
+            "LGNFXjwAAAAJ:d1gkVwhDpl0C",
+            171,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.110.236801",
+            "34920202362592106",
+            "\/scholar?cites=34920202362592106",
+            {
+                "2013":8,
+                "2014":23,
+                "2015":28,
+                "2016":16,
+                "2017":24,
+                "2018":19,
+                "2019":20,
+                "2020":33
+            }
+        ]
+    ]
+}

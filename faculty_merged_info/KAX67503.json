@@ -1,0 +1,33 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "KAX67503",
+            "GmAHki0AAAAJ",
+            [
+                "The ATLAS simulation infrastructure"
+            ],
+            [
+                "The simulation software for the ATLAS Experiment at the Large Hadron Collider is being used for large-scale production of events on the LHC Computing Grid. This simulation requires many components, from the generators that simulate particle collisions, through packages simulating the response of the various detectors and triggers. All of these components come together under the ATLAS simulation infrastructure. In this paper, that infrastructure is discussed, including that supporting the detector description, interfacing the event generation, and combining the GEANT4 simulation of the response of the individual detectors. Also described are the tools allowing the software validation, performance testing, and the validation of the simulated output against known physics processes."
+            ],
+            [
+                [
+                    "QCD",
+                    "saturation",
+                    "dark matter",
+                    "extra-dimensions",
+                    "fast timing detectors"
+                ]
+            ]
+        ]
+    ]
+}

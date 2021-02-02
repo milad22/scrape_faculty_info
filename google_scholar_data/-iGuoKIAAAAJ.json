@@ -1,0 +1,80 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "-iGuoKIAAAAJ",
+            "Shen-En Chen",
+            "professor, university of north carolina at charlotte",
+            "@uncc.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=-iGuoKIAAAAJ",
+            225290,
+            [
+                "remote sensing",
+                "carbon sequestration",
+                "oil",
+                "petroleum",
+                "fuel"
+            ],
+            133555,
+            214,
+            162,
+            1507,
+            1240,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"N2JiRuAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Robert Pitt",
+                    "affiliation":"Emeritus Cudworth Professor of Urban Water Systems, University of Alabama"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"KiJbn-MAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Shirley Clark",
+                    "affiliation":"Penn State Harrisburg"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Q29WmWwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Remco Chang",
+                    "affiliation":"Associate Professor, Tufts University"
+                }
+            ]
+        ]
+    ]
+}

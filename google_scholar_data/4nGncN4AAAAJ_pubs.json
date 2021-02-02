@@ -1,0 +1,78 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2
+    ],
+    "data":[
+        [
+            "A new type of End-to-End system for text-dependent speaker verification is presented in this paper. Previously, using the phonetic discriminate\/speaker discriminate DNN as a feature extractor for speaker verification has shown promising results. The extracted frame-level (bottleneck, posterior or d-vector) features are equally weighted and aggregated to compute an utterance-level speaker representation (d-vector or i-vector). In this work we use a speaker discriminate CNN to extract the noise-robust frame-level features. These features are smartly combined to form an utterance-level speaker vector through an attention mechanism. The proposed attention model takes the speaker discriminate information and the phonetic information to learn the weights. The whole system, including the CNN and attention model, is joint optimized using an end-to-end criterion. The training algorithm imitates exactly the evaluation \u2026",
+            "End-to-end attention based text-dependent speaker verification",
+            "Shi-Xiong Zhang and Zhuo Chen and Yong Zhao and Jinyu Li and Yifan Gong",
+            "2016",
+            "4nGncN4AAAAJ:rQcm2j6_ZE8C",
+            157,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7846261\/",
+            "17913189151509476500",
+            "\/scholar?cites=17913189151509476500",
+            {
+                "2017":15,
+                "2018":37,
+                "2019":52,
+                "2020":48,
+                "2021":2
+            }
+        ],
+        [
+            "The development of high-performance speech processing systems for low-resource languages is a challenging area. One approach to address the lack of resources is to make use of data from multiple languages. A popular direction in recent years is to use bottleneck features, or hybrid systems, trained on multilingual data for speech-to-text (STT) systems. This paper presents an investigation into the application of these multilingual approaches to spoken term detection. Experiments were run using the IARPA Babel limited language pack corpora (~10 hours\/language) with 4 languages for initial multilingual system development and an additional held-out target language. STT gains achieved through using multilingual bottleneck features in a Tandem configuration are shown to also apply to keyword search (KWS). Further improvements in both STT and KWS were observed by incorporating language questions into \u2026",
+            "Investigation of Multilingual Deep Neural Networks for Spoken Term Detection",
+            "K. Knill and M.J.F. Gales and S. Rath and P. Woodland and Shi-Xiong Zhang",
+            "2013",
+            "4nGncN4AAAAJ:Xnn2mF3JXD4C",
+            87,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6707719\/",
+            "14817689474203956966",
+            "\/scholar?cites=14817689474203956966",
+            {
+                "2014":15,
+                "2015":12,
+                "2016":21,
+                "2017":14,
+                "2018":12,
+                "2019":7,
+                "2020":6
+            }
+        ],
+        [
+            "On acoustic modeling, recurrent neural networks (RNNs) using Long Short-Term Memory (LSTM) units have recently been shown to outperform deep neural networks (DNNs) models. This paper focuses on resolving two challenges faced by LSTM models: high model complexity and poor decoding efficiency. Motivated by our analysis of the gates activation and function, we present two LSTM simplifications: deriving input gates from forget gates, and removing recurrent inputs from output gates. To accelerate decoding of LSTMs, we propose to apply frame skipping during training, and frame skipping and posterior copying (FSPC) during decoding. In the experiments, model simplifications reduce the size of LSTM models by 26%, resulting in a simpler model structure. Meanwhile, the application of FSPC speeds up model computation by 2 times during LSTM decoding. All these improvements are achieved at the cost \u2026",
+            "SIMPLIFYING LONG SHORT-TERM MEMORY ACOUSTIC MODELS FOR FAST TRAINING AND DECODING",
+            "Yajie Miao and Jinyu Li and Yongqiang Wang and Shixiong Zhang and Yifan Gong",
+            "2016",
+            "4nGncN4AAAAJ:z62hWG5Wpo0C",
+            65,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7472084\/",
+            "18363580001945654328",
+            "\/scholar?cites=18363580001945654328",
+            {
+                "2016":5,
+                "2017":17,
+                "2018":16,
+                "2019":13,
+                "2020":12,
+                "2021":1
+            }
+        ]
+    ]
+}

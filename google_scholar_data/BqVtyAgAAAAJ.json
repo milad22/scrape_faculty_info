@@ -1,0 +1,52 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "BqVtyAgAAAAJ",
+            "Peggy McNeal",
+            "Towson University",
+            "@towson.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=BqVtyAgAAAAJ",
+            27,
+            [
+                "geoscience education"
+            ],
+            27,
+            3,
+            3,
+            1,
+            1,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"IReZlDgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Heather Petcovic",
+                    "affiliation":"Western Michigan University"
+                }
+            ]
+        ]
+    ]
+}

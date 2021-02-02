@@ -1,0 +1,100 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "djqLs50AAAAJ",
+            "Michael Cole",
+            "Professor of Communication, Psychology, & Human Development",
+            "@ucsd.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=djqLs50AAAAJ",
+            247834,
+            [
+                "The role of culture in human development"
+            ],
+            77946,
+            127,
+            81,
+            625,
+            335,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"gZWyKakAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yrj\u00f6 Engestr\u00f6m",
+                    "affiliation":"Professor of Adult Education, University of Helsinki"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"4jx2bl4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Robert Lecusay",
+                    "affiliation":"Associate Professor; S\u00f6dert\u00f6rns H\u00f6gskola, Institute of Culture and Learning"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"UHJxpCsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jean Mandler",
+                    "affiliation":"Professsor of Cognitive Science, University of California, San Diego"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"np8wQWkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mary Gauvain",
+                    "affiliation":"Professor of Psychology, University of California Riverside"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"_GvuzdsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Wolff-Michael Roth",
+                    "affiliation":"Lansdowne Professor, Applied Cognitive Science, University of Victoria"
+                }
+            ]
+        ]
+    ]
+}

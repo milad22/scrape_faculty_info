@@ -1,0 +1,80 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "gnux4iQAAAAJ",
+            "Richard \"Inho\" Joh",
+            "Department of Physics, Virginia Commonwealth University",
+            "@vcu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=gnux4iQAAAAJ",
+            480,
+            [
+                "Biophysics",
+                "Nanoscience",
+                "Epigenetics",
+                "Systems Biology",
+                "Cancer Biology"
+            ],
+            277,
+            8,
+            8,
+            8,
+            8,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"95xNBicAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Joshua S Weitz",
+                    "affiliation":"Professor, School of Biological Sciences & Physics, Director of the QBioS Ph.D., Georgia Tech"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"usBmHhIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Eberhard Voit",
+                    "affiliation":"Professor of Biomedical Engineering, Georgia Tech"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"WOsdt5gAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Martin J. Aryee",
+                    "affiliation":"Assistant Professor, Pathology Dept at Massachusetts General Hospital and Harvard Medical School"
+                }
+            ]
+        ]
+    ]
+}

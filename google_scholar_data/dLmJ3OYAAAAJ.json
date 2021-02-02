@@ -1,0 +1,136 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "dLmJ3OYAAAAJ",
+            "Istv\u00e1n Z. Kov\u00e1cs",
+            "Nokia",
+            "@nokia.com",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=dLmJ3OYAAAAJ",
+            5629,
+            [
+
+            ],
+            3019,
+            39,
+            26,
+            89,
+            61,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"C3OJ-5YAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Preben Mogensen",
+                    "affiliation":"Aalborg Universitet, Nokia Siemens Networks"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"pUAMTqkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Klaus Pedersen",
+                    "affiliation":"Nokia"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"D4B5uGMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jeroen Wigard",
+                    "affiliation":"Nokia Bell Labs"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"bj8xCLoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Huan Cong Nguyen",
+                    "affiliation":"Rohde & Schwarz Danmark A\/S"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"68tg_9oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Troels Kolding",
+                    "affiliation":"Senior Networks Architect, Nokia"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"dg90X9oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Rafhael Amorim",
+                    "affiliation":"Nokia Bell Labs"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"GYpDqGoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gert Fr\u00f8lund Pedersen",
+                    "affiliation":"Professor Antennas, Aalborg University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"DWq2iVoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"guillaume Monghal",
+                    "affiliation":"Intel"
+                }
+            ]
+        ]
+    ]
+}

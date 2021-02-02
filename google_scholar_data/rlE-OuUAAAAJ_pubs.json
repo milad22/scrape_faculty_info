@@ -1,0 +1,135 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "data":[
+        [
+            "Recent advances in designing metamaterials have demonstrated that global mechanical properties of disordered spring networks can be tuned by selectively modifying only a small subset of bonds. Here, using a computationally efficient approach, we extend this idea to tune more general properties of networks. With nearly complete success, we are able to produce a strain between any two target nodes in a network in response to an applied source strain on any other pair of nodes by removing only \u223c1% of the bonds. We are also able to control multiple pairs of target nodes, each with a different individual response, from a single source, and to tune multiple independent source\/target responses simultaneously into a network. We have fabricated physical networks in macroscopic 2D and 3D systems that exhibit these responses. This work is inspired by the long-range coupled conformational changes that \u2026",
+            "Designing allostery-inspired response in mechanical networks",
+            "Jason W Rocks and Nidhi Pashine and Irmgard Bischofberger and Carl P Goodrich and Andrea J Liu and Sidney R Nagel",
+            "2017",
+            "rlE-OuUAAAAJ:u5HHmVD_uO8C",
+            95,
+            "https:\/\/www.pnas.org\/content\/114\/10\/2520.short",
+            "15496272356900414174",
+            "\/scholar?cites=15496272356900414174",
+            {
+                "2016":1,
+                "2017":7,
+                "2018":22,
+                "2019":35,
+                "2020":27,
+                "2021":3
+            }
+        ],
+        [
+            "Recent theoretical work suggests that systematic pruning of disordered networks consisting of nodes connected by springs can lead to materials that exhibit a host of unusual mechanical properties. In particular, global properties such as Poisson\u2019s ratio or local responses related to deformation can be precisely altered. Tunable mechanical responses would be useful in areas ranging from impact mitigation to robotics and, more generally, for creation of metamaterials with engineered properties. However, experimental attempts to create auxetic materials based on pruning-based theoretical ideas have not been successful. Here we introduce a more realistic model of the networks, which incorporates angle-bending forces and the appropriate experimental boundary conditions. A sequential pruning strategy of select bonds in this model is then devised and implemented that enables engineering of specific mechanical \u2026",
+            "Auxetic metamaterials from disordered networks",
+            "Daniel R Reid and Nidhi Pashine and Justin M Wozniak and Heinrich M Jaeger and Andrea J Liu and Sidney R Nagel and Juan J de Pablo",
+            "2018",
+            "rlE-OuUAAAAJ:UeHWp8X0CEIC",
+            41,
+            "https:\/\/www.pnas.org\/content\/115\/7\/E1384.short",
+            "17068511830327589080",
+            "\/scholar?cites=17068511830327589080",
+            {
+                "2018":9,
+                "2019":20,
+                "2020":11,
+                "2021":1
+            }
+        ],
+        [
+            "Disordered materials are often out of equilibrium and evolve very slowly in a rugged and tortuous energy landscape. This slow evolution, referred to as aging, is deemed undesirable as it often leads to material degradation. However, we show that aging also encodes a memory of the stresses imposed during preparation. Because of inhomogeneous local stresses, the material itself decides how to evolve by modifying stressed regions differently from those under less stress. Because material evolution occurs in response to stresses, aging can be \u201cdirected\u201d to produce sought-after responses and unusual functionalities that do not inherently exist. Aging obeys a natural \u201cgreedy algorithm\u201d as, at each instant, the material simply follows the path of most rapid and accessible relaxation. Our experiments and simulations illustrate directed aging in examples in which the material\u2019s elasticity transforms as desired because of \u2026",
+            "Directed aging, memory, and nature\u2019s greed",
+            "Nidhi Pashine and Daniel Hexner and Andrea J Liu and Sidney R Nagel",
+            "2019",
+            "rlE-OuUAAAAJ:WF5omc3nYNoC",
+            13,
+            "https:\/\/advances.sciencemag.org\/content\/5\/12\/eaax4215.abstract",
+            "743292085038086167",
+            "\/scholar?cites=743292085038086167",
+            {
+                "2019":2,
+                "2020":10,
+                "2021":1
+            }
+        ],
+        [
+            "Auxetic materials are characterized by a negative Poisson's ratio, \u03bd. As the Poisson's ratio approaches the lower isotropic mechanical limit of \u03bd = \u22121, materials show enhanced resistance to impact and shear, making them suitable for applications ranging from robotics to impact mitigation. Past experimental efforts aimed at reaching the \u03bd = \u22121 limit have resulted in highly anisotropic materials, which show a negative Poisson's ratio only when subjected to deformations along specific directions. Isotropic designs have only attained moderately auxetic behavior or have led to solutions that cannot be manufactured in 3D. Here, we present a design strategy to create isotropic structures from disordered networks, which result in Poisson's ratios as low as \u03bd = \u22120.98. The materials conceived through this approach are successfully fabricated in the laboratory and behave as predicted. \u03bd depends on network structure and bond \u2026",
+            "Ideal isotropic auxetic networks from random networks",
+            "Daniel R Reid and Nidhi Pashine and Alec S Bowen and Sidney R Nagel and Juan J de Pablo",
+            "2019",
+            "rlE-OuUAAAAJ:ufrVoPGSRksC",
+            9,
+            "https:\/\/pubs.rsc.org\/en\/content\/articlehtml\/2019\/sm\/c9sm01241a",
+            "13246929538019188709",
+            "\/scholar?cites=13246929538019188709",
+            {
+                "2019":2,
+                "2020":6,
+                "2021":1
+            }
+        ],
+        [
+            "Disordered solids often change their elastic response as they slowly age. Using experiments and simulations, we study how aging disordered planar networks under an applied stress affects their nonlinear elastic response. We are able to modify dramatically the elastic properties of our systems in the nonlinear regime. Using simulations, we study two models for the microscopic evolution of properties of such a material; the first considers changes in the material strength, while the second considers distortions in the microscopic geometry. Both models capture different aspects of the experiments including the encoding of memories of the aging history of the system and the dramatic effects on the material's nonlinear elastic properties. Our results demonstrate how aging can be used to create complex elastic behavior in the nonlinear regime.",
+            "Effect of directed aging on nonlinear elasticity and memory formation in a material",
+            "Daniel Hexner and Nidhi Pashine and Andrea J Liu and Sidney R Nagel",
+            "2020",
+            "rlE-OuUAAAAJ:5nxA0vEk-isC",
+            3,
+            "https:\/\/journals.aps.org\/prresearch\/abstract\/10.1103\/PhysRevResearch.2.043231",
+            "1810979550330370703",
+            "\/scholar?cites=1810979550330370703",
+            {
+                "2020":3
+            }
+        ],
+        [
+            "Bond pruning has recently proved to be an effective method for designing auxetic networks. Previous theoretical work on auxetic networks includes bond compression terms only, which is a reasonable analog for tenuous systems and frictionless granular packings. For networks made in the laboratory, however, our recent work has shown that the auxetic behavior depends not only on geometry, but also on the interaction parameters, in particular the angle bending term. In three-dimensional networks, the torsion of local connected bonds provides an additional degree of freedom. Here we investigate the effect of torsion on the auxetic behavior of ordered and disordered 3D networks. The research provides insights for the design of 3D networks for the auxetic behavior.",
+            "Understanding the Effect of Torsion on Auxetic Behaviors of Three-Dimensional Networks",
+            "Meng Shen and Nidhi Pashine and Sidney Nagel and Juan De Pablo",
+            "2019",
+            "rlE-OuUAAAAJ:Y0pCki6q_DkC",
+            1,
+            "https:\/\/ui.adsabs.harvard.edu\/abs\/2019APS..MARV57005S\/abstract",
+            "7563821854230519571",
+            "\/scholar?cites=7563821854230519571",
+            {
+                "2019":1
+            }
+        ],
+        [
+            "Allostery in proteins is the process by which the binding of a ligand to one site affects activity at a second distant site. Inspired by this biological process, we have developed a method to tune random spring networks to exhibit allostery-like behavior. We show that allosteric communication does not require the transmission of stresses nor a single narrow communication pathway between sites. This communication also does not depend on the existence of a zero-frequency mode, although the displacements typically correspond to a single low-frequency mode for protein-scale system sizes. The behavior of these networks can be reproduced in macroscopic experimental systems in both two and three dimensions.",
+            "Tuning Allostery in Random Spring Networks",
+            "Jason W Rocks and Nidhi Pashine and Irmgard Bischofberger and Carl P Goodruch and Sidney R Nagel and Andrea J Liu",
+            "2016",
+            "rlE-OuUAAAAJ:u-x6o8ySG0sC",
+            1,
+            "https:\/\/www.cell.com\/biophysj\/pdf\/S0006-3495(15)01540-4.pdf",
+            "9912300086616725989",
+            "\/scholar?cites=9912300086616725989",
+            {
+                "2017":1
+            }
+        ]
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "C7U2USRW",
+            "yhXLL2UAAAAJ",
+            [
+                "Electromagnetically induced transparency control in terahertz metasurfaces based on bright-bright mode coupling",
+                "Large anisotropy in the magnetic susceptibility of metallic carbon nanotubes",
+                "Polarization-dependent electromagnetic responses of ultrathin and highly flexible asymmetric terahertz metasurfaces",
+                "Eigenmode hybridization enables lattice-induced transparency in symmetric terahertz metasurfaces for slow light applications",
+                "Global alignment of solution-based single-wall carbon nanotube films via machine-vision controlled filtration",
+                "Graphene-based Metasurfaces for Multimode Tunable Terahertz Modulators"
+            ],
+            [
+                "We demonstrate a classical analog of electromagnetically induced transparency (EIT) in a highly flexible planar terahertz metamaterial (MM) comprised of three-gap split-ring resonators. The keys to achieve EIT in this system are the frequency detuning and hybridization processes between two bright modes coexisting in the same unit cell as opposed to bright-dark modes. We present experimental verification of two bright modes coupling for a terahertz EIT-MM in the context of numerical results and theoretical analysis based on a coupled Lorentz oscillator model. In addition, a hybrid variation of the EIT-MM is proposed and implemented numerically to dynamically tune the EIT window by incorporating photosensitive silicon pads in the split gap region of the resonators. As a result, this hybrid MM enables the active optical control of a transition from the on state (EIT mode) to the off state (dipole mode).",
+                "Through magnetic linear dichroism spectroscopy, the magnetic susceptibility anisotropy of metallic single-walled carbon nanotubes has been extracted and found to be 2\u20134 times greater than values for semiconducting nanotubes. This large anisotropy can be understood in terms of large orbital paramagnetism of metallic nanotubes arising from the Aharonov-Bohm-phase-induced gap opening in a parallel field, and our calculations quantitatively reproduce these results. We also compare our values with previous work for semiconducting nanotubes, which confirm that the magnetic susceptibility anisotropy does not increase linearly with the diameter for small-diameter nanotubes.",
+                "We report the polarization-dependent electromagnetic response from a series of novel terahertz (THz) metasurfaces where asymmetry is introduced through the displacement of two adjacent metallic arms separated by a distance \u03b4. For all polarization states, the symmetric metasurface exhibits a low quality (Q) factor fundamental dipole mode. By breaking the symmetry, we experimentally observe a secondary dipole-like mode with a Q factor nearly 9\u00d7 higher than the fundamental resonance. As \u03b4 increases, the fundamental dipole mode f_1 redshifts and the secondary mode f_2 blueshifts creating a highly transmissive spectral window. Polarization-dependent measurements reveal a full suppression of f_2 for all asymmetries at \u03b8 \u2265 60\u00b0. Furthermore, at \u03b4 \u2265 60 \u03bcm, we observe a polarization selective electromagnetic induced transparency (EIT) for the fundamental mode. This work paves the way for applications in \u2026",
+                "Traditional lattice-induced transparency demonstrations are activated by varying the meta-atom lattice constant such that the plasmonic and lattice modes interfere. Here we report on the observation of enhanced coupling between two eigenmodes (first- and second-order) by varying the lattice parameter in a symmetric split ring resonator design. The higher-order quasi-dark mode blueshifts, introducing strong coupling with the fundamental bright mode for periods above 345 \u03bcm. Numerical simulations are verified experimentally and supplemented with a two-oscillator model showing good agreement. Furthermore, larger positive group delay values are achieved in the vicinity of the transparency window with minimal absorption, indicating a strong potential for slow light applications.",
+                "Over the past decade, substantial progress has been made in the chemical control (chiral enrichment, length sorting, handedness selectivity, and filling substance) of single-wall carbon nanotubes (SWCNTs). Recently, it was shown that large, horizontally aligned films can be created out of postprocessed SWCNT solutions. Here, we use machine-vision automation and parallelization to simultaneously produce globally aligned SWCNT films using pressure-driven filtration. Feedback control enables filtration to occur with a constant flow rate that not only improves the nematic ordering of the SWCNT films but also provides the ability to align a wide range of SWCNT types and on a variety of nanoporous membranes using the same filtration parameters. Using polarized optical spectroscopic techniques, we show that under standard implementation, meniscus combing produces a two-dimensional radial SWCNT \u2026",
+                "We present a hybrid graphene metasurface and its modulation by electrostatically tuning the conductivity of the graphene. Through modification of unit cell symmetry, multiple Fano-like resonances arise for additional modes over a 300 GHz range."
+            ],
+            [
+                [
+                    "Light-Matter Interactions",
+                    "Terahertz Spectroscopy",
+                    "Quantum Materials",
+                    "Metamaterials",
+                    "Machine Learning"
+                ]
+            ]
+        ]
+    ]
+}

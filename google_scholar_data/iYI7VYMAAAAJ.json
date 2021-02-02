@@ -1,0 +1,88 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "iYI7VYMAAAAJ",
+            "Pengke Li",
+            "University of Maryland, College Park",
+            "@umd.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=iYI7VYMAAAAJ",
+            829,
+            [
+                "condensed matter physics"
+            ],
+            461,
+            12,
+            10,
+            13,
+            11,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"1z6xR14AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ian Appelbaum",
+                    "affiliation":"University of Maryland, College Park"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Wcx_lrkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hanan Dery",
+                    "affiliation":"Professor of Electrical and Computer Engineering, University of Rochester"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"TUYg-N8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yang Song",
+                    "affiliation":"Condensed Matter Theory Center, University of Maryland"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"QlKiy18AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jing Li",
+                    "affiliation":"University of Nebraska-Lincoln"
+                }
+            ]
+        ]
+    ]
+}

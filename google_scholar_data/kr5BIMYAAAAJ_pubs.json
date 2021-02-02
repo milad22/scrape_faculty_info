@@ -1,0 +1,184 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "A Brain\u2013Computer Interface (BCI) provides a novel non-muscular communication method via brain signals. A BCI-speller can be considered as one of the first published BCI applications and has opened the gate for many advances in the field. Although many BCI-spellers have been developed during the last few decades, to our knowledge, no reviews have described the different spellers proposed and studied in this vital field. The presented speller systems are categorized according to major BCI paradigms: P300, steady-state visual evoked potential (SSVEP), and motor imagery (MI). Different BCI paradigms require specific electroencephalogram (EEG) signal features and lead to the development of appropriate Graphical User Interfaces (GUIs). The purpose of this review is to consolidate the most successful BCI-spellers published since 2010, while mentioning some other older systems which were built explicitly for spelling purposes. We aim to assist researchers and concerned individuals in the field by illustrating the highlights of different spellers and presenting them in one review. It is almost impossible to carry out an objective comparison between different spellers, as each has its variables, parameters, and conditions. However, the gathered information and the provided taxonomy about different BCI-spellers can be helpful, as it could identify suitable systems for first-hand users, as well as opportunities of development and learning from previous studies for BCI researchers. View Full-Text",
+            "Brain\u2013computer interface spellers: A review",
+            "Aya Rezeika and Mihaly Benda and Piotr Stawicki and Felix Gembler and Abdul Saboor and Ivan Volosyak",
+            "2018",
+            "kr5BIMYAAAAJ:YsMSGLbcyi4C",
+            118,
+            "https:\/\/www.mdpi.com\/2076-3425\/8\/4\/57",
+            "11252723113431204906",
+            "\/scholar?cites=11252723113431204906",
+            {
+                "2018":14,
+                "2019":52,
+                "2020":45,
+                "2021":5
+            }
+        ],
+        [
+            "Steady state visual evoked potentials (SSVEPs)-based Brain-Computer Interfaces (BCIs) can provide hand-free human interaction with the environment. In the presented study, visual stimuli were displayed on Epson Moverio BT-200 augmented reality glasses, which can be easily used in smart homes. QR codes were used to identify the devices to be controlled with the BCI. In order to simulate a real life scenario, participants were instructed to go out of the lab to get a coffee. During this task light switches, elevator and a coffee machine were controlled by focusing on SSVEP stimuli displayed on the smart glasses. An average accuracy of 85.70% was achieved, which suggests that augmented reality may be used together with SSVEP to control external devices.",
+            "SSVEP-based BCI in a smart home scenario",
+            "Abdul Saboor and Aya Rezeika and Piotr Stawicki and Felix Gembler and Mihaly Benda and Thomas Grunenberg and Ivan Volosyak",
+            "2017",
+            "kr5BIMYAAAAJ:9yKSN-GCB0IC",
+            20,
+            "https:\/\/link.springer.com\/chapter\/10.1007\/978-3-319-59147-6_41",
+            "18152930598033240276",
+            "\/scholar?cites=18152930598033240276",
+            {
+                "2017":1,
+                "2018":4,
+                "2019":9,
+                "2020":3,
+                "2021":3
+            }
+        ],
+        [
+            "Brain-Computer Interfaces (BCIs) allow humans to form a physical symbiosis with computer systems. One use case scenario of BCIs is communication by brain activity. High spelling speeds have been achieved with BCIs based on code-modulated visual evoked potentials (c-VEPs). Typically, the flickering stimuli are presented on a standard 60 Hz monitor. Users can find VEP-based BCIs annoying and tiring due to the perceptible flickering. This is especially the case for multi-target systems designed for maximal communication speed. Higher monitor refresh rates allow a faster flickering rate for BCI targets, and thus a more subtle visual stimulation. In this paper, user friendliness and speed of c-VEP BCIs with different monitor refresh rates (60, 120 and 200 Hz) are compared. The experiment was comprised of three sessions (each consisting of training and spelling stages), one for each tested monitor refresh \u2026",
+            "Effects of monitor refresh rates on c-VEP BCIs",
+            "Felix Gembler and Piotr Stawicki and Aya Rezeika and Abdul Saboor and Mihaly Benda and Ivan Volosyak",
+            "2017",
+            "kr5BIMYAAAAJ:u-x6o8ySG0sC",
+            13,
+            "https:\/\/link.springer.com\/chapter\/10.1007\/978-3-319-91593-7_6",
+            "12414313513058396475",
+            "\/scholar?cites=12414313513058396475",
+            {
+                "2018":4,
+                "2019":6,
+                "2020":3
+            }
+        ],
+        [
+            "Brain-Computer Interfaces (BCIs) based on visual evoked potentials (VEPs) allow high communication speeds and accuracies. The fastest speeds can be achieved if targets are identified in a synchronous way (i.e., after a pre-set time period the system will produce a command output). The duration a target needs to be fixated on until the system classifies an output command affects the overall system performance. Hence, extracting a data window dedicated for the classification is of critical importance for VEP-based BCIs. Secondly, unintentional fixation on a target could easily lead to its selection. For the practical usability of BCI applications it is desirable to distinguish between intentional and unintentional fixations. This can be achieved by using threshold-based target identification methods. The study explores personalized dynamic classification time windows for threshold-based time synchronous VEP BCIs. The proposed techniques were tested employing the SSVEP and the c-VEP paradigm. Spelling performance was evaluated using an 8-target dictionary-supported BCI utilizing an n-gram word prediction model. The performance of twelve healthy participants was assessed with the information transfer rate (ITR) and accuracy. All participants completed sentence spelling tasks, reaching average accuracies of 94% and 96.3% for the c-VEP and the SSVEP paradigm, respectively. Average ITRs around 57 bpm were achieved for both paradigms.",
+            "Dynamic time window mechanism for time synchronous VEP-based BCIs\u2014Performance evaluation with a dictionary-supported BCI speller employing SSVEP and c-VEP",
+            "Felix Gembler and Piotr Stawicki and Abdul Saboor and Ivan Volosyak",
+            "2019",
+            "kr5BIMYAAAAJ:eQOLeE2rZwMC",
+            9,
+            "https:\/\/journals.plos.org\/plosone\/article?id=10.1371\/journal.pone.0218177",
+            "9529341934858934962",
+            "\/scholar?cites=9529341934858934962",
+            {
+                "2019":2,
+                "2020":6,
+                "2021":1
+            }
+        ],
+        [
+            "Brain-Computer Interface (BCI) provides a non-muscular communication by using the brain signals. During last decades, the BCI-systems provided various graphical user interfaces, especially the speller interfaces. Efforts had been made to increase the speller speed and user friendliness of the system. In this paper, we are introducing a browser-driven SSVEP-based BCI web speller (accessible at: https:\/\/bci-lab.hochschule-rhein-waal.de\/en\/speller\/). This web speller can be used with the help of major existing web browsers. Thus, all the international researchers working in the field of BCI can access this web speller online free of charge, and they can run this speller using their own classifier applications. In the presented three-step web speller, the user can select a desired character by going through three different steps of the web interface. The browser-driven BCI speller was tested in this study by ten subjects \u2026",
+            "A browser-driven SSVEP-based BCI web speller",
+            "Abdul Saboor and Felix Gembler and Mihaly Benda and Piotr Stawicki and Aya Rezeika and Roland Grichnik and Ivan Volosyak",
+            "2018",
+            "kr5BIMYAAAAJ:IjCSPb-OGe4C",
+            7,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/8616111\/",
+            "4246487509873933435",
+            "\/scholar?cites=4246487509873933435",
+            {
+                "2019":3,
+                "2020":3,
+                "2021":1
+            }
+        ],
+        [
+            "Brain-computer interfaces (BCIs) based on code-modulated potentials (cVEPs) identify a target usually in the synchronous way (i.e. after a preset time period the system will produce a command output). Hence, users have only a limited amount of time to fixate a desired target. For the practical usability of BCI spellers it is important to distinguish between intentional and unintentional fixations. In this paper we propose the use of threshold-based target identification methods for the cVEP paradigm. These methods were tested with a dictionary driven spelling application utilizing eight flashing targets. In this respect, an n-gram word prediction model was implemented. The performance of ten healthy participants was evaluated in an online experiment. All participants completed different German sentences using the cVEP BCI with a mean information transfer rate (ITR) of 31.08 bpm.",
+            "A dictionary driven mental typewriter based on code-modulated visual evoked potentials (cVEP)",
+            "Felix Gembler and Piotr Stawicki and Abdul Saboor and Mihaly Benda and Roland Grichnik and Aya Rezeika and Ivan Volosyak",
+            "2018",
+            "kr5BIMYAAAAJ:2osOgNQ5qMEC",
+            7,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/8616110\/",
+            "2669799195253588835",
+            "\/scholar?cites=2669799195253588835",
+            {
+                "2019":4,
+                "2020":3
+            }
+        ],
+        [
+            "In this paper we examined different ways to inform the user of the classification progress in our online SSVEPbased BCI speller. Different user feedback was given based on the distance from the classification threshold, separately calculated for each stimulus. We focused on the comparison of the accuracies and spelling times associated with each different feedback type. We tested eight different methods, one without feedback for comparison, and the two paradigms each (an increase and a decrease), for three varying parameters, during an online spelling task. The eighth method was a combination of the best performing feedback modalities. A 28 target speller was used for spelling the same word with different feedback methods. The level of comfort was assessed by the seven healthy participants, using a questionnaire. We found substantial decreases in spelling times; they were reduced to 12-77% of the no \u2026",
+            "Different feedback methods for an SSVEP-based BCI",
+            "Mihaly Benda and Piotr Stawicki and Felix Gembler and Roland Grichnik and Aya Rezeika and Abdul Saboor and Ivan Volosyak",
+            "2018",
+            "kr5BIMYAAAAJ:d1gkVwhDpl0C",
+            7,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/8512622\/",
+            "16102559031768249232",
+            "\/scholar?cites=16102559031768249232",
+            {
+                "2019":5,
+                "2020":2
+            }
+        ],
+        [
+            "Brain-Computer Interfaces (BCIs) allow communication and control of the environment without the use of peripheral muscles. One of the standard BCI paradigms is based on steady state visual evoked potentials (SSVEPs), brain signals induced by gazing at a constantly flickering target. In this article, a VR SSVEP-based steering simulation is presented and evaluated in comparison to a standard desktop version. Three control classes were used to control the application. The experimental task was to steer a virtual vacuum robot and collect 10 dust piles (for this, at least 31 command classifications were required). Participants were instructed to complete the task twice, using a head mounted display (HMD) and the laptop screen for visual stimulation. All participants were able to complete the task in both scenarios. Mean accuracies of 98.91% and 97.48% and mean ITRs of 23.96 and 20.71 bits\/min were achieved for \u2026",
+            "SSVEP-based BCI in virtual reality-control of a vacuum cleaner robot",
+            "Piotr Stawicki and Felix Gembler and Cheuk Yin Chan and Mihaly Benda and Aya Rezeika and Abdul Saboor and Roland Grichnik and Ivan Volosyak",
+            "2018",
+            "kr5BIMYAAAAJ:Y0pCki6q_DkC",
+            5,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/8616096\/",
+            "15068078807894858296",
+            "\/scholar?cites=15068078807894858296",
+            {
+                "2019":3,
+                "2020":2
+            }
+        ],
+        [
+            "Brain-Computer Interfaces (BCIs) based on Steady-State Visually Evoked Potentials (SSVEPs) can be used as hand-free control device. To utilize this control method in a real life scenario, we created a system in which a smart home is controlled by BCI. Six devices in the smart home environment could be controlled with the BCI system: The entrance door, the wardrobe, the kitchens' worktop and drawers, the light system of all the rooms and a guide light. In the presented paper, the visual stimuli for the BCI were placed at multiple screens in the smart home (placed at different locations such as the kitchen and the living room). The processing was done on one computer, located in the living room. The placement of the visual stimuli corresponded to the actuators that were controlled, e.g. the kitchen drawers were linked to the stimuli displayed in the kitchen. An online experiment was conducted where participants went \u2026",
+            "Towards an ssvep-bci controlled smart home",
+            "Michael Adams and Mihaly Benda and Abdul Saboor and Andr\u00e9 Frank Krause and Aya Rezeika and Felix Gembler and Piotr Stawicki and Marc Hesse and Kai Essig and Sadok Ben-Salem and Zahidul Islam and Arne Vogelsang and Thorsten Jungeblut and Ulrich Ruckert and Ivan Volosyak",
+            "2019",
+            "kr5BIMYAAAAJ:_FxGoFyzp5QC",
+            4,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/8914668\/",
+            "9790583038398249673",
+            "\/scholar?cites=9790583038398249673",
+            {
+                "2020":4
+            }
+        ],
+        [
+            "Brain-Computer Interfaces (BCIs) based on code-modulated visual evoked potentials can be used as hand-free communication tool for severely disabled people. In this paper we propose a filter bank design for c-VEP BCIs based on alpha, beta and gamma sub-bands. The approach was tested using a dictionary driven spelling application utilizing flexible time-windows. The graphical user interface offers word suggestions that are updated after each selection. The system was tested with 18 healthy participants. Performance of a word and a sentence spelling task was analyzed. Remarkably, in the word spelling task, all participants reached 100 % accuracy. In the sentence spelling task the mean accuracy was still extremely high (97 %). Furthermore, to assess the speed of the system, information transfer rate (ITR) and output characters per minute (OCM) were calculated. Mean ITRs of 149.3 bpm and 93.1 bpm were \u2026",
+            "A multi-target c-VEP-based BCI speller utilizing n-gram word prediction and filter bank classification",
+            "Felix Gembler and Mihaly Benda and Abdul Saboor and Ivan Volosyak",
+            "2019",
+            "kr5BIMYAAAAJ:ufrVoPGSRksC",
+            4,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/8914235\/",
+            "6961043997285130953",
+            "\/scholar?cites=6961043997285130953",
+            {
+                "2020":4
+            }
+        ]
+    ]
+}

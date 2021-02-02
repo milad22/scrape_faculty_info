@@ -1,0 +1,46 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "VTWFMHMH",
+            "2oNi7DkAAAAJ",
+            [
+                "The evaluation of ontologies",
+                "Flame spread in an opposed forced flow: the effect of ambient oxygen concentration",
+                "ALPS: A language for process specification",
+                "Manufacturing interoperability",
+                "Unified process specification language: Requirements for modeling process",
+                "Process specification language: An analysis of existing representations",
+                "Interoperability standards in the semantic web",
+                "Toward ontology evaluation across the life cycle"
+            ],
+            [
+                "Recent years have seen rapid progress in the development of ontologies as semantic models intended to capture and represent aspects of the real world. There is, however, great variation in the quality of ontologies. If ontologies are to become progressively better in the future, more rigorously developed, and more appropriately compared, then a systematic discipline of ontology evaluation must be created to ensure quality of content and methodology. Systematic methods for ontology evaluation will take into account representation of individual ontologies, performance (in terms of accuracy, domain coverage and the efficiency and quality of automated reasoning using the ontologies) on tasks for which the ontology is designed and used, degree of alignment with other ontologies and their compatibility with automated reasoning. A sound and systematic approach to ontology evaluation is required to transform \u2026",
+                "The velocity of flame propagation over the surface of thick PMMA and thin paper sheets has been measured as a function of the velocity and oxygen concentration of a forced gas flow opposing the direction of flame propagation. It is shown that although for thin fuels the flame spread rate always decreases as the opposed flow velocity increases, for thick fuels the dependence of the spread rate on the gas velocity is also a function of the ambient oxygen concentration. For low oxygen concentrations the flame spread rate decreases as the velocity of the gas flow increases. For high oxygen concentrations, however, the spread rate increases with the flow velocity, reaches a maximum and then decreases as the gas velocity increases. The velocity of the opposed flow at which the maximum occurs is a function of the oxygen concentration, decreasing as the concentration decreases. Following phenomenological \u2026",
+                "This paper describes research identifying information models to facilitate process specification and to transfer this information to process control. A conceptual schema is introduced as a means to bridge the gap between process planning requirements and production control requirements. The result is a process specification language based on directed graph notation which allows full specification of parallel activities, event synchronization, alternative processes, resource management, and task decomposition.",
+                "As manufacturing and commerce become ever more global, companies are dependent increasingly upon the efficient and effective sharing of information with their partners, wherever they may be. Leading manufacturers perform this sharing with computers, which must therefore have the required software to encode and decode the associated electronic transmissions. Because no single company can dictate that all its partners use the same software, standards for how the information is represented become critical for error-free transmission and translation. The terms interoperability and integration are frequently used to refer to this error-free transmission and translation. This paper summarizes two projects underway at the National Institute of Standards and Technology in the areas of interoperability testing and integration automation. These projects lay the foundation for at tomorrow\u2019s standards, which we \u2026",
+                "A wide range of applications deal with the manipulation and expression of collections of activities. Examples include project management, workflow management, business process reengineering, product realization process modeling, manufacturing process planning, production scheduling, simulation, and Computer Aided Software Engineering, each of which is supported by some combination of graphical programming and control languages, Petri nets, PERT charts or other representation methodology. Each of these applications serves a specific audience and need, and focuses on particular aspects of a process. Nevertheless, much could be gained by sharing information among applications. One of the primary obstacles to such integration is the lack of any common representation of what is really the common underlying concept of process. The objective of the work described here is an investigation of the feasibility of a unifying specification of process which is applicable to all of the above applications, yet powerful and robust enough to meet each set of requirements. This document represents the results of the first phase of the work\u2013that of researching the process representational requirements for design\/manufacturing process life-cycle applications. These requirements are categorized into four categories; core, outer core, extensions, and application, which aided in describing the role of the requirements in the overall challenge of process representation.",
+                "The goal of the NIST Process Specification Language (PSL) project is to investigate and arrive at a neutral, unifying representation of process information to enable sharing of process data among manufacturing engineering and business applications. This paper focuses on the second phase of the project, the analysis of existing process representations to determine how well existing process representation methodologies support the requirements for specifying processes found in Phase One. This analysis will provide an objective basis from which to develop a comprehensive language and will promote the leveraging of existing work.",
+                "The growth in the use of the Internet brings with it an increase in the number of interconnections among information systems supporting the manufacturing supply chain as well as other businesses. Each of these interconnections must be carefully prescribed to ensure interoperability. However, the sheer number of interconnections and the resulting complexity threaten to overwhelm the ability of the standards community or industry to provide the necessary specifications\u2014a way out of this impasse must be found. This paper outlines the elements of an approach and the technology to move toward self-integrating systems, wherein the systems negotiate meaningful interfaces as needed in a dynamic environment.",
+                "Ontology is an information technology that enables computers to \u2018understand\u2019and reason with complex knowledge. This technology has been shown to have a wide range of applications; including data mining, natural language processing, information federation and integration, and the use within standards to represent concepts unambiguously.In spite of its success, there is a lack of methods, metrics, and tools for improving the process of ensuring that ontologies are designed well and that they behave correctly within the context of the information systems that they are part of. This lack of measurement science is an obstacle for industry to improve the quality of ontology development and maintenance. The goal of the Ontology Summit 2013 was to identify existing best practices and tools in ontology evaluation, and to create a community consensus on how to best ensure quality across the whole lifecycle of an ontology. This report is designed to both report on the 2013 Ontology Summit, and to interpret the results of the summit in order to better guide the National Institute of Standards and Technology in its future strategic positioning with respect to semantic technology."
+            ],
+            [
+                [
+                    "Ontology",
+                    "semantics",
+                    "manufacturing",
+                    "fire"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "AMKYG6V1",
+            "YqpNyFUAAAAJ",
+            [
+                "Limits of predictability in human mobility",
+                "Self-similarity of complex networks",
+                "Modelling the scaling properties of human mobility",
+                "A phase diagram for jammed matter",
+                "Human mobility, social ties, and link prediction",
+                "Quantifying Long-term Scientific Impact",
+                "Origins of fractality in the growth of complex networks",
+                "Quantifying the evolution of individual scientific impact",
+                "How to calculate the fractal dimension of a complex network: the box covering algorithm",
+                "Modeling and predicting popularity dynamics via reinforced poisson processes"
+            ],
+            [
+                "A range of applications, from predicting the spread of human and electronic viruses to city planning and resource management in mobile communications, depend on our ability to foresee the whereabouts and mobility of individuals, raising a fundamental question: To what degree is human behavior predictable? Here we explore the limits of predictability in human dynamics by studying the mobility patterns of anonymized mobile phone users. By measuring the entropy of each individual\u2019s trajectory, we find a 93% potential predictability in user mobility across the whole user base. Despite the significant differences in the travel patterns, we find a remarkable lack of variability in predictability, which is largely independent of the distance users cover on a regular basis.",
+                "Complex networks have been studied extensively owing to their relevance to many real systems such as the world-wide web, the Internet, energy landscapes and biological and social networks 1, 2, 3, 4, 5. A large number of real networks are referred to as \u2018scale-free\u2019because they show a power-law distribution of the number of links per node 1, 6, 7. However, it is widely believed that complex networks are not invariant or self-similar under a length-scale transformation. This conclusion originates from the \u2018small-world\u2019property of these networks, which implies that the number of nodes increases exponentially with the \u2018diameter\u2019of the network 8, 9, 10, 11, rather than the power-law relation expected for a self-similar structure. Here we analyse a variety of real complex networks and find that, on the contrary, they consist of self-repeating patterns on all length scales. This result is achieved by the application of a \u2026",
+                "Individual human trajectories are characterized by fat-tailed distributions of jump sizes and waiting times, suggesting the relevance of continuous-time random-walk (CTRW) models for human mobility. However, human traces are barely random. Given the importance of human mobility, from epidemic modelling to traffic prediction and urban planning, we need quantitative models that can account for the statistical characteristics of individual human trajectories. Here we use empirical data on human mobility, captured by mobile-phone traces, to show that the predictions of the CTRW models are in systematic conflict with the empirical results. We introduce two principles that govern human trajectories, allowing us to build a statistically self-consistent microscopic model for individual human mobility. The model accounts for the empirically observed scaling laws, but also allows us to analytically predict most of the \u2026",
+                "The problem of finding the most efficient way to pack spheres has a long history, dating back to the crystalline arrays conjectured 1 by Kepler and the random geometries explored 2 by Bernal. Apart from its mathematical interest, the problem has practical relevance 3 in a wide range of fields, from granular processing to fruit packing. There are currently numerous experiments showing that the loosest way to pack spheres (random loose packing) gives a density of\u223c 55 per cent 4, 5, 6. On the other hand, the most compact way to pack spheres (random close packing) results in a maximum density of\u223c 64 per cent 2, 4, 6. Although these values seem to be robust, there is as yet no physical interpretation for them. Here we present a statistical description of jammed states 7 in which random close packing can be interpreted as the ground state of the ensemble of jammed matter. Our approach demonstrates that random \u2026",
+                "Our understanding of how individual mobility patterns shape and impact the social network is limited, but is essential for a deeper understanding of network dynamics and evolution. This question is largely unexplored, partly due to the difficulty in obtaining large-scale society-wide data that simultaneously capture the dynamical information on individual movements and social interactions. Here we address this challenge for the first time by tracking the trajectories and communication records of 6 Million mobile phone users. We find that the similarity between two individuals' movements strongly correlates with their proximity in the social network. We further investigate how the predictive power hidden in such correlations can be exploited to address a challenging problem: which new links will develop in a social network. We show that mobility measures alone yield surprising predictive power, comparable to traditional \u2026",
+                "The lack of predictability of citation-based measures frequently used to gauge impact, from impact factors to short-term citations, raises a fundamental question: Is there long-term predictability in citation patterns? Here, we derive a mechanistic model for the citation dynamics of individual papers, allowing us to collapse the citation histories of papers from different journals and disciplines into a single curve, indicating that all papers tend to follow the same universal temporal pattern. The observed patterns not only help us uncover basic mechanisms that govern scientific impact but also offer reliable measures of influence that may have potential policy implications.",
+                "Complex networks from such different fields as biology, technology or sociology share similar organization principles. The possibility of a unique growth mechanism promises to uncover universal origins of collective behaviour. In particular, the emergence of self-similarity in complex networks raises the fundamental question of the growth process according to which these structures evolve. Here we investigate the concept of renormalization as a mechanism for the growth of fractal and non-fractal modular networks. We show that the key principle that gives rise to the fractal architecture of networks is a strong effective \u2018repulsion\u2019(or, disassortativity) between the most connected nodes (that is, the hubs) on all length scales, rendering them very dispersed. More importantly, we show that a robust network comprising functional modules, such as a cellular network, necessitates a fractal topology, suggestive of an \u2026",
+                "In most areas of human performance, from sport to engineering, the path to a major accomplishment requires a steep learning curve and long practice. Science is not that different: Outstanding discoveries are often preceded by publications of less memorable impact. However, despite the increasing desire to identify early promising scientists, the temporal career patterns that characterize the emergence of scientific excellence remain unknown.How do impact and productivity change over a scientific career? Does impact, arguably the most relevant performance measure, follow predictable patterns? Can we predict the timing of a scientist\u2019s outstanding achievement? Can we model, in quantitative and predictive terms, scientific careers? Driven by these questions, here we quantify the evolution of impact and productivity throughout thousands of scientific careers. We do so by \u2026",
+                "Covering a network with the minimum possible number of boxes can reveal interesting features for the network structure, especially in terms of self-similar or fractal characteristics. Considerable attention has been recently devoted to this problem, with the finding that many real networks are self-similar fractals. Here we present, compare and study in detail a number of algorithms that we have used in previous papers towards this goal. We show that this problem can be mapped to the well-known graph colouring problem and then we simply can apply well-established algorithms. This seems to be the most efficient method, but we also present two other algorithms based on burning which provide a number of other benefits. We argue that the algorithms presented provide a solution close to optimal and that another algorithm that can significantly improve this result in an efficient way does not exist. We offer to anyone \u2026",
+                "An ability to predict the popularity dynamics of individual items within a complex evolving system has important implications in an array of areas. Here we propose a generative probabilistic framework using a reinforced Poisson process to explicitly model the process through which individual items gain their popularity. This model distinguishes itself from existing models via its capability of modeling the arrival process of popularity and its remarkable power at predicting the popularity of individual items. It possesses the flexibility of applying Bayesian treatment to further improve the predictive power using a conjugate prior. Extensive experiments on a longitudinal citation dataset demonstrate that this model consistently outperforms existing popularity prediction methods."
+            ],
+            [
+                [
+                    "Statistical Physics",
+                    "Complex Systems",
+                    "Soft Matter",
+                    "Network Science",
+                    "Biophysics"
+                ]
+            ]
+        ]
+    ]
+}

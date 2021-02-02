@@ -1,0 +1,116 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "yb8ttyUAAAAJ",
+            "Quyen Le Nguyen",
+            "Duy Tan University",
+            "@duytan.edu.vn",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=yb8ttyUAAAAJ",
+            26774,
+            [
+                "Health Policy and Systems Research",
+                "HIV\/AIDS",
+                "Substance Abuse",
+                "Chronic Diseases",
+                "e-Health"
+            ],
+            26161,
+            33,
+            32,
+            56,
+            51,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"TQV9ZI4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Bach Tran",
+                    "affiliation":"Hanoi Medical University, Vietnam"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"g5EsT_EAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Roger C,. Ho",
+                    "affiliation":"Associate Professor, Department of Psychological Medicine, National University of Singapore"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"7MUnvjUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Huyen Phuc Do",
+                    "affiliation":"Duy Tan University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"HKSVP_0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Huong Nguyen Thi Lan",
+                    "affiliation":"Duy Tan University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Db7Os7cAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tung Thanh Tran",
+                    "affiliation":"Duy Tan University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"o7JeZW0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Anh Kim Dang",
+                    "affiliation":"Duy Tan University"
+                }
+            ]
+        ]
+    ]
+}

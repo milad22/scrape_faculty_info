@@ -1,0 +1,166 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "data":[
+        [
+            "In this paper, semi-blind class of spectrum sensing algorithms, Energy Detection (ED) and Roy's Largest Root Test (RLRT), are considered under a typical flat fading channel scenario. The knowledge of the noise variance is imperative for the optimum performance of ED and RLRT. Unfortunately, the variation and unpredictability of noise variance is unavoidable. An idea of auxiliary noise variance estimation is introduced in order to cope with the absence of prior knowledge of the noise variance, thus a hybrid approach of signal detection is set forth for each considered method. The detection performance of the methods are derived and expressed by closed form analytical expressions. The impact of noise estimation accuracy on the the performance of ED and RLRT is compared in terms of Receiver Operating Characteristic (ROC) curves and performance curves (Probability of Detection\/Miss-detection as a function \u2026",
+            "Impact of noise estimation on energy detection and eigenvalue based spectrum sensing algorithms",
+            "Pawan Dhakal and Daniel Riviello and Federico Penna and Roberto Garello",
+            "2014",
+            "ICot2EIAAAAJ:d1gkVwhDpl0C",
+            14,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6883512\/",
+            "5230502313613209484",
+            "\/scholar?cites=5230502313613209484",
+            {
+                "2015":3,
+                "2016":7,
+                "2017":2,
+                "2018":2
+            }
+        ],
+        [
+            "In this paper, the effect of primary user (PU) traffic on the performance of largest eigenvalue based spectrum sensing technique (Roy\u2019s Largest Root Test (RLRT)) is investigated. A simple and realistic discrete time modeling of PU traffic is considered which is only based on the discrete time distribution of PU free and busy periods. Furthermore, in order to analyze the effect of PU traffic on the detection performance, analytical expressions for the probability density functions of the decision statistic are derived and validated by Monte-Carlo simulations. Numerical results demonstrate that the sensing performance of RLRT is no more monotonically increasing with the length of the sensing duration and also with SNR which contrasts with the common property of the spectrum sensing techniques under known PU traffic scenario. Furthermore, it is shown that the performance gain due to the multiple antennas in the \u2026",
+            "Effect of primary user traffic on largest eigenvalue based spectrum sensing technique",
+            "Pawan Dhakal and Shree K Sharma and Symeon Chatzinotas and Bj\u00f6rn Ottersten and Daniel Riviello",
+            "2016",
+            "ICot2EIAAAAJ:zYLM7Y9cAGgC",
+            12,
+            "https:\/\/link.springer.com\/chapter\/10.1007\/978-3-319-40352-6_6",
+            "18010211173133226451",
+            "\/scholar?cites=18010211173133226451",
+            {
+                "2016":1,
+                "2017":7,
+                "2018":3,
+                "2019":1
+            }
+        ],
+        [
+            "In this paper, a novel simplified statistical approach to evaluate the error performance bound of Ordered Statistics Decoding (OSD) of Linear Block Codes (LBC) is investigated. First, we propose a novel statistic which depicts the number of errors contained in the ordered received noisy codeword. Then, simplified expressions for the probability mass function and cumulative distribution function are derived exploiting the implicit statistical independence property of the samples of the received noisy codeword before reordering. Second, we incorporate the properties of this new statistic to derive the simplified error performance bound of the OSD algorithm for all order-I reprocessing. Finally, with the proposed approach, we obtain computationally simpler error performance bounds of the OSD than those proposed in literature for all length LBCs.",
+            "On the error performance bound of ordered statistics decoding of linear block codes",
+            "Pawan Dhakal and Roberto Garello and Shree Krishna Sharma and Symeon Chatzinotas and Bj\u00f6rn Ottersten",
+            "2016",
+            "ICot2EIAAAAJ:Tyk-4Ss8FVUC",
+            8,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7510798\/",
+            "382620944039036930",
+            "\/scholar?cites=382620944039036930",
+            {
+                "2018":2,
+                "2019":4,
+                "2020":2
+            }
+        ],
+        [
+            "Two particular semi-blind spectrum sensing algorithms are taken into account in this paper: Energy Detection (ED) and Roy\u2019s Largest Root Test (RLRT). Both algorithms require the knowledge of the noise power in order to achieve optimal performance. Since by its nature the noise power is unpredictable, noise variance estimation is needed in order to cope with the absence of prior knowledge of the noise power: this leads to a new hybrid approach for both considered detectors. Probability of detection and false alarm with this new approach are derived in closed-form expressions. The impact of noise estimation accuracy for ED and RLRT is evaluated in terms of Receiver Operating Characteristic (ROC) curves and performance curves, ie, detection\/misdetection probability as a function of the Signal to Noise Ratio (SNR). Analytical results have been confirmed by numerical simulations under a flat-fading channel scenario. It is concluded that both hybrid approaches tend to their ideal cases when a large number of slots is used for noise variance estimation and that the impairment due to noise uncertainty is reduced on RLRT wrt ED.",
+            "Hybrid approach analysis of energy detection and eigenvalue based spectrum sensing algorithms with noise power estimation",
+            "Pawan Dhakal and Daniel Riviello and F Penna and Roberto Garello",
+            "2014",
+            "ICot2EIAAAAJ:u-x6o8ySG0sC",
+            8,
+            "https:\/\/core.ac.uk\/download\/pdf\/234901622.pdf",
+            "4480339487155729320",
+            "\/scholar?cites=4480339487155729320",
+            {
+                "2014":1,
+                "2015":3,
+                "2016":4
+            }
+        ],
+        [
+            "Since their dawning, space communications have been among the strongest driving applications for the development of error correcting codes. Indeed, space-to-Earth telemetry (TM) links have extensively exploited advanced coding schemes, from convolutional codes to Reed-Solomon codes (also in concatenated form) and, more recently, from turbo codes to low-density parity-check (LDPC) codes. The efficiency of these schemes has been extensively proved in several papers and reports. The situation is a bit different for Earth-to-space telecommand (TC) links. Space TCs must reliably convey control information as well as software patches from Earth control centers to scientific payload instruments and engineering equipment onboard (O\/B) spacecraft. The success of a mission may be compromised because of an error corrupting a TC message: a detected error causing no execution or, even worse, an \u2026",
+            "State-of-the-art space mission telecommand receivers",
+            "Marco Baldi and Massimo Bertinelli and Franco Chiaraluce and Pau Closas and Pawan Dhakal and Roberto Garello and Nicola Maturo and M\u00f2nica Navarro and Jose Maria Palomo and Enrico Paolini and Stephan Pfletschinger and Pedro Freire Silva and Lorenzo Simone and Jordi Vil\u00e0-Valls",
+            "2017",
+            "ICot2EIAAAAJ:Y0pCki6q_DkC",
+            7,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7990414\/",
+            "13737518848614880759",
+            "\/scholar?cites=13737518848614880759",
+            {
+                "2017":1,
+                "2018":1,
+                "2019":4,
+                "2020":1
+            }
+        ],
+        [
+            "In cognitive radio (CR) networks, the knowledge of primary user (PU) traffic plays a crucial role in designing the sensing slot duration and synchronization with PU traffic. However, the secondary user (SU) sensing unit usually does not have the knowledge of the exact time slot structure in the primary network. Moreover, it is also possible that the communication among PUs are not based on synchronous schemes at all. In this paper, the effect of unknown primary user (PU) traffic on the performance of multi-antenna spectrum sensing is evaluated under a flat fading channel. In contrast to the commonly used continuous time Markov model of the existing literature, a realistic and simple PU traffic model is proposed which is based only on the discrete time distribution of PU free and busy periods. Furthermore, in order to assess the effect of PU traffic on the detection performance, analytical expressions for the probability density functions of the decision statistic are derived considering Energy Detection (ED) test as spectrum sensing method. It is shown that the time varying PU traffic severely affects the spectrum sensing performance. Most importantly, our results show that the performance gain due to multiple antennas in the sensing unit is significantly reduced by the effect of PU traffic when the mean lengths of free and busy periods are of the same order of magnitude of the sensing slot.",
+            "Multi-Antenna Energy Detector Under Unknown Primary User Traffic",
+            "Pawan Dhakal and Daniel Riviello",
+            "2016",
+            "ICot2EIAAAAJ:IjCSPb-OGe4C",
+            1,
+            "https:\/\/core.ac.uk\/download\/pdf\/234909453.pdf",
+            "10433069917606876305",
+            "\/scholar?cites=10433069917606876305",
+            {
+                "2017":1
+            }
+        ],
+        [
+            "In this paper, a thorough comparison of multi-antenna spectrum sensing techniques is performed. We considered well known algorithms, such as Energy Detector (ED), eigenvalue based detectors, and an algorithm that uses the eigenvector associated to the largest eigenvalue of the covariance matrix. With the idea of auxiliary noise variance estimation, a hybrid approach for the eigenvector-based method is presented and compared against the hybrid Roy's Largest Root Test and hybrid ED. Performance results are evaluated in terms of Receiver Operating Characteristic (ROC) curves and performance curves, i.e., detection probability as a function of the Signal to Noise Ratio (SNR). It is shown that the the eigenvector-based algorithm and its hybrid variant are able approach the optimal Neyman-Pearson performance.",
+            "On the use of eigenvectors in multi-antenna spectrum sensing with noise variance estimation",
+            "Daniel Riviello and Pawan Dhakal and Roberto Garello",
+            "2015",
+            "ICot2EIAAAAJ:2osOgNQ5qMEC",
+            1,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7095339\/",
+            "8357430210443654672",
+            "\/scholar?cites=8357430210443654672",
+            {
+                "2017":1
+            }
+        ],
+        [
+            "In this paper, we extend the concept of SNR Wall phenomenon for Energy Detection (ED) to the multi-sensor ED by using a hybrid approach with auxiliary noise estimation under a typical flat fading channel scenario. SNR Wall expression is derived for multi-sensor ED and proved to be independent of the number of sensors. The distribution of the uncertainty of the noise variance estimate is derived for auxiliary Gaussian noise samples. The analytical expression of the uncertainty bound is derived. It is concluded that the noise uncertainty can be reduced by increasing the number of samples used for noise variance estimation, but the number of samples\/slots used for noise estimation exponentially increases as the SNR Wall condition becomes more stringent.",
+            "SNR Wall analysis of multi-sensor energy detection with noise variance estimation",
+            "Pawan Dhakal and Daniel Rivello and Roberto Garello",
+            "2014",
+            "ICot2EIAAAAJ:9yKSN-GCB0IC",
+            1,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6933440\/",
+            "6167219350331534125",
+            "\/scholar?cites=6167219350331534125",
+            {
+                "2017":1
+            }
+        ],
+        [
+            "In order to gain awareness of available transmission opportunities, a cognitive radio [1] system requires the implementation of a spectrum sensing unit, which must indicate whether a transmission is taking place in the considered channel. In order to provide such indication, a binary hypothesis testing experiment must be periodically performed [2]. Many algorithms have been proposed for the computation of such test statistics [3]. In this paper we focus on the performance of Hybrid Approach of semi-blind eigenvalue-based detection (EBD) algorithms, especially RLRT [4], in which the noise variance is estimated in a given number of auxiliary slots.",
+            "Impact of noise estimation on eigenvalue based spectrum sensing in cognitive radio systems",
+            "Pawan Dhakal and Roberto Garello and Federico Penna and Daniel Riviello",
+            "2013",
+            "ICot2EIAAAAJ:u5HHmVD_uO8C",
+            1,
+            "https:\/\/www.researchgate.net\/profile\/Daniel_Riviello\/publication\/271437688_Impact_of_noise_estimation_on_eigenvalue_based_spectrum_sensing_in_cognitive_radio_systems\/links\/54c7ab3b0cf238bb7d0afb7b.pdf",
+            "1707757087793552157",
+            "\/scholar?cites=1707757087793552157",
+            {
+                "2014":1
+            }
+        ]
+    ]
+}

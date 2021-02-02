@@ -1,0 +1,91 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "RR51-PoAAAAJ",
+            "Dmitry Melnikov (\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u041c\u0435\u043b\u044c\u043d\u0438\u043a\u043e\u0432)",
+            "\u0418\u043d\u0441\u0442\u0438\u0442\u0443\u0442 \u0432\u0443\u043b\u043a\u0430\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0438 \u0441\u0435\u0439\u0441\u043c\u043e\u043b\u043e\u0433\u0438\u0438 \u0414\u0412\u041e \u0420\u0410\u041d (Institute of volcanology and seismology, FEB RAS",
+            "@kscnet.ru",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=RR51-PoAAAAJ",
+            1250,
+            [
+                "volcanology",
+                "remote sensing",
+                "geomorphology",
+                "Volcano Monitoring"
+            ],
+            834,
+            19,
+            15,
+            39,
+            26,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"4exb86AAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Anna Volynets",
+                    "affiliation":"Institute of volcanology and seismology FEB RAS"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"tpmTEosAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alexander Belousov",
+                    "affiliation":"Institute of Volcanology and Seismology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fczMwQYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ben Edwards",
+                    "affiliation":"Professor of Earth Sciences, Dickinson College"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"wKEWS9oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Santiago Arellano",
+                    "affiliation":"Chalmers University of Technology"
+                }
+            ]
+        ]
+    ]
+}

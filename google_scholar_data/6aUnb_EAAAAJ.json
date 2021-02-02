@@ -1,0 +1,176 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "6aUnb_EAAAAJ",
+            "Joseph N Paulson",
+            "Genentech, Inc",
+            "@gene.com",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=6aUnb_EAAAAJ",
+            2835,
+            [
+                "Biostatistics",
+                "Computational Biology",
+                "Data Science",
+                "Metagenomics",
+                "Genomics"
+            ],
+            2677,
+            21,
+            21,
+            32,
+            31,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"QEVXP-kAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hector Corrada Bravo",
+                    "affiliation":"Associate Professor of Computer Science, University of Maryland"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"4glkLD0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mihai Pop",
+                    "affiliation":"Professor of Computer Science, University of Maryland, College Park"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6QrCoOoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"John Quackenbush",
+                    "affiliation":"Harvard T.H. Chan School of Public Health, Channing Division of Network Medicine, and Dana-Farber"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"2iMZJIQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"O. Colin Stine",
+                    "affiliation":"Professor of Epidemiology and Public Health, Univeristy of Maryland Baltimore"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"pjs6IRwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Amy Rebecca Sapkota",
+                    "affiliation":"Professor, University of Maryland School of Public Health"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"nFW-2Q8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Rafael A Irizarry",
+                    "affiliation":"Professor, Biostatistics and Computational Biology, Dana-Farber and Harvard"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"0ATpWW0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mathieu Almeida",
+                    "affiliation":"Research Fellow at INRA MetaGenoPolis, France"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"rPKaEkcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Brianna Lindsay",
+                    "affiliation":"University of Maryland Baltimore, Institute for Human Virology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"D3CqfBkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alan Walker",
+                    "affiliation":"Senior Lecturer, Rowett Institute, University of Aberdeen"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"4T4qnL4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Stephanie Hicks",
+                    "affiliation":"Assistant Professor, Johns Hopkins Bloomberg School of Public Health"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"v7G4QvIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hugo Aerts",
+                    "affiliation":"Director AIM @ Harvard-BWH; DFCI; MGH"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Nz8FV6EAAAAJ",
+            "Robert J. Marshak",
+            "Distinguished Scholar in Residence Emeritus, American University",
+            "@american.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=Nz8FV6EAAAAJ",
+            3536,
+            [
+
+            ],
+            1453,
+            28,
+            17,
+            49,
+            34,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"b8tojBMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gervase R. Bushe",
+                    "affiliation":"Simon Fraser University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"S-jF8UoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David Grant",
+                    "affiliation":"Pro Vice Chancellor (Business), Griffith Business School"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"yEn8iZgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Cliff Oswick",
+                    "affiliation":"City University London"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Ab1o9sUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Loizos Heracleous",
+                    "affiliation":"Professor of Strategy and Organization, Warwick Business School, www.heracleous.org, @strategizing"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"b8_CJw4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Maurizio Floris",
+                    "affiliation":"University of New South Wales, AGSM"
+                }
+            ]
+        ]
+    ]
+}

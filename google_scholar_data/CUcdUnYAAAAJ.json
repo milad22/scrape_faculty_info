@@ -1,0 +1,116 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "CUcdUnYAAAAJ",
+            "Dhara Trivedi",
+            "Assistant Professor, Clarkson University",
+            "@clarkson.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=CUcdUnYAAAAJ",
+            463,
+            [
+                "Physics",
+                "Quantum Optics",
+                "Non-adiabatic Molecular Dynamics",
+                "Spintronics",
+                "Quantum Chemistry"
+            ],
+            358,
+            9,
+            8,
+            9,
+            8,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"PImyd7kAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Linjun Wang",
+                    "affiliation":"University of Sourthern California"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"WBhUATMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Teri W. Odom",
+                    "affiliation":"Professor of Chemistry, Northwestern University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"XHtII_oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"George C. Schatz",
+                    "affiliation":"Northwestern University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Wcx_lrkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hanan Dery",
+                    "affiliation":"Professor of Electrical and Computer Engineering, University of Rochester"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ZQq0CHkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alexey V. Akimov",
+                    "affiliation":"University at Buffalo, SUNY"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"kWMW-gYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tengfei Ma",
+                    "affiliation":"Department of Mechanical Engineering, University of Nevada, Reno"
+                }
+            ]
+        ]
+    ]
+}

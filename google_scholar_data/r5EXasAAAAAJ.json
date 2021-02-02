@@ -1,0 +1,54 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "r5EXasAAAAAJ",
+            "Priya Vashishta",
+            "Professor Materials Science, University of Southern California",
+            "@usc.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=r5EXasAAAAAJ",
+            23269,
+            [
+                "Materials science",
+                "Computational materials science",
+                "scientific software"
+            ],
+            5595,
+            79,
+            35,
+            355,
+            164,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"SintLI0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ken-ichi Nomura",
+                    "affiliation":"University of Southern California"
+                }
+            ]
+        ]
+    ]
+}

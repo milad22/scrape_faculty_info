@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "LWJ443I0",
+            "gCJRAw0AAAAJ",
+            [
+                "The Hi-GAL compact source catalogue \u2013 I. The physical properties of the clumps in the inner Galaxy (\u2212710 < \u2113 < 670)",
+                "A Roadmap for HEP Software and Computing R&D for the 2020s",
+                "Towards a high performance geometry library for particle-detector simulations",
+                "Muon tomography imaging algorithms for nuclear threat detection inside large volume containers with the Muon Portal detector",
+                "The GeantV project: preparing the future of simulation",
+                "A search for the dimuon decay of the Standard Model Higgs boson with the ATLAS detector",
+                "Spatial distribution of star formation related to ionized regions throughout the inner Galactic plane",
+                "An innovative science gateway for the cherenkov telescope array",
+                "Science gateway technologies for the astrophysics community",
+                "Search for hidden high-Z materials inside containers with the Muon Portal Project"
+            ],
+            [
+                "Hi-GAL (Herschel InfraRed Galactic Plane Survey) is a large-scale survey of the Galactic plane, performed with Herschel in five infrared continuum bands between 70 and 500 \u03bcm. We present a band-merged catalogue of spatially matched sources and their properties derived from fits to the spectral energy distributions (SEDs) and heliocentric distances, based on the photometric catalogues presented in Molinari et al., covering the portion of Galactic plane \u2212710 < \u2113 < 670. The band-merged catalogue contains 100 922 sources with a regular SED, 24\u2009584 of which show a 70-\u03bcm counterpart and are thus considered protostellar, while the remainder are considered starless. Thanks to this huge number of sources, we are able to carry out a preliminary analysis of early stages of star formation, identifying the conditions that characterize different evolutionary phases on a statistically significant basis. We calculate \u2026",
+                "Particle physics has an ambitious and broad experimental programme for the coming decades. This programme requires large investments in detector hardware, either to build new facilities and experiments, or to upgrade existing ones. Similarly, it requires commensurate investment in the R&D of software to acquire, manage, process, and analyse the shear amounts of data to be recorded. In planning for the HL-LHC in particular, it is critical that all of the collaborating stakeholders agree on the software goals and priorities, and that the efforts complement each other. In this spirit, this white paper describes the R&D activities required to prepare for this software upgrade.",
+                "Thread-parallelisation and single-instruction multiple data (SIMD) \u201dvectorisation\u201d of software components in HEP computing has become a necessity to fully benefit from current and future computing hardware. In this context, the Geant-Vector\/GPU simulation project aims to re-engineer current software for the simulation of the passage of particles through detectors in order to increase the overall event throughput. As one of the core modules in this area, the geometry library plays a central role and vectorising its algorithms will be one of the cornerstones towards achieving good CPU performance. Here, we report on the progress made in vectorising the shape primitives, as well as in applying new C++ template based optimisations of existing code available in the Geant4, ROOT or USolids geometry libraries. We will focus on a presentation of our software development approach that aims to provide optimised code for \u2026",
+                "Muon tomographic visualization techniques try to reconstruct a 3D image as close as possible to the real localization of the objects being probed. Statistical algorithms under test for the reconstruction of muon tomographic images in the Muon Portal Project are discussed here. Autocorrelation analysis and clustering algorithms have been employed within the context of methods based on the Point Of Closest Approach (POCA) reconstruction tool. An iterative method based on the log-likelihood approach was also implemented. Relative merits of all such methods are discussed, with reference to full Geant4 simulations of different scenarios, incorporating medium and high-Z objects inside a container.",
+                "Detector simulation is consuming at least half of the HEP computing cycles, and even so, experiments have to take hard decisions on what to simulate, as their needs greatly surpass the availability of computing resources. New experiments still in the design phase such as FCC, CLIC and ILC as well as upgraded versions of the existing LHC detectors will push further the simulation requirements. Since the increase in computing resources is not likely to keep pace with our needs, it is therefore necessary to explore innovative ways of speeding up simulation in order to sustain the progress of High Energy Physics. The GeantV project aims at developing a high performance detector simulation system integrating fast and full simulation that can be ported on different computing architectures, including CPU accelerators. After more than two years of R&D the project has produced a prototype capable of transporting \u2026",
+                "A search for the dimuon decay of the Standard Model (SM) Higgs boson is performed using data corresponding to an integrated luminosity of 139 fb\u2212 1 collected with the ATLAS detector in Run 2 pp collisions at s= 13 TeV at the Large Hadron Collider. The observed (expected) significance over the background-only hypothesis for a Higgs boson with a mass of 125.09 GeV is 2.0\u03c3 (1.7\u03c3). The observed upper limit on the cross section times branching ratio for p p\u2192 H\u2192 \u03bc \u03bc is 2.2 times the SM prediction at 95% confidence level, while the expected limit on a H\u2192 \u03bc \u03bc signal assuming the absence (presence) of a SM signal is 1.1 (2.0). The best-fit value of the signal strength parameter, defined as the ratio of the observed signal yield to the one expected in the SM, is \u03bc= 1.2\u00b10.6.",
+                "We present a comprehensive statistical analysis of star-forming objects located in the vicinities of 1360 bubble structures throughout the Galactic plane and their local environments. The compilation of ~70 000 star-forming sources, found in the proximity of the ionized (Hii) regions and detected in both Hi-GAL and GLIMPSE surveys, provided a broad overview of the different evolutionary stages of star-formation in bubbles, from prestellar objects to more evolved young stellar objects (YSOs). Surface density maps of star-forming objects clearly reveal an evolutionary trend where more evolved star-forming objects (Class II YSO candidates) are found spatially located near the center, while younger star-forming objects are found at the edge of the bubbles. We derived dynamic ages for a subsample of 182 H\u2009ii\u2009regions for which kinematic distances and radio continuum flux measurements were available. We detect \u2026",
+                "The Cherenkov Telescope Array (CTA) is currently building the next generation, ground-based, very high-energy gamma-ray instrumentation. CTA is expected to collect very large datasets (in the order of petabytes) which will have to be stored, managed and processed. This paper presents a graphical user interface built inside a science gateway aiming at providing CTA-users with a common working framework. The gateway is WS-PGRADE\/gUSE workflow-oriented and is equipped with a flexible SSO (based on SAML) to control user access for authentication and authorization. An interactive desktop environment is provided, called Astronomical & Physics Cloud Interactive Desktop (ACID). Users are able to exploit the graphical interface as provided natively by the tools included in ACID. A cloud data service shares and synchronizes data files and output results between the user desktop and the science \u2026",
+                "The availability of large\u2010scale digital surveys offers tremendous opportunities for advancing scientific knowledge in the astrophysics community. Nevertheless, the analysis of these data often requires very powerful computational resources. Science gateway technologies offer Web\u2010based environments to run applications with little concern for learning and managing the underlying infrastructures that execute them. This paper focuses on the issues related to the development of a science gateway customized for the needs of the astrophysics community. The VisIVO Science Gateway is wrapped around a WS\u2010PGRADE\/grid User Support Environment portal integrating services for processing and visualizing large\u2010scale multidimensional astrophysical data sets on distributed computing infrastructures. We discuss the core tools and services supported including an application for mobile access to the gateway. We report \u2026",
+                "The Muon Portal is a recently born project that plans to build a large area muon detector for a noninvasive inspection of shipping containers in the ports, searching for the presence of potential fissile (U, Pu) threats. The technique employed by the project is the well-known muon tomography, based on cosmic muon scattering from high-Z materials. The design and operational parameters of the muon portal under construction will be described in this paper, together with preliminary simulation and test results."
+            ],
+            [
+                [
+                    "MonteCarlo Simulation",
+                    "Vectorization",
+                    "Distributed Systems",
+                    "Cosmic Rays Physics",
+                    "Ray Tracing"
+                ]
+            ]
+        ]
+    ]
+}

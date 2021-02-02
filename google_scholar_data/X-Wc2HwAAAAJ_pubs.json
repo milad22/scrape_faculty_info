@@ -1,0 +1,184 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "data":[
+        [
+            "We present a description of the adaptive mesh refinement (AMR) implementation of the PLUTO code for solving the equations of classical and special relativistic magnetohydrodynamics (MHD and RMHD). The current release exploits, in addition to the static grid version of the code, the distributed infrastructure of the CHOMBO library for multidimensional parallel computations over block-structured, adaptively refined grids. We employ a conservative finite-volume approach where primary flow quantities are discretized at the cell center in a dimensionally unsplit fashion using the Corner Transport Upwind method. Time stepping relies on a characteristic tracing step where piecewise parabolic method, weighted essentially non-oscillatory, or slope-limited linear interpolation schemes can be handily adopted. A characteristic decomposition-free version of the scheme is also illustrated. The solenoidal condition of the \u2026",
+            "The PLUTO code for adaptive mesh computations in astrophysical fluid dynamics",
+            "Andrea Mignone and C Zanni and Petros Tzeferacos and B Van Straalen and P Colella and G Bodo",
+            "2011",
+            "X-Wc2HwAAAAJ:xtRiw3GOFMkC",
+            292,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0067-0049\/198\/1\/7\/meta",
+            "17667647950898200568",
+            "\/scholar?cites=17667647950898200568",
+            {
+                "2012":8,
+                "2013":14,
+                "2014":22,
+                "2015":20,
+                "2016":33,
+                "2017":38,
+                "2018":51,
+                "2019":46,
+                "2020":53,
+                "2021":6
+            }
+        ],
+        [
+            "We present and compare third- as well as fifth-order accurate finite difference schemes for the numerical solution of the compressible ideal MHD equations in multiple spatial dimensions. The selected methods lean on four different reconstruction techniques based on recently improved versions of the weighted essentially non-oscillatory (WENO) schemes, monotonicity preserving (MP) schemes as well as slope-limited polynomial reconstruction. The proposed numerical methods are highly accurate in smooth regions of the flow, avoid loss of accuracy in proximity of smooth extrema and provide sharp non-oscillatory transitions at discontinuities.We suggest a numerical formulation based on a cell-centered approach where all of the primary flow variables are discretized at the zone center. The divergence-free condition is enforced by augmenting the MHD equations with a generalized Lagrange multiplier yielding a \u2026",
+            "High-order conservative finite difference GLM\u2013MHD schemes for cell-centered MHD",
+            "Andrea Mignone and Petros Tzeferacos and Gianluigi Bodo",
+            "2010",
+            "X-Wc2HwAAAAJ:fPk4N6BV_jEC",
+            107,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0021999110001890",
+            "14231522915610676331",
+            "\/scholar?cites=14231522915610676331",
+            {
+                "2010":1,
+                "2011":7,
+                "2012":7,
+                "2013":6,
+                "2014":9,
+                "2015":5,
+                "2016":11,
+                "2017":10,
+                "2018":13,
+                "2019":17,
+                "2020":19,
+                "2021":1
+            }
+        ],
+        [
+            "We assess the validity of a single step Godunov scheme for the solution of the magnetohydrodynamics equations in more than one dimension. The scheme is second-order accurate and the temporal discretization is based on the dimensionally unsplit Corner Transport Upwind (CTU) method of Colella. The proposed scheme employs a cell-centered representation of the primary fluid variables (including magnetic field) and conserves mass, momentum, magnetic induction and energy. A variant of the scheme, which breaks momentum and energy conservation, is also considered. Divergence errors are transported out of the domain and damped using the mixed hyperbolic\/parabolic divergence cleaning technique by Dedner et al. (2002) [11]. The strength and accuracy of the scheme are verified by a direct comparison with the eight-wave formulation (also employing a cell-centered representation) and with the \u2026",
+            "A second-order unsplit Godunov scheme for cell-centered MHD: The CTU-GLM scheme",
+            "Andrea Mignone and Petros Tzeferacos",
+            "2010",
+            "X-Wc2HwAAAAJ:u_35RYKgDlwC",
+            88,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S002199910900655X",
+            "17931284961530289642",
+            "\/scholar?cites=17931284961530289642",
+            {
+                "2010":1,
+                "2011":8,
+                "2012":11,
+                "2013":6,
+                "2014":4,
+                "2015":6,
+                "2016":9,
+                "2017":5,
+                "2018":14,
+                "2019":11,
+                "2020":12,
+                "2021":1
+            }
+        ],
+        [
+            "X-ray 1, 2, 3 and radio 4, 5, 6 observations of the supernova remnant Cassiopeia A reveal the presence of magnetic fields about 100 times stronger than those in the surrounding interstellar medium. Field coincident with the outer shock probably arises through a nonlinear feedback process involving cosmic rays 2, 7, 8. The origin of the large magnetic field in the interior of the remnant is less clear but it is presumably stretched and amplified by turbulent motions. Turbulence may be generated by hydrodynamic instability at the contact discontinuity between the supernova ejecta and the circumstellar gas 9. However, optical observations of Cassiopeia A indicate that the ejecta are interacting with a highly inhomogeneous, dense circumstellar cloud bank formed before the supernova explosion 10, 11, 12. Here we investigate the possibility that turbulent amplification is induced when the outer shock overtakes dense \u2026",
+            "Turbulent amplification of magnetic fields in laboratory laser-produced shock waves",
+            "Jena Meinecke and HW Doyle and Francesco Miniati and Anthony R Bell and R Bingham and Robert Crowston and RP Drake and Milad Fatenejad and Michel Koenig and Yasuhiro Kuramitsu and CC Kuranz and Don Q Lamb and Dongwook Lee and MJ MacDonald and Christopher D Murphy and Hye-Sook Park and Alexander Pelka and Alessandra Ravasio and Youichi Sakawa and Alexander A Schekochihin and A Scopatz and Petros Tzeferacos and Willow C Wan and Nigel C Woolsey and Roman Yurchak and Brian Reville and Gianluca Gregori",
+            "2014",
+            "X-Wc2HwAAAAJ:geHnlv5EZngC",
+            80,
+            "https:\/\/www.nature.com\/articles\/nphys2978",
+            "2138877548410073510",
+            "\/scholar?cites=2138877548410073510",
+            {
+                "2014":3,
+                "2015":15,
+                "2016":12,
+                "2017":8,
+                "2018":10,
+                "2019":15,
+                "2020":16,
+                "2021":1
+            }
+        ],
+        [
+            "Magnetic fields are ubiquitous in the Universe. The energy density of these fields is typically comparable to the energy density of the fluid motions of the plasma in which they are embedded, making magnetic fields essential players in the dynamics of the luminous matter. The standard theoretical model for the origin of these strong magnetic fields is through the amplification of tiny seed fields via turbulent dynamo to the level consistent with current observations. However, experimental demonstration of the turbulent dynamo mechanism has remained elusive, since it requires plasma conditions that are extremely hard to re-create in terrestrial laboratories. Here we demonstrate, using laser-produced colliding plasma flows, that turbulence is indeed capable of rapidly amplifying seed fields to near equipartition with the turbulent fluid motions. These results support the notion that turbulent dynamo is a viable mechanism \u2026",
+            "Laboratory evidence of dynamo amplification of magnetic fields in a turbulent plasma",
+            "P Tzeferacos and A Rigby and AFA Bott and AR Bell and R Bingham and A Casner and F Cattaneo and EM Churazov and J Emig and F Fiuza and CB Forest and J Foster and C Graziani and J Katz and M Koenig and C-K Li and J Meinecke and R Petrasso and H-S Park and BA Remington and JS Ross and Dongsu Ryu and D Ryutov and TG White and B Reville and Francesco Miniati and AA Schekochihin and DQ Lamb and DH Froula and G Gregori",
+            "2018",
+            "X-Wc2HwAAAAJ:dTyEYWd-f8wC",
+            75,
+            "https:\/\/www.nature.com\/articles\/s41467-018-02953-2",
+            "6508035235471818350",
+            "\/scholar?cites=6508035235471818350",
+            {
+                "2017":3,
+                "2018":15,
+                "2019":21,
+                "2020":31,
+                "2021":2
+            }
+        ],
+        [
+            "Type Ia supernovae (SNe Ia) play a crucial role as standardizable cosmological candles, though the nature of their progenitors is a subject of active investigation. Recent observational and theoretical work has pointed to merging white dwarf binaries, referred to as the double-degenerate channel, as the possible progenitor systems for some SNe Ia. Additionally, recent theoretical work suggests that mergers which fail to detonate may produce magnetized, rapidly rotating white dwarfs. In this paper, we present the first multidimensional simulations of the post-merger evolution of white dwarf binaries to include the effect of the magnetic field. In these systems, the two white dwarfs complete a final merger on a dynamical timescale, and are tidally disrupted, producing a rapidly rotating white dwarf merger surrounded by a hot corona and a thick, differentially rotating disk. The disk is strongly susceptible to the \u2026",
+            "The post-merger magnetized evolution of white dwarf binaries: the double-degenerate channel of sub-Chandrasekhar Type Ia supernovae and the formation of magnetized white dwarfs",
+            "Suoqing Ji and Robert T Fisher and Enrique Garc\u00eda-Berro and Petros Tzeferacos and George Jordan and Dongwook Lee and Pablo Lor\u00e9n-Aguilar and Pascal Cremer and Jan Behrends",
+            "2013",
+            "X-Wc2HwAAAAJ:UxriW0iASnsC",
+            69,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0004-637X\/773\/2\/136\/meta",
+            "9334261927357073931",
+            "\/scholar?cites=9334261927357073931",
+            {
+                "2013":2,
+                "2014":9,
+                "2015":10,
+                "2016":13,
+                "2017":7,
+                "2018":8,
+                "2019":10,
+                "2020":8,
+                "2021":2
+            }
+        ],
+        [
+            "Magnetohydrodynamic models of collimated outflows produced by accretion discs around compact objects can be used for interpreting the phenomenology of active astrophysical objects as young stellar objects, microquasars, X-ray binaries, gamma-ray bursts, extended radio galaxies and active galactic nuclei. In the present work, we discuss how the strength of magnetic fields determines the characteristics of solutions in models where the collimated outflow and the accretion disc are treated consistently. We perform an extensive analysis of the magnetic field's strength by non-relativistic axisymmetric numerical simulations using the pluto code. We discuss in detail the characteristics of the numerical solutions with specific reference to the efficiency of transforming accretion inflows into collimated superfast magnetosonic outflows. The relevance of the resistivity parameter used in numerical simulations is \u2026",
+            "On the magnetization of jet-launching discs",
+            "P Tzeferacos and Attilio Ferrari and Andrea Mignone and C Zanni and G Bodo and Silvano Massaglia",
+            "2009",
+            "X-Wc2HwAAAAJ:_xSYboBqXhAC",
+            66,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/400\/2\/820\/1017654",
+            "14958128000918220120",
+            "\/scholar?cites=14958128000918220120",
+            {
+                "2009":1,
+                "2010":7,
+                "2011":3,
+                "2012":7,
+                "2013":6,
+                "2014":9,
+                "2015":3,
+                "2016":8,
+                "2017":5,
+                "2018":8,
+                "2019":4,
+                "2020":4
+            }
+        ]
+    ]
+}

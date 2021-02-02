@@ -1,0 +1,92 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "uuNYixcAAAAJ",
+            "Penny Gordon-Larsen",
+            "Carla Smith Chamblee Distinguished Professor & Associate Dean for Research",
+            "@unc.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=uuNYixcAAAAJ",
+            53397,
+            [
+                "Obesity & Cardiometabolic Consequences",
+                "Global Health",
+                "Genetic Epidemiology",
+                "Microbiome & Metabolomics",
+                "Lifecycle"
+            ],
+            27852,
+            73,
+            54,
+            184,
+            170,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"urXYmB4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Barry Popkin",
+                    "affiliation":"University of North Carolina"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"cLPH9eUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David Guilkey",
+                    "affiliation":"UNC CH"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Pw0lX_8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Amy Herring",
+                    "affiliation":"Sara & Charles Ayres Professor of Statistical Science and Global Health, Duke University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"YRbhTz8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Karen Mohlke",
+                    "affiliation":"Professor of Genetics, University of North Carolina"
+                }
+            ]
+        ]
+    ]
+}

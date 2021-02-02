@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "TWIQQ1K6",
+            "iF8im5cAAAAJ",
+            [
+                "Spintronics: Fundamentals and applications",
+                "Non-Abelian anyons and topological quantum computation",
+                "Electronic transport in two-dimensional graphene",
+                "Majorana fermions and a topological phase transition in semiconductor-superconductor heterostructures",
+                "Dielectric function, screening, and plasmons in two-dimensional graphene",
+                "Generic new platform for topological quantum computation using semiconductor heterostructures",
+                "Carrier transport in two-dimensional graphene layers",
+                "A self-consistent theory for graphene transport",
+                "Measurement of scattering rate and minimum conductivity in graphene",
+                "Nobel Lecture: Origin, development, and future of spintronics"
+            ],
+            [
+                "Spintronics, or spin electronics, involves the study of active control and manipulation of spin degrees of freedom in solid-state systems. This article reviews the current status of this subject, including both recent advances and well-established results. The primary focus is on the basic physical principles underlying the generation of carrier spin polarization, spin dynamics, and spin-polarized transport in semiconductors and metals. Spin transport differs from charge transport in that spin is a nonconserved quantity in solids due to spin-orbit and hyperfine coupling. The authors discuss in detail spin decoherence mechanisms in metals and semiconductors. Various theories of spin injection and spin-polarized transport are applied to hybrid structures relevant to spin-based devices and fundamental studies of materials properties. Experimental work is reviewed with the emphasis on projected applications, in which external \u2026",
+                "Topological quantum computation has emerged as one of the most exciting approaches to constructing a fault-tolerant quantum computer. The proposal relies on the existence of topological states of matter whose quasiparticle excitations are neither bosons nor fermions, but are particles known as non-Abelian anyons, meaning that they obey non-Abelian braiding statistics. Quantum information is stored in states with multiple quasiparticles, which have a topological degeneracy. The unitary gate operations that are necessary for quantum computation are carried out by braiding quasiparticles and then measuring the multiquasiparticle states. The fault tolerance of a topological quantum computer arises from the nonlocal encoding of the quasiparticle states, which makes them immune to errors caused by local perturbations. To date, the only such topological states thought to have been found in nature are fractional \u2026",
+                "A broad review of fundamental electronic properties of two-dimensional graphene with the emphasis on density and temperature-dependent carrier transport in doped or gated graphene structures is provided. A salient feature of this review is a critical comparison between carrier transport in graphene and in two-dimensional semiconductor systems (eg, heterostructures, quantum wells, inversion layers) so that the unique features of graphene electronic properties arising from its gapless, massless, chiral Dirac spectrum are highlighted. Experiment and theory, as well as quantum and semiclassical transport, are discussed in a synergistic manner in order to provide a unified and comprehensive perspective. Although the emphasis of the review is on those aspects of graphene transport where reasonable consensus exists in the literature, open questions are discussed as well. Various physical mechanisms controlling \u2026",
+                "We propose and analyze theoretically an experimental setup for detecting the elusive Majorana particle in semiconductor-superconductor heterostructures. The experimental system consists of one-dimensional semiconductor wire with strong spin-orbit Rashba interaction embedded into a superconducting quantum interference device. We show that the energy spectra of the Andreev bound states at the junction are qualitatively different in topologically trivial (ie, not containing any Majorana) and nontrivial phases having an even and odd number of crossings at zero energy, respectively. The measurement of the supercurrent through the junction allows one to discern topologically distinct phases and observe a topological phase transition by simply changing the in-plane magnetic field or the gate voltage. The observation of this phase transition will be a direct demonstration of the existence of Majorana particles.",
+                "The dynamical dielectric function of two-dimensional graphene at arbitrary wave vector q and frequency \u03c9, \u03f5 (q, \u03c9), is calculated in the self-consistent-field approximation. The results are used to find the dispersion of the plasmon mode and the electrostatic screening of the Coulomb interaction in two-dimensional (2D) graphene layer within the random-phase approximation. At long wavelengths (q\u2192 0), the plasmon dispersion shows the local classical behavior \u03c9 cl= \u03c9 0 q, but the density dependence of the plasma frequency (\u03c9 0\u221d n 1\u2215 4) is different from the usual 2D electron system (\u03c9 0\u221d n 1\u2215 2). The wave-vector-dependent plasmon dispersion and the static screening function show very different behavior than the usual 2D case. We show that the intrinsic interband contributions to static graphene screening can be effectively absorbed in a background dielectric constant.",
+                "We show that a film of a semiconductor in which s-wave superconductivity and Zeeman splitting are induced by the proximity effect, supports zero-energy Majorana fermion modes in the ordinary vortex excitations. Since time-reversal symmetry is explicitly broken, the edge of the film constitutes a chiral Majorana wire. The heterostructure we propose\u2014a semiconducting thin film sandwiched between an s-wave superconductor and a magnetic insulator\u2014is a generic system which can be used as the platform for topological quantum computation by virtue of the existence of non-Abelian Majorana fermions.",
+                "Carrier transport in gated 2D graphene monolayers is considered in the presence of scattering by random charged impurity centers with density n i. Excellent quantitative agreement is obtained (for carrier density n> 10 12 cm\u2212 2) with existing experimental data. The conductivity scales linearly with n\/n i in the theory. We explain the experimentally observed asymmetry between electron and hole conductivities, and the high-density saturation of conductivity for the highest mobility samples. We argue that the experimentally observed saturation of conductivity at low density arises from the charged impurity induced inhomogeneity in the graphene carrier density which becomes severe for n\u2272 n i\u223c 10 12 cm\u2212 2.",
+                "We demonstrate theoretically that most of the observed transport properties of graphene sheets at zero magnetic field can be explained by scattering from charged impurities. We find that, contrary to common perception, these properties are not universal but depend on the concentration of charged impurities nimp. For dirty samples (250 \u00d7 1010 cm\u22122 < nimp < 400 \u00d7 1010 cm\u22122), the value of the minimum conductivity at low carrier density is indeed 4e2\/h in agreement with early experiments, with weak dependence on impurity concentration. For cleaner samples, we predict that the minimum conductivity depends strongly on nimp, increasing to 8e2\/h for nimp \u2248 20 \u00d7 1010 cm\u22122. A clear strategy to improve graphene mobility is to eliminate charged impurities or use a substrate with a larger dielectric constant.",
+                "The conductivity of graphene samples with various levels of disorder is investigated for a set of specimens with mobility in the range of 1\u201320\u00d7 10 3 cm 2\/V sec. Comparing the experimental data with the theoretical transport calculations based on charged impurity scattering, we estimate that the impurity concentration in the samples varies from 2\u201315\u00d7 10 11 cm\u2212 2. In the low carrier density limit, the conductivity exhibits values in the range of 2\u201312 e 2\/h, which can be related to the residual density induced by the inhomogeneous charge distribution in the samples. The shape of the conductivity curves indicates that high mobility samples contain some short-range disorder whereas low mobility samples are dominated by long-range scatterers.",
+                "Electrons have a charge and a spin, but until recently, charges and spins have been considered separately. In conventional electronics, the charges are manipulated by electric fields but the spins are ignored. Other classical technologies, magnetic recording, for example, are using the spin but only through its macroscopic manifestation, the magnetization of a ferromagnet. This picture started to change in 1988 when the discovery (Baibich et al., 1988; Binash et al., 1989) of the giant magnetoresistance (GMR) of the magnetic multilayers opened the way to an efficient control of the motion of the electrons by acting on their spin through the orientation of a magnetization. This rapidly triggered the development of a new field of research and technology, today called spintronics and, like the GMR, exploiting the influence of the spin on the mobility of the electrons in ferromagnetic materials. Actually, the influence of the spin \u2026"
+            ],
+            [
+                [
+                    "Theoretical Physics",
+                    "Condensed Matter Physics",
+                    "Quantum Physics",
+                    "Statistical Mechanics",
+                    "Quantum Information"
+                ]
+            ]
+        ]
+    ]
+}

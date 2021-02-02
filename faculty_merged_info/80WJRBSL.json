@@ -1,0 +1,37 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "80WJRBSL",
+            "6ybYW3QAAAAJ",
+            [
+                "Fairness in wireless networks: Issues, measures and challenges",
+                "Wake-up receivers for wireless sensor networks: benefits and challenges",
+                "Surveillance wireless sensor networks: Deployment quality analysis"
+            ],
+            [
+                "The pervasiveness of wireless technology has indeed created massive opportunity to integrate almost everything into the Internet fabric. This can be seen with the advent of Internet of Things and Cyber Physical Systems, which involves cooperation of massive number of intelligent devices to provide intelligent services. Fairness amongst these devices is an important issue that can be analysed from several dimensions, eg, energy usage, achieving required quality of services, spectrum sharing, and so on. This article focusses on these viewpoints while looking at fairness research. To generalize, mainly wireless networks are considered. First, we present a general view of fairness studies, and pose three core questions that help us delineate the nuances in defining fairness. Then, the existing fairness models are summarized and compared. We also look into the major fairness research domains in wireless networks such as fair energy consumption control, power control, topology control, link and flow scheduling, channel assignment, rate allocation, congestion control and routing protocols. We make a distinction amongst fairness, utility and resource allocation to begin with. Later, we present their inter-relation. At the end of this article, we list the common properties of fairness and give an example of fairness management. Several open research challenges that point to further work on fairness in wireless networks are also discussed. Indeed, the research on fairness is entangled with many other aspects such as performance, utility, optimization and throughput at the network and node levels. While consolidating the contributions in the literature, this \u2026",
+                "For successful data delivery, the destination nodes should be listening to the medium to receive data when the sender node starts data communication. To achieve this synchronization, there are different rendezvous schemes, among which the most energy-efficient is utilizing wakeup receivers. Current hardware technologies of wake-up receivers enable us to evaluate them as a promising solution for wireless sensor networks. In this article the benefits achieved with wake-up receivers are investigated along with the challenges observed. In addition, an overview of state-of-the-art hardware and networking protocol proposals is presented. As wake-up receivers offer new opportunities, new potential application areas are also presented and discussed.",
+                "Surveillance wireless sensor networks are deployed at perimeter or border locations to detect unauthorized intrusions. For deterministic deployment of sensors, the quality of deployment can be determined sufficiently by analysis in advance of deployment. However, when random deployment is required, determining the deployment quality becomes challenging. To assess the quality of sensor deployment, appropriate measures can be employed that reveal the weaknesses in the coverage of SWSNs with respect to the success ratio and time for detecting intruders. In this article, probabilistic sensor models are adopted, and the quality of deployment issue is surveyed and analyzed in terms of novel measures. Furthermore, since the presence of obstacles in the surveillance terrain has a negative impact on previously proposed deployment strategies and analysis techniques, we argue in favor of utilizing image \u2026"
+            ],
+            [
+                [
+                    "Computer networks",
+                    "wireless networks",
+                    "ad hoc networks",
+                    "security",
+                    "5g"
+                ]
+            ]
+        ]
+    ]
+}

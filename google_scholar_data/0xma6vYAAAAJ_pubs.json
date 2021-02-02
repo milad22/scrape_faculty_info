@@ -1,0 +1,86 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3
+    ],
+    "data":[
+        [
+            "This Letter reports the results from a haloscope search for dark matter axions with masses between 2.66 and 2.81 \u03bc eV. The search excludes the range of axion-photon couplings predicted by plausible models of the invisible axion. This unprecedented sensitivity is achieved by operating a large-volume haloscope at subkelvin temperatures, thereby reducing thermal noise as well as the excess noise from the ultralow-noise superconducting quantum interference device amplifier used for the signal power readout. Ongoing searches will provide nearly definitive tests of the invisible axion model over a wide range of axion masses.",
+            "Search for invisible axion dark matter with the axion dark matter experiment",
+            "N Du and N Force and R Khatiwada and E Lentz and R Ottens and LJ Rosenberg and Gray Rybka and G Carosi and N Woollett and D Bowring and AS Chou and A Sonnenschein and W Wester and C Boutan and NS Oblath and R Bradley and EJ Daw and AV Dixit and J Clarke and SR O\u2019Kelley and N Crisosto and JR Gleason and S Jois and P Sikivie and I Stern and NS Sullivan and DB Tanner and GC Hilton and ADMX Collaboration",
+            "2018",
+            "0xma6vYAAAAJ:zYLM7Y9cAGgC",
+            280,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.120.151301",
+            "10603859319224339203",
+            "\/scholar?cites=10603859319224339203",
+            {
+                "2017":1,
+                "2018":35,
+                "2019":95,
+                "2020":140,
+                "2021":9
+            }
+        ],
+        [
+            "This Letter reports on a cavity haloscope search for dark matter axions in the Galactic halo in the mass range 2.81\u20133.31 \u03bc eV. This search utilizes the combination of a low-noise Josephson parametric amplifier and a large-cavity haloscope to achieve unprecedented sensitivity across this mass range. This search excludes the full range of axion-photon coupling values predicted in benchmark models of the invisible axion that solve the strong C P problem of quantum chromodynamics.",
+            "Extended search for the invisible axion with the axion dark matter experiment",
+            "T Braine and R Cervantes and N Crisosto and N Du and S Kimes and LJ Rosenberg and G Rybka and J Yang and D Bowring and AS Chou and R Khatiwada and A Sonnenschein and W Wester and G Carosi and N Woollett and LD Duffy and R Bradley and C Boutan and M Jones and BH LaRoque and NS Oblath and MS Taubman and J Clarke and A Dove and A Eddins and SR O\u2019Kelley and S Nawaz and I Siddiqi and N Stevenson and A Agrawal and AV Dixit and JR Gleason and S Jois and P Sikivie and JA Solomon and NS Sullivan and DB Tanner and E Lentz and EJ Daw and JH Buckley and PM Harrington and EA Henriksen and KW Murch and ADMX Collaboration",
+            "2020",
+            "0xma6vYAAAAJ:YsMSGLbcyi4C",
+            82,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.124.101303",
+            "17730054016419822442",
+            "\/scholar?cites=17730054016419822442",
+            {
+                "2019":1,
+                "2020":72,
+                "2021":8
+            }
+        ],
+        [
+            "The \u03bc eV axion is a well-motivated extension to the standard model. The Axion Dark Matter eXperiment (ADMX) collaboration seeks to discover this particle by looking for the resonant conversion of dark-matter axions to microwave photons in a strong magnetic field. In this Letter, we report results from a pathfinder experiment, the ADMX \u201cSidecar,\u201d which is designed to pave the way for future, higher mass, searches. This testbed experiment lives inside of and operates in tandem with the main ADMX experiment. The Sidecar experiment excludes masses in three widely spaced frequency ranges (4202\u20134249, 5086\u20135799, and 7173\u20137203 MHz). In addition, Sidecar demonstrates the successful use of a piezoelectric actuator for cavity tuning. Finally, this publication is the first to report data measured using both the TM 010 and TM 020 modes.",
+            "Piezoelectrically tuned multimode cavity search for axion dark matter",
+            "C Boutan and M Jones and Benjamin H LaRoque and NS Oblath and Raphael Cervantes and N Du and N Force and S Kimes and R Ottens and LJ Rosenberg and Gray Rybka and Jian Yang and G Carosi and N Woollett and D Bowring and AS Chou and R Khatiwada and Andrew Sonnenschein and W Wester and Rich Bradley and EJ Daw and A Agrawal and AV Dixit and J Clarke and SR O\u2019Kelley and N Crisosto and JR Gleason and S Jois and P Sikivie and I Stern and NS Sullivan and DB Tanner and PM Harrington and E Lentz and ADMX Collaboration",
+            "2018",
+            "0xma6vYAAAAJ:WF5omc3nYNoC",
+            30,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.121.261302",
+            "15754311194653604912",
+            "\/scholar?cites=15754311194653604912",
+            {
+                "2019":5,
+                "2020":25
+            }
+        ],
+        [
+            "Axion dark matter haloscopes aim to detect dark matter axions converting to single photons in resonant cavities bathed in a uniform magnetic field. A qubit (two level system) operating as a single microwave photon detector is a viable readout system for such detectors and may offer advantages over the quantum limited amplifiers currently used. When weakly coupled to the detection cavity, the qubit transition frequency is shifted by an amount proportional to the cavity photon number. Through spectroscopy of the qubit, the frequency shift is measured and the cavity occupation number is extracted. At low enough temperatures, this would allow sensitivities exceeding that of the standard quantum limit.",
+            "Detecting axion dark matter with superconducting qubits",
+            "Akash Dixit and Aaron Chou and David Schuster",
+            "2018",
+            "0xma6vYAAAAJ:IjCSPb-OGe4C",
+            6,
+            "https:\/\/link.springer.com\/chapter\/10.1007\/978-3-319-92726-8_11",
+            "10319718075215720103",
+            "\/scholar?cites=10319718075215720103",
+            {
+                "2019":2,
+                "2020":4
+            }
+        ]
+    ]
+}

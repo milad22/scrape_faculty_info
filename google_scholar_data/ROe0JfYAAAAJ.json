@@ -1,0 +1,104 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "ROe0JfYAAAAJ",
+            "Subhadip Mandal",
+            "Core Laboratories",
+            "@crimson.ua.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=ROe0JfYAAAAJ",
+            151,
+            [
+                "geology",
+                "tectonics",
+                "stratigraphy",
+                "petroleum geology",
+                "geochemistry"
+            ],
+            124,
+            5,
+            5,
+            4,
+            4,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9yKgqYUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Subodha Khanal",
+                    "affiliation":"The University of Alabama"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"oz5xPo4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Delores Robinson",
+                    "affiliation":"Geological Sciences, University of Alabama"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"xSyB1KQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Matt Kohn",
+                    "affiliation":"University Distinguished Professor, Boise State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Jer78hwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Oindrila Das",
+                    "affiliation":"University of Alabama"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"N5XruC0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ashraf Uddin",
+                    "affiliation":"Auburn University"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "d76UL5gAAAAJ",
+            "Chris William Sanchirico",
+            "Samuel A. Blank Professor of Law, Business, and Public Policy, University of Pennsylvania",
+            "@law.upenn.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=d76UL5gAAAAJ",
+            2623,
+            [
+                "Tax Policy",
+                "Law",
+                "Law and Economics",
+                "Evidence and Procedure"
+            ],
+            536,
+            25,
+            12,
+            38,
+            20,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6cBKm1EAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Paul Mahoney",
+                    "affiliation":"David and Mary Harrison Distinguished Professor of Law, University of Virginia School of Law"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"BI9LifAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kyle Bagwell",
+                    "affiliation":"Professor of Economics, Stanford University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"UdaJi94AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Susan Athey",
+                    "affiliation":"The Economics of Technology Professor, Stanford University Graduate School of Business"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"cin1-tYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alexander Pfaff",
+                    "affiliation":"Professor of Public Policy, Economics and Environment, Duke University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"7cBCgzsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Albert Choi",
+                    "affiliation":"Professor of Law, University of Michigan"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"cW1GQA4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Avery Katz",
+                    "affiliation":"Vice Dean and Milton Handler Professor of Law, Columbia University School of Law"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"NNGBtpsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Nuno Garoupa",
+                    "affiliation":"Professor of Law"
+                }
+            ]
+        ]
+    ]
+}

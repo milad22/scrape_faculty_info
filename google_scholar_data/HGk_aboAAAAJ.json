@@ -1,0 +1,128 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "HGk_aboAAAAJ",
+            "Jerry Franklin",
+            "Professor of Ecosystem Science, University of Washington",
+            "",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=HGk_aboAAAAJ",
+            57119,
+            [
+                "forest ecology",
+                "community ecology",
+                "disturbance ecology",
+                "landscape ecology",
+                "forest management & policy"
+            ],
+            15049,
+            105,
+            59,
+            303,
+            161,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Y1Rnt6YAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Andrew J. Larson",
+                    "affiliation":"University of Montana"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fv8umPcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jiquan Chen",
+                    "affiliation":"Professor, Geography & CGCEO, Michigan State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"h0CpDegAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Malcolm P. North",
+                    "affiliation":"U.S. Forest Service PSW Research Station and Dept Plant Sciences, U.C. Davis"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"4Ai6jb0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"William S. Keeton",
+                    "affiliation":"University of Vermont"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"hZXGSzgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Van R. Kane",
+                    "affiliation":"University of Washington"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6cDNH38AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mark E. Swanson",
+                    "affiliation":"Associate Professor, Washington State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"UYj2JsQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Charles B. Halpern",
+                    "affiliation":"Research Professor, Emeritus, University of Washington"
+                }
+            ]
+        ]
+    ]
+}

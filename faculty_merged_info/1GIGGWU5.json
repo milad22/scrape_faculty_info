@@ -1,0 +1,45 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "1GIGGWU5",
+            "WtWn6DMAAAAJ",
+            [
+                "Force field\u2010dependent solution properties of glycine oligomers",
+                "Multibody correlations in the hydrophobic solvation of glycine peptides",
+                "The role of visual analytics in asthma phenotyping and biomarker discovery",
+                "How cytokines co-occur across rickettsioses patients: from bipartite visual analytics to mechanistic inferences of a cytokine storm",
+                "Thermodynamics of conformational transitions in a disordered protein backbone model",
+                "Solvation thermodynamics of oligoglycine with respect to chain Length and flexibility",
+                "Nonpolar solvation free energy from proximal distribution functions"
+            ],
+            [
+                "Molecular simulations can be used to study disordered polypeptide systems and to generate hypotheses on the underlying structural and thermodynamic mechanisms that govern their function. As the number of disordered protein systems investigated with simulations increase, it is important to understand how particular force fields affect the structural properties of disordered polypeptides in solution. To this end, we performed a comparative structural analysis of Gly3 and Gly10 in aqueous solution from all atom, microsecond molecular dynamics (MD) simulations using the CHARMM 27 (C27), CHARMM 36 (C36), and Amber ff12SB force fields. For each force field, Gly3 and Gly10 were simulated for at least 300 ns and 1 \u03bcs, respectively. Simulating oligoglycines of two different lengths allows us to evaluate how force field effects depend on polypeptide length. Using a variety of structural metrics (e.g., end\u2010to\u2010end \u2026",
+                "Protein collapse during folding is often assumed to be driven by a hydrophobic solvation energy (\u0394Gvdw) that scales linearly with solvent-accessible surface area (A). In a previous study, we argued that \u0394Gvdw, as well as its attractive (\u0394Gatt) and repulsive (\u0394Grep) components, was not simply a linear function of A. We found that the surface tensions, \u03b3rep, \u03b3att, and \u03b3vdw, gotten from \u0394Grep, \u0394Gatt, and \u0394Gvdw against A for four configurations of deca-alanine differed from those obtained for a set of alkanes. In the present study, we extend our analysis to fifty decaglycine structures and atomic decompositions. We find that different configurations of decaglycine generate different estimates of \u03b3rep. Additionally, we considered the reconstruction of the solvation free energy from scaling the free energy of solvation of each atom type, free in solution. The free energy of the isolated atoms, scaled by the inverse surface area the \u2026",
+                "The exponential growth of biomedical data related to diseases such as asthma far exceeds our cognitive abilities to comprehend it for tasks such as biomarker discovery, pathway identification, and molecular-based phenotyping. This chapter discusses the cognitive and task-based reasons for why methods from visual analytics can help in analyzing such large and complex asthma data, and demonstrates how one such approach called network visualization and analysis can be used to reveal important translational insights related to asthma. The demonstration of the method helps to identify the strengths and limitations of network analysis, in addition to areas for future research that can enhance the use of networks to analyze vast and complex biomedical datasets related to diseases such as asthma.",
+                "Several intersecting host, vector, and environmental factors have led to a re-emergence of rickettsial diseases such as Mediterranean Spotted Fever (MSF), and Dermacentor spp.-borne necrosis-erythema lymphadenopathy (DEBONEL). Some rickettsiae produce diffuse endothelial infection and systemic microvascular leakage leading in some cases to high morbidity and mortality. Unfortunately, little is known about the molecular pathways triggered by these diseases in humans. We therefore analyzed how candidate cytokines co-occur across acutely-ill patients with either a localized (DEBONEL), or a systemic (MSF) form of rickettsiosis, using bipartite visual analytics. The results revealed a network core consisting of a small set of MSF patients exhibiting high expressions of cytokines implicated in microvascular leakage, endothelial repair, and pro-inflammatory immune responses, and a network periphery \u2026",
+                "Conformational entropy is expected to contribute significantly to the thermodynamics of structural transitions in intrinsically disordered proteins or regions in response to protein\/ligand binding, posttranslational modifications, and environmental changes. We calculated the backbone (dihedral) conformational entropy of oligoglycine (Gly N), a protein backbone mimic and model intrinsically disordered region, as a function of chain length (N= 3, 4, 5, 10, and 15) from simulations using three different approaches. The backbone conformational entropy scales linearly with chain length with a slope consistent with the entropy of folding of well-structured proteins. The entropic contributions of second-order dihedral correlations are predominantly through intraresidue \u03d5-\u03c8 pairs, suggesting that oligoglycine may be thermodynamically modeled as a system of independent glycine residues. We find the backbone conformational \u2026",
+                "Oligoglycine is a backbone mimic for all proteins and is prevalent in the sequences of intrinsically disordered proteins. We have computed the absolute chemical potential of glycine oligomers at infinite dilution by simulation with the CHARMM36 and Amber ff12SB force fields. We performed a thermodynamic decomposition of the solvation free energy (\u0394Gsol) of Gly2\u20135 into enthalpic (\u0394Hsol) and entropic (\u0394Ssol) components as well as their van der Waals and electrostatic contributions. Gly2\u20135 was either constrained to a rigid\/extended conformation or allowed to be completely flexible during simulations to assess the effects of flexibility on these thermodynamic quantities. For both rigid and flexible oligoglycine models, the decrease in \u0394Gsol with chain length is enthalpically driven with only weak entropic compensation. However, the apparent rates of decrease of \u0394Gsol, \u0394Hsol, \u0394Ssol, and their elec and vdw \u2026",
+                "Using precomputed near neighbor or proximal distribution functions (pDFs) that approximate solvent density about atoms in a chemically bonded context one can estimate the solvation structures around complex solutes and the corresponding solute\u2013solvent energetics. In this contribution, we extend this technique to calculate the solvation free energies (\u0394G) of a variety of solutes. In particular we use pDFs computed for small peptide molecules to estimate \u0394G for larger peptide systems. We separately compute the non polar (\u0394GvdW) and electrostatic (\u0394Gelec) components of the underlying potential model. Here we show how the former can be estimated by thermodynamic integration using pDF-reconstructed solute\u2013solvent interaction energy. The electrostatic component can be approximated with Linear Response theory as half of the electrostatic solute\u2013solvent interaction energy. We test the method by calculating \u2026"
+            ],
+            [
+                [
+                    "smart and connected health",
+                    "women's health",
+                    "machine learning",
+                    "HPC",
+                    "biophysics"
+                ]
+            ]
+        ]
+    ]
+}

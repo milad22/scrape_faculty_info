@@ -1,0 +1,239 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "We present a number of statistical tools that show promise for obtaining information on turbulence in molecular clouds (MCs) and diffuse interstellar medium (ISM). For our tests we make use of three-dimensional 512 3 compressible MHD isothermal simulations performed for different sonic, ie, , where V L is the injection velocity, V s is the sound velocity, and Alfv\u00e9nic , where V A is the Alfv\u00e9n velocity, Mach numbers. We introduce the bispectrum, a new tool for statistical studies of the interstellar medium which, unlike an ordinary power spectrum of turbulence, preserves the phase information of the stochastic field. We show that the bispectra of the three-dimensional stochastic density field and of column densities, available from observations, are similar. This opens good prospects for studies of MCs and diffuse media with the new tool. We use the bispectrum technique to define the role of nonlinear wave-wave \u2026",
+            "Density studies of MHD interstellar turbulence: statistical moments, correlations and bispectrum",
+            "Blakesley Burkhart and Diego Falceta-Gon\u00e7alves and Grzegorz Kowal and A Lazarian",
+            "2009",
+            "7Ls8RlgAAAAJ:u5HHmVD_uO8C",
+            191,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0004-637X\/693\/1\/250\/meta",
+            "722528146625520476",
+            "\/scholar?cites=722528146625520476",
+            {
+                "2009":6,
+                "2010":12,
+                "2011":16,
+                "2012":14,
+                "2013":16,
+                "2014":12,
+                "2015":9,
+                "2016":19,
+                "2017":20,
+                "2018":18,
+                "2019":23,
+                "2020":23,
+                "2021":3
+            }
+        ],
+        [
+            "The interstellar medium of the Milky Way is multiphase 1, magnetized 2 and turbulent 3. Turbulence in the interstellar medium produces a global cascade of random gas motions, spanning scales ranging from 100 parsecs to 1,000 kilometres (ref. 4). Fundamental parameters of interstellar turbulence such as the sonic Mach number (the speed of sound) have been difficult to determine, because observations have lacked the sensitivity and resolution to image the small-scale structure associated with turbulent motion 5, 6, 7. Observations of linear polarization and Faraday rotation in radio emission from the Milky Way have identified unusual polarized structures that often have no counterparts in the total radiation intensity or at other wavelengths 8, 9, 10, 11, 12, and whose physical significance has been unclear 13, 14, 15. Here we report that the gradient of the Stokes vector (Q, U), where Q and U are parameters \u2026",
+            "Low-Mach-number turbulence in interstellar gas revealed by radio polarization gradients",
+            "Bryan M Gaensler and Marijke Haverkorn and Blakesley Burkhart and Katherine J Newton\u2013McGee and Ronald D Ekers and Alexander Lazarian and Naomi M McClure\u2013Griffiths and Timothy Robishaw and John M Dickey and Anne J Green",
+            "2011",
+            "7Ls8RlgAAAAJ:u-x6o8ySG0sC",
+            150,
+            "https:\/\/www.nature.com\/articles\/nature10446",
+            "4854819417218716145",
+            "\/scholar?cites=4854819417218716145",
+            {
+                "2012":12,
+                "2013":23,
+                "2014":13,
+                "2015":19,
+                "2016":17,
+                "2017":12,
+                "2018":17,
+                "2019":19,
+                "2020":17,
+                "2021":1
+            }
+        ],
+        [
+            "We investigate the nature and spatial variations of turbulence in the Small Magellanic Cloud (SMC) by applying several statistical methods on the neutral hydrogen (H I) column density image of the SMC and a database of isothermal numerical simulations. By using the third and fourth statistical moments we derive the spatial distribution of the sonic Mach number  across the SMC. We find that about 90% of the H I in the SMC is subsonic or transonic. However, edges of the SMC\" bar\" have  and may be tracing shearing or turbulent flows. Using numerical simulations we also investigate how the slope of the spatial power spectrum depends on both sonic and Alfv\u00e9n Mach numbers. This allows us to gauge the Alfv\u00e9n Mach number of the SMC and conclude that its hydrodynamic pressure dominates over the magnetic pressure. The trans-Alfv\u00e9nic nature of the H I gas in the SMC is also highlighted by the \u2026",
+            "Characterizing magnetohydrodynamic turbulence in the small magellanic cloud",
+            "Blakesley Burkhart and Sne\u017eana Stanimirovi\u0107 and Alex Lazarian and Grzegorz Kowal",
+            "2009",
+            "7Ls8RlgAAAAJ:d1gkVwhDpl0C",
+            122,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0004-637X\/708\/2\/1204\/meta",
+            "4712465021618622438",
+            "\/scholar?cites=4712465021618622438",
+            {
+                "2010":8,
+                "2011":9,
+                "2012":15,
+                "2013":7,
+                "2014":10,
+                "2015":10,
+                "2016":13,
+                "2017":6,
+                "2018":12,
+                "2019":14,
+                "2020":18
+            }
+        ],
+        [
+            "Galaxies\u2019 interstellar media (ISM) are observed to be supersonically turbulent, but the ultimate power source that drives turbulent motion remains uncertain. The two dominant models are that the turbulence is driven by star formation feedback and\/or that it is produced by gravitational instability in the gas. Here we show that, while both models predict that the galaxies\u2019 ISM velocity dispersions will be positively correlated with their star formation rates, the forms of the correlation predicted by these two models are subtly but measurably different. A feedback-driven origin for the turbulence predicts a velocity dispersion that rises more sharply with star formation rate, and that does not depend on the gas fraction (i.e. $\\skew4\\dot{M}_{\\ast } \\propto \\sigma ^2$), while a gravity-driven model yields a shallower rise and a strong dependence on gas fraction (i.e. $\\skew4\\dot{M}_{\\ast } \\propto f_{\\rm g}^2 \\sigma$). We \u2026",
+            "Is turbulence in the interstellar medium driven by feedback or gravity? An observational test",
+            "Mark R Krumholz and Blakesley Burkhart",
+            "2016",
+            "7Ls8RlgAAAAJ:mVmsd5A6BfQC",
+            101,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/458\/2\/1671\/2589121",
+            "18442676583449912001",
+            "\/scholar?cites=18442676583449912001",
+            {
+                "2016":5,
+                "2017":14,
+                "2018":21,
+                "2019":24,
+                "2020":31,
+                "2021":5
+            }
+        ],
+        [
+            "We introduce a new model for the structure and evolution of the gas in galactic discs. In the model the gas is in vertical pressure and energy balance. Star formation feedback injects energy and momentum, and non-axisymmetric torques prevent the gas from becoming more than marginally gravitationally unstable. From these assumptions we derive the relationship between galaxies\u2019 bulk properties (gas surface density, stellar content, and rotation curve) and their star formation rates, gas velocity dispersions, and rates of radial inflow. We show that the turbulence in discs can be powered primarily by star formation feedback, radial transport, or a combination of the two. In contrast to models that omit either radial transport or star formation feedback, the predictions of this model yield excellent agreement with a wide range of observations, including the star formation law measured in both spatially resolved and \u2026",
+            "A unified model for galactic discs: star formation, turbulence driving, and mass transport",
+            "Mark R Krumholz and Blakesley Burkhart and John C Forbes and Roland M Crocker",
+            "2018",
+            "7Ls8RlgAAAAJ:2P1L_qKh6hAC",
+            89,
+            "https:\/\/academic.oup.com\/mnras\/article-abstract\/477\/2\/2716\/4962399",
+            "1505285958604801551",
+            "\/scholar?cites=1505285958604801551",
+            {
+                "2017":1,
+                "2018":8,
+                "2019":28,
+                "2020":45,
+                "2021":7
+            }
+        ],
+        [
+            "Although there is a wealth of column density tracers for both the molecular and diffuse interstellar medium, there are few observational studies investigating the relationship between the density variance (\u03c3 2) and the sonic Mach number (). This is in part due to the fact that the \u03c3 2- relationship is derived, via MHD simulations, for the three-dimensional (3D) density variance only, which is not a direct observable. We investigate the utility of a 2D column density - relationship using solenoidally driven isothermal MHD simulations and find that the best fit follows closely the form of the 3D density - trend but includes a scaling parameter A such that , where A= 0.11 and b= 1\/3. This relation is consistent with the observational data reported for the Taurus and IC 5146 molecular clouds with b= 0.5 and A= 0.16, and b= 0.5 and A= 0.12, respectively. These results open up the \u2026",
+            "The column density variance-relationship",
+            "Blakesley Burkhart and A Lazarian",
+            "2012",
+            "7Ls8RlgAAAAJ:9yKSN-GCB0IC",
+            86,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/2041-8205\/755\/1\/L19\/meta",
+            "2725051680356698534",
+            "\/scholar?cites=2725051680356698534",
+            {
+                "2012":3,
+                "2013":14,
+                "2014":10,
+                "2015":7,
+                "2016":14,
+                "2017":7,
+                "2018":12,
+                "2019":9,
+                "2020":9,
+                "2021":1
+            }
+        ],
+        [
+            "We present the science case, reference design, and project plan for the Stage-4 ground-based cosmic microwave background experiment CMB-S4.",
+            "CMB-S4 science case, reference design, and project plan",
+            "Kevork Abazajian and Graeme Addison and Peter Adshead and Zeeshan Ahmed and Steven W Allen and David Alonso and Marcelo Alvarez and Adam Anderson and Kam S Arnold and Carlo Baccigalupi and Kathy Bailey and Denis Barkats and Darcy Barron and Peter S Barry and James G Bartlett and Ritoban Basu Thakur and Nicholas Battaglia and Eric Baxter and Rachel Bean and Chris Bebek and Amy N Bender and Bradford A Benson and Edo Berger and Sanah Bhimani and Colin A Bischoff and Lindsey Bleem and Sebastian Bocquet and Kimberly Boddy and Matteo Bonato and J Richard Bond and Julian Borrill and Fran\u00e7ois R Bouchet and Michael L Brown and Sean Bryan and Blakesley Burkhart and Victor Buza and Karen Byrum and Erminia Calabrese and Victoria Calafut and Robert Caldwell and John E Carlstrom and Julien Carron and Thomas Cecil and Anthony Challinor and Clarence L Chang and Yuji Chinone and Hsiao-Mei Sherry Cho and Asantha Cooray and Thomas M Crawford and Abigail Crites and Ari Cukierman and Francis-Yan Cyr-Racine and Tijmen de Haan and Gianfranco de Zotti and Jacques Delabrouille and Marcel Demarteau and Mark Devlin and Eleonora Di Valentino and Matt Dobbs and Shannon Duff and Adriaan Duivenvoorden and Cora Dvorkin and William Edwards and Joseph Eimer and Josquin Errard and Thomas Essinger-Hileman and Giulio Fabbian and Chang Feng and Simone Ferraro and Jeffrey P Filippini and Raphael Flauger and Brenna Flaugher and Aurelien A Fraisse and Andrei Frolov and Nicholas Galitzki and Silvia Galli and Ken Ganga and Martina Gerbino and Murdock Gilchriese and Vera Gluscevic and Daniel Green and Daniel Grin and Evan Grohs and Riccardo Gualtieri and Victor Guarino and Jon E Gudmundsson and Salman Habib and Gunther Haller and Mark Halpern and Nils W Halverson and Shaul Hanany and Kathleen Harrington and Masaya Hasegawa and Matthew Hasselfield and Masashi Hazumi and Katrin Heitmann and Shawn Henderson and Jason W Henning and J Colin Hill and Ren\u00e9e Hlozek",
+            "2019",
+            "7Ls8RlgAAAAJ:NhqRSupF_l8C",
+            80,
+            "https:\/\/arxiv.org\/abs\/1907.04473",
+            "14190109232136714581",
+            "\/scholar?cites=14190109232136714581",
+            {
+                "2018":2,
+                "2019":6,
+                "2020":61,
+                "2021":11
+            }
+        ],
+        [
+            "Faraday rotation of linearly polarized radio signals provides a very sensitive probe of fluctuations in the interstellar magnetic field and ionized gas density resulting from magnetohydrodynamic (MHD) turbulence. We used a set of statistical tools to analyze images of the spatial gradient of linearly polarized radio emission (|\u2207 P|) for both observational data from a test image of the Southern Galactic Plane Survey (SGPS) and isothermal three-dimensional simulations of MHD turbulence. Visually, in both observations and simulations, a complex network of filamentary structures is seen. Our analysis shows that the filaments in|\u2207 P| can be produced both by interacting shocks and random fluctuations characterizing the non-differentiable field of MHD turbulence. The latter dominates for subsonic turbulence, while the former is only present in supersonic turbulence. We show that supersonic and subsonic turbulence exhibit \u2026",
+            "Properties of interstellar turbulence from gradients of linear polarization maps",
+            "Blakesley Burkhart and Alex Lazarian and Bryan M Gaensler",
+            "2012",
+            "7Ls8RlgAAAAJ:2osOgNQ5qMEC",
+            79,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0004-637X\/749\/2\/145\/meta",
+            "7574398755316919298",
+            "\/scholar?cites=7574398755316919298",
+            {
+                "2012":3,
+                "2013":11,
+                "2014":7,
+                "2015":12,
+                "2016":15,
+                "2017":4,
+                "2018":8,
+                "2019":11,
+                "2020":7,
+                "2021":1
+            }
+        ],
+        [
+            "We study the observable signatures of self-gravitating magnetohydrodynamics (MHD) turbulence by applying the probability density functions (PDFs) and the spatial density power spectrum to synthetic column density maps. We find that there exists three characterizable stages of the evolution of the collapsing cloud which we term\" early,\"\" intermediate,\" and\" advanced.\" At early times, ie, , the column density has a power spectral slope similar to nongravitating supersonic turbulence and a lognormal distribution. At an intermediate stage, ie, , there exist signatures of the first cores in the shallower PDF and power spectrum power-law slopes. The column density PDF power-law tails at these times have line of sight averaged slopes ranging from\u2212 2.5 to\u2212 1.5 with shallower values belonging to simulations with lower magnetic field strength. The density power spectrum slope becomes shallow and can be \u2026",
+            "Observational Diagnostics of Self-gravitating MHD Turbulence in Giant Molecular Clouds",
+            "Blakesley Burkhart and David C Collins and Alex Lazarian",
+            "2015",
+            "7Ls8RlgAAAAJ:Wp0gIr-vW9MC",
+            69,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0004-637X\/808\/1\/48\/meta",
+            "5296099643258939952",
+            "\/scholar?cites=5296099643258939952",
+            {
+                "2015":4,
+                "2016":11,
+                "2017":10,
+                "2018":20,
+                "2019":13,
+                "2020":9,
+                "2021":2
+            }
+        ],
+        [
+            "We report Atacama Large Millimeter\/submillimeter Array (ALMA) observations of polarized dust emission from the protostellar source Ser-emb 8 at a linear resolution of 140 au. Assuming models of dust-grain alignment hold, the observed polarization pattern gives a projected view of the magnetic field structure in this source. Contrary to expectations based on models of strongly magnetized star formation, the magnetic field in Ser-emb 8 does not exhibit an hourglass morphology. Combining the new ALMA data with previous observational studies, we can connect magnetic field structure from protostellar core (~ 80,000 au) to disk (~ 100 au) scales. We compare our observations with four magnetohydrodynamic gravo-turbulence simulations made with the AREPO code that have initial conditions ranging from super-Alfv\u00e9nic (weakly magnetized) to sub-Alfv\u00e9nic (strongly magnetized). These simulations achieve the \u2026",
+            "Unveiling the role of the magnetic field at the smallest scales of star formation",
+            "Charles LH Hull and Philip Mocz and Blakesley Burkhart and Alyssa A Goodman and Josep M Girart and Paulo C Cort\u00e9s and Lars Hernquist and Volker Springel and Zhi-Yun Li and Shih-Ping Lai",
+            "2017",
+            "7Ls8RlgAAAAJ:OU6Ihb5iCvQC",
+            64,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/2041-8213\/aa71b7\/meta",
+            "12268348034812113755",
+            "\/scholar?cites=12268348034812113755",
+            {
+                "2017":2,
+                "2018":23,
+                "2019":21,
+                "2020":16,
+                "2021":2
+            }
+        ]
+    ]
+}

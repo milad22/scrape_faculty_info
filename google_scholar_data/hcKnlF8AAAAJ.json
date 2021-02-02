@@ -1,0 +1,112 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "hcKnlF8AAAAJ",
+            "John S. Lyons, Ph.D.",
+            "Center for Innovations in Population Health, University of Kentucky",
+            "@uky.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=hcKnlF8AAAAJ",
+            13241,
+            [
+                "Outcomes Management"
+            ],
+            3230,
+            63,
+            31,
+            192,
+            86,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"iyf61t8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Peter de Jonge",
+                    "affiliation":"Professor of Developmental Psychology; University of Groningen"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fFN6l0UAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Wolfgang Lutz",
+                    "affiliation":"Professor, Clinical Psychology and Psychotherapy, University of Trier, Germany"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"7nmb-u4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Paul R Yarnold, Ph.D.",
+                    "affiliation":"CEO, Optimal Data Analysis"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"oTF0eiUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ka Ho Brian Chor",
+                    "affiliation":"Chapin Hall at the University of Chicago"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"DUtOOn0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Stephen M. Saunders",
+                    "affiliation":"Professor of Psychology, Marquette University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Ctzzdk0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Richard A Epstein, PhD, MPH",
+                    "affiliation":"Chapin Hall Center for Children at the University of Chicago"
+                }
+            ]
+        ]
+    ]
+}

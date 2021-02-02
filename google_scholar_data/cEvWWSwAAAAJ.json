@@ -1,0 +1,125 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "cEvWWSwAAAAJ",
+            "Jacob P. Covey",
+            "University of Illinois",
+            "@illinois.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=cEvWWSwAAAAJ",
+            2049,
+            [
+                "Quantum physics",
+                "AMO physics"
+            ],
+            1611,
+            15,
+            15,
+            19,
+            18,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"eifJXIEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jun Ye",
+                    "affiliation":"JILA, National Institute of Standards and Technology, and University of Colorado"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"AK35v68AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Bryce Gadway",
+                    "affiliation":"University of Illinois at Urbana-Champaign"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"NXLcO6gAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kaden Hazzard",
+                    "affiliation":"Rice University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"eEa7H34AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Johannes Schachenmayer",
+                    "affiliation":"CNRS, Institut de science et d'ing\u00e9nierie supramol\u00e9culaires (ISIS), Universit\u00e9 de Strasbourg"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"jjDlXWMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Norman Yao",
+                    "affiliation":"Assistant Professor, UC Berkeley"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"OqBLrGUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michael L. Wall",
+                    "affiliation":"Johns Hopkins University Applied Physics Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"gWGICGYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"SVETLANA KOTOCHIGOVA",
+                    "affiliation":"Temple University"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Z4DVO6UW",
+            "TflJLh4AAAAJ",
+            [
+                "Quantum cellular automata",
+                "Majority logic gate for magnetic quantum-dot cellular automata",
+                "Realization of a functional cell for quantum-dot cellular automata",
+                "Digital logic gate using quantum-dot cellular automata",
+                "Experimental demonstration of a binary wire for quantum-dot cellular automata",
+                "Sub-10 nm electron beam lithography using cold development of poly (methylmethacrylate)",
+                "Nanocomputing by field-coupled nanomagnets",
+                "Nanomagnet logic: progress toward system-level integration",
+                "Quantum-dot cellular automata: Review and recent experiments"
+            ],
+            [
+                "The authors formulate a new paradigm for computing with cellular automata (CAS) composed of arrays of quantum devices-quantum cellular automata. Computing in such a paradigm is edge driven. Input, output, and power are delivered at the edge of the CA array only; no direct flow of information or energy to internal cells is required. Computing in this paradigm is also computing with the ground state. The architecture is so designed that the ground-state configuration of the array, subject to boundary conditions determined by the input, yields the computational result. The authors propose a specific realization of these ideas using two-electron cells composed of quantum dots. The charge density in the cell is very highly polarized (aligned) along one of the two cell axes, suggestive of a two-state CA. The polarization of one cell induces a polarization in a neighboring cell through the Coulomb interaction in a very non \u2026",
+                "We describe the operation of, and demonstrate logic functionality in, networks of physically coupled, nanometer-scale magnets designed for digital computation in magnetic quantum-dot cellular automata (MQCA) systems. MQCA offer low power dissipation and high integration density of functional elements and operate at room temperature. The basic MQCA logic gate, that is, the three-input majority logic gate, is demonstrated.",
+                "This paper presents an experimental demonstration of a basic cell of the quantum-dot cellular automata, a transistorless approach to computation that addresses the issues of device density, interconnection, and power dissipation. The device under study was composed of four metal dots, connected with tunnel junctions and capacitors, and operated at <50 mK. Operation was evidenced by switching of a single electron between output dots controlled by a single electron switching in input dots, demonstrating a nonlinear, bistable response.",
+                "A functioning logic gate based on quantum-dot cellular automata is presented, where digital data are encoded in the positions of only two electrons. The logic gate consists of a cell, composed of four dots connected in a ring by tunnel junctions, and two single-dot electrometers. The device is operated by applying inputs to the gates of the cell. The logic AND and OR operations are verified using the electrometer outputs. Theoretical simulations of the logic gate output characteristics are in excellent agreement with experiment.",
+                "Experimental studies are presented of a binary wire based on the quantum-dot cellular automata computational paradigm. The binary wire consists of capacitively coupled double-dot cells charged with single electrons. The polarization switch caused by an applied input signal in one cell leads to the change in polarization of the adjacent cell and so on down the line, as in falling dominos. Wire polarization was measured using single islands as electrometers. Experimental results are in very good agreement with the theory and confirm there are no metastable states in the wire.",
+                "We investigate poly(methylmethacrylate) (PMMA) development processing with cold developers (4\u201310\u200a\u00b0C) for its effect on resolution, resist residue, and pattern quality of sub-10 nm electron beam lithography (EBL). We find that low-temperature development results in higher EBL resolution and improved feature quality. PMMA trenches of 4\u20138 nm are obtained reproducibly at 30 kV using cold development. Fabrication of single-particle-width Au nanoparticle lines was performed by lift-off. We discuss key factors for formation of PMMA trenches at the sub-10 nm scale.",
+                "Demonstrates through simulations the feasibility of using magnetically coupled nanometer-scale ferromagnetic dots for digital information processing. Microelectronic circuits provide the input and output of the magnetic nanostructure, but the signal is processed via magnetic dot-dot interactions. Logic functions can be defined by the proper placements of dots. We introduce a SPICE macromodel of interacting nanomagnets and use this tool to design and simulate the proposed nanomagnet logic units. This SPICE model allows us to simulate such magnetic information processing devices within the same framework as conventional electronic circuits.",
+                "Quoting the International Technology Roadmap for Semiconductors (ITRS) 2009 Emerging Research Devices section,'Nanomagnetic logic (NML) has potential advantages relative to CMOS of being non-volatile, dense, low-power, and radiation-hard. Such magnetic elements are compatible with MRAM technology, which can provide input\u2013output interfaces. Compatibility with MRAM also promises a natural integration of memory and logic. Nanomagnetic logic also appears to be scalable to the ultimate limit of using individual atomic spins.'This article reviews progress toward complete and reliable NML systems. More specifically, we (i) review experimental progress toward fundamental characteristics a device must possess if it is to be used in a digital system,(ii) consider how the NML design space may impact the system-level energy (especially when considering the clock needed to drive a computation),(iii \u2026",
+                "An introduction to the operation of quantum-dot cellular automata is presented, along with recent experimental results. Quantum-dot cellular automata (QCA) is a transistorless computation paradigm that addresses the issues of device density and interconnection. The basic building blocks of the QCA architecture, such as AND, OR, and NOT are presented. The experimental device is a four-dot QCA cell with two electrometers. The dots are metal islands, which are coupled by capacitors and tunnel junctions. An improved design of the cell is presented in which all four dots of the cell are coupled by tunnel junctions. The operation of this basic cell is confirmed by the externally controlled polarization change of the cell."
+            ],
+            [
+                [
+                    "Nanofabrication",
+                    "Microelectronics Packaging",
+                    "Nanomagnetics",
+                    "Electron Beam Lithography"
+                ]
+            ]
+        ]
+    ]
+}

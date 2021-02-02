@@ -1,0 +1,126 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "data":[
+        [
+            "Network embedding is an important method to learn low-dimensional representations of vertexes in networks, aiming to capture and preserve the network structure. Almost all the existing network embedding methods adopt shallow models. However, since the underlying network structure is complex, shallow models cannot capture the highly non-linear network structure, resulting in sub-optimal network representations. Therefore, how to find a method that is able to effectively capture the highly non-linear network structure and preserve the global and local structure is an open yet important problem. To solve this problem, in this paper we propose a Structural Deep Network Embedding method, namely SDNE. More specifically, we first propose a semi-supervised deep model, which has multiple layers of non-linear functions, thereby being able to capture the highly non-linear network structure. Then we propose to \u2026",
+            "Structural deep network embedding",
+            "Daixin Wang and Peng Cui and Wenwu Zhu",
+            "2016",
+            "ipYAetUAAAAJ:u5HHmVD_uO8C",
+            1439,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/2939672.2939753",
+            "8610745914304154694",
+            "\/scholar?cites=8610745914304154694",
+            {
+                "2016":10,
+                "2017":99,
+                "2018":279,
+                "2019":448,
+                "2020":555,
+                "2021":37
+            }
+        ],
+        [
+            "Hashing is an important method for performing efficient similarity search. With the explosive growth of multimodal data, how to learn hashing-based compact representations for multimodal data becomes highly non-trivial. Compared with shallowstructured models, deep models present superiority in capturing multimodal correlations due to their high nonlinearity. However, in order to make the learned representation more accurate and compact, how to reduce the redundant information lying in the multimodal representations and incorporate different complexities of different modalities in the deep models is still an open problem. In this paper, we propose a novel deep multimodal hashing method, namely Deep Multimodal Hashing with Orthogonal Regularization (DMHOR), which fully exploits intra-modality and inter-modality correlations. In particular, to reduce redundant information, we impose orthogonal regularizer on the weighting matrices of the model, and theoretically prove that the learned representation is guaranteed to be approximately orthogonal. Moreover, we find that a better representation can be attained with different numbers of layers for different modalities, due to their different complexities. Comprehensive experiments on WIKI and NUS-WIDE, demonstrate a substantial gain of DMHOR compared with state-of-the-art methods.",
+            "Deep multimodal hashing with orthogonal regularization",
+            "Daixin Wang and Peng Cui and Mingdong Ou and Wenwu Zhu",
+            "2015",
+            "ipYAetUAAAAJ:u-x6o8ySG0sC",
+            76,
+            "https:\/\/www.ijcai.org\/Proceedings\/15\/Papers\/324.pdf",
+            "12450598724346334417",
+            "\/scholar?cites=12450598724346334417",
+            {
+                "2015":2,
+                "2016":10,
+                "2017":13,
+                "2018":17,
+                "2019":20,
+                "2020":13
+            }
+        ],
+        [
+            "Network embedding, aiming to embed a network into a low dimensional vector space while preserving the inherent structural properties of the network, has attracted considerable attentions recently. Most of the existing embedding methods embed nodes as point vectors in a low-dimensional continuous space. In this way, the formation of the edge is deterministic and only determined by the positions of the nodes. However, the formation and evolution of real-world networks are full of uncertainties, which makes these methods not optimal. To address the problem, we propose a novel Deep Variational Network Embedding in Wasserstein Space (DVNE) in this paper. The proposed method learns a Gaussian distribution in the Wasserstein space as the latent representation of each node, which can simultaneously preserve the network structure and model the uncertainty of nodes. Specifically, we use 2-Wasserstein \u2026",
+            "Deep variational network embedding in wasserstein space",
+            "Dingyuan Zhu and Peng Cui and Daixin Wang and Wenwu Zhu",
+            "2018",
+            "ipYAetUAAAAJ:Tyk-4Ss8FVUC",
+            67,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/3219819.3220052",
+            "11643048096076328033",
+            "\/scholar?cites=11643048096076328033",
+            {
+                "2018":3,
+                "2019":18,
+                "2020":44
+            }
+        ],
+        [
+            "As large-scale multimodal data are ubiquitous in many real-world applications, learning multimodal representations for efficient retrieval is a fundamental problem. Most existing methods adopt shallow structures to perform multimodal representation learning. Due to a limitation of learning ability of shallow structures, they fail to capture the correlation of multiple modalities. Recently, multimodal deep learning was proposed and had proven its superiority in representing multimodal data due to its high nonlinearity. However, in order to learn compact and accurate representations, how to reduce the redundant information lying in the multimodal representations and incorporate different complexities of different modalities in the deep models is still an open problem. In order to address the aforementioned problem, in this paper we propose a hashing-based orthogonal deep model to learn accurate and compact \u2026",
+            "Learning compact hash codes for multimodal representations using orthogonal deep structure",
+            "Daixin Wang and Peng Cui and Mingdong Ou and Wenwu Zhu",
+            "2015",
+            "ipYAetUAAAAJ:qjMakFHDy7sC",
+            62,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7154455\/",
+            "5739781831120193652",
+            "\/scholar?cites=5739781831120193652",
+            {
+                "2016":4,
+                "2017":16,
+                "2018":9,
+                "2019":18,
+                "2020":12,
+                "2021":2
+            }
+        ],
+        [
+            "With the rapid growth of financial services, fraud detection has been a very important problem to guarantee a healthy environment for both users and providers. Conventional solutions for fraud detection mainly use some rule-based methods or distract some features manually to perform prediction. However, in financial services, users have rich interactions and they themselves always show multifaceted information. These data form a large multiview network, which is not fully exploited by conventional methods. Additionally, among the network, only very few of the users are labelled, which also poses a great challenge for only utilizing labeled data to achieve a satisfied performance on fraud detection.To address the problem, we expand the labeled data through their social relations to get the unlabeled data and propose a semi-supervised attentive graph neural network, namedSemiGNN to utilize the multi-view labeled and unlabeled data for fraud detection. Moreover, we propose a hierarchical attention mechanism to better correlate different neighbors and different views. Simultaneously, the attention mechanism can make the model interpretable and tell what are the important factors for the fraud and why the users are predicted as fraud. Experimentally, we conduct the prediction task on the users of Alipay, one of the largest third-party online and offline cashless payment platform serving more than 4 hundreds of million users in China. By utilizing the social relations and the user attributes, our method can achieve a better accuracy compared with the state-of-the-art methods on two tasks. Moreover, the interpretable results also give interesting \u2026",
+            "A semi-supervised graph attentive network for financial fraud detection",
+            "Daixin Wang and Jianbin Lin and Peng Cui and Quanhui Jia and Zhen Wang and Yanming Fang and Quan Yu and Jun Zhou and Shuang Yang and Yuan Qi",
+            "2020",
+            "ipYAetUAAAAJ:YsMSGLbcyi4C",
+            14,
+            "https:\/\/arxiv.org\/abs\/2003.01171",
+            "8417299286480770759",
+            "\/scholar?cites=8417299286480770759",
+            {
+                "2020":14
+            }
+        ],
+        [
+            "Recently, domain adaptation based on deep models has been a promising way to deal with the domains with scarce labeled data, which is a critical problem for deep learning models. Domain adaptation propagates the knowledge from a source domain with rich information to the target domain. In reality, the source and target domains are mostly unbalanced in that the source domain is more resource-rich and thus has more reliable knowledge than the target domain. However, existing deep domain adaptation approaches often pre-assume the source and target domains balanced and equally, leading to a medium solution between the source and target domains, which is not optimal for the unbalanced domain adaptation. In this paper, we propose a novel Deep Asymmetric Transfer Network (DATN) to address the problem of unbalanced domain adaptation. Specifically, our model will learn a transfer function from the target domain to the source domain and meanwhile adapting the source domain classifier with more discriminative power to the target domain. By doing this, the deep model is able to adaptively put more emphasis on the resource-rich source domain. To alleviate the scarcity problem of supervised data, we further propose an unsupervised transfer method to propagate the knowledge from a lot of unsupervised data by minimizing the distribution discrepancy over the unlabeled data of two domains. The experiments on two real-world datasets demonstrate that DATN attains a substantial gain over state-of-the-art methods.",
+            "Deep asymmetric transfer network for unbalanced domain adaptation",
+            "Daixin Wang and Peng Cui and Wenwu Zhu",
+            "2018",
+            "ipYAetUAAAAJ:IjCSPb-OGe4C",
+            10,
+            "https:\/\/ojs.aaai.org\/index.php\/AAAI\/article\/view\/11267",
+            "255798832630731081",
+            "\/scholar?cites=255798832630731081",
+            {
+                "2019":7,
+                "2020":3
+            }
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "In view of long period and small coverage characteristics for sea water index monitoring, an on-line detection system using wireless sensor networks to monitor sea water index real-time is proposed. The methods and algorithms of the precise detection are studied, and the energy-saving routing protocol of the wireless sensor networks is discussed. Such technologes as the intelligent information processing technology of wireless sensor network, the remote GPRS wireless data communication technology, the management query technology for monitoring points based on the internet display platform are adopted in this system synthetically. Some sensors with same or different function are integrated to establish the intelligent sensor network which can improve the system capability of monitoring and automation. The simulation result shows that the proposed system has the good capability of sea water index detection.",
+            "A sea water monitor system based on wirless sensor network",
+            "Ji WANG and Guo-bao XU and Yu-li SHEN",
+            "2008",
+            "MnZj0WAAAAAJ:u5HHmVD_uO8C",
+            9,
+            "https:\/\/en.cnki.com.cn\/Article_en\/CJFDTotal-DATE200809007.htm",
+            "979745285117842229",
+            "\/scholar?cites=979745285117842229",
+            {
+                "2008":2,
+                "2009":1,
+                "2010":1,
+                "2011":1,
+                "2012":1,
+                "2013":1
+            }
+        ],
+        [
+            "Taking into account the relatively poor versatility and effectiveness of the general robot visual navigation filtering algorithm, and taking advantage of the existing the median filter and multi-scale adaptive fusion filter, an optimized filter based on the median and combination of multi-scale was proposed. Firstly, the algorithm used the median filter, and then used the multi-scale filter. Finally the filtered results were fused according to smallest Mean Absolute Error (MAE) criterion. The experimental results show that the proposed algorithm can better filter out a variety of common noise for the robot road images, which enhances the versatility and effectiveness of the algorithm.",
+            "Combinatorial optimization filter based on median filter and multi-scale filter",
+            "Guo-Bao Xu and Yi-Xin Yin and Mei-Juan Zhou and Shi-Yi Xie",
+            "2012",
+            "MnZj0WAAAAAJ:d1gkVwhDpl0C",
+            1,
+            "https:\/\/en.cnki.com.cn\/Article_en\/CJFDTotal-JSJY201206019.htm",
+            "13937362812175322541",
+            "\/scholar?cites=13937362812175322541",
+            {
+                "2015":1
+            }
+        ]
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "5YGAMQXL",
+            "RnzsQOEAAAAJ",
+            [
+                "Stability of analog neural networks with delay",
+                "Conductance fluctuations and chaotic scattering in ballistic microstructures",
+                "Single-electron charging in double and triple quantum dots with tunable coupling",
+                "Electron transport in quantum dots",
+                "Coherent branched flow in a two-dimensional electron gas",
+                "Dielectrophoretic manipulation of drops for high-speed microfluidic sorting devices",
+                "Imaging coherent electron flow from a quantum point contact",
+                "Combined microfluidic-micromagnetic separation of living cells in continuous flow",
+                "Guiding neutral atoms on a chip",
+                "Microelectromagnets for the control of magnetic nanoparticles"
+            ],
+            [
+                "Continuous-time analog neural networks with symmetric connections will always converge to fixed points when the neurons have infinitely fast response, but can oscillate when a small time delay is present. Sustained oscillation resulting from time delay is relevant to hardware implementations of neural networks where delay due to the finite switching speed of amplifiers can be appreciable compared to the network relaxation time. We analyze the dynamics of continuous-time analog networks with delay, and show that there is a critical delay above which a symmetrically connected network will oscillate. Two different stability analyses are presented for low and high neuron gain. The results are useful as design criteria for building fast but stable electronic networks. We find that for some connection topologies, a delay much smaller than the relaxation time can lead to oscillation, whereas for other topologies, including \u2026",
+                "We report detailed measurements of the low-temperature magnetoconductance in ballistic microstructures in the shape of a \u2018\u2018chaotic\u2019\u2019stadium and a circle with quantum-point-contact leads. Both structures show large, aperiodic, conductance fluctuations as a function of perpendicular magnetic field, and a zero-field resistance peak indicating geometry-dependent enhanced backscattering. Power spectra of fluctuations are consistent with recent semiclassical analyses based on quantum chaotic scattering, with the circle showing enhanced high-frequency spectral content.",
+                "We report low-temperature tunneling measurements at zero magnetic field through double and triple quantum dots with adjustable interdot coupling, fabricated in a GaAs\/AlGaAs heterostructure. As the coupling is increased, Coulomb blockade conductance peaks split into two (double dot) or three (triple dot) peaks each. The splitting tracks closely the measured tunnel conductance and experimentally determines the total interaction energy. Coupled double and triple dots with different gate capacitance show quasiperiodic beating.",
+                "The ongoing miniaturization of solid state devices often leads to the question: \u201cHow small can we make resistors, transistors, etc., without changing the way they work?\u201d The question can be asked a different way, however: \u201cHow small do we have to make devices in order to get fundamentally new properties?\u201d By \u201cnew properties\u201d we particularly mean those that arise from quantum mechanics or the quantization of charge in units of eeffects that are only important in small systems such as atoms. \u201cWhat kind of small electronic devices do we have in mind?\u201d Any sort of clustering of atoms that can be connected to source and drain contacts and whose properties can be regulated with a gate electrode. Practically, the clustering of atoms may be a molecule, a small grain of metallic atoms, or an electronic device that is made with modern chip fabrication techniques. It turns out that such seemingly different structures \u2026",
+                "Semiconductor nanostructures based on two-dimensional electron gases (2DEGs) could form the basis of future devices for sensing, information processing and quantum computation. Although electron transport in 2DEG nanostructures has been well studied, and many remarkable phenomena have already been discovered (for example, weak localization, quantum chaos, universal conductance fluctuations 1, 2), fundamental aspects of the electron flow through these structures have so far not been clarified. However, it has recently become possible to image current directly through 2DEG devices using scanning probe microscope techniques 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13. Here, we use such a technique to observe electron flow through a narrow constriction in a 2DEG\u2014a quantum point contact. The images show that the electron flow from the point contact forms narrow, branching strands instead of smoothly \u2026",
+                "We demonstrate a high-throughput drop sorter for microfluidic devices that uses dielectrophoretic forces. Microelectrodes underneath a polydimethylsiloxane channel produce forces of more than 10nN on a water drop in an inert oil, resulting in sorting rates greater than 1.6kHz. We investigate the dependence of such forces on drop size and flow. Alternate designs with electrodes on either side of a symmetric channel Y junction provide refined control over droplet selection.",
+                "Scanning a charged tip above the two-dimensional electron gas inside a gallium arsenide\/aluminum gallium arsenide nanostructure allows the coherent electron flow from the lowest quantized modes of a quantum point contact at liquid helium temperatures to be imaged. As the width of the quantum point contact is increased, its electrical conductance increases in quantized steps of 2e2\/h, where e is the electron charge and h is Planck9s constant. The angular dependence of the electron flow on each step agrees with theory, and fringes separated by half the electron wavelength are observed. Placing the tip so that it interrupts the flow from particular modes of the quantum point contact causes a reduction in the conductance of those particular conduction channels below 2e2\/h without affecting other channels.",
+                "This paper describes a miniaturized, integrated, microfluidic device that can pull molecules and living cells bound to magnetic particles from one laminar flow path to another by applying a local magnetic field gradient, and thus selectively remove them from flowing biological fluids without any wash steps. To accomplish this, a microfabricated high-gradient magnetic field concentrator (HGMC) was integrated at one side of a microfluidic channel with two inlets and outlets. When magnetic micro- or nano-particles were introduced into one flow path, they remained limited to that flow stream. In contrast, when the HGMC was magnetized, the magnetic beads were efficiently pulled from the initial flow path into the collection stream, thereby cleansing the original fluid. Using this microdevice, living E. coli bacteria bound to magnetic nanoparticles were efficiently removed from flowing solutions containing densities of \u2026",
+                "We demonstrate the guiding of neutral atoms by the magnetic fields due to microfabricated current-carrying wires on a chip. Atoms are guided along a magnetic field minimum parallel to and above the current-carrying wires. Two guide configurations are demonstrated: one using two wires with an external magnetic field, and a second using four wires without an external field. These guide geometries can be extended to integrated atom optics circuits, including beam splitters.",
+                "A microelectromagnet matrix and a ring trap that position and control magnetic nanoparticles are demonstrated. They consist of multiple layers of lithographically defined Au wires separated by transparent, insulating polyimide layers on sapphire substrates. Magnetic field patterns produced by these devices allow microscopically precise control and manipulation of magnetic nanoparticles. A microelectromagnet matrix produces single or multiple peaks in the magnetic field magnitude, which trap, move, and rotate magnetic nanoparticles, as well as electromagnetic fields to probe and detect particles. Microelectromagnets are new tools with which to study and manipulate nanoparticles and biological entities."
+            ],
+            [
+                [
+                    "quantum materials and devices",
+                    "scanning probe microscopy"
+                ]
+            ]
+        ]
+    ]
+}

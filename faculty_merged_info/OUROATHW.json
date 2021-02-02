@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "OUROATHW",
+            "Wq6JQhwAAAAJ",
+            [
+                "Quantum information with Rydberg atoms",
+                "Spin-exchange optical pumping of noble-gas nuclei",
+                "Observation of Rydberg blockade between two atoms",
+                "Demonstration of a neutral atom controlled-NOT quantum gate",
+                "Collective behavior of optically trapped neutral atoms",
+                "Behavior of neutral atoms in a spontaneous force trap",
+                "Collisional losses from a light-force atom trap",
+                "Analysis of a quantum logic device based on dipole-dipole interactions of optically trapped Rydberg atoms",
+                "Consequences of Zeeman degeneracy for the van der Waals blockade between Rydberg atoms",
+                "Creating single-atom and single-photon sources from entangled atomic ensembles"
+            ],
+            [
+                "Rydberg atoms with principal quantum number n\u2aa2 1 have exaggerated atomic properties including dipole-dipole interactions that scale as n 4 and radiative lifetimes that scale as n 3. It was proposed a decade ago to take advantage of these properties to implement quantum gates between neutral atom qubits. The availability of a strong long-range interaction that can be coherently turned on and off is an enabling resource for a wide range of quantum information tasks stretching far beyond the original gate proposal. Rydberg enabled capabilities include long-range two-qubit gates, collective encoding of multiqubit registers, implementation of robust light-atom quantum interfaces, and the potential for simulating quantum many-body physics. The advances of the last decade are reviewed, covering both theoretical and experimental aspects of Rydberg-mediated quantum information processing.",
+                "Spin-exchange optical pumping of mixtures of alkali-metal vapors and noble gases can be used to efficiently polarize the nuclei of the noble-gas atoms. Liters of noble gases at standard temperature and pressure and with nuclear spin polarizations of several tens of percent are now used in many applications. The authors describe the basic phenomena that govern the spin-exchange process and review the physics of angular momentum transfer and loss in optical pumping and spin-exchange collisions.",
+                "Blockade interactions whereby a single particle prevents the flow or excitation of other particles provide a mechanism for control of quantum states, including entanglement of two or more particles. Blockade has been observed for electrons 1, 2, 3, photons 4 and cold atoms 5. Furthermore, dipolar interactions between highly excited atoms have been proposed as a mechanism for \u2018Rydberg blockade\u20196, 7, which might provide a novel approach to a number of quantum protocols 8, 9, 10, 11. Dipolar interactions between Rydberg atoms were observed several decades ago 12 and have been studied recently in a many-body regime using cold atoms 13, 14, 15, 16, 17, 18. However, to harness Rydberg blockade for controlled quantum dynamics, it is necessary to achieve strong interactions between single pairs of atoms. Here, we demonstrate that a single Rydberg-excited rubidium atom blocks excitation of a second \u2026",
+                "We present the first demonstration of a CNOT gate between two individually addressed neutral atoms. Our implementation of the CNOT uses Rydberg blockade interactions between neutral atoms held in optical traps separated by> 8 \u03bc m. Using two different gate protocols we measure CNOT fidelities of F= 0.73 and 0.72 based on truth table probabilities. The gate was used to generate Bell states with fidelity F= 0.48\u00b10.06. After correcting for atom loss we obtain an a posteriori entanglement fidelity of F= 0.58.",
+                "We describe experiments that show collective behavior in clouds of optically trapped neutral atoms. This collective behavior is demonstrated in a variety of observed spatial distributions with abrupt bistable transitions between them. These distributions include stable rings of atoms around a small core and clumps of atoms rotating about the core. The size of the cloud grows rapidly as more atoms are loaded into it, implying a strong long-range repulsive force between the atoms. We show that a force arising from radiation trapping can explain much of this behavior.",
+                "A classical collective behavior is observed in the spatial distributions of a cloud of optically trapped neutral atoms. They include extended uniform-density ellipsoids, rings of atoms around a small central ball, and clumps of atoms orbiting a central core. The distributions depend sensitively on the number of atoms and the alignment of the laser beams. Abrupt bistable transitions between different distributions are seen. This system is studied in detail, and much of this behavior can be explained by the incorporation of long-range interactions between the atoms in the equation of equilibrium. It is shown how attenuation and multiple scattering of the incident photons lead to these interactions.",
+                "We have studied the collisional loss rates for very cold cesium atoms held in a spontaneous-force optical trap. In contrast with previous work, we find that collisions involving excitation by the trapping light fields are the dominant loss mechanism. We also find that hyperfine changing collisions between atoms in the ground state can be significant under some circumstances.",
+                "We present a detailed analysis and design of a neutral atom quantum logic device based on atoms in optical traps interacting via dipole-dipole coupling of Rydberg states. The dominant physical mechanisms leading to decoherence and loss of fidelity are enumerated. Our results support the feasibility of performing single-and two-qubit gates at MHz rates with decoherence probability and fidelity errors at the level of 10\u2212 3 for each operation. Current limitations and possible approaches to further improvement of the device are discussed.",
+                "We analyze the effects of Zeeman degeneracies on the long-range interactions between like Rydberg atoms, with particular emphasis on applications to quantum-information processing using the van der Waals blockade. We present a general analysis of how degeneracies affect the primary error sources in blockade experiments, emphasizing that blockade errors are sensitive primarily to the weakest possible atom-atom interactions between the degenerate states, not the mean interaction strength. We present explicit calculations of the van der Waals potentials in the limit where the fine-structure interaction is large compared to the atom-atom interactions. The results are presented for all potential angular momentum channels involving s, p, and d states. For most channels there are one or more combinations of Zeeman levels that have extremely small dipole-dipole interactions and are therefore poor candidates for \u2026",
+                "We discuss the application of dipole blockade techniques for the preparation of single-atom and single-photon sources. A deterministic protocol is given for loading a single atom in an optical trap, as well as ejecting a controlled number of atoms in a desired direction. A single-photon source with an optically controlled beamlike emission pattern is described."
+            ],
+            [
+                [
+                    "Atomic Physics",
+                    "Molecular Physics",
+                    "Optical Physics",
+                    "Magnetometry",
+                    "Laser Cooling"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "SZIF5AP1",
+            "_TjWHEsAAAAJ",
+            [
+                "Microstructural optimization of a zeolite membrane for organic vapor separation",
+                "Insights into the interplay of Lewis and Br\u00f8nsted acid catalysts in glucose and fructose conversion to 5-(hydroxymethyl) furfural and levulinic acid in aqueous media",
+                "Combustion characteristics and flame stability at the microscale: a CFD study of premixed methane\/air mixtures",
+                "An overview of spatial microscopic and accelerated kinetic Monte Carlo methods",
+                "Top ten fundamental challenges of biomass pyrolysis for biofuels"
+            ],
+            [
+                "A seeded growth method for the fabrication of high-permeance, high-separation-factor zeolite (siliceous ZSM-5, [Si96O192]-MFI) membranes is reported. The method consists of growing the crystals of an oriented seed layer to a well-intergrown film by avoiding events that lead to a loss of preferred orientation, such as twin overgrowths and random nucleation. Organic polycations are used as zeolite crystal shape modifiers to enhance relative growth rates along the desirable out-of-plane direction. The polycrystalline films are thin (\u223c1 micrometer) with single grains extending along the film thickness and with large in-plane grain size (\u223c1 micrometer). The preferred orientation is such that straight channels with an open diameter of \u223c5.5 angstroms run down the membrane thickness. Comparison with previously reported membranes shows that these microstructurally optimized films have superior performance for the \u2026",
+                "5-(Hydroxymethyl)furfural (HMF) and levulinic acid production from glucose in a cascade of reactions using a Lewis acid (CrCl3) catalyst together with a Br\u00f8nsted acid (HCl) catalyst in aqueous media is investigated. It is shown that CrCl3 is an active Lewis acid catalyst in glucose isomerization to fructose, and the combined Lewis and Br\u00f8nsted acid catalysts perform the isomerization and dehydration\/rehydration reactions. A CrCl3 speciation model in conjunction with kinetics results indicates that the hydrolyzed Cr(III) complex [Cr(H2O)5OH]2+ is the most active Cr species in glucose isomerization and probably acts as a Lewis acid\u2013Br\u00f8nsted base bifunctional site. Extended X-ray absorption fine structure spectroscopy and Car\u2013Parrinello molecular dynamics simulations indicate a strong interaction between the Cr cation and the glucose molecule whereby some water molecules are displaced from the first \u2026",
+                "A two-dimensional elliptic, computational fluid dynamics (CFD) model of a microburner is solved to study the effects of microburner dimensions, conductivity and thickness of wall materials, external heat losses, and operating conditions on combustion characteristics and flame stability. We have found that the wall conductivity and thickness are very important as they determine the upstream heat transfer, which is necessary for flame ignition and stability, and the material's integrity by controlling the existence of hot spots. Two modes of flame extinction occur: a spatially global type for large wall thermal conductivities and\/or low flow velocities and blowout. It is shown that there exists a narrow range of flow velocities that permit sustained combustion within a microburner. Large transverse and axial gradients are observed even at these small scales under certain conditions. Periodic oscillations are observed near \u2026",
+                "The microscopic spatial kinetic Monte Carlo (KMC) method has been employed extensively in materials modeling. In this review paper, we focus on different traditional and multiscale KMC algorithms, challenges associated with their implementation, and methods developed to overcome these challenges. In the first part of the paper, we compare the implementation and computational cost of the null-event and rejection-free microscopic KMC algorithms. A firmer and more general foundation of the null-event KMC algorithm is presented. Statistical equivalence between the null-event and rejection-free KMC algorithms is also demonstrated. Implementation and efficiency of various search and update algorithms, which are at the heart of all spatial KMC simulations, are outlined and compared via numerical examples. In the second half of the paper, we review various spatial and temporal multiscale KMC \u2026",
+                "Pyrolytic biofuels have technical advantages over conventional biological conversion processes since the entire plant can be used as the feedstock (rather than only simple sugars) and the conversion process occurs in only a few seconds (rather than hours or days). Despite decades of study, the fundamental science of biomass pyrolysis is still lacking and detailed models capable of describing the chemistry and transport in real-world reactors is unavailable. Developing these descriptions is a challenge because of the complexity of feedstocks and the multiphase nature of the conversion process. Here, we identify ten fundamental research challenges that, if overcome, would facilitate commercialization of pyrolytic biofuels. In particular, developing fundamental descriptions for condensed-phase pyrolysis chemistry (i.e., elementary reaction mechanisms) are needed since they would allow for accurate process \u2026"
+            ],
+            [
+                [
+                    "Multiscale Modeling",
+                    "Data Science",
+                    "Catalysis",
+                    "Biomass",
+                    "Materials"
+                ]
+            ]
+        ]
+    ]
+}

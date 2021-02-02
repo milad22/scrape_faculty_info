@@ -1,0 +1,64 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "bZNOxmkAAAAJ",
+            "E R Priest",
+            "Applied Mathematics Professor, St Andrews University",
+            "@st-andrews.ac.uk",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=bZNOxmkAAAAJ",
+            28376,
+            [
+                "solar physics"
+            ],
+            5280,
+            76,
+            35,
+            313,
+            97,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"_pCITHsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Viacheslav Titov",
+                    "affiliation":"Senior Scientist, Predictive Science Inc."
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"4P8KDaoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David Pontin",
+                    "affiliation":"University of Newcastle, Australia"
+                }
+            ]
+        ]
+    ]
+}

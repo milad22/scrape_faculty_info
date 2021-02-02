@@ -1,0 +1,41 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "A 1.0 mm 3  general-purpose sensor node platform with heterogeneous multi-layer structure is proposed. The sensor platform benefits from modularity by allowing the addition\/removal of IC layers. A new low power I 2 C interface is introduced for energy efficient inter-layer communication with compatibility to commercial I 2 C protocols. A self-adapting power management unit is proposed for efficient battery voltage down conversion for wide range of battery voltages and load current. The power management unit also adapts itself by monitoring energy harvesting conditions and harvesting sources and is capable of harvesting from solar, thermal and microbial fuel cells. An optical wakeup receiver is proposed for sensor node programming and synchronization with 228 pW standby power. The system also includes two processors, timer, temperature sensor, and low-power imager. Standby power of the system is 11 nW.",
+            "A Modular 1 mm Die-Stacked Sensing Platform With Low Power IC Inter-Die Communication and Multi-Modal Energy Harvesting",
+            "Yoonmyung Lee and Suyoung Bang and Inhee Lee and Yejoong Kim and Gyouho Kim and Mohammad Hassan Ghaed and Pat Pannuto and Prabal Dutta and Dennis Sylvester and David Blaauw",
+            "2012",
+            "IzKBRnEAAAAJ:W7OEmFMy1HYC",
+            181,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6380562\/",
+            "16553706418846889496",
+            "\/scholar?cites=16553706418846889496",
+            {
+                "2013":4,
+                "2014":21,
+                "2015":25,
+                "2016":33,
+                "2017":38,
+                "2018":18,
+                "2019":21,
+                "2020":18,
+                "2021":2
+            }
+        ]
+    ]
+}

@@ -1,0 +1,214 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Condensed-matter systems have recently become a fertile ground for the discovery of fermionic particles and phenomena predicted in high-energy physics; examples include Majorana fermions, as well as Dirac and Weyl semimetals. However, fermions in condensed-matter systems are not constrained by Poincare symmetry. Instead, they must only respect the crystal symmetry of one of the 230 space groups. Hence, there is the potential to find and classify free fermionic excitations in solid-state systems that have no high-energy counterparts.The guiding principle of our classification is to find irreducible representations of the little group of lattice symmetries at high-symmetry points in the Brillouin zone (BZ) for each of the 230 space groups (SGs), the dimension of which corresponds to the number of bands that meet at the high-symmetry point. Because we are interested in systems with \u2026",
+            "Beyond Dirac and Weyl fermions: Unconventional quasiparticles in conventional crystals",
+            "Barry Bradlyn and Jennifer Cano and Zhijun Wang and MG Vergniory and C Felser and Robert Joseph Cava and B Andrei Bernevig",
+            "2016",
+            "kGjhhG8AAAAJ:0EnyYjriUFMC",
+            639,
+            "https:\/\/science.sciencemag.org\/content\/353\/6299\/aaf5037.abstract",
+            "16915965262986760025",
+            "\/scholar?cites=16915965262986760025",
+            {
+                "2016":25,
+                "2017":115,
+                "2018":141,
+                "2019":143,
+                "2020":197,
+                "2021":13
+            }
+        ],
+        [
+            "Since the discovery of topological insulators and semimetals, there has been much research into predicting and experimentally discovering distinct classes of these materials, in which the topology of electronic states leads to robust surface states and electromagnetic responses. This apparent success, however, masks a fundamental shortcoming: topological insulators represent only a few hundred of the 200,000 stoichiometric compounds in material databases. However, it is unclear whether this low number is indicative of the esoteric nature of topological insulators or of a fundamental problem with the current approaches to finding them. Here we propose a complete electronic band theory, which builds on the conventional band theory of electrons, highlighting the link between the topology and local chemical bonding. This theory of topological quantum chemistry provides a description of the universal (across \u2026",
+            "Topological quantum chemistry",
+            "Barry Bradlyn and L Elcoro and Jennifer Cano and MG Vergniory and Zhijun Wang and C Felser and MI Aroyo and B Andrei Bernevig",
+            "2017",
+            "kGjhhG8AAAAJ:8k81kl-MbHgC",
+            536,
+            "https:\/\/www.nature.com\/articles\/nature23268",
+            "17234394855176482500",
+            "\/scholar?cites=17234394855176482500",
+            {
+                "2017":28,
+                "2018":102,
+                "2019":156,
+                "2020":224,
+                "2021":22
+            }
+        ],
+        [
+            "Motivated by recent work on Hall viscosity, we derive from first principles the Kubo formulas for the stress-stress response function at zero wave vector that can be used to define the full complex frequency-dependent viscosity tensor, both with and without a uniform magnetic field. The formulas in the existing literature are frequently incomplete, incorrect, or lack a derivation; in particular, Hall viscosity is overlooked. Our approach begins from the response to a uniform external strain field, which is an active time-dependent coordinate transformation in d space dimensions. These transformations form the group GL (d, R) of invertible matrices, and the infinitesimal generators are called strain generators. These enable us to express the Kubo formula in different ways, related by Ward identities; some of these make contact with the adiabatic transport approach. The importance of retaining contact terms, analogous to the \u2026",
+            "Kubo formulas for viscosity: Hall viscosity, Ward identities, and the relation with conductivity",
+            "Barry Bradlyn and Moshe Goldstein and N Read",
+            "2012",
+            "kGjhhG8AAAAJ:Y0pCki6q_DkC",
+            190,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.86.245309",
+            "11316171172246272609",
+            "\/scholar?cites=11316171172246272609",
+            {
+                "2012":1,
+                "2013":11,
+                "2014":29,
+                "2015":28,
+                "2016":28,
+                "2017":15,
+                "2018":25,
+                "2019":18,
+                "2020":35
+            }
+        ],
+        [
+            "A new section of databases and programs devoted to double crystallographic groups (point and space groups) has been implemented in the Bilbao Crystallographic Server (http:\/\/www.cryst.ehu.es). The double crystallographic groups are required in the study of physical systems whose Hamiltonian includes spin-dependent terms. In the symmetry analysis of such systems, instead of the irreducible representations of the space groups, it is necessary to consider the single- and double-valued irreducible representations of the double space groups. The new section includes databases of symmetry operations (DGENPOS) and of irreducible representations of the double (point and space) groups (REPRESENTATIONS DPG and REPRESENTATIONS DSG). The tool DCOMPREL provides compatibility relations between the irreducible representations of double space groups at different k vectors of the Brillouin zone \u2026",
+            "Double crystallographic groups and their representations on the Bilbao Crystallographic Server",
+            "Luis Elcoro and Barry Bradlyn and Zhijun Wang and Maia G Vergniory and Jennifer Cano and Claudia Felser and B Andrei Bernevig and Danel Orobengoa and G Flor and Mois I Aroyo",
+            "2017",
+            "kGjhhG8AAAAJ:4TOpqqG69KYC",
+            107,
+            "https:\/\/scripts.iucr.org\/cgi-bin\/paper?ks5574",
+            "15915445088071851848",
+            "\/scholar?cites=15915445088071851848",
+            {
+                "2017":3,
+                "2018":24,
+                "2019":32,
+                "2020":45,
+                "2021":3
+            }
+        ],
+        [
+            "Markovian reservoir engineering, in which time evolution of a quantum system is governed by a Lindblad master equation, is a powerful technique in studies of quantum phases of matter and quantum information. It can be used to drive a quantum system to a desired (unique) steady state, which can be an exotic phase of matter difficult to stabilize in nature. It can also be used to drive a system to a unitarily evolving subspace, which can be used to store, protect, and process quantum information. In this paper, we derive a formula for the map corresponding to asymptotic (infinite-time) Lindbladian evolution and use it to study several important features of the unique state and subspace cases. We quantify how subspaces retain information about initial states and show how to use Lindbladians to simulate any quantum channels. We show that the quantum information in all subspaces can be successfully manipulated by \u2026",
+            "Geometry and response of Lindbladians",
+            "Victor V Albert and Barry Bradlyn and Martin Fraas and Liang Jiang",
+            "2016",
+            "kGjhhG8AAAAJ:ufrVoPGSRksC",
+            102,
+            "https:\/\/journals.aps.org\/prx\/abstract\/10.1103\/PhysRevX.6.041031",
+            "1216761947690133466",
+            "\/scholar?cites=1216761947690133466",
+            {
+                "2016":4,
+                "2017":19,
+                "2018":24,
+                "2019":24,
+                "2020":26,
+                "2021":1
+            }
+        ],
+        [
+            "The link between chemical orbitals described by local degrees of freedom and band theory, which is defined in momentum space, was proposed by Zak several decades ago for spinless systems with and without time reversal in his theory of \u201celementary\u201d band representations. In a recent paper [Bradlyn et al., Nature (London) 547, 298 (2017)] we introduced the generalization of this theory to the experimentally relevant situation of spin-orbit coupled systems with time-reversal symmetry and proved that all bands that do not transform as band representations are topological. Here we give the full details of this construction. We prove that elementary band representations are either connected as bands in the Brillouin zone and are described by localized Wannier orbitals respecting the symmetries of the lattice (including time reversal when applicable), or, if disconnected, describe topological insulators. We then show \u2026",
+            "Building blocks of topological quantum chemistry: Elementary band representations",
+            "Jennifer Cano and Barry Bradlyn and Zhijun Wang and L Elcoro and MG Vergniory and C Felser and MI Aroyo and B Andrei Bernevig",
+            "2018",
+            "kGjhhG8AAAAJ:Wp0gIr-vW9MC",
+            101,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.97.035139",
+            "5030446310674912631",
+            "\/scholar?cites=5030446310674912631",
+            {
+                "2017":2,
+                "2018":15,
+                "2019":34,
+                "2020":47,
+                "2021":3
+            }
+        ],
+        [
+            "Over the past few years, a number of new\" fringe\" communities, like 4chan or certain subreddits, have gained traction on the Web at a rapid pace. However, more often than not, little is known about how they evolve or what kind of activities they attract, despite recent research has shown that they influence how false information reaches mainstream communities. This motivates the need to monitor these communities and analyze their impact on the Web's information ecosystem. In August 2016, a new social network called Gab was created as an alternative to Twitter. It positions itself as putting\" people and free speech first\", welcoming users banned or suspended from other social networks. In this paper, we provide, to the best of our knowledge, the first characterization of Gab. We collect and analyze 22M posts produced by 336K users between August 2016 and January 2018, finding that Gab is predominantly used \u2026",
+            "What is gab: A bastion of free speech or an alt-right echo chamber",
+            "Savvas Zannettou and Barry Bradlyn and Emiliano De Cristofaro and Haewoon Kwak and Michael Sirivianos and Gianluca Stringini and Jeremy Blackburn",
+            "2018",
+            "kGjhhG8AAAAJ:BqipwSGYUEgC",
+            99,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/3184558.3191531",
+            "6824040863997767384",
+            "\/scholar?cites=6824040863997767384",
+            {
+                "2017":1,
+                "2018":10,
+                "2019":32,
+                "2020":50,
+                "2021":6
+            }
+        ],
+        [
+            "We construct a low-energy effective action for a two-dimensional nonrelativistic topological (ie, gapped) phase of matter in a continuum, which completely describes all of its bulk electrical, thermal, and stress-related properties in the limit of low frequencies, long distances, and zero temperature, without assuming either Lorentz or Galilean invariance. This is done by generalizing Luttinger's approach to thermoelectric phenomena, via the introduction of a background vielbein (ie, gravitational) field and spin connection a la Cartan, in addition to the electromagnetic vector potential, in the action for the microscopic degrees of freedom (the matter fields). Crucially, the geometry of spacetime is allowed to have timelike and spacelike torsion. These background fields make all natural invariances\u2014under U (1) gauge transformations, translations in both space and time, and spatial rotations\u2014appear locally, and \u2026",
+            "Low-energy effective theory in the bulk for transport in a topological phase",
+            "Barry Bradlyn and N Read",
+            "2015",
+            "kGjhhG8AAAAJ:YsMSGLbcyi4C",
+            99,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.91.125303",
+            "7039944802272724038",
+            "\/scholar?cites=7039944802272724038",
+            {
+                "2014":4,
+                "2015":18,
+                "2016":19,
+                "2017":18,
+                "2018":9,
+                "2019":11,
+                "2020":19,
+                "2021":1
+            }
+        ],
+        [
+            "Topological semimetals in crystals with a chiral structure (which possess a handedness due to a lack of mirror and inversion symmetries) are expected to display numerous exotic physical phenomena, including fermionic excitations with large topological charge 1, long Fermi arc surface states 2, 3, unusual magnetotransport 4 and lattice dynamics 5, as well as a quantized response to circularly polarized light 6. So far, all experimentally confirmed topological semimetals exist in crystals that contain mirror operations, meaning that these properties do not appear. Here, we show that AlPt is a structurally chiral topological semimetal that hosts new four-fold and six-fold fermions, which can be viewed as a higher spin generalization of Weyl fermions without equivalence in elementary particle physics. These multifold fermions are located at high symmetry points and have Chern numbers larger than those in Weyl \u2026",
+            "Chiral topological semimetal with multifold band crossings and long Fermi arcs",
+            "Niels BM Schr\u00f6ter and Ding Pei and Maia G Vergniory and Yan Sun and Kaustuv Manna and Fernando De Juan and Jonas A Krieger and Vicky S\u00fcss and Marcus Schmidt and Pavel Dudin and Barry Bradlyn and Timur K Kim and Thorsten Schmitt and Cephise Cacho and Claudia Felser and Vladimir N Strocov and Yulin Chen",
+            "2019",
+            "kGjhhG8AAAAJ:P5F9QuxV20EC",
+            82,
+            "https:\/\/www.nature.com\/articles\/s41567-019-0511-y",
+            "11601071339842679598",
+            "\/scholar?cites=11601071339842679598",
+            {
+                "2019":16,
+                "2020":60,
+                "2021":6
+            }
+        ],
+        [
+            "Materials whose gapless surface states are protected by crystal symmetries include mirror topological crystalline insulators and nonsymmorphic hourglass insulators. There exists only a very limited set of possible surface crystal symmetries, captured by the 17 \u201cwallpaper groups.\u201d Here we show that a consideration of symmetry-allowed band degeneracies in the wallpaper groups can be used to understand previously described topological crystalline insulators and to predict phenomenologically distinct examples. In particular, the two wallpaper groups with multiple glide lines, pgg and p4g, allow for a topological insulating phase whose surface spectrum consists of only a single, fourfold-degenerate, true Dirac fermion, representing an exception to a symmetry-enhanced fermion-doubling theorem. We theoretically predict the presence of this phase in Sr2Pb3 in space group 127 (P4\/mbm).",
+            "Wallpaper fermions and the nonsymmorphic Dirac insulator",
+            "Benjamin J Wieder and Barry Bradlyn and Zhijun Wang and Jennifer Cano and Youngkuk Kim and Hyeong-Seok D Kim and Andrew M Rappe and CL Kane and B Andrei Bernevig",
+            "2018",
+            "kGjhhG8AAAAJ:NMxIlDl6LWMC",
+            78,
+            "https:\/\/science.sciencemag.org\/content\/361\/6399\/246.abstract",
+            "12420934656634908685",
+            "\/scholar?cites=12420934656634908685",
+            {
+                "2018":12,
+                "2019":32,
+                "2020":32,
+                "2021":2
+            }
+        ]
+    ]
+}

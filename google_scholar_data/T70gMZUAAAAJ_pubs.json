@@ -1,0 +1,149 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4
+    ],
+    "data":[
+        [
+            "The use of high-throughput density functional theory (DFT) calculations to screen for new materials and conduct fundamental research presents an exciting opportunity for materials science and materials innovation. High-throughput DFT typically involves computations on hundreds, thousands, or tens of thousands of compounds, and such a change of scale requires new calculation and data management methodologies. In this article, we describe aspects of the necessary data infrastructure for such projects to handle data generation and data analysis in a scalable way. We discuss the problem of accurately computing properties of compounds across diverse chemical spaces with a single exchange correlation functional, and demonstrate that errors in the generalized gradient approximation are highly dependent on chemical environment.",
+            "A high-throughput infrastructure for density functional theory calculations",
+            "Anubhav Jain and Geoffroy Hautier and Charles J Moore and Shyue Ping Ong and Christopher C Fischer and Tim Mueller and Kristin A Persson and Gerbrand Ceder",
+            "2011",
+            "T70gMZUAAAAJ:u-x6o8ySG0sC",
+            650,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0927025611001133",
+            "9071217946286299275",
+            "\/scholar?cites=9071217946286299275",
+            {
+                "2011":11,
+                "2012":28,
+                "2013":56,
+                "2014":54,
+                "2015":63,
+                "2016":81,
+                "2017":66,
+                "2018":86,
+                "2019":97,
+                "2020":86,
+                "2021":16
+            }
+        ],
+        [
+            "Standard approximations to the density functional theory exchange-correlation functional have been extraordinary successful, but calculating formation enthalpies of reactions involving compounds with both localized and delocalized electronic states remains challenging. In this work we examine the shortcomings of the generalized gradient approximation (GGA) and GGA+ U in accurately characterizing such difficult reactions. We then outline a methodology that mixes GGA and GGA+ U total energies (using known binary formation data for calibration) to more accurately predict formation enthalpies. We demonstrate that for a test set of 49 ternary oxides, our methodology can reduce the mean absolute relative error in calculated formation enthalpies from approximately 7.7\u201321% in GGA+ U to under 2%. As another example we show that neither GGA nor GGA+ U alone accurately reproduces the Fe-PO phase \u2026",
+            "Formation enthalpies by mixing GGA and GGA+ U calculations",
+            "Anubhav Jain and Geoffroy Hautier and Shyue Ping Ong and Charles J Moore and Christopher C Fischer and Kristin A Persson and Gerbrand Ceder",
+            "2011",
+            "T70gMZUAAAAJ:9yKSN-GCB0IC",
+            618,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.84.045115",
+            "9538013373014860828",
+            "\/scholar?cites=9538013373014860828",
+            {
+                "2011":3,
+                "2012":12,
+                "2013":29,
+                "2014":26,
+                "2015":50,
+                "2016":62,
+                "2017":83,
+                "2018":92,
+                "2019":113,
+                "2020":127,
+                "2021":19
+            }
+        ],
+        [
+            "Finding new compounds and their crystal structures is an essential step to new materials discoveries. We demonstrate how this search can be accelerated using a combination of machine learning techniques and high-throughput ab initio computations. Using a probabilistic model built on an experimental crystal structure database, novel compositions that are most likely to form a compound, and their most-probable crystal structures, are identified and tested for stability by ab initio computations. We performed such a large-scale search for new ternary oxides, discovering 209 new compounds with a limited computational budget. A list of these predicted compounds is provided, and we discuss the chemistries in which high discovery rates can be expected.",
+            "Finding nature\u2019s missing ternary oxide compounds using machine learning and density functional theory",
+            "Geoffroy Hautier and Christopher C Fischer and Anubhav Jain and Tim Mueller and Gerbrand Ceder",
+            "2010",
+            "T70gMZUAAAAJ:d1gkVwhDpl0C",
+            437,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/cm100795d",
+            "3929283289312616935",
+            "\/scholar?cites=3929283289312616935",
+            {
+                "2010":2,
+                "2011":13,
+                "2012":19,
+                "2013":24,
+                "2014":24,
+                "2015":21,
+                "2016":53,
+                "2017":61,
+                "2018":65,
+                "2019":67,
+                "2020":84,
+                "2021":3
+            }
+        ],
+        [
+            "Modern methods of quantum mechanics have proved to be effective tools to understand and even predict materials properties. An essential element of the materials design process, relevant to both new materials and the optimization of existing ones, is knowing which crystal structures will form in an alloy system. Crystal structure can only be predicted effectively with quantum mechanics if an algorithm to direct the search through the large space of possible structures is found. We present a new approach to the prediction of structure that rigorously mines correlations embodied within experimental data and uses them to direct quantum mechanical techniques efficiently towards the stable crystal structure of materials.",
+            "Predicting crystal structure by merging data mining with quantum mechanics",
+            "Christopher C Fischer and Kevin J Tibbetts and Dane Morgan and Gerbrand Ceder",
+            "2006",
+            "T70gMZUAAAAJ:u5HHmVD_uO8C",
+            403,
+            "https:\/\/www.nature.com\/articles\/nmat1691",
+            "5750536474667771345",
+            "\/scholar?cites=5750536474667771345",
+            {
+                "2006":3,
+                "2007":5,
+                "2008":16,
+                "2009":16,
+                "2010":25,
+                "2011":16,
+                "2012":22,
+                "2013":22,
+                "2014":37,
+                "2015":25,
+                "2016":48,
+                "2017":48,
+                "2018":32,
+                "2019":36,
+                "2020":47,
+                "2021":4
+            }
+        ],
+        [
+            "The existence of new compounds is often postulated by solid state chemists by replacing an ion in the crystal structure of a known compound by a chemically similar ion. In this work, we present how this new compound discovery process through ionic substitutions can be formulated in a mathematical framework. We propose a probabilistic model assessing the likelihood for ionic species to substitute for each other while retaining the crystal structure. This model is trained on an experimental database of crystal structures, and can be used to quantitatively suggest novel compounds and their structures. The predictive power of the model is demonstrated using cross-validation on quaternary ionic compounds. The different substitution rules embedded in the model are analyzed and compared to some of the traditional rules used by solid state chemists to propose new compounds (e.g., ionic size).",
+            "Data mined ionic substitutions for the discovery of new compounds",
+            "Geoffroy Hautier and Chris Fischer and Virginie Ehrlacher and Anubhav Jain and Gerbrand Ceder",
+            "2010",
+            "T70gMZUAAAAJ:eQOLeE2rZwMC",
+            241,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/ic102031h",
+            "8467836721869661948",
+            "\/scholar?cites=8467836721869661948",
+            {
+                "2011":4,
+                "2012":12,
+                "2013":21,
+                "2014":15,
+                "2015":24,
+                "2016":34,
+                "2017":22,
+                "2018":29,
+                "2019":36,
+                "2020":43,
+                "2021":1
+            }
+        ]
+    ]
+}

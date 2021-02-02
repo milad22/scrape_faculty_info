@@ -1,0 +1,124 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "XfuACYoAAAAJ",
+            "andrew f newman",
+            "Boston University",
+            "@bu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=XfuACYoAAAAJ",
+            6367,
+            [
+
+            ],
+            1819,
+            20,
+            15,
+            27,
+            16,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"mxkeN5YAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Paola Conconi",
+                    "affiliation":"European Center for Advanced Research in Economics and Statistics (ECARES), Universit\u00e9 Libre de"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"CLJb1aoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Harald Fadinger",
+                    "affiliation":"University of Mannheim and CEPR"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"l9Or8EMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Daron Acemoglu",
+                    "affiliation":"Economics, MIT"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"j9rhpUcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Fernanda Estevan",
+                    "affiliation":"Associate Professor in Economics, Sao Paulo School of Economics - FGV"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"T2D3KIIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Philippe Jehiel",
+                    "affiliation":"Professor of Economics, PSE and UCL"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"5lF-YiMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Philip Bond",
+                    "affiliation":"University of Washington"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fTWwTJ0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Claudia Olivetti",
+                    "affiliation":"Professor of Economics, Dartmouth College"
+                }
+            ]
+        ]
+    ]
+}

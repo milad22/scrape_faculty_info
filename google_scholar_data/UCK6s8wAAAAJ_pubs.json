@@ -1,0 +1,160 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "data":[
+        [
+            "When beneficial mutations are rare, they accumulate by a series of selective sweeps. But when they are common, many beneficial mutations will occur before any can fix, so there will be many different mutant lineages in the population concurrently. In an asexual population, these different mutant lineages interfere and not all can fix simultaneously. In addition, further beneficial mutations can accumulate in mutant lineages while these are still a minority of the population. In this article, we analyze the dynamics of such multiple mutations and the interplay between multiple mutations and interference between clones. These result in substantial variation in fitness accumulating within a single asexual population. The amount of variation is determined by a balance between selection, which destroys variation, and beneficial mutations, which create more. The behavior depends in a subtle way on the population \u2026",
+            "Beneficial mutation\u2013selection balance and the effect of linkage on positive selection",
+            "Michael M Desai and Daniel S Fisher",
+            "2007",
+            "UCK6s8wAAAAJ:u-x6o8ySG0sC",
+            485,
+            "https:\/\/academic.oup.com\/genetics\/article-abstract\/176\/3\/1759\/6062236",
+            "15921838647015285424",
+            "\/scholar?cites=15921838647015285424",
+            {
+                "2007":6,
+                "2008":16,
+                "2009":9,
+                "2010":13,
+                "2011":30,
+                "2012":40,
+                "2013":51,
+                "2014":47,
+                "2015":29,
+                "2016":41,
+                "2017":40,
+                "2018":49,
+                "2019":46,
+                "2020":61,
+                "2021":1
+            }
+        ],
+        [
+            "The dynamics of adaptation determine which mutations fix in a population, and hence how reproducible evolution will be. This is central to understanding the spectra of mutations recovered in the evolution of antibiotic resistance 1, the response of pathogens to immune selection 2, 3, and the dynamics of cancer progression 4, 5. In laboratory evolution experiments, demonstrably beneficial mutations are found repeatedly 6, 7, 8, but are often accompanied by other mutations with no obvious benefit. Here we use whole-genome whole-population sequencing to examine the dynamics of genome sequence evolution at high temporal resolution in 40 replicate Saccharomyces cerevisiae populations growing in rich medium for 1,000 generations. We find pervasive genetic hitchhiking: multiple mutations arise and move synchronously through the population as mutational \u2018cohorts\u2019. Multiple clonal cohorts are often present \u2026",
+            "Pervasive genetic hitchhiking and clonal interference in forty evolving yeast populations",
+            "Gregory I Lang and Daniel P Rice and Mark J Hickman and Erica Sodergren and George M Weinstock and David Botstein and Michael M Desai",
+            "2013",
+            "UCK6s8wAAAAJ:4DMP91E08xMC",
+            458,
+            "https:\/\/www.nature.com\/articles\/nature12344",
+            "5013520665391302887",
+            "\/scholar?cites=5013520665391302887",
+            {
+                "2013":9,
+                "2014":68,
+                "2015":66,
+                "2016":62,
+                "2017":58,
+                "2018":63,
+                "2019":58,
+                "2020":66,
+                "2021":4
+            }
+        ],
+        [
+            "The experimental evolution of laboratory populations of microbes provides an opportunity to observe the evolutionary dynamics of adaptation in real time. Until very recently, however, such studies have been limited by our inability to systematically find mutations in evolved organisms. We overcome this limitation by using a variety of DNA microarray-based techniques to characterize genetic changes\u2014including point mutations, structural changes, and insertion variation\u2014that resulted from the experimental adaptation of 24 haploid and diploid cultures of Saccharomyces cerevisiae to growth in either glucose, sulfate, or phosphate-limited chemostats for \u223c200 generations. We identified frequent genomic amplifications and rearrangements as well as novel retrotransposition events associated with adaptation. Global nucleotide variation detection in ten clonal isolates identified 32 point mutations. On the basis of mutation frequencies, we infer that these mutations and the subsequent dynamics of adaptation are determined by the batch phase of growth prior to initiation of the continuous phase in the chemostat. We relate these genotypic changes to phenotypic outcomes, namely global patterns of gene expression, and to increases in fitness by 5\u201350%. We found that the spectrum of available mutations in glucose- or phosphate-limited environments combined with the batch phase population dynamics early in our experiments allowed several distinct genotypic and phenotypic evolutionary pathways in response to these nutrient limitations. By contrast, sulfate-limited populations were much more constrained in both genotypic and phenotypic outcomes \u2026",
+            "The repertoire and dynamics of evolutionary adaptations to controlled nutrient-limited environments in yeast",
+            "David Gresham and Michael M Desai and Cheryl M Tucker and Harry T Jenq and Dave A Pai and Alexandra Ward and Christopher G DeSevo and David Botstein and Maitreya J Dunham",
+            "2008",
+            "UCK6s8wAAAAJ:d1gkVwhDpl0C",
+            411,
+            "https:\/\/journals.plos.org\/plosgenetics\/article?id=10.1371\/journal.pgen.1000303",
+            "9821469153349508544",
+            "\/scholar?cites=9821469153349508544",
+            {
+                "2009":10,
+                "2010":29,
+                "2011":26,
+                "2012":47,
+                "2013":48,
+                "2014":31,
+                "2015":45,
+                "2016":41,
+                "2017":28,
+                "2018":29,
+                "2019":39,
+                "2020":31,
+                "2021":3
+            }
+        ],
+        [
+            "Whole-genome sequencing has become an indispensible tool of modern biology. However, the cost of sample preparation relative to the cost of sequencing remains high, especially for small genomes where the former is dominant. Here we present a protocol for rapid and inexpensive preparation of hundreds of multiplexed genomic libraries for Illumina sequencing. By carrying out the Nextera tagmentation reaction in small volumes, replacing costly reagents with cheaper equivalents, and omitting unnecessary steps, we achieve a cost of library preparation of $8 per sample, approximately 6 times cheaper than the standard Nextera XT protocol. Furthermore, our procedure takes less than 5 hours for 96 samples. Several hundred samples can then be pooled on the same HiSeq lane via custom barcodes. Our method will be useful for re-sequencing of microbial or viral genomes, including those from evolution experiments, genetic screens, and environmental samples, as well as for other sequencing applications including large amplicon, open chromosome, artificial chromosomes, and RNA sequencing.",
+            "Inexpensive multiplexed library preparation for megabase-sized genomes",
+            "Michael Baym and Sergey Kryazhimskiy and Tami D Lieberman and Hattie Chung and Michael M Desai and Roy Kishony",
+            "2015",
+            "UCK6s8wAAAAJ:mB3voiENLucC",
+            337,
+            "https:\/\/journals.plos.org\/plosone\/article?id=10.1371\/journal.pone.0128036",
+            "13795681511819653441",
+            "\/scholar?cites=13795681511819653441",
+            {
+                "2015":3,
+                "2016":23,
+                "2017":44,
+                "2018":65,
+                "2019":75,
+                "2020":111,
+                "2021":8
+            }
+        ],
+        [
+            "The outcomes of evolution are determined by a stochastic dynamical process that governs how mutations arise and spread through a population. However, it is difficult to observe these dynamics directly over long periods and across entire genomes. Here we analyse the dynamics of molecular evolution in twelve experimental populations of Escherichia coli, using whole-genome metagenomic sequencing at five hundred-generation intervals through sixty thousand generations. Although the rate of fitness gain declines over time, molecular evolution is characterized by signatures of rapid adaptation throughout the duration of the experiment, with multiple beneficial variants simultaneously competing for dominance in each population. Interactions between ecological and evolutionary processes play an important role, as long-term quasi-stable coexistence arises spontaneously in most populations, and evolution \u2026",
+            "The dynamics of molecular evolution over 60,000 generations",
+            "Benjamin H Good and Michael J McDonald and Jeffrey E Barrick and Richard E Lenski and Michael M Desai",
+            "2017",
+            "UCK6s8wAAAAJ:j3f4tGmQtD8C",
+            295,
+            "https:\/\/www.nature.com\/articles\/nature24287",
+            "14660733805321949131",
+            "\/scholar?cites=14660733805321949131",
+            {
+                "2017":7,
+                "2018":74,
+                "2019":99,
+                "2020":104,
+                "2021":11
+            }
+        ],
+        [
+            "Epistatic interactions between mutations can make evolutionary trajectories contingent on the chance occurrence of initial mutations. We used experimental evolution in Saccharomyces cerevisiae to quantify this contingency, finding differences in adaptability among 64 closely related genotypes. Despite these differences, sequencing of 104 evolved clones showed that initial genotype did not constrain future mutational trajectories. Instead, reconstructed combinations of mutations revealed a pattern of diminishing-returns epistasis: Beneficial mutations have consistently smaller effects in fitter backgrounds. Taken together, these results show that beneficial mutations affecting a variety of biological processes are globally coupled; they interact strongly, but only through their combined effect on fitness. As a consequence, fitness evolution follows a predictable trajectory even though sequence-level adaptation is stochastic.",
+            "Global epistasis makes adaptation predictable despite sequence-level stochasticity",
+            "Sergey Kryazhimskiy and Daniel P. Rice and Elizabeth R. Jerison and Michael M. Desai",
+            "2014",
+            "UCK6s8wAAAAJ:7PzlFSSx8tAC",
+            295,
+            "https:\/\/science.sciencemag.org\/content\/344\/6191\/1519.abstract",
+            "13627103385734716701",
+            "\/scholar?cites=13627103385734716701",
+            {
+                "2013":1,
+                "2014":10,
+                "2015":36,
+                "2016":38,
+                "2017":48,
+                "2018":48,
+                "2019":47,
+                "2020":60,
+                "2021":4
+            }
+        ]
+    ]
+}

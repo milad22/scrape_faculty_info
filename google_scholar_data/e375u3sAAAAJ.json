@@ -1,0 +1,68 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "e375u3sAAAAJ",
+            "Nau Raj Pokhrel",
+            "The University of Tennessee",
+            "@utk.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=e375u3sAAAAJ",
+            48,
+            [
+                "Extragalactic Astronomy",
+                "Dwarf galaxies",
+                "HI structures",
+                "Star formation",
+                "Interstellar medium"
+            ],
+            45,
+            2,
+            2,
+            2,
+            2,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6m-OezIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Trisha Ashley",
+                    "affiliation":"USRA and NASA Ames"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"TYoxKxAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Rodolfo Montez Jr.",
+                    "affiliation":"Smithsonian Astrophysical Observatory"
+                }
+            ]
+        ]
+    ]
+}

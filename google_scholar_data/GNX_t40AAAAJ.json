@@ -1,0 +1,53 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "GNX_t40AAAAJ",
+            "Stephan Adler",
+            "PhD student, Freie Universit\u00e4t Berlin",
+            "@fu-berlin.de",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=GNX_t40AAAAJ",
+            327,
+            [
+                "WSN",
+                "Indoor Localization"
+            ],
+            248,
+            10,
+            8,
+            10,
+            8,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"xDD6jskAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Simon Schmitt",
+                    "affiliation":"AG Computer Systems & Telematics, Freie Universit\u00e4t Berlin, Berlin, Germany"
+                }
+            ]
+        ]
+    ]
+}

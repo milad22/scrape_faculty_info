@@ -1,0 +1,56 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "7_B0r5MAAAAJ",
+            "Gary Shiu",
+            "Professor of Physics, University of Wisconsin-Madison",
+            "@physics.wisc.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=7_B0r5MAAAAJ",
+            12034,
+            [
+                "String theory",
+                "particle physics",
+                "cosmology",
+                "string phenomenology",
+                "theoretical physics"
+            ],
+            3835,
+            59,
+            33,
+            128,
+            85,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"laMrb-wAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mark A. Eriksson",
+                    "affiliation":"John Bardeen Professor of Physics, Department of Physics, University of Wisconsin-Madison"
+                }
+            ]
+        ]
+    ]
+}

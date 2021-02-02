@@ -1,0 +1,34 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "This paper reviews the AIM 2020 challenge on efficient single image super-resolution with focus on the proposed solutions and results. The challenge task was to super-resolve an input image with a magnification factor x4 based on a set of prior examples of low and corresponding high resolution images. The goal is to devise a network that reduces one or several aspects such as runtime, parameter count, FLOPs, activations, and memory consumption while at least maintaining PSNR of MSRResNet. The track had 150 registered participants, and 25 teams submitted the final results. They gauge the state-of-the-art in efficient single image super-resolution.",
+            "AIM 2020 challenge on efficient super-resolution: Methods and results",
+            "Kai Zhang and Martin Danelljan and Yawei Li and Radu Timofte and Jie Liu and Jie Tang and Gangshan Wu and Yu Zhu and Xiangyu He and Wenjie Xu and Chenghua Li and Cong Leng and Jian Cheng and Guangyang Wu and Wenyi Wang and Xiaohong Liu and Hengyuan Zhao and Xiangtao Kong and Jingwen He and Yu Qiao and Chao Dong and Xiaotong Luo and Liang Chen and Jiangtao Zhang and Maitreya Suin and Kuldeep Purohit and AN Rajagopalan and Xiaochuan Li and Zhiqiang Lang and Jiangtao Nie and Wei Wei and Lei Zhang and Abdul Muqeet and Jiwon Hwang and Subin Yang and JungHeum Kang and Sung-Ho Bae and Yongwoo Kim and Yanyun Qu and Geun-Woo Jeon and Jun-Ho Choi and Jun-Hyuk Kim and Jong-Seok Lee and Steven Marty and Eric Marty and Dongliang Xiong and Siang Chen and Lin Zha and Jiande Jiang and Xinbo Gao and Wen Lu and Haicheng Wang and Vineeth Bhaskara and Alex Levinshtein and Stavros Tsogkas and Allan Jepson and Xiangzhen Kong and Tongtong Zhao and Shanshan Zhao and Densen Puthussery and Nan Nan and Shuai Liu and Jie Cai and Zibo Meng and Jiaming Ding and Chiu Man Ho and Xuehui Wang and Qiong Yan and Yuzhi Zhao and Long Chen and Long Sun and Wenhao Wang and Zhenbing Liu and Rushi Lan and Rao Muhammad Umer and Christian Micheloni",
+            "2020",
+            "irX4lY8AAAAJ:u-x6o8ySG0sC",
+            14,
+            "https:\/\/arxiv.org\/abs\/2009.06943",
+            "17666499735183724620",
+            "\/scholar?cites=17666499735183724620",
+            {
+                "2020":12,
+                "2021":2
+            }
+        ]
+    ]
+}

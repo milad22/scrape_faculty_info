@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "6IBNSFXE",
+            "TWJ0JaAAAAAJ",
+            [
+                "Realization of the Hofstadter Hamiltonian with ultracold atoms in optical lattices",
+                "14-qubit entanglement: Creation and coherence",
+                "An open-system quantum simulator with trapped ions",
+                "Measuring the Chern number of Hofstadter bands with ultracold bosonic atoms",
+                "Generation of hyperentangled photon pairs",
+                "Direct measurement of the Zak phase in topological Bloch bands",
+                "Beating the channel capacity limit for linear photonic superdense coding",
+                "Universal digital quantum simulation with trapped ions",
+                "Observation of chiral currents with ultracold atoms in bosonic ladders",
+                "Experimental repetitive quantum error correction"
+            ],
+            [
+                "We demonstrate the experimental implementation of an optical lattice that allows for the generation of large homogeneous and tunable artificial magnetic fields with ultracold atoms. Using laser-assisted tunneling in a tilted optical potential, we engineer spatially dependent complex tunneling amplitudes. Thereby, atoms hopping in the lattice accumulate a phase shift equivalent to the Aharonov-Bohm phase of charged particles in a magnetic field. We determine the local distribution of fluxes through the observation of cyclotron orbits of the atoms on lattice plaquettes, showing that the system is described by the Hofstadter model. Furthermore, we show that for two atomic spin states with opposite magnetic moments, our system naturally realizes the time-reversal-symmetric Hamiltonian underlying the quantum spin Hall effect; ie, two different spin components experience opposite directions of the magnetic field.",
+                "We report the creation of Greenberger-Horne-Zeilinger states with up to 14 qubits. By investigating the coherence of up to 8 ions over time, we observe a decay proportional to the square of the number of qubits. The observed decay agrees with a theoretical model which assumes a system affected by correlated, Gaussian phase noise. This model holds for the majority of current experimental systems developed towards quantum computation and quantum metrology.",
+                "The control of quantum systems is of fundamental scientific interest and promises powerful applications and technologies. Impressive progress has been achieved in isolating quantum systems from the environment and coherently controlling their dynamics, as demonstrated by the creation and manipulation of entanglement in various physical systems. However, for open quantum systems, engineering the dynamics of many particles by a controlled coupling to an environment remains largely unexplored. Here we realize an experimental toolbox for simulating an open quantum system with up to five quantum bits (qubits). Using a quantum computing architecture with trapped ions, we combine multi-qubit gates with optical pumping to implement coherent operations and dissipative processes. We illustrate our ability to engineer the open-system dynamics through the dissipative preparation of entangled states, the \u2026",
+                "Sixty years ago, Karplus and Luttinger pointed out that quantum particles moving on a lattice could acquire an anomalous transverse velocity in response to a force, providing an explanation for the unusual Hall effect in ferromagnetic metals 1. A striking manifestation of this transverse transport was then revealed in the quantum Hall effect 2 where the plateaux depicted by the Hall conductivity were attributed to a topological invariant characterizing the Bloch bands: the Chern number 3. Until now, topological transport associated with non-zero Chern numbers has only been observed in electronic systems 2, 4, 5. Here we use the transverse deflection of an atomic cloud in response to an optical gradient to measure the Chern number of artificially generated Hofstadter bands 6. These topological bands are very flat and thus constitute good candidates for the realization of fractional Chern insulators 7. Combining these \u2026",
+                "We experimentally demonstrate the first quantum system entangled in every degree of freedom (hyperentangled). Using pairs of photons produced in spontaneous parametric down-conversion, we verify entanglement by observing a Bell-type inequality violation in each degree of freedom: polarization, spatial mode, and time energy. We also produce and characterize maximally hyperentangled states and novel states simultaneously exhibiting both quantum and classical correlations. Finally, we report the tomography of a 2\u00d7 2\u00d7 3\u00d7 3 system (36-dimensional Hilbert space), which we believe is the first reported photonic entangled system of this size to be so characterized.",
+                "Geometric phases that characterize the topological properties of Bloch bands play a fundamental role in the band theory of solids. Here we report on the measurement of the geometric phase acquired by cold atoms moving in one-dimensional optical lattices. Using a combination of Bloch oscillations and Ramsey interferometry, we extract the Zak phase\u2014the Berry phase gained during the adiabatic motion of a particle across the Brillouin zone\u2014which can be viewed as an invariant characterizing the topological properties of the band. For a dimerized lattice, which models polyacetylene, we measure a difference of the Zak phase \u03b4 \u03c6 Zak= 0.97 (2) \u03c0 for the two possible polyacetylene phases with different dimerization. The two dimerized phases therefore belong to different topological classes, such that for a filled band, domain walls have fractional quantum numbers. Our work establishes a new general approach for \u2026",
+                "Dense coding is arguably the protocol that launched the field of quantum communication 1. Today, however, more than a decade after its initial experimental realization 2, the channel capacity remains fundamentally limited as conceived for photons using linear elements. Bob can only send to Alice three of four potential messages owing to the impossibility of carrying out the deterministic discrimination of all four Bell states with linear optics 3, 4, reducing the attainable channel capacity from 2 to log 2 3\u2248 1.585 bits. However, entanglement in an extra degree of freedom enables the complete and deterministic discrimination of all Bell states 5, 6, 7. Using pairs of photons simultaneously entangled in spin and orbital angular momentum 8, 9, we demonstrate the quantum advantage of the ancillary entanglement. In particular, we describe a dense-coding experiment with the largest reported channel capacity and, to our \u2026",
+                "A digital quantum simulator is an envisioned quantum device that can be programmed to efficiently simulate any other local system. We demonstrate and investigate the digital approach to quantum simulation in a system of trapped ions. With sequences of up to 100 gates and 6 qubits, the full time dynamics of a range of spin systems are digitally simulated. Interactions beyond those naturally present in our simulator are accurately reproduced, and quantitative bounds are provided for the overall simulation quality. Our results demonstrate the key principles of digital quantum simulation and provide evidence that the level of control required for a full-scale device is within reach.",
+                "Engineering optical lattices with laser-induced tunnelling amplitudes has enabled the realization of artificial magnetic fields with remarkable tunability. Here, we report on the observation of chiral Meissner currents in bosonic ladders exposed to a strong artificial magnetic field. By suddenly decoupling the individual ladders and projecting into isolated double wells, we are able to measure the currents on each side of the ladder. For large coupling strengths along the rungs of the ladder, we find a saturated maximum chiral current, which is analogous to the surface currents in the Meissner effect. Below a critical inter-leg coupling strength, the chiral current decreases in good agreement with our expectations for a vortex lattice phase. Our realization of a low-dimensional Meissner-like effect and spin\u2013orbit coupling in one dimension opens the path to exploring interacting particles in low dimensions exposed to a uniform \u2026",
+                "The computational potential of a quantum processor can only be unleashed if errors during a quantum computation can be controlled and corrected for. Quantum error correction works if imperfections of quantum gate operations and measurements are below a certain threshold and corrections can be applied repeatedly. We implement multiple quantum error correction cycles for phase-flip errors on qubits encoded with trapped ions. Errors are corrected by a quantum-feedback algorithm using high-fidelity gate operations and a reset technique for the auxiliary qubits. Up to three consecutive correction cycles are realized, and the behavior of the algorithm for different noise environments is analyzed."
+            ],
+            [
+                [
+
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,240 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Advanced materials characterization techniques with ever-growing data acquisition speed and storage capabilities represent a challenge in modern materials science and new procedures to quickly assess and analyze the data are needed. Machine learning approaches are effective in reducing the complexity of data and rapidly homing in on the underlying trend in multi-dimensional data. Here, we show that by employing an algorithm called the mean shift theory to a large amount of diffraction data in high-throughput experimentation, one can streamline the process of delineating the structural evolution across compositional variations mapped on combinatorial libraries with minimal computational cost. Data collected at a synchrotron beamline are analyzed on the fly and by integrating experimental data with the inorganic crystal structure database (ICSD), we can substantially enhance the accuracy in classifying \u2026",
+            "On-the-fly machine-learning for high-throughput experiments: search for rare-earth-free permanent magnets",
+            "Aaron Gilad Kusne and Tieren Gao and Apurva Mehta and Liqin Ke and Manh Cuong Nguyen and Kai-Ming Ho and Vladimir Antropov and Cai-Zhuang Wang and Matthew J Kramer and Christian Long and Ichiro Takeuchi",
+            "2014",
+            "LjoSNYkAAAAJ:-f6ydRqryjwC",
+            185,
+            "https:\/\/www.nature.com\/articles\/srep06367",
+            "127625296871193464",
+            "\/scholar?cites=127625296871193464",
+            {
+                "2013":1,
+                "2014":2,
+                "2015":15,
+                "2016":20,
+                "2017":23,
+                "2018":34,
+                "2019":43,
+                "2020":42,
+                "2021":3
+            }
+        ],
+        [
+            "We present a genetic algorithm (GA) for structural search that combines the speed of structure exploration by classical potentials with the accuracy of density functional theory (DFT) calculations in an adaptive and iterative way. This strategy increases the efficiency of the DFT-based GA by several orders of magnitude. This gain allows a considerable increase in the size and complexity of systems that can be studied by first principles. The performance of the method is illustrated by successful structure identifications of complex binary and ternary intermetallic compounds with 36 and 54 atoms per cell, respectively. The discovery of a multi-TPa Mg-silicate phase with unit cell containing up to 56 atoms is also reported. Such a phase is likely to be an essential component of terrestrial exoplanetary mantles.",
+            "An adaptive genetic algorithm for crystal structure prediction",
+            "SQ Wu and Min Ji and Cai-Zhuang Wang and Manh Cuong Nguyen and Xin Zhao and K Umemoto and RM Wentzcovitch and Kai-Ming Ho",
+            "2013",
+            "LjoSNYkAAAAJ:LkGwnXOMwfcC",
+            114,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0953-8984\/26\/3\/035402\/meta",
+            "7291066697103864378",
+            "\/scholar?cites=7291066697103864378",
+            {
+                "2014":5,
+                "2015":13,
+                "2016":14,
+                "2017":21,
+                "2018":20,
+                "2019":21,
+                "2020":19,
+                "2021":1
+            }
+        ],
+        [
+            "The stable crystal structures of two cuprous chalcogenides of Cu 2 X (X= Te or Se) are predicted using an adaptive genetic algorithm in combination with first-principles density functional theory calculations. Both systems are found to prefer a unique and previously unrecognized layered structure, with the total energies much lower than all structures proposed in the literature so far. The newly discovered structures are further shown to be dynamically and mechanically stable, and possess electronic properties consistent with existing experimental observations. In particular, their layered nature is expected to prevail over other structural forms at the interfaces of thin-film solar cells, and knowledge about the precise atomic structures of the interfaces is a prerequisite for achieving long-term stability and high efficiency of CdTe and Cu (In, Ga) Se 2 solar cells.",
+            "New Layered Structures of Cuprous Chalcogenides as Thin Film Solar Cell Materials:  and ",
+            "Manh Cuong Nguyen and Jin-Ho Choi and Xin Zhao and Cai-Zhuang Wang and Zhenyu Zhang and Kai-Ming Ho",
+            "2013",
+            "LjoSNYkAAAAJ:hqOjcs7Dif8C",
+            94,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.111.165502",
+            "15752283869823007705",
+            "\/scholar?cites=15752283869823007705",
+            {
+                "2014":8,
+                "2015":13,
+                "2016":14,
+                "2017":18,
+                "2018":11,
+                "2019":5,
+                "2020":21,
+                "2021":3
+            }
+        ],
+        [
+            "Using first-principles calculations based on the density-functional theory, we perform a detailed study of the dihydrogen (H 2) binding in cis-and trans-polyacetylene decorated with transition metal atoms. First, we investigate the origin of metal-dihydrogen bonding and observe the hybridization of e g (t 2 g) orbitals of the Ti atom with the \u03c3 (\u03c3*) orbitals of the H 2 molecules in octahedral geometries, which is consistent with the Kubas model. Second, using a statistical model parametrized by the results of ab initio calculations and experimental data, the adsorption and desorption of molecular hydrogens are calculated at ambient temperature and pressure. We find that the usable capacity at ambient conditions is dramatically reduced from the maximum capacity, the zero-point energy affects the storage capacity significantly, and the optimal binding energy of H 2 molecules under practical conditions is\u223c 0.3 eV\u2215 H 2 \u2026",
+            "Ab initio study of dihydrogen binding in metal-decorated polyacetylene for hydrogen storage",
+            "Hoonkyung Lee and Woon Ih Choi and Manh Cuong Nguyen and Moon-Hyun Cha and Eungook Moon and Jisoon Ihm",
+            "2007",
+            "LjoSNYkAAAAJ:u5HHmVD_uO8C",
+            84,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.76.195110",
+            "9448554570622871623",
+            "\/scholar?cites=9448554570622871623",
+            {
+                "2008":4,
+                "2009":7,
+                "2010":7,
+                "2011":10,
+                "2012":10,
+                "2013":5,
+                "2014":6,
+                "2015":7,
+                "2016":3,
+                "2017":2,
+                "2018":8,
+                "2019":4,
+                "2020":11
+            }
+        ],
+        [
+            "Solving the crystal structures of novel phases with nanoscale dimensions resulting from rapid quenching is difficult due to disorder and competing polymorphic phases. Advances in computer speed and algorithm sophistication have now made it feasible to predict the crystal structure of an unknown phase without any assumptions on the Bravais lattice type, atom basis, or unit cell dimensions, providing a novel approach to aid experiments in exploring complex materials with nanoscale grains. This approach is demonstrated by solving a long-standing puzzle in the complex crystal structures of the orthorhombic, rhombohedral, and hexagonal polymorphs close to the Zr 2 Co 11 intermetallic compound. From our calculations, we identified the hard magnetic phase and the origin of high coercivity in this compound, thus guiding further development of these materials for use as high performance permanent magnets \u2026",
+            "Exploring the structural complexity of intermetallic compounds by an adaptive genetic algorithm",
+            "X Zhao and MC Nguyen and WY Zhang and CZ Wang and Matthew J Kramer and David J Sellmyer and XZ Li and F Zhang and LQ Ke and Vladimir P Antropov and KM Ho",
+            "2014",
+            "LjoSNYkAAAAJ:YOwf2qJgpHMC",
+            79,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.112.045502",
+            "10810476518858406704",
+            "\/scholar?cites=10810476518858406704",
+            {
+                "2014":4,
+                "2015":10,
+                "2016":13,
+                "2017":13,
+                "2018":11,
+                "2019":14,
+                "2020":12,
+                "2021":2
+            }
+        ],
+        [
+            "The formation possibility of a new (Zr0.25Nb0.25Ti0.25V0.25)C high-entropy ceramics (ZHC-1) was first analyzed by the first-principles calculations and thermodynamical analysis and then it was successfully fabricated by hot pressing sintering technique. The first-principles calculation results showed that the mixing enthalpy of ZHC-1 was 5.526\u202fkJ\/mol and the mixing entropy of ZHC-1 was in the range of 0.693R\u20131.040R. The thermodynamical analysis results showed that ZHC-1 was thermodynamically stable above 959\u202fK owing to its negative mixing Gibbs free energy. The experimental results showed that the as-prepared ZHC-1 (95.1% relative density) possessed a single rock-salt crystal structure, some interesting nanoplate-like structures, and high compositional uniformity from nanoscale to microscale. By taking advantage of these unique features, compared with the initial metal carbides (ZrC, NbC, TiC and \u2026",
+            "First-principles study, fabrication and characterization of (Zr0. 25Nb0. 25Ti0. 25V0. 25) C high-entropy ceramics",
+            "Beilin Ye and Tongqi Wen and Manh Cuong Nguyen and Luyao Hao and Cai-Zhuang Wang and Yanhui Chu",
+            "2019",
+            "LjoSNYkAAAAJ:dshw04ExmUIC",
+            66,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S1359645419301648",
+            "18269425875486478785",
+            "\/scholar?cites=18269425875486478785",
+            {
+                "2019":6,
+                "2020":54,
+                "2021":5
+            }
+        ],
+        [
+            "A semi-empirical potential for the Al 90 Sm 10 alloy is presented. The potential provides satisfactory reproduction of pure Al properties, the formation energies of a set of Al\u2013Sm crystal phases with Sm content about 10%, and the structure of the liquid Al 90 Sm 10 alloy. During molecular dynamics simulation in which the liquid alloy is cooled at a rate of 10 10 K s\u2212 1, the developed potential produces a glass structure with lower ab initio energy than that produced by ab initio molecular dynamics (AIMD) itself using a typical AIMD cooling rate of 8 centerdot 10 13 K s\u2212 1. Based on these facts the developed potential should be suitable for simulations of phase transformations in the Al 90 Sm 10 alloy.",
+            "Development of interatomic potentials appropriate for simulation of devitrification of Al90Sm10 alloy",
+            "MI Mendelev and F Zhang and Z Ye and Y Sun and MC Nguyen and SR Wilson and CZ Wang and KM Ho",
+            "2015",
+            "LjoSNYkAAAAJ:iH-uZ7U-co4C",
+            40,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0965-0393\/23\/4\/045013\/meta",
+            "3627436338761058311",
+            "\/scholar?cites=3627436338761058311",
+            {
+                "2015":1,
+                "2016":6,
+                "2017":4,
+                "2018":14,
+                "2019":9,
+                "2020":6
+            }
+        ],
+        [
+            "The feasibility to store hydrogen in calcium-decorated metal organic frameworks (MOFs) is explored by using first-principles electronic structure calculations. We show that substitution of boron atoms into the benzene ring of the MOF linker substantially enhances the Ca binding energy to the linker as well as the H2 binding energy to Ca. The Kubas interaction between H2 molecules and Ca added in the MOF gives rise to a large number of bound H2's (8H2's per linker) with the binding energy of 20 kJ\/mol, which makes the system suitable for reversible hydrogen storage under ambient conditions.",
+            "Hydrogen storage in Ca-decorated, B-substituted metal organic framework",
+            "Xiaolong Zou and Moon-Hyun Cha and Seungchul Kim and Manh Cuong Nguyen and Gang Zhou and Wenhui Duan and Jisoon Ihm",
+            "2010",
+            "LjoSNYkAAAAJ:d1gkVwhDpl0C",
+            35,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0360319909016528",
+            "8067872454597815885",
+            "\/scholar?cites=8067872454597815885",
+            {
+                "2010":5,
+                "2011":7,
+                "2012":6,
+                "2013":2,
+                "2014":3,
+                "2015":7,
+                "2016":3,
+                "2017":1,
+                "2018":1
+            }
+        ],
+        [
+            "Using first-principles density-functional electronic structure calculations, we propose functionalized organic molecules decorated with titanium atoms as high-capacity hydrogen storage materials. We study six kinds of functional groups which form complexes with Ti atoms and find that each complex is capable of binding up to six H2 molecules. Among such complexes, Ti-decorated ethane-1,2-diol can store H2\u2019s with the maximum gravimetric density of 13 wt% and, under ambient conditions, a practically usable capacity of 5.5 wt%. We also present various forms of storage materials which are obtained by modifying well-known nanomaterials using Ti-functional group complexes.",
+            "Titanium-functional group complexes for high-capacity hydrogen storage materials",
+            "Hoonkyung Lee and Manh Cuong Nguyen and Jisoon Ihm",
+            "2008",
+            "LjoSNYkAAAAJ:u-x6o8ySG0sC",
+            32,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0038109808001300",
+            "1560105691379796712",
+            "\/scholar?cites=1560105691379796712",
+            {
+                "2009":7,
+                "2010":4,
+                "2011":6,
+                "2012":6,
+                "2013":1,
+                "2014":2,
+                "2015":3,
+                "2016":2,
+                "2017":1
+            }
+        ],
+        [
+            "We perform ab initio density functional theory calculations to investigate the hydrogen storage capacity in the Fe-decorated, OH-functionalized isoreticular metal organic framework 16. The hydroxyl group (OH) is used as an anchor to hold an Fe atom firmly on the metal organic framework, and the hydrogen molecules are bound to the Fe atom through hybridization with Fe d orbitals. We show that each Fe atom in this modified MOF can bind up to four H2 molecules with an adequate binding energy for room-temperature storage (\u223c29 kJ\/mol). The transition from the high-spin to the low-spin configuration is found to be crucial in enhancing the number of bound H2 as well as the binding energy. Equilibrium thermodynamics calculations accompanied with grand canonical Monte Carlo simulations give a very promising result, namely, a reversibly usable gravimetric storage density of 6.0 wt % at 298 K and 100 atm.",
+            "Iron-decorated, functionalized metal organic framework for high-capacity hydrogen storage: First-principles calculations",
+            "Moon-Hyun Cha and Manh Cuong Nguyen and Yea-Lee Lee and Jino Im and Jisoon Ihm",
+            "2010",
+            "LjoSNYkAAAAJ:9yKSN-GCB0IC",
+            29,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/jp101346y",
+            "8632177013726068245",
+            "\/scholar?cites=8632177013726068245",
+            {
+                "2011":4,
+                "2012":9,
+                "2013":4,
+                "2014":5,
+                "2015":1,
+                "2016":2,
+                "2017":2,
+                "2018":1,
+                "2019":1
+            }
+        ]
+    ]
+}

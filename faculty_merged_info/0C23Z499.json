@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "0C23Z499",
+            "0-DOTY0AAAAJ",
+            [
+                "Large amplitude elastic motions in proteins from a single-parameter, atomic analysis",
+                "Normal modes as refinement parameters for the F-actin model",
+                "Normal mode analysis of G-actin",
+                "Dynamic and elastic properties of F-actin: a normal-modes analysis",
+                "Normal modes analyses of macromolecules",
+                "A comparison of the atomic model of F-actin with cryo-electron micrographs of actin and decorated actin",
+                "Atomic torsional modal analysis for high-resolution proteins",
+                "Angular momentum bearing modes and nuclear structure effects in 12 C-induced fission",
+                "Testing the validity of statistical models of fission fragment angular distributions",
+                "Exploring the k-distribution in fission"
+            ],
+            [
+                "Normal mode analysis (NMA) is a leading method for studying long-time dynamics and elasticity of biomolecules. The method proceeds from complex semiempirical potentials characterizing the covalent and noncovalent interactions between atoms. It is widely accepted that such detailed potentials are essential to the success of NMA's. We show that a single-parameter potential is sufficient to reproduce the slow dynamics in good detail. Costly and inaccurate energy minimizations are eliminated, permitting direct analysis of crystal coordinates. The technique can be used for new applications, such as mapping of one crystal form to another by means of slow modes, and studying anomalous dynamics of large proteins and complexes.",
+                "The slow normal modes of G-actin were used as structural parameters to refine the F-actin model against 8-A resolution x-ray fiber diffraction data. The slowest frequency normal modes of G-actin pertain to collective rearrangements of domains, motions that are characterized by correlation lengths on the order of the resolution of the fiber diffraction data. Using a small number of normal mode degrees of freedom (< or = 12) improved the fit to the data significantly. The refined model of F-actin shows that the nucleotide binding cleft has narrowed and that the DNase I binding loop has twisted to a lower radius, consistent with other refinement techniques and electron microscopy data. The methodology of a normal mode refinement is described, and the results, as applied to actin, are detailed.",
+                "We undertook a normal mode analysis of the G-actin monomer bound with ADP and Ca2+, in order to better understand the internal modes of this protein. The internal co-ordinates consisted of 1373 single bond torsions, plus an additional 11 torsions to parameterize the motion of the nucleotide and cation with respect to the protein. A generalized eigenvalue problem was solved to yield a complete description of the motion in the 0\u00b71 to 17\u00b70 picosecond time range. The modes were visualized using an interactive graphics routine. The softest, slowest modes include a propeller-like twisting of the large and small domain about the phosphate binding loops, a rolling of subdomain 4 about an \u03b1-helix axis and a scissor-type opening and closing of the ADP-binding cleft. The computed temperature factors agree well with experimental ones. A comparable analysis done on G-actin-ATP shows that the softest modes are \u2026",
+                "We examine the dynamic, elastic, and mechanical consequences of the proposed atomic models of F-actin, using a normal mode analysis. This initial analysis is done in vacuo and assumes that all monomers are rigid and equivalent. Our computation proceeds from the atomic level and, relying on a single fitting parameter, reproduces various experimental results, including persistence lengths, elastic moduli, and contact energies. The computations reveal modes of motion characteristic to all polymers, such as longitudinal pressure waves, torsional waves, and bending, as well as motions unique to F-actin. Motions typical to actin include a \"groove-swinging\" motion of the two long-pitch helices, as well as an axial slipping motion of the two strands. We prepare snapshots of thermally activated filaments and quantify the accumulation of azimuthal angular \"disorder,\" variations in cross-over lengths, and various other \u2026",
+                "Normal modes analysis (NMA) has been a valuable tool for the study of the flexibility and the slow range of motion of proteins, and it nicely complements Molecular Dynamics techniques, where simulations are possible for only limited time spans. We demonstrate the usefulness of NMA by the example of a large globular protein, G-actin, and the filaments it forms: F-actin. We also discuss some less known aspects of NMA: (a) The density of modes of globular proteins departs from Debye\u2019s prediction for solids, and is anomalous. (b) The use of dihedral angles, rather than Cartesian degrees of freedom, gives rise to interesting nonlinear effects, such as oscillations of certain subsets at twice the natural frequency of the mode. (c) For slow modes of macromolecules it is sufficient to use very simple-minded potentials, without the rich level of details habitual in NMA and Molecular Dynamics.",
+                "We compare the atomic model calculated from the crystal structure and the X-ray fiber diagram of orientated F-actin1) with the 3-D reconstructions produced from cryo-electron microscopy of actin2). Out to 30\u00c5 resolution the two structures are essentially identical. Furthermore, by combining the atomic model with the reconstruction of SI-decorated actin filaments2) one can establish the nature of the actin binding site for myosin in the rigor complex. Each myosin head binds to two actin molecules on two distinct sites. Some of the actin residues involved in each of these binding sites can be identified. Furthermore, the atomic model of actin may be combined with the reconstruction of the S1 decorated thin filament to establish the tropomysosin binding site in the rigor complex. This result is compared with the model of tropomyosin-actin derived from an analysis of the X-ray fibre diagram of a reconstituted thin \u2026",
+                "We introduce a formulation for normal mode analyses of globular proteins that significantly improves on an earlier one-parameter formulation [MM Tirion, Phys. Rev. Lett. 77, 1905 (1996)] that characterized the slow modes associated with protein data bank structures. Here we develop that empirical potential function that is minimized at the outset to include two features essential to reproduce the eigenspectra and associated density of states in the 0 to 300 cm\u2212 1 frequency range, not merely the slow modes. First, introduction of preferred dihedral-angle configurations via use of torsional stiffness constants eliminates anomalous dispersion characteristics due to insufficiently bound surface side chains and helps fix the spectrum thin tail frequencies (100\u2013300 cm\u2212 1). Second, we take into account the atomic identities and the distance of separation of all pairwise interactions, improving the spectrum distribution in the 20 \u2026",
+                "The angular momenta of the fragments produced in several 100 and 180 MeV12C induced fission reactions have been investigated using\u03b3-ray multiplicity (M \u03bb) techniques. The averageM \u03bb increases with both the bombarding energy and the total mass of the system. The dependence ofM \u03bb on mass asymmetry is generally rather weak, except in regions near shell closures, where local minima are observed. The magnitudes ofM \u03bb tend to be larger than expected on the basis of rigid rotation, possibly due to the excitation of collective modes. A comparison is made with a statistical model.",
+                "It is shown that the statistical model of fission fragment angular distributions predicts a variation of the fragment spins with angle. This provides a simple test which can be used to establish the range of validity of the statistical model.",
+                "Statistical models of fission angular distributions predict that the spins of the fragments should vary with angle. This effect has been investigated in several 4He-induced fission reactions using \u03b3-ray multiplicity techniques. While M\u03b3 does vary with emission angle, the effect is smaller than expected. The excitation of additional angular momentum bearing modes accounts for much of this discrepancy."
+            ],
+            [
+                [
+                    "Biophysics"
+                ]
+            ]
+        ]
+    ]
+}

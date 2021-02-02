@@ -1,0 +1,37 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "7U4X5VJ6",
+            "FBawOjQAAAAJ",
+            [
+                "MEEP: A flexible free-software package for electromagnetic simulations by the FDTD method",
+                "A tunable carbon nanotube electromechanical oscillator",
+                "The origin of the anomalous superconducting properties of MgB 2",
+                "Improving accuracy by subpixel smoothing in the finite-difference time domain",
+                "Ideal shear strengths of fcc aluminum and copper"
+            ],
+            [
+                "This paper describes Meep, a popular free implementation of the finite-difference time-domain (FDTD) method for simulating electromagnetism. In particular, we focus on aspects of implementing a full-featured FDTD package that go beyond standard textbook descriptions of the algorithm, or ways in which Meep differs from typical FDTD implementations. These include pervasive interpolation and accurate modeling of subpixel features, advanced signal processing, support for nonlinear materials via Pad\u00e9 approximants, and flexible scripting capabilities.Program title: MeepCatalogue identifier: AEFU_v1_0Program summary URL:: http:\/\/cpc.cs.qub.ac.uk\/summaries\/AEFU_v1_0.htmlProgram obtainable from: CPC Program Library, Queen's University, Belfast, N. IrelandLicensing provisions: GNU GPLNo. of lines in distributed program, including test data, etc.: 151\u2009821No. of bytes in distributed \u2026",
+                "Nanoelectromechanical systems (NEMS) hold promise for a number of scientific and technological applications. In particular, NEMS oscillators have been proposed for use in ultrasensitive mass detection 1, 2, radio-frequency signal processing 3, 4, and as a model system for exploring quantum phenomena in macroscopic systems 5, 6. Perhaps the ultimate material for these applications is a carbon nanotube. They are the stiffest material known, have low density, ultrasmall cross-sections and can be defect-free. Equally important, a nanotube can act as a transistor 7 and thus may be able to sense its own motion. In spite of this great promise, a room-temperature, self-detecting nanotube oscillator has not been realized, although some progress has been made 8, 9, 10, 11, 12. Here we report the electrical actuation and detection of the guitar-string-like oscillation modes of doubly clamped nanotube oscillators. We \u2026",
+                "Magnesium diboride 1 differs from ordinary metallic superconductors in several important ways, including the failure of conventional models 2 to predict accurately its unusually high transition temperature, the effects of isotope substitution on the critical transition temperature, and its anomalous specific heat 3, 4, 5. A detailed examination of the energy associated with the formation of charge-carrying pairs, referred to as the \u2018superconducting energy gap\u2019, should clarify why MgB 2 is different. Some early experimental studies have indicated that MgB 2 has multiple gaps 3, 4, 5, 6, 7, 8, 9, but past theoretical studies 10, 11, 12, 13, 14, 15, 16 have not explained from first principles the origin of these gaps and their effects. Here we report an ab initio calculation of the superconducting gaps in MgB 2 and their effects on measurable quantities. An important feature is that the electronic states dominated by orbitals in the boron \u2026",
+                "Finite-difference time-domain (FDTD) methods suffer from reduced accuracy when modeling discontinuous dielectric materials, due to the inhererent discretization (pixelization). We show that accuracy can be significantly improved by using a subpixel smoothing of the dielectric function, but only if the smoothing scheme is properly designed. We develop such a scheme based on a simple criterion taken from perturbation theory and compare it with other published FDTD smoothing methods. In addition to consistently achieving the smallest errors, our scheme is the only one that attains quadratic convergence with resolution for arbitrarily sloped interfaces. Finally, we discuss additional difficulties that arise for sharp dielectric corners.",
+                "The ideal shear strength is the minimum stress needed to plastically deform an infinite dislocation-free crystal and is an upper bound to the strength of a real crystal. We calculate the ideal shear strengths of Al and Cu at zero temperature using pseudopotential density functional theory within the local density approximation. These calculations allow for structural relaxation of all five strain components other than the imposed shear strain and result in strengths on {111} planes of 1.85 and 2.65 GPa for Al and Cu, respectively (8%\u20139% of the shear moduli). In both Al and Cu, the structural relaxations reduce the ideal shear strengths by 35% to 45%, but the directions of relaxation strain in each are qualitatively different."
+            ],
+            [
+                [
+                    "roundyd@physics.oregonstate.edu"
+                ]
+            ]
+        ]
+    ]
+}

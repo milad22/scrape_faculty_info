@@ -1,0 +1,127 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "ZEDUm5UAAAAJ",
+            "Jean Tirole",
+            "Professor of Economics, Toulouse School of Economics",
+            "@tse-fr.eu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=ZEDUm5UAAAAJ",
+            198671,
+            [
+                "Industrial Organization",
+                "Finance",
+                "Psychology",
+                "Macroeconomics"
+            ],
+            50839,
+            144,
+            90,
+            326,
+            223,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"XCo4OfoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Drew Fudenberg",
+                    "affiliation":"MIT"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"7S_1xP8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mathias Dewatripont",
+                    "affiliation":"Professor of Economics, Universit\u00e9 libre de Bruxelles"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"8mQJTxIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Paul Joskow",
+                    "affiliation":"Professor of Economics, Emeritus MIT; President, Emeritus Alfred P. Sloan Foundation"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fQuB-q0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David Knudsen Levine",
+                    "affiliation":"Professor of Economics and RSCAS, European University Institute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"VZkUirwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Parag Pathak",
+                    "affiliation":"MIT Economics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"5qRHOKAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Xavier Freixas",
+                    "affiliation":"Professor of Financial Economics, Universitat Pompeu Fabra, Department of Economics and CEPR"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"gadgSR4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"E. Glen Weyl",
+                    "affiliation":"Political Economist and Social Technologist at Microsoft Office of the Chief Technology Officer"
+                }
+            ]
+        ]
+    ]
+}

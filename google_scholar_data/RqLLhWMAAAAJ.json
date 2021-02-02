@@ -1,0 +1,88 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "RqLLhWMAAAAJ",
+            "Stephen Ford Pate",
+            "Professor of Physics, New Mexico State University",
+            "@nmsu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=RqLLhWMAAAAJ",
+            44313,
+            [
+                "high energy nuclear and particle physics"
+            ],
+            11868,
+            110,
+            58,
+            269,
+            205,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"lwSyXPQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Abhay Deshpande",
+                    "affiliation":"Stony Brook University, BNL, RBRC, Yale University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Hhm1xLIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"W.A. Zajc",
+                    "affiliation":"I.I. Rabi Professor of Physics, Columbia University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"sqbf-G8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Paul E Reimer",
+                    "affiliation":"Argonne National Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"-kDejCYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kun Liu",
+                    "affiliation":"Los Alamos National Laboratory"
+                }
+            ]
+        ]
+    ]
+}

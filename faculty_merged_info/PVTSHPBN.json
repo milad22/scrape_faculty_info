@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "PVTSHPBN",
+            "IcW1vJEAAAAJ",
+            [
+                "Technology probes: inspiring design for and with families",
+                "Human computation: a survey and taxonomy of a growing field",
+                "Pad++ a zooming graphical interface for exploring alternate interface physics",
+                "A review of overview+ detail, zooming, and focus+ context interfaces",
+                "Ordered and quantum treemaps: Making effective use of 2D space to display hierarchies",
+                "Single display groupware: a model for co-present collaboration",
+                "PhotoMesa: a zoomable image browser using quantum treemaps and bubblemaps",
+                "Automatic thumbnail cropping and its effectiveness",
+                "Spacetree: Supporting exploration in large node link tree, design evolution and empirical evaluation",
+                "Space-scale diagrams: Understanding multiscale interfaces"
+            ],
+            [
+                "We describe a new method for use in the process of co-designing technologies with users called technology probes. Technology probes are simple, flexible, adaptable technologies with three interdisciplinary goals: the social science goal of understanding the needs and desires of users in a real-world setting, the engineering goal of field-testing the technology, and the design goal of inspiring users and researchers to think about new technologies. We present the results of designing and deploying two technology probes, the messageProbe and the videoProbe, with diverse families in France, Sweden, and the US We conclude with our plans for creating new technologies for and with families based on our experiences.",
+                "The rapid growth of human computation within research and industry has produced many novel ideas aimed at organizing web users to do great things. However, the growth is not adequately supported by a framework with which to understand each new system in the context of the old. We classify human computation systems to help identify parallels between different systems and reveal\" holes\" in the existing work as opportunities for new research. Since human computation is often confused with\" crowdsourcing\" and other terms, we explore the position of human computation with respect to these related topics.",
+                "We describe the current status of Pad++, a zooming graphical interface that we are exploring as an alternative to traditional window and icon-based approaches to interface design. We discuss the motivation for Pad++, describe the implementation, and present prototype applications. In addition, we introduce an informational physics strategy for interface design and briefly compare it with metaphor-based design strategies.",
+                "There are many interface schemes that allow users to work at, and move between, focused and contextual views of a dataset. We review and categorize these schemes according to the interface mechanisms used to separate and blend views. The four approaches are overview+detail, which uses a spatial separation between focused and contextual views; zooming, which uses a temporal separation; focus+context, which minimizes the seam between views by displaying the focus within the context; and cue-based techniques which selectively highlight or suppress items within the information space. Critical features of these categories, and empirical evidence of their success, are discussed. The aim is to provide a succinct summary of the state-of-the-art, to illuminate both successful and unsuccessful interface strategies, and to identify potentially fruitful areas for further work.",
+                "Treemaps, a space-filling method for visualizing large hierarchical data sets, are receiving increasing attention. Several algorithms have been previously proposed to create more useful displays by controlling the aspect ratios of the rectangles that make up a treemap. While these algorithms do improve visibility of small items in a single layout, they introduce instability over time in the display of dynamically changing data, fail to preserve order of the underlying data, and create layouts that are difficult to visually search. In addition, continuous treemap algorithms are not suitable for displaying fixed-sized objects within them, such as images.This paper introduces a new \"strip\" treemap algorithm which addresses these shortcomings, and analyzes other \"pivot\" algorithms we recently developed showing the trade-offs between them. These ordered treemap algorithms ensure that items near each other in the given order \u2026",
+                "We introduce a model for supporting collaborative work between people that are physically close to each other. We call this model Single Display Groupware (SDG). In this paper, we describe the model, comparing it to more traditional remote collaboration, We describe the requirements that SDG places on computer technology, and our understanding of the benefits and costs of SDG systems. Finally, we describe a prototype SDG system that we built and the results of a usability test we ran with 60 elementary school children.",
+                "PhotoMesa is a zoomable image browser that uses a novel treemap algorithm to present large numbers of images grouped by directory, or other available metadata. It uses a new interaction technique for zoomable user interfaces designed for novices and family use that makes it straightforward to navigate through the space of images, and impossible to get lost. PhotoMesa groups images using one of two new algorithms that lay out groups of objects in a 2D space-filling manner. Quantum treemaps are designed for laying out images or other objects of indivisible (quantum) size. They are a variation on existing treemap algorithms in that they guarantee that every generated rectangle will have a width and height that are an integral multiple of an input object size. Bubblemaps also fill space with groups of quantum-sized objects, but generate non-rectangular blobs, and utilize space more efficiently.",
+                "Thumbnail images provide users of image retrieval and browsing systems with a method for quickly scanning large numbers of images. Recognizing the objects in an image is important in many retrieval tasks, but thumbnails generated by shrinking the original image often render objects illegible. We study the ability of computer vision systems to detect key components of images so that automated cropping, prior to shrinking, can render objects more recognizable. We evaluate automatic cropping techniques 1) based on a general method that detects salient portions of images, and 2) based on automatic face detection. Our user study shows that these methods result in small thumbnails that are substantially more recognizable and easier to find in the context of visual search.",
+                "We present a novel tree browser that builds on the conventional node link tree diagrams. It adds dynamic rescaling of branches of the tree to best fit the available screen space, optimized camera movement, and the use of preview icons summarizing the topology of the branches that cannot be expanded. In addition, it includes integrated search and filter functions. This paper reflects on the evolution of the design and highlights the principles that emerged from it. A controlled experiment showed benefits for navigation to already previously visited nodes and estimation of overall tree topology.",
+                "Big information worlds cause big problems for interfaces. There is too much to see. They are hard to navigate. An armada of techniques has been proposed to present the many scales of information needed. Space-scale diagrams provide an analytic framework for much of this work. By representing both a spatial world and its different magnifications explicitly, the diagrams allow the direct visualization and analysis of important scale related issues for interfaces."
+            ],
+            [
+                [
+                    "Human-Computer Interaction"
+                ]
+            ]
+        ]
+    ]
+}

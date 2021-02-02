@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "This paper presents a method for extracting distinctive invariant features from images that can be used to perform reliable matching between different views of an object or scene. The features are invariant to image scale and rotation, and are shown to provide robust matching across a substantial range of affine distortion, change in 3D viewpoint, addition of noise, and change in illumination. The features are highly distinctive, in the sense that a single feature can be correctly matched with high probability against a large database of features from many images. This paper also describes an approach to using these features for object recognition. The recognition proceeds by matching individual features to a database of features from known objects using a fast nearest-neighbor algorithm, followed by a Hough transform to identify clusters belonging to a single object, and finally performing verification through \u2026",
+            "Distinctive image features from scale-invariant keypoints",
+            "David G Lowe",
+            "2004",
+            "8vs5HGYAAAAJ:u_35RYKgDlwC",
+            60986,
+            "https:\/\/link.springer.com\/article\/10.1023\/B:VISI.0000029664.99615.94",
+            "10619682942437794769",
+            "\/scholar?cites=10619682942437794769",
+            {
+                "2004":187,
+                "2005":509,
+                "2006":999,
+                "2007":1585,
+                "2008":2237,
+                "2009":3041,
+                "2010":3865,
+                "2011":4224,
+                "2012":4631,
+                "2013":5072,
+                "2014":5471,
+                "2015":5497,
+                "2016":5317,
+                "2017":4872,
+                "2018":4454,
+                "2019":4346,
+                "2020":3670,
+                "2021":170
+            }
+        ]
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "K0KCPT10",
+            "RAGiAS0AAAAJ",
+            [
+                "FIRE-2 simulations: physics versus numerics in galaxy formation",
+                "The case for a directional dark matter detector and the status of current experimental efforts"
+            ],
+            [
+                "The Feedback In Realistic Environments (FIRE) project explores feedback in cosmological galaxy formation simulations. Previous FIRE simulations used an identical source code (\u2018FIRE-1\u2019) for consistency. Motivated by the development of more accurate numerics \u2013 including hydrodynamic solvers, gravitational softening, and supernova coupling algorithms \u2013 and exploration of new physics (e.g. magnetic fields), we introduce \u2018FIRE-2\u2019, an updated numerical implementation of FIRE physics for the gizmo code. We run a suite of simulations and compare against FIRE-1: overall, FIRE-2 improvements do not qualitatively change galaxy-scale properties. We pursue an extensive study of numerics versus physics. Details of the star formation algorithm, cooling physics, and chemistry have weak effects provided that we include metal-line cooling and star formation occurs at higher-than-mean densities. We present new \u2026",
+                "We present the case for a dark matter detector with directional sensitivity. This document was developed at the 2009 CYGNUS workshop on directional dark matter detection, and contains contributions from theorists and experimental groups in the field. We describe the need for a dark matter detector with directional sensitivity; each directional dark matter experiment presents their project's status; and we close with a feasibility study for scaling up to a one ton directional detector, which would cost around $150M."
+            ],
+            [
+                [
+                    "Dynamics of tidal streams",
+                    "tests of dark matter",
+                    "accreted stellar halos of galaxies"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "zaB5fpYAAAAJ",
+            "Andrea Isella",
+            "Rice University",
+            "@rice.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=zaB5fpYAAAAJ",
+            7888,
+            [
+                "Astronomy"
+            ],
+            6038,
+            50,
+            43,
+            94,
+            89,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"dJm60ZoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sean Andrews",
+                    "affiliation":"Astrophysicist, Harvard-Smithsonian Center for Astrophysics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"MPPVnagAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Leslie Looney",
+                    "affiliation":"Professor of Astronomy, University of Illinois"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"5H2coQsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Carsten Dominik",
+                    "affiliation":"University of Amsterdam"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"zb4ht5wAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jean-Philippe Berger",
+                    "affiliation":"Institut de Plan\u00e9tologie et d'Astrophysique - Universit\u00e9 Grenoble Alpes - CNRS"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"st12POIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Konstantinos Tassis",
+                    "affiliation":"Associate Professor of Physics, University of Crete & IA-FORTH"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"4DfZdvEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Romain G. Petrov",
+                    "affiliation":"Lagrange Laboratory, Universit\u00e9 de la C\u00f4te d'Azur, CNRS, Observatoire de la C\u00f4te d'Azur"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"hTiBRIkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jonathan Williams",
+                    "affiliation":"Astronomer, Institute for Astronomy, University of Hawaii"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"HeWCC50AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Chunhua Qi",
+                    "affiliation":"Astronomer, Harvard-Smithsonian Center for Astrophysics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"pjFijAkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ke Zhang",
+                    "affiliation":"Assistant Professor at University of Wisconsin-Madison"
+                }
+            ]
+        ]
+    ]
+}

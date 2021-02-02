@@ -1,0 +1,160 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "sAKeesgAAAAJ",
+            "Andrew MacFadyen",
+            "New York University",
+            "@nyu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=sAKeesgAAAAJ",
+            10325,
+            [
+                "Astrophysics"
+            ],
+            4372,
+            50,
+            39,
+            81,
+            69,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"4TNiiQQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Paul Duffell",
+                    "affiliation":"Postdoctoral Fellow, Center for Astrophysics | Harvard & Smithsonian"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"v8TpB8kAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Zoltan Haiman",
+                    "affiliation":"Columbia University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"QjcSnMcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hendrik Van Eerten",
+                    "affiliation":"Alexander von Humboldt fellow, Max-Planck Institute for extraterrestrial Physics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3agMnKAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Weiqun Zhang",
+                    "affiliation":"Lawrence Berkeley National Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"zLoS7R4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Daniel D'Orazio",
+                    "affiliation":"NASA Einstein Postdoctoral Fellow, Harvard University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"UgyNAFMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alexander Heger",
+                    "affiliation":"School of Physics and Astronomy, Monash University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"q0JW9ZUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Xiaoyi Xie",
+                    "affiliation":"University of Southampton"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"NZcmYKMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dmitri Uzdensky",
+                    "affiliation":"University of Colorado Boulder"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"XuoNdzAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Geoffrey Ryan",
+                    "affiliation":"University of Maryland"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"96iYoq4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Rosalba Perna",
+                    "affiliation":"Department of Physics and Astronomy, Stony Brook University"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "_Z771SwAAAAJ",
+            "Renata Szczepaniak",
+            "Adam Mickiewicz University, Pozna\u0144, Poland",
+            "@wa.amu.edu.pl",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=_Z771SwAAAAJ",
+            114,
+            [
+                "lexicography",
+                "lexical semantics",
+                "phraseology"
+            ],
+            69,
+            4,
+            4,
+            2,
+            1,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"QFsb1zoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Robert Lew",
+                    "affiliation":"Faculty of English, Adam Mickiewicz University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"jGyxj-AAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Arleta Adamska-Sa\u0142aciak",
+                    "affiliation":"Professor of Linguistics, Adam Mickiewicz University, Pozna\u0144, Poland"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"QwvKaq8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Grzegorz Krynicki",
+                    "affiliation":"assistant professor, Adam Mickiewicz University"
+                }
+            ]
+        ]
+    ]
+}

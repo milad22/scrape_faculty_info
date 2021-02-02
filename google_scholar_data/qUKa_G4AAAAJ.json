@@ -1,0 +1,137 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "qUKa_G4AAAAJ",
+            "Carsten Rott",
+            "Sungkyunkwan University",
+            "@physics.utah.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=qUKa_G4AAAAJ",
+            58899,
+            [
+                "Experimental Particle Physics",
+                "Neutrino Astroparticle Physics"
+            ],
+            27171,
+            106,
+            68,
+            317,
+            202,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"iU6WRe8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"John F. Beacom",
+                    "affiliation":"Professor of Physics, Professor of Astronomy, and Director of CCAPP, Ohio State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"UKQUorEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"daniela bortoletto",
+                    "affiliation":"Professor of Physics, University of Oxford"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"cCAGgZsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yoshitaka Itow",
+                    "affiliation":"ISEE\/KMI Nagoya University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"gxtFjQsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kenny C. Y. Ng",
+                    "affiliation":"Assistant Professor, The Chinese University of Hong Kong"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"KNXAqg8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Annika Peter",
+                    "affiliation":"The Ohio State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"-1Fa6n0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Seong Chan Park",
+                    "affiliation":"Yonsei University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"kRELzggAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michael A. DuVernois",
+                    "affiliation":"Physics & WIPAC, University of Wisconsin--Madison"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"tTNPXRsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Francis Halzen",
+                    "affiliation":"Professor of Physics, University of Wisconsin"
+                }
+            ]
+        ]
+    ]
+}

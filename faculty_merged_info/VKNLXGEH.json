@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "VKNLXGEH",
+            "l8Q5dlwAAAAJ",
+            [
+                "Distortionless enhancement of NMR signals by polarization transfer",
+                "Phase properties of the quantized single-mode electromagnetic field",
+                "Unitary phase operator in quantum mechanics",
+                "On the Hermitian optical phase operator",
+                "Proton\u2010polarization transfer enhancement of a heteronuclear spin multiplet with preservation of phase coherency and relative component intensities",
+                "Optical state truncation by projection synthesis",
+                "Assignment of proton-decoupled carbon-13 spectra of complex molecules by using polarization transfer spectroscopy. A superior method to off-resonance decoupling",
+                "Phase in quantum optics",
+                "Editing of carbon-13 NMR spectra. 1. A pulse sequence for the generation of subspectra",
+                "Quantum optical phase"
+            ],
+            [
+                "13C;[xl 7r\\acquire and note the following characteristics of the DEPT sequence.(a) CH carbon signals exhibit maximum enhancement of yu\/yc at 8= 7r\/2, CH2 carbons exhibit a maximum enhancement at 0= a\/4, and CH3 carbons a maximum enhancement of 1.1 5yu\/yc at 0= 0.196 x, respectively.(b) For coupled spectra, peak intensities are observed with their characteristic normal ratio and the lines have the same phases as in the normal FT spectrum. For example, a CH3 (1: 3: 3: 1) quartet becomes an enhanced 1: 3: 3: 1 quartet, as shown in Fig. 1. The enhancement can be varied uniformly, ie, the same for each line within a multiple& by adjusting 8.(c) The variation with B for CH, CH2, and CH3 have the following mathematical dependencies: sin 0 for CH; sin 28 for CH2; and sin 8+ sin 319 for CH3. As a consequence, CH2 and CH3 signals are zero when 8= 7r\/2 and CH2 signals are inverted by changing 0 from 7r \u2026",
+                "The usual mathematical model of the single-mode electromagnetic field is the harmonic oscillator with an infinite-dimensional state space, which unfortunately cannot accommodate the existence of a Hermitian phase operator. Recently we indicated that this difficulty may be circumvented by using an alternative, and physically indistinguishable, mathematical model of the single-mode field involving a finite but arbitrarily large state space, the dimension of which is allowed to tend to infinity after physically measurable results, such as expectation values, are calculated. In this paper we investigate the properties of a Hermitian phase operator which follows directly and uniquely from the form of the phase states in this space and find them to be well behaved. The phase-number commutator is not subject to the difficulties inherent in Dirac\u2019s original commutator, but still preserves the commutator\u2013Poisson-bracket \u2026",
+                "The difficulties in formulating a natural and simple operator description of the phase of a quantum oscillator or single-mode electromagnetic field have been known for some time. We present a unitary phase operator whose eigenstates are well-defined phase states and whose properties coincide with those normally associated with a phase. The corresponding phase eigenvalues form only a dense subset of the real numbers. A natural extension to the definition of a time-measurement operator yields a corresponding countable infinity of eigenvalues.",
+                "It has long been believed that no Hermitian optical phase operator exists. However, such an operator can be constructed from the phase states. We demonstrate that its properties are precisely in accord with the results of semiclassical and phenomenological approaches when such approximate methods are valid. We find that the number-phase commutator differs from that originally postulated by Dirac. This difference allows the consistent use of the commutator for inherently quantum states. It also leads to the correct periodic phase behaviour of the Poisson bracket in the classical regime.",
+                "The DEPT pulse sequence (\u03c0\/2)(H,y)\u2212(2J)\u22121\u2212\u03c0(H), (\u03c0\/2)(C,x)\u2212(2J)\u22121 \u2212\u03d1(H,x)\u03c0(C)\u2212(2J)\u22121\u2212(acquire 13C) is analyzed theoretically for a variable \u03d1 pulse for three spin systems: CH, CH2, and CH3. It is shown that the pulse train produces an enhanced distortion\u2010free 13C signal which has the following characteristics: (a) there is phase coherency within and between the components of the 13C multiplets; (b) the enhancements vary with \u03d1 as (\u03b3H\/\u03b3C)sin\u2009\u03d1 for CH, (\u03b3H\/\u03b3C)sin\u20092\u03d1 for CH2, and (3\u03b3H\/4\u03b3C) (sin\u2009\u03d1+sin 3\u03d1) for CH3. Experimental evidence is provided for these predictions. An important application of the DEPT pulse train is for the generation of both individual proton\u2010coupled and proton\u2010decoupled 13C methine (CH), methylene (CH2), and methyl (CH3) subspectra. This can be readily achieved by forming suitable combinations of DEPT spectra determined at \u03d1 = (\u03c0\/4), (\u03c0\/2), and (3\u03c0\/4). Such spectral editing \u2026",
+                "We show how the number-state expansion of an optical state can be truncated so as to leave only its vacuum and one photon components. This can be achieved using a \u201cquantum scissors\u201d device, the operation of which relies on a nonlocal quantum effect.",
+                "Figure 2.(A) Normal FT spectrum.(B) PT spectrum with~(47)'.(C) PT spectrum with(27)'.(D) PT spectrum with 3 (47)-1.(E) Off-resonance decoupled spectrum, 4000 pulses with carrier frequency set 3500-Hz upfield. combined with a suitable value can now be used to either remove doublet, the initially opposed carbon spins precess in the rotating resonances or change their relative phases, depending on the carbon frame at rates J\/2 and-7\/2, corresponding to a eigenvalue of type. the proton spin in the particular molecule, and yielding, on proton We note the following during the delay period:(a) for a CH decoupling, a zero signal at= 0 and 1\/7 and a maximum at",
+                "Dirac's prescription for quantisation does not lead to a unique phase operator for the electromagnetic field. The authors consider the commonly employed phase operators due to Susskind and Glogower (1964) and their extension to unitary exponential phase operators. However, they find that phase measuring experiments respond to a different operator. They discuss the form of the measured phase operator and its properties.",
+                "The key to the mechanism of this sequence, illustrated in Figure1, is the judicious use of the ir [H; l, 0] refocusing pulse,[1, 0], signifying that thepulse is applied for alternate scans only. Figure ld, i illustrates the outcome of the sequence for a CH and CH2 group, respectively, at the point at which the decoupling field is introduced, for scans in which the ir [H] pulse is omitted, and Figure lej illustrates the outcome for scans in which a ir [H] pulse is used. For a CH3 group (not illustrated [it can beeasily shown that the variouscarbon vectors are refocused along the y or-y axis as for a CH group in Figure ld, e. Assuming proton coupling is small, quaternary carbons are unaffected by the sequence except that precession due to chemical shift and field inhomogeneity is refocused back to the y axis as for a CH2 group in Figure li, j. From Figure ld, e, ij it is clear that alternate use of the tt [H] pulse and additionof alternate scans \u2026",
+                "The phase associated with a single mode of the electromagnetic field is complementary to the photon number. This simple idea leads us to construct a probability density for the phase. The phase operator cannot be represented exactly in the usual-infinite Hilbert space but can be constructed in a subspace of it and provides a valid representation of phase if used together with a suitable limiting procedure. We introduce the Hermitian optical phase operator and describe some of its most important properties. We also provide brief discussions of some alternative approaches to the phase problem and to the question of phase measurements. The paper concludes with an extensive bibliography."
+            ],
+            [
+                [
+                    "Quantum physics",
+                    "Cosmology",
+                    "Nuclear Magnetic Resonance",
+                    "Time"
+                ]
+            ]
+        ]
+    ]
+}

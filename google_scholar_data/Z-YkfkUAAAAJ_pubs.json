@@ -1,0 +1,167 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ],
+    "data":[
+        [
+            "The flow-equation method was proposed by Wegner as a technique for studying interacting systems in one dimension. Here, we apply this method to a disordered one-dimensional model with power-law decaying hoppings. This model presents a transition as function of the decaying exponent \u03b1. We derive the flow equations and the evolution of single-particle operators. The flow equation reveals the delocalized nature of the states for \u03b1< 1 2. Additionally, in the regime \u03b1> 1 2, we present a strong-bond renormalization group structure based on iterating the three-site clusters, where we solve the flow equations perturbatively. This renormalization group approach allows us to probe the critical point \u03b1= 1. This method correctly reproduces the critical level-spacing statistics and the fractal dimensionality of the eigenfunctions.",
+            "Localization transition in one dimension using Wegner flow equations",
+            "Victor L Quito and Paraj Titum and David Pekker and Gil Refael",
+            "2016",
+            "Z-YkfkUAAAAJ:d1gkVwhDpl0C",
+            21,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.94.104202",
+            "18374322076233618253",
+            "\/scholar?cites=18374322076233618253",
+            {
+                "2016":1,
+                "2017":7,
+                "2018":5,
+                "2019":1,
+                "2020":7
+            }
+        ],
+        [
+            "We show that generic SU (2)-invariant random spin-1 chains have phases with an emergent SU (3) symmetry. We map out the full zero-temperature phase diagram and identify two different phases:(i) a conventional random-singlet phase (RSP) of strongly bound spin pairs [SU (3)\u201cmesons\u201d] and (ii) an unconventional RSP of bound SU (3)\u201cbaryons,\u201d which are formed, in the great majority, by spin trios located at random positions. The emergent SU (3) symmetry dictates that susceptibilities and correlation functions of both dipolar and quadrupolar spin operators have the same asymptotic behavior.",
+            "Emergent SU (3) symmetry in random spin-1 chains",
+            "VL Quito and Jos\u00e9 A Hoyos and Eduardo Miranda",
+            "2015",
+            "Z-YkfkUAAAAJ:u5HHmVD_uO8C",
+            16,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.115.167201",
+            "13278059139290372950",
+            "\/scholar?cites=13278059139290372950",
+            {
+                "2015":1,
+                "2016":3,
+                "2017":2,
+                "2018":4,
+                "2019":4,
+                "2020":2
+            }
+        ],
+        [
+            "Recently, a new group of layered transition-metal tetra-chalcogenides was proposed via first-principles calculations to correspond to a new family of Weyl type-II semimetals with promising topological properties in the bulk as well as in the monolayer limit. In this paper, we present measurements of the Shubnikov-de Haas (SdH) and de Haas-van Alphen effects under high magnetic fields for the type-II Weyl semimetallic candidate NbIrTe 4. We find that the angular dependence of the observed Fermi surface extremal cross-sectional areas agree well with our density functional theory (DFT) calculations supporting the existence of Weyl type-II points in this material. Although we observe a large and nonsaturating magnetoresistivity in NbIrTe 4 under fields all the way up to 35 T, Hall-effect measurements indicate that NbIrTe 4 is not a compensated semimetal. The transverse magnetoresistivity displays a fourfold angular \u2026",
+            "Bulk Fermi surface of the Weyl type-II semimetallic candidate ",
+            "Rico Sch\u00f6nemann and Yu-Che Chiu and Wenkai Zheng and Victor L Quito and Shouvik Sur and Gregory T McCandless and Julia Y Chan and Luis Balicas",
+            "2019",
+            "Z-YkfkUAAAAJ:Se3iqnhoufwC",
+            7,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.99.195128",
+            "6112328962192421862",
+            "\/scholar?cites=6112328962192421862",
+            {
+                "2019":3,
+                "2020":4
+            }
+        ],
+        [
+            "We study the low-energy physics of a broad class of time-reversal invariant and SU (2)-symmetric one-dimensional spin-S systems in the presence of quenched disorder via a strong-disorder renormalization-group technique. We show that, in general, there is an antiferromagnetic phase with an emergent SU (2 S+ 1) symmetry. The ground state of this phase is a random singlet state in which the singlets are formed by pairs of spins. For integer spins, there is an additional antiferromagnetic phase which does not exhibit any emergent symmetry (except for S= 1). The corresponding ground state is a random singlet one but the singlets are formed mostly by trios of spins. In each case the corresponding low-energy dynamics is activated, ie, with a formally infinite dynamical exponent, and related to distinct infinite-randomness fixed points. The phase diagram has two other phases with ferromagnetic tendencies: a \u2026",
+            "Random SU (2)-symmetric spin chains",
+            "VL Quito and Jos\u00e9 A Hoyos and E Miranda",
+            "2016",
+            "Z-YkfkUAAAAJ:u-x6o8ySG0sC",
+            6,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.94.064405",
+            "11769688223457829500",
+            "\/scholar?cites=11769688223457829500",
+            {
+                "2016":1,
+                "2017":1,
+                "2018":2,
+                "2019":2
+            }
+        ],
+        [
+            "Strongly disordered spin chains invariant under the SO(N) group are shown to display random-singlet phases with emergent SU(N) symmetry without fine tuning. The phases with emergent SU(N) symmetry are of two kinds: one has a ground state formed of randomly distributed singlets of strongly bound pairs of SO(N) spins (a \u2018mesonic\u2019 phase), while the other has a ground state composed of singlets made out of strongly bound integer multiples of N SO(N) spins (a \u2018baryonic\u2019 phase). The established mechanism is general and we put forward the cases of N = 2, 3, 4 and 6 as prime candidates for experimental realizations in material compounds and cold-atoms systems. We display universal temperature scaling and critical exponents for susceptibilities distinguishing these phases and characterizing the enlarging of the microscopic symmetries at low energies. ",
+            "Emergent SU (N) symmetry in disordered SO (N) spin chains",
+            "VL Quito and Pedro LS Lopes and Jos\u00e9 A Hoyos and E Miranda",
+            "2020",
+            "Z-YkfkUAAAAJ:zYLM7Y9cAGgC",
+            3,
+            "https:\/\/link.springer.com\/article\/10.1140\/epjb\/e2019-100576-6",
+            "6643435966636553961",
+            "\/scholar?cites=6643435966636553961",
+            {
+                "2020":3
+            }
+        ],
+        [
+            "The interplay of disorder and interactions is a challenging topic of condensed matter physics, where correlations are crucial and exotic phases develop. In one spatial dimension, a particularly successful method to analyze such problems is the strong-disorder renormalization group (SDRG). This method, which is asymptotically exact in the limit of large disorder, has been successfully employed in the study of several phases of random magnetic chains. Here we develop an SDRG scheme capable of providing in-depth information on a large class of strongly disordered one-dimensional magnetic chains with a global invariance under a generic continuous group. Our methodology can be applied to any Lie-algebra valued spin Hamiltonian, in any representation. As examples, we focus on the physically relevant cases of SO (N) and Sp (N) magnetism, showing the existence of different randomness-dominated phases \u2026",
+            "Highly symmetric random one-dimensional spin models",
+            "VL Quito and Pedro LS Lopes and Jos\u00e9 A Hoyos and E Miranda",
+            "2019",
+            "Z-YkfkUAAAAJ:Tyk-4Ss8FVUC",
+            3,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.100.224407",
+            "4818540471236172274",
+            "\/scholar?cites=4818540471236172274",
+            {
+                "2018":1,
+                "2019":2
+            }
+        ],
+        [
+            "At a fixed magnetic filling fraction, fractional quantum Hall states may display a plethora of interaction-induced competing phases. Effective Chern-Simons theories have suggested the existence of multiple interaction-induced short-range entangled phases also at integer quantum Hall plateaus. Among these, a bosonic phase has been proposed with edge modes carrying representations based on the E 8 exceptional Lie algebra. Through a theoretical coupled-wire construction, we provide an explicit microscopic model for this E 8 Abelian quantum Hall state, at filling \u03bd= 16, and discuss how it is intimately related to topological paramagnets in 3+ 1 dimensions. Still using coupled wires, we partition the E 8 state into a pair of non-Abelian, long-range entangled states. These two states occur at filling \u03bd= 8, demonstrating that even topological order may also exist at integer Hall plateaus. These phases are bosonic, carry \u2026",
+            "A non-Abelian twist to integer quantum Hall states",
+            "Pedro LS Lopes and Victor L Quito and Bo Han and Jeffrey CY Teo",
+            "2019",
+            "Z-YkfkUAAAAJ:ufrVoPGSRksC",
+            3,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.100.085116",
+            "11129190118461841565",
+            "\/scholar?cites=11129190118461841565",
+            {
+                "2020":3
+            }
+        ],
+        [
+            "We report a study on the magnetotransport properties and on the Fermi surfaces (FS) of ZrSi (Se, Te) semimetals. Density-functional theory (DFT) calculations, in absence of spin orbit coupling (SOC), reveal that both the Se and the Te compounds display Dirac nodal lines (DNL) close to the Fermi level \u025b F at symmorphic and nonsymmorphic positions, respectively. We find that the geometry of their FSs agrees well with DFT predictions. ZrSiSe displays low residual resistivities, pronounced magnetoresistivity, high carrier mobilities, and a butterflylike angle-dependent magnetoresistivity (AMR), although its DNL is not protected against gap opening. As in Cd 3 As 2, its transport lifetime is found to be 10 2 to 10 3 times larger than its quantum one. ZrSiTe, which possesses a protected DNL, displays conventional transport properties. Our evaluation indicates that both compounds most likely are topologically trivial \u2026",
+            "Origin of the butterfly magnetoresistance in a Dirac nodal-line system",
+            "Y-C Chiu and K-W Chen and Rico Schoenemann and VL Quito and S Sur and Q Zhou and D Graf and E Kampert and T F\u00f6rster and K Yang and GT McCandless and Julia Y Chan and RE Baumbach and MD Johannes and L Balicas",
+            "2019",
+            "Z-YkfkUAAAAJ:roLk4NBRz8UC",
+            1,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.100.125112",
+            "93442818016440523",
+            "\/scholar?cites=93442818016440523",
+            {
+                "2020":1
+            }
+        ],
+        [
+            "Motivated by neutral excitations in disordered electronic materials and systems of trapped ultracold particles with long-range interactions, we study energy-level statistics of quasiparticles with the power-law hopping Hamiltonian\u221d 1\/r \u03b1 in a strong random potential. In solid-state systems such quasiparticles, which are exemplified by neutral dipolar excitations, lead to long-range correlations of local observables and may dominate energy transport. Focusing on the excitations in disordered electronic systems, we compute the energy-level correlation function R 2 (\u03c9) in a finite system in the limit of sufficiently strong disorder. At small energy differences, the correlations exhibit Wigner-Dyson statistics. In particular, in the limit of very strong disorder the energy-level correlation function is given by R 2 (\u03c9, V)= A 3 \u03c9 \u03c9 V for small frequencies \u03c9\u226a \u03c9 V and R 2 (\u03c9, V)= 1\u2212(\u03b1\u2212 d) A 1 \u03c9 V \u03c9 d \u03b1\u2212 A 2 \u03c9 V \u03c9 2 for large frequencies \u2026",
+            "Energy-level statistics in strongly disordered systems with power-law hopping",
+            "Paraj Titum and Victor L. Quito and Sergey V. Syzranov",
+            "2018",
+            "Z-YkfkUAAAAJ:WF5omc3nYNoC",
+            1,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.98.014201",
+            "5559584628754206845",
+            "\/scholar?cites=5559584628754206845",
+            {
+                "2019":1
+            }
+        ]
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "Model building and data analysis in the biological sciences somewhat presupposes that the person has some advanced education in the quantitative sciences, and statistics in particular. This requirement also implies that a person has substantial knowledge of statistical hypothesis-testing approaches. Such people, including ourselves over the past several years, often find it difficult to understand the information-theoretic approach, only because it is conceptually so very different from the testing approach that is so familiar. Relatively speaking, the concepts and practical use of the information-theoretic approach are much simpler than those of statistical hypothesis testing, and very much simpler than some of the various Bayesian approaches to data analysis (e.g., Laud and Ibrahim 1995 and Carlin and Chib 1995).",
+            "Practical use of the information-theoretic approach",
+            "Kenneth P Burnham and David R Anderson",
+            "1998",
+            "Q166Sb4AAAAJ:9NZAP19TdFAC",
+            55809,
+            "https:\/\/link.springer.com\/chapter\/10.1007\/978-1-4757-2917-7_3",
+            "14459559319851391154",
+            "\/scholar?cites=14459559319851391154",
+            {
+                "2001":247,
+                "2002":416,
+                "2003":539,
+                "2004":815,
+                "2005":1047,
+                "2006":1453,
+                "2007":1823,
+                "2008":2141,
+                "2009":2309,
+                "2010":2574,
+                "2011":3045,
+                "2012":3518,
+                "2013":3798,
+                "2014":4308,
+                "2015":4464,
+                "2016":4535,
+                "2017":4439,
+                "2018":4449,
+                "2019":4490,
+                "2020":4612,
+                "2021":283
+            }
+        ],
+        [
+            "The model selection literature has been generally poor at reflecting the deep foundations of the Akaike information criterion (AIC) and at making appropriate comparisons to the Bayesian information criterion (BIC). There is a clear philosophy, a sound criterion based in information theory, and a rigorous statistical foundation for AIC. AIC can be justified as Bayesian using a \u201csavvy\u201d prior on models that is a function of sample size and the number of model parameters. Furthermore, BIC can be derived as a non-Bayesian result. Therefore, arguments about using AIC versus BIC for model selection cannot be from a Bayes versus frequentist perspective. The philosophical context of what is assumed about reality, approximating models, and the intent of model-based inference should determine whether AIC or BIC is used. Various facets of such multimodel inference are presented here, particularly methods of model \u2026",
+            "Multimodel inference: understanding AIC and BIC in model selection",
+            "Kenneth P Burnham and David R Anderson",
+            "2004",
+            "Q166Sb4AAAAJ:d1gkVwhDpl0C",
+            8379,
+            "https:\/\/journals.sagepub.com\/doi\/abs\/10.1177\/0049124104268644",
+            "12994210016568203176",
+            "\/scholar?cites=12994210016568203176",
+            {
+                "2006":71,
+                "2007":110,
+                "2008":185,
+                "2009":220,
+                "2010":271,
+                "2011":280,
+                "2012":360,
+                "2013":507,
+                "2014":612,
+                "2015":693,
+                "2016":805,
+                "2017":837,
+                "2018":938,
+                "2019":1041,
+                "2020":1274,
+                "2021":88
+            }
+        ]
+    ]
+}

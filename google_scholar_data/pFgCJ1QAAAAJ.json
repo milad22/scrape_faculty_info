@@ -1,0 +1,67 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "pFgCJ1QAAAAJ",
+            "Fahad Irfan Siddiqui",
+            "Assistant Professor, Mining Engineering Department, Mehran University",
+            "@faculty.muet.edu.pk",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=pFgCJ1QAAAAJ",
+            220,
+            [
+                "mining",
+                "rock mechanics",
+                "block modeling",
+                "geotechnical"
+            ],
+            164,
+            7,
+            7,
+            6,
+            6,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"0JFUOgMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Syed Baharom Syed Osman",
+                    "affiliation":"University Teknologi Petronas"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"X3wUWQ0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mehmet Ali Hindistan",
+                    "affiliation":"Assoc.Prof.Dr."
+                }
+            ]
+        ]
+    ]
+}

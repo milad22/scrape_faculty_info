@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "MK9R4G48",
+            "RSrCyzUAAAAJ",
+            [
+                "Complex thermoelectric materials",
+                "Enhancement of thermoelectric efficiency in PbTe by distortion of the electronic density of states",
+                "Zintl chemistry for designing high efficiency thermoelectric materials",
+                "Phonon engineering through crystal chemistry",
+                "High thermoelectric performance in PbTe due to large nanoscale Ag2Te precipitates and La doping",
+                "Characterization and analysis of thermoelectric transport in n-type Ba 8 Ga 16\u2212 x Ge 30+ x",
+                "Traversing the Metal\u2010Insulator Transition in a Zintl Phase: Rational Enhancement of Thermoelectric Efficiency in Yb14Mn1\u2212xAlxSb11",
+                "A high temperature apparatus for measurement of the Seebeck coefficient",
+                "Advances in thermal conductivity",
+                "Concentrated solar thermoelectric generators"
+            ],
+            [
+                "Thermoelectric materials, which can generate electricity from waste heat or be used as solid-state Peltier coolers, could play an important role in a global sustainable energy solution. Such a development is contingent on identifying materials with higher thermoelectric efficiency than available at present, which is a challenge owing to the conflicting combination of material traits that are required. Nevertheless,because of modern synthesis and characterization techniques, particularly for nanoscale materials, a new era of complex thermoelectric materials is approaching. We review recent advances in the field, highlighting the strategies used to improve the thermopower and reduce the thermal conductivity.",
+                "The efficiency of thermoelectric energy converters is limited by the material thermoelectric figure of merit (zT). The recent advances in zT based on nanostructures limiting the phonon heat conduction is nearing a fundamental limit: The thermal conductivity cannot be reduced below the amorphous limit. We explored enhancing the Seebeck coefficient through a distortion of the electronic density of states and report a successful implementation through the use of the thallium impurity levels in lead telluride (PbTe). Such band structure engineering results in a doubling of zT in p-type PbTe to above 1.5 at 773 kelvin. Use of this new physical principle in conjunction with nanostructuring to lower the thermal conductivity could further enhance zT and enable more widespread use of thermoelectric systems.",
+                "Zintl phases and related compounds are promising thermoelectric materials; for instance, high zT has been found in Yb14MnSb11, clathrates, and the filled skutterudites. The rich solid-state chemistry of Zintl phases enables numerous possibilities for chemical substitutions and structural modifications that allow the fundamental transport parameters (carrier concentration, mobility, effective mass, and lattice thermal conductivity) to be modified for improved thermoelectric performance. For example, free carrier concentration is determined by the valence imbalance using Zintl chemistry, thereby enabling the rational optimization of zT. The low thermal conductivity values obtained in Zintl thermoelectrics arise from a diverse range of sources, including point defect scattering and the low velocity of optical phonon modes. Despite their complex structures and chemistry, the transport properties of many modern \u2026",
+                "Mitigation of the global energy crisis requires tailoring the thermal conductivity of materials. Low thermal conductivity is critical in a broad range of energy conversion technologies, including thermoelectrics and thermal barrier coatings. Here, we review the chemical trends and explore the origins of low thermal conductivity in crystalline materials. A unifying feature in the latest materials is the incorporation of structural complexity to decrease the phonon velocity and increase scattering. With this understanding, strategies for combining these mechanisms can be formulated for designing new materials with exceptionally low thermal conductivity.",
+                "Thermoelectrics are being rapidly developed for waste heat recovery applications, particularly in automobiles, to reduce carbon emissions. PbTe\u2010based materials with small (<20 nm) nanoscale features have been previously shown to have high thermoelectric figure\u2010of\u2010merit, zT, largely arising from low lattice thermal conductivity particularly at low temperatures. Separating the various phonon scattering mechanisms and the electronic contribution to the thermal conductivity is a serious challenge to understanding, and further optimizing, these nanocomposites. Here we show that relatively large nanometer\u2010scale (50\u2013200 nm) Ag2Te precipitates in PbTe can be controlled according to the equilibrium phase diagram and these materials show intrinsic semiconductor behavior with high electrical resistivity, enabling direct measurement of the phonon thermal conductivity. This study provides direct evidence that even \u2026",
+                "The thermoelectric transport properties of polycrystalline, n-type Ba 8 Ga 16\u2212 x Ge 30+ x were characterized from 300 to 1000 K. The carrier density was found to vary precisely with the experimental x as expected from simple electron counting. The experimental data are analyzed within the framework of a single parabolic band model, which is found to accurately describe transport for the compositions of interest for thermoelectric application. The lattice thermal conductivity, calculated with a degeneracy adjusted Lorenz number, does not show a trend with composition and a value of\u223c 1 Wm\u2212 1 K\u2212 1 is observed at 300 K. A maximum figure of merit z T= 0.86 is obtained at 950 K, and the optimal doping level for thermoelectric application is predicted to be\u223c 2\u00d7 10 20 cm\u2212 3, which corresponds to Ba 8 Ga 15.75 Ge 30.25 by electron counting. An unexpected transition event is observed near 650 K, which results in a \u2026",
+                "For high temperature thermoelectric applications, Yb14MnSb11 has a maximum thermoelectric figure of merit (zT) of \u223c1.0 at 1273\u2009K. Such a high zT is found despite a carrier concentration that is higher than typical thermoelectric materials. Here, we reduce the carrier concentration with the discovery of a continuous transition between metallic Yb14MnSb11 and semiconducting Yb14AlSb11. Yb14Mn1\u2010xAlxSb11 forms a solid solution where the free carrier concentration gradually changes as expected from the Zintl valence formalism. Throughout this transition the electronic properties are found to obey a rigid band model with a band gap of 0.5\u2009eV and an effective mass of 3 me. As the carrier concentration decreases, an increase in the Seebeck coefficient is observed at the expense of an increased electrical resistivity. At the optimum carrier concentration, a maximum zT of 1.3 at 1223\u2009K is obtained, which is \u2026",
+                "A high temperature Seebeck coefficient measurement apparatus with various features to minimize typical sources of error is designed and built. Common sources of temperature and voltage measurement error are described and principles to overcome these are proposed. With these guiding principles, a high temperature Seebeck measurement apparatus with a uniaxial 4-point contact geometry is designed to operate from room temperature to over 1200 K. This instrument design is simple to operate, and suitable for bulk samples with a broad range of physical types and shapes.",
+                "This review discusses recent advances in materials engineering to control thermal conductivity. We begin by presenting theories of heat conduction for general material classes, focusing on common approximations and trends. Next, we discuss characterization techniques for measuring thermal conductivity and the underlying transport properties. Advanced materials at the frontiers of thermal transport, such as rattlers, complex unit cells, nanowires, and nanocomposites, are treated in depth using experimental data and theoretical predictions. The review closes by highlighting several promising areas for further development.",
+                "Solar thermoelectric generators (STEGs) are solid state heat engines that generate electricity from concentrated sunlight. In this paper, we develop a novel detailed balance model for STEGs and apply this model to both state-of-the-art and idealized materials. This model uses thermoelectric compatibility theory to provide analytic solutions to device efficiency in idealized materials with temperature-dependent properties. The results of this modeling allow us to predict maximum theoretical STEG efficiencies and suggest general design rules for STEGs. With today's materials, a STEG with an incident flux of 100 kW m\u22122 and a hot side temperature of 1000 \u00b0C could achieve 15.9% generator efficiency, making STEGs competitive with concentrated solar power plants. Future developments will depend on materials that can provide higher operating temperatures or higher material efficiency. For example, a STEG with zT \u2026"
+            ],
+            [
+                [
+                    "Thermoelectrics",
+                    "Photovoltaics",
+                    "Energy Storage",
+                    "Solid State Physics",
+                    "Thermal and Electrical Transport"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "JPS1R7ZU",
+            "kXox0EMAAAAJ",
+            [
+                "Dementia prevention, intervention, and care",
+                "Movement\u2010related effects in fMRI time\u2010series",
+                "Virtual in vivo interactive dissection of white matter fasciculi in the human brain",
+                "Putting brain training to the test",
+                "Persecutory delusions: a review and theoretical integration",
+                "Statistical methods of estimation and inference for functional MR image analysis"
+            ],
+            [
+                "Acting now on dementia prevention, intervention, and care will vastly improve living and dying for individuals with dementia and their families, and in doing so, will transform the future for society.",
+                "This paper concerns the spatial and intensity transformations that are required to adjust for the confounding effects of subject movement during functional MRI (fMRI) activation studies. An approach is presented that models, and removes, movement\u2010related artifacts from fMRI time\u2010series. This approach is predicated on the observation that movement\u2010related effects are extant even after perfect realignment. Movement\u2010related effects can be divided into those that are a function of position of the object in the frame of reference of the scanner and those that are due to movement in previous scans. This second component depends on the history of excitation experienced by spins in a small volume and consequent differences in local saturation. The spin excitation history thus will itself be a function of previous positions, suggesting an autoregression\u2010moving average model for the effects of previous displacements on \u2026",
+                "This work reports the use of diffusion tensor magnetic resonance tractography to visualize the three-dimensional (3D) structure of the major white matter fasciculi within living human brain. Specifically, we applied this technique to visualize in vivo (i) the superior longitudinal (arcuate) fasciculus, (ii) the inferior longitudinal fasciculus, (iii) the superior fronto-occipital (subcallosal) fasciculus, (iv) the inferior fronto-occipital fasciculus, (v) the uncinate fasciculus, (vi) the cingulum, (vii) the anterior commissure, (viii) the corpus callosum, (ix) the internal capsule, and (x) the fornix. These fasciculi were first isolated and were then interactively displayed as a 3D-rendered object. The virtual tract maps obtained in vivo using this approach were faithful to the classical descriptions of white matter anatomy that have previously been documented in postmortem studies. Since we have been able to interactively delineate and visualize \u2026",
+                "\u2018Brain training\u2019, or the goal of improved cognitive function through the regular use of computerized tests, is a multimillion-pound industry 1, yet in our view scientific evidence to support its efficacy is lacking. Modest effects have been reported in some studies of older individuals 2, 3 and preschool children 4, and video-game players outperform non-players on some tests of visual attention 5. However, the widely held belief that commercially available computerized brain-training programs improve general cognitive function in the wider population in our opinion lacks empirical support. The central question is not whether performance on cognitive tests can be improved by training, but rather, whether those benefits transfer to other untrained tasks or lead to any general improvement in the level of cognitive functioning. Here we report the results of a six-week online study in which 11,430 participants trained several times \u2026",
+                "Persecutory (paranoid) delusions are a frequently observed clinical phenomenon. In recent years, an increasing volume of research has attempted to explain these types of beliefs in terms of psychological mechanisms. Theories have emphasized early experience, perceptual abnormalities, motivational factors, and information-processing deficits. In this article we review relevant findings, including our own studies of the role of causal attributions and theory of mind deficits. We propose a new integrative model that builds on this work. The core of the model is an account of the way that causal attributions influence self-representations, which in turn influence future attributions: the attribution\u2013self-representation cycle. We argue that biases in this cycle cause negative events to be attributed to external agents and hence contribute to the building of a paranoid world view. These abnormalities are amenable to \u2026",
+                "Two questions arising In the analysis of functional magnetic resonance imaging (fMRI) data acquired during periodic sensory stimulation are: i) how to measure the experimentally determined effect in fMRI time series; and ii) how to decide whether an apparent effect is significant Our approach is first to fit a time series regression model, including sine and cosine terms at the (fundamental) frequency of experimental stimulation, by pseudogeneralized least squares (PGLS) at each pixel of an image. Sinusoidal modeling takes account of locally variable hemodynamic delay and dispersion, and PGLS fitting corrects for residual or endogenous autocorrelation in fMRI time series, to yield best unbiased estimates of the amplitudes of the sine and cosine terms at fundamental frequency; from these parameters the authors derive estimates of experimentally determined power and its standard error. Randomization testing is \u2026"
+            ],
+            [
+                [
+
+                ]
+            ]
+        ]
+    ]
+}

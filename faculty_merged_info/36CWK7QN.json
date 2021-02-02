@@ -1,0 +1,39 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "36CWK7QN",
+            "nxkFeowAAAAJ",
+            [
+                "Influence of polymer-pore interactions on translocation",
+                "Sequence dependence of DNA translocation through a nanopore",
+                "Polymer translocation through a nanopore induced by adsorption: Monte Carlo simulation of a coarse-grained model",
+                "Formation of block copolymer micelles in solution: A Monte Carlo study of chain length dependence",
+                "Unifying model of driven polymer translocation",
+                "Dynamical scaling exponents for polymer translocation through a nanopore"
+            ],
+            [
+                "We investigate the influence of polymer-pore interactions on the translocation dynamics using Langevin dynamics simulations. An attractive interaction can greatly improve the translocation probability. At the same time, it also increases the translocation time slowly for a weak attraction while an exponential dependence is observed for a strong attraction. For fixed driving force and chain length the histogram of translocation time has a transition from Gaussian distribution to long-tailed distribution with increasing attraction. Under a weak driving force and a strong attractive force, both the translocation time and the residence time in the pore show a nonmonotonic behavior as a function of the chain length. Our simulations results are in good agreement with recent experimental data.",
+                "We investigate the dynamics of DNA translocation through a nanopore using 2D Langevin dynamics simulations, focusing on the dependence of the translocation dynamics on the details of DNA sequences. The DNA molecules studied in this work are built from two types of bases A and C, which have been shown previously to have different interactions with the pore. We study DNA with repeating blocks A n C n for various values of n and find that the translocation time depends strongly on the block length 2 n as well as on the orientation of which base enters the pore first. Thus, we demonstrate that the measurement of translocation dynamics of DNA through a nanopore can yield detailed information about its structure. We have also found that the periodicity of the block sequences is contained in the periodicity of the residence time of the individual nucleotides inside the pore.",
+                "Dynamic Monte Carlo simulation of a bead-spring model of flexible macromolecules threading through a very narrow pore in a very thin rigid membrane are presented, assuming at the cis side of the membrane a purely repulsive monomer-wall interaction, while the trans side is attractive. Two choices of monomer-wall attraction \u03b5 are considered, one choice is slightly below and the other slightly above the \u201cmushroom to pancake\u201d adsorption threshold \u03b5c for an infinitely long chain. Studying chain lengths N=32, 64, 128, and 256 and varying the number of monomers Ntrans (time t=0) that have already passed the pore when the simulation started, over a wide range, we find for \u03b5<\u03b5c (nonadsorbing case) that the translocation probability varies proportional to ctrans=Ntrans(t=0)\/N for small ctrans, while for \u03b5>\u03b5c a finite number Ntrans(t=0) suffices that the translocation probability is close to unity. In the case \u03b5<\u03b5c, however \u2026",
+                "Short block copolymers in a selective solvent (bad for A-block, good for B-block) are modeled by flexible bead\u2212spring chains, where beads interact with short-range Morse potentials of variable strength. In particular, treating the strength EAA of attraction between monomers of the A-block as a variable, we study the mass distribution of the micelles that are formed under conditions that correspond to the vicinity of the critical micelle concentration (cmc). Choosing a composition f = NA\/N = 1\/4 for the block copolymers, we vary their chain length N from N = 4 to N = 32. Only such relatively short chains can be used in thermal equilibrium, since the relaxation times of the system increase dramatically with increasing length. We show that in the regime of parameters accessible to our study, the number of chains per micelle is rather small and almost independent of chain length, implying that the core radius scales as NA1\/3 in \u2026",
+                "We present a Brownian dynamics model of driven polymer translocation, in which nonequilibrium memory effects arising from tension propagation (TP) along the cis side subchain are incorporated as a time-dependent friction. To solve the effective friction, we develop a finite chain length TP formalism, based on the idea suggested by Sakaue [Phys. Rev. E 76, 021803 (2007)]. We validate the model by numerical comparisons with high-accuracy molecular dynamics simulations, showing excellent agreement in a wide range of parameters. Our results show that the dynamics of driven translocation is dominated by the nonequilibrium TP along the cis side subchain. Furthermore, by solving the model for chain lengths up to 10 10 monomers, we show that the chain lengths probed by experiments and simulations are typically orders of magnitude below the asymptotic limit. This explains both the considerable scatter in \u2026",
+                "We determine the scaling exponents of polymer translocation (PT) through a nanopore by extensive computer simulations of various microscopic models for chain lengths extending up to N= 800 in some cases. We focus on the scaling of the average PT time \u03c4\u223c N \u03b1 and the mean-square change of the PT coordinate,\u27e8 s 2 (t)\u27e9\u223c t \u03b2. We find \u03b1= 1+ 2 \u03bd and \u03b2= 2\u2215 \u03b1 for unbiased PT in two dimensions (2D) and three dimensions (3D). The relation \u03b1 \u03b2= 2 holds for driven PT in 2D, with a crossover from \u03b1\u2248 2 \u03bd for short chains to \u03b1\u2248 1+ \u03bd for long chains. This crossover is, however, absent in 3D where \u03b1= 1.42\u00b10.01 and \u03b1 \u03b2\u2248 2.2 for N\u2248 40\u2212 800."
+            ],
+            [
+                [
+                    "Soft Condensed Matter & Biological Physics"
+                ]
+            ]
+        ]
+    ]
+}

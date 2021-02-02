@@ -1,0 +1,138 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "LnMG3XAAAAAJ",
+            "Oleg Lunin",
+            "Department of Physics, University at Albany",
+            "@albany.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=LnMG3XAAAAAJ",
+            5225,
+            [
+                "String theory",
+                "supergravity",
+                "quantum field theory"
+            ],
+            1573,
+            32,
+            21,
+            45,
+            25,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"WV7v0dsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yuri Chervonyi",
+                    "affiliation":"Google Deepmind"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"EzPww4wAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Soo-Jong Rey",
+                    "affiliation":"Institute for Quantum Advanced Research Korea (Quantum ARK); School of Physics, Seoul National"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"pOtpA40AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David Kutasov",
+                    "affiliation":"University of Chicago"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"HWxQckgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David Turton",
+                    "affiliation":"Royal Society University Research Fellow, University of Southampton"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"8vjmVtgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mukund Rangamani",
+                    "affiliation":"Professor of Physics, UC Davis"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"sQxFuFIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Veronika Hubeny",
+                    "affiliation":"UC Davis"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"NjJF8vQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Arkady Tseytlin",
+                    "affiliation":"Blackett Laboratory, Imperial College London"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"esbAFPEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ofer Aharony",
+                    "affiliation":"Weizmann Institute of Science"
+                }
+            ]
+        ]
+    ]
+}

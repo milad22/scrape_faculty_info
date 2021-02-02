@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "E2BUEY0X",
+            "5CAjat0AAAAJ",
+            [
+                "Detection, classification, and tracking of targets",
+                "Maximum likelihood multiple-source localization using acoustic energy measurements with wireless sensor networks",
+                "A patient-adaptable ECG beat classifier using a mixture of experts approach",
+                "CORDIC-based VLSI architectures for digital signal processing",
+                "Handbook of neural network signal processing",
+                "Vehicle classification in distributed sensor networks",
+                "Neural-network-based adaptive matched filtering for QRS detection",
+                "Energy-based collaborative source localization using acoustic microsensor array",
+                "One-lead ECG for identity verification"
+            ],
+            [
+                "Networks of small, densely distributed wireless sensor nodes are being envisioned and developed for a variety of applications involving monitoring and the physical world in a tetherless fashion. Typically, each individual node can sense in multiple modalities but has limited communication and computation capabilities. Many challenges must be overcome before the concept of sensor networks In particular, there are two critical problems underlying successful operation of sensor networks: (1) efficient methods for exchanging information between the nodes and (2) collaborative signal processing (CSP) between the nodes to gather useful information about the physical world. This article describes the key ideas behind the CSP algorithms for distributed sensor networks being developed at the University of Wisconsin (UW). We also describe the basic ideas on how the CSP algorithms interface with the networking \u2026",
+                "A maximum likelihood (ML) acoustic source location estimation method is presented for the application in a wireless ad hoc sensor network. This method uses acoustic signal energy measurements taken at individual sensors of an ad hoc wireless sensor network to estimate the locations of multiple acoustic sources. Compared to the existing acoustic energy based source localization methods, this proposed ML method delivers more accurate results and offers the enhanced capability of multiple source localization. A multiresolution search algorithm and an expectation-maximization (EM) like iterative algorithm are proposed to expedite the computation of source locations. The Crame\/spl acute\/r-Rao Bound (CRB) of the ML source location estimate has been derived. The CRB is used to analyze the impacts of sensor placement to the accuracy of location estimates for single target scenario. Extensive simulations \u2026",
+                "Presents a \"mixture-of-experts\" (MOE) approach to develop customized electrocardiogram (EGG) beat classifier in an effort to further improve the performance of ECG processing and to offer individualized health care. A small customized classifier is developed based on brief, patient-specific ECG data. It is then combined with a global classifier, which is tuned to a large ECG database of many patients, to form a MOE classifier structure. Tested with MIT\/BIH arrhythmia database, the authors observe significant performance enhancement using this approach.",
+                "The evolution of CORDIC, an iterative arithmetic computing algorithm capable of evaluating various elementary functions using a unified shift-and-add approach, and of CORDIC processors is reviewed. A method to utilize a CORDIC processor array to implement digital signal processing algorithms is presented. The approach is to reformulate existing DSP algorithms so that they are suitable for implementation with an array performing circular or hyperbolic rotation operations. Three categories of algorithm are surveyed: linear transformations, digital filters, and matrix-based DSP algorithms.< >",
+                "edited by Hu and Hwang aptly demonstrates the effectiveness and wide scope of the neural network paradigm for signal processing. The editors have brought together many leading experts in the neural network and signal processing fields to cover a wide variety of topics and recent developments. While many texts exist describing neural network algorithms, this book is unique in its solid coverage of neural network concepts, approaches to signal processing problems, and applications. The book consists of three parts. The first part of the book describes the various neural network paradigms. The different neural network approaches are described clearly and recent developments outlined. The second part of the book covers neural network approaches to some important signal processing problems. The final part of the book examines some successful neural network based applications and systems.The book \u2026",
+                "The task of classifying the types of moving vehicles in a distributed, wireless sensor network is investigated. Specifically, based on an extensive real world experiment, we have compiled a data set that consists of 820 MByte raw time series data, 70 MByte of pre-processed, extracted spectral feature vectors, and baseline classification results using the maximum likelihood classifier. The purpose of this paper is to detail the data collection procedure, the feature extraction and pre-processing steps, and baseline classifier development. The database is available for download at http:\/\/www. ece. wisc. edu\/~ sensit starting on July 2003.",
+                "The authors have developed an adaptive matched filtering algorithm based upon an artificial neural network (ANN) for QRS detection. They use an ANN adaptive whitening filter to model the lower frequencies of the electrocardiogram (ECG) which are inherently nonlinear and nonstationary. The residual signal which contains mostly higher frequency QRS complex energy is then passed through a linear matched filter to detect the location of the QRS complex. The authors developed an algorithm to adaptively update the matched filter template from the detected QRS complex in the ECG signal itself so that the template can be customized to an individual subject. This ANN whitening filter is very effective at removing the time-varying, nonlinear noise characteristic of ECG signals. The detection rate for a very noisy patient record in the MIT\/BIH arrhythmia database is 99.5% with this approach, which compares favorably \u2026",
+                "A novel sensor network source localization method based on acoustic energy measurements is presented. This method makes use of the characteristics that the acoustic energy decays inversely with respect to the square of distance from the source. By comparing energy readings measured at surrounding acoustic sensors, the source location during that time interval can be accurately estimated as the intersection of multiple hyperspheres. Theoretical bounds on the number of sensors required to yield unique solution are derived. Extensive simulations have been conducted to characterize the performance of this method under various parameter perturbations and noise conditions. Potential advantages of this approach include low intersensor communication requirement, robustness with respect to parameter perturbations and measurement noise, and low-complexity implementation.",
+                "This research investigates the feasibility of using the electrocardiogram (ECG) as a new biometric for human identity verification. It is well known that the shapes of the ECG waveforms of different persons are different but it is unclear whether such differences can be used to identify different individuals. In this research, we demonstrated successfully that it is possible to identify a specific person from a group of candidates using a one-lead ECG. A one-lead ECG, unlike two-dimensional biometrics, such as the fingerprint, is a one-dimensional, low-frequency signal that can be recorded from electrodes on the hands. This research applied two techniques, template matching and a decision-based neural network (DBNN), to implement the identity verification. Using each of the two methods separately on a predetermined group of 20 subjects, the experimental results showed that the rate of correct identity verification was \u2026"
+            ],
+            [
+                [
+                    "Signal Processing algorithms and implementation",
+                    "computer aided physical design of VLSI systems",
+                    "wireless sensor network informa"
+                ]
+            ]
+        ]
+    ]
+}

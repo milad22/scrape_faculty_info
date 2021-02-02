@@ -1,0 +1,33 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "CW6WXMMQ",
+            "q1NsNm4AAAAJ",
+            [
+                "SARS-CoV-2 receptor ACE2 is an interferon-stimulated gene in human airway epithelial cells and is detected in specific cell subsets across tissues",
+                "Integrated analyses of single-cell atlases reveal age, gender, and smoking status associations with cell type-specific expression of mediators of SARS-CoV-2 viral entry and \u2026"
+            ],
+            [
+                "There is pressing urgency to understand the pathogenesis of the severe acute respiratory syndrome coronavirus clade 2 (SARS-CoV-2), which causes the disease COVID-19. SARS-CoV-2 spike (S) protein binds angiotensin-converting enzyme 2 (ACE2), and in concert with host proteases, principally transmembrane serine protease 2 (TMPRSS2), promotes cellular entry. The cell subsets targeted by SARS-CoV-2 in host tissues and the factors that regulate ACE2 expression remain unknown. Here, we leverage human, non-human primate, and mouse single-cell RNA-sequencing (scRNA-seq) datasets across health and disease to uncover putative targets of SARS-CoV-2 among tissue-resident cell subsets. We identify ACE2 and TMPRSS2 co-expressing cells within lung type II pneumocytes, ileal absorptive enterocytes, and nasal goblet secretory cells. Strikingly, we discovered that ACE2 is a human interferon \u2026",
+                "The COVID-19 pandemic, caused by the novel coronavirus SARS-CoV-2, creates an urgent need for identifying molecular mechanisms that mediate viral entry, propagation, and tissue pathology. Cell membrane bound angiotensin-converting enzyme 2 (ACE2) and associated proteases, transmembrane protease serine 2 (TMPRSS2) and Cathepsin L (CTSL), were previously identified as mediators of SARS-CoV2 cellular entry. Here, we assess the cell type-specific RNA expression of ACE2 , TMPRSS2 , and CTSL through an integrated analysis of 107 single-cell and single-nucleus RNA-Seq studies, including 22 lung and airways datasets (16 unpublished), and 85 datasets from other diverse organs. Joint expression of ACE2 and the accessory proteases identifies specific subsets of respiratory epithelial cells as putative targets of viral infection in the nasal passages, airways, and alveoli. Cells that co-express ACE2 and proteases are also identified in cells from other organs, some of which have been associated with COVID-19 transmission or pathology, including gut enterocytes, corneal epithelial cells, cardiomyocytes, heart pericytes, olfactory sustentacular cells, and renal epithelial cells. Performing the first meta-analyses of scRNA-seq studies, we analyzed 1,176,683 cells from 282 nasal, airway, and lung parenchyma samples from 164 donors spanning fetal, childhood, adult, and elderly age groups, associate increased levels of ACE2 , TMPRSS2 , and CTSL in specific cell types with increasing age, male gender, and smoking, all of which are epidemiologically linked to COVID-19 susceptibility and outcomes. Notably, there was a particularly \u2026"
+            ],
+            [
+                [
+                    "light sheet fluorescence microscopy",
+                    "RNA-FISH",
+                    "computational modeling of single cell gene expression"
+                ]
+            ]
+        ]
+    ]
+}

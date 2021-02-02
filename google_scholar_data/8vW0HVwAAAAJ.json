@@ -1,0 +1,76 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "8vW0HVwAAAAJ",
+            "Frerk M\u00fcller",
+            "Andreas Hein",
+            "@offis.de",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=8vW0HVwAAAAJ",
+            55406,
+            [
+
+            ],
+            39765,
+            115,
+            97,
+            550,
+            488,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"73TgHMQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Otthein Herzog",
+                    "affiliation":"Professor of Artificial Intelligence, Tongji University, Shanghai, and University of Bremen, Germany"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"lasm6iwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Frank Golatowski",
+                    "affiliation":"University of Rostock"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"LM17Jm4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Asuman Dogac",
+                    "affiliation":"SRDC Ltd."
+                }
+            ]
+        ]
+    ]
+}

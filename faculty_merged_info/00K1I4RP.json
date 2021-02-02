@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "00K1I4RP",
+            "QsejCwcAAAAJ",
+            [
+                "Pinning control of spatiotemporal chaos",
+                "Optical manipulation of microscale fluid flow",
+                "Chaotic mixing in microdroplets",
+                "Chaotic mixing in thermocapillary-driven microdroplets",
+                "Control of evaporatively driven instabilities of thin liquid films",
+                "Forecasting fluid flows using the geometry of turbulence",
+                "Buoyancy-thermocapillary convection of volatile fluids under atmospheric conditions",
+                "Transport and Mixing in Laminar Flows: From Microfluidics to Oceanic Currents",
+                "Contact line instability and pattern selection in thermally driven liquid films",
+                "Buoyancy-thermocapillary convection of volatile fluids under their vapors"
+            ],
+            [
+                "Linear control theory is used to develop an improved localized control scheme for spatially extended chaotic systems, which is applied to a coupled map lattice as an example. The optimal arrangement of the control sites is shown to depend on the symmetry properties of the system, while their minimal density depends on the strength of noise in the system. The method is shown to work in any region of parameter space and requires a significantly smaller number of controllers compared to the method proposed earlier by Hu and Qu [Phys. Rev. Lett. 72, 68 (1994)]. A nonlinear generalization of the method for a 1D lattice is also presented.",
+                "A novel optical method is used both to probe and to control dynamics in experiments on the spreading of microscale liquid films over solid substrates. The flow is manipulated by thermally induced surface-tension gradients that are regulated by controlling the absorption of light in the substrate. This approach permits, for the first time, the measurement of the dispersion relation for the well-known contact line instability; the measurements are compared with theoretical predictions from the slip model for spreading films. The experiments also demonstrate the use of feedback control to suppress instability. These results show that optical control can provide dynamically reconfigurable manipulations of fluid flow, thereby suggesting a general approach for constructing reprogrammable microfluidic devices.",
+                "We describe a general methodology for introducing thorough chaotic mixing in microdroplets. The mixing properties of fluid flows in microdroplets are governed by their symmetries, which give rise to invariant surfaces serving as barriers to transport. Complete three-dimensional mixing by chaotic advection requires destruction of all flow invariants. To illustrate this idea, we demonstrate that complete mixing can be obtained in a time-dependent flow produced by moving a microdroplet along a two-dimensional path. The theoretical predictions are confirmed by experiments that use the thermocapillary effect to manipulate microdroplets.",
+                "Liquid microdroplets represent a convenient system for studies of mixing by chaotic advection in discrete microscopic volumes. The mixing properties of the flows in microdroplets are governed by their symmetries, which give rise to invariant surfaces serving as barriers to transport. Thorough mixing via chaotic advection requires destruction of all such invariant surfaces. To illustrate this idea, we demonstrate that quick and thorough mixing inside a spherical microdroplet suspended in a layer of substrate fluid can be obtained by moving the droplet along a two-dimensional path using temperature-induced surface tension gradients. The use of flow invariants also provides a convenient way to analyze the mixing properties of flows in many other experimental implementations.",
+                "In the process of drying, thin volatile liquid films often undergo a long-wavelength instability leading to nonuniformities or formation of dry spots, with the strength of the instability increasing with the volatility and temperature of the liquid. Perhaps counterintuitively, this evaporative instability can be actively suppressed by an appropriate heating procedure. We use linear stability analysis of the lubrication approximation to show that spatially nonuniform time-dependent radiative heating can indeed have a stabilizing effect. Evaporation is shown to introduce several fundamentally new aspects into the control problem for heated liquid films, compared to the relatively well-studied case of thermal convection. The control problem becomes especially interesting and nontrivial for mixtures and solutions with negative Marangoni numbers due to a peculiar cancellation effect rendering the system insensitive to temperature \u2026",
+                "The existence and dynamical role of particular unstable solutions (exact coherent structures) of the Navier-Stokes equation is revealed in laboratory studies of weak turbulence in a thin, electromagnetically driven fluid layer. We find that the dynamics exhibit clear signatures of numerous unstable equilibrium solutions, which are computed using a combination of flow measurements from the experiment and fully resolved numerical simulations. We demonstrate the dynamical importance of these solutions by showing that turbulent flows visit their state space neighborhoods repeatedly. Furthermore, we find that the unstable manifold associated with one such unstable equilibrium predicts the evolution of turbulent flow in both experiment and simulation for a considerable period of time.",
+                "Convection in a layer of fluid with a free surface due to a combination of thermocapillary stresses and buoyancy is one of the classic problems of fluid mechanics. Although extensively studied, it is still not fully understood. In particular, neither the effect of phase change nor the thermal boundary conditions at the liquid\u2013vapor interface have been properly described. These two intimately related issues have a significant impact on the stability of the flow and transitions between different convective patterns. The objective of this paper is to develop and validate a comprehensive numerical model which properly describes both heat transfer and phase change at the liquid\u2013vapor interface, as well as the transport of heat and vapor in the gas layer, which is ignored by the vast majority of theoretical studies with minimal justification. We present a numerical investigation of convection in a long cell filled with a volatile fluid and \u2026",
+                "This book provides readers from academia and industry with an up-to-date overview of important advances in the field, dealing with such fundamental fluid mechanics problems as nonlinear transport phenomena and optimal control of mixing at the micro-and nanoscale. The editors provide both in-depth knowledge of the topic as well as vast experience in guiding an expert team of authors. The review style articles offer a coherent view of the micromixing methods, resulting in a much-needed synopsis of the theoretical models needed to direct experimental research and establish engineering principles",
+                "Liquids spreading over a solid substrate under the action of various forces are known to exhibit a long wavelength contact line instability. We use an example of thermally driven spreading on a horizontal surface to study how the stability of the flow can be altered, or patterns selected, using feedback control. We show that thermal perturbations of certain spatial structure imposed behind the contact line and proportional to the deviation of the contact line from its mean position can completely suppress the instability. Due to the presence of mean flow and a spatially nonuniform nature of spreading liquid films the dynamics of disturbances is governed by a non-normal evolution operator, opening up a possibility of transient amplification and nonlinear instabilities. We show that in the case of thermal driving the non-normality can be significant, especially for small wavenumber disturbances, and trace the origin of transient \u2026",
+                "Convection in a layer of fluid with a free surface due to a combination of thermocapillary stresses and buoyancy has been studied extensively under atmospheric conditions. However, recent experimental results have shown that removing most of the air from a sealed cavity significantly alters the flow structure and, in particular, suppresses transitions between different convection patterns found at atmospheric conditions. On the other hand, removing air has a very small effect on the flow speed, while a simple analytical estimate predicts that complete removal of noncondensable gases such as air should reduce the flow speed by an order of magnitude. To understand these unexpected results, we have formulated and numerically implemented a detailed transport model that takes into account mass and heat transport in both phases in the absence of noncondensables. The model was used to investigate how the flow \u2026"
+            ],
+            [
+                [
+                    "Fluid dynamics",
+                    "Pattern formation",
+                    "Dynamical systems",
+                    "Excitable media",
+                    "Machine learning"
+                ]
+            ]
+        ]
+    ]
+}

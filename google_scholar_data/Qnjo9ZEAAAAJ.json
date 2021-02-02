@@ -1,0 +1,55 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Qnjo9ZEAAAAJ",
+            "James R. Valles, Jr.",
+            "Associate Professor of Mathematics, Prairie View A&M University",
+            "@pvamu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=Qnjo9ZEAAAAJ",
+            14,
+            [
+                "mathematics education",
+                "potential theory",
+                "affine transformations",
+                "complex analysis"
+            ],
+            14,
+            2,
+            2,
+            1,
+            1,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"nb8oNLMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Indika Wickramasinghe",
+                    "affiliation":"Asst. Professor @ Prairie View A&M University"
+                }
+            ]
+        ]
+    ]
+}

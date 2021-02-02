@@ -1,0 +1,115 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "mX2jSzsAAAAJ",
+            "Amir Omidvar",
+            "Associate Professor, Shiraz University of Technology",
+            "@sutech.ac.ir",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=mX2jSzsAAAAJ",
+            187,
+            [
+                "Thermal Comfort",
+                "Building Energy Efficiency",
+                "Renewable Energy",
+                "Heat and Mass Transfer"
+            ],
+            139,
+            8,
+            8,
+            6,
+            5,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"D4lShpoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mehdi Maerefat",
+                    "affiliation":"Tarbiat Modares University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"BAY60nEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Prof. Hassan Khaleghi",
+                    "affiliation":"Tarbiat Modares University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"so7ADmIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dr Alireza Zolfaghari",
+                    "affiliation":"Associate Professor in Mechanical Engineering, University of Birjand, Iran"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"cI7HdRkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Behnam Rosti",
+                    "affiliation":"Shiraz University of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"7bpovJsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"AR Tavakolpour-Saleh",
+                    "affiliation":"Associate Professor of Mechanical Engineering, Shiraz University of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6K6A3XoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jungsoo Kim",
+                    "affiliation":"School of Architecture, Design and Planning, The University of Sydney"
+                }
+            ]
+        ]
+    ]
+}

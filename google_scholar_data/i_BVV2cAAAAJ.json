@@ -1,0 +1,102 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "i_BVV2cAAAAJ",
+            "R  Ramesh  Kumar",
+            "Vikram Sarabhai Space centre, Government Engineering College Barton Hill, Sree Chitra Thirunal College of Engineering",
+            "",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=i_BVV2cAAAAJ",
+            222,
+            [
+                "Fracture in composite",
+                "holes in shells",
+                "Buckling of sandwich shells"
+            ],
+            77,
+            7,
+            4,
+            4,
+            2,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"UnLGSoYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jose S",
+                    "affiliation":"Professor in Mechanical Engineering,TKM College of Engineering, Kollam"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"-P5qS90AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dr.Dileep P N",
+                    "affiliation":"TKM College of Engineering"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"WXxQT8EAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Niranjan Naik",
+                    "affiliation":"Professor of Aerospace Engineering, IIT Bombay"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"pnghV4UAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"S. Anil Lal",
+                    "affiliation":"Professor & Head, Department of  Mechanical Engineering, College of Engineering Trivandrum"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"B6K9sDQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dr. Sriram Parupudi",
+                    "affiliation":"UTMB"
+                }
+            ]
+        ]
+    ]
+}

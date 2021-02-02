@@ -1,0 +1,43 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "KIBEXXO2",
+            "SOYo5jgAAAAJ",
+            [
+                "Room-temperature ferroelectricity in strained SrTiO 3",
+                "Nanoscale control of an interfacial metal\u2013insulator transition at room temperature",
+                "Oxide nanoelectronics on demand",
+                "Universal Quantum Computation with Spin- Pairs and Heisenberg Exchange",
+                "A ferroelectric oxide made directly on silicon",
+                "Gigahertz electron spin manipulation using voltage-controlled g-tensor modulation",
+                "Quantum computing with spin cluster qubits"
+            ],
+            [
+                "Systems with a ferroelectric to paraelectric transition in the vicinity of room temperature are useful for devices. Adjusting the ferroelectric transition temperature (T c) is traditionally accomplished by chemical substitution\u2014as in Ba x Sr 1-x TiO 3, the material widely investigated for microwave devices in which the dielectric constant (\u03b5 r) at GHz frequencies is tuned by applying a quasi-static electric field 1, 2. Heterogeneity associated with chemical substitution in such films, however, can broaden this phase transition by hundreds of degrees 3, which is detrimental to tunability and microwave device performance. An alternative way to adjust T c in ferroelectric films is strain 4, 5, 6, 7, 8. Here we show that epitaxial strain from a newly developed substrate can be harnessed to increase T c by hundreds of degrees and produce room-temperature ferroelectricity in strontium titanate, a material that is not normally ferroelectric at \u2026",
+                "Experimental 1, 2, 3, 4, 5, 6, 7 and theoretical 8, 9 investigations have demonstrated that a quasi-two-dimensional electron gas (q-2DEG) can form at the interface between two insulators: non-polar SrTiO 3 and polar LaTiO 3 (ref. 2), LaAlO 3 (refs 3\u20135), KTaO 3 (ref. 7) or LaVO 3 (ref. 6). Electronically, the situation is analogous to the q-2DEGs formed in semiconductor heterostructures by modulation doping. LaAlO 3\/SrTiO 3 heterostructures have recently been shown 10 to exhibit a hysteretic electric-field-induced metal\u2013insulator quantum phase transition for LaAlO 3 thicknesses of 3 unit cells. Here, we report the creation and erasure of nanoscale conducting regions at the interface between two insulating oxides, LaAlO 3 and SrTiO 3. Using voltages applied by a conducting atomic force microscope (AFM) probe, the buried LaAlO 3\/SrTiO 3 interface is locally and reversibly switched between insulating and conducting \u2026",
+                "Electronic confinement at nanoscale dimensions remains a central means of science and technology. We demonstrate nanoscale lateral confinement of a quasi\u2013two-dimensional electron gas at a lanthanum aluminate\u2013strontium titanate interface. Control of this confinement using an atomic force microscope lithography technique enabled us to create tunnel junctions and field-effect transistors with characteristic dimensions as small as 2 nanometers. These electronic devices can be modified or erased without the need for complex lithographic procedures. Our on-demand nanoelectronics fabrication platform has the potential for widespread technological application.",
+                "An efficient and intuitive framework for universal quantum computation is presented that uses pairs of spin-1\/2 particles to form logical qubits and a single physical interaction, Heisenberg exchange, to produce all gate operations. Only two Heisenberg gate operations are required to produce a controlled \u03c0-phase shift, compared to nineteen for exchange-only proposals employing three spins. Evolved from well-studied decoherence-free subspaces, this architecture inherits immunity from collective decoherence mechanisms. The simplicity and adaptability of this approach should make it attractive for spin-based quantum computing architectures.",
+                "Metal oxide semiconductor field-effect transistors, formed using silicon dioxide and silicon, have undergone four decades of staggering technological advancement. With fundamental limits to this technology close at hand, alternatives to silicon dioxide are being pursued to enable new functionality and device architectures. We achieved ferroelectric functionality in intimate contact with silicon by growing coherently strained strontium titanate (SrTiO3) films via oxide molecular beam epitaxy in direct contact with silicon, with no interfacial silicon dioxide. We observed ferroelectricity in these ultrathin SrTiO3 layers by means of piezoresponse force microscopy. Stable ferroelectric nanodomains created in SrTiO3 were observed at temperatures as high as 400 kelvin.",
+                "We present a scheme that enables gigahertz-bandwidth three-dimensional control of electron spins in a semiconductor heterostructure with the use of a single voltage signal. Microwave modulation of the Land\u00e9 g tensor produces frequency-modulated electron spin precession. Driving at the Larmor frequency results in g-tensor modulation resonance, which is functionally equivalent to electron spin resonance but without the use of time-dependent magnetic fields. These results provide proof of the concept that quantum spin information can be locally manipulated with the use of high-speed electrical circuits.",
+                "We study the low energy states of finite spin chains with isotropic (Heisenberg) and anisotropic (X Y and Ising-like) antiferromagnetic exchange interaction with uniform and nonuniform coupling constants. We show that for an odd number of sites a spin cluster qubit can be defined in terms of the ground state doublet. This qubit is remarkably insensitive to the placement and coupling anisotropy of spins within the cluster. One-and two-qubit quantum gates can be generated by magnetic fields and intercluster exchange, and leakage during quantum gate operation is small. Spin cluster qubits inherit the long decoherence times and short gate operation times of single spins. Control of single spins is hence not necessary for the realization of universal quantum gates."
+            ],
+            [
+                [
+                    "condensed matter",
+                    "oxide nanoelectronics",
+                    "quantum information"
+                ]
+            ]
+        ]
+    ]
+}

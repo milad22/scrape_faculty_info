@@ -1,0 +1,91 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2
+    ],
+    "data":[
+        [
+            "The explosion of image data on the Internet has the potential to foster more sophisticated and robust models and algorithms to index, retrieve, organize and interact with images and multimedia data. But exactly how such data can be harnessed and organized remains a critical problem. We introduce here a new database called \u201cImageNet\u201d, a large-scale ontology of images built upon the backbone of the WordNet structure. ImageNet aims to populate the majority of the 80,000 synsets of WordNet with an average of 500-1000 clean and full resolution images. This will result in tens of millions of annotated images organized by the semantic hierarchy of WordNet. This paper offers a detailed analysis of ImageNet in its current state: 12 subtrees with 5247 synsets and 3.2 million images in total. We show that ImageNet is much larger in scale and diversity and much more accurate than the current image datasets \u2026",
+            "Imagenet: A large-scale hierarchical image database",
+            "Jia Deng and Wei Dong and Richard Socher and Li-Jia Li and Kai Li and Li Fei-Fei",
+            "2009",
+            "feX1fWAAAAAJ:u5HHmVD_uO8C",
+            25030,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/5206848\/",
+            "610894740843277394",
+            "\/scholar?cites=610894740843277394",
+            {
+                "2010":132,
+                "2011":197,
+                "2012":264,
+                "2013":343,
+                "2014":538,
+                "2015":840,
+                "2016":1397,
+                "2017":2341,
+                "2018":3982,
+                "2019":5919,
+                "2020":8068,
+                "2021":631
+            }
+        ],
+        [
+            "Despite progress in perceptual tasks such as image classification, computers still perform poorly on cognitive tasks such as image description and question answering. Cognition is core to tasks that involve not just recognizing, but reasoning about our visual world. However, models used to tackle the rich content in images for cognitive tasks are still being trained using the same datasets designed for perceptual tasks. To achieve success at cognitive tasks, models need to understand the interactions and relationships between objects in an image. When asked \u201cWhat vehicle is the person riding?\u201d, computers will need to identify the objects in an image as well as the relationships riding(man, carriage) and pulling(horse, carriage) to answer correctly that \u201cthe person is riding a horse-drawn carriage.\u201d In this paper, we present the Visual Genome dataset to enable the modeling of such relationships. We collect dense \u2026",
+            "Visual genome: Connecting language and vision using crowdsourced dense image annotations",
+            "Ranjay Krishna and Yuke Zhu and Oliver Groth and Justin Johnson and Kenji Hata and Joshua Kravitz and Stephanie Chen and Yannis Kalantidis and Li-Jia Li and David A Shamma and Michael S Bernstein and Li Fei-Fei",
+            "2017",
+            "feX1fWAAAAAJ:lOLSY4hLU6kC",
+            1724,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/s11263-016-0981-7.pdf",
+            "12954392892899444253",
+            "\/scholar?cites=12954392892899444253",
+            {
+                "2016":60,
+                "2017":161,
+                "2018":278,
+                "2019":465,
+                "2020":686,
+                "2021":42
+            }
+        ],
+        [
+            "Robust low-level image features have been proven to be effective representations for a variety of visual recognition tasks such as object recognition and scene classification; but pixels, or even local image patches, carry little semantic meanings. For high level visual tasks, such low-level image representations are potentially not enough. In this paper, we propose a high-level image representation, called the Object Bank, where an image is represented as a scale-invariant response map of a large number of pre-trained generic object detectors, blind to the testing dataset or visual task. Leveraging on the Object Bank representation, superior performances on high level visual recognition tasks can be achieved with simple off-the-shelf classifiers such as logistic regression and linear SVM. Sparsity algorithms make our representation more efficient and scalable for large scene datasets, and reveal semantically meaningful feature patterns.",
+            "Object bank: A high-level image representation for scene classification & semantic feature sparsification",
+            "Li-Jia Li and Hao Su and Li Fei-Fei and Eric P Xing",
+            "2010",
+            "feX1fWAAAAAJ:2osOgNQ5qMEC",
+            1112,
+            "https:\/\/kilthub.cmu.edu\/articles\/journal_contribution\/Object_Bank_A_High-Level_Image_Representation_for_Scene_Classification_Semantic_Feature_Sparsification\/6475985",
+            "7023849659259118668",
+            "\/scholar?cites=7023849659259118668",
+            {
+                "2009":8,
+                "2010":2,
+                "2011":36,
+                "2012":82,
+                "2013":134,
+                "2014":179,
+                "2015":164,
+                "2016":146,
+                "2017":129,
+                "2018":85,
+                "2019":80,
+                "2020":38,
+                "2021":6
+            }
+        ]
+    ]
+}

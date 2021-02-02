@@ -1,0 +1,136 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Ojgo35kAAAAJ",
+            "Julia Wildeboer, PhD",
+            "Iowa State University",
+            "@magnet.fsu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=Ojgo35kAAAAJ",
+            125,
+            [
+                "condensed matter theory"
+            ],
+            95,
+            6,
+            6,
+            5,
+            4,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"NggGUE4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alexander Seidel",
+                    "affiliation":"Associate Professor of Physics, Washington University in St. Louis"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"oiEX4C8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"zohar nussinov",
+                    "affiliation":"Professor of Physics, Washington University in St. Louis"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"wtPh7KYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Fletcher Werner",
+                    "affiliation":"Graduate Student, Washington University in St. Louis"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"wGbkTUsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Roger G. Melko",
+                    "affiliation":"Faculty, University of Waterloo & Perimeter Institute; Affiliate, Vector Institute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"yFNrqd8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Oleg Tchernyshyov",
+                    "affiliation":"Professor of Physics, Johns Hopkins University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ZNqHxukAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hao Zhihao",
+                    "affiliation":"University of Waterloo"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"WxibXnYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Zhenyu Zhou",
+                    "affiliation":"University of Pittsburgh, George Mason University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"IPi533gAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Anders Sandvik",
+                    "affiliation":"Professor of Physics, Boston University"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "AlcInVEAAAAJ",
+            "Dr. Muhammad Awais Bhatti",
+            "King Faisal University",
+            "@kfu.edu.sa",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=AlcInVEAAAAJ",
+            1445,
+            [
+                "Training and Development",
+                "Performance management",
+                "Internationalization",
+                "Marketing",
+                "Entrepreneurship"
+            ],
+            1194,
+            20,
+            17,
+            31,
+            27,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"E_pfzocAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Veera Pandiyan Kaliani Sundram http:...",
+                    "affiliation":"Universiti Teknologi MARA"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"dZhMfU4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mohamed Battour            (ORCID:0000...",
+                    "affiliation":"Associate Professor"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"qG5M4BUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ahmed Rageh Ismail",
+                    "affiliation":"Assistant Professor- School of International Business - Egypt Japan University of Science and"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"8C4oqdsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Chee Hee Hoe",
+                    "affiliation":"Associate Professor, College of Business, Universiti Utara Malaysia"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Ko9Bvu4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Akmal Aini Othman",
+                    "affiliation":"Universiti Teknologi MARA"
+                }
+            ]
+        ]
+    ]
+}

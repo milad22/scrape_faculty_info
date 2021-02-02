@@ -1,0 +1,103 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4
+    ],
+    "data":[
+        [
+            "Oxygen-rich young supernova remnants 1 are valuable objects for probing the outcome of nucleosynthetic processes in massive stars, as well as the physics of supernova explosions. Observed within a few thousand years after the supernova explosion 2, these systems contain fast-moving oxygen-rich and hydrogen-poor filaments visible at optical wavelengths: fragments of the progenitor\u2019s interior expelled at a few thousand kilometres per second during the supernova explosion. Here we report the identification of the compact object in the supernova remnant 1E 0102.2\u20137219 in reprocessed Chandra X-ray Observatory data, enabled by the discovery of a ring-shaped structure visible primarily in optical recombination lines of Ne i and O i. The optical ring has a radius of (2.10\u00b10.35)\u2033\u2261(0.63\u00b10.11) pc, and is expanding at a velocity of km s\u2212 1. It surrounds an X-ray point source with an intrinsic X-ray luminosity \u2026",
+            "Identification of the central compact object in the young supernova remnant 1E 0102.2\u20137219",
+            "Fr\u00e9d\u00e9ric PA Vogt and Elizabeth S Bartlett and Ivo R Seitenzahl and Michael A Dopita and Parviz Ghavamian and Ashley J Ruiter and Jason P Terry",
+            "2018",
+            "CjRkV28AAAAJ:UeHWp8X0CEIC",
+            15,
+            "https:\/\/www.nature.com\/articles\/s41550-018-0433-0",
+            "12589076725302636104",
+            "\/scholar?cites=12589076725302636104",
+            {
+                "2019":7,
+                "2020":5,
+                "2021":3
+            }
+        ],
+        [
+            "We present results of integral field spectroscopy of Balmer-dominated shocks in the LMC supernova remnant (SNR) N103B, carried out using the Wide Field Integral Spectrograph (WiFeS) on the 2.3 m telescope at the Siding Spring Observatory in Australia. Existing X-ray studies of N103B have indicated an SN Ia origin. Radiative shock emission from clumpy material surrounding the SNR may result from interaction of the forward shock with relic stellar wind material, possibly implicating a thermonuclear explosion in a single-degenerate binary system. The recently discovered Balmer-dominated shocks mark the impact of the forward shock with low density, partially neutral CSM gas, and form a partial shell encircling clumps of material exhibiting radiative shocks. The WiFeS spectra of N103B reveal broad H\u03b1 emission having a width as high as 2350 km s\u2212 1 along the northern rim, and both H\u03b1 and H\u03b2 broad profiles \u2026",
+            "Integral Field Spectroscopy of Balmer-dominated Shocks in the Magellanic Cloud Supernova Remnant N103B",
+            "Parviz Ghavamian and Ivo R Seitenzahl and Fr\u00e9d\u00e9ric PA Vogt and Michael A Dopita and Jason P Terry and Brian J Williams and P Frank Winkler",
+            "2017",
+            "CjRkV28AAAAJ:9yKSN-GCB0IC",
+            13,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/1538-4357\/aa83b8\/meta",
+            "9862319236149713518",
+            "\/scholar?cites=9862319236149713518",
+            {
+                "2018":4,
+                "2019":6,
+                "2020":1,
+                "2021":2
+            }
+        ],
+        [
+            "Isomer search or molecule enumeration refers to the problem of finding all the isomers for a given molecule. Many classical search methods have been developed in order to tackle this problem. However, the availability of quantum computing architectures has given us the opportunity to address this problem with new (quantum) techniques. This paper describes a quantum isomer search procedure for determining all the structural isomers of alkanes. We first formulate the structural isomer search problem as a quadratic unconstrained binary optimization (QUBO) problem. The QUBO formulation is for general use on either annealing or gate-based quantum computers. We use the D-Wave quantum annealer to enumerate all structural isomers of all alkanes with fewer carbon atoms (n < 10) than Decane (C10H22). The number of isomer solutions increases with the number of carbon atoms. We find that the sampling time needed to identify all solutions scales linearly with the number of carbon atoms in the alkane. We probe the problem further by employing reverse annealing as well as a perturbed QUBO Hamiltonian and find that the combination of these two methods significantly reduces the number of samples required to find all isomers.",
+            "Quantum isomer search",
+            "Jason P Terry and Prosper D Akrobotu and Christian FA Negre and Susan M Mniszewski",
+            "2020",
+            "CjRkV28AAAAJ:IjCSPb-OGe4C",
+            7,
+            "https:\/\/journals.plos.org\/plosone\/article?id=10.1371\/journal.pone.0226787",
+            "2449559627889911708",
+            "\/scholar?cites=2449559627889911708",
+            {
+                "2019":3,
+                "2020":4
+            }
+        ],
+        [
+            "Isomer search or molecule enumeration refers to the problem of finding all the isomers for a given molecule. Many classical search methods have been developed in order to tackle this problem. However, the availability of quantum computing architectures has given us the opportunity to address this problem with new (quantum) techniques. This paper describes a quantum isomer search procedure for determining all the structural isomers of alkanes. We first formulate the structural isomer search problem as a quadratic unconstrained binary optimization (QUBO) problem. The QUBO formulation is for general use on either annealing or gate-based quantum computers. We use the D-Wave quantum annealer to enumerate all structural isomers of all alkanes with fewer carbon atoms (n < 10) than Decane (C10H22). The number of isomer solutions increases with the number of carbon atoms. We find that the sampling time needed to identify all solutions scales linearly with the number of carbon atoms in the alkane. We probe the problem further by employing reverse annealing as well as a perturbed QUBO Hamiltonian and find that the combination of these two methods significantly reduces the number of samples required to find all isomers.",
+            "Quantum isomer search",
+            "Jason P Terry and Prosper D Akrobotu and Christian FA Negre and Susan M Mniszewski",
+            "2020",
+            "CjRkV28AAAAJ:u5HHmVD_uO8C",
+            7,
+            "https:\/\/journals.plos.org\/plosone\/article?id=10.1371\/journal.pone.0226787",
+            "2449559627889911708",
+            "\/scholar?cites=2449559627889911708",
+            {
+                "2019":3,
+                "2020":4
+            }
+        ],
+        [
+            "We study the optical emission from heavy element ejecta in the oxygen-rich young supernova remnant 1E 0102.2\u20137219 (1E 0102) in the Small Magellanic Cloud. We have used the Multi-Unit Spectroscopic Explorer optical integral field spectrograph at the Very Large Telescope on Cerro Paranal and the wide field spectrograph (WiFeS) at the ANU 2.3 m telescope at Siding Spring Observatory to obtain deep observations of 1E 0102. Our observations cover the entire extent of the remnant from below 3500 \u00c5 to 9350 \u00c5. Our observations unambiguously reveal the presence of fast-moving ejecta emitting in [S ii],[S iii],[Ar iii], and [Cl ii]. The sulfur-rich ejecta appear more asymmetrically distributed compared to oxygen or neon, a product of carbon burning. In addition to the forbidden line emission from products of oxygen burning (S, Ar, Cl), we have also discovered H\u03b1 and H\u03b2 emission from several knots of low surface \u2026",
+            "Integral Field Spectroscopy of Supernova Remnant 1E0102\u20137219 Reveals Fast-moving Hydrogen and Sulfur-rich Ejecta",
+            "Ivo R Seitenzahl and Fr\u00e9d\u00e9ric PA Vogt and Jason P Terry and Parviz Ghavamian and Michael A Dopita and Ashley J Ruiter and Tuguldur Sukhbold",
+            "2018",
+            "CjRkV28AAAAJ:qjMakFHDy7sC",
+            7,
+            "https:\/\/iopscience.iop.org\/article\/10.3847\/2041-8213\/aaa958\/meta",
+            "11583881298264518667",
+            "\/scholar?cites=11583881298264518667",
+            {
+                "2018":1,
+                "2019":1,
+                "2020":3,
+                "2021":2
+            }
+        ]
+    ]
+}

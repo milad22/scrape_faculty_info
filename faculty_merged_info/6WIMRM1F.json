@@ -1,0 +1,40 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "6WIMRM1F",
+            "VC6N2iQAAAAJ",
+            [
+                "Mobile crowd sensing and computing: The review of an emerging human-powered sensing paradigm",
+                "From participatory sensing to mobile crowd sensing",
+                "Opportunistic IoT: Exploring the harmonious interaction between human and the internet of things",
+                "Activity recognition on an accelerometer embedded mobile phone with varying positions and orientations",
+                "Personalized travel package with multi-point-of-interest recommendation based on crowdsourced user footprints",
+                "The emergence of social and community intelligence"
+            ],
+            [
+                "With the surging of smartphone sensing, wireless networking, and mobile social networking techniques, Mobile Crowd Sensing and Computing (MCSC) has become a promising paradigm for cross-space and large-scale sensing. MCSC extends the vision of participatory sensing by leveraging both participatory sensory data from mobile devices (offline) and user-contributed data from mobile social networking services (online). Further, it explores the complementary roles and presents the fusion\/collaboration of machine and human intelligence in the crowd sensing and computing processes. This article characterizes the unique features and novel application areas of MCSC and proposes a reference framework for building human-in-the-loop MCSC systems. We further clarify the complementary nature of human and machine intelligence and envision the potential of deep-fused human--machine systems. We \u2026",
+                "The research on the efforts of combining human and machine intelligence has a long history. With the development of mobile sensing and mobile Internet techniques, a new sensing paradigm called Mobile Crowd Sensing (MCS), which leverages the power of citizens for large-scale sensing has become popular in recent years. As an evolution of participatory sensing, MCS has two unique features: (1) it involves both implicit and explicit participation; (2) MCS collects data from two user-participant data sources: mobile social networks and mobile sensing. This paper presents the literary history of MCS and its unique issues. A reference framework for MCS systems is also proposed. We further clarify the potential fusion of human and machine intelligence in MCS. Finally, we discuss the future research trends as well as our efforts to MCS.",
+                "The traditional view of Internet of Things (IoT) attempts to connect all the physical objects to build a global, infrastructure-based IoT. In this paper, however, we will present opportunistic IoT, which is formed based on the ad hoc, opportunistic networking of devices (e.g., mobile phones and smart vehicles) using short-range radio techniques (e.g., Bluetooth and Wi-Fi). The opportunistic IoT demonstrates inherently the close relationship between human and opportunistic connection of smart things. It enables information forwarding and dissemination within and among the opportunistic communities formed based on the movement and opportunistic contact nature of human. We characterize the bi-directional effects between human and opportunistic IoT, discuss the technical challenges faced by this new research field, and propose a reference architecture for developing opportunistic IoT systems. Some of our ongoing \u2026",
+                "This paper uses accelerometer-embedded mobile phones to monitor one\u2019s daily physical activities for sake of changing people\u2019s sedentary lifestyle. In contrast to the previous work of recognizing user\u2019s physical activities by using a single accelerometer-embedded device and placing it in a known position or fixed orientation, this paper intends to recognize the physical activities in the natural setting where the mobile phone\u2019s position and orientation are varying, depending on the position, material and size of the hosting pocket. By specifying 6 pocket positions, this paper develops a SVM based classifier to recognize 7 common physical activities. Based on 10-folder cross validation result on a 48.2 hour data set collected from 7 subjects, our solution outperforms Yang\u2019s solution and SHPF solution by 5~6%. By introducing an orientation insensitive sensor reading dimension, we boost the overall F-score from \u2026",
+                "Location-based social networks (LBSNs) provide people with an interface to share their locations and write reviews about interesting places of attraction. The shared locations form the crowdsourced digital footprints, in which each user has many connections to many locations, indicating user preference to locations. In this paper, we propose an approach for personalized travel package recommendation to help users make travel plans. The approach utilizes data collected from LBSNs to model users and locations, and it determines users' preferred destinations using collaborative filtering approaches. Recommendations are generated by jointly considering user preference and spatiotemporal constraints. A heuristic search-based travel route planning algorithm was designed to generate travel packages. We developed a prototype system, which obtains users' travel demands from mobile client and generates travel \u2026",
+                "Social and community intelligence research aims to reveal individual and group behaviors, social interactions, and community dynamics by mining the digital traces that people leave while interacting with Web applications, static infrastructure, and mobile and wearable devices."
+            ],
+            [
+                [
+                    "Ubiquitous Computing",
+                    "Mobile Crowd Sensing"
+                ]
+            ]
+        ]
+    ]
+}

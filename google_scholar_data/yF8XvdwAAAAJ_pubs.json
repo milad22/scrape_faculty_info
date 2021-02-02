@@ -1,0 +1,38 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Optical control of atomic interactions in quantum gases is a long-sought goal of cold atom research. Previous experiments have been hindered by rapid decay of the quantum gas and parasitic deformation of the trap potential. We develop and implement a generic scheme for optical control of Feshbach resonances which yields long quantum gas lifetimes and a negligible parasitic dipole force. We show that fast and local control of interactions leads to intriguing quantum dynamics in new regimes, highlighted by the formation of van der Waals molecules and localized collapse of a Bose condensate.",
+            "Quantum dynamics with spatiotemporal control of interactions in a stable Bose-Einstein condensate",
+            "Logan W Clark and Li-Chung Ha and Chen-Yu Xu and Cheng Chin",
+            "2015",
+            "yF8XvdwAAAAJ:u5HHmVD_uO8C",
+            100,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.115.155301",
+            "2451784546872995408",
+            "\/scholar?cites=2451784546872995408",
+            {
+                "2015":4,
+                "2016":14,
+                "2017":17,
+                "2018":30,
+                "2019":18,
+                "2020":17
+            }
+        ]
+    ]
+}

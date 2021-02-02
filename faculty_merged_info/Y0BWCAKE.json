@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Y0BWCAKE",
+            "Rs5Jw8YAAAAJ",
+            [
+                "Characterization of an experimental strange attractor by periodic orbits",
+                "Visualization of quantized vortices",
+                "Transition to shear-driven turbulence in Couette-Taylor flow",
+                "Singularity dynamics in curvature collapse and jet eruption on a fluid surface",
+                "Velocity statistics distinguish quantum turbulence from classical turbulence",
+                "Experimental observation and characterization of the magnetorotational instability",
+                "Turbulent flow between concentric rotating cylinders at large Reynolds number",
+                "Characterization of reconnecting vortices in superfluid helium"
+            ],
+            [
+                "We describe a general procedure to locate periodic saddle orbits in a chaotic attractor reconstructed from experimental data. The method is applied to data from a Belousov-Zhabotinskii chemical reaction. The eigenvalues associated with the saddle orbits are used to estimate the Lyapunov exponents. An analysis of the next amplitude map determines the allowable periodic orbits and yields an estimate of the topological entropy.",
+                "When liquid helium is cooled to below its phase transition at 2.172 K, vortices appear with cores that are only \u00e5ngstr\u00f6ms in diameter, about which the fluid circulates with quantized angular momentum 1. Here we generate small particles of solid hydrogen that can be used to image the cores of quantized vortices in their three-dimensional environment of liquid helium. This technique enables the geometry and interactions of these vortices to be observed directly.",
+                "Turbulent flow between concentric cylinders is studied in experiments for Reynolds numbers 800< R< 1.23\u00d7 10 6 for a system with radius ratio \u03b7= 0.7246. Despite predictions for the torque scaling as a power law of the Reynolds number, high-precision torque measurements reveal no Reynolds-number range with a fixed power law. A well-defined nonhysteretic transition at R= 1.3\u00d7 10 4 is marked by a change in the Reynolds-number dependence of the torque. Flow quantities such as the axial turbulent diffusivity, the time scales asociated with the fluctuations of the wall shear stress, and the root-mean-square fluctuations of the wall shear stress and its time derivative are all shown to be simply related to the global torque measurements. Above the transition, the torque measurements and observed time scales indicate a close correspondence between this closed-flow system and open-wall\u2013bounded-shear flows \u2026",
+                "Finite-time singularities\u2014local divergences in the amplitude or gradient of a physical observable at a particular time\u2014occur in a diverse range of physical systems. Examples include singularities capable of damaging optical fibres and lasers in nonlinear optical systems 1, and gravitational singularities 2 associated with black holes. In fluid systems, the formation of finite-time singularities cause spray and air-bubble entrainment 3, processes which influence air\u2013sea interaction on a global scale 4, 5. Singularities driven by surface tension have been studied in the break-up of pendant drops 6, 7, 8, 9 and liquid sheets 10, 11, 12. Here we report a theoretical and experimental study of the generation of a singularity by inertial focusing, in which no break-up of the fluid surface occurs. Inertial forces cause a collapse of the surface that leads to jet formation; our analysis, which includes surface tension effects, predicts that \u2026",
+                "By analyzing trajectories of solid hydrogen tracers, we find that the distributions of velocity in decaying quantum turbulence in superfluid He 4 are strongly non-Gaussian with 1\/v 3 power-law tails. These features differ from the near-Gaussian statistics of homogenous and isotropic turbulence of classical fluids. We examine the dynamics of many events of reconnection between quantized vortices and show by simple scaling arguments that they produce the observed power-law tails.",
+                "Differential rotation occurs in conducting flows in accretion disks and planetary cores. In such systems, the magnetorotational instability can arise from coupling Lorentz and centrifugal forces to cause large radial angular momentum fluxes. We present the first experimental observation of the magnetorotational instability. Our system consists of liquid sodium between differentially rotating spheres, with an imposed coaxial magnetic field. We characterize the observed patterns, dynamics, and torque increases, and establish that this instability can occur from a hydrodynamic turbulent background.",
+                "Turbulent Taylor vortex flow is studied in experiments for Reynolds numbers 10 3< R< 10 6. Simple scaling of the torque with Reynolds number is m\/Inot observed for any range of R, although the characteristic time scales and the transport of passive scalars are found to scale with the global torque measurements. Above a nonhysteretic transition observed at R= 1.3\u00d7 10 4, the torque has a Reynolds number dependence similar to the drag observed in wall-bounded shear flows such as pipe flow and flow over a flat plate.",
+                "When two vortices cross, each of them breaks into two parts and exchanges part of itself for part of the other. This process, called vortex reconnection, occurs in classical and superfluids, and in magnetized plasmas and superconductors. We present the first experimental observations of reconnection between quantized vortices in superfluid helium. We do so by imaging micrometer-sized solid hydrogen particles trapped on quantized vortex cores and by inferring the occurrence of reconnection from the motions of groups of recoiling particles. We show that the distance separating particles on the just-reconnected vortex lines grows as a power law in time. The average value of the scaling exponent is approximately \u00bd, consistent with the self-similar evolution of the vortices."
+            ],
+            [
+                [
+                    "geophysics",
+                    "turbulence",
+                    "superfluids",
+                    "nonlinear dynamics",
+                    "machine learning"
+                ]
+            ]
+        ]
+    ]
+}

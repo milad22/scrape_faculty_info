@@ -1,0 +1,127 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "UFZtvPMAAAAJ",
+            "Andrea Banzatti",
+            "Assistant Professor, Texas State University",
+            "@txstate.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=UFZtvPMAAAAJ",
+            838,
+            [
+                "Planet formation",
+                "protoplanetary disks",
+                "high-resolution spectroscopy",
+                "millimeter interferometry"
+            ],
+            768,
+            17,
+            16,
+            17,
+            17,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"mKzVUSUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Klaus Pontoppidan",
+                    "affiliation":"Space Telescope Science Institute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"aTnn5yYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Geoffrey A. Blake",
+                    "affiliation":"Professor of Planetary Science, California Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"TxEUq2YAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mihkel Kama",
+                    "affiliation":"University College London (UK) \/ University of Tartu (EE)"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ZguyNSsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ewine van Dishoeck",
+                    "affiliation":""
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Pzni2ZwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Leonardo Testi",
+                    "affiliation":"ESO\/INAF"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"IRXhPQ4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Fred Ciesla",
+                    "affiliation":"Professor of Geophysical Sciences, University of Chicago"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9uDIsysAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Til Birnstiel",
+                    "affiliation":"LMU M\u00fcnchen"
+                }
+            ]
+        ]
+    ]
+}

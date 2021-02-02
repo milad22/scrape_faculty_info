@@ -1,0 +1,152 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Wq6JQhwAAAAJ",
+            "Thad G. Walker",
+            "Professor of Physics, University of Wisconsin-Madison",
+            "@wisc.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=Wq6JQhwAAAAJ",
+            15381,
+            [
+                "Atomic Physics",
+                "Molecular Physics",
+                "Optical Physics",
+                "Magnetometry",
+                "Laser Cooling"
+            ],
+            5243,
+            58,
+            32,
+            142,
+            76,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"d5jVVBoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mark Saffman",
+                    "affiliation":"Professor of Physics, University of Wisconsin-Madison, Madison, WI."
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"OaKUDpAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"E. Babcock",
+                    "affiliation":"Juelich Centre for Neutron Science"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"kGBYL4UAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Thomas R. Gentile",
+                    "affiliation":"National Institute of Standards and Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6LvZI5YAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Xianli Zhang",
+                    "affiliation":"Microchip"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"h24312AAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Carl Wieman",
+                    "affiliation":"stanford university"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"gmRFx2MAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Robert Wyllie",
+                    "affiliation":"Senior Research Scientist, Quantum Systems Division, Georgia Tech Research Institute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"hQI87XoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"wangchun chen",
+                    "affiliation":"NIST, University of Maryland, Indiana University, University of Illinois"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"4GrN8dEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Raymond Newell",
+                    "affiliation":"Los Alamos National Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3ZwIrtYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Robert S. Williamson III",
+                    "affiliation":"VP, Product Strategy, ColdQuanta, Inc."
+                }
+            ]
+        ]
+    ]
+}

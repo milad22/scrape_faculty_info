@@ -1,0 +1,92 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "RZW3ysYAAAAJ",
+            "Varda Faghir Hagh",
+            "Postdoctoral Scholar, University of Chicago",
+            "@uchicago.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=RZW3ysYAAAAJ",
+            73,
+            [
+                "Soft Condensed Matter",
+                "Rigidity Theory",
+                "Jamming",
+                "Mechanical Meta-materials",
+                "Directed Aging"
+            ],
+            68,
+            3,
+            3,
+            1,
+            1,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"JkbiOhgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michael Thorpe",
+                    "affiliation":"Foundation Professor, Arizona State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"zbfhi-sAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Wouter G. Ellenbroek",
+                    "affiliation":"Eindhoven University of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"d8IY7WgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"martin van hecke",
+                    "affiliation":"Leiden University \/ Amolf"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"yIsdY40AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Avishek Kumar",
+                    "affiliation":"Intuit AI"
+                }
+            ]
+        ]
+    ]
+}

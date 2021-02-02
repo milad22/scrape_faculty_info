@@ -1,0 +1,189 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ],
+    "data":[
+        [
+            "In this paper, we propose a new tool to efficiently extract a class of \u201clow-rank textures\u201d in a 3D scene from user-specified windows in 2D images despite significant corruptions and warping. The low-rank textures capture geometrically meaningful structures in an image, which encompass conventional local features such as edges and corners as well as many kinds of regular, symmetric patterns ubiquitous in urban environments and man-made objects. Our approach to finding these low-rank textures leverages the recent breakthroughs in convex optimization that enable robust recovery of a high-dimensional low-rank matrix despite gross sparse errors. In the case of planar regions with significant affine or projective deformation, our method can accurately recover both the intrinsic low-rank texture and the unknown transformation, and hence both the geometry and appearance of the associated planar region in \u2026",
+            "TILT: Transform invariant low-rank textures",
+            "Z Zhang and X Liang and A Ganesh and Y Ma",
+            "2012",
+            "xF7oivwAAAAJ:qjMakFHDy7sC",
+            367,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1007\/s11263-012-0515-x.pdf",
+            "12352164204398933305",
+            "\/scholar?cites=12352164204398933305",
+            {
+                "2009":1,
+                "2010":3,
+                "2011":10,
+                "2012":32,
+                "2013":51,
+                "2014":56,
+                "2015":41,
+                "2016":51,
+                "2017":39,
+                "2018":35,
+                "2019":25,
+                "2020":14,
+                "2021":1
+            }
+        ],
+        [
+            "Machine learning plays a critical role in extracting meaningful information out of the zetabytes of sensor data collected every day. For some applications, the goal is to analyze and understand the data to identify trends (e.g., surveillance, portable\/wearable electronics); in other applications, the goal is to take immediate action based the data (e.g., robotics\/drones, self-driving cars, smart Internet of Things). For many of these applications, local embedded processing near the sensor is preferred over the cloud due to privacy or latency concerns, or limitations in the communication bandwidth. However, at the sensor there are often stringent constraints on energy consumption and cost in addition to throughput and accuracy requirements. Furthermore, flexibility is often required such that the processing can be adapted for different applications or environments (e.g., update the weights and model in the classifier). In many \u2026",
+            "Hardware for machine learning: Challenges and opportunities",
+            "Vivienne Sze and Yu-Hsin Chen and Joel Emer and Amr Suleiman and Zhengdong Zhang",
+            "2017",
+            "xF7oivwAAAAJ:4DMP91E08xMC",
+            143,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7993626\/",
+            "9805786963817022987",
+            "\/scholar?cites=9805786963817022987",
+            {
+                "2017":5,
+                "2018":22,
+                "2019":67,
+                "2020":49
+            }
+        ],
+        [
+            "We present a simple, accurate, and flexible method to calibrate intrinsic parameters of a camera together with (possibly significant) lens distortion. This new method can work under a wide range of practical scenarios: using multiple images of a known pattern, multiple images of an unknown pattern, single or multiple image(s) of multiple patterns, etc. Moreover, this new method does not rely on extracting any low-level features such as corners or edges. It can tolerate considerably large lens distortion, noise, error, illumination and viewpoint change, and still obtain accurate estimation of the camera parameters. The new method leverages on the recent breakthroughs in powerful high-dimensional convex optimization tools, especially those for matrix rank minimization and sparse signal recovery. We will show how the camera calibration problem can be formulated as an important extension to principal component \u2026",
+            "Camera calibration with lens distortion from low-rank textures",
+            "Zhengdong Zhang and Yasuyuki Matsushita and Yi Ma",
+            "2011",
+            "xF7oivwAAAAJ:d1gkVwhDpl0C",
+            119,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/5995548\/",
+            "9348742349193151802",
+            "\/scholar?cites=9348742349193151802",
+            {
+                "2011":1,
+                "2012":12,
+                "2013":19,
+                "2014":12,
+                "2015":14,
+                "2016":13,
+                "2017":16,
+                "2018":7,
+                "2019":12,
+                "2020":9
+            }
+        ],
+        [
+            "Low-dimensional topic models have been proven very useful for modeling a large corpus of documents that share a relatively small number of topics. Dimensionality reduction tools such as Principal Component Analysis or Latent Semantic Indexing (LSI) have been widely adopted for document modeling, analysis, and retrieval. In this paper, we contend that a more pertinent model for a document corpus as the combination of an (approximately) low-dimensional topic model for the corpus and a sparse model for the keywords of individual documents. For such a joint topic-document model, LSI or PCA is no longer appropriate to analyze the corpus data. We hence introduce a powerful new tool called Principal Component Pursuit that can effectively decompose the low-dimensional and the sparse components of such corpus data. We give empirical results on data synthesized with a Latent Dirichlet Allocation (LDA \u2026",
+            "Decomposing background topics from keywords by principal component pursuit",
+            "Kerui Min and Zhengdong Zhang and John Wright and Yi Ma",
+            "2010",
+            "xF7oivwAAAAJ:u-x6o8ySG0sC",
+            100,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/1871437.1871475",
+            "16037187504958798823",
+            "\/scholar?cites=16037187504958798823",
+            {
+                "2010":2,
+                "2011":11,
+                "2012":7,
+                "2013":13,
+                "2014":11,
+                "2015":19,
+                "2016":9,
+                "2017":8,
+                "2018":5,
+                "2019":8,
+                "2020":3,
+                "2021":1
+            }
+        ],
+        [
+            "In this paper, we show how to harness both low-rank and sparse structures in regular or near regular textures for image completion. Our method leverages the new convex optimization for low-rank and sparse signal recovery and can automatically correctly repair the global structure of a corrupted texture, even without precise information about the regions to be completed. Through extensive simulations, we show our method can complete and repair textures corrupted by errors with both random and contiguous supports better than existing low-rank matrix recovery methods. Through experimental comparisons with existing image completion systems (such as Photoshop) our method demonstrate significant advantage over local patch based texture synthesis techniques in dealing with large corruption, non-uniform texture, and large perspective deformation.",
+            "Repairing sparse low-rank texture",
+            "Xiao Liang and Xiang Ren and Zhengdong Zhang and Yi Ma",
+            "2012",
+            "xF7oivwAAAAJ:2osOgNQ5qMEC",
+            66,
+            "https:\/\/link.springer.com\/chapter\/10.1007\/978-3-642-33715-4_35",
+            "12907347064400621058",
+            "\/scholar?cites=12907347064400621058",
+            {
+                "2013":5,
+                "2014":14,
+                "2015":9,
+                "2016":11,
+                "2017":10,
+                "2018":10,
+                "2019":6
+            }
+        ],
+        [
+            "Recently Transformer and Convolution neural network (CNN) based models have shown promising results in Automatic Speech Recognition (ASR), outperforming Recurrent neural networks (RNNs). Transformer models are good at capturing content-based global interactions, while CNNs exploit local features effectively. In this work, we achieve the best of both worlds by studying how to combine convolution neural networks and transformers to model both local and global dependencies of an audio sequence in a parameter-efficient way. To this regard, we propose the convolution-augmented transformer for speech recognition, named Conformer. Conformer significantly outperforms the previous Transformer and CNN based models achieving state-of-the-art accuracies. On the widely used LibriSpeech benchmark, our model achieves WER of 2.1%\/4.3% without using a language model and 1.9%\/3.9% with an external language model on test\/testother. We also observe competitive performance of 2.7%\/6.3% with a small model of only 10M parameters.",
+            "Conformer: Convolution-augmented transformer for speech recognition",
+            "Anmol Gulati and James Qin and Chung-Cheng Chiu and Niki Parmar and Yu Zhang and Jiahui Yu and Wei Han and Shibo Wang and Zhengdong Zhang and Yonghui Wu and Ruoming Pang",
+            "2020",
+            "xF7oivwAAAAJ:iH-uZ7U-co4C",
+            43,
+            "https:\/\/arxiv.org\/abs\/2005.08100",
+            "9289975417026727568",
+            "\/scholar?cites=9289975417026727568",
+            {
+                "2020":41,
+                "2021":2
+            }
+        ],
+        [
+            "In this paper, we show how to reconstruct both 3D shape and 2D texture of a class of surfaces from a single perspective image. We consider the so-called the generalized cylindrical surfaces that are wrapped with low-rank textures. They can be used to model most curved building facades in urban areas or deformed book pages scanned for text recognition. Our method leverages on the recent new techniques for low-rank matrix recovery and sparse error correction and it generalizes existing techniques from planar surfaces to a much larger class of important 3D surfaces. As we will show with extensive simulations and experiments, the proposed algorithm can precisely rectify deformation of textures caused by both perspective projection and surface shape. It works for a wide range of symmetric or regular textures that are ubiquitous in images of urban environments, objects, or texts, and it is very robust to sparse \u2026",
+            "Unwrapping low-rank textures on generalized cylindrical surfaces",
+            "Zhengdong Zhang and Xiao Liang and Yi Ma",
+            "2011",
+            "xF7oivwAAAAJ:9yKSN-GCB0IC",
+            38,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6126388\/",
+            "2690667675035580646",
+            "\/scholar?cites=2690667675035580646",
+            {
+                "2012":7,
+                "2013":5,
+                "2014":4,
+                "2015":8,
+                "2016":5,
+                "2017":3,
+                "2018":3,
+                "2019":3
+            }
+        ],
+        [
+            "Autonomous navigation of miniaturized robots (e.g., nano\/pico aerial vehicles) is currently a grand challenge for robotics research, due to the need of processing a large amount of sensor data (e.g., camera frames) with limited on-board computational resources. In this paper we focus on the design of a visual-inertial odometry (VIO) system in which the robot estimates its ego-motion (and a landmark-based map) from on- board camera and IMU data. We argue that scaling down VIO to miniaturized platforms (without sacrificing performance) requires a paradigm shift in the design of perception algorithms, and we advocate a co-design approach in which algorithmic and hardware design choices are tightly coupled. Our contribution is four-fold. First, we discuss the VIO co-design problem, in which one tries to attain a desired resource-performance trade-off, by making suitable design choices (in terms of hardware, algorithms, implementation, and parameters). Second, we characterize the design space, by discussing how a relevant set of design choices affects the resource-performance trade-off in VIO. Third, we provide a systematic experiment-driven way to explore the design space, towards a design that meets the desired trade-off. Fourth, we demonstrate the result of the co-design process by providing a VIO implementation on specialized hardware and showing that such implementation has the same accuracy and speed of a desktop implementation, while requiring a fraction of the power.",
+            "Visual-inertial odometry on chip: An algorithm-and-hardware co-design approach",
+            "Zhengdong Zhang and Amr AbdulZahir Suleiman and Luca Carlone and Vivienne Sze and Sertac Karaman",
+            "2017",
+            "xF7oivwAAAAJ:ZeXyd9-uunAC",
+            29,
+            "https:\/\/dspace.mit.edu\/handle\/1721.1\/109522",
+            "1540484784121694000",
+            "\/scholar?cites=1540484784121694000",
+            {
+                "2018":11,
+                "2019":11,
+                "2020":7
+            }
+        ]
+    ]
+}

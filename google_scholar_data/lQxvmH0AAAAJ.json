@@ -1,0 +1,80 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "lQxvmH0AAAAJ",
+            "Joseph R. Dwyer",
+            "University of New Hampshire",
+            "@unh.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=lQxvmH0AAAAJ",
+            9435,
+            [
+                "lightning",
+                "thunderstorms",
+                "Terrestrial gamma ray flashes (TGFs)",
+                "space physics",
+                "astrophysics"
+            ],
+            3645,
+            55,
+            36,
+            130,
+            97,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"o6iQ6nMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mahendra Fernando",
+                    "affiliation":"Department of Physics, University of Colombo, Sri Lanka"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"GZLhRJAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Robert van Woesik",
+                    "affiliation":"Professor of Biology, Florida Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fRjSWV8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Timothy McKay",
+                    "affiliation":"Professor of Physics, Astronomy, & Education, University of Michigan"
+                }
+            ]
+        ]
+    ]
+}

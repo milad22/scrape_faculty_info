@@ -1,0 +1,36 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "NKGW7XGK",
+            "IdgI3skAAAAJ",
+            [
+                "Restoring the density-gradient expansion for exchange in solids and surfaces",
+                "Strongly constrained and appropriately normed semilocal density functional",
+                "Prescription for the design and selection of density functional approximations: More constraint satisfaction with fewer fits"
+            ],
+            [
+                "Popular modern generalized gradient approximations are biased toward the description of free-atom energies. Restoration of the first-principles gradient expansion for exchange over a wide range of density gradients eliminates this bias. We introduce a revised Perdew-Burke-Ernzerhof generalized gradient approximation that improves equilibrium properties of densely packed solids and their surfaces.",
+                "The ground-state energy, electron density, and related properties of ordinary matter can be computed efficiently when the exchange-correlation energy as a functional of the density is approximated semilocally. We propose the first meta-generalized-gradient approximation (meta-GGA) that is fully constrained, obeying all 17 known exact constraints that a meta-GGA can. It is also exact or nearly exact for a set of \u201cappropriate norms,\u201d including rare-gas atoms and nonbonded interactions. This strongly constrained and appropriately normed meta-GGA achieves remarkable accuracy for systems where the exact exchange-correlation hole is localized near its electron, and especially for lattice constants and weak interactions.",
+                "We present the case for the nonempirical construction of density functional approximations for the exchange-correlation energy by the traditional method of \u201cconstraint satisfaction\u201d without fitting to data sets, and present evidence that this approach has been successful on the first three rungs of \u201cJacob\u2019s ladder\u201d of density functional approximations [local spin-density approximation (LSD), generalized gradient approximation (GGA), and meta-GGA]. We expect that this approach will also prove successful on the fourth and fifth rungs (hyper-GGA or hybrid and generalized random-phase approximation). In particular, we argue for the theoretical and practical importance of recovering the correct uniform density limit, which many semiempirical functionals fail to do. Among the beyond-LSD functionals now available to users, we recommend the nonempirical Perdew\u2013Burke\u2013Ernzerhof (PBE) GGA and the nonempirical Tao \u2026"
+            ],
+            [
+                [
+                    "Time dependent DFT",
+                    "Density Functional Theory",
+                    "Many Body Theory",
+                    "Computational Materials Science"
+                ]
+            ]
+        ]
+    ]
+}

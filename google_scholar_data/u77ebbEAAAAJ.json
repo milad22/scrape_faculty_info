@@ -1,0 +1,127 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "u77ebbEAAAAJ",
+            "Katherine Levine Einstein",
+            "Associate Professor of Political Science, Boston University",
+            "@bu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=u77ebbEAAAAJ",
+            770,
+            [
+                "local politics and policy",
+                "racial and ethnic politics",
+                "political geography",
+                "and American public policy"
+            ],
+            730,
+            13,
+            13,
+            14,
+            14,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"qLpCyAsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David Glick",
+                    "affiliation":"Associate Professor of Political Science, Boston University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"sdXMfAsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Maxwell Palmer",
+                    "affiliation":"Boston University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"qJ9ZylcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jennifer Hochschild",
+                    "affiliation":"Professor of Government, Harvard University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"FTBmX5cAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Vladimir Kogan",
+                    "affiliation":"Associate Professor, Ohio State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"aYR4pQcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kris-Stella Trump",
+                    "affiliation":"Assistant Professor, University of Memphis"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fZN63gwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Vanessa Williamson",
+                    "affiliation":"Brookings Institution"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"sOrdzV4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Katharine Lusk",
+                    "affiliation":"co-Director, Boston University Initiative on Cities"
+                }
+            ]
+        ]
+    ]
+}

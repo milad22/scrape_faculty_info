@@ -1,0 +1,35 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "HULI59NV",
+            "JpTaS90AAAAJ",
+            [
+                "Qubit architecture with high coherence and fast tunable coupling",
+                "Superconducting qubit storage and entanglement with nanomechanical resonators",
+                "Emulation of a quantum spin with a superconducting phase qudit",
+                "Quantum mechanics of electrons in crystals with graded composition"
+            ],
+            [
+                "We introduce a superconducting qubit architecture that combines high-coherence qubits and tunable qubit-qubit coupling. With the ability to set the coupling to zero, we demonstrate that this architecture is protected from the frequency crowding problems that arise from fixed coupling. More importantly, the coupling can be tuned dynamically with nanosecond resolution, making this architecture a versatile platform with applications ranging from quantum logic gates to quantum simulation. We illustrate the advantages of dynamical coupling by implementing a novel adiabatic controlled-z gate, with a speed approaching that of single-qubit gates. Integrating coherence and scalable control, the introduced qubit architecture provides a promising path towards large-scale quantum computation and simulation.",
+                "We propose a quantum computing architecture based on the integration of nanomechanical resonators with Josephson-junction phase qubits. The resonators are GHz-frequency, dilatational disk resonators, which couple to the junctions through a piezoelectric interaction. The system is analogous to a collection of tunable few-level atoms (the Josephson junctions) coupled to one or more electromagnetic cavities (the resonators). Our architecture combines desirable features of solid-state and optical approaches and may make quantum computing possible in a scalable, solid-state environment.",
+                "In quantum information processing, qudits (d-level systems) are an extension of qubits that could speed up certain computing tasks. We demonstrate the operation of a superconducting phase qudit with a number of levels d up to d = 5 and show how to manipulate and measure the qudit state, including simultaneous control of multiple transitions. We used the qudit to emulate the dynamics of single spins with principal quantum number s = 1\/2, 1, and 3\/2, allowing a measurement of Berry\u2019s phase and the even parity of integer spins (and odd parity of half-integer spins) under 2\u03c0-rotation. This extension of the two-level qubit to a multilevel qudit holds promise for more-complex quantum computational architectures and for richer simulations of quantum mechanical systems.",
+                "We construct the effective Hamiltonian describing the motion of electrons in compositionally graded crystals which is valid throughout a given energy band and part way into the gaps. Near the edges of a simple or degenerate band this effective Hamiltonian reduces to an effective mass Hamiltonian with position dependent effective mass. Next, we examine more general states\u2014not restricted to the vicinity of a band edge\u2014in crystals with composition and applied potential variation in one direction. We obtain a WKB-type solution for the envelope functions, as well as the appropriate turning point connection rules."
+            ],
+            [
+                [
+                    "Quantum Computation"
+                ]
+            ]
+        ]
+    ]
+}

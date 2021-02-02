@@ -1,0 +1,235 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "data":[
+        [
+            "Cell size in cellular networks is in general fixed based on the estimated traffic load. However, the traffic load can have significant spatial and temporal fluctuations, which bring both challenges and opportunities to the planning and operating of cellular networks. This article introduces a concept of cell zooming, which adaptively adjusts the cell size according to traffic load, user requirements and channel conditions. The implementation issues of cell zooming are then presented. Finally a usage case of cell zooming for energy saving is investigated. Centralized and distributed cell zooming algorithms are developed, and simulation results show that the proposed algorithms can greatly reduce the energy consumption, which leads to green cellular networks.",
+            "Cell zooming for cost-efficient green cellular networks",
+            "Zhisheng Niu and Yiqun Wu and Jie Gong and Zexi Yang",
+            "2010",
+            "GEnJHlMAAAAJ:u5HHmVD_uO8C",
+            862,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/5621970\/",
+            "10624656233780293824",
+            "\/scholar?cites=10624656233780293824",
+            {
+                "2011":30,
+                "2012":92,
+                "2013":120,
+                "2014":111,
+                "2015":138,
+                "2016":130,
+                "2017":92,
+                "2018":55,
+                "2019":40,
+                "2020":38,
+                "2021":2
+            }
+        ],
+        [
+            "The explosive development of ICT (information and communication technology) industry has emerged as one of the major sources of world energy consumption. Therefore, this paper concerns about the BS (base station) energy saving issue, for most energy consumption of the communication network comes from the BSs and the core network. Particularly, we consider dynamically turning off certain BSs when the network traffic is low. Centralized and decentralized implementations are investigated. Simulations demonstrate the energy efficiency of the proposed algorithms and the tradeoff between energy saving and coverage guarantee.",
+            "Green mobile access network with dynamic base station energy saving",
+            "Sheng Zhou and Jie Gong and Zexi Yang and Zhisheng Niu and Peng Yang",
+            "2009",
+            "GEnJHlMAAAAJ:u-x6o8ySG0sC",
+            320,
+            "https:\/\/www.researchgate.net\/profile\/Jie_Gong5\/publication\/228642664_Green_mobile_access_network_with_dynamic_base_station_energy_saving\/links\/00b4952afa0169d2dc000000.pdf",
+            "16927589730076287605",
+            "\/scholar?cites=16927589730076287605",
+            {
+                "2010":15,
+                "2011":25,
+                "2012":44,
+                "2013":51,
+                "2014":40,
+                "2015":43,
+                "2016":39,
+                "2017":24,
+                "2018":13,
+                "2019":15,
+                "2020":5,
+                "2021":3
+            }
+        ],
+        [
+            "We consider energy-efficient wireless resource management in cellular networks where base stations (BSs) are equipped with energy harvesting devices, using statistical information for traffic intensity and renewable energy. The problem is formulated as adapting BSs' on-off states, active resource blocks (e.g., subcarriers), and renewable energy allocation to minimize the average grid power consumption while satisfying the users' quality of service (blocking probability) requirements. It is transformed into an unconstrained optimization problem to minimize a weighted sum of grid power consumption and blocking probability. A two-stage dynamic programming algorithm is proposed to solve this problem, by which the BSs' on-off states are optimized in the first stage, and the active BSs' resource blocks are allocated iteratively in the second stage. Compared with the optimal joint BSs' on-off states and active resource \u2026",
+            "Base station sleeping and resource allocation in renewable energy powered cellular networks",
+            "Jie Gong and John S Thompson and Sheng Zhou and Zhisheng Niu",
+            "2014",
+            "GEnJHlMAAAAJ:Tyk-4Ss8FVUC",
+            141,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6907934\/",
+            "15522972809135388321",
+            "\/scholar?cites=15522972809135388321",
+            {
+                "2013":2,
+                "2014":2,
+                "2015":17,
+                "2016":30,
+                "2017":30,
+                "2018":31,
+                "2019":11,
+                "2020":17,
+                "2021":1
+            }
+        ],
+        [
+            "With small cell base stations (SBSs) densely deployed in addition to conventional macro base stations (MBSs), the heterogeneous cellular network (HCN) architecture can effectively boost network capacity. To support the huge power demand of HCNs, renewable energy harvesting technologies can be leveraged. In this paper, we aim to make efficient use of the harvested energy for on-grid power saving while satisfying the quality of service (QoS) requirement. To this end, energy-aware traffic offloading schemes are proposed, whereby user associations, ON-OFF states of SBSs, and power control are jointly optimized according to the statistical information of energy arrival and traffic load. Specifically, for the single SBS case, the power saving gain achieved by activating the SBS is derived in closed form, based on which the SBS activation condition and optimal traffic offloading amount are obtained. Furthermore, a \u2026",
+            "Energy-aware traffic offloading for green heterogeneous networks",
+            "Shan Zhang and Ning Zhang and Sheng Zhou and Jie Gong and Zhisheng Niu and Xuemin Shen",
+            "2016",
+            "GEnJHlMAAAAJ:aqlVkmm33-oC",
+            134,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7389348\/",
+            "6198376974364300464",
+            "\/scholar?cites=6198376974364300464",
+            {
+                "2016":21,
+                "2017":40,
+                "2018":30,
+                "2019":22,
+                "2020":21
+            }
+        ],
+        [
+            "In this paper, we consider a scenario where an unmanned aerial vehicle (UAV) collects data from a set of sensors on a straight line. The UAV can either cruise or hover while communicating with the sensors. The objective is to minimize the UAV's total flight time from a starting point to a destination while allowing each sensor to successfully upload a certain amount of data using a given amount of energy. The whole trajectory is divided into non-overlapping data collection intervals, in each of which one sensor is served by the UAV. The data collection intervals, the UAV's speed, and the sensors' transmit powers are jointly optimized. The formulated flight time minimization problem is difficult to solve. We first show that when only one sensor is present, the sensor's transmit power follows a water-filling policy and the UAV's speed can be found efficiently by bisection search. Then, we show that for the general case with \u2026",
+            "Flight time minimization of UAV for data collection over wireless sensor networks",
+            "Jie Gong and Tsung-Hui Chang and Chao Shen and Xiang Chen",
+            "2018",
+            "GEnJHlMAAAAJ:e5wmG9Sq2KIC",
+            122,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/8432487\/",
+            "15201365694001114720",
+            "\/scholar?cites=15201365694001114720",
+            {
+                "2018":6,
+                "2019":46,
+                "2020":65,
+                "2021":4
+            }
+        ],
+        [
+            "The explosive growth of mobile multimedia traffic calls for scalable wireless access with high quality of service and low energy cost. Motivated by the emerging energy harvesting communications, and the trend of caching multimedia contents at the access edge and user terminals, we propose a paradigm shifting framework, GreenDelivery, enabling efficient content delivery with energy harvesting based small cells. To resolve the two-dimensional randomness of energy harvesting and content request arrivals, proactive caching and push are jointly optimized, with respect to the content popularity distribution and battery states. We thus develop a novel way of understanding the interplay between content and energy over time and space. Case studies are provided to show the substantial reduction of macro BS activities, and thus the related energy consumption from the power grid is reduced. Research issues of the \u2026",
+            "GreenDelivery: Proactive content caching and push with energy-harvesting-based small cells",
+            "Sheng Zhou and Jie Gong and Zhenyu Zhou and Wei Chen and Zhisheng Niu",
+            "2015",
+            "GEnJHlMAAAAJ:Wp0gIr-vW9MC",
+            114,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7081087\/",
+            "13463144238472796560",
+            "\/scholar?cites=13463144238472796560",
+            {
+                "2015":6,
+                "2016":19,
+                "2017":24,
+                "2018":29,
+                "2019":19,
+                "2020":16
+            }
+        ],
+        [
+            "The successful realization of smart energy management relies on ubiquitous and reliable information exchange among millions of sensors and actuators deployed in the field with little or no human intervention. This motivates us to propose a unified communication framework for smart energy management by exploring the integration of software-defined networking with machine-to-machine communication. In this article, first we provide a comprehensive review of the state-of-the-art contributions from the perspective of software defined networking and machineto- machine integration. Second, the overall design of the proposed software-defined machine-to-machine (SD-M2M) framework is presented, with an emphasis on its technical contributions to cost reduction, fine granularity resource allocation, and end-to-end quality of service guarantee. Then a case study is conducted for an electric vehicle energy \u2026",
+            "Software defined machine-to-machine communication for smart energy management",
+            "Zhenyu Zhou and Jie Gong and Yejun He and Yan Zhang",
+            "2017",
+            "GEnJHlMAAAAJ:TQgYirikUcIC",
+            111,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/8067685\/",
+            "5925665362710745982",
+            "\/scholar?cites=5925665362710745982",
+            {
+                "2016":1,
+                "2017":7,
+                "2018":22,
+                "2019":47,
+                "2020":33,
+                "2021":1
+            }
+        ],
+        [
+            "This paper considers the power allocation of a single-link wireless communication with joint energy harvesting and grid power supply. We formulate the problem as minimizing the grid power consumption with random energy and data arrival in fading channel, and analyze the structure of the optimal power allocation policy in some special cases. For the case that all the packets are arrived before transmission, it is a dual problem of throughput maximization, and the optimal solution is found by the two-stage water filling (WF) policy, which allocates the harvested energy in the first stage, and then allocates the power grid energy in the second stage. For the random data arrival case, we first assume grid energy or harvested energy supply only, and then combine the results to obtain the optimal structure of the coexisting system. Specifically, the reverse multi-stage WF policy is proposed to achieve the optimal power \u2026",
+            "Optimal power allocation for energy harvesting and power grid coexisting wireless communication systems",
+            "Jie Gong and Sheng Zhou and Zhisheng Niu",
+            "2013",
+            "GEnJHlMAAAAJ:IjCSPb-OGe4C",
+            97,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6528072\/",
+            "17201019689812095508",
+            "\/scholar?cites=17201019689812095508",
+            {
+                "2013":3,
+                "2014":16,
+                "2015":17,
+                "2016":25,
+                "2017":15,
+                "2018":11,
+                "2019":3,
+                "2020":6
+            }
+        ],
+        [
+            "The energy consumption of information and communication technology (ICT) industry has become a serious problem, which mostly comes from the network infrastructure, rather than the mobile terminals. In this paper, we consider densely deployed cellular networks where the coverage of base stations (BSs) overlaps and the traffic intensity varies over time and space. An energy saving algorithm is proposed by dynamically adjusting the working modes (active or sleeping) of BSs according to the traffic variation with respect to certain blocking probability requirement. In addition, to prevent frequent mode switching, BSs are set to hold their current working modes for at least a given interval. Simulations demonstrate that the proposed strategy can greatly reduce energy consumption with blocking probability guarantee, and the performance is insensitive to the mode holding time within certain range.",
+            "Traffic-aware base station sleeping in dense cellular networks",
+            "Jie Gong and Sheng Zhou and Zhisheng Niu and Peng Yang",
+            "2010",
+            "GEnJHlMAAAAJ:2osOgNQ5qMEC",
+            88,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/5542725\/",
+            "10839497885935529200",
+            "\/scholar?cites=10839497885935529200",
+            {
+                "2011":4,
+                "2012":13,
+                "2013":7,
+                "2014":14,
+                "2015":11,
+                "2016":17,
+                "2017":8,
+                "2018":4,
+                "2019":7,
+                "2020":3
+            }
+        ],
+        [
+            "To further improve the energy efficiency of heterogeneous networks, a separation architecture called hyper-cellular network (HCN) has been proposed, which decouples the control signaling and data transmission functions. Specifically, the control coverage is guaranteed by macro base stations (MBSs), whereas small cells (SCs) are only utilized for data transmission. Under HCN, SCs can be dynamically turned off when traffic load decreases for energy saving. A fundamental problem then arises: how many SCs can be turned off as traffic varies? In this paper, we address this problem in a theoretical way, where two sleeping schemes (i.e., random and repulsive schemes) with vertical inter-layer offloading are considered. Analytical results indicate the following facts: 1) under the random scheme where SCs are turned off with certain probability, the expected ratio of sleeping SCs is inversely proportional to the traffic \u2026",
+            "How many small cells can be turned off via vertical offloading under a separation architecture?",
+            "Shan Zhang and Jie Gong and Sheng Zhou and Zhisheng Niu",
+            "2015",
+            "GEnJHlMAAAAJ:4DMP91E08xMC",
+            72,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7114343\/",
+            "3086777150985729033",
+            "\/scholar?cites=3086777150985729033",
+            {
+                "2015":2,
+                "2016":16,
+                "2017":25,
+                "2018":12,
+                "2019":12,
+                "2020":5
+            }
+        ]
+    ]
+}

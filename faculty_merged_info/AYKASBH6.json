@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "AYKASBH6",
+            "Pn8ouvAAAAAJ",
+            [
+                "Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set",
+                "From ultrasoft pseudopotentials to the projector augmented-wave method",
+                "Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set",
+                "Ab initio molecular dynamics for liquid metals",
+                "Ab initio molecular-dynamics simulation of the liquid-metal\u2013amorphous-semiconductor transition in germanium",
+                "Ab initio molecular dynamics for open-shell transition metals",
+                "Norm-conserving and ultrasoft pseudopotentials for first-row and transition elements",
+                "Screened hybrid density functionals applied to solids",
+                "Screened hybrid density functionals applied to solids",
+                "Linear optical properties in the projector-augmented wave methodology"
+            ],
+            [
+                "We present an efficient scheme for calculating the Kohn-Sham ground state of metallic systems using pseudopotentials and a plane-wave basis set. In the first part the application of Pulay\u2019s DIIS method (direct inversion in the iterative subspace) to the iterative diagonalization of large matrices will be discussed. Our approach is stable, reliable, and minimizes the number of order N atoms 3 operations. In the second part, we will discuss an efficient mixing scheme also based on Pulay\u2019s scheme. A special \u2018\u2018metric\u2019\u2019and a special \u2018\u2018preconditioning\u2019\u2019optimized for a plane-wave basis set will be introduced. Scaling of the method will be discussed in detail for non-self-consistent and self-consistent calculations. It will be shown that the number of iterations required to obtain a specific precision is almost independent of the system size. Altogether an order N atoms 2 scaling is found for systems containing up to 1000 electrons. If \u2026",
+                "The formal relationship between ultrasoft (US) Vanderbilt-type pseudopotentials and Bl\u00f6chl\u2019s projector augmented wave (PAW) method is derived. It is shown that the total energy functional for US pseudopotentials can be obtained by linearization of two terms in a slightly modified PAW total energy functional. The Hamilton operator, the forces, and the stress tensor are derived for this modified PAW functional. A simple way to implement the PAW method in existing plane-wave codes supporting US pseudopotentials is pointed out. In addition, critical tests are presented to compare the accuracy and efficiency of the PAW and the US pseudopotential method with relaxed core all electron methods. These tests include small molecules (H 2, H 2 O, Li 2, N 2, F 2, BF 3, SiF 4) and several bulk systems (diamond, Si, V, Li, Ca, CaF 2, Fe, Co, Ni). Particular attention is paid to the bulk properties and magnetic energies of Fe, Co \u2026",
+                "We present a detailed description and comparison of algorithms for performing ab-initio quantum-mechanical calculations using pseudopotentials and a plane-wave basis set. We will discuss: (a) partial occupancies within the framework of the linear tetrahedron method and the finite temperature density-functional theory, (b) iterative methods for the diagonalization of the Kohn-Sham Hamiltonian and a discussion of an efficient iterative method based on the ideas of Pulay's residual minimization, which is close to an order Natoms2 scaling even for relatively large systems, (c) efficient Broyden-like and Pulay-like mixing methods for the charge density including a new special \u2018preconditioning\u2019 optimized for a plane-wave basis set, (d) conjugate gradient methods for minimizing the electronic free energy with respect to all degrees of freedom simultaneously. We have implemented these algorithms within a powerful \u2026",
+                "We present ab initio quantum-mechanical molecular-dynamics calculations based on the calculation of the electronic ground state and of the Hellmann-Feynman forces in the local-density approximation at each molecular-dynamics step. This is possible using conjugate-gradient techniques for energy minimization, and predicting the wave functions for new ionic positions using subspace alignment. This approach avoids the instabilities inherent in quantum-mechanical molecular-dynamics calculations for metals based on the use of a fictitious Newtonian dynamics for the electronic degrees of freedom. This method gives perfect control of the adiabaticity and allows us to perform simulations over several picoseconds.",
+                "We present ab initio quantum-mechanical molecular-dynamics simulations of the liquid-metal\u2013amorphous-semiconductor transition in Ge. Our simulations are based on (a) finite-temperature density-functional theory of the one-electron states,(b) exact energy minimization and hence calculation of the exact Hellmann-Feynman forces after each molecular-dynamics step using preconditioned conjugate-gradient techniques,(c) accurate nonlocal pseudopotentials, and (d) Nos\u00e9 dynamics for generating a canonical ensemble. This method gives perfect control of the adiabaticity of the electron-ion ensemble and allows us to perform simulations over more than 30 ps. The computer-generated ensemble describes the structural, dynamic, and electronic properties of liquid and amorphous Ge in very good agreement with experiment. The simulation allows us to study in detail the changes in the structure-property relationship \u2026",
+                "We show that quantum-mechanical molecular-dynamics simulations in a finite-temperature local-density approximation based on the calculation of the electronic ground state and of the Hellmann-Feynman forces after each time step are feasible for liquid noble and transition metals. This is possible with the use of Vanderbilt-type \u2018\u2018ultrasoft\u2019\u2019pseudopotentials and efficient conjugate-gradient techniques for the determination of the electronic ground state. Results for liquid copper and vanadium are presented.",
+                "The construction of accurate pseudopotentials with good convergence properties for the first-row and transition elements is discussed. We show that by combining an improved description of the pseudowavefunction inside the cut-off radius with the concept of ultrasoft pseudopotentials introduced by Vanderbilt optimal compromise between transferability and plane-wave convergence can be achieved. With the new pseudopotentials, basis sets with no more than 75-100 plane waves per atom are sufficient to reproduce the results obtained with the most accurate norm-conserving pseudopotentials.",
+                "Hybrid Fock exchange\/density functional theory functionals have shown to be very successful in describing a wide range of molecular properties. For periodic systems, however, the long-range nature of the Fock exchange interaction and the resultant large computational requirements present a major drawback. This is especially true for metallic systems, which require a dense Brillouin zone sampling. Recently, a new hybrid functional [HSE03, J. Heyd, G. E. Scuseria, and M. Ernzerhof, J. Chem. Phys. 118, 8207 (2003)] that addresses this problem within the context of methods that evaluate the Fock exchange in real space was introduced. We discuss the advantages the HSE03 functional brings to methods that rely on a reciprocal space description of the Fock exchange interaction, e.g., all methods that use plane wave basis sets. Furthermore, we present a detailed comparison of the performance of the HSE03 and \u2026",
+                "Hybrid Fock exchange\/density functional theory functionals have shown to be very successful in describing a wide range of molecular properties. For periodic systems, however, the long-range nature of the Fock exchange interaction and the resultant large computational requirements present a major drawback. This is especially true for metallic systems, which require a dense Brillouin zone sampling. Recently, a new hybrid functional [HSE03, J. Heyd, G. E. Scuseria, and M. Ernzerhof, J. Chem. Phys. 118, 8207 (2003)] that addresses this problem within the context of methods that evaluate the Fock exchange in real space was introduced. We discuss the advantages the HSE03 functional brings to methods that rely on a reciprocal space description of the Fock exchange interaction, e.g., all methods that use plane wave basis sets. Furthermore, we present a detailed comparison of the performance of the HSE03 and \u2026",
+                "In this work we derive closed expressions for the head of the frequency-dependent microscopic polarizability matrix in the projector-augmented wave (PAW) methodology. Contrary to previous applications, the longitudinal expression is utilized, resulting in dielectric properties that are largely independent of the applied potentials. The improved accuracy of the present approach is demonstrated by comparing the longitudinal and transversal expressions of the polarizability matrix for a number of cubic semiconductors and one insulator, ie, Si, SiC, AlP, GaAs, and diamond (C), respectively. The methodology is readily extendable to more complicated nonlocal Hamiltonians or to the calculation of the macroscopic dielectric matrix including local field effects in the random phase or density functional approximation, which is demonstrated for the previously mentioned model systems. Furthermore, density functional \u2026"
+            ],
+            [
+                [
+                    "density functional theory",
+                    "first principles calculations",
+                    "many body theory",
+                    "condensed matter physics",
+                    "materials science"
+                ]
+            ]
+        ]
+    ]
+}

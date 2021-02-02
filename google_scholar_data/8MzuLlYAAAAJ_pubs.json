@@ -1,0 +1,65 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2
+    ],
+    "data":[
+        [
+            "Lipophilic dyes such as laurdan and prodan are widely used in membrane biology due to a strong bathochromic shift in emission that reports the structural parameters of the membrane such as area per molecule. Disentangling of the factors which control the spectral shift is complicated by the stabilization of a charge-transfer-like excitation of the dye in polar environments. Predicting the emission therefore requires modeling both the relaxation of the environment and the corresponding evolution of the excited state. Here, an approach is presented in which (i) the local environment is sampled by a classical molecular dynamics (MD) simulation of the dye and solvent, (ii) the electronically excited state of prodan upon light absorption is predicted by numerical quantum mechanics (QM), (iii) the iterative relaxation of the environment around the excited dye by MD coupled with the evolution of the excited state is performed \u2026",
+            "Ultrafast formation of the charge transfer state of prodan reveals unique aspects of the chromophore environment",
+            "Swapnil Baral and Matthew Phillips and Han Yan and Joseph Avenso and Lars Gundlach and Bjo\u0308rn Baumeier and Edward Lyman",
+            "2020",
+            "8MzuLlYAAAAJ:zYLM7Y9cAGgC",
+            4,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acs.jpcb.0c00121",
+            "5855219709756716270",
+            "\/scholar?cites=5855219709756716270",
+            {
+                "2020":4
+            }
+        ],
+        [
+            "The ZnO\/Cu2O heterojunction promises high efficiency in photocurrent conversion and other light-driven processes, but the lattice mismatch between ZnO and Cu2O leads to slow electron transfer and low conversion efficiency. In addition, the stability of Cu2O is still the main challenging and limiting factor for device applications in real environments. CuxO is a mixed semiconductor of CuO and Cu2O, which is a promising alternative to Cu2O in device fabrication due to its better stability and photocatalytic efficiency. In this work, CuxO nanorods were attached to vertically aligned gold-decorated ZnO nanorods, creating a hierarchical ZnO\/Au\/CuxO nanoforest. In addition, the hierarchical surface shows superhydrophobicity, which can prevent Cu2O degradation by water and oxygen. Femtosecond time-resolved transient absorption spectroscopy was employed to investigate the electron transfer dynamics in the ZnO\/Au \u2026",
+            "Energy Band Architecture of a Hierarchical ZnO\/Au\/CuxO Nanoforest by Mimicking Natural Superhydrophobic Surfaces",
+            "Zhengxin Li and Meng Jia and Samantha Doble and Emily Hockey and Han Yan and Joseph P Avenoso and Daniel Bodine and Yuying Zhang and Chaoying Ni and John T Newberg and Lars Gundlach",
+            "2019",
+            "8MzuLlYAAAAJ:qjMakFHDy7sC",
+            4,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acsami.9b13610",
+            "13825550992503855866",
+            "\/scholar?cites=13825550992503855866",
+            {
+                "2020":2,
+                "2021":2
+            }
+        ],
+        [
+            "We combine ultrafast transient absorption (TA) spectroscopy and nonadiabatic quantum dynamics simulations to describe the real-time unfold of vibronic effects on the photoabsorption of TiO2 anatase sensitized with the (perylen-9-yl)carboxylate dye (Pe-COOH\/TiO2). The excited state is mapped in time and frequency by ultrafast broadband spectroscopy while atomistic quantum dynamics is used to simulate the self-consistent vibronic effects. The TA map shows the lifetime of the electronic population generated in the S1 state of the dye and the rise of the absorption D0\u2013D1 of the cation. The theoretical analysis reveals that the electron transfer from perylene into TiO2 is complete within 20 fs, in agreement with the 12 fs experimental measurement. Because of the structural relaxation produced by the photoinduced electron transfer, the optical gap decreases by 390 meV, in agreement with the D0\u2013D1 transition band \u2026",
+            "Vibronic Effects in the Ultrafast Interfacial Electron Transfer of Perylene-Sensitized TiO2 Surfaces",
+            "Robson S Oliboni and Han Yan and Hao Fan and Baxter Abraham and Joseph P Avenoso and Elena Galoppini and Victor S Batista and Lars Gundlach and Luis GC Rego",
+            "2019",
+            "8MzuLlYAAAAJ:u-x6o8ySG0sC",
+            4,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acs.jpcc.9b02106",
+            "7593501309494957899",
+            "\/scholar?cites=7593501309494957899",
+            {
+                "2019":2,
+                "2020":2
+            }
+        ]
+    ]
+}

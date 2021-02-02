@@ -1,0 +1,42 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "M4QFI7E8",
+            "AYO9_agAAAAJ",
+            [
+                "Many-body quantum electrodynamics networks: Non-equilibrium condensed matter physics with light",
+                "Bosonic Mott insulator with Meissner currents",
+                "Anomalous Hall effects of light and chiral edge modes on the Kagom\u00e9 lattice",
+                "Chiral Mott insulators, Meissner effect, and Laughlin states in quantum ladders",
+                "Chiral bosonic phases on the Haldane honeycomb lattice",
+                "Precursor of the Laughlin state of hard-core bosons on a two-leg ladder",
+                "Cutoff-free circuit quantum electrodynamics"
+            ],
+            [
+                "We review recent developments regarding the quantum dynamics and many-body physics with light, in superconducting circuits and Josephson analogues, by analogy with atomic physics. We start with quantum impurity models addressing dissipative and driven systems. Both theorists and experimentalists are making efforts towards the characterization of these non-equilibrium quantum systems. We show how Josephson junction systems can implement the equivalent of the Kondo effect with microwave photons. The Kondo effect can be characterized by a renormalized light frequency and a peak in the Rayleigh elastic transmission of a photon. We also address the physics of hybrid systems comprising mesoscopic quantum dot devices coupled with an electromagnetic resonator. Then, we discuss extensions to Quantum Electrodynamics (QED) Networks allowing one to engineer the Jaynes\u2013Cummings lattice and \u2026",
+                "We introduce a generic bosonic model exemplifying that (spin) Meissner currents can persist in insulating phases of matter. We consider two species of interacting bosons on a lattice. Our model exhibits separation of charge (total density) and spin (relative density): the charge sector is gapped in a bosonic Mott insulator phase with total density one, while the spin sector remains superfluid due to interspecies conversion. Coupling the spin sector to the gauge fields yields a spin Meissner effect reflecting the long-range spin superfluid coherence. We investigate the resulting phase diagram and describe other possible spin phases of matter in the Mott regime possessing chiral currents as well as a spin-density wave phase. The model presented here is realizable in Josephson junction arrays and in cold atom experiments.",
+                "We theoretically investigate a photonic Kagom\u00e9 lattice which can be realized in microwave cavity arrays using current technology. The Kagom\u00e9 lattice exhibits an exotic band structure with three bands, one of which can be made completely flat. The presence of artificial gauge fields makes it possible to emulate topological phases and induce chiral edge modes which can coexist inside the energy gap with the flat band that is topologically trivial. By tuning the artificial fluxes or in the presence of disorder, the flat band can also acquire a bandwidth in energy allowing the coexistence between chiral edge modes and bulk extended states; in this case the chiral modes become fragile towards scattering into the bulk. The photonic system then exhibits equivalents of both a quantum Hall effect without Landau levels and an anomalous Hall effect characterized by a nonquantized Chern number. We discuss experimental \u2026",
+                "We introduce generic bosonic models exemplifying that chiral Meissner currents can persist in insulating phases of matter. We first consider interacting bosons on a two-leg ladder. The total density sector can be gapped in a bosonic Mott insulator at odd-integer filling, while the relative density sector remains superfluid due to interchain hopping. Coupling the relative density to gauge fields yields a pseudospin Meissner effect. We show that the same phase arises if the bosons are replaced by spinful fermions confined in Cooper pairs, and find a dual fermionic Mott insulator with spinon currents. We prove that, by tuning the mean density, the Mott insulator with Meissner currents turns into a low-dimensional bosonic \u03bd= 1 2 Laughlin state for strong enough repulsive interactions across the ladder rungs. We finally discuss extensions to multileg ladders and bilayers in which spinon superfluids with Meissner currents \u2026",
+                "Recent experiments in ultracold atoms and photonic analogs have reported the implementation of artificial gauge fields in lattice systems, facilitating the realization of topological phases. Motivated by such advances, we investigate the Haldane honeycomb lattice tight-binding model, for bosons with local interactions at the average filling of one boson per site. We analyze the ground-state phase diagram and uncover three distinct phases: a uniform superfluid (SF), a chiral superfluid (CSF), and a plaquette Mott insulator with local current loops (PMI). Nearest-neighbor and next-nearest-neighbor currents distinguish CSF from SF, and the phase transition between them is first order. We apply bosonic dynamical mean-field theory and exact diagonalization to obtain the phase diagram, complementing numerics with calculations of excitation spectra in strong and weak coupling perturbation theory. The characteristic \u2026",
+                "We study hard core bosons on a two-leg ladder lattice under the orbital effect of a uniform magnetic field. At densities which are incommensurate with flux, the ground state is a Meissner state, or a vortex state, depending on the strength of the flux. When the density is commensurate with the flux, analytical arguments predict the possibility to stabilize a ground state of central charge c= 1, which is a precursor of the two-dimensional Laughlin state at \u03bd= 1\/2. This differs from the coupled wire construction of the Laughlin state in that there exists a nonzero backscattering term in the edge Hamiltonian. By using a combination of bosonization and density matrix renormalization group (DMRG) calculations, we construct a phase diagram versus density and flux from local observables and central charge. We delimit the region where the finite-size ground state displays signatures compatible with this precursor to the Laughlin \u2026",
+                "Any quantum-confined electronic system coupled to the electromagnetic continuum is subject to radiative decay and renormalization of its energy levels. When coupled to a cavity, these quantities can be strongly modified with respect to their values in vacuum. Generally, this modification can be accurately captured by including only the closest resonant mode of the cavity. In the circuit quantum electrodynamics architecture, it is, however, found that the radiative decay rates are strongly influenced by far off-resonant modes. A multimode calculation accounting for the infinite set of cavity modes leads to divergences unless a cutoff is imposed. It has so far not been identified what the source of divergence is. We show here that unless gauge invariance is respected, any attempt at the calculation of circuit QED quantities is bound to diverge. We then present a theoretical approach to the calculation of a finite spontaneous \u2026"
+            ],
+            [
+                [
+                    "Condensed Matter Theory",
+                    "Quantum Computing"
+                ]
+            ]
+        ]
+    ]
+}

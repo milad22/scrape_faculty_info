@@ -1,0 +1,43 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "4NIB699P",
+            "XZjC0LIAAAAJ",
+            [
+                "Autophagy suppresses tumorigenesis through elimination of p62",
+                "An overview of the BlueGene\/L supercomputer",
+                "The somatic genomic landscape of chromophobe renal cell carcinoma",
+                "Single cell profiling of circulating tumor cells: transcriptional heterogeneity and diversity from breast cancer cell lines",
+                "Short-distance analysis for heavy-quark systems:(II). Applications",
+                "The quenched eguchi-kawai model",
+                "Variant actions and phase structure in lattice gauge theory",
+                "Identifying mRNA targets of microRNA dysregulated in cancer: with application to clear cell Renal Cell Carcinoma"
+            ],
+            [
+                "Allelic loss of the essential autophagy gene beclin1 occurs in human cancers and renders mice tumor-prone suggesting that autophagy is a tumor-suppression mechanism. While tumor cells utilize autophagy to survive metabolic stress, autophagy also mitigates the resulting cellular damage that may limit tumorigenesis. In response to stress, autophagy-defective tumor cells preferentially accumulated p62\/SQSTM1 (p62), endoplasmic reticulum (ER) chaperones, damaged mitochondria, reactive oxygen species (ROS), and genome damage. Moreover, suppressing ROS or p62 accumulation prevented damage resulting from autophagy defects indicating that failure to regulate p62 caused oxidative stress. Importantly, sustained p62 expression resulting from autophagy defects was sufficient to alter NF-\u03baB regulation and gene expression and to promote tumorigenesis. Thus, defective autophagy is a mechanism for p62 \u2026",
+                "This paper gives an overview of the BlueGene\/L Supercomputer. This is a jointly funded research partnership between IBM and the Lawrence Livermore National Laboratory as part of the United States Department of Energy ASCI Advanced Architecture Research Program. Application performance and scaling studies have recently been initiated with partners at a number of academic and government institutions,including the San Diego Supercomputer Center and the California Institute of Technology. This massively parallel system of 65,536 nodes is based on a new architecture that exploits system-on-a-chip technology to deliver target peak processing power of 360 teraFLOPS (trillion floating-point operations per second). The machine is scheduled to be operational in the 2004-2005 time frame, at price\/performance and power consumption\/performance targets unobtainable with conventional architectures.",
+                "We describe the landscape of somatic genomic alterations of 66 chromophobe renal cell carcinomas (ChRCCs) on the basis of multidimensional and comprehensive characterization, including mtDNA and whole-genome sequencing. The result is consistent that ChRCC originates from the distal nephron compared with other kidney cancers with more proximal origins. Combined mtDNA and gene expression analysis implicates changes in mitochondrial function as a component of the disease biology, while suggesting alternative roles for mtDNA mutations in cancers relying on oxidative phosphorylation. Genomic rearrangements lead to recurrent structural breakpoints within TERT promoter region, which correlates with highly elevated TERT expression and manifestation of kataegis, representing a mechanism of TERT upregulation in cancer distinct from previously observed amplifications and point mutations.",
+                "Background To improve cancer therapy, it is critical to target metastasizing cells. Circulating tumor cells (CTCs) are rare cells found in the blood of patients with solid tumors and may play a key role in cancer dissemination. Uncovering CTC phenotypes offers a potential avenue to inform treatment. However, CTC transcriptional profiling is limited by leukocyte contamination; an approach to surmount this problem is single cell analysis. Here we demonstrate feasibility of performing high dimensional single CTC profiling, providing early insight into CTC heterogeneity and allowing comparisons to breast cancer cell lines widely used for drug discovery.   Methodology\/Principal Findings We purified CTCs using the MagSweeper, an immunomagnetic enrichment device that isolates live tumor cells from unfractionated blood. CTCs that met stringent criteria for further analysis were obtained from 70% (14\/20) of primary and 70% (21\/30) of metastatic breast cancer patients; none were captured from patients with non-epithelial cancer (n = 20) or healthy subjects (n = 25). Microfluidic-based single cell transcriptional profiling of 87 cancer-associated and reference genes showed heterogeneity among individual CTCs, separating them into two major subgroups, based on 31 highly expressed genes. In contrast, single cells from seven breast cancer cell lines were tightly clustered together by sample ID and ER status. CTC profiles were distinct from those of cancer cell lines, questioning the suitability of such lines for drug discovery efforts for late stage cancer therapy.   Conclusions\/Significance For the first time, we directly measured high dimensional gene \u2026",
+                "We apply the methodology of the operator product expansion to a number of processes involving the coupling of heavy quark-anti-quark mesons to light hadrons. Our methods apply to on-shell scattering processes and transitions, but they are strictly valid only when the quark masses are very heavy (of order 25 GeV). In this regime, however, we derive color gauge theory predictions for heavy meson-proton total cross sections, exclusive photoproduction, and Zweig-forbidden hadronic transitions; these heavy-quark computations are then used to estimate the corresponding quantities in the \u03d5 and Y systems. We discuss also the long-range interaction between two heavy-quark mesons.",
+                "It is argued that spontaneous symmetry breaking occurs in the recently proposed Eguchi-Kawai model. The argument is based on an analytic investigation and on Monte Carlo simulations. A quenched version of the model is proposed which gives good behavior at weak couplings.",
+                "We study a simple generalization of Wilson's SU (2) lattice gauge theory. In various limits the model reduces to the usual SU (2), SO (3), or Z 2 models. Using Monte Carlo techniques on a four-dimensional lattice, we follow the known SO (3) and Z 2 first-order transitions into the phase diagram. They merge at a triple point and continue together to a critical end point. The peak in the specific heat of the SU (2) model is a shadow of this nearby singularity.",
+                "MicroRNA regulate mRNA levels in a tissue specific way, either by inducing degradation of the transcript or by inhibiting translation or transcription. Putative mRNA targets of microRNA identified from seed sequence matches are available in many databases. However, such matches have a high false positive rate and cannot identify tissue specificity of regulation. We describe a simple method to identify direct mRNA targets of microRNA dysregulated in cancers from expression level measurements in patient matched tumor\/normal samples. The word \"direct\" is used here in a strict sense to: a) represent mRNA which have an exact seed sequence match to the microRNA in their 3'UTR, b) the seed sequence match is strictly conserved across mouse, human, rat and dog genomes, c) the mRNA and microRNA expression levels can distinguish tumor from normal with high significance and d) the microRNA\/mRNA expression levels are strongly and significantly anti-correlated in tumor and\/or normal samples. We apply and validate the method using clear cell Renal Cell Carcinoma (ccRCC) and matched normal kidney samples, limiting our analysis to mRNA targets which undergo degradation of the mRNA transcript because of a perfect seed sequence match. Dysregulated microRNA and mRNA are first identified by comparing their expression levels in tumor vs normal samples. Putative dysregulated microRNA\/mRNA pairs are identified from these using seed sequence matches, requiring that the seed sequence be conserved in human\/dog\/rat\/mouse genomes. These are further pruned by requiring a strong anti-correlation signature in tumor and\/or \u2026"
+            ],
+            [
+                [
+                    "Computational Biology"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "FybigHEAAAAJ",
+            "Denis Demchenko",
+            "Assistant Professor of Physics, Virginia Commonwealth University",
+            "@vcu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=FybigHEAAAAJ",
+            3693,
+            [
+                "Semiconductor physics",
+                "condensed matter physics",
+                "computational nano science"
+            ],
+            2061,
+            26,
+            23,
+            45,
+            37,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"5-b4qe0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Lin-Wang Wang",
+                    "affiliation":"Lawrence Berkeley National Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"hlQc5usAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Michael A Reshchikov",
+                    "affiliation":"Professor of Physics, Virginia Commonwealth University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"iW9JKLoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jim Freericks",
+                    "affiliation":"Professor and McDevitt Chair, Georgetown University"
+                }
+            ]
+        ]
+    ]
+}

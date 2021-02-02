@@ -1,0 +1,163 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "data":[
+        [
+            "Antiretroviral treatment (ART) of HIV infection suppresses viral replication. Yet if ART is stopped, virus reemerges because of the persistence of infected cells. We evaluated the contribution of infected-cell proliferation and sites of proviral integration to HIV persistence. A total of 534 HIV integration sites (IS) and 63 adjacent HIV env sequences were derived from three study participants over 11.3 to 12.7 years of ART. Each participant had identical viral sequences integrated at the same position in multiple cells, demonstrating infected-cell proliferation. Integrations were overrepresented in genes associated with cancer and favored in 12 genes across multiple participants. Over time on ART, a greater proportion of persisting proviruses were in proliferating cells. HIV integration into specific genes may promote proliferation of HIV-infected cells, slowing viral decay during ART.",
+            "Proliferation of cells with HIV integrated into cancer genes contributes to persistent infection",
+            "Thor A Wagner and Sherry McLaughlin and Kavita Garg and Charles YK Cheung and Brendan B Larsen and Sheila Styrchak and Hannah C Huang and Paul T Edlefsen and James I Mullins and Lisa M Frenkel",
+            "2014",
+            "mztCjxEAAAAJ:eQOLeE2rZwMC",
+            436,
+            "https:\/\/science.sciencemag.org\/content\/345\/6196\/570.abstract",
+            "12820515072922614867",
+            "\/scholar?cites=12820515072922614867",
+            {
+                "2014":5,
+                "2015":48,
+                "2016":85,
+                "2017":61,
+                "2018":62,
+                "2019":75,
+                "2020":87,
+                "2021":9
+            }
+        ],
+        [
+            "Recent emergence of the common-disease-rare-variant hypothesis has renewed interest in the use of large pedigrees for identifying rare causal variants. Genotyping with modern sequencing platforms is increasingly common in the search for such variants but remains expensive and often is limited to only a few subjects per pedigree. In population-based samples, genotype imputation is widely used so that additional genotyping is not needed. We now introduce an analogous approach that enables computationally efficient imputation in large pedigrees. Our approach samples inheritance vectors (IVs) from a Markov Chain Monte Carlo sampler by conditioning on genotypes from a sparse set of framework markers. Missing genotypes are probabilistically inferred from these IVs along with observed dense genotypes that are available on a subset of subjects. We implemented our approach in the Genotype Imputation \u2026",
+            "GIGI: an approach to effective imputation of dense genotypes on large pedigrees",
+            "Charles YK Cheung and Elizabeth A Thompson and Ellen M Wijsman",
+            "2013",
+            "mztCjxEAAAAJ:d1gkVwhDpl0C",
+            56,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0002929713001067",
+            "16854606768392361784",
+            "\/scholar?cites=16854606768392361784",
+            {
+                "2013":2,
+                "2014":11,
+                "2015":9,
+                "2016":10,
+                "2017":3,
+                "2018":9,
+                "2019":8,
+                "2020":4
+            }
+        ],
+        [
+            " Summary: Chromatin immunoprecipitation combined with DNA microarrays (ChIP-chip) has evolved as a popular technique to study DNA\u2013protein binding or post-translational chromatin\/histone modifications at the genomic level. However, the raw microarray intensities generate a massive amount of data, creating a need for efficient analysis algorithms and statistical methods to identify enriched regions. Results: We present a fast, free and powerful, open source R package, rMAT, that allows the identification of regions enriched for transcription factor binding sites in ChIP-chip experiments on Affymetrix tiling arrays. Availability: The R-package rMAT is available from the Bioconductor web site at http:\/\/bioconductor.org and runs on Linux, MAC OS and MS-Windows. rMAT is distributed under the terms of the Artistic Licence 2.0. Contact:           arnaud.droit@ircm.qc.ca; raphael \u2026",
+            "rMAT-an R\/Bioconductor package for analyzing ChIP-chip experiments",
+            "Arnaud Droit and Charles Cheung and Raphael Gottardo",
+            "2010",
+            "mztCjxEAAAAJ:u-x6o8ySG0sC",
+            29,
+            "https:\/\/academic.oup.com\/bioinformatics\/article-abstract\/26\/5\/678\/213987",
+            "2550198120737662456",
+            "\/scholar?cites=2550198120737662456",
+            {
+                "2010":2,
+                "2011":4,
+                "2012":4,
+                "2013":5,
+                "2014":4,
+                "2015":4,
+                "2016":2,
+                "2017":4
+            }
+        ],
+        [
+            "The use of large pedigrees is an effective design for identifying rare functional variants affecting heritable traits. Cost-effective studies using sequence data can be achieved via pedigree-based genotype imputation in which some subjects are sequenced and missing genotypes are inferred on the remaining subjects. Because of high cost, it is important to carefully prioritize subjects for sequencing. Here, we introduce a statistical framework that enables systematic comparison among subject-selection choices for sequencing. We introduce a metric \u201clocal coverage,\u201d which allows the use of inferred inheritance vectors to measure genotype-imputation ability specifically in a region of interest, such as one with prior evidence of linkage. In the absence of linkage information, we can instead use a \u201cgenome-wide coverage\u201d metric computed with the pedigree structure. These metrics enable the development of a method that \u2026",
+            "A statistical framework to guide sequencing choices in pedigrees",
+            "Charles YK Cheung and Elizabeth Marchani Blue and Ellen M Wijsman",
+            "2014",
+            "mztCjxEAAAAJ:IjCSPb-OGe4C",
+            24,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0002929714000068",
+            "12313717146795586876",
+            "\/scholar?cites=12313717146795586876",
+            {
+                "2014":2,
+                "2015":6,
+                "2016":6,
+                "2017":6,
+                "2018":4
+            }
+        ],
+        [
+            "It is well known that genetic association studies are not robust to population stratification. Two widely used approaches for the detection and correction of population structure are principal component analysis and model-based estimation of ancestry. These methods have been shown to give reliable inference on population structure in unrelated samples. We evaluated these two approaches in Mexican American pedigrees provided by the Genetic Analysis Workshop 18. We also estimated identity-by-descent sharing probabilities and kinship coefficients, with adjustment for ancestry admixture, to confirm documented pedigree relationships as well as to identify cryptic relatedness in the sample. We also estimated the heritability of the first simulated replicate of diastolic blood pressure (DBP). Finally, we performed an association analysis with simulated DBP, comparing the performance of an association method that corrects for population structure but does not account for relatedness to a method that adjusts for both population and pedigree structure. Analyses with simulated DBP were performed with knowledge of the underlying trait model.",
+            "Estimating and adjusting for ancestry admixture in statistical methods for relatedness inference, heritability estimation, and association testing",
+            "Timothy Thornton and Matthew P Conomos and Serge Sverdlov and Elizabeth M Blue and Charles YK Cheung and Christopher G Glazner and Steven M Lewis and Ellen M Wijsman",
+            "2014",
+            "mztCjxEAAAAJ:9yKSN-GCB0IC",
+            21,
+            "https:\/\/bmcproc.biomedcentral.com\/articles\/10.1186\/1753-6561-8-S1-S5",
+            "2493553382879900043",
+            "\/scholar?cites=2493553382879900043",
+            {
+                "2014":3,
+                "2015":3,
+                "2016":4,
+                "2017":2,
+                "2018":2,
+                "2019":4,
+                "2020":2
+            }
+        ],
+        [
+            "We carried out analyses with the goal of identifying rare variants in exome sequence data that contribute to disease risk for a complex trait. We analyzed a large, 47-member, multigenerational pedigree with 11 cases of autism spectrum disorder, using genotypes from 3 technologies representing increasing resolution: a multiallelic linkage marker panel, a dense diallelic marker panel, and variants from exome sequencing. Genome-scan marker genotypes were available on most subjects, and exome sequence data was available on 5 subjects. We used genome-scan linkage analysis to identify and prioritize the chromosome 22 region of interest, and to select subjects for exome sequencing. Inheritance vectors (IVs) generated by Markov chain Monte Carlo analysis of multilocus marker data were the foundation of most analyses. Genotype imputation used IVs to determine which sequence variants reside on the \u2026",
+            "Identification of rare variants from exome sequence in a large pedigree with autism",
+            "EE Marchani and NH Chapman and CYK Cheung and K Ankenman and IB Stanaway and HH Coon and D Nickerson and R Bernier and Z Brkanac and EM Wijsman",
+            "2012",
+            "mztCjxEAAAAJ:UeHWp8X0CEIC",
+            13,
+            "https:\/\/www.karger.com\/Article\/Abstract\/346560",
+            "12877610957725290862",
+            "\/scholar?cites=12877610957725290862",
+            {
+                "2012":1,
+                "2013":2,
+                "2014":4,
+                "2015":1,
+                "2016":2,
+                "2017":1
+            }
+        ],
+        [
+            "Detection of genotyping errors is a necessary step to minimize false results in genetic analysis. This is especially important when the rate of genotyping errors is high, as has been reported for high\u2010throughput sequence data. To detect genotyping errors in pedigrees, Mendelian inconsistent (MI) error checks exist, as do multi\u2010point methods that flag Mendelian consistent (MC) errors for sparse multi\u2010allelic markers. However, few methods exist for detecting MC genotyping errors, particularly for dense variants on large pedigrees. Here, we introduce an efficient method to detect MC errors even for very dense variants (e.g., SNPs and sequencing data) on pedigrees that may be large. Our method first samples inheritance vectors (IVs) using a moderately sparse but informative set of markers using a Markov chain Monte Carlo\u2010based sampler. Using sampled IVs, we considered two test statistics to detect MC genotyping \u2026",
+            "Detection of Mendelian consistent genotyping errors in pedigrees",
+            "Charles YK Cheung and Elizabeth A Thompson and Ellen M Wijsman",
+            "2014",
+            "mztCjxEAAAAJ:W7OEmFMy1HYC",
+            12,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1002\/gepi.21806",
+            "14589339574994261710",
+            "\/scholar?cites=14589339574994261710",
+            {
+                "2015":4,
+                "2016":4,
+                "2017":1,
+                "2018":1,
+                "2019":2
+            }
+        ]
+    ]
+}

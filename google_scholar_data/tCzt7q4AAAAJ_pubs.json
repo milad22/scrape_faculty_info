@@ -1,0 +1,70 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "A digital combinational logic circuit is reversible if it maps each input pattern to a unique output pattern. Such circuits are of interest in quantum computing, optical computing, nanotechnology and low-power CMOS design. Synthesis approaches are not well developed for reversible circuits even for small numbers of inputs and outputs. In this paper, a transformation based algorithm for the synthesis of such a reversible circuit in terms of n\u00d7 n Toffoli gates is presented. Initially, a circuit is constructed by a single pass through the specification with minimal look-ahead and no back-tracking. Reduction rules are then applied by simple template matching. The method produces near-optimal results for 3-input circuits and also produces very good results for larger problems.",
+            "A transformation based algorithm for reversible logic synthesis",
+            "D Michael Miller and Dmitri Maslov and Gerhard W Dueck",
+            "2003",
+            "tCzt7q4AAAAJ:u5HHmVD_uO8C",
+            588,
+            "https:\/\/dl.acm.org\/doi\/abs\/10.1145\/775832.775915",
+            "10729309755076372612",
+            "\/scholar?cites=10729309755076372612",
+            {
+                "2003":12,
+                "2004":10,
+                "2005":20,
+                "2006":23,
+                "2007":20,
+                "2008":36,
+                "2009":28,
+                "2010":47,
+                "2011":34,
+                "2012":41,
+                "2013":51,
+                "2014":49,
+                "2015":37,
+                "2016":34,
+                "2017":42,
+                "2018":39,
+                "2019":28,
+                "2020":27,
+                "2021":1
+            }
+        ],
+        [
+            "We run a selection of algorithms on two state-of-the-art 5-qubit quantum computers that are based on different technology platforms. One is a publicly accessible superconducting transmon device (www.research.ibm.com\/ibm-q) with limited connectivity, and the other is a fully connected trapped-ion system. Even though the two systems have different native quantum interactions, both can be programed in a way that is blind to the underlying hardware, thus allowing a comparison of identical quantum algorithms between different physical systems. We show that quantum algorithms and circuits that use more connectivity clearly benefit from a better-connected system of qubits. Although the quantum systems here are not yet large enough to eclipse classical computers, this experiment exposes critical factors of scaling quantum computers, such as qubit connectivity and gate expressivity. In addition, the results suggest \u2026",
+            "Experimental comparison of two quantum computing architectures",
+            "Norbert M Linke and Dmitri Maslov and Martin Roetteler and Shantanu Debnath and Caroline Figgatt and Kevin A Landsman and Kenneth Wright and Christopher Monroe",
+            "2017",
+            "tCzt7q4AAAAJ:HoB7MX3m0LUC",
+            311,
+            "https:\/\/www.pnas.org\/content\/114\/13\/3305.short",
+            "10974612306377805525",
+            "\/scholar?cites=10974612306377805525",
+            {
+                "2017":32,
+                "2018":62,
+                "2019":107,
+                "2020":104,
+                "2021":4
+            }
+        ]
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "743sy1MAAAAJ",
+            "Yong Wang",
+            "Washington State University, Pacific Northwest National Laboratory",
+            "@wsu.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=743sy1MAAAAJ",
+            28530,
+            [
+                "catalysis",
+                "heterogeneous catalysis",
+                "reaction engineering",
+                "energy conversion",
+                "surface chemistry"
+            ],
+            15226,
+            78,
+            52,
+            293,
+            223,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ltWKpYgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Christopher W. Jones",
+                    "affiliation":"Professor and William R. McLain Chair, Chemical Engineering, Georgia Institute of Technology"
+                }
+            ]
+        ]
+    ]
+}

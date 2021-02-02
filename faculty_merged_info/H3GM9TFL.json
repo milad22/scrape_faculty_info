@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "H3GM9TFL",
+            "IEHg5L8AAAAJ",
+            [
+                "Formation of hard power laws in the energetic particle spectra resulting from relativistic magnetic reconnection",
+                "Particle acceleration and plasma dynamics during magnetic reconnection in the magnetically dominated regime",
+                "Bifurcated structure of the electron diffusion region in three-dimensional magnetic reconnection",
+                "Why does steady-state magnetic reconnection have a maximum local rate of order 0.1?",
+                "Recent evolution in the theory of magnetic reconnection and its connection with turbulence",
+                "Efficient production of high-energy nonthermal particles during magnetic reconnection in a magnetically dominated ion\u2013electron plasma",
+                "The structure of the magnetic reconnection exhaust boundary",
+                "A review of the 0.1 reconnection rate problem",
+                "Development of a turbulent outflow during electron-positron magnetic reconnection",
+                "Do dispersive waves play a role in collisionless magnetic reconnection?"
+            ],
+            [
+                "Using fully kinetic simulations, we demonstrate that magnetic reconnection in relativistic plasmas is highly efficient at accelerating particles through a first-order Fermi process resulting from the curvature drift of particles in the direction of the electric field induced by the relativistic flows. This mechanism gives rise to the formation of hard power-law spectra in parameter regimes where the energy density in the reconnecting field exceeds the rest mass energy density \u03c3\u2261 B 2\/(4 \u03c0 n m e c 2)> 1 and when the system size is sufficiently large. In the limit \u03c3\u226b 1, the spectral index approaches p= 1 and most of the available energy is converted into nonthermal particles. A simple analytic model is proposed which explains these key features and predicts a general condition under which hard power-law spectra will be generated from magnetic reconnection.",
+                "Magnetic reconnection is thought to be the driver for many explosive phenomena in the universe. The energy release and particle acceleration during reconnection have been proposed as a mechanism for producing high-energy emissions and cosmic rays. We carry out two-and three-dimensional (3D) kinetic simulations to investigate relativistic magnetic reconnection and the associated particle acceleration. The simulations focus on electron\u2013positron plasmas starting with a magnetically dominated, force-free current sheet (). For this limit, we demonstrate that relativistic reconnection is highly efficient at accelerating particles through a first-order Fermi process accomplished by the curvature drift of particles along the electric field induced by the relativistic flows. This mechanism gives rise to the formation of hard power-law spectra  and approaches p= 1 for sufficiently large \u03c3 and \u2026",
+                "Three-dimensional kinetic simulations of magnetic reconnection reveal that the electron diffusion region is composed of two or more current sheets in regimes with weak magnetic shear angles \u03d5\u2272 80. This new morphology is explained by oblique tearing modes which produce flux ropes while simultaneously driving enhanced current at multiple resonance surfaces. This physics persists into the nonlinear regime leading to multiple electron layers embedded within a larger Alfv\u00e9nic inflow and outflow. Surprisingly, the thickness of these layers and the reconnection rate both remain comparable to two-dimensional models. The parallel electric fields are supported predominantly by the electron pressure tensor and electron inertia, while turbulent dissipation remains small.",
+                "Simulations suggest collisionless steady-state magnetic reconnection of Harris-type current sheets proceeds with a rate of order 0.1, independent of dissipation mechanism. We argue this long-standing puzzle is a result of constraints at the magnetohydrodynamic (MHD) scale. We predict the reconnection rate as a function of the opening angle made by the upstream magnetic fields, finding a maximum reconnection rate close to 0.2. The predictions compare favorably to particle-in-cell simulations of relativistic electron-positron and nonrelativistic electron-proton reconnection. The fact that simulated reconnection rates are close to the predicted maximum suggests reconnection proceeds near the most efficient state allowed at the MHD scale. The rate near the maximum is relatively insensitive to the opening angle, potentially explaining why reconnection has a similar fast rate in differing models.",
+                "The concept of reconnection is found in many fields of physics with the closest analogue to magnetic reconnection being the reconnection of vortex tubes in hydrodynamics. In plasmas, magnetic reconnection plays an important role in release of energy associated with the magnetic shear into particle energy. Although most studies to date have focused on 2D reconnection, the availability of 3D petascale kinetic simulations have brought the complexity of 3D reconnection to the forefront in collisionless reconnection studies. Here we briefly review the latest advances in 2D and compare and contrast the results with recent 3D studies that address role of anomalous transport in reconnection, effects of turbulence on the rate and structure, among others. Another outcome of recent research is the realization of a deeper link between turbulence and reconnection where the common denominator is the generic \u2026",
+                "Magnetic reconnection is a leading mechanism for dissipating magnetic energy and accelerating nonthermal particles in Poynting-flux-dominated flows. In this Letter, we investigate nonthermal particle acceleration during magnetic reconnection in a magnetically dominated ion\u2013electron plasma using fully kinetic simulations. For an ion\u2013electron plasma with a total magnetization of , the magnetization for each species is  and , respectively. We have studied the magnetically dominated regime by varying \u03c3 e= 10 3\u201310 5 with initial ion and electron temperatures  and mass ratio . The results demonstrate that reconnection quickly establishes power-law energy distributions for both electrons and ions within several (2\u20133) light-crossing times. For the cases with periodic boundary conditions, the power-law index is  for both electrons and ions. The \u2026",
+                "The structure of shocks that form at the exhaust boundaries during collisionless reconnection of anti-parallel fields is studied using particle-in-cell (PIC) simulations and modeling based on the anisotropic magnetohydrodynamic equations. Large-scale PIC simulations of reconnection and companion Riemann simulations of shock development demonstrate that the pressure anisotropy produced by counterstreaming ions within the exhaust prevents the development of classical Petschek switch-off-slow shocks (SSS). The shock structure that does develop is controlled by the firehose stability parameter \u025b=1-\u03bc0(P\u2016-P\u22a5)\/B2 through its influence on the speed order of the intermediate and slow waves. Here, P\u2016 and P\u22a5 are the pressure parallel and perpendicular to the local magnetic field. The exhaust boundary is made up of a series of two shocks and a rotational wave. The first shock takes \u025b from unity upstream to a \u2026",
+                "A long-standing problem in magnetic reconnection is to explain why it tends to proceed at or below a normalized rate of 0.1. This article gives a review of observational and numerical evidence for this rate and discusses recent theoretical work addressing this problem. Some remaining open questions are summarized.",
+                "The mass symmetry between the two species in electron\u2010positron (pair) plasmas has interesting consequences for collisionless magnetic reconnection, because the Hall term, which plays a crucial role in supporting fast reconnection in electron\u2010proton plasmas, vanishes. We perform kinetic simulations of pair reconnection in systems of various sizes, show that it remains fast, and identify the reason why this occurs. For sufficiently large systems a Weibel\u2010like temperature anisotropy instability develops in the outflow from the X\u2010point that causes the current layer to broaden and form a Petschek\u2010like open outflow. We discuss the parameter regimes in which pair reconnection should be fast and the implications for astrophysical pair plasmas.",
+                "Using fully kinetic simulations, we demonstrate that the properly normalized reconnection rate is fast \u223c0.1 for guide fields up to 80\u00d7 larger than the reconnecting field and is insensitive to both the system size and the ion to electron mass ratio. These results challenge conventional explanations of reconnection based on fast dispersive waves, which are completely absent for sufficiently strong guide fields. In this regime, the thickness of the diffusion layer is set predominantly by the electron inertial length with an inner sublayer that is controlled by finite gyro-radius effects. As the Alfv\u00e9n velocity becomes relativistic for very strong guide fields, the displacement current becomes important and strong deviations from charge neutrality occur, resulting in the build-up of intense electric fields which absorb a portion of the magnetic energy release. Over longer time scales, secondary magnetic islands are generated near the \u2026"
+            ],
+            [
+                [
+                    "Magnetic Reconnection",
+                    "Plasma Physics",
+                    "Space Physics",
+                    "Magnetospheric Physics",
+                    "Plasma Astrophysics"
+                ]
+            ]
+        ]
+    ]
+}

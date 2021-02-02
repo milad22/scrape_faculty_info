@@ -1,0 +1,102 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "jty9Af4AAAAJ",
+            "Miguel F Morales",
+            "Professor of Physics, University of Washington",
+            "@uw.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=jty9Af4AAAAJ",
+            13576,
+            [
+                "Epoch of Reionization",
+                "cosmology",
+                "instrumentation"
+            ],
+            9650,
+            56,
+            45,
+            137,
+            120,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Jv8m8BQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Judd Bowman",
+                    "affiliation":"Arizona State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"szMsziEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Adam Beardsley",
+                    "affiliation":"Winona State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"QY_p13gAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Randall Wayth",
+                    "affiliation":"Associate Professor. Curtin University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"z7-NzCwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ian Sullivan",
+                    "affiliation":"Reseach Scientist, University of Washington"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"VTyZJk0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jonathan Pober",
+                    "affiliation":"Brown University"
+                }
+            ]
+        ]
+    ]
+}

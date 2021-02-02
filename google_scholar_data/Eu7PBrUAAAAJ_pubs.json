@@ -1,0 +1,36 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Superresolution microscopy has revolutionized the fields of chemistry and biology by resolving features at the molecular level. In atomic physics, such a scheme can be applied to resolve the atomic density distribution beyond the diffraction limit and to perform quantum control. Here we demonstrate superresolution imaging based on the nonlinear response of atoms to an optical pumping pulse. With this technique, the atomic density distribution can be imaged with a full-width-at-half-maximum resolution of 32 (4) nm and a localization precision below 500 pm. The short optical pumping pulse of 1.4 \u03bc s enables us to resolve fast atomic dynamics within a single lattice site. A by-product of our scheme is the emergence of moir\u00e9 patterns on the atomic cloud, which we show to be immensely magnified images of the atomic density in the lattice.",
+            "Superresolution microscopy of cold atoms in an optical lattice",
+            "Mickey McDonald and Jonathan Trisnadi and Kai-Xuan Yao and Cheng Chin",
+            "2019",
+            "Eu7PBrUAAAAJ:u5HHmVD_uO8C",
+            25,
+            "https:\/\/journals.aps.org\/prx\/abstract\/10.1103\/PhysRevX.9.021001",
+            "1988002695814796744",
+            "\/scholar?cites=1988002695814796744",
+            {
+                "2018":2,
+                "2019":7,
+                "2020":14,
+                "2021":1
+            }
+        ]
+    ]
+}

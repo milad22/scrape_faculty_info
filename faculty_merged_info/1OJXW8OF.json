@@ -1,0 +1,33 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "1OJXW8OF",
+            "pm0cQhoAAAAJ",
+            [
+                "Gauge conditions for long-term numerical black hole evolutions without excision",
+                "The Einstein Toolkit: a community computational infrastructure for relativistic astrophysics",
+                "Template bank for gravitational waveforms from coalescing binary black holes: Nonspinning binaries"
+            ],
+            [
+                "Numerical relativity has faced the problem that standard 3+ 1 simulations of black hole spacetimes without singularity excision and with singularity avoiding lapse and vanishing shift fail early on due to the so-called slice stretching. We discuss lapse and shift conditions for the nonexcision case that effectively cure slice stretching and allow run times of 1 0 0 0 M and more.",
+                "We describe the Einstein Toolkit, a community-driven, freely accessible computational infrastructure intended for use in numerical relativity, relativistic astrophysics, and other applications. The toolkit, developed by a collaboration involving researchers from multiple institutions around the world, combines a core set of components needed to simulate astrophysical objects such as black holes, compact objects, and collapsing stars, as well as a full suite of analysis tools. The Einstein Toolkit is currently based on the Cactus framework for high-performance computing and the Carpet adaptive mesh refinement driver. It implements spacetime evolution via the BSSN evolution system and general relativistic hydrodynamics in a finite-volume discretization. The toolkit is under continuous development and contains many new code components that have been publicly released for the first time and are described in this paper \u2026",
+                "Gravitational waveforms from the inspiral and ring-down stages of the binary black-hole coalescences can be modeled accurately by approximation\/perturbation techniques in general relativity. Recent progress in numerical relativity has enabled us to model also the nonperturbative merger phase of the binary black-hole coalescence problem. This enables us to coherently search for all three stages of the coalescence of nonspinning binary black holes using a single template bank. Taking our motivation from these results, we propose a family of template waveforms which can model the inspiral, merger, and ring-down stages of the coalescence of nonspinning binary black holes that follow quasicircular inspiral. This two-dimensional template family is explicitly parametrized by the physical parameters of the binary. We show that the template family is not only effectual in detecting the signals from black-hole \u2026"
+            ],
+            [
+                [
+                    "Relativistic Astrophysics"
+                ]
+            ]
+        ]
+    ]
+}

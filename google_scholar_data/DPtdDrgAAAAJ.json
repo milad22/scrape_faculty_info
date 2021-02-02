@@ -1,0 +1,66 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "DPtdDrgAAAAJ",
+            "Robert James Brown",
+            "Professor of Geophysics, University of Stavanger",
+            "@uis.no",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=DPtdDrgAAAAJ",
+            92477,
+            [
+                "petroleum seismology",
+                "earthquake seismology",
+                "geophysics"
+            ],
+            36027,
+            103,
+            59,
+            614,
+            258,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"0dxkoBgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Robert R. Stewart",
+                    "affiliation":"Professor of geophysics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"1xZmHGAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Paul Mann",
+                    "affiliation":"Professor of Geology, Dept of Earth and Atmospheric Sciences University of Houston"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "P9XVK57J",
+            "mJPn9GMAAAAJ",
+            [
+                "Superconducting cavity driving with fpga controller",
+                "The development of diamond tracking detectors for the LHC",
+                "First observation of the exchange of transverse and longitudinal emittances",
+                "Demonstration of 4H-SiC visible-blind EUV and UV detector with large detection area",
+                "Radiation tolerance of CVD diamond detectors for pions and protons",
+                "Development of diamond tracking detectors for high luminosity experiments at the LHC",
+                "Measurements of H production and the CP structure of the Yukawa interaction between the Higgs boson and top quark in the diphoton decay channel",
+                "Status of the R&D activity on diamond particle detectors",
+                "Micro-strip sensors based on CVD diamond",
+                "Performance of irradiated CVD diamond micro-strip sensors"
+            ],
+            [
+                " A digital control of superconducting cavities for a linear accelerator is presented. FPGA-based controller, supported by Matlab system, was applied. Electrical model of a resonator was used for design of a control system. Calibration of the signal path is considered. Identification of cavity parameters has been carried out for adaptive control algorithm. Feed-forward and feedback modes were applied in operating the cavities. Required performance has been achieved; i.e. driving on resonance during filling and field stabilization during flattop time, while keeping reasonable level of the power consumption. Representative results of the experiments are presented for different levels of the cavity field gradient.",
+                "Chemical vapor deposition diamond has been discussed extensively as an alternate sensor material for use very close to the interaction region of the LHC where extreme radiation conditions exist. During the last few years diamond devices have been manufactured and tested with LHC electronics with the goal of creating a detector usable by all LHC experiment. Extensive progress on diamond quality, on the development of diamond trackers and on radiation hardness studies has been made. Transforming the technology to the LHC specific requirements is now underway. In this paper we present the recent progress achieved.",
+                "An experimental program to demonstrate a novel phase-space manipulation in which the horizontal and longitudinal emittances of a particle beam are exchanged has been completed at the Fermilab A0 Photoinjector. A new beam line, consisting of a T M 110 deflecting mode cavity flanked by two horizontally dispersive doglegs has been installed. We report on the first direct observation of transverse and longitudinal emittance exchange.",
+                "4H-SiC visible-blind photodetectors specially designed for extreme ultraviolet (EUV) as well as ultraviolet (UV) detection are fabricated and characterised. Spectral quantum efficiency (QE) from 21.5 to 400\u2005nm is determined. The devices have a 2\u00d72\u2005mm active area and less than 1\u2005pA leakage current at low bias. The peak QE is 40\u201345% around 270\u2005nm. Between 120\u2013200\u2005nm, the detector QE is about 4\u201320%. EUV light generates multiple electron hole pairs in the range of 21.5 to 77.5\u2005nm, resulting in an apparent QE above 140% at 21.5\u2005nm.",
+                "The paper gives new results on the radiation tolerance of CVD diamond for irradiation with 300 MeV\/c pions and 24 GeV\/c protons. The measured charge signal spectrum is compared at several irradiation levels with the spectrum calculated by a model. Irradiation by particles causes damage leading to a decrease of the charge signal. However, both the measurements and the outcome from the model show that for tracker applications this drawback is at least partly counterbalanced by a narrowing of the distribution curve of the charge signal. As a result, the efficiency of a CVD diamond tracker is less affected by irradiation than the mean charge signal.",
+                "Over the past 14 months the RD42 collaboration continued the improvement of CVD diamond detectors for high luminosity experiments at the LHC. We have made extensive progress on the diamond quality, on the development of diamond trackers and on radiation hardness studies. Transforming the technology to the LHC specific requirements is now in progress. In this report we present the progress made and the requirements specific to the programme.",
+                "The first observation of the  H process in a single Higgs boson decay channel with the full reconstruction of the final state (H ) is presented, with a significance of 6.6 standard deviations (). The CP structureof Higgs boson couplings to fermions is measured, resulting in an exclusion of the pure CP-odd structure of the top Yukawa coupling at 3.2. The measurements are based on a sample of proton-proton collisions at a center-of-mass energy 13 TeV collected by the CMS detector at the LHC, corresponding to an integrated luminosity of 137 fb . The cross section times branching fraction of the  H process is measured to be 1.56 fb, which is compatible with the standard model prediction of 1.13 fb. The fractional contribution of the CP-odd component is measured to be 0.000.33.",
+                "Chemical Vapor Deposited (CVD) polycrystalline diamond has been proposed as a radiation-hard alternative to silicon in the extreme radiation levels occurring close to the interaction region of the Large Hadron Collider. Due to an intense research effort, reliable high-quality polycrystalline CVD diamond detectors, with up to 270 \u03bcm charge collection distance and good spatial uniformity, are now available. The most recent progress on the diamond quality, on the development of diamond trackers and on radiation hardness studies are presented and discussed.",
+                "In this article we present the performance of recent chemical vapour deposition (CVD) diamond micro-strip sensors in beam tests. In addition, we present the first comparison of a CVD diamond micro-strip sensor before and after proton irradiation.",
+                "CVD diamond detectors are of interest for charged particle detection and tracking due to their high radiation tolerance. In this article, we present, for the first time, beam test results from recently manufactured CVD diamond strip detectors and their behavior under low doses of electrons from a \u03b2-source and the performance before and after intense (> 10 15\/cm 2) proton-and pion-irradiations. We find that low dose irradiation increase the signal-to-noise ratio (pumping of the signal) and slightly deteriorate the spatial resolution. Intense irradiation with protons 2.2\u00d7 10 15 p\/cm 2 lowers the signal-to-noise ratio slightly. Intense irradiation with pions 2.9\u00d7 10 15 \u03c0\/cm 2 lowers the signal-to-noise ratio more. The spatial resolution of the diamond sensors improves after irradiations."
+            ],
+            [
+                [
+                    "Material Science",
+                    "Dielectrics",
+                    "Particle Accelerators",
+                    "Nuclear Studies"
+                ]
+            ]
+        ]
+    ]
+}

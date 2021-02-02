@@ -1,0 +1,82 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "Different chromatographic and electrophoretic techniques commonly used in the instrumental inspection of herbal medicines (HM) are first comprehensively reviewed. Chemical fingerprints obtained by chromatographic and electrophoretic techniques, especially by hyphenated chromatographies, are strongly recommended for the purpose of quality control of herbal medicines, since they might represent appropriately the \u201cchemical integrities\u201d of the herbal medicines and therefore be used for authentication and identification of the herbal products. Based on the conception of phytoequivalence, the chromatographic fingerprints of herbal medicines could be utilized for addressing the problem of quality control of herbal medicines. Several novel chemometric methods for evaluating the fingerprints of herbal products, such as the method based on information theory, similarity estimation, chemical pattern recognition \u2026",
+            "Quality control of herbal medicines",
+            "Yi-Zeng Liang and Peishan Xie and Kelvin Chan",
+            "2004",
+            "5YiYR9wAAAAJ:287Ayi2tS8MC",
+            893,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S1570023204006762",
+            "13403183667688912558",
+            "\/scholar?cites=13403183667688912558",
+            {
+                "2005":9,
+                "2006":28,
+                "2007":44,
+                "2008":45,
+                "2009":49,
+                "2010":66,
+                "2011":71,
+                "2012":77,
+                "2013":79,
+                "2014":82,
+                "2015":76,
+                "2016":62,
+                "2017":51,
+                "2018":62,
+                "2019":48,
+                "2020":36,
+                "2021":2
+            }
+        ],
+        [
+            "In order to choose correctly the dimension of calibration model in chemistry, a new simple and effective method named Monte Carlo cross validation (MCCV) is introduced in the present work. Unlike leave-one-out procedure commonly used in chemometrics for cross validation (CV), the Monte Carlo cross validation developed in this paper is an asymptotically consistent method in determining the number of components in calibration model. It can avoid an unnecessary large model and therefore decreases the risk of over-fitting for the calibration model. The results obtained from simulation study showed that MCCV has an obviously larger probability than leave-one-out CV in choosing the correct number of components that the model should contain. The results from real data sets demonstrated that MCCV could successfully choose the appropriate model, but leave-one-out CV could not.",
+            "Monte Carlo cross validation",
+            "Qing-Song Xu and Yi-Zeng Liang",
+            "2001",
+            "5YiYR9wAAAAJ:lDjdc_zZTkYC",
+            704,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0169743900001222",
+            "15619259712755495419",
+            "\/scholar?cites=15619259712755495419",
+            {
+                "2003":8,
+                "2004":7,
+                "2005":9,
+                "2006":15,
+                "2007":19,
+                "2008":13,
+                "2009":27,
+                "2010":29,
+                "2011":30,
+                "2012":39,
+                "2013":46,
+                "2014":45,
+                "2015":44,
+                "2016":62,
+                "2017":59,
+                "2018":74,
+                "2019":80,
+                "2020":87,
+                "2021":9
+            }
+        ]
+    ]
+}

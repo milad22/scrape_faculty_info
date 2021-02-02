@@ -1,0 +1,91 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "0tf7LtgAAAAJ",
+            "Dmytro (Dima) Pesin",
+            "Associate Professor, University of Virginia",
+            "@virginia.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=0tf7LtgAAAAJ",
+            3367,
+            [
+                "topological phases",
+                "transport theory",
+                "spintronics",
+                "graphene"
+            ],
+            2121,
+            18,
+            15,
+            28,
+            20,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"beJ_6ykAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dmitry Abanin",
+                    "affiliation":"Professor of Physics, University of Geneva"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"VRkiG1kAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Leon Balents",
+                    "affiliation":"Kavli Institute of Theoretical Physics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"QXMeHecAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Anton Burkov",
+                    "affiliation":"Professor of Physics, University of Waterloo & Associate Faculty, Perimeter Institute"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ZnfLXOYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Daniel Loss",
+                    "affiliation":"Professor of Theoretical Physics, University of Basel"
+                }
+            ]
+        ]
+    ]
+}

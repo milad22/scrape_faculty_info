@@ -1,0 +1,113 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "ZvC5jmIAAAAJ",
+            "abhishek rudra pal",
+            "in",
+            "@iitkgp.ac.in",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=ZvC5jmIAAAAJ",
+            67,
+            [
+                "robotics",
+                "artificial intelligence"
+            ],
+            67,
+            4,
+            4,
+            2,
+            2,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"gW4Q_7UAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"D.K. Pratihar",
+                    "affiliation":"Professor of Mechanical Engineering, Indian Institute of Technology Kharagpur, Kharagpur-721302, India"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"BD44VWEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gour Gopal Roy",
+                    "affiliation":"Professor, Dept. of Metallurgical & materials Engineering, Indian Institute of Technology, Kharagpur-721302"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"juLcyO8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"P K C Kanigalpula",
+                    "affiliation":"IIT Kharagpur"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"C4e_N_QAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ranjan Ganguly",
+                    "affiliation":"Professor, Department of Power Engineering, Jadavpur University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"vQiPzewAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"AMITAVA DATTA",
+                    "affiliation":"Department of Power Engineering, Jadavpur University, Kolkata, India"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"VVhgpt4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sanjay Gupta",
+                    "affiliation":"Professor of Mechanical Engineering, Indian Institute of Technology Kharagpur."
+                }
+            ]
+        ]
+    ]
+}

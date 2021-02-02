@@ -1,0 +1,126 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "sY680IwAAAAJ",
+            "Utpal Chattopadhyay",
+            "Professor of Theoretical Physics, Indian Association for the Cultivation of Science",
+            "@iacs.res.in",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=sY680IwAAAAJ",
+            2827,
+            [
+                "Particle Physics",
+                "Low energy supersymmetry phenomenology",
+                "dark matter etc"
+            ],
+            543,
+            24,
+            14,
+            34,
+            19,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Rjk-N9oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Pran Nath",
+                    "affiliation":"Mathews Distinguished University Professor  of Physics"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"-iVI5OMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"D. P. Roy",
+                    "affiliation":"Homi Bhabha Centre for Science Education, Tata Institute of Fundamental Research, Mumbai, India"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"1Q1UBeIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tarek Ibrahim",
+                    "affiliation":"Professor of Physics, Zewail City of Science and Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"5U-pm1sAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sourov Roy",
+                    "affiliation":"Professor of Theoretical Physics, IACS, Kolkata"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"UXPnWecAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Arghya Choudhury",
+                    "affiliation":"University of Sheffield, University of Manchester"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"03Gd_LIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Partha Konar",
+                    "affiliation":"Physical Research Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"mrqcu1EAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Amit Chakraborty",
+                    "affiliation":"Indian Institute of Science (IISc)"
+                }
+            ]
+        ]
+    ]
+}

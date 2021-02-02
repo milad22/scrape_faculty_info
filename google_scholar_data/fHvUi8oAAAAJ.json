@@ -1,0 +1,79 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "fHvUi8oAAAAJ",
+            "Jeff Simpson",
+            "Full Professor of Physics, Towson University",
+            "@towson.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=fHvUi8oAAAAJ",
+            3801,
+            [
+                "Condensed matter physics",
+                "nanoscale science",
+                "carbon nanotubes",
+                "Raman spectroscopy"
+            ],
+            1503,
+            24,
+            17,
+            29,
+            23,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"vHgWOQEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Angela R. Hight Walker",
+                    "affiliation":"National Institute of Standards and Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"P2hGlRMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ming Zheng",
+                    "affiliation":"National Institute of Standards and Technology (previous affiliations: DuPont, NIH, Princeton)"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"PQ-eugwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Erik K. Hobbie",
+                    "affiliation":"North Dakota State University"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "_sfttowAAAAJ",
+            "Nathaniel Powers",
+            "University of Rochester",
+            "@u.rochester.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=_sfttowAAAAJ",
+            86,
+            [
+                "Electrical Engineering",
+                "Computer Engineering",
+                "Parallel Computing",
+                "Cloud Computing"
+            ],
+            65,
+            5,
+            5,
+            4,
+            2,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"QnRaxS0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tolga Soyata",
+                    "affiliation":"Johns Hopkins University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"eilC5Q0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alexander Alling",
+                    "affiliation":"University of Rochester"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"QSMgBHwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Minseok Kwon",
+                    "affiliation":"Professor of Computer Science, Rochester Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Ah_Q_7kAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"He Ba",
+                    "affiliation":"Software Engineer, Machine Learning at Facebook"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"myYVVuYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Wendi Heinzelman",
+                    "affiliation":"University of Rochester"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "w_l2ofYAAAAJ",
+            "Zohreh Davoudi",
+            "Assistant professor, University of Maryland - College Park",
+            "@umd.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=w_l2ofYAAAAJ",
+            1260,
+            [
+                "Hadronic Physics - Lattice Quantum Chromodynamics (LQCD) - Nuclear and Particle Theory - Quantum Simulation and Quantum Computat"
+            ],
+            956,
+            18,
+            17,
+            22,
+            22,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ouWY1gUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Martin Savage",
+                    "affiliation":"University of Washington"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"bARcJ-4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"William Detmold",
+                    "affiliation":"Associate Professor, Massachusetts Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"oLPGqOsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kostas Orginos",
+                    "affiliation":"College of William and Mary"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"85QcSOAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Thomas Luu",
+                    "affiliation":"Associate Professor of Physics, Universit\u00e4t Bonn & Forschungszentrum J\u00fclich"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"jO39jLYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Andreas Karch",
+                    "affiliation":"Professor of Physics, University of Texas at Austin"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "We developed interpolated climate surfaces for global land areas (excluding Antarctica) at a spatial resolution of 30 arc s (often referred to as 1\u2010km spatial resolution). The climate elements considered were monthly precipitation and mean, minimum, and maximum temperature. Input data were gathered from a variety of sources and, where possible, were restricted to records from the 1950\u20132000 period. We used the thin\u2010plate smoothing spline algorithm implemented in the ANUSPLIN package for interpolation, using latitude, longitude, and elevation as independent variables. We quantified uncertainty arising from the input data and the interpolation by mapping weather station density, elevation bias in the weather stations, and elevation variation within grid cells and through data partitioning and cross validation. Elevation bias tended to be negative (stations lower than expected) at high latitudes but positive in the \u2026",
+            "Very high resolution interpolated climate surfaces for global land areas",
+            "Robert J Hijmans and Susan E Cameron and Juan L Parra and Peter G Jones and Andy Jarvis",
+            "2005",
+            "NWdPabcAAAAJ:u5HHmVD_uO8C",
+            18922,
+            "https:\/\/rmets.onlinelibrary.wiley.com\/doi\/abs\/10.1002\/joc.1276",
+            "634759941254762844",
+            "\/scholar?cites=634759941254762844",
+            {
+                "2006":53,
+                "2007":143,
+                "2008":253,
+                "2009":405,
+                "2010":618,
+                "2011":786,
+                "2012":1101,
+                "2013":1399,
+                "2014":1547,
+                "2015":1805,
+                "2016":2131,
+                "2017":2230,
+                "2018":2193,
+                "2019":1966,
+                "2020":1900,
+                "2021":184
+            }
+        ],
+        [
+            "Prediction of species\u2019 distributions is central to diverse applications in ecology, evolution and conservation science. There is increasing electronic access to vast sets of occurrence records in museums and herbaria, yet little effective guidance on how best to use this information in the context of numerous approaches for modelling distributions. To meet this need, we compared 16 modelling methods over 226 species from 6 regions of the world, creating the most comprehensive set of model comparisons to date. We used presence\u2010only data to fit models, and independent presence\u2010absence data to evaluate the predictions. Along with well\u2010established modelling methods such as generalised additive models and GARP and BIOCLIM, we explored methods that either have been developed recently or have rarely been applied to modelling species\u2019 distributions. These include machine\u2010learning methods and \u2026",
+            "Novel methods improve prediction of species\u2019 distributions from occurrence data",
+            "J Elith and CH Graham and RP Anderson and M Dud\u00edk and S Ferrier and A Guisan and RJ Hijmans and F Huettmann and JR Leathwick and A Lehmann and Wisz MS & Zimmermann NE Li and J Lohmann LG and Loiselle BA and Manion G Moritz C",
+            "2006",
+            "NWdPabcAAAAJ:_FxGoFyzp5QC",
+            10820,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1111\/j.2006.0906-7590.04596.x@10.1111\/(ISSN)1600-0587.ecog-oa",
+            "5564285449129889555",
+            "\/scholar?cites=5564285449129889555",
+            {
+                "2006":51,
+                "2007":152,
+                "2008":265,
+                "2009":403,
+                "2010":460,
+                "2011":631,
+                "2012":723,
+                "2013":887,
+                "2014":908,
+                "2015":912,
+                "2016":978,
+                "2017":1036,
+                "2018":1053,
+                "2019":1026,
+                "2020":1143,
+                "2021":94
+            }
+        ]
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "UjCxYmAAAAAJ",
+            "Shin Yuan Chen",
+            "Professor, Tzu Chi General Hospital\/University",
+            "",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=UjCxYmAAAAAJ",
+            1270,
+            [
+                "Neurosurgery",
+                "Parkinson disease",
+                "deep brain stimulation"
+            ],
+            610,
+            19,
+            14,
+            33,
+            22,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3tj7cooAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sheng-Tzung Tsai",
+                    "affiliation":"Associate Professor of surgery, Tzu Chi General Hospital"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"DxS15bQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tsung-Ying Chen",
+                    "affiliation":"Professor of Anesthesiology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"MwJxA9cAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Chia-Hsin Liao",
+                    "affiliation":"\u82b1\u84ee\u6148\u6fdf\u91ab\u9662\u7814\u7a76\u90e8"
+                }
+            ]
+        ]
+    ]
+}

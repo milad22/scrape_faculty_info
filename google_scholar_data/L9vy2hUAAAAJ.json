@@ -1,0 +1,138 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "L9vy2hUAAAAJ",
+            "Duane D. Johnson",
+            "Iowa State University; Ames Lab; UIUC; Sandia Laboratories; NRL; U. Bristol",
+            "@ameslab.gov",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=L9vy2hUAAAAJ",
+            9596,
+            [
+                "Materials Science",
+                "Physics",
+                "Computational Materials Science"
+            ],
+            4251,
+            50,
+            33,
+            169,
+            102,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"UsXOWwcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Frank J. Pinski",
+                    "affiliation":"University of Cincinnati"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"cCy-WEMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Lin-Lin Wang",
+                    "affiliation":"Scientist II, Ames Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"kRKdsAkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Aftab Alam",
+                    "affiliation":"Professor of Physics, IIT Bombay, India"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"yjmaA-kAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Prashant Singh",
+                    "affiliation":"Scientist I @Ames laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"wDTV0iMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Anatoly I. Frenkel",
+                    "affiliation":"Stony Brook University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"G7zSDSIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Teck Leong Tan",
+                    "affiliation":"Institute of High Performance Computing Singapore"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"iedQEpAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ralph Nuzzo",
+                    "affiliation":"G.L. Clark Professor, UIUC; Professor Materials Chemistry, KTH Royal Institute of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"PouHjhgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Andrei V. Smirnov",
+                    "affiliation":""
+                }
+            ]
+        ]
+    ]
+}

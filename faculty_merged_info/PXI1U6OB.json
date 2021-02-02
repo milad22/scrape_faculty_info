@@ -1,0 +1,35 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "PXI1U6OB",
+            "yIeXV5oAAAAJ",
+            [
+                "Astropy: A community Python package for astronomy",
+                "CIAO: Chandra's Data Analysis System",
+                "CIAO: Chandra's data analysis system",
+                "Chandra observation of Abell 2142: Survival of dense subcluster cores in a merger"
+            ],
+            [
+                "We present the first public version (v0.2) of the open-source and community-developed Python package, Astropy. This package provides core astronomy-related functionality to the community, including support for domain-specific file formats such as flexible image transport system (FITS) files, Virtual Observatory (VO) tables, and common ASCII table formats, unit and physical quantity conversions, physical constants specific to astronomy, celestial coordinate and time transformations, world coordinate system (WCS) support, generalized containers for representing gridded as well as tabular data, and a framework for cosmological transformations and conversions. Significant functionality is under activedevelopment, such as a model fitting framework, VO client and server tools, and aperture and point spread function (PSF) photometry tools. The core development team is actively making additions and enhancements \u2026",
+                "The CIAO (Chandra Interactive Analysis of Observations) software package was first released in 1999 following the launch of the Chandra X-ray Observatory and is used by astronomers across the world to analyze Chandra data as well as data from other telescopes. From the earliest design discussions, CIAO was planned as a general-purpose scientific data analysis system optimized for X-ray astronomy, and consists mainly of command line tools (allowing easy pipelining and scripting) with a parameter-based interface layered on a flexible data manipulation I\/O library. The same code is used for the standard Chandra archive pipeline, allowing users to recalibrate their data in a consistent way. We will discuss the lessons learned from the first six years of the software's evolution. Our initial approach to documentation evolved to concentrate on recipe-based \"threads\" which have proved very successful. A multi \u2026",
+                "The CIAO (Chandra Interactive Analysis of Observations) software package was first released in 1999 following the launch of the Chandra X-ray Observatory and is used by astronomers across the world to analyze Chandra data as well as data from other telescopes. From the earliest design discussions, CIAO was planned as a general-purpose scientific data analysis system optimized for X-ray astronomy, and consists mainly of command line tools (allowing easy pipelining and scripting) with a parameter-based interface layered on a flexible data manipulation I\/O library. The same code is used for the standard Chandra archive pipeline, allowing users to recalibrate their data in a consistent way. We will discuss the lessons learned from the first six years of the software's evolution. Our initial approach to documentation evolved to concentrate on recipe-based \"threads\" which have proved very successful. A multi \u2026",
+                "We use Chandra data to map the gas temperature in the central region of the merging cluster A2142. The cluster is markedly nonisothermal; it appears that the central cooling flow has been disturbed but not destroyed by a merger. The X\u2010ray image exhibits two sharp, bow\u2010shaped, shocklike surface brightness edges or gas density discontinuities. However, temperature and pressure profiles across these edges indicate that these are not shock fronts. The pressure is reasonably continuous across these edges, while the entropy jumps in the opposite sense to that in a shock (i.e., the denser side of the edge has lower temperature, and hence lower entropy). Most plausibly, these edges delineate the dense subcluster cores that have survived a merger and ram pressure stripping by the surrounding shock\u2010heated gas."
+            ],
+            [
+                [
+                    "Astronomy"
+                ]
+            ]
+        ]
+    ]
+}

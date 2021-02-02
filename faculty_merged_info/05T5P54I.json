@@ -1,0 +1,48 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "05T5P54I",
+            "G86mGFEAAAAJ",
+            [
+                "Probing Hopping Conduction in Conjugated Molecular Wires Connected to Metal Electrodes\u2020",
+                "Recent progress on nanoparticle-based drug delivery systems for cancer therapy",
+                "Length and Temperature Dependent Conduction of Ruthenium-Containing Redox-Active Molecular Wires",
+                "Poly (diiododiacetylene): Preparation, Isolation, and Full Characterization of a Very Simple Poly (diacetylene)",
+                "Pressure-induced polymerization of diiodobutadiyne in assembled cocrystals",
+                "Length-Dependent Conductance of Conjugated Molecular Wires Synthesized by Stepwise \u201cClick\u201d Chemistry",
+                "Room Temperature Carbonization of Poly (diiododiacetylene) by Reaction with Lewis Bases",
+                "Mild photothermal therapy potentiates anti-PD-L1 treatment for immunologically cold tumors via an all-in-one and all-in-control strategy",
+                "AIE-based theranostic systems for detection and killing of pathogens"
+            ],
+            [
+                "Understanding electrical transport processes in molecules connected between metal electrodes is a central focus in the field of molecular electronics and is important for both potential applications and fundamental research purposes. This short review summarizes recent progress in assembling and measuring strategies for long conjugated molecular wires within molecular junctions, and introduces several new in situ methods to prepare molecular wires connected to electrodes. Following a brief introduction to charge transport mechanisms, particular examples of molecular wires in the recent literature are presented to discuss the influence of molecular length, temperature, and applied voltage on the transport properties with emphasis on the tunneling-to-hopping transition. The review concludes with an outlook on future hopping transport experiments in long conjugated molecular wires.",
+                "The development of cancer nanotherapeutics has attracted great interest in the recent decade. Cancer nanotherapeutics have overcome several limitations of conventional therapies, such as nonspecific biodistribution, poor water solubility, and limited bioavailability. Nanoparticles with tuned size and surface characteristics are the key components of nanotherapeutics, and are designed to passively or actively deliver anti-cancer drugs to tumor cells. We provide an overview of nanoparticle-based drug delivery methods and cancer therapies based on tumor-targeting delivery strategies that have been developed in recent years.",
+                "We report the electrical transport characteristics of two series of linear ruthenium(II) bis(\u03c3-arylacetylide) molecular wires, RunM and RunH (n = 1, 2, 3), consisting of multiple redox-active Ru(II) centers and different saturated side chains (M = \u2212CH2\u2013, and H = \u2212O(CH2)6\u2212) with lengths up to 6.0 nm. The self-assembled monolayers of these molecular wires on Au surfaces were comprehensively characterized by ellipsometry, X-ray photoelectron spectroscopy (XPS), reflection\u2013absorption infrared spectroscopy (RA-FTIR), and cyclic voltammetry. The resistance and current (I)\u2013voltage (V) characteristics of these molecular wires were measured as a function of length and temperature using conducting probe atomic force microscopy (CP-AFM). Both series of molecular wires exhibited very weak length dependence of the wire resistance, the \u03b2 value of RunM being 1.02 nm\u20131, and that of RunH being 1.64 nm\u20131, indicating a \u2026",
+                "Poly(diiodiacetylene), or PIDA, is a conjugated polymer containing the poly(diacetylene) (PDA) backbone but with only iodine atom substituents. The monomer diiodobutadiyne (1) can be aligned in the solid state with bis(nitrile) oxalamide hosts by hydrogen bonds between oxalamide groups and weak Lewis acid\u2212base interactions (halogen bonds) between nitriles and iodoalkynes. The resulting cocrystals start out pale blue but turn shiny and copper-colored as the polymerization progresses. The development of a crystallization methodology that greatly improves the yield of PIDA to about 50% now allows the full characterization of the polymer by X-ray diffraction, solid-state 13C MAS NMR, Raman, and electron absorption spectroscopy. Comparison of a series of hosts reveals an odd\u2212even effect in the topochemical polymerization, based on the alkyl chain length of the host. In the cocrystals formed with bis \u2026",
+                "Diiodobutadiyne forms cocrystals with bis(pyridyl)oxalamides in which the diyne alignment is near the ideal parameters for topochemical polymerization to the ordered conjugated polymer, poly(diiododiacetylene) (PIDA). Nonetheless, previous efforts to induce polymerization in these samples via heat or irradiation were unsuccessful. We report here the successful ordered polymerization of diiodobutadiyne in these cocrystals, by subjecting them to high external pressure (0.3\u221210 GPa). At the lower end of the pressure range, the samples contain primarily monomer, as demonstrated by X-ray diffraction studies, but some polymerization does occur, leading to a pronounced color change from colorless to blue and to the development of intense Raman peaks at 962, 1394, and 2055 cm-1, corresponding to the poly(diacetylene). At higher pressures, the samples turn black and contain primarily polymer, as determined by \u2026",
+                "We report the preparation and electrical characterization of conjugated oligophenylenetriazole (OPT) wires having systematically varied lengths up to 10 nm. OPT wires were built from gold substrates using Cu(I)-catalyzed azide alkyne cycloaddition and characterized comprehensively by RAIRS, ellipsometry, and XPS. We observed a clear transition in direct current (DC) transport from tunneling to hopping in a length range between 4 and 5 nm as previously established for oligoarylimine wires. Stepwise click cycloaddition represents a new efficient method to prepare long conjugated molecular wire self-assembled monolayers (SAMs) on Au surfaces for conduction measurements and is expected to be compatible with a variety of functionalities and bonding architectures in the wire backbones.",
+                "Poly(diiododiacetylene) (PIDA) is a conjugated polymer containing an all-carbon backbone and only iodine atom substituents. Adding a Lewis base to the blue PIDA suspension at room temperature leads first to rapid disappearance of the absorption peaks attributed to PIDA, followed more slowly by release of free iodine. The resulting solid material gives a Raman scattering spectrum consistent with graphitic carbon, and it has a much higher conductivity than PIDA itself. Further investigation has led to the discovery of a previously unreported transformation, the reaction of a Lewis base such as pyrrolidine with a trans-diiodoalkene to form the corresponding alkyne. The generality of this iodine elimination further suggests that reaction of PIDA with Lewis bases dehalogenates the polymer, presenting a new method to prepare carbon nanomaterials at room temperature under very mild conditions.",
+                "One of the main challenges for immune checkpoint blockade antibodies lies in malignancies with limited T-cell responses or immunologically \u201ccold\u201d tumors. Inspired by the capability of fever-like heat in inducing an immune-favorable tumor microenvironment, mild photothermal therapy (PTT) is proposed to sensitize tumors to immune checkpoint inhibition and turn \u201ccold\u201d tumors \u201chot.\u201d Here we present a combined all-in-one and all-in-control strategy to realize a local symbiotic mild photothermal-assisted immunotherapy (SMPAI). We load both a near-infrared (NIR) photothermal agent IR820 and a programmed death-ligand 1 antibody (aPD-L1) into a lipid gel depot with a favorable property of thermally reversible gel-to-sol phase transition. Manually controlled NIR irradiation regulates the release of aPD-L1 and, more importantly, increases the recruitment of tumor-infiltrating lymphocytes and boosts T-cell activity \u2026",
+                "Pathogenic bacteria, fungi and viruses pose serious threats to the human health under appropriate conditions. There are many rapid and sensitive approaches have been developed for identification and quantification of specific pathogens, but many challenges still exist. Culture\/colony counting and polymerase chain reaction are the classical methods used for pathogen detection, but their operations are time-consuming and laborious. On the other hand, the emergence and rapid spread of multidrug-resistant pathogens is another global threat. It is thus of utmost urgency to develop new therapeutic agents or strategies. Luminogens with aggregation-induced emission (AIEgens) and their derived supramolecular systems with unique optical properties have been developed as fluorescent probes for turn-on sensing of pathogens with high sensitivity and specificity. In addition, AIE-based supramolecular nanostructures \u2026"
+            ],
+            [
+                [
+                    "Chemistry",
+                    "Materials Science",
+                    "Polymer",
+                    "Pharmaceutics"
+                ]
+            ]
+        ]
+    ]
+}

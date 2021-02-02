@@ -1,0 +1,136 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "s8vH0xkAAAAJ",
+            "Enrique del Barco",
+            "Physics Department, University of Central Florida, Orlando FL 32816 USA",
+            "@ucf.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=s8vH0xkAAAAJ",
+            3784,
+            [
+                "Condensed Matter"
+            ],
+            1317,
+            32,
+            16,
+            61,
+            33,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"wb4mR3kAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Javier Tejada",
+                    "affiliation":"Professor University Barcelona"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"faihgzgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Barbaros Oezyilmaz",
+                    "affiliation":"Professor of Physics, National University of Singapore"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"715wnBwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Christopher Beedle",
+                    "affiliation":"Schuler Postdoctoral Fellow, National High Magnetic Field Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"kZ5cedgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Marta Sales-Pardo",
+                    "affiliation":"Universitat Rovira i Virgili"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"igqNBUkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ronald F. Ziolo",
+                    "affiliation":"Centro de Investigaci\u00f3n en Qu\u00edmica Aplicada (CIQA), Universtity of Akron, Universtiy of Colorado"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"SyPsvtAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Euan K. Brechin",
+                    "affiliation":"Professor of Coordination Chemistry, the University of Edinburgh"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"o-kSfVkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gr\u00e9goire de Loubens",
+                    "affiliation":"Service de Physique de l\u2019\u00c9tat Condens\u00e9 (CNRS UMR 3680), CEA Saclay, France"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6870zkgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mark R Pederson",
+                    "affiliation":"Department of Physics, University of Texas El Paso"
+                }
+            ]
+        ]
+    ]
+}

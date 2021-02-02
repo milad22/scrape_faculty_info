@@ -1,0 +1,34 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "YDXIUDND",
+            "0SVkCOMAAAAJ",
+            [
+                "Peak-to-average power ratio in MIMO-OFDM systems using selective mapping",
+                "Adaptive mode decision for H. 264 encoder",
+                "Frequency-offset synchronization and channel estimation for OFDM-based transmission"
+            ],
+            [
+                "This letter evaluates the peak-to-average power ratio (PAR) performance in a space-time block coded (STBC) multi-input multi-output orthogonal frequency-division multiplexing (MIMO-OFDM) system using the selective mapping (SLM) approach. The investigated SLM-based MIMO-OFDM system selects the transmitted sequence with the lowest average PAR over all transmit antennas and retrieves the side information very accurately at the expense of only 0.5-dB degradation of the PAR, which can improve the overall detection performance of the MIMO-OFDM system with erroneous side information, compared to the individual SLM approach.",
+                "An adaptive mode decision algorithm is presented, with rate-distortion optimisation that reduces complexity of the H.264 encoder without loss of image quality and compression ratio. The proposed algorithm uses the property of an all-zero coefficients block that is produced by quantisation and coefficient thresholding to effectively skip unnecessary modes. Experimental results show that the speed of the adaptive mode decision algorithm is two times faster than the full-mode decision algorithm of the JM72 reference encoder, without any coding loss.",
+                "This letter is concerned with a frequency offset estimation technique for OFDM based transmission systems. The frequency estimation technique utilizes a repetitive signal structure inside of a OFDM symbol which is used to enlarge the range and increase the accuracy of offset estimation. Also, an averaged decision-directed channel estimation (ADDCE) technique suitable for burst data is proposed."
+            ],
+            [
+                [
+                    "Wireless Communication and Broadcasting System",
+                    "Software Testing"
+                ]
+            ]
+        ]
+    ]
+}

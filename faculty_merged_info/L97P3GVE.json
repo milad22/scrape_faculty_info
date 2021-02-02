@@ -1,0 +1,45 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "L97P3GVE",
+            "ofrndyoAAAAJ",
+            [
+                "Estimation techniques for distributed parameter systems",
+                "Smart material structures- Modeling, estimation and control(Book)",
+                "Hereditary control problems: numerical methods based on averaging approximations",
+                "On damping mechanisms in beams",
+                "Spline approximations for functional differential equations",
+                "HIV dynamics: modeling, data analysis, and optimal treatment protocols",
+                "The linear regulator problem for parabolic systems",
+                "An experimentally validated damage detection theory in smart structures"
+            ],
+            [
+                "The research detailed in this monograph was originally motivated by our interest in control problems involving partial and delay differential equations. Our attempts to apply control theory techniques to such prob lems in several areas of science convinced us that in the need for better and more detailed models of distributed\/continuum processes in biology and mechanics lay a rich, interesting, and challenging class of fundamen tal questions. These questions, which involve science and mathematics, are typical of those arising in inverse or parameter estimation problems. Our efforts on inverse problems for distributed parameter systems, which are infinite dimensional in the most common realizations, began about seven years ago at a time when rapid advances in computing capabilities and availability held promise for significant progress in the development of a practically useful as well as theoretically sound methodology for such problems. Much of the research reported in our presentation was not begun when we outlined the plans for this monograph some years ago. By publishing this monograph now, when only a part of the originally intended topics are covered (see Chapter VII in this respect), we hope to stimulate the research and interest of others in an area of scientific en deavor which has exceeded even our optimistic expectations with respect to excitement, opportunity, and stimulation. The computer revolution alluded to above and the development of new codes allow one to solve rather routinely certain estimation problems that would have been out of the question ten years ago.",
+                "There is a great opportunity for new modeling, analysis, estimation, and feedback control ideas to play a fundamental role in the field of smart materials. This view has prompted this monograph in the hopes of providing a stimulus for other applied mathematicians to consider some of the plethora of problems and challenges in the development of smart material technology. The chapters of this book cover smart materials technology and control applications; the modeling aspects of shells, plates, and beams; patch contributions to structural equations; well-posedness of abstract structural models; the estimation of parameters and inverse problems; damage detection in smart material structures; infinite-dimensional control and the Galerkin approximation; the implementation of finite-dimensional compensators; and modeling and control in coupled systems. (AIAA)",
+                "An approximation scheme involving approximation of linear functional differential equations by systems of high order ordinary differential equations is formulated and convergence is established in the context of known results from linear semigroup theory. Applications to optimal control problems are discussed and a summary of numerical results is given. The paper is concluded with a brief survey of previous literature on this class of approximations for systems with delays.",
+                "A partial differential equation model of a cantilevered beam with a tip mass at its free end is used to study damping in a composite. Four separate damping mechanisms consisting of air damping, strain rate damping, spatial hysteresis, and time hysteresis are considered experimentally. Dynamic tests were performed to produce time histories. The time history data is then used along with an approximate model to form a sequence of least squares problems. The solution of the least squares problem yields the estimated damping coefficients. The resulting experimentally determined analytical model is compared with the time histories via numerical simulation of the dynamic response. The procedure suggested here is compared with a standard modal damping ratio model commonly used in experimental modal analysis.",
+                "We develop an approximation framework for linear hereditary systems which includes as special cases approximation schemes employing splines of arbitrary order. Numerical results for first- and third-order spline-based methods are presented and compared with results obtained using a previously developed scheme based on averaging ideas.",
+                "We present an overview of some concepts and methodologies we believe useful in modeling HIV pathogenesis. After a brief discussion of motivation for and previous efforts in the development of mathematical models for progression of HIV infection and treatment, we discuss mathematical and statistical ideas relevant to Structured Treatment Interruptions (STI). Among these are model development and validation procedures including parameter estimation, data reduction and representation, and optimal control relative to STI. Results from initial attempts in each of these areas by an interdisciplinary team of applied mathematicians, statisticians and clinicians are presented.",
+                "We present an approximation framework for computation (in finite dimensional spaces) of Riccati operators that can be guaranteed to converge to the Riccati operator in feedback controls for abstract evolution systems in a Hilbert space. It is shown how these results may be used in the linear optimal regulator problem for a large class of parabolic systems.",
+                "A method for the non-destructive detection and location of damage using parameterized partial differential equations and Galerkin approximation techniques is presented. Damages in a structure cause changes in the physical coefficients?!of mass density, elastic modulus and damping coefficients. This paper examines the use of beam like structure with piezoceramic sensors and actuators to perform identification of those physical parameters, and hence to detect the damage. The method casts the inverse problem as an optimization problem. The iterative method is based on enhanced least-square error minimization. Experimental results are presented from tests on cantilevered aluminum beams damaged at different locations and with damage of different dimensions. It is demonstrated that the method can sense the presence of damage, and locate and characterize the damage to a satisfactory precision."
+            ],
+            [
+                [
+                    "Optimization and control theory",
+                    "mathematical models",
+                    "scientific computing"
+                ]
+            ]
+        ]
+    ]
+}

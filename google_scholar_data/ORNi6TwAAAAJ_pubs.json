@@ -1,0 +1,82 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1
+    ],
+    "data":[
+        [
+            "The generation, manipulation and fundamental understanding of entanglement lies at the very heart of quantum mechanics. Entangled particles are non-interacting but are described by a common wavefunction; consequently, individual particles are not independent of each other and their quantum properties are inextricably interwoven 1, 2, 3. The intriguing features of entanglement become particularly evident if the particles can be individually controlled and physically separated. However, both the experimental realization and characterization of entanglement become exceedingly difficult for systems with many particles. The main difficulty is to manipulate and detect the quantum state of individual particles as well as to control the interaction between them. So far, entanglement of four ions 4 or five photons 5 has been demonstrated experimentally. The creation of scalable multiparticle entanglement demands a \u2026",
+            "Scalable multiparticle entanglement of trapped ions",
+            "Hartmut H\u00e4ffner and Wolfgang H\u00e4nsel and CF Roos and Jan Benhelm and Michael Chwalla and Timo K\u00f6rber and UD Rapol and Mark Riebe and PO Schmidt and Christoph Becher and O G\u00fchne and Wolfgang D\u00fcr and Rainer Blatt",
+            "2005",
+            "ORNi6TwAAAAJ:d1gkVwhDpl0C",
+            1179,
+            "https:\/\/www.nature.com\/articles\/nature04279",
+            "6129795887829334286",
+            "\/scholar?cites=6129795887829334286",
+            {
+                "2005":3,
+                "2006":66,
+                "2007":129,
+                "2008":120,
+                "2009":121,
+                "2010":105,
+                "2011":86,
+                "2012":61,
+                "2013":53,
+                "2014":65,
+                "2015":60,
+                "2016":64,
+                "2017":51,
+                "2018":52,
+                "2019":60,
+                "2020":69,
+                "2021":5
+            }
+        ],
+        [
+            "Quantum computers have the potential to perform certain computational tasks more efficiently than their classical counterparts. The Cirac\u2013Zoller proposal 1 for a scalable quantum computer is based on a string of trapped ions whose electronic states represent the quantum bits of information (or qubits). In this scheme, quantum logical gates involving any subset of ions are realized by coupling the ions through their collective quantized motion. The main experimental step towards realizing the scheme is to implement the controlled-NOT (CNOT) gate operation between two individual ions. The CNOT quantum logical gate corresponds to the XOR gate operation of classical logic that flips the state of a target bit conditioned on the state of a control bit. Here we implement a CNOT quantum gate according to the Cirac\u2013Zoller proposal 1. In our experiment, two 40 Ca+ ions are held in a linear Paul trap and are individually \u2026",
+            "Realization of the Cirac\u2013Zoller controlled-NOT quantum gate",
+            "Ferdinand Schmidt-Kaler and Hartmut H\u00e4ffner and Mark Riebe and Stephan Gulde and Gavin PT Lancaster and Thomas Deuschle and Christoph Becher and Christian F Roos and J\u00fcrgen Eschner and Rainer Blatt",
+            "2003",
+            "ORNi6TwAAAAJ:u5HHmVD_uO8C",
+            1133,
+            "https:\/\/www.nature.com\/articles\/nature01494",
+            "12466682659810322252",
+            "\/scholar?cites=12466682659810322252",
+            {
+                "2003":32,
+                "2004":82,
+                "2005":115,
+                "2006":96,
+                "2007":80,
+                "2008":94,
+                "2009":81,
+                "2010":67,
+                "2011":50,
+                "2012":56,
+                "2013":61,
+                "2014":60,
+                "2015":62,
+                "2016":47,
+                "2017":28,
+                "2018":38,
+                "2019":34,
+                "2020":42,
+                "2021":1
+            }
+        ]
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "7NWBG2Y2",
+            "nbA9cPcAAAAJ",
+            [
+                "Hierarchical classification of OAI metadata using the DDC taxonomy",
+                "Building a DDC-annotated Corpus from OAI Metadata",
+                "Linking data and publications: towards a cross-disciplinary approach",
+                "A multidisciplinary search engine for scientific open access documents",
+                "OpenAIRE guidelines for data archive, literature repository and CRIS managers",
+                "Automatische Sacherschlie\u00dfung elektronischer Dokumente",
+                "Pers\u00f6nliche Publikationslisten im WWW\u2013Webometrische Aspekte wissenschaftlicher Selbstdarstellung am Beispiel der Universit\u00e4t Bielefeld"
+            ],
+            [
+                "In the area of digital library services, the access to subject-specific metadata of scholarly publications is of utmost interest. One of the most prevalent approaches for metadata exchange is the XML-based Open Archive Initiative (OAI) Protocol for Metadata Harvesting (OAI-PMH). However, due to its loose requirements regarding metadata content there is no strict standard for consistent subject indexing specified, which is furthermore needed in the digital library domain. This contribution addresses the problem of automatic enhancement of OAI metadata by means of the most widely used universal classification schemes in libraries\u2014the Dewey Decimal Classification (DDC). To be more specific, we automatically classify scientific documents according to the DDC taxonomy within three levels using a machine learning-based classifier that relies solely on OAI metadata records as the document representation \u2026",
+                "The ongoing rise of digital libraries that store and disseminate the academic output of individual institutions\u2014so-called institutional repositories\u2014is vitally connected to the success of the Open Archives Initiative (OAI) and its Protocol for Metadata Harvesting (OAI-PMH). The key concept of OAI-PMH is to ease metadata exchange between digital libraries using a standardized XML-based format for encoding bibliographic records, thereby fostering the fast distribution of scholarly information (Lagoze and Van de Sompel, 2001). Despite this success, however, little attention has been given to the OAI domain as a source of primary data. Since most of the metadata distributed via the protocol describes academic publications, it is potentially interesting to a range of fields including linguistics, natural language processing, and text mining. Recently, metadata records in the OAI Dublin Core (OAI DC) format",
+                "In this paper, we tackle the challenge of linking scholarly information in multi-disciplinary research infrastructures. There is a trend towards linking publications with research data and other information, but, as it is still emerging, this is handled differently by various initiatives and disciplines. For OpenAIRE, a European cross-disciplinary publication infrastructure, this poses the challenge of supporting these heterogeneous practices. Hence, OpenAIRE wants to contribute to the development of a common approach for discipline-independent linking practices between publications, data, project information and researchers. To this end, we constructed two demonstrators to identify commonalities and differences. The results show the importance of stable and unique identifiers, and support a \u201cby reference\u201d approach of interlinking research results. This approach allows discipline-specific research information to be managed independently in distributed systems and avoids redundant maintenance. Furthermore, it allows these disciplinary systems to manage the specialized structures of their contents themselves.",
+                "There is no doubt that the increased visibility of publications deposited in freely accessible documents servers is an important motivation for scholars to publish their works Open Access. Bielefeld Academic Search Engine (BASE) is a service provider that indexes scientific content stored in both institutional and subject repositories. After a short introduction to the technical and conceptual background, this article describes the features of BASE and finally projects future developments to be taken out to further improve the system.",
+                "OpenAIRE supports the European Commission Open Access policy by providing an infrastructure for researchers to comply with the European Union Open Access mandate. The OpenAIREplus project\u20132nd Generation of Open Access Infrastructure for Research in Europe\u2013is a 30 month project funded by the European Commission 7th Framework Programme, and extends the mission of OpenAIRE (initiated in December 2009) further to facilitate access to the entire Open Access scientific production of the European Research Area, providing cross-links from publications to data and funding schemes. This large-scale project brings together 41 pan-European partners, including three cross-disciplinary research communities. The project will capitalize on the successful efforts of OpenAIRE, which is rapidly moving from implementing the European Union Open Access Pilot project into a service phase, enabling researchers to deposit their 7th Framework Programme and European Research Area funded research publications into Open Access repositories.Exposure and visibility of content from a range of European repositories will be significantly increased when a common and interoperable approach is taken and care to adhere to existing guidelines. This compatibility will lead to future interoperability between research infrastructures, and structured metadata is of benefit to individual data repositories and the knowledge community at large.",
+                "DFG-Projekt \u00bbAutomatische Anreicherung von OAI-Metadaten\u00ab F\u00f6rderung Oktober 2009\u2013September \n2011 Partner: Universit\u00e4tsbibliothek Bielefeld Abteilung f\u00fcr geisteswissenschaftliche \nFachinformatik, Unversit\u00e4t Frankfurt\/Main Institut f\u00fcr automatische Sprachverarbeitung, Universit\u00e4t \nLeipzig \u2026 Wissenschaftliche Suchmaschine Zugriff auf > 28 Mio Dokumente Aggregation der \nInhalte von > 1.800 Dokumentenservern \u2026 The Impact of Robust Modalities on Hardware and \nArchitecture JohnDoe FantasyUniversity DepartmentofUnicorn Research John.Doe@fant.as.\nedu ArthurDent FantasyUniversity DepartmentofSystematic Enlightenment \nArthur.Dent@fant.as.edu ABSTRACT \nInrecentyears,muchresearchhasbeendevotedtotheconstruc- \ntionofreinforcementlearning;nevertheless,fewhaveemulatedthe \u2026 ",
+                "Pers\u00f6nliche Publikationslisten sind ein Bestandteil wissenschaftlicher Selbstdarstellung im Web. Der Beitrag stellt sich die Frage, wie sich wissenschaftliche Dokumente aus den per s\u00f6nlichen Webseiten heraus identifizieren und f\u00fcr empirische Untersuchungen im Rahmen von Linkanalysen nutzen lassen. Am Beispiel der Universit\u00e4t Bielefeld wurden 1.358 wissen schaftliche Volltexte eruiert und ihre Rezeption \u00fcber zwei exemplarische Linkkontexte Wikipedia und dem politischen Diskurs im Web\u2014exploriert."
+            ],
+            [
+                [
+                    "Information Retrieval",
+                    "Text Mining"
+                ]
+            ]
+        ]
+    ]
+}

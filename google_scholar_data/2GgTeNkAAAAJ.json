@@ -1,0 +1,55 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "2GgTeNkAAAAJ",
+            "Thomas G Purdie",
+            "Medical Physicist, Princess Margaret Cancer Centre | University of Toronto",
+            "@rmp.uhn.ca",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=2GgTeNkAAAAJ",
+            5161,
+            [
+                "Medical physics",
+                "Machine learning",
+                "radiation oncology",
+                "quality assurance"
+            ],
+            2669,
+            29,
+            24,
+            49,
+            39,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"PHQGLf0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Chris McIntosh",
+                    "affiliation":"Scientist, Techna Institute, PMCC, JDMI; Assistant Professor Medical Biophysics, U of Toronto"
+                }
+            ]
+        ]
+    ]
+}

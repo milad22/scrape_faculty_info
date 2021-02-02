@@ -1,0 +1,124 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "5uq-imoAAAAJ",
+            "Russell S. Phillips, MD",
+            "Professor of Medicine, Harvard Medical School, Director, Center for Primary Care",
+            "@hms.harvard.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=5uq-imoAAAAJ",
+            40309,
+            [
+                "Primary Care"
+            ],
+            10054,
+            113,
+            57,
+            258,
+            178,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"86MkzqoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Joan Teno, M.D., M.S.",
+                    "affiliation":"Professor of Medicine, Oregon Health Sciences University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"2NZHc3oAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Albert W. Wu",
+                    "affiliation":"Professor of Health Policy and Management, Johns Hopkins Bloomberg School of Public Health"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"N_i54gkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Charles Safran",
+                    "affiliation":"Professor of Medicine, Harvard Medical School"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"M5_mEHQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Graham Colditz, MD, DrPH",
+                    "affiliation":"Professor, Dept. of Surgery, Washington University in St. Louis"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"4iEYUUsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David Matchar",
+                    "affiliation":"Professor of Medicine, Duke University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Ub8Z9WkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Grace Huang",
+                    "affiliation":"Beth Israel Deaconess"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"MyqlwRQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Bradley Crotty, MD, MPH",
+                    "affiliation":"Medical College of Wisconson"
+                }
+            ]
+        ]
+    ]
+}

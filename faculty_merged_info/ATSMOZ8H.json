@@ -1,0 +1,40 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "ATSMOZ8H",
+            "T70gMZUAAAAJ",
+            [
+                "A high-throughput infrastructure for density functional theory calculations",
+                "Formation enthalpies by mixing GGA and GGA+ U calculations",
+                "Finding nature\u2019s missing ternary oxide compounds using machine learning and density functional theory",
+                "Predicting crystal structure by merging data mining with quantum mechanics",
+                "Data mined ionic substitutions for the discovery of new compounds"
+            ],
+            [
+                "The use of high-throughput density functional theory (DFT) calculations to screen for new materials and conduct fundamental research presents an exciting opportunity for materials science and materials innovation. High-throughput DFT typically involves computations on hundreds, thousands, or tens of thousands of compounds, and such a change of scale requires new calculation and data management methodologies. In this article, we describe aspects of the necessary data infrastructure for such projects to handle data generation and data analysis in a scalable way. We discuss the problem of accurately computing properties of compounds across diverse chemical spaces with a single exchange correlation functional, and demonstrate that errors in the generalized gradient approximation are highly dependent on chemical environment.",
+                "Standard approximations to the density functional theory exchange-correlation functional have been extraordinary successful, but calculating formation enthalpies of reactions involving compounds with both localized and delocalized electronic states remains challenging. In this work we examine the shortcomings of the generalized gradient approximation (GGA) and GGA+ U in accurately characterizing such difficult reactions. We then outline a methodology that mixes GGA and GGA+ U total energies (using known binary formation data for calibration) to more accurately predict formation enthalpies. We demonstrate that for a test set of 49 ternary oxides, our methodology can reduce the mean absolute relative error in calculated formation enthalpies from approximately 7.7\u201321% in GGA+ U to under 2%. As another example we show that neither GGA nor GGA+ U alone accurately reproduces the Fe-PO phase \u2026",
+                "Finding new compounds and their crystal structures is an essential step to new materials discoveries. We demonstrate how this search can be accelerated using a combination of machine learning techniques and high-throughput ab initio computations. Using a probabilistic model built on an experimental crystal structure database, novel compositions that are most likely to form a compound, and their most-probable crystal structures, are identified and tested for stability by ab initio computations. We performed such a large-scale search for new ternary oxides, discovering 209 new compounds with a limited computational budget. A list of these predicted compounds is provided, and we discuss the chemistries in which high discovery rates can be expected.",
+                "Modern methods of quantum mechanics have proved to be effective tools to understand and even predict materials properties. An essential element of the materials design process, relevant to both new materials and the optimization of existing ones, is knowing which crystal structures will form in an alloy system. Crystal structure can only be predicted effectively with quantum mechanics if an algorithm to direct the search through the large space of possible structures is found. We present a new approach to the prediction of structure that rigorously mines correlations embodied within experimental data and uses them to direct quantum mechanical techniques efficiently towards the stable crystal structure of materials.",
+                "The existence of new compounds is often postulated by solid state chemists by replacing an ion in the crystal structure of a known compound by a chemically similar ion. In this work, we present how this new compound discovery process through ionic substitutions can be formulated in a mathematical framework. We propose a probabilistic model assessing the likelihood for ionic species to substitute for each other while retaining the crystal structure. This model is trained on an experimental database of crystal structures, and can be used to quantitatively suggest novel compounds and their structures. The predictive power of the model is demonstrated using cross-validation on quaternary ionic compounds. The different substitution rules embedded in the model are analyzed and compared to some of the traditional rules used by solid state chemists to propose new compounds (e.g., ionic size)."
+            ],
+            [
+                [
+                    "Electrochemistry",
+                    "Computational Materials Science",
+                    "Machine Learning",
+                    "Computer Science"
+                ]
+            ]
+        ]
+    ]
+}

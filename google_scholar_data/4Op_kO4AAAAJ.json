@@ -1,0 +1,56 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "4Op_kO4AAAAJ",
+            "Clare Yu",
+            "Professor of Physics and Astronomy, University of California, Irvine",
+            "@uci.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=4Op_kO4AAAAJ",
+            3350,
+            [
+                "condensed matter physics",
+                "biophysics",
+                "glasses",
+                "noise",
+                "qubits"
+            ],
+            979,
+            26,
+            13,
+            43,
+            19,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"fPtTkdkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Susan Coppersmith",
+                    "affiliation":"Professor of Physics, University of New South Wales"
+                }
+            ]
+        ]
+    ]
+}

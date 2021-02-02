@@ -1,0 +1,48 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "J0HDTVGZ",
+            "msQukuYAAAAJ",
+            [
+                "Development and testing of a general amber force field",
+                "Photoelectron spectroscopy of chromium-doped silicon cluster anions",
+                "Autler-Townes splitting in molecular lithium: Prospects for all-optical alignment of nonpolar molecules",
+                "Measurement of transition dipole moments in lithium dimers using electromagnetically induced transparency",
+                "Reactive collision dynamics by far wing laser scattering: Mg+H2",
+                "Observation of the 39K2 a\u20093\u03a3+u state by perturbation facilitated optical\u2013optical double resonance resolved fluorescence spectroscopy",
+                "Triplet states of Na2 and Li2 by perturbation facilitated optical\u2013optical double resonance spectroscopy",
+                "Far-Wing Absorption Profiles of a Reactive Collision: Mg + ",
+                "Comment on \u201cExperimental observation of spontaneous emission cancellation\u201d",
+                "CW all-optical triple-resonance spectroscopy of K2: Deperturbation analysis of the A1\u03a3u+ (v\u2264 12) and b3\u03a0u (13\u2264 v\u2264 24) states"
+            ],
+            [
+                "We describe here a general Amber force field (GAFF) for organic molecules. GAFF is designed to be compatible with existing Amber force fields for proteins and nucleic acids, and has parameters for most organic and pharmaceutical molecules that are composed of H, C, N, O, S, P, and halogens. It uses a simple functional form and a limited number of atom types, but incorporates both empirical and heuristic models to estimate force constants and partial atomic charges. The performance of GAFF in test cases is encouraging. In test I, 74 crystallographic structures were compared to GAFF minimized structures, with a root\u2010mean\u2010square displacement of 0.26 \u00c5, which is comparable to that of the Tripos 5.2 force field (0.25 \u00c5) and better than those of MMFF 94 and CHARMm (0.47 and 0.44 \u00c5, respectively). In test II, gas phase minimizations were performed on 22 nucleic acid base pairs, and the minimized structures \u2026",
+                "The photoelectron spectra of chromium-doped silicon cluster anions, CrSin\u2212, were measured over the size range, n=8\u201312. Their vertical detachment energies were measured to be 2.71, 2.88, 2.87, 2.95, and 3.18eV, respectively. Our results support theoretical calculations by Khanna, Rao, and Jena [Phys. Rev. Lett. 89, 016803 (2002)] which found CrSi12 to be an enhanced stability (magic) cluster with its chromium atom encapsulated inside a silicon cage and with its magnetic moment completely quenched by the effects of the surrounding cage.",
+                "We demonstrate Autler-Townes (AT) splitting in molecular lithium using cw triple resonance spectroscopy. The pump and tunable probe lasers create sub-Doppler double resonance excitation of an upper rovibrational level. The line shape is split in the presence of a third, coupling laser. The AT line shape consists of the superposition of several narrower twin peaks, one for each| M J|. The splitting is proportional to| M J| enabling resolution of the individual M J peaks. Thus, this all-optical technique can be used to align nonpolar molecules. The line shapes are in excellent agreement with theory.",
+                "We have observed electromagnetically induced transparency in a Doppler broadened molecular cascade system using fluorescence detection. We demonstrate that the power-dependent splitting of lines in the upper-level fluorescence excitation spectrum can be used as a new spectroscopic tool for the measurement of molecular transition dipole moment functions.",
+                "We have measured the far wing absorption profiles of the MgH2 collision system leading to both the nonreactive formation of Mg* and into two distinct final rotational states of the reaction product MgH (v\u2018=0, J\u2018=6, 23). We have observed qualitatively expected behavior including a pronounced red wing in the reactive absorption profile indicating strong reaction probability on the excited attractive potential surfaces. We have also observed novel aspects of the excited state dynamics including reactive vs nonreactive channel competition effects and a strong far blue wing reactive absorption suggesting significant reaction probability even for trajectories on the repulsive surfaces. We have developed a simple theoretical model to semiquantitatively explain our experimental results. This model uses standard quasistatic theory to estimate the absorption probability as a function of detuning between levels of MgH2 and with \u2026",
+                "Rydberg states of the potassium dimer in the 28\u2009430\u201329\u2009080 cm\u22121 and 30\u2009030\u201330\u2009500 cm\u22121 regions above the ground state X1\u03a3+g minimum have been studied using the perturbation facilitated optical\u2013optical double resonance technique (PFOODR). Energy levels in these energy regions have been assigned to both triplet and singlet gerade states based on excitation pattern information as well as intensity considerations. Resolved fluorescence from a mixed triplet\u2013singlet 43\u03a0g \u223c1\u03a0g upper state to the ground triplet state a\u20093\u03a3+u has been used to construct a potential energy curve for the a\u20093\u03a3+u state which is in excellent agreement with recent theoretical results. Since this electronic state and the ground singlet state X1\u03a3+g share the same dissociation limit, we have determined the dissociation energy for the potassium dimer to be De=4450\u00b12 cm\u22121.",
+                "We present a review of Li2 and Na2 triplet states. We summarize experimental results by perturbation facilitated optical\u2013optical double resonance (PFOODR) and all-optical triple resonance techniques as well as other laser spectroscopic results. We review the PFOODR singlet\u223ctriplet mixed window levels, the hyperfine structure of the triplet states, their predissociation, bound-free transitions in the triplet manifold, and collisional energy transfer within triplet states and between singlet and triplet states.",
+                "We report on preliminary studies of the far-wing absorption of laser light into the Mg H 2 reactive collision complex. We have measured the far-wing absorption profile leading both to the nonreactive channel (Mg* formation) and into a specific vibrational-rotational level of the reactive channel [MgH (v\u2032\u2032= 0, J\u2032\u2032= 23) formation].",
+                "A Comment on the Letter by Hui-Rong Xia, Cen-Yen Ye, and Shi-Yao Zhu, Phys. Rev. Lett. 77, 1032 (1996).",
+                "The lowest vibrational levels v = 0 to 12 of the A1\u03a3u+ state of K2, which are perturbed by the b3\u03a0u state (13 \u2264 v \u2264 24), were reexamined using all-optical triple-resonance (AOTR) spectroscopy. The experimental data were fitted by a nonlinear least-squares fit program to obtain deperturbed molecular constants for both the A1\u03a3u+ and b3\u03a0u states. Improved Dunham coefficients of the A1\u03a3u+ state in the range 0 \u2264 v \u2264 62 are determined from the deperturbed Tv and Bv values including the v \u2264 12 region of this work, the v = 12\u201318 region in the work of Ross et al. [J. Phys. B.20, 6225\u20136231 (1987)], and the v = 21\u201362 region in the work of Lyyra et al. [J. Chem. Phys.92, 43\u201350 (1990)]. The electronic matrix element for the A1\u03a3u+ \u223c b3\u03a0u interaction is Hel = 18.64(9) cm\u22121, in good agreement with the value of 18.4 (2) cm\u22121 found by Ross et al."
+            ],
+            [
+                [
+                    "Molecular Quantum Optics",
+                    "Multiple Resonance Laser Spectroscopy"
+                ]
+            ]
+        ]
+    ]
+}

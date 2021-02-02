@@ -1,0 +1,126 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Wcx_lrkAAAAJ",
+            "Hanan Dery",
+            "Professor of Electrical and Computer Engineering, University of Rochester",
+            "@rochester.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=Wcx_lrkAAAAJ",
+            3373,
+            [
+                "2D semiconductors (optical",
+                "transport",
+                "and many-body phenomena)"
+            ],
+            1811,
+            34,
+            26,
+            47,
+            37,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"TUYg-N8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Yang Song",
+                    "affiliation":"Condensed Matter Theory Center, University of Maryland"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"qQGZpqYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"L J Sham",
+                    "affiliation":"Professor Emeritus, University of California San Diego"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"iYI7VYMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Pengke Li",
+                    "affiliation":"University of Maryland, College Park"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"jP-Adh8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dinh Van Tuan",
+                    "affiliation":"Department of Electrical and Computer Engineering, University of Rochester"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"kjJzDmQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Xiaodong Xu",
+                    "affiliation":"Physics department, University of Washington Seattle"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"1z6xR14AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ian Appelbaum",
+                    "affiliation":"University of Maryland, College Park"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"uqTiqhYAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"F\u00e8lix Casanova",
+                    "affiliation":"Ikerbasque Research Professor, CIC nanoGUNE"
+                }
+            ]
+        ]
+    ]
+}

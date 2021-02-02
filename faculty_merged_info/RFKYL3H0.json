@@ -1,0 +1,39 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "RFKYL3H0",
+            "BslTuE0AAAAJ",
+            [
+                "Non-invasive estimation of hyperthermia temperatures with ultrasound",
+                "Intrinsic dependencies of CT radiomic features on voxel size and number of gray levels",
+                "A genome-based model for adjusting radiotherapy dose (GARD): a retrospective, cohort-based study",
+                "Phase III study of interstitial thermoradiotherapy compared with interstitial radiotherapy alone in the treatment of recurrent or persistent human tumors: A prospectively \u2026",
+                "Measurement of DNA damage after exposure to electromagnetic radiation in the cellular phone communication frequency band (835.62 and 847.74 MHz)",
+                "Measurement of DNA damage after exposure to 2450 MHz electromagnetic radiation"
+            ],
+            [
+                "Ultrasound is an attractive modality for temperature monitoring because it is non-ionizing, convenient, inexpensive and has relatively simple signal processing requirements. This modality may be useful for temperature estimation if a temperature-dependent ultrasonic parameter can be identified, measured and calibrated. The most prominent methods for using ultrasound as a non-invasive thermometer exploit either (1) echo shifts due to changes in tissue thermal expansion and speed of sound (SOS), (2) variation in the attenuation coefficient or (3) change in backscattered energy from tissue inhomogeneities. The use of echo shifts has received the most attention in the last decade. By tracking scattering volumes and measuring the time shift of received echoes, investigators have been able to predict the temperature from a region of interest both theoretically and experimentally in phantoms, in isolated tissue regions \u2026",
+                "Many radiomics features were originally developed for non\u2010medical imaging applications and therefore original assumptions may need to be reexamined. In this study, we investigated the impact of slice thickness and pixel spacing (or pixel size) on radiomics features extracted from Computed Tomography (CT) phantom images acquired with different scanners as well as different acquisition and reconstruction parameters. The dependence of CT texture features on gray\u2010level discretization was also evaluated.A texture phantom composed of 10 different cartridges of different materials was scanned on eight different CT scanners from three different manufacturers. The images were reconstructed for various slice thicknesses. For each slice thickness, the reconstruction Field Of View (FOV) was varied to render pixel sizes ranging from 0.39 to 0.98 mm. A fixed spherical region of \u2026",
+                "Despite its common use in cancer treatment, radiotherapy has not yet entered the era of precision medicine, and there have been no approaches to adjust dose based on biological differences between or within tumours. We aimed to assess whether a patient-specific molecular signature of radiation sensitivity could be used to identify the optimum radiotherapy dose.We used the gene-expression-based radiation-sensitivity index and the linear quadratic model to derive the genomic-adjusted radiation dose (GARD). A high GARD value predicts for high therapeutic effect for radiotherapy; which we postulate would relate to clinical outcome. Using data from the prospective, observational Total Cancer Care (TCC) protocol, we calculated GARD for primary tumours from 20 disease sites treated using standard radiotherapy doses for each disease type. We also used multivariable Cox modelling to \u2026",
+                "Purpose: The objectives of this randomized trial were to determine if interstitial thermoradiotherapy (ITRT) improves tumor regression\/control in accessible lesions in comparison with interstitial radiotherapy (IRT) alone and to assess the skin and soft tissue complications with either modality. Methods and Materials: From January 1986 to June 1992, 184 patients with persistent or recurrent tumors after previous radiotherapy and\/or surgery, which were amenable to interstitial radiotherapy, were accessioned to a protocol developed by the Radiation Therapy Oncology Group (RTOG). One hundred seventy-three cases were analyzed (87 patients in the IRT group and 86 in the ITRT arm). The two arms were well balanced regarding stratification criteria. Most tumors were in the head and neck (40% in the IRT group and 46% in the ITRT group,) and pelvis (42% and 43%, respectively). Eighty-four percent of patients in both arms had prior radiation therapy (\u2265 40 Gy); 50% and 40%, respectively, had prior surgery, and 34% in each arm had prior chemotherapy. The dose of radiation therapy administered was dependent on the previous radiation dose and did not exceed a total cumulative dose of 100 Gy. Hyperthermia was delivered in one or two sessions, either before or before and after interstitial implant. The intended goal of the hyperthermia was to maintain a minimal tumor temperature of 42.5 C for 30 to 60 min. Results: There was no difference in any of the study end points between the two arms. Complete response (CR) was 53% and 55% in both arms. Two-year survival was 34% and 35%, respectively. Complete response rate for persistent lesions \u2026",
+                "Mouse C3H 10T1\/2 fibroblasts and human glioblastoma U87MG cells were exposed to cellular phone communication frequency radiations to investigate whether such exposure produces DNA damage in in vitro cultures. Two types of frequency modulations were studied: frequency-modulated continuous-wave (FMCW), with a carrier frequency of 835.62 MHz, and code-division multiple-access (CDMA) centered on 847.74 MHz. Exponentially growing (U87MG and C3H 10T1\/2 cells) and plateau-phase (C3H 10T1\/2 cells) cultures were exposed to either FMCW or CDMA radiation for varying periods up to 24 h in specially designed radial transmission lines (RTLs) that provided relatively uniform exposure with a specific absorption rate (SAR) of 0.6 W\/kg. Temperatures in the RTLs were monitored continuously and maintained at 37 \u00b1 0.3\u00b0C. Sham exposure of cultures in an RTL (negative control) and137 Cs \u03b3 \u2026",
+                "Recent reports suggest that exposure to 2450 MHz electromagnetic radiation causes DNA single-strand breaks (SSBs) and double-strand breaks (DSBs) in cells of rat brain irradiated in vivo (Lai and Singh, Bioelectromagnetics 16, 207-210, 1995; Int. J. Radiat. Biol. 69, 513-521, 1996). Therefore, we endeavored to determine if exposure of cultured mammalian cells in vitro to 2450 MHz radiation causes DNA damage. The alkaline comet assay (single-cell gel electrophoresis), which is reportedly the most sensitive method to assay DNA damage in individual cells, was used to measure DNA damage after in vitro 2450 MHz irradiation. Exponentially growing U87MG and C3H 10T1\/2 cells were exposed to 2450 MHz continuous-wave (CW) radiation in specially designed radial transmission lines (RTLs) that provided relatively uniform microwave exposure. Specific absorption rates (SARs) were calculated to be 0.7 and \u2026"
+            ],
+            [
+                [
+                    "Medical Physics"
+                ]
+            ]
+        ]
+    ]
+}

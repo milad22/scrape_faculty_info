@@ -1,0 +1,91 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "KUJDQ58AAAAJ",
+            "Venkat Viswanathan",
+            "universit\u00e9 de lille nord de france",
+            "@inria.fr",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=KUJDQ58AAAAJ",
+            55,
+            [
+                "Reconfigurable Computing",
+                "Multicore",
+                "Computer Architectures",
+                "SoC"
+            ],
+            34,
+            4,
+            3,
+            2,
+            1,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"EkBJrH4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Rabie Ben Atitallah",
+                    "affiliation":"Galatasaray \u00dcniversitesi"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"IL5KrG4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Georgi Gaydadjiev",
+                    "affiliation":"Professor in Computer Architecture, University of Groningen"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"jh2vubkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ioannis Sourdis",
+                    "affiliation":"Professor of Computer Engineering, Chalmers University of Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"8RSBZzQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dimitris Theodoropoulos",
+                    "affiliation":"Affiliated post-doc researcher, Telecommunication Systems Institute, Technical University of Crete"
+                }
+            ]
+        ]
+    ]
+}

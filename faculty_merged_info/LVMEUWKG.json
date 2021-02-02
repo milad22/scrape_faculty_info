@@ -1,0 +1,45 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "LVMEUWKG",
+            "B08BBFMAAAAJ",
+            [
+                "Coupled-cluster computations of atomic nuclei",
+                "Accurate nuclear radii and binding energies from a chiral interaction",
+                "Evolution of shell structure in neutron-rich calcium isotopes",
+                "Optimized chiral nucleon-nucleon interaction at next-to-next-to-leading order",
+                "Neutron and weak-charge distributions of the 48 Ca nucleus",
+                "Unexpectedly large charge radii of neutron-rich calcium isotopes",
+                "Ab initio coupled-cluster approach to nuclear structure with modern nucleon-nucleon interactions",
+                "Continuum effects and three-nucleon forces in neutron-rich oxygen isotopes",
+                "Medium-mass nuclei from chiral nucleon-nucleon interactions"
+            ],
+            [
+                "In the past decade, coupled-cluster theory has seen a renaissance in nuclear physics, with computations of neutron-rich and medium-mass nuclei. The method is efficient for nuclei with product-state references, and it describes many aspects of weakly bound and unbound nuclei. This report reviews the technical and conceptual developments of this method in nuclear physics, and the results of coupled-cluster calculations for nucleonic matter, and for exotic isotopes of helium, oxygen, calcium, and some of their neighbors.",
+                "With the goal of developing predictive ab initio capability for light and medium-mass nuclei, two-nucleon and three-nucleon forces from chiral effective field theory are optimized simultaneously to low-energy nucleon-nucleon scattering data, as well as binding energies and radii of few-nucleon systems and selected isotopes of carbon and oxygen. Coupled-cluster calculations based on this interaction, named NNLO sat, yield accurate binding energies and radii of nuclei up to Ca 40, and are consistent with the empirical saturation point of symmetric nuclear matter. In addition, the low-lying collective J \u03c0= 3\u2212 states in O 16 and Ca 40 are described accurately, while spectra for selected p-and s d-shell nuclei are in reasonable agreement with experiment.",
+                "We employ interactions from chiral effective field theory and compute the binding energies and low-lying excitations of calcium isotopes with the coupled-cluster method. Effects of three-nucleon forces are included phenomenologically as in-medium two-nucleon interactions, and the coupling to the particle continuum is taken into account using a Berggren basis. The computed ground-state energies and the low-lying J \u03c0= 2+ states for the isotopes Ca 42, 48, 50, 52 are in good agreement with data, and we predict the excitation energy of the first J \u03c0= 2+ state in Ca 54 at 1.9 MeV, displaying only a weak subshell closure. In the odd-mass nuclei Ca 53, 55, 61 we find that the positive parity states deviate strongly from the naive shell model.",
+                "We optimize the nucleon-nucleon interaction from chiral effective field theory at next-to-next-to-leading order (NNLO). The resulting new chiral force NNLO opt yields \u03c7 2\u2248 1 per degree of freedom for laboratory energies below approximately 125 MeV. In the A= 3, 4 nucleon systems, the contributions of three-nucleon forces are smaller than for previous parametrizations of chiral interactions. We use NNLO opt to study properties of key nuclei and neutron matter, and we demonstrate that many aspects of nuclear structure can be understood in terms of this nucleon-nucleon interaction, without explicitly invoking three-nucleon forces.",
+                "What is the size of the atomic nucleus? This deceivably simple question is difficult to answer. Although the electric charge distributions in atomic nuclei were measured accurately already half a century ago, our knowledge of the distribution of neutrons is still deficient. In addition to constraining the size of atomic nuclei, the neutron distribution also impacts the number of nuclei that can exist and the size of neutron stars. We present an ab initio calculation of the neutron distribution of the neutron-rich nucleus 48 Ca. We show that the neutron skin (difference between the radii of the neutron and proton distributions) is significantly smaller than previously thought. We also make predictions for the electric dipole polarizability and the weak form factor; both quantities that are at present targeted by precision measurements. Based on ab initio results for 48 Ca, we provide a constraint on the size of a neutron star.",
+                "Despite being a complex many-body system, the atomic nucleus exhibits simple structures for certain \u2018magic\u2019numbers of protons and neutrons. The calcium chain in particular is both unique and puzzling: evidence of doubly magic features are known in 40, 48 Ca, and recently suggested in two radioactive isotopes, 52, 54 Ca. Although many properties of experimentally known calcium isotopes have been successfully described by nuclear theory, it is still a challenge to predict the evolution of their charge radii. Here we present the first measurements of the charge radii of 49, 51, 52 Ca, obtained from laser spectroscopy experiments at ISOLDE, CERN. The experimental results are complemented by state-of-the-art theoretical calculations. The large and unexpected increase of the size of the neutron-rich calcium isotopes beyond N= 28 challenges the doubly magic nature of 52 Ca and opens new intriguing questions \u2026",
+                "We perform coupled-cluster calculations for the doubly magic nuclei He 4, O 16, Ca 40, 48, for neutron-rich isotopes of oxygen and fluorine, and employ \u201cbare\u201d and secondary renormalized nucleon-nucleon interactions. For the nucleon-nucleon interaction from chiral effective field theory at order next-to-next-to-next-to leading order, we find that the coupled-cluster approximation including triples corrections binds nuclei within 0.4 MeV per nucleon compared to data. We employ interactions from a resolution-scale dependent similarity renormalization group transformations and assess the validity of power counting estimates in medium-mass nuclei. We find that the missing contributions from three-nucleon forces are consistent with these estimates. For the unitary correlator model potential, we find a slow convergence with respect to increasing the size of the model space. For the G-matrix approach, we find a weak \u2026",
+                "We employ interactions from chiral effective field theory and compute binding energies, excited states, and radii for isotopes of oxygen with the coupled-cluster method. Our calculation includes the effects of three-nucleon forces and of the particle continuum, both of which are important for the description of neutron-rich isotopes in the vicinity of the nucleus O 24. Our main results are the placement of the neutron drip line at O 24, the assignment of spins, parities and resonance widths for several low-lying states of the drip line nucleus, and an efficient approximation that incorporates the effects of three-body interactions.",
+                "We compute the binding energies, radii, and densities for selected medium-mass nuclei within coupled-cluster theory and employ a bare chiral nucleon-nucleon interaction at next-to-next-to-next-to-leading order. We find rather well-converged results in model spaces consisting of 15 oscillator shells, and the doubly magic nuclei Ca 40, Ca 48, and the exotic Ni 48 are underbound by about 1 MeV per nucleon within the coupled-cluster singles-doubles approximation. The binding-energy difference between the mirror nuclei Ca 48 and Ni 48 is close to theoretical mass table evaluations. Our computation of the one-body density matrices and the corresponding natural orbitals and occupation numbers provides a first step to a microscopic foundation of the nuclear shell model."
+            ],
+            [
+                [
+                    "physics"
+                ]
+            ]
+        ]
+    ]
+}

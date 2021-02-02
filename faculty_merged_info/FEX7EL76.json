@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "FEX7EL76",
+            "fV5u6E8AAAAJ",
+            [
+                "General purpose molecular dynamics simulations fully implemented on graphics processing units",
+                "Grain boundary scars and spherical crystallography",
+                "Interacting topological defects on frozen topographies",
+                "Crystalline order on a sphere and the generalized Thomson problem",
+                "The statistical mechanics of membranes",
+                "Dynamics and statics of DNA-programmable nanoparticle self-assembly and crystallization",
+                "Molecular dynamics of ionic transport and electrokinetic effects in realistic silica channels",
+                "Universal negative Poisson ratio of self-avoiding fixed-connectivity membranes",
+                "Phosphatidic acid domains in membranes: effect of divalent counterions",
+                "Crystalline particle packings on a sphere with long-range power-law potentials"
+            ],
+            [
+                "Graphics processing units (GPUs), originally developed for rendering real-time effects in computer games, now provide unprecedented computational power for scientific applications. In this paper, we develop a general purpose molecular dynamics code that runs entirely on a single GPU. It is shown that our GPU implementation provides a performance equivalent to that of fast 30 processor core distributed memory cluster. Our results show that GPUs already provide an inexpensive alternative to such clusters and discuss implications for the future.",
+                "We describe experimental investigations of the structure of two-dimensional spherical crystals. The crystals, formed by beads self-assembled on water droplets in oil, serve as model systems for exploring very general theories about the minimum-energy configurations of particles with arbitrary repulsive interactions on curved surfaces. Above a critical system size we find that crystals develop distinctive high-angle grain boundaries, or scars, not found in planar crystals. The number of excess defects in a scar is shown to grow linearly with the dimensionless system size. The observed slope is expected to be universal, independent of the microscopic potential.",
+                "We propose and analyze an effective free energy describing the physics of disclination defects in particle arrays constrained to move on an arbitrary two-dimensional surface. At finite temperature the physics of interacting disclinations is mapped to a Laplacian sine-Gordon Hamiltonian suitable for numerical simulations. We discuss general features of the ground state and thereafter specialize to the spherical case. The ground state is analyzed as a function of the ratio of the defect core energy to the Young\u2019s modulus. We argue that the core energy contribution becomes less and less important in the limit R\u226b a, where R is the radius of the sphere and a is the particle spacing. For large core energies there are 12 disclinations forming an icosahedron. For intermediate core energies unusual finite-length grain boundaries are preferred. The complicated regime of small core energies, appropriate to the limit R\/a\u2192\u221e, is \u2026",
+                "We attack the generalized Thomson problem, ie, determining the ground state energy and configuration of many particles interacting via an arbitrary repulsive pairwise potential on a sphere via a continuum mapping onto a universal long range interaction between angular disclination defects parametrized by the elastic (Young) modulus Y of the underlying lattice and the core energy E c o r e of an isolated disclination. Predictions from the continuum theory for the ground state energy agree with numerical simulations of long range power law interactions of the form 1\/r \u03b3 (0< \u03b3< 2) to four significant figures. The generality of our approach is illustrated by a study of grain boundary proliferation for tilted crystalline order and square lattices on the sphere.",
+                "The fluctuations of two-dimensional extended objects (membranes) is a rich and exciting field with many solid results and a wide range of open issues. We review the distinct universality classes of membranes, determined by the local order, and the associated phase diagrams. After a discussion of several physical examples of membranes we turn to the physics of crystalline (or polymerized) membranes in which the individual monomers are rigidly bound. We discuss the phase diagram with particular attention to the dependence on the degree of self-avoidance and anisotropy. In each case we review and discuss analytic, numerical and experimental predictions of critical exponents and other key observables. Particular emphasis is given to the results obtained from the renormalization group \u03b5-expansion. The resulting renormalization group flows and fixed points are illustrated graphically. The full technical details \u2026",
+                "DNA linker mediated self-assembly is emerging as a very general strategy for designing new materials. In this Letter, we characterize both the dynamics and thermodynamics of nanoparticle-DNA self-assembly by molecular dynamics simulations from a new coarse-grained model. We establish the general phase diagram and discuss the stability of a previously overlooked crystalline phase (D-bcc). We also characterize universal properties about the dynamics of crystallization. We point out the connection to f-star polymer systems and discuss the implications for ongoing experiments as well as for the general field of DNA mediated self-assembly.",
+                "Silica is one of the most widely used inorganic materials in experiments and applications involving aqueous solutions of biomolecules, nanoparticles, etc. In this paper, we construct a detailed atomistic model of a silica interface that captures the essential experimentally known properties of a silica interface. We then perform all-atom molecular dynamics simulations of a silica nanochannel subjected to either an external pressure or an electric field and provide an atomistic description of ionic transport and both electro-osmotic flow and streaming currents for a solution of monovalent (0.4 M NaCl) as well as divalent (0.2 and 1.0 M CaCl 2) salts. Our results allow a detailed investigation of \u03b6-potentials, Stern layer conductance, charge inversion, ionic mobilities, as well as continuum theories and Onsager relations. We conclude with a discussion on the implications of our results for silica nanopore experiments and micro \u2026",
+                "We determine the Poisson ratio of self-avoiding fixed-connectivity membranes, modeled as impenetrable plaquettes, to be \u03c3=\u2212 0.37 (6), in statistical agreement with the Poisson ratio of phantom fixed-connectivity membranes \u03c3=\u2212 0.32 (4). Together with the equality of critical exponents, this result implies a unique universality class for fixed-connectivity membranes. Our findings thus establish that physical fixed-connectivity membranes provide a wide class of auxetic (negative Poisson ratio) materials with significant potential applications in materials science.",
+                "Phosphatidic acid (PA) is emerging as a key phospholipid in a wide range of biological processes such as signal transduction, secretion, or membrane fusion. In most cases, the biological functionality of PA is associated with the presence of micromolar to millimolar calcium concentrations. It has been argued that PA can create defects in the packing of lipids in membranes due to lateral phase separation by divalent ions, which in turn aggregate proteins with high affinity for PA. In this article, we present a detailed investigation of the properties of PA domains in the presence of divalent ions by a combination of molecular dynamics simulations and theoretical methods. Our results show that PA is extremely effective in binding divalent ions through its oxygen atoms, with a broad distribution of binding constants and exhibiting the phenomenon of charge inversion (a total number of bound counterion charges that exceeds \u2026",
+                "The original Thomson problem of \u201cspherical crystallography\u201d seeks the ground state of electron shells interacting via the Coulomb potential; however one can also study crystalline ground states of particles interacting with other potentials. We focus here on long-range power-law interactions of the form 1\u2215 r \u03b3 (0< \u03b3< 2), with the classic Thomson problem given by \u03b3= 1. At large R\u2215 a, where R is the sphere radius and a is the particle spacing, the problem can be reformulated as a continuum elastic model that depends on the Young\u2019s modulus of particles packed in the plane and the universal (independent of the pair potential) geometrical interactions between disclination defects. The energy of the continuum model can be expressed as an expansion in powers of the total number of particles, M\u223c(R\u2215 a) 2, with coefficients explicitly related to both geometric and potential-dependent terms. For icosahedral \u2026"
+            ],
+            [
+                [
+
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3
+    ],
+    "data":[
+        [
+            "We studied global nonaxisymmetric hydrodynamic instabilities in an extensive collection of hot, self-gravitating polytropic disk systems, systems that covered a wide expanse of the parameter space relevant to protostellar and protoplanetary systems. We examined equilibrium disk models varying three parameters: the ratio of the inner to outer equatorial radii, the ratio of star mass to disk mass, and the rotation law exponent q. We took the polytropic index n=1.5 and examined the exponents q=1.5 and 2, and the transitional one q=1.75. For each of these sets of parameters, we examined models with inner to outer radius ratios from 0.1 to 0.75, and star mass to disk mass ratios from 0 to 103. We numerically calculated the growth rates and oscillation frequencies of low-order nonaxisymmetric disk modes, modes with azimuthal dependence \u221de  im\u03d5 . Low-m modes are found to \u2026",
+            "Nonaxisymmetric instabilities in self-gravitating disks. II. Linear and quasi-linear analyses",
+            "Kathryn Z Hadley and Paul Fernandez and James N Imamura and Erik Keever and Rebecka Tumblin and William Dumas",
+            "2014",
+            "1a4QxWYAAAAJ:WF5omc3nYNoC",
+            9,
+            "https:\/\/link.springer.com\/article\/10.1007\/s10509-014-1994-8",
+            "12980029295405020833",
+            "\/scholar?cites=12980029295405020833",
+            {
+                "2015":2,
+                "2016":2,
+                "2017":2,
+                "2018":1,
+                "2019":2
+            }
+        ],
+        [
+            "We perform an extensive linear investigation of the nonaxisymmetric disk modes referred to in the literature as P, I, and J modes in self-gravitating polytropic toroids with power law angular velocity distributions. For selected models, we also follow the development of instability from the linear regime through the quasi-linear regime to deep into the nonlinear regime. We consider modes with azimuthal dependence e  im\u03c6 , where m is an integer and \u03c6 is the azimuthal angle. We find that instability sets in through m=2 barlike I modes at T\/|W|\u223c0.16\u20130.18 depending upon the chosen angular velocity law where T is the rotational kinetic energy and W is the gravitational energy of the toroid. Instability in the barlike I mode peaks in strength around T\/|W|=0.22\u20130.23 after which it weakens, eventually stabilizing around T\/|W|\u223c0.25\u20130.26. One-armed modes (m=1 modes) become \u2026",
+            "Nonaxisymmetric instabilities of self-gravitating disks. I toroids",
+            "Kathryn Hadley and James N Imamura",
+            "2011",
+            "1a4QxWYAAAAJ:eQOLeE2rZwMC",
+            4,
+            "https:\/\/link.springer.com\/article\/10.1007\/s10509-011-0668-z",
+            "12034772463885063946",
+            "\/scholar?cites=12034772463885063946",
+            {
+                "2014":1,
+                "2015":1,
+                "2016":1,
+                "2017":1
+            }
+        ],
+        [
+            "We follow the development of nonaxisymmetric instabilities of self-gravitating disks from the linear regime to the nonlinear regime. Particular attention is paid to comparison of nonlinear simulation results with previous linear and quasi-linear modeling results to study the mass and angular momentum transport driven by nonaxisymmetric disk instabilities. Systems with star-to-disk mass ratios of  and 5 and inner-to-outer disk radius ratios of  to 0.66 are investigated. In disks where self-gravity is important, systems with small  and large , Jeans-like J modes are dominant and the gravitational stress drives angular momentum transport. In disks where self-gravity is weak, systems with large  and large , shear-driven P modes dominate and the Reynolds stress drives angular momentum transport. In disks where self-gravity is intermediate in strength between disks \u2026",
+            "Nonaxisymmetric instabilities in self-gravitating disks III. Angular momentum transport",
+            "Kathryn Z Hadley and William Dumas and James N Imamura and Erik Keever and Rebecka Tumblin",
+            "2015",
+            "1a4QxWYAAAAJ:zYLM7Y9cAGgC",
+            1,
+            "https:\/\/link.springer.com\/article\/10.1007\/s10509-015-2443-z",
+            "6889240986327707031",
+            "\/scholar?cites=6889240986327707031",
+            {
+                "2019":1
+            }
+        ],
+        [
+            "We study corrugation instabilities in slow shocks in ideal MHD. Stone & Edelman (1995) suggested that slow, oblique MHD shocks were unconditionally unstable based on a linear analysis, supported by a nonlinear simulation of an oblique three-dimensional (3-D) MHD shock. We explore this suggestion modeling 3-D oblique MHD shocks using Imogen, our recently developed MHD computer code. Using Imogen, we find, in agreement with Stone & Edelman, that the corrugation instability produces dense fingers which extend from the shock front into the postshock region, growing until they reach the end of the computational grid. We currently perform longterm simulations to determine the ultimate fate of the fingers.",
+            "Corrugation instabilities in slow MHD shocks",
+            "James N Imamura and Scott Ernst and Kathryn Hadley and William Dumas and Christopher Hickok and Erik Keever",
+            "2010",
+            "1a4QxWYAAAAJ:Y0pCki6q_DkC",
+            1,
+            "https:\/\/jaxa.repo.nii.ac.jp\/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=5051&item_no=1&page_id=13&block_id=21",
+            "8353547188129340067",
+            "\/scholar?cites=8353547188129340067",
+            {
+                "2019":1
+            }
+        ]
+    ]
+}

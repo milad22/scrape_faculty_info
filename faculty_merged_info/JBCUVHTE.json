@@ -1,0 +1,44 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "JBCUVHTE",
+            "JnedIZ0AAAAJ",
+            [
+                "Using a magnetometer to image a two\u2010dimensional current distribution",
+                "Virtual electrodes in cardiac tissue: a common mechanism for anodal and cathodal stimulation",
+                "Current injection into a two-dimensional anisotropic bidomain",
+                "Effects of flow and diffusion on chemotaxis studies in a microfabricated gradient generator",
+                "SQUID magnetometers for biomagnetism and nondestructive testing: important questions and initial answers",
+                "SQUIDs for nondestructive evaluation",
+                "Magnetic field of a nerve impulse: first measurements"
+            ],
+            [
+                "We describe a mathematical algorithm to obtain an image of a two\u2010dimensional current distribution from measurements of its magnetic field. The spatial resolution of this image is determined by the signal\u2010to\u2010noise ratio of the magnetometer data and the distance between the magnetometer and the plane of the current distribution. In many cases, the quality of the image can be improved more by decreasing the current\u2010to\u2010magnetometer distance than by decreasing the noise in the magnetometer.",
+                "Traditional cable analyses cannot explain complex patterns of excitation in cardiac tissue with unipolar, extracellular anodal, or cathodal stimuli. Epifluorescence imaging of the transmembrane potential during and after stimulation of both refractory and excitable tissue shows distinctive regions of simultaneous depolarization and hyperpolarization during stimulation that act as virtual cathodes and anodes. The results confirm bidomain model predictions that the onset (make) of a stimulus induces propagation from the virtual cathode, whereas stimulus termination (break) induces it from the virtual anode. In make stimulation, the virtual anode can delay activation of the underlying tissue, whereas in break stimulation this occurs under the virtual cathode. Thus make and break stimulations in cardiac tissue have a common mechanism that is the result of differences in the electrical anisotropy of the intracellular and \u2026",
+                "A two-dimensional sheet of anisotropic cardiac tissue is represented with the bidomain model, and the finite element method is used to solve the bidomain equations. When the anisotropy ratios of the intracellular and extracellular spaces are not equal, the injection of current into the tissue induces a transmembrane potential that has a complicated spatial dependence, including adjacent regions of depolarized and hyperpolarized tissue. This behavior may have important implications for the electrical stimulation of cardiac tissue and for defibrillation.",
+                "An understanding of chemotaxis at the level of cell\u2013molecule interactions is important because of its relevance in cancer, immunology, and microbiology, just to name a few. This study quantifies the effects of flow on cell migration during chemotaxis in a microfluidic device. The chemotaxis gradient within the device was modeled and compared to experimental results. Chemotaxis experiments were performed using the chemokine CXCL8 under different flow rates with human HL60 promyelocytic leukemia cells expressing a transfected CXCR2 chemokine receptor. Cell trajectories were separated into x and y axis components. When the microchannel flow rates were increased, cell trajectories along the x axis were found to be significantly affected (p < 0.05). Total migration distances were not affected. These results should be considered when using similar microfluidic devices for chemotaxis studies so that flow bias \u2026",
+                "For two decades, academic and industrial researchers worldwide have used SQUID magnetometers to measure magnetic signals from the heart, brain, lungs, liver, nerves, skeletal muscle, stomach, intestines, eyes, and other organs, and have invested heavily in developing and promoting this technology. While there are as yet few accepted clinical applications of SQUIDs, various trends are encouraging. The introduction of SQUIDs to the nondestructive testing (NDT) of aircraft and other structural systems and materials is following a similar course: most of the effort is directed towards instrumentation development and demonstrations in simple systems, and instruments suitable for specific commercial applications are just now being prototyped. To assess the potential of either technology, it is useful to ask critical questions: why are we doing this, what have we learned so far, how easy is it, what does it cost, how \u2026",
+                "We attempt a comprehensive review of all published research in nondestructive evaluation (NDE) performed with the superconducting quantum interference device (SQUID) magnetometer since the first work was reported in the mid-1980s. The SQUID is the most sensitive detector of magnetic flux known. The energy sensitivity of the SQUID may make it the most sensitive detector of any kind. The research on SQUIDs for NDE is based on the promise of that sensitivity and on the various other desirable properties developed for SQUID instrumentation in biomagnetism and other fields. The sensitivity of SQUID instruments down to very low frequencies allows them to function as eddy-current sensors with unparalleled depth resolution, and to image the static magnetization of paramagnetic materials and the flow of near-dc corrosion currents. The wide dynamic range of the SQUID makes it possible to image defects in \u2026",
+                "The magnetic field of the action potential from an isolated frog sciatic nerve was measured by a SQUID magnetometer with a novel room-temperature pickup coil. The 1.2 x 10(-10) tesla field was measured 1.3 millimeters from the nerve with a signal-to-noise ratio of 40 to 1."
+            ],
+            [
+                [
+                    "Organs-on-a-Chip",
+                    "Cellular Instrumentation and Control",
+                    "Automated Biology",
+                    "Tissue Chips"
+                ]
+            ]
+        ]
+    ]
+}

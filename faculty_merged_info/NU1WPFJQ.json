@@ -1,0 +1,35 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "NU1WPFJQ",
+            "YxliQm4AAAAJ",
+            [
+                "Depth map generation for a reconnaissance robot via sensor fusion",
+                "Control Strategy for Navigation of a reconnaissance robotic System.",
+                "Versatile non linear control strategy for reconnaissance robotic system"
+            ],
+            [
+                "In this paper design and implementation of an accurate positioning system in indoor environments for an Omni directional Robot and a stereo vision based depth estimation system is discussed. The positioning system which is robust for wheel slip and jerky motion was implemented fusing odometry, Inertial Navigation System (INS) and magnetic compass based measurements. The vision system was implemented using two off the shelf web cameras. Here, Semi-Global Block Matching (SGBM) method was further developed considering multiple realizations of the same scenery to increase the accuracy of the depth estimation.",
+                "This paper proposes a computationally efficient, novel and superior nonlinear controller to the existing trajectory and orientation (T&O) control problem of an omnidirectional robot (ODR). Here first, the position and orientation (pose) estimation of the robot were obtained utilizing kinematic relationships of the ODR and multi-sensor fusion techniques. Then, dynamic relationships of the robot were used to form its state-space representation. The nonlinear state-space representation (NLSSR) was linearized by identifying and controlling the nonlinearity causing states. Then that linearized NLSSR was utilized to derive a state feedback controller and a proportional derivative integral (PID) controller to carry out a T&O tracking task. Performances of both derived controllers were evaluated in the simulation level comparing with a standard nonlinear controller.",
+                "In this paper trajectory and orientation control is addressed for an Omni directional robot (ODR). Here ODR is modeled in a state space representation using its dynamics and the kinematics incorporating correction for motor imbalance problem. Then for that nonlinear state space, novel tracking based state feedback linearizing strategy is introduced so that controller for the intended task can be designed. Operation of this proposed strategy is compared with improved version of conventional PID based controller which is designed for the same trajectory and orientation tracking task of an ODR. Then Obtained state space model is used to test the performance of both proposed controllers. Both controllers show acceptable performance."
+            ],
+            [
+                [
+                    "Relativistic Heavy Ion Physics",
+                    "Relativistic Hydrodynamics",
+                    "Large Scale Simmulations"
+                ]
+            ]
+        ]
+    ]
+}

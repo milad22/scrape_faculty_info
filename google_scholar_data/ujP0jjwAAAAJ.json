@@ -1,0 +1,64 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "ujP0jjwAAAAJ",
+            "liu xing",
+            "shenzhen",
+            "",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=ujP0jjwAAAAJ",
+            50279,
+            [
+
+            ],
+            31982,
+            85,
+            71,
+            973,
+            708,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"AmeKINAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Morten Bache",
+                    "affiliation":"Senior Scientific Lead, Novo Nordisk Foundation"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"h4qnYHAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Hairun Guo",
+                    "affiliation":"\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL)"
+                }
+            ]
+        ]
+    ]
+}

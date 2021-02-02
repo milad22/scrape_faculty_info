@@ -1,0 +1,33 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "With the rapid development of data acquisition technology, data acquisition departments can collect increasingly more data. Various data from government agencies are gradually becoming available to the public, including license plate recognition (VLPR) data. As a result, privacy protection is becoming increasingly significant. In this paper, an adversary model based on passing time, color, type, and brand of VLPR data is proposed. Through experimental analysis, the tracking probability of a vehicle\u2019s trajectory can be more than 94% if utilizing the original data. To decrease the tracking probability, a novel approach called the (m, n)-bucket model based on time series is proposed since previous works, such as those using generalization and bucketization models, cannot deal with data with multiple sensitive attributes (SAs) or data with time correlations. Meanwhile, a mathematical model is established to expound the privacy protection principle of the (m, n)-bucket model. By comparing the average calculated linking probability of all individuals and the actual linking probability, it is shown that the mathematical model that is proposed can well expound the privacy protection principle of the (m, n)-bucket model. Extensive experiments confirm that our technique can effectively prevent trajectory privacy disclosures.",
+            "Privacy Protection Method for Vehicle Trajectory Based on VLPR Data",
+            "Hua Chen and Chen Xiong and Jia-meng Xie and Ming Cai",
+            "2020",
+            "GwS-EhIAAAAJ:u-x6o8ySG0sC",
+            1,
+            "https:\/\/www.hindawi.com\/journals\/jat\/2020\/6026140\/",
+            "11523173264275081740",
+            "\/scholar?cites=11523173264275081740",
+            {
+                "2021":1
+            }
+        ]
+    ]
+}

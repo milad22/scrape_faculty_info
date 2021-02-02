@@ -1,0 +1,91 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "rz-uZCUAAAAJ",
+            "Juan Fern\u00e1ndez de Guevara",
+            "Universitat de Valencia, Ivie",
+            "@ivie.es",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=rz-uZCUAAAAJ",
+            3831,
+            [
+                "Econom\u00eda bancaria",
+                "capital social",
+                "an\u00e1lisis de la productividad",
+                "y el papel de las tecnolog\u00edas de informaci\u00f3n y comunicacion"
+            ],
+            1701,
+            23,
+            18,
+            52,
+            31,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"UdXPCmQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Joaqu\u00edn Maudos",
+                    "affiliation":"Universitat de Valencia, Ivie"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"MylJGRkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Francisco P\u00e9rez Garc\u00eda - ORCID: 0000...",
+                    "affiliation":"Universitat de Valencia, Ivie"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"7eTHzPMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Matilde Mas Ivars",
+                    "affiliation":"Universitat de Valencia, Ivie"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"-CMFkPkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Jose Manuel Pastor",
+                    "affiliation":"Universitat de Val\u00e8ncia, Ivie"
+                }
+            ]
+        ]
+    ]
+}

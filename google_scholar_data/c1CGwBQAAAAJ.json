@@ -1,0 +1,140 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "c1CGwBQAAAAJ",
+            "Kapildeb Dolui",
+            "University of Delaware, USA",
+            "@tcd.ie",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=c1CGwBQAAAAJ",
+            1502,
+            [
+                "Ab-initio DFT",
+                "2D materials",
+                "Spin transport",
+                "Topological Materials",
+                "Superconductivity"
+            ],
+            1232,
+            16,
+            16,
+            19,
+            19,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"EUXp2J0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Stefano Sanvito",
+                    "affiliation":"Trinity College Dublin"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"71zOdlsAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ivan Rungger",
+                    "affiliation":"National Physical Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"AFHzUlMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tanmoy Das",
+                    "affiliation":"Indian Institute of Science"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"pMrtQd0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"CD Pemmaraju",
+                    "affiliation":"SLAC National Accelerator Laboraory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"IeDlbkIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Branislav K. Nikolic",
+                    "affiliation":"Full Professor of Physics, University of Delaware, USA"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"kHOQvgQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Awadhesh Narayan",
+                    "affiliation":"Assistant Professor, Indian Institute of Science"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"0QMB9ZUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Faxian Xiu",
+                    "affiliation":"Physics Department, Fudan University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"PLxBgeUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Su Ying Quek",
+                    "affiliation":"Assistant Professor, Department of Physics, National University of Singapore"
+                }
+            ]
+        ]
+    ]
+}

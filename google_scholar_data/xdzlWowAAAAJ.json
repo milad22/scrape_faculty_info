@@ -1,0 +1,91 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "xdzlWowAAAAJ",
+            "Satoru Emori",
+            "Assistant Professor, Virginia Tech",
+            "@vt.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=xdzlWowAAAAJ",
+            3409,
+            [
+                "Spintronics",
+                "Magnetic Thin Films",
+                "Magnetization Dynamics",
+                "VT Physics"
+            ],
+            2689,
+            20,
+            20,
+            28,
+            27,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"v24L2hQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Geoffrey Beach",
+                    "affiliation":"Professor of Materials Science and Engineering, MIT"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"bDogRgoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"EDUARDO MARTINEZ VECINO",
+                    "affiliation":"Universidad de Salamanca"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"kHMQZZ0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Nian Xiang Sun",
+                    "affiliation":"Professor of Electrical and Computer Engineering, Bioengineering, Northeastern University, Boston MA"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"dpDJ7ssAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tianxiang Nan (\u5357\u5929\u7fd4)",
+                    "affiliation":"Institute of Microelectronics, Tsinghua University"
+                }
+            ]
+        ]
+    ]
+}

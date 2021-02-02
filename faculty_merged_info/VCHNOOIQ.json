@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "VCHNOOIQ",
+            "i9houbAAAAAJ",
+            [
+                "Magnetic vortex oscillator driven by dc spin-polarized current",
+                "Spectroscopy of spin-orbit quantum bits in indium antimonide nanowires",
+                "Edge-mode superconductivity in a two-dimensional topological insulator",
+                "Fast spin-orbit qubit in an indium antimonide nanowire",
+                "Electrical control of single hole spins in nanowire quantum dots",
+                "Spin-torque ferromagnetic resonance measurements of damping in nanomagnets",
+                "Spin-orbit interaction in InSb nanowires",
+                "Ultrafast switching of a nanomagnet by a combined out-of-plane and in-plane polarized spin current pulse",
+                "Images of a spin-torque-driven magnetic nano-oscillator",
+                "Long-timescale fluctuations in zero-field magnetic vortex oscillations driven by dc spin-polarized current"
+            ],
+            [
+                "Transfer of angular momentum from a spin-polarized current to a ferromagnet provides an efficient means to control the magnetization dynamics of nanomagnets. A peculiar consequence of this spin torque, the ability to induce persistent oscillations in a nanomagnet by applying a dc current, has previously been reported only for spatially uniform nanomagnets. Here, we demonstrate that a quintessentially non-uniform magnetic structure, a magnetic vortex, isolated within a nanoscale spin-valve structure, can be excited into persistent microwave-frequency oscillations by a spin-polarized dc current. Comparison with micromagnetic simulations leads to identification of the oscillations with a precession of the vortex core. The oscillations, which can be obtained in essentially zero magnetic field, exhibit linewidths that can be narrower than 300 kHz at\u223c 1.1 GHz, making these highly compact spin-torque vortex-oscillator \u2026",
+                "A double quantum dot in the few-electron regime is achieved using local gating in an InSb nanowire. The spectrum of two-electron eigenstates is investigated using electric dipole spin resonance. Singlet-triplet level repulsion caused by spin-orbit interaction is observed. The size and the anisotropy of singlet-triplet repulsion are used to determine the magnitude and the orientation of the spin-orbit effective field in an InSb nanowire double dot. The obtained results are confirmed using spin blockade leakage current anisotropy and transport spectroscopy of individual quantum dots.",
+                "Topological superconductivity is an exotic state of matter that supports Majorana zero-modes, which have been predicted to occur in the surface states of three-dimensional systems, in the edge states of two-dimensional systems, and in one-dimensional wires 1, 2. Localized Majorana zero-modes obey non-Abelian exchange statistics, making them interesting building blocks for topological quantum computing 3, 4. Here, we report superconductivity induced in the edge modes of semiconducting InAs\/GaSb quantum wells, a two-dimensional topological insulator 5, 6, 7, 8, 9, 10. Using superconducting quantum interference we demonstrate gate-tuning between edge-dominated and bulk-dominated regimes of superconducting transport. The edge-dominated regime arises only under conditions of high-bulk resistivity, which we associate with the two-dimensional topological phase. These experiments establish InAs \u2026",
+                "Because of the strong spin-orbit interaction in indium antimonide, orbital motion and spin are no longer separated. This enables fast manipulation of qubit states by means of microwave electric fields. We report Rabi oscillation frequencies exceeding 100 MHz for spin-orbit qubits in InSb nanowires. Individual qubits can be selectively addressed due to intrinsic differences in their g factors. Based on Ramsey fringe measurements, we extract a coherence time T 2*= 8\u00b11 ns at a driving frequency of 18.65 GHz. Applying a Hahn echo sequence extends this coherence time to 34 ns.",
+                "The development of viable quantum computation devices will require the ability to preserve the coherence of quantum bits (qubits) 1. Single electron spins in semiconductor quantum dots are a versatile platform for quantum information processing, but controlling decoherence remains a considerable challenge 1, 2, 3, 4. Hole spins in III\u2013V semiconductors have unique properties, such as a strong spin\u2013orbit interaction and weak coupling to nuclear spins, and therefore, have the potential for enhanced spin control 5, 6, 7, 8 and longer coherence times 8, 9, 10, 11, 12. A weaker hyperfine interaction has previously been reported in self-assembled quantum dots using quantum optics techniques 10, 11, 12, but the development of hole\u2013spin-based electronic devices in conventional III-V heterostructures has been limited by fabrication challenges 13. Here, we show that gate-tunable hole quantum dots can be formed in \u2026",
+                "The authors directly measure the magnetic damping parameter \u03b1 in thin-film CoFeB and Permalloy (Py) nanomagnets at room temperature using a recently developed ferromagnetic resonance technique where the precessional mode of an individual nanomagnet can be excited by microwave-frequency spin-transfer torque and detected by the giant magnetoresistance effect. The authors obtain \u03b1CoFeB=0.014\u00b10.003 and \u03b1Py=0.010\u00b10.002, values comparable to measurements for extended thin films, establishing that patterned nanomagnets can exhibit magnetic damping that is consistent with that of unpatterned bulk material.",
+                "We use magnetoconductance measurements in dual-gated InSb nanowire devices, together with a theoretical analysis of weak antilocalization, to accurately extract spin-orbit strength. In particular, we show that magnetoconductance in our three-dimensional wires is very different compared to wires in two-dimensional electron gases. We obtain a large Rashba spin-orbit strength of 0.5\u20131 eV \u00c5 corresponding to a spin-orbit energy of 0.25\u20131 meV. These values underline the potential of InSb nanowires in the study of Majorana fermions in hybrid semiconductor-superconductor devices.",
+                "We report on spin valve devices that incorporate both an out-of-plane polarizer (OPP) to quickly excite spin torque (ST) switching and an in-plane polarizer\/analyzer (IPP). For pulses <200\u2002ps, we observe reliable precessional switching due largely to ST from the OPP. Compared to a conventional spin valve, for a given current amplitude from \u223c2 to 3 times the zero-thermal-fluctuation critical current (Ic0), the addition of the OPP can decrease the pulse width necessary for switching by a factor of 10 or more. The effect of the IPP also has beneficial ST consequences for the short pulse switching behavior.",
+                "We present the first space-and time-resolved images of the spin-torque-induced steady-state oscillation of a magnetic vortex in a spin-valve nanostructure. We find that the vortex structure in a nanopillar is considerably more complicated than the 2D idealized structure often-assumed, which has important implications for the driving efficiency. The sense of the vortex gyration is uniquely determined by the vortex core polarity, confirming that the spin-torque acts as a source of negative damping even in such a strongly nonuniform magnetic system. The orbit radius is\u223c 10 nm, in agreement with micromagnetic simulations.",
+                "We report time and frequency domain studies of spin-torque-driven vortex self-oscillations at zero magnetic field. We observe two types of abrupt fluctuations in the frequency and amplitude, with very long random mean lifetimes (\u223c 10 2 to\u223c 10 4 oscillation cycles). First, we observe fluctuations between two center frequencies separated by 10s of MHz that we identify with switching between quasiuniform and vortex states of the magnetic polarizing layer. Second, we resolve much smaller, discrete frequency fluctuations that lead to a fine structure of the oscillations. We find that this fine structure plays a key role in determining the long-time average linewidths and we suggest a possible physical origin."
+            ],
+            [
+                [
+                    "Quantum transport"
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Y896JA1A",
+            "Vfuy0W8AAAAJ",
+            [
+                "One-step purification of assembly-competent tubulin from diverse eukaryotic sources",
+                "Probing the Gold Nanorod\u2212 Ligand\u2212 Solvent Interface by Plasmonic Absorption and Thermal Decay",
+                "Effect of ligands on thermal dissipation from gold nanorods",
+                "Mechanism of microtubule lumen entry for the \u03b1-tubulin acetyltransferase enzyme \u03b1TAT1",
+                "Magnetic field heating study of Fe-doped Au nanoparticles",
+                "The Motility of Axonemal Dynein Is Regulated by the Tubulin Code",
+                "Release mechanism of octadecyl rhodamine B chloride from Au nanorods by ultrafast laser pulses",
+                "Cytoplasmic dynein binding, run length, and velocity are guided by long-range electrostatic interactions",
+                "Forces and Disease: Electrostatic force differences caused by mutations in kinesin motor domains can distinguish between disease-causing and non-disease-causing mutations"
+            ],
+            [
+                "We have developed a protocol that allows rapid and efficient purification of native, active tubulin from a variety of species and tissue sources by affinity chromatography. The affinity matrix comprises a bacterially expressed, recombinant protein, the TOG1\/2 domains from Saccharomyces cerevisiae Stu2, covalently coupled to a Sepharose support. The resin has a high capacity to specifically bind tubulin from clarified crude cell extracts, and, after washing, highly purified tubulin can be eluted under mild conditions. The eluted tubulin is fully functional and can be efficiently assembled into microtubules. The method eliminates the need to use heterologous systems for the study of microtubule-associated proteins and motor proteins, which has been a major issue in microtubule-related research.",
+                "Thermal transport between CTAB passivated gold nanorods and solvent is studied by an optical pump\u2212probe technique. Increasing the free CTAB concentration from 1 mM to 10 mM causes a \u223c3\u00d7 increase in the CTAB layer\u2019s effective thermal interface conductance and a corresponding shift in the longitudinal surface plasmon resonance. The transition occurs near the CTAB critical micelle concentration, revealing the importance of the role of free ligand on thermal transport.",
+                "Thermal interface conductance was measured for soluble gold nanorods (NRs) coated with mercaptocarboxylic acids (HS-(CH2)nCOOH, n = 5, 10, 15), thiolated polyethylene glycols (MW = 356, 1000, 5000), and HS-(CH2)15-COOH-coated NRs further coated with alternating layers of poly(diallyldimethylammonium chloride) and poly(sodium styrenesulfonate). Ferguson analysis determined ligand thickness. The thermal-diffusion-dominated regime of transient absorption spectra was fit to a continuum heat diffusion finite element model to obtain the thermal interface conductance, G, which varied with ligand chemistry but not molecule length. The results suggest that the ability to exclude water from the NR surface governs ligand G values.",
+                "Microtubules are structural polymers inside of cells that are subject to posttranslational modifications. These posttranslational modifications create functionally distinct subsets of microtubule networks in the cell, and acetylation is the only modification that takes place in the hollow lumen of the microtubule. Although it is known that the \u03b1-tubulin acetyltransferase (\u03b1TAT1) is the primary enzyme responsible for microtubule acetylation, the mechanism for how \u03b1TAT1 enters the microtubule lumen to access its acetylation sites is not well understood. By performing biochemical assays, fluorescence and electron microscopy experiments, and computational simulations, we found that \u03b1TAT1 enters the microtubule lumen through the microtubule ends, and through bends or breaks in the lattice. Thus, microtubule structure is an important determinant in the acetylation process. In addition, once \u03b1TAT1 enters the microtubule \u2026",
+                "Fe-doped Au nanoparticles are ideal for biological applications over magnetic oxides due to their conjugation chemistry, optical properties, and surface chemistry. We present an AC magnetic field heating study of 8 nm Fe-doped Au nanoparticles which exhibit magnetic behavior. Magnetic heating experiments were performed on stable aqueous solutions of the nanoparticles at room temperature. The nanoparticles exhibit magnetic field heating, with a specific absorption rate (SAR) of 1.84 W\/g at 40 MHz and H=100 A\/m. The frequency dependence of the heating follows general trends predicted by power loss equations and is similar to traditional materials.",
+                "Microtubule diversity, arising from the utilization of different tubulin genes and from posttranslational modifications, regulates many cellular processes including cell division, neuronal differentiation and growth, and centriole assembly. In the case of cilia and flagella, multiple cell biological studies show that microtubule diversity is important for axonemal assembly and motility. However, it is not known whether microtubule diversity directly influences the activity of the axonemal dyneins, the motors that drive the beating of the axoneme, nor whether the effects on motility are indirect, perhaps through regulatory pathways upstream of the motors, such as the central pair, radial spokes, or dynein regulatory complex. To test whether microtubule diversity can directly regulate the activity of axonemal dyneins, we asked whether in vitro acetylation or deacetylation of lysine 40 (K40), a major posttranslational modification of \u03b1 \u2026",
+                "We investigated the release of octadecyl rhodamine B chloride (R18) loaded onto cetyltrimethylammonium bromide (CTAB) coated gold nanorods (NR) by pulsed ultrafast laser excitation. R18 intercalates into the hydrophobic CTAB bilayer on the NR surface and can exchange on and off the NR with free CTAB micelles in solution. We find that laser excitation accelerates the rate of both R18 release from the NR and R18 binding to the NR with increasing fluence. However, at laser fluences >220 \u03bcJ\/cm2 thermal degradation of the R18 dominates. We also find that the concentration of CTAB, particularly around the critical micelle concentration, strongly influences the release and binding rates.",
+                "Dyneins are important molecular motors involved in many essential biological processes, including cargo transport along microtubules, mitosis, and in cilia. Dynein motility involves the coupling of microtubule binding and unbinding to a change in the configuration of the linker domain induced by ATP hydrolysis, which occur some 25 nm apart. This leaves the accuracy of dynein stepping relatively inaccurate and susceptible to thermal noise. Using multi-scale modeling with a computational focusing technique, we demonstrate that the microtubule forms an electrostatic funnel that guides the dynein\u2019s microtubule binding domain (MTBD) as it finally docks to the precise, keyed binding location on the microtubule. Furthermore, we demonstrate that electrostatic component of the MTBD\u2019s binding free energy is linearly correlated with the velocity and run length of dynein, and we use this linearity to predict the effect of \u2026",
+                "The ability to predict if a given mutation is disease-causing or not has enormous potential to impact human health. Typically, these predictions are made by assessing the effects of mutation on macromolecular stability and amino acid conservation. Here we report a novel feature: the electrostatic component of the force acting between a kinesin motor domain and tubulin. We demonstrate that changes in the electrostatic component of the binding force are able to discriminate between disease-causing and non-disease-causing mutations found in human kinesin motor domains using the receiver operating characteristic (ROC). Because diseases may originate from multiple effects not related to kinesin-microtubule binding, the prediction rate of 0.843 area under the ROC plot due to the change in magnitude of the electrostatic force alone is remarkable. These results reflect the dependence of kinesin\u2019s function on \u2026"
+            ],
+            [
+                [
+                    "Molecular and Cellular Biophysics"
+                ]
+            ]
+        ]
+    ]
+}

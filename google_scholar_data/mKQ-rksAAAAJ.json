@@ -1,0 +1,76 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "mKQ-rksAAAAJ",
+            "Manoj Peiris",
+            "University of South Florida",
+            "@mail.usf.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=mKQ-rksAAAAJ",
+            251,
+            [
+                "Quantum Optics"
+            ],
+            204,
+            8,
+            8,
+            7,
+            7,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"r8sBeycAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Andreas Muller (USF Tampa)",
+                    "affiliation":"Associate Professor of Physics, University of South Florida"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"QiwpCv8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Kumarasiri Konthasinghe",
+                    "affiliation":"University of Rochester"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"agcGxhcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Benjamin Petrak",
+                    "affiliation":"Graduate Research Assistant, Department of Physics University of South Florida"
+                }
+            ]
+        ]
+    ]
+}

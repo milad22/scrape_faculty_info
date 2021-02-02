@@ -1,0 +1,96 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2
+    ],
+    "data":[
+        [
+            "The pervasiveness of wireless technology has indeed created massive opportunity to integrate almost everything into the Internet fabric. This can be seen with the advent of Internet of Things and Cyber Physical Systems, which involves cooperation of massive number of intelligent devices to provide intelligent services. Fairness amongst these devices is an important issue that can be analysed from several dimensions, eg, energy usage, achieving required quality of services, spectrum sharing, and so on. This article focusses on these viewpoints while looking at fairness research. To generalize, mainly wireless networks are considered. First, we present a general view of fairness studies, and pose three core questions that help us delineate the nuances in defining fairness. Then, the existing fairness models are summarized and compared. We also look into the major fairness research domains in wireless networks such as fair energy consumption control, power control, topology control, link and flow scheduling, channel assignment, rate allocation, congestion control and routing protocols. We make a distinction amongst fairness, utility and resource allocation to begin with. Later, we present their inter-relation. At the end of this article, we list the common properties of fairness and give an example of fairness management. Several open research challenges that point to further work on fairness in wireless networks are also discussed. Indeed, the research on fairness is entangled with many other aspects such as performance, utility, optimization and throughput at the network and node levels. While consolidating the contributions in the literature, this \u2026",
+            "Fairness in wireless networks: Issues, measures and challenges",
+            "Huaizhou Shi and R Venkatesha Prasad and Ertan Onur and IGMM Niemegeers",
+            "2014",
+            "6ybYW3QAAAAJ:nOiSByfp82kC",
+            269,
+            "http:\/\/citeseerx.ist.psu.edu\/viewdoc\/summary?doi=10.1.1.716.195",
+            "9297886841063161870",
+            "\/scholar?cites=9297886841063161870",
+            {
+                "2013":2,
+                "2014":9,
+                "2015":15,
+                "2016":32,
+                "2017":40,
+                "2018":54,
+                "2019":64,
+                "2020":47,
+                "2021":3
+            }
+        ],
+        [
+            "For successful data delivery, the destination nodes should be listening to the medium to receive data when the sender node starts data communication. To achieve this synchronization, there are different rendezvous schemes, among which the most energy-efficient is utilizing wakeup receivers. Current hardware technologies of wake-up receivers enable us to evaluate them as a promising solution for wireless sensor networks. In this article the benefits achieved with wake-up receivers are investigated along with the challenges observed. In addition, an overview of state-of-the-art hardware and networking protocol proposals is presented. As wake-up receivers offer new opportunities, new potential application areas are also presented and discussed.",
+            "Wake-up receivers for wireless sensor networks: benefits and challenges",
+            "Ilker Demirkol and Cem Ersoy and Ertan Onur",
+            "2009",
+            "6ybYW3QAAAAJ:9yKSN-GCB0IC",
+            211,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/5281260\/",
+            "13776937854542716717",
+            "\/scholar?cites=13776937854542716717",
+            {
+                "2010":2,
+                "2011":13,
+                "2012":15,
+                "2013":18,
+                "2014":22,
+                "2015":23,
+                "2016":33,
+                "2017":25,
+                "2018":20,
+                "2019":18,
+                "2020":18,
+                "2021":1
+            }
+        ],
+        [
+            "Surveillance wireless sensor networks are deployed at perimeter or border locations to detect unauthorized intrusions. For deterministic deployment of sensors, the quality of deployment can be determined sufficiently by analysis in advance of deployment. However, when random deployment is required, determining the deployment quality becomes challenging. To assess the quality of sensor deployment, appropriate measures can be employed that reveal the weaknesses in the coverage of SWSNs with respect to the success ratio and time for detecting intruders. In this article, probabilistic sensor models are adopted, and the quality of deployment issue is surveyed and analyzed in terms of novel measures. Furthermore, since the presence of obstacles in the surveillance terrain has a negative impact on previously proposed deployment strategies and analysis techniques, we argue in favor of utilizing image \u2026",
+            "Surveillance wireless sensor networks: Deployment quality analysis",
+            "Ertan Onur and Cem Ersoy and Hakan Deli\u00e7 and Lale Akarun",
+            "2007",
+            "6ybYW3QAAAAJ:isC4tDSrTZIC",
+            130,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/4395110\/",
+            "7144848844504192909",
+            "\/scholar?cites=7144848844504192909",
+            {
+                "2007":1,
+                "2008":3,
+                "2009":4,
+                "2010":16,
+                "2011":15,
+                "2012":7,
+                "2013":7,
+                "2014":12,
+                "2015":14,
+                "2016":18,
+                "2017":11,
+                "2018":3,
+                "2019":9,
+                "2020":9,
+                "2021":1
+            }
+        ]
+    ]
+}

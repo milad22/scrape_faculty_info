@@ -1,0 +1,114 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "ksJ6JRcAAAAJ",
+            "James Furrow",
+            "Fuller Graduate School of Psychology",
+            "@fuller.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=ksJ6JRcAAAAJ",
+            2035,
+            [
+                "Couple and Family Therapy",
+                "Positive Youth Development",
+                "Religion and Spirituality"
+            ],
+            791,
+            17,
+            14,
+            24,
+            17,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"GOKMIzcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Pamela Ebstyne King",
+                    "affiliation":"Peter Benson Chair of Applied Developmental Science, Thrive Center, Fuller Theological Seminary"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"DKUr-IkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sue Johnson",
+                    "affiliation":"UniSA"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"lN91qPUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Walter R. Schumm",
+                    "affiliation":"Professor of Family Studies, Kansas State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"AxxmbWQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Tyler S. Greenway",
+                    "affiliation":"Fuller Theological Seminary"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"nmDCiS8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ross A. Oakes Mueller",
+                    "affiliation":"Point Loma Nazarene University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"PU9TZ64AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"David C Atkins",
+                    "affiliation":"Lyssn.io, Inc. \/\/ BRiTE Center, University of Washington"
+                }
+            ]
+        ]
+    ]
+}

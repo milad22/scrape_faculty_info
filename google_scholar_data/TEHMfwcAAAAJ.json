@@ -1,0 +1,64 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "TEHMfwcAAAAJ",
+            "Jason Wood",
+            "Brown University",
+            "@brown.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=TEHMfwcAAAAJ",
+            8652,
+            [
+                "Genetics of Aging"
+            ],
+            2476,
+            19,
+            15,
+            19,
+            15,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"0mlEqPMAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dudley Lamming",
+                    "affiliation":"Associate Professor of Medicine, University of Wisconsin-Madison"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"CksIl4kAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Sara Hillenmeyer",
+                    "affiliation":"Applied Scientist, Amazon"
+                }
+            ]
+        ]
+    ]
+}

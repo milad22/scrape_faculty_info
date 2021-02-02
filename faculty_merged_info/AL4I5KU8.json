@@ -1,0 +1,47 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "AL4I5KU8",
+            "JkbiOhgAAAAJ",
+            [
+                "Continuous deformations in random networks",
+                "Protein flexibility predictions using graph theory",
+                "Geometrical percolation threshold of overlapping ellipsoids",
+                "Constraint theory, vector percolation and glass formation",
+                "Phonons in  glasses: From molecular to band-like modes",
+                "Elastic properties of glasses",
+                "Generic rigidity percolation: the pebble game",
+                "Structural information from the Raman spectrum of amorphous silicon",
+                "Electronic properties of an amorphous solid. I. A simple tight-binding theory",
+                "Effective-medium theory of percolation on central-force elastic networks"
+            ],
+            [
+                "We examine some current ideas concerning the differences between covalent random networks with high and low average coordination. These ideas can be made rigorous by considering the number of continuous deformations (i.e. zero frequency modes) allowed within the network. In the transition from one kind of network to another, rigidity percolates through the system. This leads to a picture in which random networks with low average coordination (polymeric glasses) have large floppy or spongy regions with a few rigid inclusions. On the other hand in random networks with high average coordination (amorphous solids) the rigid regions have percolated to form a rigid solid with a few floppy or spongy inclusions.",
+                "Techniques from graph theory are applied to analyze the bond networks in proteins and identify the flexible and rigid regions. The bond network consists of distance constraints defined by the covalent and hydrogen bonds and salt bridges in the protein, identified by geometric and energetic criteria. We use an algorithm that counts the degrees of freedom within this constraint network and that identifies all the rigid and flexible substructures in the protein, including overconstrained regions (with more crosslinking bonds than are needed to rigidify the region) and underconstrained or flexible regions, in which dihedral bond rotations can occur. The number of extra constraints or remaining degrees of bond\u2010rotational freedom within a substructure quantifies its relative rigidity\/flexibility and provides a flexibility index for each bond in the structure. This novel computational procedure, first used in the analysis of glassy \u2026",
+                "A recurrent problem in materials science is the prediction of the percolation threshold of suspensions and composites containing complex-shaped constituents. We consider an idealized material built up from freely overlapping objects randomly placed in a matrix, and numerically compute the geometrical percolation threshold p c where the objects first form a continuous phase. Ellipsoids of revolution, ranging from the extreme oblate limit of platelike particles to the extreme prolate limit of needlelike particles, are used to study the influence of object shape on the value of p c. The reciprocal threshold 1\/p c (p c equals the critical volume fraction occupied by the overlapping ellipsoids) is found to scale linearly with the ratio of the larger ellipsoid dimension to the smaller dimension in both the needle and plate limits. Ratios of the estimates of p c are taken with other important functionals of object shape (surface area \u2026",
+                "We connect the Phillips constraint theory of glass formation to numerical simulations of vector percolation with nearest neighbor central forces. Feng and Sen have shown that the addition of bond-bending forces shifts the vector percolation threshold to the scalar value in two dimensions. Using constraint theory we show that in the mean-field approximation for d > 2 the correct non-central vector threshold lies between the scalar and central vector thresholds. For a fully equilibrated statically disordered network mean-field theory may be almost exact.",
+                "We study the vibrational density of states of glassy A X 2 systems such as Si O 2 and Ge S 2 which consist of tetrahedra linked together to form a random network. We show that the higher-frequency modes can be well represented by a model with a single-nearest-neighbor central force. This model leads to an isomorphism of the vibrational modes to the electronic properties of the tetrahedral network studied by Weaire and Thorpe. This allows us to study the metamorphosis of the vibrational modes from molecular-like to band-like as a function of the AXA bond angle and the masses. The spectral limits delineating the allowed frequency regions and the character of the modes are found. These are independent of the detailed nature of the random network. The effect of a noncentral force is considered for the two extreme limits of AXA bond angles (ie, 90 and 180). We conclude that it is justified to consider an \u2026",
+                "It is believed that covalent glasses can be divided into two classes: those with high average coordination (amorphous solids) and those with low average coordination (polymeric glasses). We present the first conclusive evidence that this division is correct by calculating the elastic properties of random networks with different average coordination< r>. The results show that the elastic constants depend predominantly on< r> and go to zero when< r>= 2.4 with an exponent f= 1.5\u00b10.2.",
+                "The percolation of rigidity in 2D central-force networks with no special symmetries (generic networks) has been studied using a new combinatorial algorithm. We count the exact number of floppy modes, uniquely decompose the network into rigid clusters, and determine all overconstrained regions. With this information we have found that, for the generic triangular lattice with random bond dilution, the transition from rigid to floppy occurs at p cen= 0.6602\u00b10.0003 and the critical exponents include \u03bd= 1.21\u00b10.06 and \u03b2= 0.18\u00b10.02.",
+                "The Raman scattering from various model structures for amorphous silicon is computed. It is shown that the width of the \u2018\u2018optic peak\u2019\u2019increases roughly linearly with the rms bond-angle distortion \u0394 \u03b8 b of the network. The experimentally observed linewidths lead to 7.7\u2264 \u0394 \u03b8 b\u2264 10.5. The smaller linewidths (and hence angles) correspond to networks that have been annealed at higher temperatures. These results are consistent with model-building experience which shows that it is impossible to construct fully bonded amorphous networks with \u0394 \u03b8 b\u2264 6.6.",
+                "Using a simple Hamiltonian of the tight-binding type, rigorous bounds are derived for the density of states of a tetrahedrally bonded solid. These include inner bounds which define a band gap between occupied and unoccupied states. The derivation uses only the assumed perfect coordination of nearest neighbors, and so it holds for all tetrahedrally bonded crystal structures and random networks of the kind proposed for amorphous Si and Ge. Various other results are obtained for the fractional s-and p-like character of wave functions, the attainment of bounds, and other features of the density of states. A band-structure calculation for the diamond cubic structure serves as a test case.",
+                "We show that effective-medium theory gives an excellent description of regular lattices when nearest-neighbor central-force springs are present with probability p. Effective-medium theory shows that all the elastic constants go to zero at p cen= dp c where d is the dimension and p c is the effective-medium estimate of the ordinary percolation threshold."
+            ],
+            [
+                [
+                    "Materials Physics & Biophysics Theory"
+                ]
+            ]
+        ]
+    ]
+}

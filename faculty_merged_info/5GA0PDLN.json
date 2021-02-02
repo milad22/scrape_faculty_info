@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "5GA0PDLN",
+            "Sha9_3YAAAAJ",
+            [
+                "Gene ontology: tool for the unification of biology",
+                "The genome sequence of Drosophila melanogaster",
+                "The Gene Ontology (GO) database and informatics resource",
+                "Annotation of functional variation in personal genomes using RegulomeDB",
+                "Comparative genomics of the eukaryotes",
+                "GO:: TermFinder\u2014open source software for accessing Gene Ontology information and finding significantly enriched Gene Ontology terms associated with a list of genes",
+                "Saccharomyces Genome Database: the genomics resource of budding yeast",
+                "The gene ontology resource: 20 years and still GOing strong",
+                "Creating the gene ontology resource: design and implementation",
+                "SGD: Saccharomyces genome database"
+            ],
+            [
+                "1FlyBase (http:\/\/www. flybase. bio. indiana. edu). 2Berkeley Drosophila Genome Project (http:\/\/fruitfly. bdgp. berkeley. edu). 3Saccharomyces Genome Database (http:\/\/genome-www. stanford. edu). 4Mouse Genome Database and Gene Expression Database (http:\/\/www. informatics. jax. org). Correspondence should be addressed to JMC (e-mail: cherry@ stanford. edu) and DB (e-mail: botstein@ genome. stanford. edu), Department of Genetics, Stanford University School of Medicine, Stanford, California, USA.The accelerating availability of molecular sequences, particularly the sequences of entire genomes, has transformed both the theory and practice of experimental biology. Where once biochemists characterized proteins by their diverse activities and abundances, and geneticists characterized genes by the phenotypes of their mutations, all biologists now acknowledge that there is likely to be a single limited \u2026",
+                "The fly Drosophila melanogaster is one of the most intensively studied organisms in biology and serves as a model system for the investigation of many developmental and cellular processes common to higher eukaryotes, including humans. We have determined the nucleotide sequence of nearly all of the \u223c120-megabase euchromatic portion of theDrosophila genome using a whole-genome shotgun sequencing strategy supported by extensive clone-based sequence and a high-quality bacterial artificial chromosome physical map. Efforts are under way to close the remaining gaps; however, the sequence is of sufficient accuracy and contiguity to be declared substantially complete and to support an initial analysis of genome structure and preliminary gene annotation and interpretation. The genome encodes \u223c13,600 genes, somewhat fewer than the smaller Caenorhabditis elegansgenome, but with comparable \u2026",
+                " The Gene Ontology (GO) project ( http:\/\/www. geneontology.org\/ ) provides structured, controlled vocabularies and classifications that cover several domains of molecular and cellular biology and are freely available for community use in the annotation of genes, gene products and sequences. Many model organism databases and genome annotation groups use the GO and contribute their annotation sets to the GO resource. The GO database integrates the vocabularies and contributed annotations and provides full access to this information in several formats. Members of the GO Consortium continually work collectively, involving outside experts as needed, to expand and update the GO vocabularies. The GO Web resource also provides access to extensive documentation about the GO project and links to applications that use GO data for functional analyses. ",
+                "As the sequencing of healthy and disease genomes becomes more commonplace, detailed annotation provides interpretation for individual variation responsible for normal and disease phenotypes. Current approaches focus on direct changes in protein coding genes, particularly nonsynonymous mutations that directly affect the gene product. However, most individual variation occurs outside of genes and, indeed, most markers generated from genome-wide association studies (GWAS) identify variants outside of coding segments. Identification of potential regulatory changes that perturb these sites will lead to a better localization of truly functional variants and interpretation of their effects. We have developed a novel approach and database, RegulomeDB, which guides interpretation of regulatory variants in the human genome. RegulomeDB includes high-throughput, experimental data sets from ENCODE and \u2026",
+                "A comparative analysis of the genomes ofDrosophila melanogaster, Caenorhabditis elegans, and Saccharomyces cerevisiae\u2014and the proteins they are predicted to encode\u2014was undertaken in the context of cellular, developmental, and evolutionary processes. The nonredundant protein sets of flies and worms are similar in size and are only twice that of yeast, but different gene families are expanded in each genome, and the multidomain proteins and signaling pathways of the fly and worm are far more complex than those of yeast. The fly has orthologs to 177 of the 289 human disease genes examined and provides the foundation for rapid analysis of some of the basic processes involved in human disease.",
+                " Summary: GO::TermFinder comprises a set of object-oriented Perl modules for accessing Gene Ontology (GO) information and evaluating and visualizing the collective annotation of a list of genes to GO terms. It can be used to draw conclusions from microarray and other biological data, calculating the statistical significance of each annotation. GO::TermFinder can be used on any system on which Perl can be run, either as a command line application, in single or batch mode, or as a web-based CGI script. Availability: The full source code and documentation for GO::TermFinder are freely available from http:\/\/search.cpan.org\/dist\/GO-TermFinder\/",
+                "The Saccharomyces Genome Database (SGD, http:\/\/www.yeastgenome.org) is the community resource for the budding yeast Saccharomyces cerevisiae. The SGD project provides the highest-quality manually curated information from peer-reviewed literature. The experimental results reported in the literature are extracted and integrated within a well-developed database. These data are combined with quality high-throughput results and provided through Locus Summary pages, a powerful query engine and rich genome browser. The acquisition, integration and retrieval of these data allow SGD to facilitate experimental design and analysis by providing an encyclopedia of the yeast genome, its chromosomal features, their functions and interactions. Public access to these data is provided to researchers and educators via web pages designed for optimal ease of use.",
+                "The Gene Ontology resource (GO; http:\/\/geneontology.org) provides structured, computable knowledge regarding the functions of genes and gene products. Founded in 1998, GO has become widely adopted in the life sciences, and its contents are under continual improvement, both in quantity and in quality. Here, we report the major developments of the GO resource during the past two years. Each monthly release of the GO resource is now packaged and given a unique identifier (DOI), enabling GO-based analyses on a specific release to be reproduced in the future. The molecular function ontology has been refactored to better represent the overall activities of gene products, with a focus on transcription regulator activities. Quality assurance efforts have been ramped up to address potentially out-of-date or inaccurate annotations. New evidence codes for high-throughput experiments now enable users to \u2026",
+                "The exponential growth in the volume of accessible biological information has generated a confusion of voices surrounding the annotation of molecular information about genes and their products. The Gene Ontology (GO) project seeks to provide a set of structured vocabularies for specific biological domains that can be used to describe gene products in any organism. This work includes building three extensive ontologies to describe molecular function, biological process, and cellular component, and providing a community database resource that supports the use of these ontologies. The GO Consortium was initiated by scientists associated with three model organism databases: SGD, the Saccharomyces Genome database; FlyBase, the Drosophila genome database; and MGD\/GXD, the Mouse Genome Informatics databases. Additional model organism database groups are joining the project. Each of these \u2026",
+                "             The              Saccharomyces              Genome Database (SGD) provides Internet access to the complete              Saccharomyces cerevisiae              genomic sequence, its genes and their products, the phenotypes of its mutants, and the literature supporting these data. The amount of information and the number of features provided by SGD have increased greatly following the release of the              S.cerevisiae              genomic sequence, which is currently the only complete sequence of a eukaryotic genome. SGD aids researchers by providing not only basic information, but also tools such as sequence similarity searching that lead to detailed information about features of the genome and relationships between genes. SGD presents information using a variety of user-friendly, dynamically created graphical displays illustrating physical, genetic and sequence feature maps. SGD can be accessed via the \u2026"
+            ],
+            [
+                [
+                    "Genomics",
+                    "Genetics",
+                    "Saccharomyces Genome Database",
+                    "Gene Ontology",
+                    "ENCODE"
+                ]
+            ]
+        ]
+    ]
+}

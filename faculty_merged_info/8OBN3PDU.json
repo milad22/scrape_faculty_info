@@ -1,0 +1,51 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "8OBN3PDU",
+            "LjoSNYkAAAAJ",
+            [
+                "On-the-fly machine-learning for high-throughput experiments: search for rare-earth-free permanent magnets",
+                "An adaptive genetic algorithm for crystal structure prediction",
+                "New Layered Structures of Cuprous Chalcogenides as Thin Film Solar Cell Materials:  and ",
+                "Ab initio study of dihydrogen binding in metal-decorated polyacetylene for hydrogen storage",
+                "Exploring the structural complexity of intermetallic compounds by an adaptive genetic algorithm",
+                "First-principles study, fabrication and characterization of (Zr0. 25Nb0. 25Ti0. 25V0. 25) C high-entropy ceramics",
+                "Development of interatomic potentials appropriate for simulation of devitrification of Al90Sm10 alloy",
+                "Hydrogen storage in Ca-decorated, B-substituted metal organic framework",
+                "Titanium-functional group complexes for high-capacity hydrogen storage materials",
+                "Iron-decorated, functionalized metal organic framework for high-capacity hydrogen storage: First-principles calculations"
+            ],
+            [
+                "Advanced materials characterization techniques with ever-growing data acquisition speed and storage capabilities represent a challenge in modern materials science and new procedures to quickly assess and analyze the data are needed. Machine learning approaches are effective in reducing the complexity of data and rapidly homing in on the underlying trend in multi-dimensional data. Here, we show that by employing an algorithm called the mean shift theory to a large amount of diffraction data in high-throughput experimentation, one can streamline the process of delineating the structural evolution across compositional variations mapped on combinatorial libraries with minimal computational cost. Data collected at a synchrotron beamline are analyzed on the fly and by integrating experimental data with the inorganic crystal structure database (ICSD), we can substantially enhance the accuracy in classifying \u2026",
+                "We present a genetic algorithm (GA) for structural search that combines the speed of structure exploration by classical potentials with the accuracy of density functional theory (DFT) calculations in an adaptive and iterative way. This strategy increases the efficiency of the DFT-based GA by several orders of magnitude. This gain allows a considerable increase in the size and complexity of systems that can be studied by first principles. The performance of the method is illustrated by successful structure identifications of complex binary and ternary intermetallic compounds with 36 and 54 atoms per cell, respectively. The discovery of a multi-TPa Mg-silicate phase with unit cell containing up to 56 atoms is also reported. Such a phase is likely to be an essential component of terrestrial exoplanetary mantles.",
+                "The stable crystal structures of two cuprous chalcogenides of Cu 2 X (X= Te or Se) are predicted using an adaptive genetic algorithm in combination with first-principles density functional theory calculations. Both systems are found to prefer a unique and previously unrecognized layered structure, with the total energies much lower than all structures proposed in the literature so far. The newly discovered structures are further shown to be dynamically and mechanically stable, and possess electronic properties consistent with existing experimental observations. In particular, their layered nature is expected to prevail over other structural forms at the interfaces of thin-film solar cells, and knowledge about the precise atomic structures of the interfaces is a prerequisite for achieving long-term stability and high efficiency of CdTe and Cu (In, Ga) Se 2 solar cells.",
+                "Using first-principles calculations based on the density-functional theory, we perform a detailed study of the dihydrogen (H 2) binding in cis-and trans-polyacetylene decorated with transition metal atoms. First, we investigate the origin of metal-dihydrogen bonding and observe the hybridization of e g (t 2 g) orbitals of the Ti atom with the \u03c3 (\u03c3*) orbitals of the H 2 molecules in octahedral geometries, which is consistent with the Kubas model. Second, using a statistical model parametrized by the results of ab initio calculations and experimental data, the adsorption and desorption of molecular hydrogens are calculated at ambient temperature and pressure. We find that the usable capacity at ambient conditions is dramatically reduced from the maximum capacity, the zero-point energy affects the storage capacity significantly, and the optimal binding energy of H 2 molecules under practical conditions is\u223c 0.3 eV\u2215 H 2 \u2026",
+                "Solving the crystal structures of novel phases with nanoscale dimensions resulting from rapid quenching is difficult due to disorder and competing polymorphic phases. Advances in computer speed and algorithm sophistication have now made it feasible to predict the crystal structure of an unknown phase without any assumptions on the Bravais lattice type, atom basis, or unit cell dimensions, providing a novel approach to aid experiments in exploring complex materials with nanoscale grains. This approach is demonstrated by solving a long-standing puzzle in the complex crystal structures of the orthorhombic, rhombohedral, and hexagonal polymorphs close to the Zr 2 Co 11 intermetallic compound. From our calculations, we identified the hard magnetic phase and the origin of high coercivity in this compound, thus guiding further development of these materials for use as high performance permanent magnets \u2026",
+                "The formation possibility of a new (Zr0.25Nb0.25Ti0.25V0.25)C high-entropy ceramics (ZHC-1) was first analyzed by the first-principles calculations and thermodynamical analysis and then it was successfully fabricated by hot pressing sintering technique. The first-principles calculation results showed that the mixing enthalpy of ZHC-1 was 5.526\u202fkJ\/mol and the mixing entropy of ZHC-1 was in the range of 0.693R\u20131.040R. The thermodynamical analysis results showed that ZHC-1 was thermodynamically stable above 959\u202fK owing to its negative mixing Gibbs free energy. The experimental results showed that the as-prepared ZHC-1 (95.1% relative density) possessed a single rock-salt crystal structure, some interesting nanoplate-like structures, and high compositional uniformity from nanoscale to microscale. By taking advantage of these unique features, compared with the initial metal carbides (ZrC, NbC, TiC and \u2026",
+                "A semi-empirical potential for the Al 90 Sm 10 alloy is presented. The potential provides satisfactory reproduction of pure Al properties, the formation energies of a set of Al\u2013Sm crystal phases with Sm content about 10%, and the structure of the liquid Al 90 Sm 10 alloy. During molecular dynamics simulation in which the liquid alloy is cooled at a rate of 10 10 K s\u2212 1, the developed potential produces a glass structure with lower ab initio energy than that produced by ab initio molecular dynamics (AIMD) itself using a typical AIMD cooling rate of 8 centerdot 10 13 K s\u2212 1. Based on these facts the developed potential should be suitable for simulations of phase transformations in the Al 90 Sm 10 alloy.",
+                "The feasibility to store hydrogen in calcium-decorated metal organic frameworks (MOFs) is explored by using first-principles electronic structure calculations. We show that substitution of boron atoms into the benzene ring of the MOF linker substantially enhances the Ca binding energy to the linker as well as the H2 binding energy to Ca. The Kubas interaction between H2 molecules and Ca added in the MOF gives rise to a large number of bound H2's (8H2's per linker) with the binding energy of 20 kJ\/mol, which makes the system suitable for reversible hydrogen storage under ambient conditions.",
+                "Using first-principles density-functional electronic structure calculations, we propose functionalized organic molecules decorated with titanium atoms as high-capacity hydrogen storage materials. We study six kinds of functional groups which form complexes with Ti atoms and find that each complex is capable of binding up to six H2 molecules. Among such complexes, Ti-decorated ethane-1,2-diol can store H2\u2019s with the maximum gravimetric density of 13 wt% and, under ambient conditions, a practically usable capacity of 5.5 wt%. We also present various forms of storage materials which are obtained by modifying well-known nanomaterials using Ti-functional group complexes.",
+                "We perform ab initio density functional theory calculations to investigate the hydrogen storage capacity in the Fe-decorated, OH-functionalized isoreticular metal organic framework 16. The hydroxyl group (OH) is used as an anchor to hold an Fe atom firmly on the metal organic framework, and the hydrogen molecules are bound to the Fe atom through hybridization with Fe d orbitals. We show that each Fe atom in this modified MOF can bind up to four H2 molecules with an adequate binding energy for room-temperature storage (\u223c29 kJ\/mol). The transition from the high-spin to the low-spin configuration is found to be crucial in enhancing the number of bound H2 as well as the binding energy. Equilibrium thermodynamics calculations accompanied with grand canonical Monte Carlo simulations give a very promising result, namely, a reversibly usable gravimetric storage density of 6.0 wt % at 298 K and 100 atm."
+            ],
+            [
+                [
+                    "Machine Learning",
+                    "Data Science",
+                    "AI",
+                    "Computational Physics",
+                    "Materials Science"
+                ]
+            ]
+        ]
+    ]
+}

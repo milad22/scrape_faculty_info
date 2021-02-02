@@ -1,0 +1,90 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "PbY_qFMAAAAJ",
+            "Dennis Marvin Santiago, PhD",
+            "Professor of Food Science, Institute of Food Science and Technology, College of Agriculture and Food",
+            "@up.edu.ph",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=PbY_qFMAAAAJ",
+            97,
+            [
+                "Food Biochemistry",
+                "Food Processing",
+                "Food Analysis"
+            ],
+            90,
+            5,
+            5,
+            5,
+            4,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"UHPofOkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Daiki Murayama",
+                    "affiliation":"University of Wisconsin - Madison"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"PA_vin8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Floirendo Flores",
+                    "affiliation":"University of the Philippines Los Ba\u00f1os, University of Georgia"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"HMTPjl0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Lotis Mopera",
+                    "affiliation":"Associate Professor, Institute of Food Science and Technology, UPLB; Hokkaido University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"bRZb7O0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Lilia Collado",
+                    "affiliation":"University Researcher Food Science Cluster, College of Agriculture, University of the Philippines"
+                }
+            ]
+        ]
+    ]
+}

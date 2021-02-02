@@ -1,0 +1,152 @@
+{
+    "columns":[
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
+    ],
+    "index":[
+        0,
+        1,
+        2,
+        3,
+        4
+    ],
+    "data":[
+        [
+            "A one-dimensional two-phase model is used to derive an analytical light-off criterion for a straight channeled catalytic monolith with washcoat, in which the flow is laminar. For the case of uniform catalyst loading and a first order reaction, the light-off criterion is given by 1 f (\u03b4 c k v (T f, in) D e) E R \u03a9 \u03b4 c (\u0394 T ad) k v (T f, in) T f, in 2 R g g (Pe h) L R \u03a9 2 u \u0304+ 4e\u03c1 f c pf k f Nu H,\u221e> 1. Here, T f, in is the inlet fluid temperature, \u0394T ad is the adiabatic temperature rise, R \u03a9 is one-half the channel hydraulic radius (R \u03a9= A \u03a9\/P \u03a9, A \u03a9, P \u03a9= channel cross-section area, perimeter), L is the channel length, \u016b is the fluid velocity, D e is the reactant effective diffusivity in the washcoat, \u03b4 c is the effective washcoat thickness, k f is the fluid thermal conductivity and k v (T f, in) is the first order rate constant per unit washcoat volume at the inlet fluid temperature. Nu H,\u221e is the asymptotic Nusselt number in the channel. The function f accounts \u2026",
+            "Light-off criterion and transient analysis of catalytic monoliths",
+            "Karthik Ramanathan and Vemuri Balakotaiah and David H West",
+            "2003",
+            "zvzGLEkAAAAJ:u5HHmVD_uO8C",
+            153,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0009250902006796",
+            "9781880604964370158",
+            "\/scholar?cites=9781880604964370158",
+            {
+                "2003":1,
+                "2004":10,
+                "2005":7,
+                "2006":9,
+                "2007":14,
+                "2008":5,
+                "2009":17,
+                "2010":11,
+                "2011":6,
+                "2012":5,
+                "2013":11,
+                "2014":7,
+                "2015":11,
+                "2016":7,
+                "2017":10,
+                "2018":8,
+                "2019":7,
+                "2020":5
+            }
+        ],
+        [
+            "One of the critical needs of a Three Way Catalyst (TWC) model is to be able to predict light-off. This is crucial for application studies and vehicle architectural studies because most of the emissions from a TWC occur before light-off (called cold-start emissions). Laboratory experiments give detailed insights to the reaction mechanism and analytical forms of the rate expressions as they are well-controlled and well-behaved as compared to vehicle tests. However, to predict emissions on a vehicle test, the laboratory-estimated kinetic parameters are not entirely capable because of the various uncertainties in the vehicle tests. In this work, six different vehicle data sets are used to calibrate and validate the TWC global kinetic model. Our emphasis in this work is restricted to predicting the light-off (cold-start emissions) in TWC. The kinetic model is calibrated using 4 vehicle data sets (which use the FTP drive cycle) using \u2026",
+            "Kinetic parameters estimation for three way catalyst modeling",
+            "Karthik Ramanathan and Chander Shekhar Sharma",
+            "2011",
+            "zvzGLEkAAAAJ:IjCSPb-OGe4C",
+            73,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/ie200726j",
+            "1474536647657675707",
+            "\/scholar?cites=1474536647657675707",
+            {
+                "2011":1,
+                "2012":3,
+                "2013":7,
+                "2014":6,
+                "2015":7,
+                "2016":8,
+                "2017":10,
+                "2018":11,
+                "2019":12,
+                "2020":6,
+                "2021":2
+            }
+        ],
+        [
+            "A transient one-dimensional two-phase model is used to obtain an explicit light-off criterion and to estimate the transient time and cumulative cold-start emissions from a catalytic monolith for the case of nonuniform catalyst loading. The light-off criterion can predict the nature of ignition (front-end, middle or back-end). For a fixed amount of metal loading, redistribution of the catalyst appropriately (with more catalyst near the inlet) favors front-end ignition in the monolith and reduces the cumulative cold-start emissions substantially. It is also found that there exists an optimal washcoat thickness and\/or metal loading, above which the performance of the converter does not improve significantly while below this optimum, the transient time and cumulative emissions can be reduced by increasing the washcoat thickness or metal loading. For the case of front-end ignition, it is also found that the total transient time is the sum of \u2026",
+            "Optimal design of catalytic converters for minimizing cold-start emissions",
+            "Karthik Ramanathan and David H West and Vemuri Balakotaiah",
+            "2004",
+            "zvzGLEkAAAAJ:u-x6o8ySG0sC",
+            59,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0920586104005139",
+            "15514588849213928943",
+            "\/scholar?cites=15514588849213928943",
+            {
+                "2005":5,
+                "2006":2,
+                "2007":1,
+                "2008":2,
+                "2009":9,
+                "2010":4,
+                "2011":6,
+                "2012":9,
+                "2013":2,
+                "2014":1,
+                "2015":1,
+                "2016":5,
+                "2017":5,
+                "2018":4,
+                "2019":1,
+                "2020":2
+            }
+        ],
+        [
+            "A numerical study of the interaction between flow, reactions and thermal effects in a planar two dimensional model of a catalytic convertor is presented. A typical catalytic convertor consists of an inlet manifold, a catalytic monolith and an outlet manifold. The catalytic monolith is modeled as a multi-channel structure. Two different planar 2D geometries are compared: a full-scale geometry with 85 channels and a reduced-scale model with 21 channels. The diverging diffuser section of the inlet manifold, which lies immediately upstream the catalytic monolith, induces flow non-uniformity along the transverse direction. The flow immediately upstream of the multi-channel monolith is highly non-uniform. However, the frictional pressure drop in the individual channels tends to reduce this non-uniformity within individual channels. A \u201cflow distribution index\u201d \u2013 ratio of actual flow-rate in a channel to the ideal expected flow-rate if \u2026",
+            "Modeling the effect of flow mal-distribution on the performance of a catalytic converter",
+            "Gaurav Agrawal and Niket S Kaisare and S Pushpavanam and Karthik Ramanathan",
+            "2012",
+            "zvzGLEkAAAAJ:W7OEmFMy1HYC",
+            44,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0009250911009067",
+            "12064512326148431552",
+            "\/scholar?cites=12064512326148431552",
+            {
+                "2012":1,
+                "2013":1,
+                "2014":8,
+                "2015":3,
+                "2016":8,
+                "2017":5,
+                "2018":6,
+                "2019":5,
+                "2020":7
+            }
+        ],
+        [
+            "A heterogeneous one-dimensional model is used to simulate a three way catalytic converter (TWC). The mathematical model consists of mass and energy balance equations in the gas and solid phases and accounts for 15 heterogeneous chemical reactions. Langmuir\u2212Hinshelwood type kinetics is used to represent most of the reaction rates. In this work, the kinetic parameters of the various reactions occurring in a TWC are estimated using vehicle data based on a genetic-algorithm-based optimization. The method uses the test data to estimate the reaction kinetic parameters by minimizing the deviation between the model predictions and experimental observations. It is found that the objective function based on the cumulative mass of a species that leaves the reactor until a certain time instant is a preferred performance measure for the optimization. The sensitivity of the exit concentration of various species to \u2026",
+            "Sensitivity analysis and kinetic parameter estimation in a three way catalytic converter",
+            "S Koteswara Rao and Rayees Imam and Karthik Ramanathan and S Pushpavanam",
+            "2009",
+            "zvzGLEkAAAAJ:qjMakFHDy7sC",
+            37,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/ie801244w",
+            "11821305256845119786",
+            "\/scholar?cites=11821305256845119786",
+            {
+                "2009":1,
+                "2010":5,
+                "2011":5,
+                "2012":6,
+                "2013":3,
+                "2014":5,
+                "2015":3,
+                "2016":2,
+                "2017":5,
+                "2018":2
+            }
+        ]
+    ]
+}

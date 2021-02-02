@@ -1,0 +1,115 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "QNtFDxMAAAAJ",
+            "Nick Dunstone",
+            "Met Office Hadley Centre, UK",
+            "@metoffice.gov.uk",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=QNtFDxMAAAAJ",
+            4624,
+            [
+                "climate",
+                "climate prediction",
+                "oceanography",
+                "astrophysics"
+            ],
+            3337,
+            30,
+            28,
+            62,
+            58,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"26KhJdEAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Paul Halloran",
+                    "affiliation":"University of Exeter, UK"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ppCcLJwAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Andrew Collier Cameron",
+                    "affiliation":"Professor of Astronomy, SUPA, School of Physics and Astronomy, University of St Andrews"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"DJB5qbgAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Timothy Andrews",
+                    "affiliation":"Met Office Hadley Centre"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"g1-GU9MAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Leslie Hebb",
+                    "affiliation":"Assistant Faculty at Hobart and William Smith Colleges"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"ZOpoTuQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Pascal Petit",
+                    "affiliation":"Astronomer, Toulouse University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"r67rAWoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Alexis M. S. Smith",
+                    "affiliation":"DLR, Berlin"
+                }
+            ]
+        ]
+    ]
+}

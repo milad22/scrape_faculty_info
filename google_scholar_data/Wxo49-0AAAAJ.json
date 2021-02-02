@@ -1,0 +1,127 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Wxo49-0AAAAJ",
+            "Alexander Kusenko",
+            "UCLA and Kavli IPMU",
+            "@ucla.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=Wxo49-0AAAAJ",
+            19867,
+            [
+                "elementary particle physics",
+                "astrophysics",
+                "high-energy astrophysics",
+                "cosmology"
+            ],
+            6244,
+            65,
+            45,
+            161,
+            119,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"OnSqmqkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Mikhail Shaposhnikov",
+                    "affiliation":"Ecole Polytechnique Federale de Lausanne"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3w1118QAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Warren Essey",
+                    "affiliation":"University of California Los Angeles"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"aa0uea8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Anupam Mazumdar",
+                    "affiliation":"Van Swinderen Institute, RUG"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"Ajnha1AAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ian M. Shoemaker",
+                    "affiliation":"University of South Dakota"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"iU6WRe8AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"John F. Beacom",
+                    "affiliation":"Professor of Physics, Professor of Astronomy, and Director of CCAPP, Ohio State University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"3B9dbVAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Juan Garcia-Bellido",
+                    "affiliation":"Professor of Physics. Instituto de Fisica Teorica UAM"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"AYfbFs4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Igor Tkachev",
+                    "affiliation":"Institute for Nuclear Research, RAS"
+                }
+            ]
+        ]
+    ]
+}

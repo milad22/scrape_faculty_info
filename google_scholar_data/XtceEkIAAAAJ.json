@@ -1,0 +1,113 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "XtceEkIAAAAJ",
+            "Chih-Kai Chang",
+            "National University of Tainan",
+            "@mail.nutn.edu.tw",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=XtceEkIAAAAJ",
+            1872,
+            [
+                "Computer science education",
+                "computer assisted language learning"
+            ],
+            1035,
+            20,
+            15,
+            29,
+            18,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"0Bby2x0AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gwo-dong Chen",
+                    "affiliation":"Professor of Computer Science and Information Engineering, National Central University TAIWAN"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6XKonmkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Ting-Chia Hsu (Ching-Kun Hsu)",
+                    "affiliation":"Distinguished Professor of the Dept. of Technology Application and Human Resource Development"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"H0wG-t4AAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gwo-Jen Hwang",
+                    "affiliation":"Professsor of Graduate Institute of Digital Learning and Education, National Taiwan University of Science and Technology"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"6yMc3TQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"\u694a\u96c5\u6590\u3000Cillia Ya-Fei Yang",
+                    "affiliation":"\u4e2d\u83ef\u91ab\u4e8b\u79d1\u6280\u5927\u5b78\u8cc7\u8a0a\u7ba1\u7406\u7cfb"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9Cj_gDkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Liang-Yi Li",
+                    "affiliation":"National Taiwan Normal University"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"-m5wrTkAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Gautam Biswas",
+                    "affiliation":"Cornelius Vanderbilt Professor of Engineering; Professor of  Computer Science and Engineering"
+                }
+            ]
+        ]
+    ]
+}

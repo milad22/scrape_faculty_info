@@ -1,0 +1,49 @@
+{
+    "columns":[
+        "id",
+        "google_scholar_id",
+        "titles",
+        "abstracts",
+        "interests"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "NVDPDRVR",
+            "TQUJOq8AAAAJ",
+            [
+                "Extending the methodology of X-ray crystallography to allow imaging of micrometre-sized non-crystalline specimens",
+                "Phase retrieval with application to optical imaging: a contemporary overview",
+                "Phase retrieval from the magnitude of the Fourier transforms of nonperiodic objects",
+                "Beyond crystallography: Diffractive imaging using coherent x-ray light sources",
+                "High resolution 3D x-ray diffraction microscopy",
+                "Electron tomography at 2.4-\u00e5ngstr\u00f6m resolution",
+                "Lensless diffractive imaging using tabletop coherent high-harmonic soft-x-ray beams",
+                "Three-dimensional imaging of dislocations in a nanoparticle at atomic resolution",
+                "Imaging whole Escherichia coli bacteria by using single-particle x-ray diffraction",
+                "Quantitative 3D imaging of whole, unstained cells by using X-ray diffraction microscopy"
+            ],
+            [
+                "The contrast and penetrating power afforded by soft X-rays when they interact with matter makes this form of radiation ideal for studying micrometre-sized objects 1, 2. But although soft X-rays areuseful for probing detail too fine for visible light microscopy in specimens too thick for electron microscopy, the highest-resolution applications of X-ray imaging have been traditionally limited to crystalline samples. Here we demonstrate imaging (at\u223c 75 nm resolution) of a non-crystalline sample, consisting of an array of gold dots, by measuring the soft X-ray diffraction pattern from which an image can be reconstructed. The crystallographic phase problem 3\u2014the usually unavoidable loss of phase information in the diffraction intensity\u2014is overcome by oversampling 4 the diffraction pattern, and the image is obtained using an iterative algorithm 5. Our X-ray microscopy technique requires no high-resolution X-ray optical \u2026",
+                "This review article provides a contemporary overview of phase retrieval in optical imaging, linking the relevant optical physics to the signal processing methods and algorithms. Our goal is to describe the current state of the art in this area, identify challenges, and suggest future directions and areas where signal processing methods can have a large impact on optical imaging and on the world of imaging at large with applications in a variety of fields ranging from biology and chemistry to physics and engineering.",
+                "It is suggested that, given the magnitude of Fourier transforms sampled at the Bragg density, the phase problem is underdetermined by a factor of 2 for 1D, 2D, and 3D objects. It is therefore unnecessary to oversample the magnitude of Fourier transforms by 2\u00d7 in each dimension (i.e., oversampling by 4\u00d7 for 2D and 8\u00d7 for 3D) in retrieving the phase of 2D and 3D objects. Our computer phasing experiments accurately retrieved the phase from the magnitude of the Fourier transforms of 2D and 3D complex-valued objects by using positivity constraints on the imaginary part of the objects and loose supports, with the oversampling factor much less than 4 for 2D and 8 for 3D objects. Under the same conditions we also obtained reasonably good reconstructions of 2D and 3D complex-valued objects from the magnitude of their Fourier transforms with added noise and a central stop.",
+                "X-ray crystallography has been central to the development of many fields of science over the past century. It has now matured to a point that as long as good-quality crystals are available, their atomic structure can be routinely determined in three dimensions. However, many samples in physics, chemistry, materials science, nanoscience, geology, and biology are noncrystalline, and thus their three-dimensional structures are not accessible by traditional x-ray crystallography. Overcoming this hurdle has required the development of new coherent imaging methods to harness new coherent x-ray light sources. Here we review the revolutionary advances that are transforming x-ray sources and imaging in the 21st century.",
+                "We have imaged a 2D buried Ni nanostructure at 8 nm resolution using coherent x-ray diffraction and the oversampling phasing method. By employing a 3D imaging reconstruction algorithm, for the first time we have experimentally determined the 3D structure of a noncrystalline nanostructured material at 50 nm resolution. The 2D and 3D imaging resolution is currently limited by the exposure time and the computing power, while the ultimate resolution is limited by the x-ray wavelengths. We believe these results pave the way for the development of atomic resolution 3D x-ray diffraction microscopy.",
+                "Transmission electron microscopy is a powerful imaging tool that has found broad application in materials science, nanoscience and biology 1, 2, 3. With the introduction of aberration-corrected electron lenses, both the spatial resolution and the image quality in transmission electron microscopy have been significantly improved 4, 5 and resolution below 0.5 \u00e5ngstr\u00f6ms has been demonstrated 6. To reveal the three-dimensional (3D) structure of thin samples, electron tomography is the method of choice 7, 8, 9, 10, 11, with cubic-nanometre resolution currently achievable 10, 11. Discrete tomography has recently been used to generate a 3D atomic reconstruction of a silver nanoparticle two to three nanometres in diameter 12, but this statistical method assumes prior knowledge of the particle\u2019s lattice structure and requires that the atoms fit rigidly on that lattice. Here we report the experimental demonstration of a \u2026",
+                "We present the first experimental demonstration of lensless diffractive imaging using coherent soft x rays generated by a tabletop soft-x-ray source. A 29 nm high harmonic beam illuminates an object, and the subsequent diffraction is collected on an x-ray CCD camera. High dynamic range diffraction patterns are obtained by taking multiple exposures while blocking small-angle diffraction using beam blocks of varying size. These patterns reconstruct to images with 214 nm resolution. This work demonstrates a practical tabletop lensless microscope that promises to find applications in materials science, nanoscience, and biology.",
+                "Dislocations and their interactions strongly influence many material properties, ranging from the strength of metals and alloys to the efficiency of light-emitting diodes and laser diodes 1, 2, 3, 4. Several experimental methods can be used to visualize dislocations. Transmission electron microscopy (TEM) has long been used to image dislocations in materials 5, 6, 7, 8, 9, and high-resolution electron microscopy can reveal dislocation core structures in high detail 10, particularly in annular dark-field mode 11. A TEM image, however, represents a two-dimensional projection of a three-dimensional (3D) object (although stereo TEM provides limited information about 3D dislocations 4). X-ray topography can image dislocations in three dimensions, but with reduced resolution 12. Using weak-beam dark-field TEM 13 and scanning TEM 14, electron tomography has been used to image 3D dislocations at a resolution of \u2026",
+                "We report the first experimental recording, to our knowledge, of the diffraction pattern from intact Escherichia coli bacteria using coherent x-rays with a wavelength of 2 \u00c5. By using the oversampling phasing method, a real space image at a resolution of 30 nm was directly reconstructed from the diffraction pattern. An R factor used for characterizing the quality of the reconstruction was in the range of 5%, which demonstrated the reliability of the reconstruction process. The distribution of proteins inside the bacteria labeled with manganese oxide has been identified and this distribution confirmed by fluorescence microscopy images. Compared with lens-based microscopy, this diffraction-based imaging approach can examine thicker samples, such as whole cultured cells, in three dimensions with resolution limited only by radiation damage. Looking forward, the successful recording and reconstruction of diffraction \u2026",
+                "Microscopy has greatly advanced our understanding of biology. Although significant progress has recently been made in optical microscopy to break the diffraction-limit barrier, reliance of such techniques on fluorescent labeling technologies prohibits quantitative 3D imaging of the entire contents of cells. Cryoelectron microscopy can image pleomorphic structures at a resolution of 3\u20135 nm, but is only applicable to thin or sectioned specimens. Here, we report quantitative 3D imaging of a whole, unstained cell at a resolution of 50\u201360 nm by X-ray diffraction microscopy. We identified the 3D morphology and structure of cellular organelles including cell wall, vacuole, endoplasmic reticulum, mitochondria, granules, nucleus, and nucleolus inside a yeast spore cell. Furthermore, we observed a 3D structure protruding from the reconstructed yeast spore, suggesting the spore germination process. Using cryogenic \u2026"
+            ],
+            [
+                [
+                    "Coherent Diffractive Imaging (CDI)",
+                    "Atomic Electron Tomography (AET)",
+                    "Biophysics & Nanoscience"
+                ]
+            ]
+        ]
+    ]
+}

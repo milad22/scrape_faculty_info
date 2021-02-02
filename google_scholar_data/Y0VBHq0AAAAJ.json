@@ -1,0 +1,149 @@
+{
+    "columns":[
+        "scholar_id",
+        "name",
+        "affiliation",
+        "email_domain",
+        "url_picture",
+        "citedby",
+        "interests",
+        "citedby5y",
+        "hindex",
+        "hindex5y",
+        "i10index",
+        "i10index5y",
+        "coauthors"
+    ],
+    "index":[
+        0
+    ],
+    "data":[
+        [
+            "Y0VBHq0AAAAJ",
+            "Erik Enriquez",
+            "Lecturer, University of Texas Rio Grande Valley",
+            "@utrgv.edu",
+            "https:\/\/scholar.google.com\/citations?view_op=medium_photo&user=Y0VBHq0AAAAJ",
+            405,
+            [
+                "Materials Science",
+                "Machine Learning"
+            ],
+            376,
+            10,
+            10,
+            10,
+            10,
+            [
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"1-StqmAAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Quanxi Jia",
+                    "affiliation":"University at Buffalo - The State University of New York; Los Alamos National Laboratory (former))"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"kTz75FoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Aiping Chen",
+                    "affiliation":"Scientist, CINT, Los Alamos National Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"UswTBgcAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Chonglin Chen (C. L. Chen)",
+                    "affiliation":"Professor of Physics and Materials, University of Texas at San Antonio"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"T1LTXBIAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Dmitry Yarotski",
+                    "affiliation":"Los Alamos National Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"gKrkG8EAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Xujie L\u00fc",
+                    "affiliation":"Center for High Pressure Science & Technology Advanced Research"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"4vTwS_YAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Abul K Azad",
+                    "affiliation":"Los Alamos National Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"zb5prTQAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Clifford Hubbard",
+                    "affiliation":"US ARL"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"9SNxXpUAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Turab Lookman",
+                    "affiliation":"Los Alamos National Laboratory"
+                },
+                {
+                    "container_type":"Author",
+                    "filled":[
+
+                    ],
+                    "scholar_id":"RX7pCIoAAAAJ",
+                    "source":{
+                        "name":"CO_AUTHORS_LIST"
+                    },
+                    "name":"Xue Dezhen",
+                    "affiliation":"Xian Jiaotong University"
+                }
+            ]
+        ]
+    ]
+}
