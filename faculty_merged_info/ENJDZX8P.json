@@ -4,7 +4,8 @@
         "google_scholar_id",
         "titles",
         "abstracts",
-        "interests"
+        "interests",
+        "personal_page_content"
     ],
     "index":[
         0
@@ -14,10 +15,22 @@
             "ENJDZX8P",
             "_cqWssQAAAAJ",
             [
-
+                "Chaotic pulsing and quasi-periodic route to chaos in a semiconductor laser with delayed opto-electronic feedback",
+                "Synchronized chaotic optical communications at high bit rates",
+                "Synchronization and communication using semiconductor lasers with optoelectronic feedback",
+                "Design and implementation of fiber-based multiphoton endoscopy with microelectromechanical systems scanning",
+                "Effect of pulse duration on two-photon excited fluorescence and second harmonic generation in nonlinear optical microscopy",
+                "Optical-communication systems based on chaos in semiconductor lasers",
+                "Advanced multi-contrast Jones matrix optical coherence tomography for Doppler and polarization sensitive imaging"
             ],
             [
-
+                "Chaotic pulsing and the route to chaos in a semiconductor laser with delayed, positive opto-electronic feedback are investigated numerically and experimentally. Both numerical simulation and experimental observation indicate that the laser enters a chaotic pulsing state at certain delay times of the feedback loop through a quasi-periodic route. The characteristics of each dynamical state are analyzed. The chaotic pulsing state is verified with a positive Lyapunov exponent and a fractal correlation dimension. The experimental results show very good qualitative agreement with the numerical results. Quantitative discrepancy between experimental and numerical results can be explained by the bandpass characteristics of the electronic feedback loop.",
+                "Basic issues regarding synchronized chaotic optical communications at high bit rates using semiconductor lasers are considered. Recent experimental results on broadband, high-frequency, phase-locked chaos synchronization, and message encoding-decoding at 2.5 Gb\/s are presented. System performance at a bit rate of 10 Gb\/s is numerically studied for the application of three encryption schemes, namely chaos shift keying, chaos masking, and additive chaos modulation, to three chaotic semiconductor laser systems, namely the optical injection system, the optical feedback system, and the optoelectronic feedback system. By causing synchronization error in the forms of synchronization deviation and desynchronization bursts, the channel noise and the laser noise both have significant effects on the system performance at high bit rates. Among the three laser systems, the optoelectronic feedback system has the \u2026",
+                "Semiconductor lasers provide an excellent opportunity for communication using chaotic waveforms. We discuss the characteristics and the synchronization of two semiconductor lasers with optoelectronic feedback. The systems exhibit broadband chaotic intensity oscillations whose dynamical dimension generally increases with the time delay in the feedback loop. We explore the robustness of this synchronization with parameter mismatch in the lasers, with mismatch in the optoelectronic feedback delay, and with the strength of the coupling between the systems. Synchronization is robust to mismatches between the intrinsic parameters of the lasers, but it is sensitive to mismatches of the time delay in the transmitter and receiver feedback loops. An open-loop receiver configuration is suggested, eliminating feedback delay mismatch issues. Communication strategies for arbitrary amplitude of modulation onto the \u2026",
+                "A multiphoton endoscopy system has been developed using a two-axis microelectromechanical systems (MEMS) mirror and double-cladding photonic crystal fiber (DCPCF). The MEMS mirror has a 2-mm-diam, 20-deg optical scanning angle, and 1.26-kHz and 780-Hz resonance frequencies on the x and y axes. The maximum number of resolvable focal spots of the MEMS scanner is 720\u00d7720 on the x and y axes, which indicates that the MEMS scanner can potentially support high-resolution multiphoton imaging. The DCPCF is compared with standard single-mode fiber and hollow-core photonic bandgap fiber on the basis of dispersion, attenuation, and coupling efficiency properties. The DCPCF has high collection efficiency, and its dispersion can be compensated by grating pairs. Three configurations of probe design are investigated, and their imaging quality and field of view are compared. A two-lens \u2026",
+                "We have developed a multiphoton microscopy (MPM) system using a 12-fs Ti:sapphire laser with adjustable dispersion precompensation in order to examine the impact of pulse duration on nonlinear optical signals. The efficiencies of two-photon-excited fluorescence (TPEF) and second harmonic generation (SHG) were studied for various pulse durations, measured at the sample, ranging from ~400  fs to sub-20 fs. Both TPEF and SHG increased proportionally to the inverse of the pulse duration for the entire tested range. Because of improved signal-to-noise ratio, sub-20-fs pulses were used to enhance MPM imaging depth by approximately 160%, compared to 120-fs pulses, in human skin.",
+                "Chaotic optical-communication systems using semiconductor lasers are studied. The dynamics, synchronization, and message encoding and decoding are modeled and studied numerically and experimentally for two systems which are based on optical injection and delayed optoelectronic feedback of semiconductor lasers, respectively. An optically-injected single-mode semiconductor laser is a nonautonomous nonlinear system of three dynamical variables. It has phase-sensitive dynamics that follow a period-doubling route to chaos. A single-mode semiconductor laser with delayed optoelectronic feedback is an autonomous, delayed-feedback nonlinear system with only two dynamical variables, but its dimension can be very high when the delay time is large. It has phase-insensitive pulsing dynamics that follows a quasi-periodic route to chaotic pulsing. Stable synchronization for both systems are devised \u2026",
+                "An advanced version of Jones matrix optical coherence tomography (JMT) is demonstrated for Doppler and polarization sensitive imaging of the posterior eye. JMT is capable of providing localized flow tomography by Doppler detection and investigating the birefringence property of tissue through a three-dimensional (3-D) Jones matrix measurement. Owing to an incident polarization multiplexing scheme based on passive optical components, this system is stable, safe in a clinical environment, and cost effective. Since the properties of this version of JMT provide intrinsic compensation for system imperfection, the system is easy to calibrate. Compared with the previous version of JMT, this advanced JMT achieves a sufficiently long depth measurement range for clinical cases of posterior eye disease. Furthermore, a fine spectral shift compensation method based on the cross-correlation of calibration signals was \u2026"
             ],
             [
                 [
@@ -25,6 +38,9 @@
                     "Optical Imaging",
                     "Spectroscopy"
                 ]
+            ],
+            [
+                "Shuo Tang Postdoc Research Associate Nuclear A518 Zaffarano Hall tang@iastate.edu 515-294-5686"
             ]
         ]
     ]

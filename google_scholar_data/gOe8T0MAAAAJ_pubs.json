@@ -1,11 +1,103 @@
 {
     "columns":[
-
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
     ],
     "index":[
-
+        0,
+        1,
+        2,
+        3
     ],
     "data":[
-
+        [
+            "The development of new artificial structures and materials is today one of the major research challenges in optics. In most studies so far, the design of such structures has been based on the judicious manipulation of their refractive index properties. Recently, the prospect of simultaneously using gain and loss was suggested as a new way of achieving optical behaviour that is at present unattainable with standard arrangements. What facilitated these quests is the recently developed notion of \u2018parity\u2013time symmetry\u2019in optical systems, which allows a controlled interplay between gain and loss. Here we report the experimental observation of light transport in large-scale temporal lattices that are parity\u2013time symmetric. In addition, we demonstrate that periodic structures respecting this symmetry can act as unidirectional invisible media when operated near their exceptional points. Our experimental results represent a step \u2026",
+            "Parity\u2013time synthetic photonic lattices",
+            "Alois Regensburger and Christoph Bersch and Mohammad-Ali Miri and Georgy Onishchukov and Demetrios N Christodoulides and Ulf Peschel",
+            "2012",
+            "gOe8T0MAAAAJ:Y0pCki6q_DkC",
+            1390,
+            "https:\/\/www.nature.com\/articles\/nature11298",
+            "10682835101838595606",
+            "\/scholar?cites=10682835101838595606",
+            {
+                "2012":10,
+                "2013":85,
+                "2014":134,
+                "2015":167,
+                "2016":199,
+                "2017":187,
+                "2018":169,
+                "2019":204,
+                "2020":216,
+                "2021":15
+            }
+        ],
+        [
+            "The ability to control the modes oscillating within a laser resonator is of fundamental importance. In general, the presence of competing modes can be detrimental to beam quality and spectral purity, thus leading to spatial as well as temporal fluctuations in the emitted radiation. We show that by harnessing notions from parity-time (PT) symmetry, stable single\u2013longitudinal mode operation can be readily achieved in a system of coupled microring lasers. The selective breaking of PT symmetry can be used to systematically enhance the maximum attainable output power in the desired mode. This versatile concept is inherently self-adapting and facilitates mode selectivity over a broad bandwidth without the need for other additional intricate components. Our experimental findings provide the possibility to develop synthetic optical devices and structures with enhanced functionality.",
+            "Parity-time\u2013symmetric microring lasers",
+            "Hossein Hodaei and Mohammad-Ali Miri and Matthias Heinrich and Demetrios N Christodoulides and Mercedeh Khajavikhan",
+            "2014",
+            "gOe8T0MAAAAJ:M3NEmzRMIkIC",
+            958,
+            "https:\/\/science.sciencemag.org\/content\/346\/6212\/975.abstract",
+            "18101180265260535789",
+            "\/scholar?cites=18101180265260535789",
+            {
+                "2015":74,
+                "2016":134,
+                "2017":150,
+                "2018":186,
+                "2019":188,
+                "2020":204,
+                "2021":16
+            }
+        ],
+        [
+            "Singularities are critical points for which the behavior of a mathematical model governing a physical system is of a fundamentally different nature compared to the neighboring points. Exceptional pointsare spectral singularities in the parameter space of a system in which two or more eigenvalues, and their corresponding eigenvectors, simultaneously coalesce. Such degeneracies are peculiar features of nonconservative systems that exchange energy with their surrounding environment. In the past two decades, there has been a growing interest in investigating such nonconservative systems, particularly in connection with the quantum mechanics notions of parity-time symmetry, after the realization that some non-Hermitian Hamiltonians exhibit entirely real spectra. Lately, non-Hermitian systems have raised considerable attention in photonics, given that optical gain and loss can be integrated as \u2026",
+            "Exceptional points in optics and photonics",
+            "Mohammad-Ali Miri and Andrea Alu",
+            "2019",
+            "gOe8T0MAAAAJ:1qzjygNMrQYC",
+            364,
+            "https:\/\/science.sciencemag.org\/content\/363\/6422\/eaar7709.abstract",
+            "1265203172696941648",
+            "\/scholar?cites=1265203172696941648",
+            {
+                "2019":97,
+                "2020":243,
+                "2021":23
+            }
+        ],
+        [
+            "We provide the first experimental demonstration of defect states in parity-time (P T) symmetric mesh-periodic potentials. Our results indicate that these localized modes can undergo an abrupt phase transition in spite of the fact that they remain localized in a P T-symmetric periodic environment. Even more intriguing is the possibility of observing a linearly growing radiation emission from such defects provided their eigenvalue is associated with an exceptional point that resides within the continuum part of the spectrum. Localized complex modes existing outside the band-gap regions are also reported along with their evolution dynamics.",
+            "Observation of defect states in p t-symmetric optical lattices",
+            "Alois Regensburger and Mohammad-Ali Miri and Christoph Bersch and Jakob N\u00e4ger and Georgy Onishchukov and Demetrios N Christodoulides and Ulf Peschel",
+            "2013",
+            "gOe8T0MAAAAJ:_FxGoFyzp5QC",
+            209,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.110.223902",
+            "12016228883332484149",
+            "\/scholar?cites=12016228883332484149",
+            {
+                "2013":6,
+                "2014":34,
+                "2015":26,
+                "2016":25,
+                "2017":36,
+                "2018":39,
+                "2019":18,
+                "2020":22,
+                "2021":1
+            }
+        ]
     ]
 }

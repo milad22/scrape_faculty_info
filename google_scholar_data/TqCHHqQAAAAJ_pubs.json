@@ -1,11 +1,71 @@
 {
     "columns":[
-
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
     ],
     "index":[
-
+        0,
+        1
     ],
     "data":[
-
+        [
+            "Virus-specific CD8+ T cells probably mediate control over HIV replication in rare individuals, termed long-term nonprogressors (LTNPs) or elite controllers. Despite extensive investigation, the mechanisms responsible for this control remain incompletely understood. We observed that HIV-specific CD8+ T cells of LTNPs persisted at higher frequencies than those of treated progressors with equally low amounts of HIV. Measured on a per-cell basis, HIV-specific CD8+ T cells of LTNPs efficiently eliminated primary autologous HIV-infected CD4+ T cells. This function required lytic granule loading of effectors and delivery of granzyme B to target cells. Defective cytotoxicity of progressor effectors could be restored after treatment with phorbol ester and calcium ionophore. These results establish an effector function and mechanism that clearly segregate with immunologic control of HIV. They also demonstrate that lytic \u2026",
+            "Lytic granule loading of CD8+ T cells is required for HIV-infected cell elimination associated with immune control",
+            "Stephen A Migueles and Christine M Osborne and Cassandra Royce and Alex A Compton and Rohan P Joshi and Kristin A Weeks and Julia E Rood and Amy M Berkley and Jonah B Sacha and Nancy A Cogliano-Shutta and Margaret Lloyd and Gregg Roby and Richard Kwan and Mary McLaughlin and Sara Stallings and Catherine Rehm and Marie A O'Shea and JoAnn Mican and Beverly Z Packard and Akira Komoriya and Sarah Palmer and Ann P Wiegand and Frank Maldarelli and John M Coffin and John W Mellors and Claire W Hallahan and Dean A Follman and Mark Connors",
+            "2008",
+            "TqCHHqQAAAAJ:zYLM7Y9cAGgC",
+            541,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S1074761308005013",
+            "10327342140199848608",
+            "\/scholar?cites=10327342140199848608",
+            {
+                "2009":25,
+                "2010":63,
+                "2011":72,
+                "2012":61,
+                "2013":52,
+                "2014":60,
+                "2015":44,
+                "2016":34,
+                "2017":27,
+                "2018":21,
+                "2019":32,
+                "2020":34,
+                "2021":7
+            }
+        ],
+        [
+            "Although AKT is essential for multiple cellular functions, the role of this kinase family in hematopoietic stem cells (HSCs) is unknown. Thus, we analyzed HSC function in mice deficient in the 2 isoforms most highly expressed in the hematopoietic compartment, AKT1 and AKT2. Although loss of either isoform had only a minimal effect on HSC function, AKT1\/2 double-deficient HSCs competed poorly against wild-type cells in the development of myeloid and lymphoid cells in in vivo reconstitution assays. Serial transplantations revealed an essential role for AKT1 and AKT2 in the maintenance of long-term HSCs (LT-HSCs). AKT1\/2 double-deficient LT-HSCs were found to persist in the G0 phase of the cell cycle, suggesting that the long-term functional defects are caused by increased quiescence. Furthermore, we found that the intracellular content of reactive oxygen species (ROS) is dependent on AKT because double \u2026",
+            "AKT1 and AKT2 maintain hematopoietic stem cell function by regulating reactive oxygen species",
+            "Marisa M Juntilla and Vineet D Patil and Marco Calamito and Rohan P Joshi and Morris J Birnbaum and Gary A Koretzky",
+            "2010",
+            "TqCHHqQAAAAJ:u5HHmVD_uO8C",
+            242,
+            "https:\/\/ashpublications.org\/blood\/article-abstract\/115\/20\/4030\/103815",
+            "898820063667134645",
+            "\/scholar?cites=898820063667134645",
+            {
+                "2010":2,
+                "2011":19,
+                "2012":26,
+                "2013":37,
+                "2014":27,
+                "2015":18,
+                "2016":27,
+                "2017":18,
+                "2018":20,
+                "2019":20,
+                "2020":24,
+                "2021":2
+            }
+        ]
     ]
 }

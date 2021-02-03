@@ -1,11 +1,95 @@
 {
     "columns":[
-
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
     ],
     "index":[
-
+        0,
+        1,
+        2
     ],
     "data":[
-
+        [
+            "New data are reported for the mass-spectrometry fragmentation patterns of helium clusters, either pure or containing a Ne or an Ar atom. The patterns for Hen+ and Ar+Hen show clear evidence of structure, while those of Ne+Hen do not. To better understand the surprising result for the Ne+Hen fragments, diffusion quantum Monte Carlo (DMC) calculations of the energies and structural properties of these ions were performed using a diatomics-in-molecule (DIM) parametrization of the potential energy. Using DIM for electronic energy evaluation allows us to sample 109 configurations even for a cluster as large as Ne+He14. The results of the DMC calculation are very surprising. For n>7, the DMC random walkers rarely venture within 100cm\u22121 of the minimum potential energy. Analysis of the resulting particle density distributions shows that the zero-point energy does more than spread the wave function around the \u2026",
+            "Structure and stability of : Experiment and diffusion quantum Monte Carlo theory with \u201con the fly\u201d electronic structure",
+            "Carrie A Brindle and Melissa R Prado and Kenneth C Janda and Nadine Halberstadt and Marius Lewerenz",
+            "2005",
+            "5d40zLwAAAAJ:zYLM7Y9cAGgC",
+            26,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.1982790",
+            "15182826159116054808",
+            "\/scholar?cites=15182826159116054808",
+            {
+                "2005":1,
+                "2006":3,
+                "2007":2,
+                "2008":3,
+                "2009":3,
+                "2010":1,
+                "2011":3,
+                "2012":1,
+                "2013":2,
+                "2014":1,
+                "2015":2,
+                "2016":2,
+                "2017":1,
+                "2018":1
+            }
+        ],
+        [
+            "Sam Francis (1923-1994) was one of the most influential American painters of the 20th century. Francis painted in several media throughout his life, but he made frequent use of acrylic emulsion after 1970. From discussions with Dan Citron-his studio assistant and paint maker for many yearsit was learned that Francis used both commercially available paints as well as custom-made formulations prepared by Citron that often included a broad range of pigments that were not commonly found in artist\u2019s paints. Francis lived primarily in California and it was there, in his studio in Santa Monica, that sixty-four pre-mixed containers of paints were found after his death (Figure 1).As part of an ongoing study into the materials used by Francis, the paint from each of these containers was investigated, in addition to samples from an archive of discarded paint-outs and long paint brush handles and a number of his paintings. This \u2026",
+            "Micro-FTIR and micro-Raman study of paints used by Sam Francis",
+            "Michel Bouchard and Rachel Rivenc and Carrie Menke and Tom Learner",
+            "2009",
+            "5d40zLwAAAAJ:d1gkVwhDpl0C",
+            21,
+            "https:\/\/www.academia.edu\/download\/38316536\/Bouchard_04-06-2008.pdf",
+            "11264241088065639100",
+            "\/scholar?cites=11264241088065639100",
+            {
+                "2009":1,
+                "2010":1,
+                "2011":2,
+                "2012":2,
+                "2013":2,
+                "2014":3,
+                "2015":3,
+                "2016":2,
+                "2017":2,
+                "2018":3
+            }
+        ],
+        [
+            "When analyzed in the dry, powdered form, most of the hundreds of modern synthetic organic pigments that have been introduced throughout the 20th century can be effectively characterized by direct temperature-resolved mass spectrometry (DTMS) [S.Q. Lomax, M. Schilling, T. Learner, in: T. Learner, P. Smithen, J.W. Krueger, M. Schilling (Eds.), Modern Paints Uncovered, Getty Conservation Institute, Tate Modern, London, 2007, p. 105]. However, their detection in paint formulations is often far more difficult, as these pigments are usually present in only very low concentrations, due to their relatively high tinting strengths. The situation is also more complex when one attempts to identify these pigments from microscopic samples of paint taken from actual works of art, due to the frequent manipulation, mixing, or adulteration of paints by artists during their application. A project aiming to characterize the wide range of \u2026",
+            "The use of direct temperature-resolved mass spectrometry (DTMS) in the detection of organic pigments found in acrylic paints used by Sam Francis",
+            "Carrie Ann Menke and Rachel Rivenc and Tom Learner",
+            "2009",
+            "5d40zLwAAAAJ:9yKSN-GCB0IC",
+            19,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S1387380608004661",
+            "14473111939017843719",
+            "\/scholar?cites=14473111939017843719",
+            {
+                "2009":2,
+                "2010":1,
+                "2011":2,
+                "2012":2,
+                "2013":2,
+                "2014":1,
+                "2015":2,
+                "2016":2,
+                "2017":2,
+                "2018":1,
+                "2019":2
+            }
+        ]
     ]
 }

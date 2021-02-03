@@ -4,7 +4,8 @@
         "google_scholar_id",
         "titles",
         "abstracts",
-        "interests"
+        "interests",
+        "personal_page_content"
     ],
     "index":[
         0
@@ -14,10 +15,28 @@
             "WKN3T7OB",
             "LytX-lQAAAAJ",
             [
-
+                "Fabrication of single-crystal lithium niobate films by crystal ion slicing",
+                "Waveguide optical isolator based on Mach\u2013Zehnder interferometer",
+                "Probind the coulomb gap in insulating n-type CdSe",
+                "High transmission enhanced Faraday rotation in one-dimensional photonic crystals with defects",
+                "Photonic bandgaps with defects and the enhancement of Faraday rotation",
+                "Flat-top response in one-dimensional magnetic photonic bandgap structures with Faraday rotation enhancement",
+                "Magnetophotonics: From theory to applications",
+                "Carbon nanotube tipped atomic force microscopy for measurement of< 100 nm etch morphology on semiconductors",
+                "Integrated optical isolators with sputter-deposited thin-film magnets",
+                "The on-chip integration of magnetooptic waveguide isolators"
             ],
             [
-
+                "We report on the implementation of crystal ion slicing in lithium niobate (LiNbO3). Deep-ion implantation is used to create a buried sacrificial layer in single-crystal c-cut poled wafers of LiNbO3, inducing a large etch selectivity between the sacrificial layer and the rest of the sample. 9-\u03bcm-thick films of excellent quality are separated from the bulk and bonded to silicon and gallium arsenide substrates. These single-crystal films have the same room-temperature dielectric and pyroelectric characteristics, and ferroelectric transition temperature as single-crystal bulk. A stronger high-temperature pyroelectric response is found in the films.",
+                "A waveguide optical isolator based on nonreciprocal interference is demonstrated. Ridge waveguides are fabricated in a Mach\u2013Zehnder configuration on a single film of bismuth-, lutetium-, neodymium-iron garnet. With this design, no polarizers are required to achieve extinction in the backward propagation direction. This isolator exhibits a 19 dB extinction ratio at \u03bb=1.54 \u03bcm. A flat wavelength dependence, to within 2 dB, has been observed in the range between 1.49 and 1.57 \u03bcm.",
+                "We report the first observation of a crossover with decreasing temperature of the resistivity of a doped semiconductor from the expT 0\/T) 1\/4 behavior characteristic of Mott variable-range hopping to the exp (T 0\u2032\/T) 1\/2 form expected in the presence of a Coulomb gap. Simultaneous determination of T 0 and T 0\u2032 for several dopant concentrations yields the empirical relation T 0\u2032\u221d T 0 p, with p\u2248 23. If current theory is valid and applicable, this has unexpected implications regarding the critical behavior of the localization length and the dielectric constant at the metal-insulator transition.\u00a9 1990 The American Physical Society",
+                "Photonic crystals containing defects produce enhanced Faraday rotation but existing designs have low intensity output. We show that designs with two-defects possess sufficient freedom to attain high transmission over a large range of rotation angles in very short lengths. We optimize such systems for 45\/spl deg\/ rotation in optical isolators.",
+                "We investigate enhancement of magnetooptical rotation in periodic magnetic garnet thin-film stacks with defects using a combination of coupled-mode theory and matrix calculations. We prove that a combination of high rotation per unit length and high output is unattainable for a symmetric grating with a single central defect. We demonstrate that the addition of a second defect introduces sufficient degrees of freedom to allow high transmission for a much larger range of rotation angles than was previously possible. We present a number of designs with emphasis on achieving 45  rotation in very short propagation lengths.",
+                "The transmission and Faraday rotation characteristics of one-dimensional photonic crystals in cerium-substituted yttrium iron garnet (Ce:YIG) with multiple defects in the optical bandgap are studied theoretically at   = 1.55 m. It is found that the interdefect spacing can be adjusted to yield a flat top response, with close to 100% transmission and 45 Faraday rotation, for film structures as thin as 30 to 35 m. This is better than a three-fold reduction in thickness compared to the best Ce:YIG films for comparable rotations, and may allow a considerable reduction in size in manufactured optical isolators. Transmission bands as wide as 7 nm are predicted, which constitutes a considerable improvement over previously reported bandwidths for magnetic photonic crystals. Diffraction across the structure corresponds to a longer optical path length than the thickness of the film, calling for the use of guided optics to minimize \u2026",
+                "This book merges theoretical and experimental works initiated in 1997 from consideration of periodical artificial dielectric structures comprising magneto-optical materials. Modern advances in magnetophotonics are discussed giving theoretical analyses and demonstrations of the consequences of light interaction with non-reciprocal media of various designs. This first collection of foundational works is devoted to light-to-artificial magnetic matter phenomena and related applications. The subject covers the physical background and the continuing research in the field of magnetophotonics.",
+                "The use of carbon nanotubes as tips in atomic force microscopy for a systematic study of dry etching pattern transfer in GaAs is described. The GaAs samples are patterned via electron beam lithography and then etched using magnetron reactive ion or chemically assisted ion beam processing. The technique allows diagnosis, in air, of etched features with scale sizes of <100 nm.",
+                "This letter describes the use of a compact sputter-deposited thin-film magnet that is directly integrated onto a waveguide isolator fabricated in magnetic thin-film garnets. Film magnets of different thicknesses are sputtered onto the waveguides, and isolation ratios of 29 dB are obtained with negligible excess loss. Stress-birefringent effects due to the ferromagnetic film overlayer are eliminated by the use of an aluminum compliant buffer.",
+                "The miniaturization of optical isolators and their on-chip integration with various optoelectronic devices has been pursued for a number of years. However, reducing the standard paradigmatic construction used in commercial isolators to waveguide form requires stringent fabrication tolerances and special materials that tend to render the process difficult and costly. Thus, novel approaches in device design and materials technology are called for and are being pursued. This paper discusses the application of the Faraday and nonreciprocal phase shift effects in waveguide isolator operation, the complications that arise in the miniaturization of these devices, and the novel solutions being pursued."
             ],
             [
                 [
@@ -25,6 +44,9 @@
                     "magneto-photonics",
                     "nanophotonics"
                 ]
+            ],
+            [
+                ""
             ]
         ]
     ]

@@ -1,11 +1,257 @@
 {
     "columns":[
-
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
     ],
     "index":[
-
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
     ],
     "data":[
-
+        [
+            "Tuning the optical 1, 2, electromagnetic 3, 4 and mechanical properties of a material requires simultaneous control over its composition and shape 5. This is particularly challenging for complex structures at the nanoscale because surface-energy minimization generally causes small structures to be highly symmetric 5. Here we combine low-temperature shadow deposition with nanoscale patterning to realize nanocolloids with anisotropic three-dimensional shapes, feature sizes down to 20 nm and a wide choice of materials. We demonstrate the versatility of the fabrication scheme by growing three-dimensional hybrid nanostructures that contain several functional materials with the lowest possible symmetry, and by fabricating hundreds of billions of plasmonic nanohelices, which we use as chiral metafluids with record circular dichroism and tunable chiroptical properties.",
+            "Hybrid nanocolloids with programmed three-dimensional shape and material composition",
+            "Andrew G Mark and John G Gibbs and Tung-Chun Lee and Peer Fischer",
+            "2013",
+            "YcXMUxgAAAAJ:Tyk-4Ss8FVUC",
+            352,
+            "https:\/\/www.nature.com\/articles\/nmat3685",
+            "2043618839127115011",
+            "\/scholar?cites=2043618839127115011",
+            {
+                "2013":5,
+                "2014":30,
+                "2015":36,
+                "2016":48,
+                "2017":43,
+                "2018":66,
+                "2019":57,
+                "2020":57,
+                "2021":7
+            }
+        ],
+        [
+            "A bubble propulsion model based on catalyzed hydrogen peroxide decomposition and momentum change via O2 bubbles detaching from the catalytic surface is proposed to explain the autonomous motion of catalytic nanomotors. The propelling force closely depends upon the surface tension of the liquid as well as the bulk concentration of hydrogen peroxide, and the model predictions are supported by the experimental data of Pt-coated spherical silica microbead motors.",
+            "Autonomously motile catalytic nanomotors by bubble propulsion",
+            "John G Gibbs and Y-P Zhao",
+            "2009",
+            "YcXMUxgAAAAJ:u5HHmVD_uO8C",
+            315,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.3122346",
+            "13146699707728966210",
+            "\/scholar?cites=13146699707728966210",
+            {
+                "2009":1,
+                "2010":11,
+                "2011":15,
+                "2012":23,
+                "2013":29,
+                "2014":46,
+                "2015":46,
+                "2016":33,
+                "2017":35,
+                "2018":32,
+                "2019":20,
+                "2020":23,
+                "2021":1
+            }
+        ],
+        [
+            "Motility in living systems is due to an array of complex molecular nanomotors that are essential for the function and survival of cells. These protein nanomotors operate not only despite of but also because of stochastic forces. Artificial means of realizing motility rely on local concentration or temperature gradients that are established across a particle, resulting in slip velocities at the particle surface and thus motion of the particle relative to the fluid. However, it remains unclear if these artificial motors can function at the smallest of scales, where Brownian motion dominates and no actively propelled living organisms can be found. Recently, the first reports have appeared suggesting that the swimming mechanisms of artificial structures may also apply to enzymes that are catalytically active. Here we report a scheme to realize artificial Janus nanoparticles (JNPs) with an overall size that is comparable to that of some \u2026",
+            "Self-propelling nanomotors in the presence of strong Brownian forces",
+            "Tung-Chun Lee and Mariana Alarco\u0301n-Correa and Cornelia Miksch and Kersten Hahn and John G Gibbs and Peer Fischer",
+            "2014",
+            "YcXMUxgAAAAJ:uWiczbcajpAC",
+            215,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/nl500068n",
+            "11343925685320627584",
+            "\/scholar?cites=11343925685320627584",
+            {
+                "2014":6,
+                "2015":29,
+                "2016":31,
+                "2017":35,
+                "2018":47,
+                "2019":33,
+                "2020":29,
+                "2021":4
+            }
+        ],
+        [
+            "Tissue and biological fluids are complex viscoelastic media with a nanoporous macromolecular structure. Here, we demonstrate that helical nanopropellers can be controllably steered through such a biological gel. The screw-propellers have a filament diameter of about 70 nm and are smaller than previously reported nanopropellers as well as any swimming microorganism. We show that the nanoscrews will move through high-viscosity solutions with comparable velocities to that of larger micropropellers, even though they are so small that Brownian forces suppress their actuation in pure water. When actuated in viscoelastic hyaluronan gels, the nanopropellers appear to have a significant advantage, as they are of the same size range as the gel\u2019s mesh size. Whereas larger helices will show very low or negligible propulsion in hyaluronan solutions, the nanoscrews actually display significantly enhanced propulsion \u2026",
+            "Nanopropellers and their actuation in complex viscoelastic media",
+            "Debora Schamel and Andrew G Mark and John G Gibbs and Cornelia Miksch and Konstantin I Morozov and Alexander M Leshansky and Peer Fischer",
+            "2014",
+            "YcXMUxgAAAAJ:AvfA0Oy_GE0C",
+            202,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/nn502360t",
+            "4527656176751825415",
+            "\/scholar?cites=4527656176751825415",
+            {
+                "2014":4,
+                "2015":26,
+                "2016":33,
+                "2017":32,
+                "2018":29,
+                "2019":31,
+                "2020":43,
+                "2021":3
+            }
+        ],
+        [
+            "Plasmonic nanohelix arrays are shown to interact with electromagnetic fields in ways not typically seen with ordinary matter. Chiral metamaterials (CMMs) with feature sizes small with respect to the wavelength of visible light are a promising route to experimentally achieve such phenomena as negative refraction without the need for simultaneously negative \u03b5 and \u03bc. Here we not only show that giant circular dichroism in the visible is achievable with hexagonally arranged plasmonic nanohelix arrays, but that we can precisely tune the optical activity via morphology and lattice spacing. The discrete dipole approximation is implemented to support experimental data.",
+            "Plasmonic nanohelix metamaterials with tailorable giant circular dichroism",
+            "JG Gibbs and AG Mark and S Eslami and P Fischer",
+            "2013",
+            "YcXMUxgAAAAJ:ufrVoPGSRksC",
+            114,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.4829740",
+            "1874045493448937447",
+            "\/scholar?cites=1874045493448937447",
+            {
+                "2013":1,
+                "2014":9,
+                "2015":16,
+                "2016":24,
+                "2017":22,
+                "2018":15,
+                "2019":14,
+                "2020":10,
+                "2021":2
+            }
+        ],
+        [
+            "Multicomponent rotational nanomotors consisting of Pt\u2010coated TiO2 nanoarms grown upon \u22482.01\u2010\u00b5m\u2010diameter silica microbeads designed by dynamic shadowing growth are presented. When exposed to H2O2, the structures rotate about an axis through the center of the microbead and perpendicular to the TiO2 nanoarm at a rate of 0.15\u2009Hz per % H2O2 concentration. The rotational frequency increases parabolically when the surface tension of the solution is altered by the addition of sodium dodecyl sulphate; both relationships are explainable by a nanobubble\u2010ejection model.",
+            "Design and characterization of rotational multicomponent catalytic nanomotors",
+            "JG Gibbs and Y\u2010P Zhao",
+            "2009",
+            "YcXMUxgAAAAJ:u-x6o8ySG0sC",
+            97,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1002\/smll.200900686",
+            "14019353880997083266",
+            "\/scholar?cites=14019353880997083266",
+            {
+                "2010":4,
+                "2011":9,
+                "2012":5,
+                "2013":17,
+                "2014":12,
+                "2015":13,
+                "2016":10,
+                "2017":7,
+                "2018":8,
+                "2019":4,
+                "2020":6,
+                "2021":2
+            }
+        ],
+        [
+            "The helix has remarkable qualities and is prevalent in many fields including mathematics, physics, chemistry, and biology. This shape, which is chiral by nature, is ubiquitous in biology with perhaps the most famous example being DNA. Other naturally occurring helices are common at the nanoscale in the form of protein secondary structures and in various macromolecules. Nanoscale helices exhibit a wide range of interesting mechanical, optical, and electrical properties which can be intentionally engineered into the structure by choosing the correct morphology and material. As technology advances, these fabrication parameters can be fine-tuned and matched to the application of interest. Herein, we focus on the fabrication and properties of nanohelices grown by a dynamic shadowing growth method combined with fast wafer-scale substrate patterning which has a number of distinct advantages. We review the \u2026",
+            "Nanohelices by shadow growth",
+            "John G Gibbs and Andrew G Mark and Tung-Chun Lee and Sahand Eslami and Debora Schamel and Peer Fischer",
+            "2014",
+            "YcXMUxgAAAAJ:vDijr-p_gm4C",
+            88,
+            "https:\/\/pubs.rsc.org\/az\/content\/articlehtml\/2014\/nr\/c4nr00403e",
+            "5912485283155814284",
+            "\/scholar?cites=5912485283155814284",
+            {
+                "2013":1,
+                "2014":3,
+                "2015":8,
+                "2016":12,
+                "2017":17,
+                "2018":15,
+                "2019":14,
+                "2020":15,
+                "2021":1
+            }
+        ],
+        [
+            "Chiral molecules play an important role in biological and chemical processes, but physical effects due to their symmetry-breaking are generally weak. Several physical chiral separation schemes which could potentially be useful, including the propeller effect, have therefore not yet been demonstrated at the molecular scale. However, it has been proposed that complex nonspherical colloidal particles could act as \u201ccolloidal molecules\u201d in mesoscopic model systems to permit the visualization of molecular phenomena that are otherwise difficult to observe. Unfortunately, it is difficult to synthesize such colloids because surface minimization generally favors the growth of symmetric particles. Here we demonstrate the production of large numbers of complex colloids with glancing angle physical vapor deposition. We use chiral colloids to demonstrate the Baranova and Zel\u2019dovich (Baranova, N. B.;  and Zel\u2019dovich, B. Y \u2026",
+            "Chiral colloidal molecules and observation of the propeller effect",
+            "Debora Schamel and Marcel Pfeifer and John G Gibbs and Bjo\u0308rn Miksch and Andrew G Mark and Peer Fischer",
+            "2013",
+            "YcXMUxgAAAAJ:WF5omc3nYNoC",
+            82,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/ja405705x",
+            "17424649718041416881",
+            "\/scholar?cites=17424649718041416881",
+            {
+                "2013":2,
+                "2014":11,
+                "2015":12,
+                "2016":7,
+                "2017":5,
+                "2018":21,
+                "2019":11,
+                "2020":11,
+                "2021":1
+            }
+        ],
+        [
+            "The free standing aluminum nanorods were grown on electrode and evaluated electrochemically as the anodes in the half-cell of Li-ion battery. The average diameter and length of the nanorods are 80 nm and 200 nm, respectively. The aligned nanorods demonstrated high capacity of 1243 mAh g\u22121 at rate of 0.5 C. A gradual decrease of the initial capacity was observed. The characterization of the anodes shows that the changes of the crystalline structure and morphology during cycling may be responsible for the capacity decay. The appropriate selection of the substrate can overcome the problems and lead the sustainable high capacity.",
+            "Free standing aluminum nanostructures as anodes for Li-ion rechargeable batteries",
+            "Ming Au and Scott McWhorter and Henry Ajo and Thad Adams and Yiping Zhao and John Gibbs",
+            "2010",
+            "YcXMUxgAAAAJ:d1gkVwhDpl0C",
+            78,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0378775309021107",
+            "1332863012805337642",
+            "\/scholar?cites=1332863012805337642",
+            {
+                "2010":1,
+                "2011":8,
+                "2012":10,
+                "2013":7,
+                "2014":6,
+                "2015":9,
+                "2016":3,
+                "2017":12,
+                "2018":4,
+                "2019":13,
+                "2020":4,
+                "2021":1
+            }
+        ],
+        [
+            "Catalytic nanomotors with silica microbead heads and TiO2 arms are systematically designed by dynamic shadowing growth. The swimming trajectories are fine tuned by altering the arm length and orientation exploiting geometry-dependent hydrodynamic interactions at low Reynolds number. The curvature, angular frequency, and radius of curvature of the trajectories change as a function of arm length. Simulations based on the method of regularized Stokeslets are also described and correctly capture the trends observed in the experiments.",
+            "Geometrically designing the kinematic behavior of catalytic nanomotors",
+            "JG Gibbs and S Kothari and D Saintillan and Y-P Zhao",
+            "2011",
+            "YcXMUxgAAAAJ:9yKSN-GCB0IC",
+            72,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/nl201273n",
+            "96990896220776375",
+            "\/scholar?cites=96990896220776375",
+            {
+                "2011":1,
+                "2012":9,
+                "2013":14,
+                "2014":9,
+                "2015":15,
+                "2016":6,
+                "2017":4,
+                "2018":6,
+                "2019":5,
+                "2020":3
+            }
+        ]
     ]
 }

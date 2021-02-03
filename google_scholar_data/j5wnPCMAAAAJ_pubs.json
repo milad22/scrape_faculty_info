@@ -1,11 +1,94 @@
 {
     "columns":[
-
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
     ],
     "index":[
-
+        0,
+        1
     ],
     "data":[
-
+        [
+            "Secret sharing is a procedure for splitting a message into several parts so that no subset of parts is sufficient to read the message, but the entire set is. We show how this procedure can be implemented using Greenberger-Horne-Zeilinger (GHZ) states. In the quantum case the presence of an eavesdropper will introduce errors so that his presence can be detected. We also show how GHZ states can be used to split quantum information into two parts so that both parts are necessary to reconstruct the original qubit.",
+            "Quantum secret sharing",
+            "Mark Hillery and Vladim\u00edr Bu\u017eek and Andr\u00e9 Berthiaume",
+            "1999",
+            "j5wnPCMAAAAJ:cFHS6HbyZ2cC",
+            2937,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.59.1829",
+            "7727772104723243876",
+            "\/scholar?cites=7727772104723243876",
+            {
+                "1999":9,
+                "2000":17,
+                "2001":30,
+                "2002":25,
+                "2003":46,
+                "2004":49,
+                "2005":93,
+                "2006":99,
+                "2007":128,
+                "2008":151,
+                "2009":139,
+                "2010":139,
+                "2011":171,
+                "2012":178,
+                "2013":242,
+                "2014":192,
+                "2015":193,
+                "2016":190,
+                "2017":166,
+                "2018":182,
+                "2019":224,
+                "2020":239,
+                "2021":26
+            }
+        ],
+        [
+            "We analyze the possibility of copying (that is, cloning) arbitrary states of a quantum-mechanical spin-1\/2 system. We show that there exists a \u2018\u2018universal quantum-copying machine\u2019\u2019(ie, transformation) which approximately copies quantum-mechanical states such that the quality of its output does not depend on the input. We also examine a machine which combines a unitary transformation and a selective measurement to produce good copies of states in the neighborhood of a particular state. We discuss the problem of measurement of the output states.\u00a9 1996 The American Physical Society.",
+            "Quantum copying: Beyond the no-cloning theorem",
+            "Vladimir Bu\u017eek and Mark Hillery",
+            "1996",
+            "j5wnPCMAAAAJ:qjMakFHDy7sC",
+            1263,
+            "https:\/\/journals.aps.org\/pra\/abstract\/10.1103\/PhysRevA.54.1844",
+            "280226956489523723",
+            "\/scholar?cites=280226956489523723",
+            {
+                "1997":11,
+                "1998":28,
+                "1999":35,
+                "2000":53,
+                "2001":52,
+                "2002":59,
+                "2003":65,
+                "2004":54,
+                "2005":79,
+                "2006":78,
+                "2007":82,
+                "2008":57,
+                "2009":74,
+                "2010":57,
+                "2011":52,
+                "2012":63,
+                "2013":52,
+                "2014":53,
+                "2015":46,
+                "2016":49,
+                "2017":35,
+                "2018":31,
+                "2019":54,
+                "2020":37,
+                "2021":1
+            }
+        ]
     ]
 }

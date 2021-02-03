@@ -1,11 +1,63 @@
 {
     "columns":[
-
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
     ],
     "index":[
-
+        0,
+        1,
+        2
     ],
     "data":[
-
+        [
+            "The anti-de Sitter\/conformal field theory correspondence (AdS\/CFT) has been used to determine a lower bound on the ratio of shear viscosity  to entropy density (s) for strongly-coupled field theories with a gravity dual. The conjectured universal lower bound, given as , is a measure of interaction strength in a quantum fluid where equality indicates a perfect quantum fluid. In this paper we study \u03b7\/s in a Fermi gas in the unitary limit. We show that in addition to a local minimum for \u03b7\/s at  which obeys the lower bound, a more interesting result exists in the violation of the \u03b7\/s lower bound due to the superfluid fluctuations above T c. To conclude, we examine the viscoelastic properties of the unitary Fermi gas. Previous work brought to light the connection between violation of the \u03b7\/s bound and a viscoelastic response in the context of holographic solids. We ultimately find that, in addition to holographic \u2026",
+            "Viscosity bound violation in viscoelastic Fermi liquids",
+            "Matthew P Gochan and Hua Li and Kevin S Bedell",
+            "2019",
+            "XW6M1NEAAAAJ:qjMakFHDy7sC",
+            4,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/2399-6528\/ab292b\/meta",
+            "13887129642099667961",
+            "\/scholar?cites=13887129642099667961",
+            {
+                "2020":4
+            }
+        ],
+        [
+            "Dirac materials are systems in which the dispersion is linear in the vicinity of the Dirac points. As a consequence of this linear dispersion, the Fermi velocity is independent of density and these systems exhibit unusual behavior and possess unique physical properties that are of considerable interest. In this work we study the ground state behavior of 1D Dirac materials in two ways. First, using the Virial theorem, we find agreement with a previous result in regards to the total average ground state energy. Namely, that the total average ground state energy, regardless of dimensionality, is found to be where r s is a dimensionless constant that's a measure of density and is a constant independent of r s. As a consequence, thermodynamic results as well as the characteristic exponents of 1D Fermi systems are density independent. Second, using conventional techniques, ie Tomanaga\u2013Luttinger theory, we find several \u2026",
+            "Consequences of the inherent density dependence in one dimensional Dirac materials",
+            "MP Gochan and KS Bedell",
+            "2018",
+            "XW6M1NEAAAAJ:d1gkVwhDpl0C",
+            2,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/1361-648X\/aae3cb\/meta",
+            "7231693104103465099",
+            "\/scholar?cites=7231693104103465099",
+            {
+                "2020":2
+            }
+        ],
+        [
+            "Using the Landau kinetic equation to study the non-equilibrium behavior of interacting Fermi systems is one of the crowning achievements of Landau's Fermi liquid theory. While thorough study of transport modes has been done for standard three-dimensional Fermi liquids, an equally in-depth analysis for two dimensional Fermi liquids is lacking. In applying the Landau kinetic equation (LKE) to a two-dimensional Fermi liquid, we obtain unconventional behavior of the zero sound mode c 0. As a function of the usual dimensionless parameter s= \u03c9\/qv F, we find two peculiar results: first, for| s|> 1 we see the propagation of an undamped mode for weakly interacting systems. This differs from the three dimensional case where an undamped mode only propagates for repulsive interactions and the mode experiences Landau damping for any arbitrary attractive interaction. Second, we find that regardless of interaction \u2026",
+            "Atypical behavior of collective modes in two-dimensional Fermi liquids",
+            "Matthew P Gochan and Joshuah T Heath and Kevin S Bedell",
+            "2020",
+            "XW6M1NEAAAAJ:UeHWp8X0CEIC",
+            1,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/1361-648X\/ab8aa1\/meta",
+            "9712326796225813481",
+            "\/scholar?cites=9712326796225813481",
+            {
+                "2020":1
+            }
+        ]
     ]
 }

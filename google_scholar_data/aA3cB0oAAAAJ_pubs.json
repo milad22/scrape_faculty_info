@@ -1,11 +1,138 @@
 {
     "columns":[
-
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
     ],
     "index":[
-
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
     ],
     "data":[
-
+        [
+            "Part 2 of\" Project X: Accelerator Reference Design, Physics Opportunities, Broader Impacts\". In this Part, we outline the particle-physics program that can be achieved with Project X, a staged superconducting linac for intensity-frontier particle physics. Topics include neutrino physics, kaon physics, muon physics, electric dipole moments, neutron-antineutron oscillations, new light particles, hadron structure, hadron spectroscopy, and lattice-QCD calculations. Part 1 is available as arXiv: 1306.5022 [physics. acc-ph] and Part 3 is available as arXiv: 1306.5024 [physics. acc-ph].",
+            "Project X: physics opportunities",
+            "Andreas S Kronfeld and Robert S Tschirhart and Usama Al-Binni and Wolfgang Altmannshofer and Charles Ankenbrandt and Kaladi Babu and Sunanda Banerjee and Matthew Bass and Brian Batell and David V Baxter and Zurab Berezhiani and Marc Bergevin and Robert Bernstein and Sudeb Bhattacharya and Mary Bishai and Thomas Blum and S Alex Bogacz and Stephen J Brice and Joachim Brod and Alan Bross and Michael Buchoff and Thomas W Burgess and Marcela Carena and Luis A Castellanos and Subhasis Chattopadhyay and Mu-Chun Chen and Daniel Cherdack and Norman H Christ and Tim Chupp and Vincenzo Cirigliano and Pilar Coloma and Christopher E Coppola and Ramanath Cowsik and J Allen Crabtree and Andr\u00e9 de Gouv\u00eaa and Jean-Pierre Delahaye and Dmitri Denisov and Patrick deNiverville and Ranjan Dharmapalan and Markus Diefenthaler and Alexander Dolgov and Georgi Dvali and Estia Eichten and J\u00fcrgen Engelfried and Phillip D Ferguson and Tony Gabriel and Avraham Gal and Franz Gallmeier and Kenneth S Ganezer and Susan Gardner and Douglas Glenzinski and Stephen Godfrey and Elena S Golubeva and Stefania Gori and Van B Graves and Geoffrey Greene and Cory L Griffard and Ulrich Haisch and Thomas Handler and Brandon Hartfiel and Athanasios Hatzikoutelis and Ayman Hawari and Lawrence Heilbronn and James E Hill and Patrick Huber and David E Jaffe and Xiaodong Jiang and Christian Johnson and Yuri Kamyshkov and Daniel M Kaplan and Boris Kerbikov and Brendan Kiburg and Harold G Kirk and Andreas Klein and Kyle Knoepfel and Boris Kopeliovich and Vladimir Kopeliovich and Joachim Kopp and Wolfgang Korsch and Graham Kribs and Ronald Lipton and Chen-Yu Liu and Wolfgang Lorenzon and Zheng-Tian Lu and Naomi CR Makins and David McKeen and Geoffrey Mills and Michael Mocko and Rabindra Mohapatra and Nikolai V Mokhov and Guenter Muhrer and Pieter Mumm and David Neuffer and Lev Okun and Mark A Palmer and Robert Palmer and Robert W Pattie Jr and David G Phillips II and Kevin Pitts and Maxim Pospelov",
+            "2013",
+            "aA3cB0oAAAAJ:qjMakFHDy7sC",
+            29,
+            "https:\/\/arxiv.org\/abs\/1306.5009",
+            "1262282634570655324",
+            "\/scholar?cites=1262282634570655324",
+            {
+                "2012":1,
+                "2013":4,
+                "2014":7,
+                "2015":10,
+                "2016":5,
+                "2017":1,
+                "2018":1
+            }
+        ],
+        [
+            "We calculate the quasinormal modes of black holes localized on a 3-brane of finite tension embedded in six-dimensional flat spacetime. Using the WKB approximation, we obtain the frequencies of scalar and gravitational perturbations both analytically and numerically for arbitrary brane tension. We thus extend earlier analytical results which were derived for a brane of small tension.",
+            "Quasinormal modes of a black hole localized on a codimension-two brane of finite tension",
+            "A Usama and George Siopsis",
+            "2007",
+            "aA3cB0oAAAAJ:u5HHmVD_uO8C",
+            21,
+            "https:\/\/journals.aps.org\/prd\/abstract\/10.1103\/PhysRevD.76.104031",
+            "14377079625524377084",
+            "\/scholar?cites=14377079625524377084",
+            {
+                "2008":9,
+                "2009":5,
+                "2010":1,
+                "2011":4,
+                "2012":1,
+                "2013":1
+            }
+        ],
+        [
+            "This report, prepared for the Community Planning Study-Snowmass 2013-summarizes the theoretical motivations and the experimental efforts to search for baryon number violation, focussing on nucleon decay and neutron-antineutron oscillations. Present and future nucleon decay search experiments using large underground detectors, as well as planned neutron-antineutron oscillation search experiments with free neutron beams are highlighted.",
+            "Baryon number violation",
+            "KS Babu and E Kearns and U Al-Binni and S Banerjee and DV Baxter and Z Berezhiani and M Bergevin and S Bhattacharya and S Brice and R Brock and TW Burgess and L Castellanos and S Chattopadhyay and MC Chen and E Church and CE Coppola and DF Cowen and R Cowsik and JA Crabtree and H Davoudiasl and R Dermisek and A Dolgov and B Dutta and G Dvali and P Ferguson and P Fileviez Perez and T Gabriel and A Gal and F Gallmeier and KS Ganezer and I Gogoladze and ES Golubeva and VB Graves and G Greene and T Handler and B Hartfiel and A Hawari and L Heilbronn and J Hill and D Jaffe and C Johnson and CK Jung and Y Kamyshkov and B Kerbikov and BZ Kopeliovich and VB Kopeliovich and W Korsch and T Lachenmaier and P Langacker and CY Liu and WJ Marciano and M Mocko and RN Mohapatra and N Mokhov and G Muhrer and P Mumm and P Nath and Y Obayashi and L Okun and JC Pati and RW Pattie Jr and II Phillips and C Quigg and JL Raaf and S Raby and E Ramberg and A Ray and A Roy and A Ruggles and U Sarkar and A Saunders and A Serebrov and Q Shafi and H Shimizu and M Shiozawa and R Shrock and AK Sikdar and WM Snow and A Soha and S Spanier and GC Stavenga and S Striganov and R Svoboda and Z Tang and Z Tavartkiladze and L Townsend and S Tulin and A Vainshtein and R Van Kooten and CEM Wagner and Z Wang and B Wehring and RJ Wilson and M Wise and M Yokoyama and AR Young",
+            "2013",
+            "aA3cB0oAAAAJ:UeHWp8X0CEIC",
+            12,
+            "https:\/\/arxiv.org\/abs\/1311.5285",
+            "3820786072960278575",
+            "\/scholar?cites=3820786072960278575",
+            {
+                "2013":1,
+                "2014":4,
+                "2015":2,
+                "2016":1,
+                "2017":1,
+                "2018":2,
+                "2019":1
+            }
+        ],
+        [
+            "Measurements of the forward and reverse currents in an undoped rf magnetron sputter deposited boron carbide (B5C)\/p-type Si(111) junction have been made in the dark in the temperature range 120\u2013300K at low-bias voltages (0\u20130.3V). A diode-like behaviour of the junction current has been observed in this low-bias region at all temperatures but with a rather large reverse (leakage) current I R, particularly at high temperatures (I R\u22482 \u03bcA at V = \u22120:3V and T = 290 K). The forward \u2018voltage factor\u2019 A (T) was found to decrease with increasing temperature as A (T)\u2248q\/\u03b7k B T, with relatively high values of the \u2018ideality factor\u2019 \u03b7(about 3.5\u20134), probably due to the existence of an interfacial layer. The temperature dependence of the measured junction current (forward and reverse) flowing at low bias voltages and of the forward \u2018current factor\u2019 I 0F can be described \u2026",
+            "Low-field current transport mechanisms in rf magnetron sputter deposited boron carbide (B5C)\/p-type crystalline silicon junctions in the dark",
+            "MM Abdul-Gader and UA Al-Binni and Ahmad A Ahmad and MA Al-Basha and NJ Ianno",
+            "2001",
+            "aA3cB0oAAAAJ:Y0pCki6q_DkC",
+            11,
+            "https:\/\/www.tandfonline.com\/doi\/abs\/10.1080\/00207210110058120",
+            "14291572986107712345",
+            "\/scholar?cites=14291572986107712345",
+            {
+                "2001":1,
+                "2002":2,
+                "2003":1,
+                "2004":1,
+                "2005":1,
+                "2006":1,
+                "2007":1,
+                "2008":2,
+                "2009":1
+            }
+        ],
+        [
+            "Proton conductors loom out of the pool of candidate materials with great potential to boost hydrogen alternatives to fossil-based resources for energy. Acceptor-doped lanthanum orthophosphates are considered for solid oxide fuel cells (SOFCs) for their potential stability and conductivity at high temperature. By exploring the crystal and defect structure of x% Sr\/Ca-doped LaPO4 with different nominal Sr\/Ca concentrations (x = 0\u201310) with neutron powder diffraction (NPD) and X-ray powder diffraction (XRD), we confirm that Sr\/Ca-doped LaPO4 can exist as self-supported structures at high temperatures during solid oxide fuel cell operation. Thermal stability, surface topography, and size distribution are also studied to better understand the proton conductivity for dry and wet compounds obtained at sintering temperatures ranging from 1200 to 1400 \u00b0C using a combination of scanning electron microscopy (SEM), atomic \u2026",
+            "Structure and Dynamics Investigations of Sr\/Ca-Doped LaPO4 Proton Conductors",
+            "Amal al-Wahish and U Al-Binni and L Tetard and Craig A Bridges and Krishna Kharel and O\u0308zge Gu\u0308nayd\u0131n-S\u0327en and A Huq and JL Musfeldt and MP Paranthaman and D Mandrus",
+            "2017",
+            "aA3cB0oAAAAJ:C33y2ycGS3YC",
+            7,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acs.jpcc.7b02254",
+            "14916959773619010051",
+            "\/scholar?cites=14916959773619010051",
+            {
+                "2017":1,
+                "2018":2,
+                "2019":1,
+                "2020":3
+            }
+        ],
+        [
+            "A design for a sample cell system suitable for high temperature Quasi-Elastic Neutron Scattering (QENS) experiments is presented. The apparatus was developed at the Spallation Neutron Source in Oak Ridge National Lab where it is currently in use. The design provides a special sample cell environment under controlled humid or dry gas flow over a wide range of temperature up to 950\u2009\u00b0C. Using such a cell, chemical, dynamical, and physical changes can be studied in situ under various operating conditions. While the cell combined with portable automated gas environment system is especially useful for in situ studies of microscopic dynamics under operational conditions that are similar to those of solid oxide fuel cells, it can additionally be used to study a wide variety of materials, such as high temperature proton conductors. The cell can also be used in many different neutron experiments when a suitable \u2026",
+            "A new apparatus design for high temperature (up to 950\u2009\u00b0C) quasi-elastic neutron scattering in a controlled gaseous environment",
+            "Amal al-Wahish and D. Armitage and U. al-Binni and B. Hill and R. Mills and N. Jalarvo and L. Santodonato and K. W. Herwig and D. Mandrus",
+            "2015",
+            "aA3cB0oAAAAJ:YsMSGLbcyi4C",
+            5,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.4929580",
+            "15274867110106493113",
+            "\/scholar?cites=15274867110106493113",
+            {
+                "2016":3,
+                "2017":1,
+                "2018":1
+            }
+        ]
     ]
 }

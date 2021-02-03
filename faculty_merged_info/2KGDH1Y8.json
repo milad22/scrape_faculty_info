@@ -4,7 +4,8 @@
         "google_scholar_id",
         "titles",
         "abstracts",
-        "interests"
+        "interests",
+        "personal_page_content"
     ],
     "index":[
         0
@@ -14,10 +15,28 @@
             "2KGDH1Y8",
             "ysfTfdkAAAAJ",
             [
-
+                "Intrinsic current\u2212 voltage characteristics of graphene nanoribbon transistors and effect of edge doping",
+                "Elastic Properties of Chemical-Vapor-Deposited Monolayer MoS2, WS2, and Their Bilayer Heterostructures",
+                "Hybrid functional investigations of band gaps and band alignments for AlN, GaN, InN, and InGaN",
+                "Making a field effect transistor on a single graphene nanoribbon by selective doping",
+                "Indium incorporation and emission properties of nonpolar and semipolar InGaN quantum wells",
+                "First-principles theory of nonradiative carrier capture via multiphonon emission",
+                "Strain effects in group-III nitrides: Deformation potentials for AlN, GaN, and InN",
+                "Interplay of polarization fields and Auger recombination in the efficiency droop of nitride light-emitting diodes",
+                "Polarization-Driven Topological Insulator Transition in a  Quantum Well",
+                "Temperature and carrier-density dependence of Auger and radiative recombination in nitride optoelectronic devices"
             ],
             [
-
+                "We demonstrate that the electronic devices built on patterned graphene nanoribbons (GNRs) can be made with atomic-perfect-interface junctions and controlled doping via manipulation of edge terminations. Using first-principles transport calculations, we show that the GNR field effect transistors can achieve high performance levels similar to those made from single-walled carbon nanotubes, with ON\/OFF ratios on the order of 103\u2212104, subthreshold swing of 60 meV per decade, and transconductance of 9.5 \u00d7 103 Sm-1. ",
+                "Elastic properties of materials are an important factor in their integration in applications. Chemical vapor deposited (CVD) monolayer semiconductors are proposed as key components in industrial-scale flexible devices and building blocks of two-dimensional (2D) van der Waals heterostructures. However, their mechanical and elastic properties have not been fully characterized. Here we report high 2D elastic moduli of CVD monolayer MoS2 and WS2 (\u223c170 N\/m), which is very close to the value of exfoliated MoS2 monolayers and almost half the value of the strongest material, graphene. The 2D moduli of their bilayer heterostructures are lower than the sum of 2D modulus of each layer but comparable to the corresponding bilayer homostructure, implying similar interactions between the hetero monolayers as between homo monolayers. These results not only provide deep insight into understanding interlayer \u2026",
+                "Band gaps and band alignments for AlN, GaN, InN, and InGaN alloys are investigated using density functional theory with the with the Heyd\u2013Scuseria\u2013Ernzerhof {HSE06 [J. Heyd, G. E. Scuseria, and M. Ernzerhof, J. Chem. Phys. 134, 8207 (2003)10.1063\/1.3548872; 124, 219906 (2006)]} XC functional. The band gap of InGaN alloys as a function of In content is calculated and a strong bowing at low In content is found, described by bowing parameters 2.29 eV at 6.25% and 1.79 eV at 12.5%, indicating the band gap cannot be described by a single composition-independent bowing parameter. Valence-band maxima (VBM) and conduction-band minima (CBM) are aligned by combining bulk calculations with surface calculations for nonpolar surfaces. The influence of surface termination [(11\u00af00) m-plane or (112\u00af0) a-plane] is thoroughly investigated. We find that for the relaxed surfaces of the binary nitrides the \u2026",
+                "Using first-principles electronic structure calculations, we show a metal-semiconductor transition of a metallic graphene nanoribbon with zigzag edges induced by substitutional doping of nitrogen or boron atoms at the edges. A field effect transistor consisting of a metal-semiconductor-metal junction can then be constructed by selective doping of the ribbon edges. The current-voltage characteristics of such a prototype device is determined by the first-principles quantum transport calculations.",
+                "We report indium incorporation properties on various nonpolar and semipolar free-standing GaN substrates. Electroluminescence characterization and x-ray diffraction (XRD) analysis indicate that the semipolar (202\u00af1\u00af) and (112\u00af2) planes have the highest indium incorporation rate among the studied planes. We also show that both indium composition and polarization-related electric fields impact the emission wavelength of the quantum wells (QWs). The different magnitudes and directions of the polarization-related electric fields for each orientation result in different potential profiles for the various semipolar and nonpolar QWs, leading to different emission wavelengths at a given indium composition.",
+                "We develop a practical first-principles methodology to determine nonradiative carrier capture coefficients at defects in semiconductors. We consider transitions that occur via multiphonon emission. Parameters in the theory, including electron-phonon coupling matrix elements, are computed consistently using state-of-the-art electronic structure techniques based on hybrid density functional theory. These provide a significantly improved description of bulk band structures, as well as defect geometries and wave functions. In order to properly describe carrier capture processes at charged centers, we put forward an approach to treat the effect of long-range Coulomb interactions on scattering states in the framework of supercell calculations. We also discuss the choice of initial conditions for a perturbative treatment of carrier capture. As a benchmark, we apply our theory to several hole-capturing centers in GaN and ZnO \u2026",
+                "A systematic density functional theory study of strain effects on the electronic band structure of the group-III nitrides (AlN, GaN, and InN) is presented. To overcome the deficiencies of the local-density and generalized gradient approximations the Heyd\u2013Scuseria\u2013Ernzerhof (HSE) hybrid functional is used. Cross checks for GaN demonstrate good agreement between HSE and exact-exchange based G0W0 calculations. We observe a pronounced nonlinear dependence of band-energy differences on strain. For realistic strain conditions in the linear regime around the experimental equilibrium volume a consistent and complete set of deformation potentials is derived.",
+                "We use theoretical modeling to investigate the effect of polarization fields and non-radiative Auger recombination on the efficiency-droop and green-gap problems of polar and nonpolar nitride light-emitting diodes. The dependence of radiative and nonradiative recombination rates on electron-hole wave-function overlap is analyzed. Device designs that minimize the polarization fields lead to higher efficiency, not because the internal quantum efficiency is improved at a given carrier density but because they can be operated at a lower carrier density for a given current density.",
+                "Topological insulator (TI) states have been demonstrated in materials with a narrow gap and large spin-orbit interactions (SOI). Here we demonstrate that nanoscale engineering can also give rise to a TI state, even in conventional semiconductors with a sizable gap and small SOI. Based on advanced first-principles calculations combined with an effective low-energy k\u00b7 p Hamiltonian, we show that the intrinsic polarization of materials can be utilized to simultaneously reduce the energy gap and enhance the SOI, driving the system to a TI state. The proposed system consists of ultrathin InN layers embedded into GaN, a layer structure that is experimentally achievable.",
+                "Nitride light-emitting diodes are a promising solution for efficient solid-state lighting, but their performance at high power is affected by the efficiency-droop problem. Previous experimental and theoretical work has identified Auger recombination, a three-particle nonradiative carrier recombination mechanism, as the likely cause of the droop. In this work, we use first-principles calculations to elucidate the dependence of the radiative and Auger recombination rates on temperature, carrier density and quantum-well confinement. Our calculated data for the temperature dependence of the recombination coefficients are in good agreement with experiment and provide further validation on the role of Auger recombination in the efficiency reduction. Polarization fields and phase-space filling negatively impact device efficiency because they increase the operating carrier density at a given current density and increase the \u2026"
             ],
             [
                 [
@@ -25,6 +44,9 @@
                     "materials science",
                     "data-driven materials design"
                 ]
+            ],
+            [
+                ""
             ]
         ]
     ]

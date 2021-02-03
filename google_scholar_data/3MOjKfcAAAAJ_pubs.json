@@ -1,11 +1,243 @@
 {
     "columns":[
-
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
     ],
     "index":[
-
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
     ],
     "data":[
-
+        [
+            "The study of how cell behavior is controlled by the biophysical properties of the extracellular matrix (ECM) is limited in part by the lack of three-dimensional (3D) scaffolds that combine the biofunctionality of native ECM proteins with the tunability of synthetic materials. Here, we introduce a biomaterial platform in which the biophysical properties of collagen I are progressively altered by adding agarose. We find that agarose increases the elasticity of 3D collagen ECMs over two orders of magnitude with modest effect on collagen fiber organization. Surprisingly, increasing the agarose content slows and eventually stops invasion of glioma cells in a 3D spheroid model. Electron microscopy reveals that agarose forms a dense meshwork between the collagen fibers, which we postulate slows invasion by structurally coupling and reinforcing the collagen fibers and introducing steric barriers to motility. This is supported by \u2026",
+            "Probing cellular mechanobiology in three-dimensional culture with collagen\u2013agarose matrices",
+            "Theresa A Ulrich and Amit Jain and Kandice Tanner and Joanna L MacKay and Sanjay Kumar",
+            "2010",
+            "3MOjKfcAAAAJ:u5HHmVD_uO8C",
+            310,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0142961209011685",
+            "4589620696273735425",
+            "\/scholar?cites=4589620696273735425",
+            {
+                "2010":4,
+                "2011":20,
+                "2012":20,
+                "2013":30,
+                "2014":32,
+                "2015":37,
+                "2016":33,
+                "2017":32,
+                "2018":34,
+                "2019":30,
+                "2020":37,
+                "2021":1
+            }
+        ],
+        [
+            "Glandular tissues form ducts (tubes) and acini (spheres) in multicellular organisms. This process is best demonstrated in the organization of the ductal tree of the mammary gland and in 3D models of morphogenesis in culture. Here, we asked a fundamental question: How do single adult epithelial cells generate polarized acini when placed in a surrogate basement membrane 3D gel? Using human breast epithelial cells from either reduction mammoplasty or nonmalignant breast cell lines, we observed a unique cellular movement where single cells undergo multiple rotations and then maintain it cohesively as they divide to assemble into acini. This coherent angular motion (CAMo) was observed in both primary cells and breast cell lines. If CAMo was disrupted, the final geometry was not a sphere. The malignant counterparts of the human breast cell lines in 3D were randomly motile, did not display CAMo, and did \u2026",
+            "Coherent angular motion in the establishment of multicellular architecture of glandular tissues",
+            "Kandice Tanner and Hidetoshi Mori and Rana Mroue and Alexandre Bruni-Cardoso and Mina J Bissell",
+            "2012",
+            "3MOjKfcAAAAJ:2osOgNQ5qMEC",
+            153,
+            "https:\/\/www.pnas.org\/content\/109\/6\/1973.short",
+            "7137714880168627785",
+            "\/scholar?cites=7137714880168627785",
+            {
+                "2012":6,
+                "2013":13,
+                "2014":22,
+                "2015":14,
+                "2016":25,
+                "2017":26,
+                "2018":19,
+                "2019":15,
+                "2020":12,
+                "2021":1
+            }
+        ],
+        [
+            "For decades, the work of cell and developmental biologists has demonstrated the striking ability of the mesenchyme and the stroma to instruct epithelial form and function in the mammary gland [1, 2, 3], but the role of extracellular matrix (ECM) molecules in mammary pattern specification has not been elucidated. Here, we show that stromal collagen I (Col-I) fibers in the mammary fat pad are axially oriented prior to branching morphogenesis. Upon puberty, the branching epithelium orients along these fibers, thereby adopting a similar axial bias. To establish a causal relationship from Col-I fiber to epithelial orientation, we embedded mammary organoids within axially oriented Col-I fiber gels and observed dramatic epithelial co-orientation. Whereas a constitutively active form of Rac1, a molecule implicated in cell motility, prevented a directional epithelial response to Col-I fiber orientation, inhibition of the RhoA\/Rho \u2026",
+            "Patterned collagen fibers orient branching mammary epithelium through distinct signaling modules",
+            "Douglas G Brownfield and Gautham Venugopalan and Alvin Lo and Hidetoshi Mori and Kandice Tanner and Daniel A Fletcher and Mina J Bissell",
+            "2013",
+            "3MOjKfcAAAAJ:roLk4NBRz8UC",
+            110,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0960982213003345",
+            "12660267593337829721",
+            "\/scholar?cites=12660267593337829721",
+            {
+                "2013":5,
+                "2014":16,
+                "2015":19,
+                "2016":11,
+                "2017":12,
+                "2018":11,
+                "2019":14,
+                "2020":20,
+                "2021":1
+            }
+        ],
+        [
+            "The ability of a cell to distribute contractile stresses across the extracellular matrix in a spatially heterogeneous fashion underlies many cellular behaviors, including motility and tissue assembly. Here we investigate the biophysical basis of this phenomenon by using femtosecond laser nanosurgery to measure the viscoelastic recoil and cell-shape contributions of contractile stress fibers (SFs) located in specific compartments of living cells. Upon photodisruption and recoil, myosin light chain kinase-dependent SFs located along the cell periphery display much lower effective elasticities and higher plateau retraction distances than Rho-associated kinase-dependent SFs located in the cell center, with severing of peripheral fibers uniquely triggering a dramatic contraction of the entire cell within minutes of fiber irradiation. Image correlation spectroscopy reveals that when one population of SFs is pharmacologically \u2026",
+            "Dissecting regional variations in stress fiber mechanics in living cells with laser nanosurgery",
+            "Kandice Tanner and Aaron Boudreau and Mina J Bissell and Sanjay Kumar",
+            "2010",
+            "3MOjKfcAAAAJ:u-x6o8ySG0sC",
+            92,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S000634951001101X",
+            "12660015151112168427",
+            "\/scholar?cites=12660015151112168427",
+            {
+                "2011":5,
+                "2012":14,
+                "2013":9,
+                "2014":9,
+                "2015":15,
+                "2016":9,
+                "2017":9,
+                "2018":6,
+                "2019":5,
+                "2020":9,
+                "2021":2
+            }
+        ],
+        [
+            "The mechanisms underlying the spatiotemporal evolution of tumor ecosystems present a challenge in evaluating drug efficacy. In this Perspective, we address the use of three-dimensional in vitro culture models to delineate the dynamic interplay between the tumor and the host microenvironment in an effort to attain realistic platforms for assessing pharmaceutical efficacy in patients.",
+            "Beyond 3D culture models of cancer",
+            "Kandice Tanner and Michael M Gottesman",
+            "2015",
+            "3MOjKfcAAAAJ:KlAtU1dfN6UC",
+            71,
+            "https:\/\/stm.sciencemag.org\/content\/7\/283\/283ps9.short",
+            "793399607919682785",
+            "\/scholar?cites=793399607919682785",
+            {
+                "2015":1,
+                "2016":12,
+                "2017":24,
+                "2018":8,
+                "2019":16,
+                "2020":9,
+                "2021":1
+            }
+        ],
+        [
+            "Biomimetic extracellular matrix (ECM) topographies driven by the magnetic\u2010field\u2010directed self\u2010assembly of ECM protein\u2010coated magnetic beads are fabricated. This novel bottom\u2010up method allows us to program isotropic, anisotropic, and diverse hybrid ECM patterns without changing other physicochemical properties of the scaffold material. It is demonstrated that this 3D anisotropic matrix is able to guide the dendritic protrusion of cells.",
+            "Independent control of topography for 3D patterning of the ECM microenvironment",
+            "Jiyun Kim and Jack Rory Staunton and Kandice Tanner",
+            "2016",
+            "3MOjKfcAAAAJ:aqlVkmm33-oC",
+            54,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1002\/adma.201503950",
+            "2041197076219181775",
+            "\/scholar?cites=2041197076219181775",
+            {
+                "2016":6,
+                "2017":11,
+                "2018":11,
+                "2019":14,
+                "2020":8,
+                "2021":4
+            }
+        ],
+        [
+            "The protein 14-3-3\u03c3 (stratifin) is frequently described as a tumor suppressor silenced in about 80% of breast tumors. Intriguingly, we show that 14-3-3\u03c3 expression, which in normal breast is localized to the myoepithelial cells, tracks with malignant phenotype in two models of basal-like breast cancer progression, and in patients, it is associated with basal-like subtype and poor clinical outcome. We characterized a mechanism by which 14-3-3\u03c3 guides breast tumor invasion by integrating cytoskeletal dynamics: it stabilizes a complex of solubilized actin and intermediate filaments to maintain a pool of \u201cbioavailable\u201d complexes for polarized assembly during migration. We show that formation of the actin\/cytokeratin\/14-3-3\u03c3 complex and cellular migration are regulated by PKC\u03b6-dependent phosphorylation, a finding that could form the basis for intervention in aggressive breast carcinomas expressing 14-3-3\u03c3. Our data \u2026",
+            "14-3-3\u03c3 stabilizes a complex of soluble actin and intermediate filament to enable breast tumor invasion",
+            "Aaron Boudreau and Kandice Tanner and Daojing Wang and Felipe C Geyer and Jorge S Reis-Filho and Mina J Bissell",
+            "2013",
+            "3MOjKfcAAAAJ:hqOjcs7Dif8C",
+            50,
+            "https:\/\/www.pnas.org\/content\/110\/41\/E3937.short",
+            "6002753718534001282",
+            "\/scholar?cites=6002753718534001282",
+            {
+                "2014":3,
+                "2015":11,
+                "2016":5,
+                "2017":10,
+                "2018":6,
+                "2019":8,
+                "2020":5,
+                "2021":1
+            }
+        ],
+        [
+            "We have determined the complex sequence of events from the point of injury until reepithelialization in axolotl skin explant model and shown that cell layers move coherently driven by cell swelling after injury. We quantified three-dimensional cell migration using correlation spectroscopy and resolved complex dynamics such as the formation of dislocation points and concerted cell motion. We quantified relative behavior such as velocities and swelling of cells as a function of cell layer during healing. We propose that increased cell volume (\u223c37% at the basal layer) is the driving impetus for the start of cell migration after injury where the enlarged cells produce a point of dislocation that foreshadows and dictates the initial direction of the migrating cells. Globally, the cells follow a concerted vortex motion that is maintained after wound closure. Our results suggest that cell volume changes the migration of the cells after \u2026",
+            "Coherent movement of cell layers during wound healing by image correlation spectroscopy",
+            "Kandice Tanner and Donald R Ferris and Luca Lanzano and Berhan Mandefro and William W Mantulin and David M Gardiner and Elizabeth L Rugg and Enrico Gratton",
+            "2009",
+            "3MOjKfcAAAAJ:9yKSN-GCB0IC",
+            35,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0006349509012788",
+            "16390933865380097573",
+            "\/scholar?cites=16390933865380097573",
+            {
+                "2010":4,
+                "2011":1,
+                "2012":3,
+                "2013":6,
+                "2014":2,
+                "2015":3,
+                "2016":5,
+                "2017":2,
+                "2018":6,
+                "2019":3
+            }
+        ],
+        [
+            "Variation in matrix elasticity has been shown to determine cell fate in both differentiation and development of malignant phenotype. The tissue microenvironment provides complex biochemical and biophysical signals in part due to the architectural heterogeneities found in extracellular matrices (ECMs). Three dimensional cell cultures can partially mimic in vivo tissue architecture, but to truly understand the role of viscoelasticity on cell fate, we must first determine in vivo tissue mechanical properties to improve in vitro models. We employed Active Microrheology by Optical Trapping In Vivo (AMOTIV), using in situ calibration to measure in vivo zebrafish tissue mechanics. Previously used trap calibration methods overestimate complex moduli by \u223c2\u201320 fold compared to AMOTIV. Applying differential microscale stresses and strains showed that hyaluronic acid (HA) gels display semi-flexible polymer behavior, while \u2026",
+            "In vivo tissue has non-linear rheological behavior distinct from 3D biomimetic hydrogels, as determined by AMOTIV microscopy",
+            "Benjamin H Blehm and Alexus Devine and Jack R Staunton and Kandice Tanner",
+            "2016",
+            "3MOjKfcAAAAJ:qxL8FJ1GzNcC",
+            29,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0142961215010078",
+            "4459011094325793890",
+            "\/scholar?cites=4459011094325793890",
+            {
+                "2016":1,
+                "2017":6,
+                "2018":4,
+                "2019":7,
+                "2020":9,
+                "2021":1
+            }
+        ],
+        [
+            "Therapeutics targeting the BRAF kinase in cutaneous melanoma have significantly improved patient survival. However, durable responses in the face of metastatic disease are rarely realized where the problem of brain metastases is generally growing in magnitude. Tumor and stromal cells dynamically remodel the extracellular matrix (ECM) during the establishment of a metastatic lesion. We reasoned that ECM composition strongly determines drug efficacy on cell motility, adhesion and viability rendering one drug more potent and another less so. To test this hypothesis, we constructed platforms recreating the ECM composition due to the stroma and tumor cells, mimicking the brain's perivascular niche and hyaluronic acid (HA) rich parenchyma. Using human melanoma cell lines, we observed that cell adhesion was minimally affected by BRAF inhibition but ablated by ERK inhibition. Cell motility was impaired for \u2026",
+            "Deconstructing the role of the ECM microenvironment on drug efficacy targeting MAPK signaling in a pre-clinical platform for cutaneous melanoma",
+            "Benjamin H Blehm and Nancy Jiang and Yorihisa Kotobuki and Kandice Tanner",
+            "2015",
+            "3MOjKfcAAAAJ:kNdYIx-mwKoC",
+            25,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0142961215003191",
+            "11122595155899254198",
+            "\/scholar?cites=11122595155899254198",
+            {
+                "2015":2,
+                "2016":10,
+                "2017":4,
+                "2018":6,
+                "2019":2,
+                "2020":1
+            }
+        ]
     ]
 }

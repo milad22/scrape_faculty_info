@@ -1,11 +1,256 @@
 {
     "columns":[
-
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
     ],
     "index":[
-
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
     ],
     "data":[
-
+        [
+            "The development and application of continuous flow chemistry methods for synthesis is a rapidly growing area of research. In particular, natural products provide demanding challenges to this developing technology. This review highlights successes in the area with an emphasis on new opportunities and technological advances.",
+            "Flow chemistry syntheses of natural products",
+            "Julio C Pastre and Duncan L Browne and Steven V Ley",
+            "2013",
+            "P8L53DQAAAAJ:ULOm3_A8WrAC",
+            510,
+            "https:\/\/pubs.rsc.org\/az\/content\/articlehtml\/2013\/cs\/c3cs60246j",
+            "12038952239629191098",
+            "\/scholar?cites=12038952239629191098",
+            {
+                "2014":42,
+                "2015":96,
+                "2016":92,
+                "2017":82,
+                "2018":71,
+                "2019":53,
+                "2020":68,
+                "2021":5
+            }
+        ],
+        [
+            "Mechanochemistry is becoming more widespread as a technique for molecular synthesis with new mechanochemical reactions being discovered at increasing frequency. Whilst mechanochemical methods are solvent free and can therefore lead to improved sustainability metrics, it is more likely that the significant differences between reaction outcomes, reaction selectivities and reduced reaction times will make it a technique of interest to synthetic chemists. Herein, we provide an overview of mechanochemistry reaction examples, with \u2018direct\u2019 comparators to solvent based reactions, which collectively seemingly show that solid state grinding can lead to reduced reaction times, different reaction outcomes in product selectivity and in some instances different reaction products, including products not accessible in solution.",
+            "Mechanochemistry as an emerging tool for molecular synthesis: what can it offer?",
+            "Joseph L Howard and Qun Cao and Duncan L Browne",
+            "2018",
+            "P8L53DQAAAAJ:lPDSu1ZU3VAC",
+            228,
+            "https:\/\/pubs.rsc.org\/--\/content\/articlehtml\/2018\/sc\/c7sc05371a",
+            "18093673087670176351",
+            "\/scholar?cites=18093673087670176351",
+            {
+                "2017":2,
+                "2018":23,
+                "2019":72,
+                "2020":109,
+                "2021":19
+            }
+        ],
+        [
+            "Since their early discovery by Earl and Mackney in 1935, sydnones have received steady interest over the last century. 1 The pioneering reviews by Ollis and Stewart discuss, in detail, aspects of the reactions, physical properties and structure of sydnones. 2 However, since those reports, sydnones have gained significant interest through the discovery of an array of useful biological properties (eg, as antibacterial, 3 antineoplastic 4 and anti-inflammatory 5 agents), which has driven the development of new functionalisation methods. Similarly, sydnones act as useful and novel precursors for pyrazoles (through cycloaddition with alkynes), which has also served to drive research into their functionalisation and cycloaddition chemistry. This report aims to provide an overview of the recently developed chemistry of sydnones, with particular emphasis on useful reactions for the synthesis of biologically interesting molecules.",
+            "Recent developments in the chemistry of sydnones",
+            "Duncan L Browne and Joseph PA Harrity",
+            "2010",
+            "P8L53DQAAAAJ:u-x6o8ySG0sC",
+            164,
+            "https:\/\/www.researchgate.net\/file.PostFileLoader.html?id=54dc9dd7d3df3e33758b4612&assetKey=AS:273628946468864@1442249632290",
+            "16997467320032615029",
+            "\/scholar?cites=16997467320032615029",
+            {
+                "2009":1,
+                "2010":4,
+                "2011":16,
+                "2012":7,
+                "2013":16,
+                "2014":15,
+                "2015":10,
+                "2016":17,
+                "2017":17,
+                "2018":23,
+                "2019":19,
+                "2020":17
+            }
+        ],
+        [
+            "A general method for the continuous processing of suspensions and particulates is reported. A commercially available agitating cell reactor which uses a transverse mixing motion to maintain solids in suspension has been successfully applied to a salt-forming reaction. The flow device delivered 208 g of N-iodomorpholinium hydroiodide salt over a 9-h period (equating to 3.88 kg\/week) under optimized conditions. The reactor is suitable for the medium-scale (5 kg) processing of solid-forming reactions and appears to offer the potential for a variety of more complex applications.",
+            "Continuous flow processing of slurries: evaluation of an agitated cell reactor",
+            "Duncan L Browne and Benjamin J Deadman and Robert Ashe and Ian R Baxendale and Steven V Ley",
+            "2011",
+            "P8L53DQAAAAJ:UeHWp8X0CEIC",
+            133,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/op2000223",
+            "543076829794169537",
+            "\/scholar?cites=543076829794169537",
+            {
+                "2011":3,
+                "2012":23,
+                "2013":9,
+                "2014":8,
+                "2015":17,
+                "2016":16,
+                "2017":18,
+                "2018":13,
+                "2019":9,
+                "2020":13,
+                "2021":2
+            }
+        ],
+        [
+            "A new enabling technology for the pumping of organometallic reagents such as n-butyllithium, Grignard reagents, and DIBAL-H is reported, which utilises a newly developed, chemically resistant, peristaltic pumping system. Several representative examples of its use in common transformations using these reagents, including metal\u2013halogen exchange, addition, addition\u2013elimination, conjugate addition, and partial reduction, are reported along with examples of telescoping of the anionic reaction products. This platform allows for truly continuous pumping of these highly reactive substances (and examples are demonstrated over periods of several hours) to generate multigram quantities of products. This work culminates in an approach to the telescoped synthesis of (E\/Z)-tamoxifen using continuous-flow organometallic reagent-mediated transformations.",
+            "Continuous Flow-Processing of Organometallic Reagents Using an Advanced Peristaltic Pumping System and the Telescoped Flow Synthesis of (E\/Z)-Tamoxifen",
+            "Philip RD Murray and Duncan L Browne and Julio C Pastre and Chris Butters and Duncan Guthrie and Steven V Ley",
+            "2013",
+            "P8L53DQAAAAJ:3fE2CSJIrl8C",
+            119,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/op4001548",
+            "16709670291580935895",
+            "\/scholar?cites=16709670291580935895",
+            {
+                "2013":2,
+                "2014":13,
+                "2015":15,
+                "2016":20,
+                "2017":20,
+                "2018":16,
+                "2019":14,
+                "2020":17,
+                "2021":1
+            }
+        ],
+        [
+            "A recently developed miniature electrospray ionisation mass spectrometer has been coupled to a preparative flow chemistry system in order to monitor reactive intermediates and competing reaction paths, screen starting materials, and optimise reaction conditions. Although ideally suited to the application, mass spectrometers have rarely been used in this way, as traditional instruments are too bulky to be conveniently coupled to flow chemistry platforms.A six\u2010port switching valve fitted with a 5\u2009\u03bcL loop was used to periodically sample the flow stream leaving the reactor coil. Mass spectra corresponding to the sample loop contents were observed approximately 10\u2009s after activating the valve. High fluidic pressure was maintained throughout to ensure that gaseous products remained in solution. As an illustrative example of how this apparatus can be employed, the generation of benzyne \u2026",
+            "Continuous flow reaction monitoring using an on\u2010line miniature mass spectrometer",
+            "Duncan L Browne and Steven Wright and Benjamin J Deadman and Samantha Dunnage and Ian R Baxendale and Richard M Turner and Steven V Ley",
+            "2012",
+            "P8L53DQAAAAJ:ufrVoPGSRksC",
+            117,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1002\/rcm.6312",
+            "2117952192275696237",
+            "\/scholar?cites=2117952192275696237",
+            {
+                "2013":9,
+                "2014":12,
+                "2015":22,
+                "2016":17,
+                "2017":16,
+                "2018":14,
+                "2019":15,
+                "2020":12
+            }
+        ],
+        [
+            "A new machine for conducting continuous flow processes at low temperatures on a laboratory scale is reported. The use of this cryogenic flow reactor has been demonstrated by the preparation of a variety of (hetero)aromatic boronic acids and esters via lithium halogen exchange chemistry. Furthermore, scale-up of the reaction conditions not only demonstrates the application of this device for the preparation of useful building blocks but also combines the ability to process n-butyllithium directly through pump heads attached to the unit.",
+            "A new enabling technology for convenient laboratory scale continuous flow processing at low temperatures",
+            "Duncan L Browne and Marcus Baumann and Bashir H Harji and Ian R Baxendale and Steven V Ley",
+            "2011",
+            "P8L53DQAAAAJ:2osOgNQ5qMEC",
+            115,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/ol2010006",
+            "17319709879857640072",
+            "\/scholar?cites=17319709879857640072",
+            {
+                "2011":3,
+                "2012":23,
+                "2013":15,
+                "2014":18,
+                "2015":13,
+                "2016":14,
+                "2017":5,
+                "2018":3,
+                "2019":13,
+                "2020":5,
+                "2021":1
+            }
+        ],
+        [
+            "From dipole to diazole! A direct and regioselective route to functionalized pyrazole boronic esters is developed that employs the cycloaddition of alkynylboronates with sydnones. Functionalization of these products by Suzuki coupling and N\u2010deprotection processes highlight the potential synthetic utility of these species.",
+            "A sydnone cycloaddition route to pyrazole boronic esters",
+            "Duncan L Browne and Matthew D Helm and Andrew Plant and Joseph PA Harrity",
+            "2007",
+            "P8L53DQAAAAJ:u5HHmVD_uO8C",
+            104,
+            "https:\/\/onlinelibrary.wiley.com\/doi\/abs\/10.1002\/anie.200703767",
+            "17323256495413930803",
+            "\/scholar?cites=17323256495413930803",
+            {
+                "2008":2,
+                "2009":12,
+                "2010":12,
+                "2011":16,
+                "2012":6,
+                "2013":7,
+                "2014":8,
+                "2015":8,
+                "2016":4,
+                "2017":7,
+                "2018":11,
+                "2019":6,
+                "2020":4
+            }
+        ],
+        [
+            "The cycloaddition of alkynylboronates and sydnones provides a convenient and highly regioselective method for the synthesis of a broad range of di-, tri-, and tetrasubstituted pyrazole boronic esters. The origins of an observed regiochemical divergence in the reactions of terminal alkynylboronates with their more substituted analogues have been studied by DFT methods.",
+            "Investigation of the scope and regiochemistry of alkynylboronate cycloadditions with sydnones",
+            "Duncan L Browne and Jerome F Vivat and Andrew Plant and Enrique Gomez-Bengoa and Joseph PA Harrity",
+            "2009",
+            "P8L53DQAAAAJ:d1gkVwhDpl0C",
+            101,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/ja902460n",
+            "5520595733745785589",
+            "\/scholar?cites=5520595733745785589",
+            {
+                "2009":3,
+                "2010":10,
+                "2011":16,
+                "2012":10,
+                "2013":10,
+                "2014":9,
+                "2015":13,
+                "2016":5,
+                "2017":8,
+                "2018":8,
+                "2019":4,
+                "2020":3
+            }
+        ],
+        [
+            "Using a simple and accessible Teflon AF-2400 based tube-in-tube reactor, a series of pyrroles were synthesised in flow using the Paal\u2013Knorr reaction of 1,4-diketones with gaseous ammonia. An inline flow titration technique allowed measurement of the ammonia concentration and its relationship to residence time and temperature.",
+            "Flow synthesis using gaseous ammonia in a Teflon AF-2400 tube-in-tube reactor: Paal\u2013Knorr pyrrole formation and gas concentration measurement by inline flow titration",
+            "Philippa B Cranwell and Matthew O'Brien and Duncan L Browne and Peter Koos and Anastasios Polyzos and Miguel Pe\u00f1a-L\u00f3pez and Steven V Ley",
+            "2012",
+            "P8L53DQAAAAJ:YsMSGLbcyi4C",
+            99,
+            "https:\/\/pubs.rsc.org\/no\/content\/articlehtml\/2012\/ob\/c2ob25407g",
+            "6083032988324911278",
+            "\/scholar?cites=6083032988324911278",
+            {
+                "2012":1,
+                "2013":17,
+                "2014":12,
+                "2015":19,
+                "2016":6,
+                "2017":9,
+                "2018":13,
+                "2019":15,
+                "2020":6
+            }
+        ]
     ]
 }

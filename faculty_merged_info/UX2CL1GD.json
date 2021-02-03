@@ -4,7 +4,8 @@
         "google_scholar_id",
         "titles",
         "abstracts",
-        "interests"
+        "interests",
+        "personal_page_content"
     ],
     "index":[
         0
@@ -25,6 +26,9 @@
                 [
                     "Physics"
                 ]
+            ],
+            [
+                "Roger Mong Assistant Professor 214 Allen Hall 624-9024 rmong@pitt.edu Topological phases In the last three decades, there have been extraordinary developments in our understanding of topological phases, which challenge traditional condensed matter frameworks in many ways. In contrast to Landau\u2019s symmetry classification of matter, where phases are described by symmetry-breaking order parameters, topological phases are distinguished by nonlocal topological invariants. These phases are fundamentally quantum mechanical with no classical analogue; they are characterized by exotic emergent excitations of the bulk, which are often accompanied by gapless edge degrees of freedoms. Understanding these phases may lead to more energy efficient materials, circuits for spin manipulations, and perhaps fault-tolerant quantum computing. Simulation of quantum systems A crucial aspect of numerical modeling is the simulation of quantum systems on a classical computer. For example, such simulator would take in a Hamiltonian as input and produce a phase diagram, thermodynamics properties, or response functions as outputs. For reasonable systems in one-dimensions, the DMRG (density matrix renormalization group) algorithm computes the ground state wavefunction, and subsequently various physical observables. The success of DMRG lies in the ability to efficiently write the quantum ground state wavefunction in terms of classical information, using an ansatz known as a \"tensor network state\". I am interested extending these ideas and tools to higher dimensions. This will lead to a deeper understanding of phases in higher dimensions, as well tools to simulate new material properties before they are created in the lab. Awards NSF CAREER Award (2019) Selected Publications Selected Publications: Roger Mong and Joel E. Moore, \u201cMagnetic and topological order united in a crystal \u201d, News and View, Nature 576, 390 (2019). Christopher D. White, Michael Zaletel, Roger Mong, Gil Refael, \u201cQuantum dynamics of thermalizing systems\u201d, Phys. Rev. B 97, 035127 (2018). [arXiv:1707.01506] Scott D. Geraedts, Michael P. Zaletel, Roger Mong, Max A. Metlitski, Ashvin Vishwanath, and Olexei I. Motrunich, \u201cThe half-filled Landau level: The case for Dirac composite fermions\u201d, Science 352, 197\u2014201 (Apr 2016). [arXiv:1508.04140] \u201cUniversal topological quantum computation from a superconductor\/Abelian quantum Hall heterostructure,\u201d Roger Mong, David J. Clarke, Jason Alicea, Netanel H. Lindner, Paul Fendley, Chetan Nayak, Yuval Oreg, Ady Stern, Erez Berg, Kirill Shtengel, and Matthew P. A. Fisher, Phys. Rev. X 4, 011036 (2014). [arXiv:1307.4403] \u201cQuantum Transport and Two-Parameter Scaling at the Surface of a Weak Topological Insulator,\u201d Roger Mong, Jens H. Bardarson, and Joel E. Moore, Phys. Rev. Lett. 108, 076804 (2012). [arXiv:1109.3201] \u201cAntiferromagnetic topological insulators,\u201d Roger Mong, Andrew M. Essin, and Joel E. Moore, Phys. Rev. B 81, 245209 (2010). [arXiv:1004.1403]  Zhi Li 624-9024"
             ]
         ]
     ]

@@ -1,11 +1,262 @@
 {
     "columns":[
-
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
     ],
     "index":[
-
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
     ],
     "data":[
-
+        [
+            "Nonmuscle myosin IIA (NMM-IIA) is involved in the formation of focal adhesions and neurite retraction. However, the role of NMM-IIA in these functions remains largely unknown. Using RNA interference as a tool to decrease NMM-IIA expression, we have found that NMM-IIA is the major myosin involved in traction force generation and retrograde F-actin flow in mouse embryonic fibroblast cells. Quantitative analyses revealed that \u223c60% of traction force on fibronectin-coated surfaces is contributed by NMM-IIA and \u223c30% by NMM-IIB. The retrograde F-actin flow decreased dramatically in NMM-IIA-depleted cells, but seemed unaffected by NMM-IIB deletion. In addition, we found that depletion of NMM-IIA caused cells to spread at a higher rate and to a greater area on fibronectin substrates during the early spreading period, whereas deletion of NMM-IIB appeared to have no effect on spreading. The distribution of NMM \u2026",
+            "Nonmuscle myosin IIA-dependent force inhibits cell spreading and drives F-actin flow",
+            "Yunfei Cai and Nicolas Biais and Gregory Giannone and Monica Tanase and Guoying Jiang and Jake M Hofman and Chris H Wiggins and Pascal Silberzan and Axel Buguin and Benoit Ladoux and Michael P Sheetz",
+            "2006",
+            "sKz89k0AAAAJ:ULOm3_A8WrAC",
+            331,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0006349506721026",
+            "9687166478042681742",
+            "\/scholar?cites=9687166478042681742",
+            {
+                "2006":1,
+                "2007":23,
+                "2008":24,
+                "2009":33,
+                "2010":33,
+                "2011":28,
+                "2012":28,
+                "2013":28,
+                "2014":23,
+                "2015":20,
+                "2016":19,
+                "2017":16,
+                "2018":18,
+                "2019":18,
+                "2020":15,
+                "2021":1
+            }
+        ],
+        [
+            "Focal adhesions are mechanosensitive elements that enable mechanical communication between cells and the extracellular matrix. Here, we demonstrate a major mechanosensitive pathway in which \u03b1-actinin triggers adhesion maturation by linking integrins to actin in nascent adhesions. We show that depletion of the focal adhesion protein \u03b1-actinin enhances force generation in initial adhesions on fibronectin, but impairs mechanotransduction in a subsequent step, preventing adhesion maturation. Expression of an \u03b1-actinin fragment containing the integrin binding domain, however, dramatically reduces force generation in depleted cells. This behavior can be explained by a competition between talin (which mediates initial adhesion and force generation) and \u03b1-actinin for integrin binding. Indeed, we show in an in vitro assay that talin and \u03b1-actinin compete for binding to \u03b23 integrins, but cooperate in binding to \u03b21 \u2026",
+            "Integrin-dependent force transmission to the extracellular matrix by \u03b1-actinin triggers adhesion maturation",
+            "Pere Roca-Cusachs and Armando Del Rio and Eileen Puklin-Faucher and Nils C Gauthier and Nicolas Biais and Michael P Sheetz",
+            "2013",
+            "sKz89k0AAAAJ:4DMP91E08xMC",
+            225,
+            "https:\/\/www.pnas.org\/content\/110\/15\/E1361.short",
+            "10846050307272321288",
+            "\/scholar?cites=10846050307272321288",
+            {
+                "2013":8,
+                "2014":35,
+                "2015":34,
+                "2016":40,
+                "2017":33,
+                "2018":25,
+                "2019":21,
+                "2020":27,
+                "2021":1
+            }
+        ],
+        [
+            "Maintaining a physical connection across cytoplasm is crucial for many biological processes such as matrix force generation, cell motility, cell shape and tissue development. However, in the absence of stress fibers, the coherent structure that transmits force across the cytoplasm is not understood. We find that nonmuscle myosin-II (NMII) contraction of cytoplasmic actin filaments establishes a coherent cytoskeletal network irrespective of the nature of adhesive contacts. When NMII activity is inhibited during cell spreading by Rho kinase inhibition, blebbistatin, caldesmon overexpression or NMIIA RNAi, the symmetric traction forces are lost and cell spreading persists, causing cytoplasm fragmentation by membrane tension that results in \u2018C\u2019 or dendritic shapes. Moreover, local inactivation of NMII by chromophore-assisted laser inactivation causes local loss of coherence. Actin filament polymerization is also required for \u2026",
+            "Cytoskeletal coherence requires myosin-IIA contractility",
+            "Yunfei Cai and Olivier Rossier and Nils C Gauthier and Nicolas Biais and Marc-Antoine Fardin and Xian Zhang and Lawrence W Miller and Benoit Ladoux and Virginia W Cornish and Michael P Sheetz",
+            "2010",
+            "sKz89k0AAAAJ:4TOpqqG69KYC",
+            187,
+            "https:\/\/jcs.biologists.org\/content\/123\/3\/413.short",
+            "10134986209207119196",
+            "\/scholar?cites=10134986209207119196",
+            {
+                "2010":14,
+                "2011":24,
+                "2012":23,
+                "2013":26,
+                "2014":17,
+                "2015":20,
+                "2016":15,
+                "2017":17,
+                "2018":6,
+                "2019":11,
+                "2020":13
+            }
+        ],
+        [
+            "Mechanotransduction - how cells sense physical forces and translate them into biochemical and biological responses - is a vibrant and rapidly-progressing field, and is important for a broad range of biological phenomena. This forum explores the role of mechanotransduction in a variety of cellular activities and highlights intriguing questions that deserve further attention.",
+            "Mechanotransduction: use the force (s)",
+            "Ewa K Paluch and Celeste M Nelson and Nicolas Biais and Ben Fabry and Jens Moeller and Beth L Pruitt and Carina Wollnik and Galina Kudryasheva and Florian Rehfeldt and Walter Federle",
+            "2015",
+            "sKz89k0AAAAJ:UeHWp8X0CEIC",
+            177,
+            "https:\/\/bmcbiol.biomedcentral.com\/articles\/10.1186\/s12915-015-0150-4",
+            "2291421923161299549",
+            "\/scholar?cites=2291421923161299549",
+            {
+                "2015":1,
+                "2016":23,
+                "2017":31,
+                "2018":46,
+                "2019":34,
+                "2020":37,
+                "2021":3
+            }
+        ],
+        [
+            "The immunological synapse formed between a cytotoxic T lymphocyte (CTL) and an infected or transformed target cell is a physically active structure capable of exerting mechanical force. Here, we investigated whether synaptic forces promote the destruction of target cells. CTLs kill by secreting toxic proteases and the pore forming protein perforin into the synapse. Biophysical experiments revealed a striking correlation between the magnitude of force exertion across the synapse and the speed of perforin pore formation on the target cell, implying that force potentiates cytotoxicity by enhancing perforin activity. Consistent with this interpretation, we found that increasing target cell tension augmented pore formation by perforin and killing by CTLs. Our data also indicate that CTLs coordinate perforin release and force exertion in space and time. These results reveal an unappreciated physical dimension to lymphocyte \u2026",
+            "Cytotoxic T cells use mechanical force to potentiate target cell killing",
+            "Roshni Basu and Benjamin M Whitlock and Julien Husson and Audrey Le Floc\u2019h and Weiyang Jin and Alon Oyler-Yaniv and Farokh Dotiwala and Gregory Giannone and Claire Hivroz and Nicolas Biais and Judy Lieberman and Lance C Kam and Morgan Huse",
+            "2016",
+            "sKz89k0AAAAJ:IjCSPb-OGe4C",
+            171,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0092867416000611",
+            "2391925251327837772",
+            "\/scholar?cites=2391925251327837772",
+            {
+                "2016":9,
+                "2017":22,
+                "2018":39,
+                "2019":47,
+                "2020":49,
+                "2021":3
+            }
+        ],
+        [
+            "The causative agent of gonorrhea, Neisseria gonorrhoeae, bears retractable filamentous appendages called type IV pili (Tfp). Tfp are used by many pathogenic and nonpathogenic bacteria to carry out a number of vital functions, including DNA uptake, twitching motility (crawling over surfaces), and attachment to host cells. In N. gonorrhoeae, Tfp binding to epithelial cells and the mechanical forces associated with this binding stimulate signaling cascades and gene expression that enhance infection. Retraction of a single Tfp filament generates forces of 50\u2013100 piconewtons, but nothing is known, thus far, on the retraction force ability of multiple Tfp filaments, even though each bacterium expresses multiple Tfp and multiple bacteria interact during infection. We designed a micropillar assay system to measure Tfp retraction forces. This system consists of an array of force sensors made of elastic pillars that allow quantification of retraction forces from adherent N. gonorrhoeae bacteria. Electron microscopy and fluorescence microscopy were used in combination with this novel assay to assess the structures of Tfp. We show that Tfp can form bundles, which contain up to 8\u201310 Tfp filaments, that act as coordinated retractable units with forces up to 10 times greater than single filament retraction forces. Furthermore, single filament retraction forces are transient, whereas bundled filaments produce retraction forces that can be sustained. Alterations of noncovalent protein\u2013protein interactions between Tfp can inhibit both bundle formation and high-amplitude retraction forces. Retraction forces build over time through the recruitment and bundling of multiple Tfp \u2026",
+            "Cooperative retraction of bundled type IV pili enables nanonewton force generation",
+            "Nicolas Biais and Beno\u00eet Ladoux and Dustin Higashi and Magdalene So and Michael Sheetz",
+            "2008",
+            "sKz89k0AAAAJ:LkGwnXOMwfcC",
+            147,
+            "https:\/\/journals.plos.org\/plosbiology\/article?id=10.1371\/journal.pbio.0060087",
+            "5160148089386422018",
+            "\/scholar?cites=5160148089386422018",
+            {
+                "2009":13,
+                "2010":10,
+                "2011":11,
+                "2012":11,
+                "2013":14,
+                "2014":9,
+                "2015":16,
+                "2016":16,
+                "2017":10,
+                "2018":11,
+                "2019":11,
+                "2020":14,
+                "2021":1
+            }
+        ],
+        [
+            "We discuss herein the theory as well as some design considerations of magnetic tweezers. This method of generating force on magnetic particles bound to biological entities is shown to have a number of advantages over other techniques: forces are exerted in noncontact mode, they can be large in magnitude (order of 10 nanonewtons), and adjustable in direction, static or oscillatory. One apparatus built in our laboratory is described in detail, along with examples of experimental applications and results.",
+            "Magnetic tweezers in cell biology",
+            "Monica Tanase and Nicolas Biais and Michael Sheetz",
+            "2007",
+            "sKz89k0AAAAJ:hqOjcs7Dif8C",
+            132,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0091679X07830202",
+            "7312429655239006379",
+            "\/scholar?cites=7312429655239006379",
+            {
+                "2007":2,
+                "2008":5,
+                "2009":11,
+                "2010":5,
+                "2011":8,
+                "2012":10,
+                "2013":8,
+                "2014":8,
+                "2015":13,
+                "2016":11,
+                "2017":13,
+                "2018":13,
+                "2019":14,
+                "2020":10,
+                "2021":1
+            }
+        ],
+        [
+            "It is critical for bacteria to recognize surface contact and initiate physiological changes required for surface-associated lifestyles. Ubiquitous microbial appendages called pili are involved in sensing surfaces and facilitating downstream behaviors, but the mechanism by which pili mediate surface sensing has been unclear. We visualized Caulobacter crescentus pili undergoing dynamic cycles of extension and retraction. Within seconds of surface contact, these cycles ceased, which coincided with synthesis of the adhesive holdfast required for attachment. Physically blocking pili imposed resistance to pilus retraction, which was sufficient to stimulate holdfast synthesis without surface contact. Thus, to sense surfaces, bacteria use the resistance on retracting, surface-bound pili that occurs upon surface contact.",
+            "Obstruction of pilus retraction stimulates bacterial surface sensing",
+            "Courtney K Ellison and Jingbo Kan and Rebecca S Dillard and David T Kysela and Adrien Ducret and Cecile Berne and Cheri M Hampton and Zunlong Ke and Elizabeth R Wright and Nicolas Biais and Ankur B Dalia and Yves V Brun",
+            "2017",
+            "sKz89k0AAAAJ:dhFuZR0502QC",
+            122,
+            "https:\/\/science.sciencemag.org\/content\/358\/6362\/535.abstract",
+            "13749340612827384179",
+            "\/scholar?cites=13749340612827384179",
+            {
+                "2017":1,
+                "2018":24,
+                "2019":55,
+                "2020":38,
+                "2021":4
+            }
+        ],
+        [
+            "Extracellular matrices in vivo are heterogeneous structures containing gaps that cells bridge with an actomyosin network. To understand the basis of bridging, we plated cells on surfaces patterned with fibronectin (FN)\u2010coated stripes separated by non\u2010adhesive regions. Bridges developed large tensions where concave cell edges were anchored to FN by adhesion sites. Actomyosin complexes assembled near those sites (both actin and myosin filaments) and moved towards the centre of the non\u2010adhesive regions in a treadmilling network. Inhibition of myosin\u2010II (MII) or Rho\u2010kinase collapsed bridges, whereas extension continued over adhesive areas. Inhibition of actin polymerization (latrunculin\u2010A, jasplakinolide) also collapsed the actomyosin network. We suggest that MII has distinct functions at different bridge regions: (1) at the concave edges of bridges, MIIA force stimulates actin filament assembly at adhesions \u2026",
+            "Force generated by actomyosin contraction builds bridges between adhesive contacts",
+            "Olivier M Rossier and Nils Gauthier and Nicolas Biais and Wynn Vonnegut and Marc\u2010Antoine Fardin and Philip Avigan and Evan R Heller and Anurag Mathur and Saba Ghassemi and Michael S Koeckert and James C Hone and Michael P Sheetz",
+            "2010",
+            "sKz89k0AAAAJ:0EnyYjriUFMC",
+            122,
+            "https:\/\/www.embopress.org\/doi\/abs\/10.1038\/emboj.2010.2",
+            "7651000775878016054",
+            "\/scholar?cites=7651000775878016054",
+            {
+                "2010":5,
+                "2011":15,
+                "2012":18,
+                "2013":10,
+                "2014":19,
+                "2015":13,
+                "2016":10,
+                "2017":10,
+                "2018":4,
+                "2019":7,
+                "2020":8
+            }
+        ],
+        [
+            "Through evolution, nature has produced exquisite nanometric structures, with features unrealized in the most advanced man-made devices. Type IV pili (Tfp) represent such a structure: 6-nm-wide retractable filamentous appendages found in many bacteria, including human pathogens. Whereas the structure of Neisseria gonorrhoeae Tfp has been defined by conventional structural techniques, it remains difficult to explain the wide spectrum of functions associated with Tfp. Here we uncover a previously undescribed force-induced quaternary structure of the N. gonorrhoeae Tfp. By using a combination of optical and magnetic tweezers, atomic force microscopy, and molecular combing to apply forces on purified Tfp, we demonstrate that Tfp subjected to approximately 100 pN of force will transition into a new conformation. The new structure is roughly 3 times longer and 40% narrower than the original structure. Upon \u2026",
+            "Force-dependent polymorphism in type IV pili reveals hidden epitopes",
+            "Nicolas Biais and Dustin L Higashi and Jasna Bruji\u0107 and Magdalene So and Michael P Sheetz",
+            "2010",
+            "sKz89k0AAAAJ:zYLM7Y9cAGgC",
+            112,
+            "https:\/\/www.pnas.org\/content\/107\/25\/11358.short",
+            "2730329196222304119",
+            "\/scholar?cites=2730329196222304119",
+            {
+                "2011":6,
+                "2012":5,
+                "2013":17,
+                "2014":12,
+                "2015":8,
+                "2016":12,
+                "2017":12,
+                "2018":11,
+                "2019":17,
+                "2020":11,
+                "2021":1
+            }
+        ]
     ]
 }

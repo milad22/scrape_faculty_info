@@ -4,13 +4,15 @@ import pandas as pd
 
 data_df = pd.read_csv('indexed_data.csv')
 #print data frame head()
-print(data_df.head())
-print(data_df.columns)
+#print(data_df.head())
+#print(data_df.columns)
 webpage_content_df = pd.read_json('faculty_research_interest.json', orient='split')
 #remove duplicates
 webpage_content_df.drop_duplicates()
 #print columns
 print(webpage_content_df.columns)
+# print(webpage_content_df['name'])
+# print(webpage_content_df[webpage_content_df['name'] == 'Raymond Ashoori']['content'].iloc[0])
 
 for index, row in data_df.iterrows():
     # if index > 4: break
@@ -19,7 +21,7 @@ for index, row in data_df.iterrows():
     Affiliation = row['Affiliation']
     scholar_id = row['google_scholar_id']
     titles = []
-    webpage_content = ''
+    webpage_contents = []
     abstracts = []
     interests = []
     if scholar_id != 'None':
@@ -46,7 +48,9 @@ for index, row in data_df.iterrows():
             print("Couldn't load interests for *{}* from *{}*".format(Name,Affiliation))
 
     try:
-        webpage_content = webpage_content_df.loc[webpage_content_df['name'] == Name]['content']
+        webpage_contents = [webpage_content_df[webpage_content_df['name'] == Name]['content'].iloc[0]]
+        #print("content is")
+        #print(webpage_contents)
     except:
         print("Coulnd't pull the content for {}".format(Name, Affiliation))
     
@@ -55,10 +59,12 @@ for index, row in data_df.iterrows():
         "google_scholar_id" : scholar_id,
         "titles" : titles,
         "abstracts" : abstracts,
-        "interests" : interests
+        "interests" : interests,
+        "personal_page_content" : webpage_contents 
     }
     #save the json file
     file_name = id
     file_path = './faculty_merged_info/' + file_name + '.json'
     df = pd.DataFrame([dict])
     df.to_json(file_path, orient= 'split', indent=4)
+#J2VOJMZQ

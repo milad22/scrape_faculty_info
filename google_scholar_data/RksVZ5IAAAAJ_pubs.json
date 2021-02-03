@@ -1,11 +1,49 @@
 {
     "columns":[
-
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
     ],
     "index":[
-
+        0
     ],
     "data":[
-
+        [
+            "We observe large spontaneous emission rate modification of individual InAs quantum dots (QDs) in a 2D photonic crystal with a modified, high-Q single-defect cavity. Compared to QDs in a bulk semiconductor, QDs that are resonant with the cavity show an emission rate increase of up to a factor of 8. In contrast, off-resonant QDs indicate up to fivefold rate quenching as the local density of optical states is diminished in the photonic crystal. In both cases, we demonstrate photon antibunching, showing that the structure represents an on-demand single photon source with a pulse duration from 210 ps to 8 ns. We explain the suppression of QD emission rate using finite difference time domain simulations and find good agreement with experiment.",
+            "Controlling the spontaneous emission rate of single quantum dots in a two-dimensional photonic crystal",
+            "Dirk Englund and David Fattal and Edo Waks and Glenn Solomon and Bingyang Zhang and Toshihiro Nakaoka and Yasuhiko Arakawa and Yoshihisa Yamamoto and Jelena Vu\u010dkovi\u0107",
+            "2005",
+            "RksVZ5IAAAAJ:Fu2w8maKXqMC",
+            1064,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.95.013904",
+            "14634903805633351390",
+            "\/scholar?cites=14634903805633351390",
+            {
+                "2005":12,
+                "2006":73,
+                "2007":80,
+                "2008":70,
+                "2009":91,
+                "2010":78,
+                "2011":68,
+                "2012":61,
+                "2013":69,
+                "2014":85,
+                "2015":63,
+                "2016":72,
+                "2017":68,
+                "2018":65,
+                "2019":58,
+                "2020":44,
+                "2021":3
+            }
+        ]
     ]
 }

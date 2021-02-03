@@ -1,11 +1,224 @@
 {
     "columns":[
-
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
     ],
     "index":[
-
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
     ],
     "data":[
-
+        [
+            "Wireless power transfer (WPT) is a promising new solution to provide convenient and perpetual energy supplies to wireless networks. In practice, WPT is implementable by various technologies such as inductive coupling, magnetic resonate coupling, and electromagnetic (EM) radiation, for short-\/mid-\/long-range applications, respectively. In this paper, we consider the EM or radio signal enabled WPT in particular. Since radio signals can carry energy as well as information at the same time, a unified study on simultaneous wireless information and power transfer (SWIPT) is pursued. Specifically, this paper studies a multiple-input multiple-output (MIMO) wireless broadcast system consisting of three nodes, where one receiver harvests energy and another receiver decodes information separately from the signals sent by a common transmitter, and all the transmitter and receivers may be equipped with multiple \u2026",
+            "MIMO Broadcasting for Simultaneous Wireless Information and Power Transfer",
+            "Rui Zhang and Chin Keong Ho",
+            "2013",
+            "yoJqPIkAAAAJ:Fu2w8maKXqMC",
+            2355,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6489506\/",
+            "14132177015632146612",
+            "\/scholar?cites=14132177015632146612",
+            {
+                "2012":9,
+                "2013":51,
+                "2014":165,
+                "2015":293,
+                "2016":393,
+                "2017":440,
+                "2018":388,
+                "2019":322,
+                "2020":269,
+                "2021":11
+            }
+        ],
+        [
+            "Massive multiple-input multiple-output (MIMO) wireless communications refers to the idea equipping cellular base stations (BSs) with a very large number of antennas, and has been shown to potentially allow for orders of magnitude improvement in spectral and energy efficiency using relatively simple (linear) processing. In this paper, we present a comprehensive overview of state-of-the-art research on the topic, which has recently attracted considerable attention. We begin with an information theoretic analysis to illustrate the conjectured advantages of massive MIMO, and then we address implementation issues related to channel estimation, detection and precoding schemes. We particularly focus on the potential impact of pilot contamination caused by the use of non-orthogonal pilot sequences by users in adjacent cells. We also analyze the energy efficiency achieved by massive MIMO systems, and demonstrate \u2026",
+            "An Overview of Massive MIMO: Benefits and Challenges",
+            "Lu Lu and G Li and A Swindlehurst and Alexei Ashikhmin and Rui Zhang",
+            "2014",
+            "yoJqPIkAAAAJ:Ak0FvsSvgGUC",
+            1988,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6798744\/",
+            "17667411895128839587",
+            "\/scholar?cites=17667411895128839587",
+            {
+                "2014":14,
+                "2015":176,
+                "2016":270,
+                "2017":379,
+                "2018":400,
+                "2019":397,
+                "2020":323,
+                "2021":17
+            }
+        ],
+        [
+            "Wireless communication systems that include unmanned aerial vehicles promise to provide cost-effective wireless connectivity for devices without infrastructure coverage. Compared to terrestrial communications or those based on high-altitude platforms, on-demand wireless systems with low-altitude UAVs are in general faster to deploy, more flexibly reconfigured, and likely to have better communication channels due to the presence of short-range line-of-sight links. However, the utilization of highly mobile and energy-constrained UAVs for wireless communications also introduces many new challenges. In this article, we provide an overview of UAV-aided wireless communications, by introducing the basic networking architecture and main channel characteristics, highlighting the key design considerations as well as the new opportunities to be exploited.",
+            "Wireless communications with unmanned aerial vehicles: opportunities and challenges",
+            "Yong Zeng and Rui Zhang and Teng Joon Lim",
+            "2016",
+            "yoJqPIkAAAAJ:QyXJ3EUuO1IC",
+            1808,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7470933\/",
+            "1733815205244824111",
+            "\/scholar?cites=1733815205244824111",
+            {
+                "2016":21,
+                "2017":127,
+                "2018":426,
+                "2019":616,
+                "2020":587,
+                "2021":21
+            }
+        ],
+        [
+            "Simultaneous information and power transfer over the wireless channels potentially offers great convenience to mobile users. Yet practical receiver designs impose technical constraints on its hardware realization, as practical circuits for harvesting energy from radio signals are not yet able to decode the carried information directly. To make theoretical progress, we propose a general receiver operation, namely, dynamic power splitting (DPS), which splits the received signal with adjustable power ratio for energy harvesting and information decoding, separately. Three special cases of DPS, namely, time switching (TS), static power splitting (SPS) and on-off power splitting (OPS) are investigated. The TS and SPS schemes can be treated as special cases of OPS. Moreover, we propose two types of practical receiver architectures, namely, separated versus integrated information and energy receivers. The integrated \u2026",
+            "Wireless Information and Power Transfer: Architecture Design and Rate-Energy Tradeoff",
+            "Xun Zhou and Rui Zhang and Chin Keong Ho",
+            "2013",
+            "yoJqPIkAAAAJ:86PQX7AUzd4C",
+            1687,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6623062\/",
+            "9767793398965027549",
+            "\/scholar?cites=9767793398965027549",
+            {
+                "2013":25,
+                "2014":108,
+                "2015":209,
+                "2016":261,
+                "2017":312,
+                "2018":305,
+                "2019":249,
+                "2020":195,
+                "2021":12
+            }
+        ],
+        [
+            "This paper studies the newly emerging wireless powered communication network in which one hybrid access point (H-AP) with constant power supply coordinates the wireless energy\/information transmissions to\/from a set of distributed users that do not have other energy sources. A \"harvest-then-transmit\" protocol is proposed where all users first harvest the wireless energy broadcast by the H-AP in the downlink (DL) and then send their independent information to the H-AP in the uplink (UL) by time-division-multiple-access (TDMA). First, we study the sum-throughput maximization of all users by jointly optimizing the time allocation for the DL wireless power transfer versus the users' UL information transmissions given a total time constraint based on the users' DL and UL channels as well as their average harvested energy values. By applying convex optimization techniques, we obtain the closed-form expressions \u2026",
+            "Throughput Maximization for Wireless Powered Communication Networks",
+            "Hyunsgsik Ju and Rui Zhang",
+            "2014",
+            "yoJqPIkAAAAJ:9c2xU6iGI7YC",
+            1132,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/6678102\/",
+            "616627448582896862",
+            "\/scholar?cites=616627448582896862",
+            {
+                "2014":39,
+                "2015":111,
+                "2016":156,
+                "2017":228,
+                "2018":216,
+                "2019":208,
+                "2020":150,
+                "2021":10
+            }
+        ],
+        [
+            "In cognitive radio (CR) networks, there are scenarios where the secondary (lower priority) users intend to communicate with each other by opportunistically utilizing the transmit spectrum originally allocated to the existing primary (higher priority) users. For such a scenario, a secondary user usually has to tradeoff between two conflicting goals at the same time: one is to maximize its own transmit throughput; and the other is to minimize the amount of interference it produces at each primary receiver. In this paper, we study this fundamental tradeoff from an information-theoretic perspective by characterizing the secondary user's channel capacity under both its own transmit-power constraint as well as a set of interference-power constraints each imposed at one of the primary receivers. In particular, this paper exploits multi-antennas at the secondary transmitter to effectively balance between spatial multiplexing for the \u2026",
+            "Exploiting multi-antennas for opportunistic spectrum sharing in cognitive radio networks",
+            "Rui Zhang and Ying-Chang Liang",
+            "2008",
+            "yoJqPIkAAAAJ:d1gkVwhDpl0C",
+            915,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/4453898\/",
+            "10860326405744515669",
+            "\/scholar?cites=10860326405744515669",
+            {
+                "2008":23,
+                "2009":45,
+                "2010":71,
+                "2011":94,
+                "2012":107,
+                "2013":126,
+                "2014":113,
+                "2015":91,
+                "2016":75,
+                "2017":66,
+                "2018":42,
+                "2019":24,
+                "2020":27,
+                "2021":1
+            }
+        ],
+        [
+            "Cognitive radio is widely expected to be the next Big Bang in wireless communications. Spectrum sensing, that is, detecting the presence of the primary users in a licensed spectrum, is a fundamental problem for cognitive radio. As a result, spectrum sensing has reborn as a very active research area in recent years despite its long history. In this paper, spectrum sensing techniques from the optimal likelihood ratio test to energy detection, matched filtering detection, cyclostationary detection, eigenvalue-based sensing, joint space-time sensing, and robust sensing methods are reviewed. Cooperative spectrum sensing with multiple receivers is also discussed. Special attention is paid to sensing methods that need little prior information on the source signal and the propagation channel. Practical challenges such as noise power uncertainty are discussed and possible solutions are provided. Theoretical analysis \u2026",
+            "A review on spectrum sensing for cognitive radio: challenges and solutions",
+            "Yonghong Zeng and Ying-Chang Liang and Anh Tuan Hoang and Rui Zhang",
+            "2010",
+            "yoJqPIkAAAAJ:W7OEmFMy1HYC",
+            840,
+            "https:\/\/link.springer.com\/content\/pdf\/10.1155\/2010\/381465.pdf",
+            "5794698263913740958",
+            "\/scholar?cites=5794698263913740958",
+            {
+                "2010":29,
+                "2011":98,
+                "2012":118,
+                "2013":105,
+                "2014":110,
+                "2015":79,
+                "2016":86,
+                "2017":67,
+                "2018":65,
+                "2019":43,
+                "2020":25,
+                "2021":3
+            }
+        ],
+        [
+            "Wireless communication with unmanned aerial vehicles (UAVs) is a promising technology for future communication systems. In this paper, assuming that the UAV flies horizontally with a fixed altitude, we study energy-efficient UAV communication with a ground terminal via optimizing the UAV's trajectory, a new design paradigm that jointly considers both the communication throughput and the UAV's energy consumption. To this end, we first derive a theoretical model on the propulsion energy consumption of fixed-wing UAVs as a function of the UAV's flying speed, direction, and acceleration. Based on the derived model and by ignoring the radiation and signal processing energy consumption, the energy efficiency of UAV communication is defined as the total information bits communicated normalized by the UAV propulsion energy consumed for a finite time horizon. For the case of unconstrained trajectory \u2026",
+            "Energy-efficient UAV communication with trajectory optimization",
+            "Yong Zeng and Rui Zhang",
+            "2017",
+            "yoJqPIkAAAAJ:uVUOdF_882EC",
+            818,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7888557\/",
+            "18201865388839055870",
+            "\/scholar?cites=18201865388839055870",
+            {
+                "2017":28,
+                "2018":174,
+                "2019":285,
+                "2020":314,
+                "2021":14
+            }
+        ],
+        [
+            "The performance of wireless communication is fundamentally constrained by the limited battery life of wireless devices, the operations of which are frequently disrupted due to the need of manual battery replacement\/recharging. The recent advance in RF-enabled wireless energy transfer (WET) technology provides an attractive solution named wireless powered communication (WPC), where the wireless devices are powered by dedicated wireless power transmitters to provide continuous and stable microwave energy over the air. As a key enabling technology for truly perpetual communications, WPC opens up the potential to build a network with larger throughput, higher robustness, and increased flexibility compared to its battery-powered counterpart. However, the combination of wireless energy and information transmissions also raises many new research problems and implementation issues that need to be \u2026",
+            "Wireless powered communication: opportunities and challenges",
+            "Suzhi Bi and Chin Keong Ho and Rui Zhang",
+            "2015",
+            "yoJqPIkAAAAJ:AHdEip9mkN0C",
+            775,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/7081084\/",
+            "14431147035496301885",
+            "\/scholar?cites=14431147035496301885",
+            {
+                "2014":2,
+                "2015":38,
+                "2016":98,
+                "2017":159,
+                "2018":185,
+                "2019":153,
+                "2020":126,
+                "2021":8
+            }
+        ]
     ]
 }

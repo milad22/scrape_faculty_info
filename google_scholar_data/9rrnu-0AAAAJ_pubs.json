@@ -1,11 +1,77 @@
 {
     "columns":[
-
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
     ],
     "index":[
-
+        0,
+        1
     ],
     "data":[
-
+        [
+            "Quantum mechanics\u2014the theory describing the fundamental workings of nature\u2014is famously counterintuitive: it predicts that a particle can be in two places at the same time, and that two remote particles can be inextricably and instantaneously linked. These predictions have been the topic of intense metaphysical debate ever since the theory\u2019s inception early last century. However, supreme predictive power combined with direct experimental observation of some of these unusual phenomena leave little doubt as to its fundamental correctness. In fact, without quantum mechanics we could not explain the workings of a laser, nor indeed how a fridge magnet operates. Over the last several decades quantum information science has emerged to seek answers to the question: can we gain some advantage by storing, transmitting and processing information encoded in systems that exhibit these unique quantum properties \u2026",
+            "Quantum computing",
+            "Thaddeus D Ladd and Fedor Jelezko and Raymond Laflamme and Yasunobu Nakamura and Christopher Monroe and Jeremy L O'Brien",
+            "2010",
+            "9rrnu-0AAAAJ:u-x6o8ySG0sC",
+            2988,
+            "http:\/\/scholar.google.com\/scholar?cluster=13655330619714543845&hl=en&oi=scholarr",
+            "4723221170006141394",
+            "\/scholar?cites=4723221170006141394",
+            {
+                "2010":79,
+                "2011":184,
+                "2012":211,
+                "2013":291,
+                "2014":287,
+                "2015":301,
+                "2016":333,
+                "2017":310,
+                "2018":311,
+                "2019":325,
+                "2020":322,
+                "2021":21
+            }
+        ],
+        [
+            "Single trapped ions represent elementary quantum systems that are well isolated from the environment. They can be brought nearly to rest by laser cooling, and both their internal electronic states and external motion can be coupled to and manipulated by light fields. This makes them ideally suited for quantum-optical and quantum-dynamical studies under well-controlled conditions. Theoretical and experimental work on these topics is reviewed in the paper, with a focus on ions trapped in radio-frequency (Paul) traps.",
+            "Quantum dynamics of single trapped ions",
+            "Dietrich Leibfried and Rainer Blatt and Christopher Monroe and David Wineland",
+            "2003",
+            "9rrnu-0AAAAJ:p2g8aNsByqUC",
+            2501,
+            "https:\/\/journals.aps.org\/rmp\/abstract\/10.1103\/RevModPhys.75.281",
+            "6983758035783635013",
+            "\/scholar?cites=6983758035783635013",
+            {
+                "2003":7,
+                "2004":55,
+                "2005":72,
+                "2006":85,
+                "2007":107,
+                "2008":125,
+                "2009":111,
+                "2010":126,
+                "2011":150,
+                "2012":165,
+                "2013":180,
+                "2014":158,
+                "2015":184,
+                "2016":195,
+                "2017":163,
+                "2018":187,
+                "2019":173,
+                "2020":224,
+                "2021":26
+            }
+        ]
     ]
 }

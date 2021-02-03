@@ -1,11 +1,64 @@
 {
     "columns":[
-
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
     ],
     "index":[
-
+        0,
+        1,
+        2
     ],
     "data":[
-
+        [
+            "X-ray photoabsorption from intense short pulses by a molecule triggers complicated electron and subsequently ion dynamics, leading to photoelectron spectra, which are difficult to interpret. Illuminating fullerenes offers a way to separate out the electron dynamics since the cage structure confines spatially the origin of photo-and Auger electrons. Together with the sequential nature of the photoprocesses at intensities available at x-ray free-electron lasers, this allows for a remarkably detailed interpretation of the photoelectron spectra, as we will demonstrate. The general features derived can serve as a paradigm for less well-defined situations in other large molecules or clusters.",
+            "Prevailing features of x-ray-induced molecular electron spectra revealed with fullerenes",
+            "Abraham Camacho Garibay and Ulf Saalmann and Jan M Rost",
+            "2014",
+            "Sr4kn4sAAAAJ:u5HHmVD_uO8C",
+            4,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.113.083001",
+            "17959966901461004407",
+            "\/scholar?cites=17959966901461004407",
+            {
+                "2015":4
+            }
+        ],
+        [
+            "Electrons released from clusters through strong x-ray pulses show broad kinetic-energy spectra, extending from the atomic excess energy down to the threshold, where usually a strong peak appears. These low-energy electrons are normally attributed to evaporation from the nano-plasma formed in the highly-charged clusters. Here, it is shown that also directly emitted photo-electrons generate a pronounced spectral feature close to threshold. Furthermore, we give an analytical approximation for the direct photo-electron spectrum.",
+            "Slow electrons from clusters in strong x-ray pulses",
+            "Abraham Camacho Garibay and Ulf Saalmann and Jan M Rost",
+            "2015",
+            "Sr4kn4sAAAAJ:u-x6o8ySG0sC",
+            2,
+            "https:\/\/iopscience.iop.org\/article\/10.1088\/0953-4075\/48\/17\/174003\/meta",
+            "7372608914953399218",
+            "\/scholar?cites=7372608914953399218",
+            {
+                "2016":1,
+                "2017":1
+            }
+        ],
+        [
+            "Rescattering by electrons on classical trajectories is central to understand photoelectron and high-harmonic emission from isolated atoms or molecules in intense laser pulses. By controlling the cluster size and the quiver amplitude of electrons, we demonstrate how rescattering influences the energy distribution of photoelectrons emitted from noble gas nanoclusters. Our experiments reveal a universal dependence of photoelectron energy distributions on the cluster size when scaled by the field driven electron excursion, establishing a unified rescattering picture for extended systems with the known atomic dynamics as the limit of zero extension. The result is supported by molecular dynamics calculations and rationalized with a one-dimensional classical model.",
+            "Universal high-energy photoelectron emission from nanoclusters beyond the atomic limit",
+            "Zhou Wang and Abraham Camacho Garibay and Hyunwook Park and Ulf Saalmann and Pierre Agostini and Jan M Rost and Louis F DiMauro",
+            "2020",
+            "Sr4kn4sAAAAJ:L8Ckcad2t8MC",
+            1,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.124.173201",
+            "10741064059154537669",
+            "\/scholar?cites=10741064059154537669",
+            {
+                "2020":1
+            }
+        ]
     ]
 }

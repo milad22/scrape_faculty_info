@@ -4,7 +4,8 @@
         "google_scholar_id",
         "titles",
         "abstracts",
-        "interests"
+        "interests",
+        "personal_page_content"
     ],
     "index":[
         0
@@ -14,15 +15,30 @@
             "336UYNW6",
             "wHCtHCgAAAAJ",
             [
-
+                "Robust camera pose and scene structure analysis for service robotics",
+                "Mobile robot position estimation using the Kalman filter",
+                "Kalman filter based tracking in an video surveillance system",
+                "GPU optimized computation of stencil based algorithms",
+                "A fuzzy logic based method for edge detection",
+                "Sensorless speed and direct torque control of interior permanent magnet synchronous machine based on extended Kalman filter",
+                "Trajectory tracking control of a two-link robot manipulator using variable structure system theory"
             ],
             [
-
+                "Successful path planning and object manipulation in service robotics applications rely both on a good estimation of the robot\u2019s position and orientation (pose) in the environment, as well as on a reliable understanding of the visualized scene. In this paper a robust real-time camera pose and a scene structure estimation system is proposed. First, the pose of the camera is estimated through the analysis of the so-called tracks. The tracks include key features from the imaged scene and geometric constraints which are used to solve the pose estimation problem. Second, based on the calculated pose of the camera, i.e. robot, the scene is analyzed via a robust depth segmentation and object classification approach. In order to reliably segment the object\u2019s depth, a feedback control technique at an image processing level has been used with the purpose of improving the robustness of the robotic vision system with respect \u2026",
+                "The Kalman filters have been widely used for mobile robot navigation and system integration. So that it may operate autonomously, a mobile robot must know where it is. Accurate localization is a key prerequisite for successful navigation in large-scale environments, particularly when global models are used, such as maps, drawings, topological descriptions, and CAD models. The objective of this paper is to implement the Kalman filter (KF) and the extended Kalman Filter (EKF) for determining the position of a mobile robot. Based on the results of the study, from the figures can be seen that despite of the errors present in measurements, the filters can perform quite well in estimating, the robot's true position.",
+                "In this paper we have developed a Matlab\/Simulink based model for monitoring a contact in a video surveillance sequence. For the segmentation process and correct identification of a contact in a surveillance video, we have used the Horn-Schunk optical flow algorithm. The position and the behavior of the correctly detected contact were monitored with the help of the traditional Kalman filter. After that we have compared the results obtained from the optical flow method with the ones obtained from the Kalman filter, and we show the correct functionality of the Kalman filter based tracking. The tests were performed using video data taken with the help of a fix camera. The tested algorithm has shown promising results.",
+                "The paper describes an optimized GPU based approach for stencil based algorithms. The simulations have been performed for a two dimensional steady state heat conduction problem, which has been solved through the red black point successive over relaxation method. Two kernels have been developed and their performance has been greatly improved through coalesced memory accesses and special shared memory approaches. The approach described in the paper does not only represent a step forward for the steady state heat conduction problem but also for any other algorithm which performs the numerical solution of partial differential equations or which is stencil based. The paper not only describes the various code versions but also the process which has lead to these improvements. Also the optimized GPU code version has been compared with the corresponding CPU version. The testing results \u2026",
+                "In this paper we present a method for detecting edges in grayscale images. The method is based on the use of a fuzzy classifier. The difference between our method and other similar methods is the use of a morphological operation to thin the obtained edges. Our entire algorithm was implemented in the development\/simulation environment called Matlab. The experiments have shown promising results, we have obtained the desired thickness of the edges.",
+                "The application of vector control techniques in AC drives demands accurate position and speed feedback information for the current control and servo-control loops. The paper describes a digital sensorless speed control system for interior permanent magnet synchronous machines (IPMSM). A Kalman filter is used to estimate the mechanical state of the motor. The observer was developed using a nonlinear model of the synchronous motor based on a d-q rotating reference frame attached to the rotor. The stator flux and electromagnetic torque are controlled by nonlinear hysteresis controllers; their outputs are used to generate the control signals for the inverter, based on a switching table. The angular speed controller is linear, of integral + proportional integral (I + PI) type. The paper studies the interaction between the observer and the closed loop control system. The simulation shows that the dynamic behaviour of \u2026",
+                "The control of robots, mobile robots and manipulator arms has fascinated control engineers for several decades. Robots are complex mechanical systems with highly nonlinear dynamics. Hence high-performance operation requires nonlinear control designs to fully exploit a robot\u2019s capabilities. After describing the dynamic model for robot, in this paper, we discuss sliding mode control design alternative for the classic trajectory tracking problem, in which the robot is asked to follow a prescribed trajectory. Finally, we will illustrated the control method on a computer simulated example of a two-link robot manipulator."
             ],
             [
                 [
 
                 ]
+            ],
+            [
+                ""
             ]
         ]
     ]

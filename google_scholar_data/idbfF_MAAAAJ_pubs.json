@@ -1,11 +1,43 @@
 {
     "columns":[
-
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
     ],
     "index":[
-
+        0
     ],
     "data":[
-
+        [
+            "Earth\u2019s solid inner core grows through solidification of material from the fluid outer core onto its surface at rates of about 1 mm per year 1, freezing in core properties over time and generating an age\u2013depth relation for the inner core. A hemispherical structure of the inner core is well-documented: an isotropic eastern hemisphere with fast seismic velocities contrasts with a slower, anisotropic western hemisphere 2, 3, 4. Independently, the inner core is reported to super-rotate at rates of up to 1 per year 5, 6, 7. Considering the slow growth, steady rotation rates of this magnitude would erase\u2019frozen-in\u2019regional variation and cannot coexist with hemispherical structure. Here, we exploit the age\u2013depth relation, using the largest available PKIKP\u2013PKiKP seismic travel time data set, to confirm hemispherical structure in the uppermost inner core, and to constrain the locations of the hemisphere boundaries. We find consistent \u2026",
+            "Reconciling the hemispherical structure of Earth\u2019s inner core with its super-rotation",
+            "Lauren Waszek and Jessica Irving and Arwen Deuss",
+            "2011",
+            "idbfF_MAAAAJ:u5HHmVD_uO8C",
+            70,
+            "https:\/\/www.nature.com\/articles\/ngeo1083",
+            "1296665889310154909",
+            "\/scholar?cites=1296665889310154909",
+            {
+                "2010":1,
+                "2011":6,
+                "2012":6,
+                "2013":7,
+                "2014":7,
+                "2015":13,
+                "2016":5,
+                "2017":7,
+                "2018":7,
+                "2019":7,
+                "2020":4
+            }
+        ]
     ]
 }

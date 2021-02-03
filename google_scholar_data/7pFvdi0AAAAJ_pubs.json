@@ -1,11 +1,225 @@
 {
     "columns":[
-
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
     ],
     "index":[
-
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
     ],
     "data":[
-
+        [
+            "We demonstrate the growth of thin films of molybdenum ditelluride and molybdenum diselenide on sapphire substrates by molecular beam epitaxy. In situ structural and chemical analyses reveal stoichiometric layered film growth with atomically smooth surface morphologies. Film growth along the (001) direction is confirmed by X-ray diffraction, and the crystalline nature of growth in the 2H phase is evident from Raman spectroscopy. Transmission electron microscopy is used to confirm the layered film structure and hexagonal arrangement of surface atoms. Temperature-dependent electrical measurements show an insulating behavior that agrees well with a two-dimensional variable-range hopping model, suggesting that transport in these films is dominated by localized charge-carrier states.",
+            "Structural and Electrical Properties of MoTe2 and MoSe2 Grown by Molecular Beam Epitaxy",
+            "Anupam Roy and Hema CP Movva and Biswarup Satpati and Kyounghwan Kim and Rik Dey and Amritesh Rai and Tanmoy Pramanik and Samaresh Guchhait and Emanuel Tutuc and Sanjay K Banerjee",
+            "2016",
+            "7pFvdi0AAAAJ:L8Ckcad2t8MC",
+            130,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acsami.6b00961",
+            "12208062987184597008",
+            "\/scholar?cites=12208062987184597008",
+            {
+                "2016":5,
+                "2017":31,
+                "2018":23,
+                "2019":31,
+                "2020":37,
+                "2021":2
+            }
+        ],
+        [
+            "To reduce Schottky-barrier-induced contact and access resistance, and the impact of charged impurity and phonon scattering on mobility in devices based on 2D transition metal dichalcogenides (TMDs), considerable effort has been put into exploring various doping techniques and dielectric engineering using high-\u03ba oxides, respectively. The goal of this work is to demonstrate a high-\u03ba dielectric that serves as an effective n-type charge transfer dopant on monolayer (ML) molybdenum disulfide (MoS2). Utilizing amorphous titanium suboxide (ATO) as the \u201chigh-\u03ba dopant\u201d, we achieved a contact resistance of \u223c180 \u03a9\u00b7\u03bcm that is the lowest reported value for ML MoS2. An ON current as high as 240 \u03bcA\/\u03bcm and field effect mobility as high as 83 cm2\/V-s were realized using this doping technique. Moreover, intrinsic mobility as high as 102 cm2\/V-s at 300 K and 501 cm2\/V-s at 77 K were achieved after ATO encapsulation \u2026",
+            "Air stable doping and intrinsic mobility enhancement in monolayer molybdenum disulfide by amorphous titanium suboxide encapsulation",
+            "Amritesh Rai and Amithraj Valsaraj and Hema CP Movva and Anupam Roy and Rudresh Ghosh and Sushant Sonde and Sangwoo Kang and Jiwon Chang and Tanuj Trivedi and Rik Dey and Samaresh Guchhait and Stefano Larentis and Leonard F Register and Emanuel Tutuc and Sanjay K Banerjee",
+            "2015",
+            "7pFvdi0AAAAJ:aqlVkmm33-oC",
+            127,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/acs.nanolett.5b00314",
+            "15398500862571290960",
+            "\/scholar?cites=15398500862571290960",
+            {
+                "2015":4,
+                "2016":20,
+                "2017":31,
+                "2018":21,
+                "2019":18,
+                "2020":29,
+                "2021":4
+            }
+        ],
+        [
+            "We report on low temperature transport studies of Bi2Te3 topological insulator thin films grown on Si(111)-(7\u2009\u00d7\u20097) surface by molecular beam epitaxy. A sharp increase in the magnetoresistance with magnetic field at low temperature indicates the existence of weak anti-localization. The measured weak anti-localization effect agrees well with the Hikami-Larkin-Nagaoka model, and the extracted phase coherence length shows a power-law dependence with temperature indicating the existence of a two-dimensional system. An insulating ground state has also been observed at low temperature showing a logarithmic divergence of the resistance that appears to be the influence of electron-electron interaction in a two-dimensional system.",
+            "Two-dimensional weak anti-localization in Bi2Te3 thin film grown on Si(111)-(7\u2009\u00d7\u20097) surface by molecular beam epitaxy",
+            "Anupam Roy and Samaresh Guchhait and Sushant Sonde and Rik Dey and Tanmoy Pramanik and Amritesh Rai and Hema CP Movva and Luigi Colombo and Sanjay K Banerjee",
+            "2013",
+            "7pFvdi0AAAAJ:qjMakFHDy7sC",
+            60,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.4803018",
+            "12492640010003812350",
+            "\/scholar?cites=12492640010003812350",
+            {
+                "2013":2,
+                "2014":8,
+                "2015":8,
+                "2016":13,
+                "2017":9,
+                "2018":5,
+                "2019":8,
+                "2020":6,
+                "2021":1
+            }
+        ],
+        [
+            "Reflection high-energy electron diffraction (RHEED), scanning tunneling microscopy (STM), vibrating sample magnetometry, and other physical property measurements are used to investigate the structure, morphology, magnetic, and magnetotransport properties of (001)-oriented Cr2Te3 thin films grown on Al2O3(0001) and Si(111)-(7\u00d77) surfaces by molecular beam epitaxy. Streaky RHEED patterns indicate flat smooth film growth on both substrates. STM studies show the hexagonal arrangements of surface atoms. Determination of the lattice parameter from the atomically resolved STM image is consistent with the bulk crystal structures. Magnetic measurements show the film is ferromagnetic, having a Curie temperature of about 180 K, and a spin glass-like behavior was observed below 35 K. Magnetotransport measurements show the metallic nature of the film with a perpendicular magnetic anisotropy along the c \u2026",
+            "Perpendicular magnetic anisotropy and spin glass-like behavior in molecular beam epitaxy grown chromium telluride thin films",
+            "Anupam Roy and Samaresh Guchhait and Rik Dey and Tanmoy Pramanik and Cheng-Chih Hsieh and Amritesh Rai and Sanjay K Banerjee",
+            "2015",
+            "7pFvdi0AAAAJ:qxL8FJ1GzNcC",
+            37,
+            "https:\/\/pubs.acs.org\/doi\/abs\/10.1021\/nn5065716",
+            "8649484676705683814",
+            "\/scholar?cites=8649484676705683814",
+            {
+                "2016":3,
+                "2017":9,
+                "2018":8,
+                "2019":9,
+                "2020":7,
+                "2021":1
+            }
+        ],
+        [
+            "We have studied angle dependent magnetoresistance of Bi2Te3 thin film with field up to 9\u2009T over 2\u201320\u2009K temperatures. The perpendicular field magnetoresistance has been explained by the Hikami-Larkin-Nagaoka theory alone in a system with strong spin-orbit coupling, from which we have estimated the mean free path, the phase coherence length, and the spin-orbit relaxation time. We have obtained the out-of-plane spin-orbit relaxation time to be small and the in-plane spin-orbit relaxation time to be comparable to the momentum relaxation time. The estimation of these charge and spin transport parameters are useful for spintronics applications. For parallel field magnetoresistance, we have confirmed the presence of Zeeman effect which is otherwise suppressed in perpendicular field magnetoresistance due to strong spin-orbit coupling. The parallel field data have been explained using both the contributions \u2026",
+            "Strong spin-orbit coupling and Zeeman spin splitting in angle dependent magnetoresistance of Bi2Te3",
+            "Rik Dey and Tanmoy Pramanik and Anupam Roy and Amritesh Rai and Samaresh Guchhait and Sushant Sonde and Hema CP Movva and Luigi Colombo and Leonard F Register and Sanjay K Banerjee",
+            "2014",
+            "7pFvdi0AAAAJ:Zph67rFs4hoC",
+            27,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.4881721",
+            "12776314208707925315",
+            "\/scholar?cites=12776314208707925315",
+            {
+                "2014":2,
+                "2015":2,
+                "2016":5,
+                "2017":2,
+                "2018":3,
+                "2019":8,
+                "2020":5
+            }
+        ],
+        [
+            "We explore the electrical, optical, and structural properties of fast photoconductors of In0.53Ga0.47As containing a number of different rare-earth arsenide nanostructures. The rare-earth species provides a route to tailor the properties of the photoconductive materials. LuAs, GdAs, and LaAs nanostructures were embedded into InGaAs in a superlattice structure and compared to the relatively well-studied ErAs:InGaAs system. LaAs:InGaAs was found to have the highest dark resistivities, while GdAs:InGaAs had the lowest carrier lifetimes and highest carrier mobility at moderate depositions. The quality of the InGaAs overgrowth appears to have the most significant effect on the properties of these candidate fast photoconductors.",
+            "Growth and properties of rare-earth arsenide InGaAs nanocomposites for terahertz generation",
+            "S. R bank R. Salas and S. Guchhait and S. D. Sifferman and K. M. McNicholas and V. D. Dasika and E. M. Krivoy and D. Jung and M. L. Lee",
+            "2015",
+            "7pFvdi0AAAAJ:qUcmZB5y_30C",
+            24,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.4913611",
+            "2183169658470148835",
+            "\/scholar?cites=2183169658470148835",
+            {
+                "2014":1,
+                "2015":5,
+                "2016":5,
+                "2017":4,
+                "2018":3,
+                "2019":6
+            }
+        ],
+        [
+            "A dynamical method is introduced to study the effect of dimensionality on phase transitions. Direct experimental measurements for the lower critical dimension for spin glasses is provided as an example. The method makes use of the spin glass correlation length \u03be (t, T). Once nucleated, it can become comparable to sample dimensions in convenient time and temperature ranges. Thin films of amorphous Ge: Mn alloys were prepared with thickness L\u2248 15.5 nm. Conventional behavior is observed as long as \u03be (t, T)< L. At the measurement time t co, when \u03be (t co, T)\u2248 L, the time dependence is observed to cross over to exponential. These results are interpreted using spin glass dynamics, and are consistent with a lower critical dimension for spin glasses, d \u2113, between 2< d \u2113< 3.",
+            "Direct Dynamical Evidence for the Spin Glass Lower Critical Dimension ",
+            "Samaresh Guchhait and Raymond Orbach",
+            "2014",
+            "7pFvdi0AAAAJ:KlAtU1dfN6UC",
+            22,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.112.126401",
+            "7341741146335967369",
+            "\/scholar?cites=7341741146335967369",
+            {
+                "2015":6,
+                "2016":1,
+                "2017":4,
+                "2018":3,
+                "2019":3,
+                "2020":4,
+                "2021":1
+            }
+        ],
+        [
+            "We measure the field dependence of spin glass free energy barriers in a thin amorphous Ge: Mn film through the time dependence of the magnetization. After the correlation length \u03be (t, T) has reached the film thickness L= 155 \u00c5 so that the dynamics are activated, we change the initial magnetic field by \u03b4 H. In agreement with the scaling behavior exhibited in a companion Letter [M. Baity-Jesi et al., Phys. Rev. Lett. 118, 157202 (2017)], we find that the activation energy is increased when \u03b4 H< 0. The change is proportional to (\u03b4 H) 2 with the addition of a small (\u03b4 H) 4 term. The magnitude of the change of the spin glass free energy barriers is in near quantitative agreement with the prediction of a barrier model.",
+            "Magnetic field dependence of spin glass free energy barriers",
+            "Samaresh Guchhait and Raymond L Orbach",
+            "2017",
+            "7pFvdi0AAAAJ:HDshCWvjkbEC",
+            18,
+            "https:\/\/journals.aps.org\/prl\/abstract\/10.1103\/PhysRevLett.118.157203",
+            "13697399987357003493",
+            "\/scholar?cites=13697399987357003493",
+            {
+                "2017":2,
+                "2018":4,
+                "2019":5,
+                "2020":5
+            }
+        ],
+        [
+            "Controlling the morphology of inorganic nanocrystals is important because many of their electronic attributes are highly sensitive to shape and aspect ratio. FePt nanocrystals have potential as advanced magnetic materials for ultrahigh-density memory. This is due to their high shape and\/or magnetocrystalline anisotropy, which allows bits as small as 3 nm to be thermally stable over typical data storage periods of 10 years. Herein, nanocrystals were simply fabricated by simultaneous reduction of platinum acetylacetonate and thermal decomposition of iron pentacarbonyl in properly chosen conditions of solvent\/surfactant proportions and temperature for rational design of their shape and magnetic properties. This work has combined magnetometry measurements and micromagnetic simulations to illustrate the role of the external shape on the rotation of the magnetization vector for colloidal assemblies.",
+            "Origin of shape anisotropy effects in solution-phase synthesized FePt nanomagnets",
+            "DA Ferrer and S Guchhait and H Liu and F Ferdousi and C Corbet and H Xu and M Doczy and G Bourianoff and L Mathew and R Rao and S Saha and M Ramon and S Ganguly and JT Markert and SK Banerjee",
+            "2011",
+            "7pFvdi0AAAAJ:9yKSN-GCB0IC",
+            15,
+            "https:\/\/aip.scitation.org\/doi\/abs\/10.1063\/1.3608109",
+            "11613604627780061249",
+            "\/scholar?cites=11613604627780061249",
+            {
+                "2013":2,
+                "2014":1,
+                "2015":6,
+                "2016":3,
+                "2017":1,
+                "2018":1
+            }
+        ],
+        [
+            "We have studied ferromagnetism of Mn-implanted epitaxial Ge films on silicon. The Ge films were grown by ultrahigh vacuum chemical vapor deposition using a mixture of germane (GeH 4) and methylgermane (CH 3 GeH 3) gases with a carbon concentration of less than 1 at.%, and observed surface rms roughness of\u223c 0.5 nm, as measured by atomic force microscopy. Manganese ions were implanted in epitaxial Ge films grown on Si (100) wafers to an effective concentration of\u223c 16, 12, 6, and 2 at.%. Superconducting quantum interference device measurements showed that only the three highest Mn concentration samples are ferromagnetic, while the fourth sample, with [Mn]= 2 at.%, is paramagnetic. X-ray absorption spectroscopy and x-ray magnetic circular dichroism measurements indicate that localized Mn moments are ferromagnetically coupled below the Curie temperature. Isothermal annealing of Mn \u2026",
+            "Ferromagnetism in Mn-implanted epitaxially grown Ge on Si (100)",
+            "S Guchhait and M Jamil and H Ohldag and A Mehta and E Arenholz and G Lian and A LiFatou and DA Ferrer and JT Markert and L Colombo and SK Banerjee",
+            "2011",
+            "7pFvdi0AAAAJ:2osOgNQ5qMEC",
+            14,
+            "https:\/\/journals.aps.org\/prb\/abstract\/10.1103\/PhysRevB.84.024432",
+            "13055977424339124432",
+            "\/scholar?cites=13055977424339124432",
+            {
+                "2011":1,
+                "2012":2,
+                "2013":2,
+                "2014":1,
+                "2015":3,
+                "2016":1,
+                "2017":1,
+                "2018":2,
+                "2019":1
+            }
+        ]
     ]
 }

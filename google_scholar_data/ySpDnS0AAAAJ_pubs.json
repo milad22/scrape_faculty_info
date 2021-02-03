@@ -1,11 +1,39 @@
 {
     "columns":[
-
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
     ],
     "index":[
-
+        0
     ],
     "data":[
-
+        [
+            "Differential scanning calorimetry and a high-speed temperature scanner were used to characterize dynamic features of the reaction between polytetrafluoroethylene (PTFE) and Al2O3 under heating rates ranging between 20 and 780 \u00b0C min\u22121. Exothermic reaction behavior between PTFE and Al2O3 was observed at heating rates of 150 \u00b0C min\u22121 and higher. Thermodynamic calculations predicted an adiabatic temperature of 1,425 K for the PTFE\/Al2O3 stoichiometric ratio. At lower heating rates, endothermic decomposition of PTFE dominated the interaction, where PTFE decomposes into gaseous products that escape the system without interacting with alumina. The enthalpy of the PTFE\u2013Al2O3 exothermic reaction was estimated to be \u2212103 kJ mol\u22121 with activation energy of 21 kJ mol\u22121. This study shows that, for energetic formulation of Al\u2013PTFE, the Al2O3 layer on the aluminum particles can \u2026",
+            "PTFE\u2013Al 2 O 3 reactive interaction at high heating rates",
+            "MA Hobosyan and Kh G Kirakosyan and SL Kharatyan and Karen S Martirosyan",
+            "2015",
+            "ySpDnS0AAAAJ:3fE2CSJIrl8C",
+            33,
+            "https:\/\/link.springer.com\/article\/10.1007\/s10973-014-4080-0",
+            "14950250879334707001",
+            "\/scholar?cites=14950250879334707001",
+            {
+                "2015":1,
+                "2016":2,
+                "2017":7,
+                "2018":6,
+                "2019":6,
+                "2020":10,
+                "2021":1
+            }
+        ]
     ]
 }

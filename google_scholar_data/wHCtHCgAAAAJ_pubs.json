@@ -1,11 +1,178 @@
 {
     "columns":[
-
+        "abstract",
+        "title",
+        "author",
+        "pub_year",
+        "author_pub_id",
+        "num_citations",
+        "pub_url",
+        "cites_id",
+        "citedby_url",
+        "cites_per_year"
     ],
     "index":[
-
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
     ],
     "data":[
-
+        [
+            "Successful path planning and object manipulation in service robotics applications rely both on a good estimation of the robot\u2019s position and orientation (pose) in the environment, as well as on a reliable understanding of the visualized scene. In this paper a robust real-time camera pose and a scene structure estimation system is proposed. First, the pose of the camera is estimated through the analysis of the so-called tracks. The tracks include key features from the imaged scene and geometric constraints which are used to solve the pose estimation problem. Second, based on the calculated pose of the camera, i.e. robot, the scene is analyzed via a robust depth segmentation and object classification approach. In order to reliably segment the object\u2019s depth, a feedback control technique at an image processing level has been used with the purpose of improving the robustness of the robotic vision system with respect \u2026",
+            "Robust camera pose and scene structure analysis for service robotics",
+            "Sorin M Grigorescu and Gigel Macesanu and Tiberiu T Cocias and Dan Puiu and Florin Moldoveanu",
+            "2011",
+            "wHCtHCgAAAAJ:d1gkVwhDpl0C",
+            33,
+            "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0921889011001266",
+            "12900839504690913440",
+            "\/scholar?cites=12900839504690913440",
+            {
+                "2011":1,
+                "2012":5,
+                "2013":8,
+                "2014":6,
+                "2015":1,
+                "2016":2,
+                "2017":5,
+                "2018":3,
+                "2019":1,
+                "2020":1
+            }
+        ],
+        [
+            "The Kalman filters have been widely used for mobile robot navigation and system integration. So that it may operate autonomously, a mobile robot must know where it is. Accurate localization is a key prerequisite for successful navigation in large-scale environments, particularly when global models are used, such as maps, drawings, topological descriptions, and CAD models. The objective of this paper is to implement the Kalman filter (KF) and the extended Kalman Filter (EKF) for determining the position of a mobile robot. Based on the results of the study, from the figures can be seen that despite of the errors present in measurements, the filters can perform quite well in estimating, the robot's true position.",
+            "Mobile robot position estimation using the Kalman filter",
+            "Caius Suliman and Cristina Cruceru and Florin Moldoveanu",
+            "2009",
+            "wHCtHCgAAAAJ:ufrVoPGSRksC",
+            29,
+            "http:\/\/scientificbulletin.upm.ro\/papers\/2009\/Mobile-Robot-Position-Estimation-Using-the-Kalman-Filter.pdf",
+            "16125987433502434415",
+            "\/scholar?cites=16125987433502434415",
+            {
+                "2013":4,
+                "2014":2,
+                "2015":7,
+                "2016":5,
+                "2017":3,
+                "2018":4,
+                "2019":1,
+                "2020":3
+            }
+        ],
+        [
+            "In this paper we have developed a Matlab\/Simulink based model for monitoring a contact in a video surveillance sequence. For the segmentation process and correct identification of a contact in a surveillance video, we have used the Horn-Schunk optical flow algorithm. The position and the behavior of the correctly detected contact were monitored with the help of the traditional Kalman filter. After that we have compared the results obtained from the optical flow method with the ones obtained from the Kalman filter, and we show the correct functionality of the Kalman filter based tracking. The tests were performed using video data taken with the help of a fix camera. The tested algorithm has shown promising results.",
+            "Kalman filter based tracking in an video surveillance system",
+            "Caius Suliman and Cristina Cruceru and Florin Moldoveanu",
+            "2010",
+            "wHCtHCgAAAAJ:2osOgNQ5qMEC",
+            26,
+            "https:\/\/www.academia.edu\/download\/49983251\/Power-Electronics_Issues_of_Modern_Elect20161030-6058-18i4ahx.pdf#page=40",
+            "16735225422349760952",
+            "\/scholar?cites=16735225422349760952",
+            {
+                "2012":1,
+                "2013":1,
+                "2014":7,
+                "2015":4,
+                "2016":6,
+                "2017":3,
+                "2018":2,
+                "2019":2
+            }
+        ],
+        [
+            "The paper describes an optimized GPU based approach for stencil based algorithms. The simulations have been performed for a two dimensional steady state heat conduction problem, which has been solved through the red black point successive over relaxation method. Two kernels have been developed and their performance has been greatly improved through coalesced memory accesses and special shared memory approaches. The approach described in the paper does not only represent a step forward for the steady state heat conduction problem but also for any other algorithm which performs the numerical solution of partial differential equations or which is stencil based. The paper not only describes the various code versions but also the process which has lead to these improvements. Also the optimized GPU code version has been compared with the corresponding CPU version. The testing results \u2026",
+            "GPU optimized computation of stencil based algorithms",
+            "LM Itu and C Suciu and F Moldoveanu and A Postelnicu",
+            "2011",
+            "wHCtHCgAAAAJ:qjMakFHDy7sC",
+            22,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/5993693\/",
+            "14884421068121842467",
+            "\/scholar?cites=14884421068121842467",
+            {
+                "2013":5,
+                "2014":5,
+                "2015":6,
+                "2016":2,
+                "2017":2,
+                "2018":1,
+                "2019":1
+            }
+        ],
+        [
+            "In this paper we present a method for detecting edges in grayscale images. The method is based on the use of a fuzzy classifier. The difference between our method and other similar methods is the use of a morphological operation to thin the obtained edges. Our entire algorithm was implemented in the development\/simulation environment called Matlab. The experiments have shown promising results, we have obtained the desired thickness of the edges.",
+            "A fuzzy logic based method for edge detection",
+            "C Suliman and C Boldisor and R Bazavan and F Moldoveanu",
+            "2011",
+            "wHCtHCgAAAAJ:zYLM7Y9cAGgC",
+            18,
+            "https:\/\/www.researchgate.net\/profile\/Cristian_Boldisor\/publication\/266016706_A_fuzzy_logic_based_method_for_edge_detection\/links\/5593a73608ae16f493ee7877\/A-fuzzy-logic-based-method-for-edge-detection.pdf",
+            "5366263226624531519",
+            "\/scholar?cites=5366263226624531519",
+            {
+                "2011":1,
+                "2012":3,
+                "2013":4,
+                "2014":1,
+                "2015":1,
+                "2016":3,
+                "2017":2,
+                "2018":1,
+                "2019":1
+            }
+        ],
+        [
+            "The application of vector control techniques in AC drives demands accurate position and speed feedback information for the current control and servo-control loops. The paper describes a digital sensorless speed control system for interior permanent magnet synchronous machines (IPMSM). A Kalman filter is used to estimate the mechanical state of the motor. The observer was developed using a nonlinear model of the synchronous motor based on a d-q rotating reference frame attached to the rotor. The stator flux and electromagnetic torque are controlled by nonlinear hysteresis controllers; their outputs are used to generate the control signals for the inverter, based on a switching table. The angular speed controller is linear, of integral + proportional integral (I + PI) type. The paper studies the interaction between the observer and the closed loop control system. The simulation shows that the dynamic behaviour of \u2026",
+            "Sensorless speed and direct torque control of interior permanent magnet synchronous machine based on extended Kalman filter",
+            "Vasile Comnac and Marcian N Cirstea and FLORIN Moldoveanu and DN Ilea and RM Cernat",
+            "2002",
+            "wHCtHCgAAAAJ:u5HHmVD_uO8C",
+            18,
+            "https:\/\/ieeexplore.ieee.org\/abstract\/document\/5730938\/",
+            "3318024172622370951",
+            "\/scholar?cites=3318024172622370951",
+            {
+                "2004":2,
+                "2005":3,
+                "2006":3,
+                "2007":3,
+                "2008":1,
+                "2009":1,
+                "2010":1,
+                "2011":1,
+                "2012":1,
+                "2013":1,
+                "2014":1
+            }
+        ],
+        [
+            "The control of robots, mobile robots and manipulator arms has fascinated control engineers for several decades. Robots are complex mechanical systems with highly nonlinear dynamics. Hence high-performance operation requires nonlinear control designs to fully exploit a robot\u2019s capabilities. After describing the dynamic model for robot, in this paper, we discuss sliding mode control design alternative for the classic trajectory tracking problem, in which the robot is asked to follow a prescribed trajectory. Finally, we will illustrated the control method on a computer simulated example of a two-link robot manipulator.",
+            "Trajectory tracking control of a two-link robot manipulator using variable structure system theory",
+            "Florin Moldoveanu and Vasile Comnac and Dan Floroian and Cristian Boldisor",
+            "2005",
+            "wHCtHCgAAAAJ:IjCSPb-OGe4C",
+            17,
+            "http:\/\/ceai.srait.ro\/index.php?journal=ceai&page=article&op=download&path%5B%5D=165&path%5B%5D=103",
+            "3927907739817338061",
+            "\/scholar?cites=3927907739817338061",
+            {
+                "2008":1,
+                "2009":2,
+                "2010":3,
+                "2011":1,
+                "2012":2,
+                "2013":1,
+                "2014":2,
+                "2015":4,
+                "2016":1
+            }
+        ]
     ]
 }

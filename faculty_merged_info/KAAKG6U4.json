@@ -4,7 +4,8 @@
         "google_scholar_id",
         "titles",
         "abstracts",
-        "interests"
+        "interests",
+        "personal_page_content"
     ],
     "index":[
         0
@@ -14,28 +15,10 @@
             "KAAKG6U4",
             "eo4vpEAAAAAJ",
             [
-                "Phases of holographic superconductors with broken translational symmetry",
-                "Fluctuations in finite density holographic quantum liquids",
-                "Dense Chern-Simons matter with fermions at large N",
-                "Under The Dome: Doped holographic superconductors with broken translational symmetry",
-                "AdS\/CFT and Landau Fermi liquids",
-                "-parameter, technimesons, and phase transitions in holographic tachyon DBI models",
-                "Worldsheet supersymmetry of Pohlmeyer-reduced AdS  n \u2009\u00d7\u2009S  n  superstrings",
-                "Entanglement entropy in\u2019t Hooft model",
-                "Machine learning in sentiment reconstruction of the simulated stock market",
-                "On fast quenches and spinning correlators"
+
             ],
             [
-                "We consider holographic superconductors in a broad class of massive gravity backgrounds. These theories provide a holographic description of a superconductor with broken translational symmetry. Such models exhibit a rich phase structure: depending on the values of the temperature and the disorder strength the boundary system can be in superconducting, normal metallic or normal pseudo-insulating phases. Furthermore the system supports interesting collective excitation of the charge carriers, which appears in the normal phase, persists in the superconducting phase, but eventually gets destroyed by the superconducting condensate. We also show the possibility of building a phase diagram of a system with the superconducting phase occupying a dome-shaped region on the temperature-disorder plane.",
-                "We study correlators of the global U (1) currents in holographic models which involve SYM coupled to the finite density matter in the probe brane sector. We find the spectral density associated with the longitudinal response to be exhausted by the zero sound pole and argue that this could be consistent with the behavior of Fermi liquid with vanishing Fermi velocity. However the transversal response shows an unusual momentum independent behavior. Inclusion of magnetic field leads to a gap in the dispersion relation for the zero sound mode propagating in the plane of magnetic field. For small values of the magnetic field B the gap in the spectrum scales linearly with B, which is consistent with Kohn\u2019s theorem for nonrelativistic fermions with pairwise interaction. We do not find sig-natures of multiple Landau levels expected in Landau Fermi liquid theory. We also consider the influence of generic higher \u2026",
-                "In this paper we investigate properties of Chern-Simons theory coupled to massive fermions in the large N limit. We demonstrate that at low temperatures the system is in a Fermi liquid state whose features can be systematically compared to the standard phenomenological theory of Landau Fermi liquids. This includes matching microscopically derived Landau parameters with thermodynamic predictions of Landau Fermi liquid theory. We also calculate the exact conductivity and viscosity tensors at zero temperature and finite chemical potential. In particular we point out that the Hall conductivity of an interacting system is not entirely accounted for by the Berry flux through the Fermi sphere. Furthermore, investigation of the thermodynamics in the non-relativistic limit reveals novel phenomena at strong coupling. As the\u2019t Hooft coupling \u03bb approaches 1, the system exhibits an extended intermediate temperature regime in \u2026",
-                "We comment on a simple way to accommodate translational symmetry breaking into the recently proposed holographic model which features a superconducting domeshaped region on the temperature-doping phase diagram.",
-                "We study the field theory dual to a charged gravitational background in which the low temperature entropy scales linearly with the temperature. We exhibit the existence of a sound mode which is described by hydrodynamics, even at energies much larger than the temperature, and explain how this, and other properties of the field theory, are consistent with those of a (3+ 1)-dimensional Landau Fermi liquid, finely tuned to the Pomeranchuk critical point. We also discuss how one could engineer a higher-derivative gravitational Lagrangian which reproduces the correct low temperature behavior of shear viscosity in a generic Landau Fermi liquid.",
-                "We investigate some phenomenological aspects of the holographic models based on the tachyon Dirac-Born-Infeld action in anti\u2013de Sitter space-time. These holographic theories model strongly interacting fermions and feature dynamical mass generation and symmetry breaking. We show that they can be viewed as models of holographic walking technicolor and compute the Peskin-Takeuchi S parameter and masses of lightest technimesons for a variety of tachyon potentials. We also investigate the phase structure at finite temperature and charge density. Finally, we comment on the holographic Wilsonian renormalization group in the context of holographic tachyon Dirac-Born-Infeld models.",
-                "As was observed by Grigoriev and Tseytlin, the Pohlmeyer-reduced AdS 2\u00d7 S 2 superstring theory possesses worldsheet supersymmetry. We show, at the classical level, that the AdS 3\u00d7 S 3 and AdS 5\u00d7 S 5 superstring theories in the Pohlmeyer-reduced form reveal hidden and worldsheet supersymmetries. Our consideration is based on the modified mass-deformed gauged WZW action for the superstring equations. We present the explicit form of the supersymmetry transformations for both the off-shell action and the superstring equations. The characteristic feature of these transformations is the presence of non-local terms.",
-                "We use the replica trick approach to calculate, in the large-N limit, the entanglement c-function in two-dimensional quantum chromodynamics with the gauge group U (N) and quark in the fundamental representation (\u2019t Hooft model). We show explicitly that the result is equal to a sum (with certain numerical coefficients) of entanglement c-functions of free massive scalars, which represent mesons in the spectrum of the\u2019t Hooft model. Interestingly, each meson contributes as a pointlike particle. We provide an explanation for why this is the case.",
-                "In this paper we continue the study of the simulated stock market framework defined by the driving sentiment processes. We focus on the market environment driven by the buy\/sell trading sentiment process of the Markov chain type. We apply the methodology of the Hidden Markov Models and the Recurrent Neural Networks to reconstruct the transition probabilities matrix of the Markov sentiment process and recover the underlying sentiment states from the observed stock price behavior. We demonstrate that the Hidden Markov Model can successfully recover the transition probabilities matrix for the hidden sentiment process of the Markov Chain type. We also demonstrate that the Recurrent Neural Network can successfully recover the hidden sentiment states from the observed simulated stock price time series.",
-                "We study global quantum quenches in a continuous field theoretic system with UV fixed point. Assuming that the characteristic inverse time scale of the smooth quench is much larger than all scales inherent to the system except for the UV-cutoff, we derive the universal scaling behavior of the two-point correlation functions associated with Dirac fields and spin-1 currents. We argue that in certain regimes our results can be recovered using the technique of operator product expansion."
+
             ],
             [
                 [
@@ -45,6 +28,9 @@
                     "quantitative finance",
                     "game theory"
                 ]
+            ],
+            [
+                "Mikhail Goykhman Mikhail Goykhman Postdoctoral Researcher goykhman@uchicago.edu"
             ]
         ]
     ]

@@ -4,7 +4,8 @@
         "google_scholar_id",
         "titles",
         "abstracts",
-        "interests"
+        "interests",
+        "personal_page_content"
     ],
     "index":[
         0
@@ -14,10 +15,18 @@
             "JECV64O1",
             "iSQVShsAAAAJ",
             [
-
+                "Single Particle Plasmon Spectroscopy of Silver Nanowires and Gold Nanorods",
+                "Electron-beam mapping of plasmon resonances in electromagnetically interacting gold nanorods",
+                "Relation between quantum tunneling times for relativistic particles",
+                "Mode control in a multimode fiber through acquiring its transmission matrix from a reference-less optical system",
+                "Controlling light transmission through highly scattering media using semi-definite programming as a phase retrieval computation method"
             ],
             [
-
+                "The excitation of surface plasmons in individual silver nanowires and gold nanorods is investigated by means of high-resolution electron energy loss spectroscopy in a transmission electron microscope. The transverse and longitudinal modes of these nanostructures are resolved, and the size variation of the plasmon peaks is studied. The effect of electromagnetic coupling between closely spaced nanoparticles is also observed. Finally, the relation between energy-loss measurements and optical spectroscopy of nanoparticle plasmon modes is discussed.",
+                "Electron energy-loss spectroscopy and energy-filtered transmission electron-microscope imaging are used to characterize the energy distribution of the surface plasmon of isolated and coupled gold nanorods. Local-field enhancement and spectral shift of the plasmon modes are observed for two interacting nanoparticles. The spatial modes measured by energy loss are shown to share qualitative similarities with the electromagnetic field distribution around gold nanorods induced by optical excitation as simulated using the discrete dipole-approximation method.",
+                "A general relation between the phase time (group delay) and the dwell time is derived for relativistic tunneling particles described by the Dirac equation. It is shown that the phase time equals the dwell time plus a self-interference delay which is a relativistic generalization of previous results.",
+                "A simple imaging system, together with complex semidefinite programming, is used to generate the transmission matrix (TM) of a multimode fiber. Once the TM is acquired, we can modulate the phase of the input signal to induce strong mode interference at the fiber output. The optical design does not contain a reference arm, no internal reference signal is used, and no interferometric measurements are required. We use a phase-only spatial light modulator to shape the profile of the propagating modes, and the output intensity patterns are collected. The semidefinite program uses a convex optimization algorithm to generate the TM of the optical system using intensity only measurements. This simple, yet powerful, method can be used to compensate for modal dispersion in multimode fiber communication systems. It also yields great promise for the next generation biomedical imaging, quantum communication, and \u2026",
+                "Complex Semi-Definite Programming (SDP) is introduced as a novel approach to phase retrieval enabled control of monochromatic light transmission through highly scattering media. In a simple optical setup, a spatial light modulator is used to generate a random sequence of phase-modulated wavefronts, and the resulting intensity speckle patterns in the transmitted light are acquired on a camera. The SDP algorithm allows computation of the complex transmission matrix of the system from this sequence of intensity-only measurements, without need for a reference beam. Once the transmission matrix is determined, optimal wavefronts are computed that focus the incident beam to any position or sequence of positions on the far side of the scattering medium, without the need for any subsequent measurements or wavefront shaping iterations. The number of measurements required and the degree of enhancement of \u2026"
             ],
             [
                 [
@@ -27,6 +36,9 @@
                     "Quantum Entanglement",
                     "Biomedical Imaging"
                 ]
+            ],
+            [
+                ""
             ]
         ]
     ]
